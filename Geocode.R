@@ -5,7 +5,7 @@
 library(ggmap)
 library(dplyr)
 library(stringr)
-library(plyr)
+#library(plyr)
 library(tidyr)
 library(forcats)
 
