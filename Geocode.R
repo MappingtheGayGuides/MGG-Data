@@ -99,7 +99,9 @@ write.csv(alldata, "South-Data.csv", row.names=FALSE)
 saveRDS(alldata, "DC-Data.rds")
 
 
-
+dc <- read.csv("4-FullVerifiedDatasets/data-dc.csv")
+south <- read.csv("4-FullVerifiedDatasets/data-south.csv")  
+cali <- 
 
 #create a list of amenities
 amenities <- origAddress %>% select(amenityfeatures)
