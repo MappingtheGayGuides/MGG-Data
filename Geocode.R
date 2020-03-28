@@ -101,7 +101,10 @@ saveRDS(alldata, "DC-Data.rds")
 
 dc <- read.csv("4-FullVerifiedDatasets/data-dc.csv")
 south <- read.csv("4-FullVerifiedDatasets/data-south.csv")  
-cali <- 
-
+cali <- read.csv("4-FullVerifiedDatasets/data-cali.csv")
+#drop unused rows for final dataset
+mergeddata <- rbind(dc, south, cali)
+write.csv(mergeddata, "data.csv")
+saveRDS(mergeddata, "data.rds")
 #create a list of amenities
 amenities <- origAddress %>% select(amenityfeatures)
