@@ -1,7 +1,0 @@
-library(dplyr)
-southerndata <- read.csv(file = "South-1960-1980.csv")
-colnames(southerndata)
-southerndata <- southerndata %>% select(-dateadded, -lastmodified)
-colnames(southerndata)
-write.csv(southerndata, file = "South-1960-1980.csv")
-saveRDS(southerndata, file = "South-1960-1980.rds")
