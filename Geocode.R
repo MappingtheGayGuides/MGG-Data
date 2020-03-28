@@ -7,6 +7,7 @@ library(dplyr)
 library(stringr)
 library(plyr)
 library(tidyr)
+library(forcats)
 
 # Read in CSV
 #origAddress <- read.csv("MGG-App/NGSData/1965.csv", header = TRUE, sep =",", stringsAsFactors = FALSE)
@@ -102,8 +103,22 @@ saveRDS(alldata, "DC-Data.rds")
 dc <- read.csv("4-FullVerifiedDatasets/data-dc.csv")
 south <- read.csv("4-FullVerifiedDatasets/data-south.csv")  
 cali <- read.csv("4-FullVerifiedDatasets/data-cali.csv")
+cali <- cali %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress")
 #drop unused rows for final dataset
 mergeddata <- rbind(dc, south, cali)
+
+
+unique(mergeddata$status)
+mergeddata <- mergeddata %>% mutate(Status_Revised = fct_collapse(status, 
+                                                "Google Verified Location" = "Geocoded",
+                                                "Verified Location" = "Found",
+                                                "Location could not be verified. General city or location coordinates used." = "General City Coordinates Used"))
+unique(mergeddata$Status_Revised)
+mergeddata <- mergeddata %>% select(-"status") 
+mergeddata <- dplyr::rename(mergeddata, status = Status_Revised)
+
+
+
 write.csv(mergeddata, "data.csv")
 saveRDS(mergeddata, "data.rds")
 #create a list of amenities
