@@ -1,0 +1,670 @@
+﻿ID,Title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,dateadded,lastmodified
+1,Flame ,,115 W. Washington ,Ann Arbor,MI,"(R),(M)",Restaurant,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+2,Town Club ,,210 W. Washington ,Ann Arbor,MI,,Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+3,Driftwood ,,97 W. Michigan ,Battle Creek ,MI,(M),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+4,Top Hat ,,50 S. 20th St. ,Battle Creek ,MI,(*),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+5,Barbary Coast ,,2549 Grand Riv,Detroit,MI,"(*),(D)",Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+6,Brass Rail ,,6545 Woodward ,Detroit,MI,(R),Restaurant,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+7,Chez Monti ,,323 E. Larned ,Detroit,MI,(RT),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+8,Circa 1890,,5474 Cass ,Detroit,MI,"(PE),(*)",Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+9,Gold Dollar ,,3127 Cass ,Detroit,MI,"(M),(S),(*)",Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+10,La Rosa's ,,731 Bates ,Detroit,MI,(RT),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+12,Motor Bar ,,18318 Van Dyke,Detroit,MI,(S),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+13,Palais ,,655 Beau Bien ,Detroit,MI,(G),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+14,Silver Star ,,9310 Greenfield,Detroit,MI,,Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+16,Ten-Eleven ,,1011 Farmer ,Detroit,MI,"(*),(SM),(RT)",Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+17,Woodward Lounge ,,6424 Woodward,Detroit,MI,(*),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+18,Golden Spike ,,516 N. Saginaw,Flint,MI,(*),Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+19,Sports Beer Bar ,,517 Brush ,Flint,MI,,Bars/Clubs,1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+22,Columbia Hotel Bar ,,336 E. Michigan ,Kalamazoo,MI,"(M),(PE)","Bars/Clubs,Hotels",1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+24,Wentworth Hotel Bar ,,201 E. Michigan ,Lansing,MI,(M),"Bars/Clubs,Hotels",1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+25,Saginaw Hotel Bar ,,134 N. Baum St. ,Saginaw,MI,(M),"Bars/Clubs,Hotels",1965,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+28,Flame ,,115 W. Washington ,Ann Arbor,MI,(M),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+29,Town Club,,210 W. Washington ,Ann Arbor,MI,"(M),(*)",Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+30,Dirftwood ,,97 W. Michigan ,Battle Creek ,MI,(M),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+31,Top Hat ,,50 S. 20th St. ,Battle Creek ,MI,(*),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+32,Barbary Coast ,,2459 Grand River ,Detroit,MI,"(S),(G),(D),(*)",Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+33,Brass Rail ,,6545 Woodward ,Detroit,MI,(R),Restaurant,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+34,Chez Monti ,,323 E. Larned ,Detroit,MI,"(D),(RT)",Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+35,Circa 1890 ,,5474 Cass ,Detroit,MI,"(PE),(*)",Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+36,Diplomat ,nr. Pingree; no name or number visible; brick front,8540 2nd ,Detroit,MI,(*),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+37,Gold Dollar ,($1 cover) ,3127 Cass,Detroit,MI,"(*),(M),(S)",Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+38,La Rosa's ,,731 Bates ,Detroit,MI,(RT),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+40,Palais ,,655 Beau Bien ,Detroit,MI,(G),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+41,Silver Star ,,9310 Greenfield ,Detroit,MI,,Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+42,S & C Restaurant ,,6521 2nd ,Detroit,MI,(C),Restaurant,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+44,Ten-Eleven ,,1011 Farmer St. ,Detroit,MI,"(S),(*)",Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+45,Woodward Lounge ,,6424 Woodward ,Detroit,MI,(*),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+46,Sports Bar ,,517 Brush ,Flint,MI,(M),Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+48,Red Mill,,41 Division St. ,Grand Rapids,MI,,Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+49,Columbia Hotel Bar ,,336 E. Michigan ,Kalamazoo,MI,"(M),(PE)","Bars/Clubs,Hotels",1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+51,Trophy Room ,,169 Portage ,Kalamazoo,MI,,Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+52,Paul Revere Bar ,(East Lansing),2703 E. Grand River ,Lansing,MI,,Bars/Clubs,1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+53,Saginaw Hotel Bar ,,134 N. Baum St. ,Saginaw,MI,(M),"Bars/Clubs,Hotels",1966,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+56,Flame ,,115 W. Washington ,Ann Arbor,MI,(M),Bars/Clubs,1968,,,,3/9/2020 2:11am,3/28/2020 8:45pm
+57,Town Club ,,210 W. Washington ,Ann Arbor,MI,"(*),(M)",Bars/Clubs,1968,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+59,Saginaw Hotel Bar ,,134 Baum St. ,Saginaw,MI,(M),"Bars/Clubs,Hotels",1968,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+62,Flame ,,115 W. Washington ,Ann Arbor,MI,(M),Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+63,Town Club ,,210 W. Washington ,Ann Arbor,MI,"(M),(*)",Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+64,Driftwood ,,97 W. Michigan ,Battle Creek ,MI,(M),Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+65,Top Hat ,,50 S. 20th St. ,Battle Creek ,MI,(*),Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+66,Barbary Coast ,,2459 Grand River ,Detroit,MI,"(S),(G),(D),(M)",Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+67,Brass Rail ,,6545 Woodward,Detroit,MI,"(R),(M)",Restaurant,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+68,Chez Monti,,323 E. Larned ,Detroit,MI,"(RT),(D),(*)",Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+69,Circa 1890 ,,5474 Cass ,Detroit,MI,,Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+70,Diplomat ,(brick front- no name or number visible nearest cross St. is Pingree) ,8540 2nd ,Detroit,MI,"(*),(YC),(D)",Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+71,Gold Dollar ,($1.00 cover- tourists) ,3127 Cass ,Detroit,MI,"(M),(S),(*)",Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+72,La Rosa's ,,731 Bates ,Detroit,MI,(RT),Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+73,Palais ,,655 Beaubien ,Detroit,MI,(G),Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+75,Silver Star ,,9310 Greenfield ,Detroit,MI,(*),Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+76,S&C ,(after hours),6521 2nd ,Detroit,MI,"(R),(C)",Restaurant,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+78,Ten-Eleven ,,1011 Farmer ,Detroit,MI,"(RT),(*)",Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+79,Traffic Jam ,,511 W. Canfield ,Detroit,MI,,Bars/Clubs,1969,,,,3/9/2020 2:12am,3/28/2020 8:45pm
+81,Twilight Zone ,,9385 Greenfield ,Detroit,MI,,Bars/Clubs,1969,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+82,Woodward Lounge ,(neon usually off),6424 Woodword,Detroit,MI,(*),Bars/Clubs,1969,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+83,Red Mill ,,41 Division St. ,Grand Rapids,MI,,Bars/Clubs,1969,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+84,Colombia Hotel Bar ,,226 E. Michigan ,Kalamazoo,MI,"(M),(PE)","Bars/Clubs,Hotels",1969,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+86,Trophy Room ,,169 Portage ,Kalamazoo,MI,,Bars/Clubs,1969,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+87,Paul Revere Bar ,(E Lansing) ,2703 E. Grand River ,Lansing,MI,,Bars/Clubs,1969,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+89,Saginaw Hotel Bar ,,134 Baum St. ,Saginaw,MI,(M),"Bars/Clubs,Hotels",1969,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+92,Flame ,,115 W. Washington ,Ann Arbor,MI,"(YC),(M)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+93,Town Club ,,210 W. Washington ,Ann Arbor,MI,(M),Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+94,Driftwood ,,97 W. Michigan ,Battle Creek ,MI,(M),Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+95,Top Hat ,,50 S. 20th St. ,Battle Creek ,MI,(*),Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+96,Blue Ribbon ,,500 1st Ave. ,Bay City ,MI,,Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+97,Barbary Coast ,(Moving in '69 - two blocks north) ,2459 Grand River ,Detroit,MI,"(S),(G),(D)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+98,Blue Crest ,,5474 Cass,Detroit,MI,,Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+99,Brass Rail ,,6545 Woodward ,Detroit,MI,"(R),(M)",Restaurant,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+100,Compound ,(After hours) ,8344 2nd ,Detroit,MI,"(YC),(C),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+101,Diplomat ,(brick front no name or number visible- nearest cross st. is Pingree) ,8540 2nd,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+102,Eddy's Bar ,,6642 E. Lafayette ,Detroit,MI,"(D),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+103,Escape Lounge ,,15606 Joy at Greenfield ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+104,Foster's Chez Lounge ,,323 E. Larned ,Detroit,MI,"(B),(RT),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+105,Gold Dollar ,($1.00 adm. tourists) ,3127 Cass ,Detroit,MI,"(M),(S),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+106,La Rosa ,,731 Bates ,Detroit,MI,(RT),Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+107,Palais ,,655 Beaubien ,Detroit,MI,(G),Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+108,Pink Lady ,,8323 Linwood ,Detroit,MI,"(G),(M)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+110,Silver Star ,,9310 Greenfield ,Detroit,MI,,Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+112,Ten-Eleven ,,1011 Farmer ,Detroit,MI,"(RT),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+115,Twilight Zone ,,9385 Greenfield ,Detroit,MI,,Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+116,Woodward Lounge ,(neon usually off can enter thru parking lot in rear) ,6424 Woodward ,Detroit,MI,(*),Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+117,New State Bar ,,2513 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+118,Sub's Inn ,,517 Brush ,Flint,MI,"(G),(RT)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+119,Smitty's ,,100 Washington ,Grand Haven ,MI,,Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+120,Snug Harbor ,,311 S. Water ,Grand Haven ,MI,,Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+121,Red Mill ,,41 Division ,Grand Rapids,MI,,Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+122,Columbia Hotel Bar ,,336 E. Michigan ,Kalamazoo,MI,"(M),(PE)","Bars/Clubs,Hotels",1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+123,Paul Revere Bar ,(E. Lansing) ,2703 E. Grand River ,Lansing,MI,"(YC),(M)",Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+125,Adams Hotel Bar ,,203 S. Front ,Marquette,MI,(M),"Bars/Clubs,Hotels",1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+126,Dutch's ,,517 Lapeer ,Saginaw,MI,(G),Bars/Clubs,1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+127,Saginaw Hotel Bar ,,134 Baum ,Saginaw,MI,(M),"Bars/Clubs,Hotels",1970,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+130,Flame ,,115 W. Washington ,Ann Arbor,MI,"(YC),(M)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+131,Town Club ,,210 W. Washington ,Ann Arbor,MI,(M),Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+132,Driftwood ,,97 W. Michigan ,Battle Creek ,MI,(M),Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+133,Top Hat ,,50 So. 20th St. ,Battle Creek ,MI,(*),Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+134,Blue Ribbon ,,500 1st Ave. ,Bay City ,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+135,Barbary Coast ,,2549 Grand River ,Detroit,MI,"(S),(G),(D),(M),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+136,Blue Crest ,,5474 Cass,Detroit,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+137,Brass Rail ,,6545 Woodward ,Detroit,MI,"(R),(M)",Restaurant,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+138,Climax ,(After hours)(next to Eddy's) ,6642 E. Lafayette ,Detroit,MI,"(C),(YC),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+140,Eddy's Bar ,,6642 E. Lafayette ,Detroit,MI,"(D),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+141,Eight Seventy Club ,(Diplomat)(bet. 3rd & Hamilton),870 Six Mile Rd. ,Detroit,MI,"(D),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+142,Escape Lounge ,,15606 Joy at Greenfield ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+143,Foster's Chez Lounge ,,323 E. Larned ,Detroit,MI,"(B),(RT),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+144,Gold Dollar ,(touristy)($1.00 admission),3127 Cass,Detroit,MI,"(M),(S)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+145,Jerry's ,,9385 Greenfield,Detroit,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+146,La Rosa,,731 Bates ,Detroit,MI,(RT),Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+147,Manor Bar ,(Grosse Point),18450 Mack at Manor ,Detroit,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+148,Palais ,,655 Beaubien ,Detroit,MI,(G),Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+149,Pink Lady ,,8323 Linwood ,Detroit,MI,"(G),(M)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+151,Silver Star ,,9310 Greenfield ,Detroit,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+152,Ten-Eleven,,1011 Farmer ,Detroit,MI,"(RT),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+155,Woodward Cocktail bar ,(neon usually off- can enter thru parking lot in rear),6426 Woodward,Detroit,MI,(*),Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+156,Ye Iron Hinge ,(The Hinge),7614 Woodward,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+157,New State Bar ,(Lafayette Tavern),2512 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+158,Sub's Inn ,,517 Brush ,Flint,MI,"(G),(RT)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+159,Smitty's ,,100 Washington ,Grand Haven ,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+160,Snug Harbor ,,311 S. Water ,Grand Haven ,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+161,Red Mill ,,41 Divison ,Grand Rapids,MI,,Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+162,Columbia Hotel Bar ,,336 E. Michigan ,Kalamazoo,MI,(M),"Bars/Clubs,Hotels",1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+163,Paul Revere Bar ,(E. Lansing),2703 E. Grand River ,Lansing,MI,"(YC),(M)",Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+165,Adams Hotel Bar ,,203 S. Front ,Marquette,MI,(M),"Bars/Clubs,Hotels",1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+166,Dutch's,,517 Lapeer ,Saginaw,MI,(G),Bars/Clubs,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+167,Saginaw Hotel Bar ,,134 Baum ,Saginaw,MI,(M),"Bars/Clubs,Hotels",1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+169,Elms Hotel ,,134 Butler ,Sagatuck,MI,(H),Hotels,1971,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+170,Flame ,,115 W. Washington ,Ann Arbor,MI,"(YC),(*)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+171,Blue Ribbon ,,500 1st Ave. ,Bay City ,MI,,Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+172,Auto City Motel ,,660 Stimson,Detroit,MI,(H),Hotels,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+173,Barbary Coast ,,2765 Grand River ,Detroit,MI,(M),Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+174,Belcrest Hotel ,,5440 Cass ,Detroit,MI,(M),"Bars/Clubs,Hotels",1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+175,Bitter Lemon Lounge ,,6307 E. Jefferson ,Detroit,MI,(*),Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+176,Blue Crest ,,5474 Cass ,Detroit,MI,,Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+177,Brass Rail ,,6545 Woodward ,Detroit,MI,(R),Restaurant,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+178,Climax ,(after hours)(back door- next to Eddy's),6642 Lafayette,Detroit,MI,"(YC),(C),(*)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+180,Eddy's Bar ,(weekends only),6642 Lafayette,Detroit,MI,(D),Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+181,Eight-Seventy-Club,(also Bookie's or Gagen's),870 Six Mile Rd. near Hamilton,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+182,Escape Lounge ,,15606 Joy at Greenfield,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+183,Foster's Chez Lounge ,,323 E. Larned ,Detroit,MI,"(B),(RT),(*)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+184,Gold Dollar ,(touristy)($1.00 admission),3127 Cass ,Detroit,MI,"(M),(S)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+185,La Rosa's ,,731 Bates,Detroit,MI,"(B),(RT)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+186,Manor Bar ,(Gross point),18450 Mack at Manor ,Detroit,MI,,Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+187,Morrie's ,(also called Darrel's Place) ,7404 Michigan,Detroit,MI,(S),Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+188,Palais,,655 Beaubien,Detroit,MI,"(G),(RT)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+189,Rathskeller ,Main at 11 Mile Rd. ,,Detroit,MI,"(YC),(M)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+190,Silver Star ,,9310 Greenfield,Detroit,MI,,Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+193,Ten Eleven ,(may be moving to Griswold & State),1001 Farmer ,Detroit,MI,(RT),Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+194,Third Man Lounge ,(bet. 7 & 8 Mile Rds.),19326 Conant,Detroit,MI,,Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+195,Town Pump- Hotel Royal Palm,(go-go boys),2305 Park at Montcalm,Detroit,MI,,"Bars/Clubs,Hotels",1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+196,Trainor's ,(Royal Oak),1627 S. Woodward,Detroit,MI,"(M),(YC)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+197,Woodward Cocktail Lounge ,"(no neon sign, but don't miss it! Can enter thru parking lot in rear)",6426 Woodward ,Detroit,MI,(*),Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+198,Ye Iron Hinge ,(called 'The Hinge'),7614 Woodword,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1972,,,,3/9/2020 2:15am,3/28/2020 8:45pm
+204,New State Bar,(may have closed),2512 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+205,Sub's Inn,,517 Brush,Flint,MI,"(G),(RT)",Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+206,Smitty's ,,100 Washington ,Grand Haven ,MI,,Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+207,Snug Harbor ,,311 S. Water ,Grand Haven ,MI,,Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+208,Show Bar ,(after 9pm),43 S. Division ,Grand Rapids,MI,"(D),(*)",Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+209,Thurman's ,,224 W. Kalamazoo Ave. ,Kalamazoo,MI,"(YC),(M),(R)",Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+210,Paul Revere's Bar ,(E. Lansing),2703 E. Grand River,Lansing,MI,"(YC),(M)",Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+212,Adams Hotel Bar ,,203 S. Front ,Marquette,MI,(M),"Bars/Clubs,Hotels",1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+213,Dutch's ,,517 Lapeer ,Saginaw,MI,(M),Bars/Clubs,1972,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+218,Flame ,,115 W. Washington ,Ann Arbor,MI,"(YC),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+219,Oasis ,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+220,Blue Ribbon ,,500 1st Ave. ,Bay City ,MI,,Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+222,Auto City Motel ,,660 Stimson,Detroit,MI,(H),Hotels,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+223,Barbary Coast ,,2765 Grand River ,Detroit,MI,"(G),(M),(RT)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+224,Belcrest Hotel ,,5440 Cass,Detroit,MI,(M),"Bars/Clubs,Hotels",1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+225,Biff's ,(after hours)(Six Mile Rd.),276 W. McNichols,Detroit,MI,"(M),(R),(C)",Restaurant,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+226,Bitter Lemon Lounge ,,6307 E. Jefferson ,Detroit,MI,,Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+227,Blue Crest ,,5474 Cass,Detroit,MI,,Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+228,Brass Rail ,,6545 Woodword ,Detroit,MI,"(M),(R)",Restaurant,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+229,Club Detroit Baths ,,7646 Woodwood Ave. ,Detroit,MI,(*),Baths,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+232,Eight-Seventy-Club ,(also caled 'Bookies' or Gagen's')(6 mi. Rd.) near Hamilton,870 McNichols ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+233,Escape Lounge ,(Thru arcade in back of shopping center),15606 Joy at Greenfield,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+235,Foster Chez Lounge ,,323 E. Larned,Detroit,MI,"(B),(RT),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+236,Gold Dollar ,(touristy)($1.00 adm.),3127 Cass,Detroit,MI,"(M),(S)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+237,La Rosa's ,(may be closing or moving),731 Bates ,Detroit,MI,"(B),(RT)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+238,Manor Bar,(Gross Pt.),18450 Mack at Manor ,Detroit,MI,(*),Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+239,Morrie's ,(also called 'Darrel's Place'),7404 Michigan ,Detroit,MI,"(YC),(D),(S),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+240,Mr. D's Lounge ,,16127 Hamilton Park ,Detroit,MI,"(G),(R),(D),(*)",Restaurant,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+241,Palais ,,855 Beaubien ,Detroit,MI,"(G),(RT)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+242,Pour Qui Pas ,"(Service Rd. adj. Johhn Lodge Freeway, bet. 6 & 7 Mi. Roads)",18458 James Couzens Hwy. ,Detroit,MI,"(R),(PE),(*)",Restaurant,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+243,Prudential Health Club Baths,,124 W. State Fair ,Detroit,MI,(*),Baths,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+245,Scorpio Club Baths ,(6 mile Rd.),940 McNichols ,Detroit,MI,(P),Baths,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+247,Silver Star ,,9310 Greenfield,Detroit,MI,"(S),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+249,Ted's On The Park ,(after hours),18002 Woodward ,Detroit,MI,"(M),(R),(C),(YC)",Restaurant,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+250,Third Man Lounge ,(bet. 6 & 7 Mi. Rds.),19326 Conant ,Detroit,MI,(G),Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+251,Tiffany's ,,17436 Woodward ,Detroit,MI,"(YC),(W),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+252,Town Pump ,(go go boys) Hotel Royal Palm,2305 Park at Montcalm,Detroit,MI,(RT),"Bars/Clubs,Hotels",1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+253,Trainor's ,(may be moving)(Royal Oak),1627 S. Woodward,Detroit,MI,"(M),(YC)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+255,Uptown Book Store ,,16541 Woodward ,Detroit,MI,,Book Store,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+257,Voyager ,Clifford Hotel ,2452 Clifford ,Detroit,MI,"(SM),(W),(RT),(*)","Bars/Clubs,Hotels",1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+258,Woodward Cocktail Lounge,"(No neon sign, but don't miss it! 'The Woodward' is a Detroit 'institution' of the highest calibre)(Can enter thru parking lot in rear)",6426 Woodward ,Detroit,MI,(*),Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+259,Ye Iron Hinge ,(called 'The Hinge'),7614 Woodward ,Detroit,MI,"(HIP),(YC),(D),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+264,New State Bar ,,2512 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+265,Sub's Inn ,,517 Brush ,Flint,MI,"(G),(RT)",Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+266,Smitty's ,,100 Washington ,Grand Haven ,MI,,Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+267,Snug Harbor,,311 S. Water ,Grand Haven ,MI,,Bars/Clubs,1973,,,,3/11/2020 12:46am,3/28/2020 8:45pm
+268,Knife & Fork ,Pantlind Hotel ,187 Monroe Ave. N.W.,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+270,Papa Joe's ,(after 9 pm),43 S. Division ,Grand Rapids,MI,"(YC),(D),(G)",Bars/Clubs,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+273,Thurman's ,,224 W. Kalamazoo,Kalamazoo,MI,"(M),(YC),(R)",Restaurant,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+275,Paul Revere Bar ,(E. Lansing),2703 E. Grand River ,Lansing,MI,"(M),(YC)",Bars/Clubs,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+277,Stover's Cocktail Lounge ,,812 E. Michigan,Lansing,MI,(M),Bars/Clubs,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+282,Steam Bath Sauna ,,1203 2nd. St. ,Marquette,MI,,Baths,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+283,Dutch's ,,517 Lapeer ,Saginaw,MI,(M),Bars/Clubs,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+285,Edgehill Inn ,,312 Francis ,Saugatuck,MI,(H),Hotels,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+287,Saugatuck Motor Lodge ,(after hours)(Hwy. 31),3219 Blue Star Hwy. ,Saugatuck,MI,"(H),(C),(D),(YC)",Hotels,1973,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+291,Flame ,,115 W. Washington ,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+292,Oasis ,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+293,Blue Ribbon ,,500 1st Ave.,Bay City ,MI,,Bars/Clubs,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+295,Adobe ,(betw. 6 & 7 Mile Roads),19326 Conant ,Detroit,MI,(D),Bars/Clubs,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+296,Auto City Motel ,,660 Stimson,Detroit,MI,(H),Hotels,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+297,Barbary Coast ,,2765 Grand River ,Detroit,MI,"(M),(G),(RT)",Bars/Clubs,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+298,Belcrest Hotel ,,5440 Cass ,Detroit,MI,"(M),(H)",Hotels,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+299,Biff's ,(after hours)(6 Mile Road),276 W. McNichols,Detroit,MI,"(M),(R),(C)",Restaurant,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+302,Brass Rail ,,6545 Woodward Ave. ,Detroit,MI,"(M),(R)",Restaurant,1974,,,,3/11/2020 12:47am,3/28/2020 8:45pm
+304,Club Detroit Baths ,,7646 Woodward Ave. ,Detroit,MI,(*),Baths,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+305,Club Gigi,(Some G),16920 Warren nr. Southfield ,Detroit,MI,"(D),(G),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+306,Conquest ,(Some G),1500 E. State Fair at John R,Detroit,MI,"(D),(G),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+308,Don's Beef & Ale ,(6 mile Road),950 McNichols ,Detroit,MI,"(M),(R)",Restaurant,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+309,Eight-Seventy Club ,(also called 'Bookie's' or 'Gagen's'),870 McNichols nr. Hamilton,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+310,Escape Lounge ,(thru aracade in back of shopping center),15606 Joy at Greenfield,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+311,Famous Door ,,1256 Griswold at State ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+312,Foster Chez Lounge ,,323 E. Larned ,Detroit,MI,"(M),(B),(RT)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+313,Gold Dollar ,(Toursity $1 adm.),3127 Cass,Detroit,MI,"(M),(S)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+314,Interchange Saloon ,(looks promising),1501 Holden at Trumbull,Detroit,MI,"(W),(D)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+316,La Rosa's ,(May be closing or moving),731 Bates ,Detroit,MI,"(B),(RT)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+317,Morrie's ,(weekends*)(also called 'Darrel's Place'),7404 Michigan ,Detroit,MI,"(YC),(D),(S)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+318,Oxford Book Store ,,17530 Woodward,Detroit,MI,,Book Store,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+319,Palasis ,,855 Beaubien ,Detroit,MI,"(G),(RT)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+320,Pourquois Pas ,(Service Road adj. Lodge Fwy. betw. 6 & & Mile Roads),18458 James Couzens Hwy. ,Detroit,MI,"(PE),(R),(*)",Restaurant,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+321,Prudential Health Club Baths ,,124 W. State Fair ,Detroit,MI,(*),Baths,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+323,Roger's Roost ,,1028 W. 7 Mile Rd. ,Detroit,MI,(D),Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+325,Silver Star ,,9310 Greenfield ,Detroit,MI,"(*),(S)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+328,Ted's On The Park ,(After horus) ,18002 Woodward Ave. ,Detroit,MI,"(M),(YC),(R),(C)",Restaurant,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+329,Tiffany's ,(No sign- looks closed but don't miss it! Sunday brunch or 'breakfast at Tiffany's) ,17436 Woodward Ave. ,Detroit,MI,"(W),(YC),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+330,Town Pump,(nude go-go boys) Hotel Royal Palm ,2305 Park at Montcalm ,Detroit,MI,(RT),"Bars/Clubs,Hotels",1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+331,Trainor's ,(may be moving)(Royal Oak) ,1627 S. Woodward Ave. ,Detroit,MI,"(M),(YC)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+332,Trans Lux Theatre ,Woodward at 6 Mile Rd. ,,Detroit,MI,,Theatre,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+333,Trinity Methodist Church,(Metropolitan Community Church),13100 Woodward ,Detroit,MI,,Church,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+334,Uptown Book Store ,,16541 Woodward ,Detroit,MI,,Book Store,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+336,Wood-Six Twin Theatre,,16549 Woodward ,Detroit,MI,,Theatre,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+337,Woodward Cocktail Lounge ,(No neon sign- but don't miss it! 'The Woodward' is a Detroit 'institution' of the higest calibre; now the new 'Woodward II' next door- can enter thru parking lot in rear),6426 Woodward Ave. ,Detroit,MI,,Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+338,Ye Iron Hinge ,(called 'The Hinge'),7614 Woodward Ave. ,Detroit,MI,"(S),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+340,Book Store ,(back room),16541 Woodward,Detroit,MI,Cruisy Area,"Cruising Areas,Book Store",1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+344,State Bar ,,2512 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+345,Smitty's ,,100 Washington ,Grand Haven ,MI,,Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+346,Nug Harbor ,,311 S. Water ,Grand Haven ,MI,,Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+347,Knife & Fork,Pantlind Hotel ,187 Monroe Ave. N.W.,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+348,Oscar's Steak House ,,310 Pearl St. N.W.,Grand Rapids,MI,"(PE),(R),(D),(*)",Restaurant,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+349,Papa Joe's ,(after 9 p.m.),43 S. Divsion,Grand Rapids,MI,"(D),(G),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+350,3 Sons Plus 1 ,,61 S. Divsion,Grand Rapids,MI,"(D),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+353,Thurman's ,,224 W. Kalamazoo,Kalamazoo,MI,"(M),(R),(YC)",Restaurant,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+354,Amy Joy Donut House ,(after hours-inquire locally),,Lansing,MI,"(M),(R),(C)",Restaurant,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+355,Joe Covella's ,,535 E. Michigan,Lansing,MI,"(D),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+356,Paul Revere Bar ,(E. Lansing),2703 E. Grand River,Lansing,MI,"(M),(YC)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+357,Stover's Rustic Village ,,812 E. Michigan,Lansing,MI,,Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+360,Steam Bath Sauna ,,812 E. Michigan,Marquette,MI,(M),Baths,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+361,Crow Bar ,(some G),16 S. Gratiot Ave. ,Mount Clemens,MI,"(G),(YC),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+363,Swinging Door ,,30 E. Terrace St. ,Muskegon,MI,(*),Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+364,Red Fox ,Harrington Hotel ,1026 N. Military,Port Huron,MI,,"Bars/Clubs,Hotels",1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+367,Dutch's ,,517 Lapeer ,Saginaw,MI,(M),Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+369,Blue Tempo Bar ,(adm. charge on weekends) ,349 Culver nr. Griffith,Saugatuck,MI,"(YC),(D),(*)",Bars/Clubs,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+370,Edgehill Inn ,,312 Francis ,Saugatuck,MI,(H),Hotels,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+372,Saugatuck Motor Lodge ,(after hours),3291 Blue Star Hwy. ,Saugatuck,MI,"(H),(C),(D),(YC)",Hotels,1974,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+376,Flame ,,115 W. Washington,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+378,Oasis,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+379,Blue Ribbon ,,500 1st Ave. ,Bay City ,MI,,Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+381,Adobe ,betw. 6 & 7 Mile Roads,19326 Conant ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+382,Akron Health Club Baths,,7530 E. 7 Mile Rd. ,Detroit,MI,,Baths,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+383,Auto City Motel ,,660 Stimson ,Detroit,MI,(H),Hotels,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+384,Bell Crest Hotel ,,5440 Cass ,Detroit,MI,"(M),(H)",Hotels,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+385,Biff's ,(6 mile rd.),276 W. McNichols ,Detroit,MI,"(M),(R),(C),(AH)",Restaurant,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+386,Blue Crest ,,5474 Cass ,Detroit,MI,,Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+387,Brass Rail ,(Some B),6545 Woodward Ave. ,Detroit,MI,"(M),(R),(B)",Restaurant,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+389,Club Detroit Baths ,,7646 Woodward Ave. ,Detroit,MI,(*),Baths,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+390,Club Gigi,(was closed- supposedly re-opening with (YC)(D)),16920 Warren nr. Southfield ,Detroit,MI,"(YC),(D)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+391,Conquest Lounge ,(some G) ,1500 E. State Fair at John R,Detroit,MI,"(D),(G),(*)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+393,Don's Beef & Ale ,(6 mile Rd.),950 McNichols,Detroit,MI,"(M),(R)",Restaurant,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+394,Eight Seventy Club ,(also called 'Bookie's' or 'Gagen's'),870 McNichols nr. Hamilton,Detroit,MI,"(D),(*)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+395,Escape Lounge ,(may ne opening adjoining (R) soon)(thru arcade in back of shopping center) ,15606 Joy at Greenfield,Detroit,MI,"(YC),(D),(R)","Restaurant,Bars/Clubs",1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+396,Famous Door ,,1256 Griswold at State ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+397,Foster's Chez Lounge ,,323 E. Larned ,Detroit,MI,"(M),(B),(RT)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+398,Gold Dollar ,(Touristy - $1 admission),3127 Cass ,Detroit,MI,"(M),(S)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+399,Interchange Saloon ,,1501 Holden at Trumbull ,Detroit,MI,"(W),(SM),(D),(*)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+401,La Rosa's ,(some G)(Closes early),731 Bates ,Detroit,MI,"(B),(RT),(G)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+402,Menjo's ,,928 W. McNichols,Detroit,MI,"(D),(*)",Bars/Clubs,1975,,,,3/11/2020 2:03am,3/28/2020 8:45pm
+403,Morrie's ,(weekends*)(also called 'Darrel's Place'),7404 Michigan,Detroit,MI,"(YC),(D),(S),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+404,Oxford Book Store ,,17530 Woodward ,Detroit,MI,,Book Store,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+405,Palasis,,855 Beaubien ,Detroit,MI,"(G),(RT)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+406,Prudential Health Club Baths ,,124 W. State Fair ,Detroit,MI,(*),Baths,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+408,Silver Star ,,9310 Greenfield,Detroit,MI,"(S),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+411,Ted's on the Park ,,18002 Woodward Ave. ,Detroit,MI,"(M),(YC),(R),(C),(AH)",Restaurant,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+412,Tiffany's ,"(No sign- looks closed, but don't miss it! Sunday brunch or 'breakfast at Tiffany's)",17436 Woodward Ave. ,Detroit,MI,"(W),(YC),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+413,Town Pump ,(nude go-go boys) Hotel Royal Palm,2305 Park at Montcalm,Detroit,MI,(RT),"Bars/Clubs,Hotels",1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+414,Trainor's ,(Royal Oak),1627 S. Woodward ,Detroit,MI,"(M),(YC)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+415,Trinity Methodist Chruch ,(M.C.C),13100 Woodward Ave. ,Detroit,MI,,Church,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+416,Uptown Book Store,,16541 Woodward Ave. ,Detroit,MI,,Book Store,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+417,Uptown Book Store,,16401 W. 8 Mile Rd. ,Detroit,MI,,Book Store,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+418,Wood-Six Twin Theatre ,,16549 Woodward Ave. ,Detroit,MI,,Theatre,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+419,Woodward Cocktail Lounge ,"(No neon sign, but don't miss it! Practically an 'institution', the woodward now has expanded facilities. Can enter thru parking lot in rear)",6426 Woodward Ave. ,Detroit,MI,(*),Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+420,Ye Iron Hinge ,(the 'Hinge') ,7614 Woodward Ave. ,Detroit,MI,"(S),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+422,Book Store (back room),,16541 Woodward ,Detroit,MI,Cruisy Area,"Book Store,Cruising Areas",1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+428,State Bar ,,5212 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+430,Smitty's ,,100 Washington ,Grand Haven ,MI,,Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+431,Knife & Fork ,Pantland Hotel ,187 Monroe Ave. N.W.,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+432,Oscar's Steak House ,,310 Pearl St. N.W.,Grand Rapids,MI,"(PE),(R),(D)",Restaurant,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+433,Papa Joe's ,(some G)(after 9 p.m.),43 S. Division,Grand Rapids,MI,"(D),(G),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+434,3 Sons Plus 1 ,,61 S. Division ,Grand Rapids,MI,"(D),(E),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+439,Joe Covello's ,(Some G),535 E. Michigan ,Lansing,MI,"(D),(S),(G),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+440,Stover's Rustic Village,,812 E. Michigan ,Lansing,MI,,Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+444,Crow Bar ,(some G) ,16 S. Gratoit Ave. ,Mount Clemens,MI,"(YC),(G),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+446,Swinging Door ,,30 E. Terrace St. ,Muskegon,MI,(*),Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+447,Tassi's Ringside Bar ,,125 E. Huron ,Pontiac,MI,,Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+448,"Red Fox, Harrington Hotel ",,1026 N. Military  ,Port Huron,MI,,"Bars/Clubs,Hotels",1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+451,Dutch's ,,517 Lapeer ,Saginaw,MI,(M),Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+453,Blue Tempo Bar ,(adm. charge on weekends) ,349 Culver nr. Griffith,Saugatuck,MI,"(YC),(D),(*)",Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+454,Edgehill Inn ,,312 Francis ,Saugatuck,MI,(H),Hotels,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+456,Saugatuck Motor Lodge ,,3291 Blue Star Hwy. ,Saugatuck,MI,"(H),(*),(YC),(C),(D),(AH)",Hotels,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+459,Wagon Wheel ,Rochester & 16 ,,Troy,MI,,Bars/Clubs,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+462,St. Gregory's Old Catholic Church ,,2801 10th St. ,Wyandotte,MI,,Church,1975,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+463,Flame ,,115 W. Washington,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+467,Adobe ,Betw. 7 & 8 Mile Roads,19326 Conant ,Detroit,MI,"(D),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+468,Akron Health Club,(baths)(nr. Van Dyke),7530 E. 7 Mi. Rd. ,Detroit,MI,,Baths,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+469,Alfie's ,(Ferndale),21468 Woodward,Detroit,MI,"(M),(R),(C),(AH),(WE)",Restaurant,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+470,Bell Crest Hotel ,,5440 Cass ,Detroit,MI,"(M),(H)",Hotels,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+471,Blue Crest ,,5474 Cass,Detroit,MI,"(M),(OC)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+472,Brass Rail ,(Some B),6545 Woodward Ave. ,Detroit,MI,"(M),(R),(OC),(B)",Restaurant,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+474,Club Detroit Baths ,,7646 Woodward ,Detroit,MI,(*),Baths,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+475,Club Gigi,,16920 Warren Nr. Southfield,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+476,Conquest Lounge ,,1500 E. State Fair at John R. ,Detroit,MI,(D),Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+477,Dean's ,Hamilton nr. 6 Mile Road ,,Detroit,MI,"(M),(R)",Restaurant,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+478,Don's Beef & Ale ,(6 mile Road),950 McNichols,Detroit,MI,"(M),(R)",Restaurant,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+479,Eight Seventy Club ,(also called 'Bookies' or 'Gagen's'),870 McNichols nr. Hamilton,Detroit,MI,"(B),(D),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+480,Escape Lounge ,(thru arcade in back of shopping center),15606 Joy at Greenfield,Detroit,MI,(D),Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+481,Famous Door ,,1256 Griswold at State ,Detroit,MI,"(YC),(D)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+482,George Inca Room ,(Some B),13314 Jenkell ,Detroit,MI,"(D),(G),(B)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+483,Gold Dollar ,(touristy- $1.00 adm.),3127 Cass ,Detroit,MI,"(M),(S)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+484,Interchange Saloon ,,1501 Holden at Trumbull ,Detroit,MI,"(W),(SM),(D),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+485,Menjo's ,(Disco),928 E. McNichols,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+486,Oxford Book Store ,,17530 Woodward ,Detroit,MI,,Book Store,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+487,Palais ,(some B) ,855 Beaubien ,Detroit,MI,"(G),(RT),(B)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+488,Prudential Health Club Baths,,124 W. State Fair ,Detroit,MI,,Baths,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+490,Silver Star ,,9310 Greenfield,Detroit,MI,"(OC),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+492,Ted's on the Park ,,18002 Woodward Ave. ,Detroit,MI,"(M),(YC),(R),(C),(AH),(*)",Restaurant,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+493,Tiffany's ,"(No sign- looks closed, but don't miss it! Sunday brunch or 'breakfast at Tiffany's)",17436 Woodward Ave. ,Detroit,MI,"(W),(YC),(*)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+494,Town Pump ,(Some B) Hotel Royal Palm ,2305 Park at Montcalm,Detroit,MI,"(RT),(B)","Bars/Clubs,Hotels",1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+495,Trainer's ,(Royal Oak),1627 S. Woodward Ave. ,Detroit,MI,"(M),(YC)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+496,Trinity Methodist M.C.C.,,13100 Woodward Ave ,Detroit,MI,,Church,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+498,Uptown Book Stores ,,16541 Woodward Ave.,Detroit,MI,,Book Store,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+499,Uptown Book Stores ,,16401 W. 8 Mile Rd. ,Detroit,MI,,Book Store,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+500,Wood-Six Twin Theatre ,,16549 Woodward Ave.,Detroit,MI,,Theatre,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+501,Ye Iron Hinge ,('The Hinge' has (WE) brunch & wild go-go boys on Tues. nights),7614 Woodward Ave. ,Detroit,MI,"(S),(WE)",Bars/Clubs,1976,,,,3/11/2020 8:40pm,3/28/2020 8:45pm
+503,Book Store ,(back room),16541 Woodward Ave. ,Detroit,MI,Cruisy Area,"Cruising Areas,Book Store",1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+507,River Rouge Park ,(HOT),,Detroit,MI,"Cruisy Area,(HOT)",Cruising Areas,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+508,'Six Mile Hustlers',hitch-hikers along Woodward betw. 6 & 7 Mile Roads,,Detroit,MI,Cruisy Area,Cruising Areas,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+509,Wixom 'Rest Area',I-96 E. of Metro Beach,,Detroit,MI,Cruisy Area,Cruising Areas,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+510,State Bar ,,2512 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+511,Area around Herlick's Drug Store ,,610 Detroit St. ,Flint,MI,Cruisy Area,Cruising Areas,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+512,Smitty's ,,100 Washington,Grand Haven ,MI,,Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+513,Knife & Fork- Pantland Hotel,,187 Monroe Ave. N.W.,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+514,Oscar's Steak House ,,310 Pearl St. N.W.,Grand Rapids,MI,"(PE),(R),(D)",Restaurant,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+515,Papa Joe's ,(some G)(after 9 pm),43 S. Division ,Grand Rapids,MI,"(D),(G),(*)",Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+516,3 Sons Plus 1 ,,61 S. Division ,Grand Rapids,MI,"(D),(E),(*)",Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+518,Dunkin' Donuts ,E. Michigan,,Lansing,MI,"(M),(R),(C),(AH)",Restaurant,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+519,Joe Covello's ,(disco)(some G),535 E. Michigan,Lansing,MI,"(D),(S),(G),(*)",Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+520,Stover's Rustic Village ,,812 E. Michigan ,Lansing,MI,,Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+523,Store Saloon ,,201 S. Front St. ,Marquette,MI,"(M),(*)",Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+526,Crow Bar ,(some G),16 S. Gratiot Ave. ,Mount Clemens,MI,"(YC),(G),(*)",Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+528,Liberty Lounge ,,85 N. Saginaw ,Pontiac,MI,(M),Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+529,Tassi's Ringside Bar ,,125 Huron,Pontiac,MI,(M),Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+530,Three Hundred Lounge ,,100 S. Cass Lake Rd. ,Pontiac,MI,"(M),(HIP),(YC),(D),(*)",Bars/Clubs,1976,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+531,Flame ,,115 W. Washington,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+534,Adobe ,between 7 & 8 Mile Roads,19326 Conant ,Detroit,MI,"(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+536,Akron Health Club ,(Baths) near Van Dyke,7530 E. 7 Mile Road ,Detroit,MI,,Baths,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+537,Blue Boy ,(go-go boys),1500 E. State Fair at John R,Detroit,MI,"(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+538,Brass Rail ,(some B),6545 Woodward Avenue,Detroit,MI,"(M),(R),(OC),(B)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+539,Casbah,,14701 Plymouth at Hubble ,Detroit,MI,"(G),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+540,Club Detroit Baths ,(upstairs),7646 Woodward Avenue ,Detroit,MI,"(YC),(*)",Baths,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+541,Club Gigi,(use back door)near Southfield,16920 Warren ,Detroit,MI,"(R),(YC),(D),(*)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+542,Dean's ,near 6 Mile Road ,16516 Hamilton,Detroit,MI,"(M),(R)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+543,Don's Beef & Ale ,(6 Mile Road),950 McNichols,Detroit,MI,"(M),(R)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+544,Eight Seventy Club ,(Also called 'Bookies' or 'Gagen's') near Hamilton,870 McNichols,Detroit,MI,"(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+545,Escape Lounge ,(Some B)(arcade in back of shopping center),15606 Joy at Greenfield,Detroit,MI,"(M),(D),(B),(YC)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+546,Famous Door,,1256 Griswold at State ,Detroit,MI,"(B),(YC),(D)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+547,Gas Station ,(Disco)(Teenie-boppers),19106 Woodward Avenue ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+548,Gold Coast ,(Some G)(Disco),2971 East 7 Mile Road ,Detroit,MI,"(YC),(G),(D),(WE),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+549,Gold Dollar ,(Touristy),3127 Cass ,Detroit,MI,"(M),(S)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+550,Interchange Saloon ,(Some FFA),1501 Holden at Trumbull,Detroit,MI,"(SM),(W),(*),(PT),(FFA),(D)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+551,Menjo's ,(Disco),928 W. McNichols,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+552,Oxford Book Store ,,17530 Woodward Avenue ,Detroit,MI,,Book Store,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+553,Palais ,(Some B),855 Beaubien,Detroit,MI,"(RT),(G),(B)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+554,Prudential Health Club Baths ,,124 West State Fair,Detroit,MI,(*),Baths,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+555,Silver Star ,,9310 Greenfield,Detroit,MI,"(OC),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+556,Six Mile Theatre ,,16525 Woodwood at 6 Mile Road,Detroit,MI,,Theatre,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+557,Stephen's Saloon,"(Tiffany's)(No sign- looks closed, but don't miss it! Sunday brunch or 'breakfast at Tiffany's)",17436 Woodward Ave. ,Detroit,MI,"(W),(YC),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+558,Ted's on the Park ,,18002 Woodward Ave.,Detroit,MI,"(M),(YC),(R),(C),(AH)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+559,Todd's ,near Van Dyke ,8139 E. Seven Mile Road ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+560,Town Pump ,(some B)Hotel Royal Palm,2305 Park at Montcalm,Detroit,MI,"(RT),(B)","Bars/Clubs,Hotels",1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+561,Trinity Methodist M.C.C.,,13100 Woodward Avenue ,Detroit,MI,,Church,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+562,Uptown Book Stores,,16549 Woodward Avenue ,Detroit,MI,,Book Store,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+563,Uptown Book Stores,,16401 Woodward Avenue ,Detroit,MI,,Book Store,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+564,Wood Six Twin Theatre ,,16549 Woodward Avenue ,Detroit,MI,,Theatre,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+565,Woodward Cocktail Lounge ,(no neon sign but don't miss it!! Enter though parking lot in rear),6426 Woodward Ave. ,Detroit,MI,(R),Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+566,Ye Iron Hinge,(Called 'The Hinge'- (WE- Brunch)(wild go-go boys on Tuesday nights),7614 Woodward Ave. ,Detroit,MI,"(S),(WE)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+567,Book Store ,('Wild back room'),16541 Woodward Ave. ,Detroit,MI,Cruisy Area,"Cruising Areas,Book Store",1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+573,Henry's Club Oasis ,(Disco),408 S. Center Rd. ,Flint,MI,"(D),(YC),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+574,State Bar ,,2512 S. Dort Highway ,Flint,MI,"(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+575,Area around Herlick's Drug Store,,610 Detroit Street ,Flint,MI,"(B),(RT),Cruisy Area",Cruising Areas,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+577,Smitty's ,,100 Washington,Grand Haven ,MI,,Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+578,Carousel ,(Disco),8 Ionia ,Grand Rapids,MI,"(YC),(D),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+579,Knife & Fork ,Pantland Hotel ,187 Monroe Avenue Northwest,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+580,Oscar's Steak House ,,310 Pearl Street Northwest ,Grand Rapids,MI,"(M),(PE),(R)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+581,Papa Joe's ,(late nights),43 S. Divsion ,Grand Rapids,MI,"(G),(D)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+582,3 Sons Plus 1 ,,61 S. Division ,Grand Rapids,MI,"(D),(E),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+585,Skiles Tavern ,,154 E. 8th at Colombia ,Holland,MI,"(M),(YC)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+586,Bill & Joe's Bar ,,150 W. Michigan Avenue ,Jackson,MI,(*),Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+587,Jack Thurman's ,,224 W. Kalamazoo,Kalamazoo,MI,"(M),(R)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+589,Denny's ,,2710 E. Grand River,Lansing,MI,"(M),(R),(C),(AH)",Restaurant,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+590,E. Michigan Avenue Adult Book Store,,519 E. Michigan Avenue ,Lansing,MI,,Book Store,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+591,Joe Covello's ,(Disco)(Some G),535 E. Michigan Avenue ,Lansing,MI,"(YC),(D),(G),(*)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+592,Stober's ,(Disco),812 E. Michigan Ave. ,Lansing,MI,"(M),(B),(D)",Bars/Clubs,1977,,,,3/11/2020 11:46pm,3/28/2020 8:45pm
+595,Steam Bath Sauna,(Saturday afternoon only),1203 2nd Avenue ,Marquette,MI,(M),Bars/Clubs,1977,,,,3/11/2020 11:47pm,3/28/2020 8:45pm
+596,Store Saloon ,,201 S. Front Street ,Marquette,MI,"(M),(*)",Bars/Clubs,1977,,,,3/11/2020 11:47pm,3/28/2020 8:45pm
+598,Bar 69 ,(Best late) ,69 Macomb Street,Mount Clemens,MI,"(M),(*)",Bars/Clubs,1977,,,,3/11/2020 11:47pm,3/28/2020 8:45pm
+599,Crow Bar ,,16 S. Gratiot Avenue ,Mount Clemens,MI,"(G),(RT)",Bars/Clubs,1977,,,,3/11/2020 11:47pm,3/28/2020 8:45pm
+601,New Northway Bowling Lanes Lounge ,(Back bar- enter thru swinging door off alley in rear),1751 E. Evanston,Muskegon,MI,,Bars/Clubs,1977,,,,3/11/2020 11:47pm,3/28/2020 8:45pm
+602,Liberty Lounge ,,85 N. Saginaw,Pontiac,MI,(M),Bars/Clubs,1977,,,,3/11/2020 11:47pm,3/28/2020 8:45pm
+604,Tassi's Ringside Bar ,,125 E. Huron ,Pontiac,MI,"(M),(HIP),(*)",Bars/Clubs,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+605,Three Hundred Lounge ,,100 S. Cass Lake Road ,Pontiac,MI,"(M),(HIP),(YC),(D),(*)",Bars/Clubs,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+607,"""Rest Stop""- South on I-75",,,Pontiac,MI,Cruisy Area,Cruising Areas,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+608,Red Fox ,(Harrington Hotel),1026 N. Military ,Port Huron,MI,(M),"Bars/Clubs,Hotels",1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+612,Dutch's ,,1742 E. Genesee,Saginaw,MI,(*),Bars/Clubs,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+616,Hilltop Inn ,,312 Francis,Saugatuck,MI,(H),Hotels,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+618,Saugatuck Lodge & Lounge ,"P.O. Box 406, Saugatuck, Michigan 49453 Telephone:(616)857-4269 or, in Chicago, Illinois, (312) 929-0001",3219 Blue Star Highway ,Saugatuck,MI,"(P),(H),(*),(C),(YC),(D),(AH)",Hotels,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+619,Toadsville,(adm. WE & Holidays),349 Culver nr. Griffith,Saugatuck,MI,"(YC),(D),(*)",Bars/Clubs,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+622,Flame Number 1 ,,3364 Rochester Road ,Troy,MI,"(M),(R),(C),(AH)",Restaurant,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+623,Wagon Wheel ,,2050 Rochester Road ,Troy,MI,(M),Bars/Clubs,1977,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+627,Flame ,,115 W. Washington,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+628,Rubayat,(Disco)(Tues. & Thurs. only*),102 So. 1st St. Ave.,Ann Arbor,MI,"(YC),(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+632,Amigas ,(Disco) betw. 7 & 8 Mile Roads,19326 Conant,Detroit,MI,"(G),(D),(WE),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+634,Akron Health Club ,(baths),7530 E. 7 Mile Rd. nr Van Dyke,Detroit,MI,,Baths,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+635,Bourbon East ,,12310 Van Dyke ,Detroit,MI,,Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+636,Brass Rail ,(Some B),6545 Woodward Ave. ,Detroit,MI,"(M),(R),(OC),(B)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+637,Casbah,,14701 Plymouth at Hubble ,Detroit,MI,"(G),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+638,Club Detroit Baths ,(Upstairs),7646 Woodward Ave. ,Detroit,MI,"(YC),(*)",Baths,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+639,Club Gigi,(Use back door),16920 Warren nr. Southfield,Detroit,MI,"(R),(YC),(D),(*)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+640,Cove ,(Cruisy)(Sunday brunch*)(6 mile rd.),950 McNichols,Detroit,MI,"(R),(*),Cruisy Area","Restaurant,Cruising Areas",1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+641,Dean's ,nr. 6 Mile Rd. ,16516 Hamilton ,Detroit,MI,"(M),(R)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+642,Eight Seventy Club ,(also called 'Bookie's' or 'Gagen's'),870 McNichols nr. Hamilton,Detroit,MI,"(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+643,Escape Lounge ,(Some B)(Disco)(Arcade in back of shopping center),15606 Joy at Greenfield,Detroit,MI,"(YC),(B),(D)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+644,Famous Door ,,1256 Griswold at State,Detroit,MI,"(B),(YC),(D)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+645,Gas Station ,(disco),19106 Woodward ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+646,Gold Coast ,(go go boys & girls)(disco),2971 E. 7 Mile Rd. ,Detroit,MI,"(YC),(D),(WE),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+647,Gold Dollar ,(Touristy),3127 Cass,Detroit,MI,"(M),(S)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+648,Interchange ,(Some FFA),1501 Holden at Trumbull,Detroit,MI,"(SM),(W),(FFA),(PT),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+649,Les's Place ,,10015 Chalmers,Detroit,MI,,Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+650,Menjo's ,(Disco),928 W. McNichols,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+651,Mount Chalet ,(Closed Mondays),14000 W. McNichols,Detroit,MI,(D),Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+652,Oxford Book Store,,17530 Woodward Ave. ,Detroit,MI,,Book Store,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+653,Prudential Health Club Baths,,124 W. State Fair ,Detroit,MI,(*),Baths,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+654,Sand Bar ,,10151 E. Jefferson ,Detroit,MI,,Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+655,Silver Star ,,9310 Greenfield,Detroit,MI,"(OC),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+656,Six Mile Theatre ,,16525 Woodward Ave. ,Detroit,MI,,Theatre,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+657,Stephen's Saloon,"(No sign- looks closed, but don't miss it! Sunday brunch or 'breakfast at Tiffany's)",17436 Woodward Ave. ,Detroit,MI,"(W),(YC),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+658,Ted's on the Park ,,18002 Woodward Ave.,Detroit,MI,"(M),(YC),(R),(AH)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+659,Todd's Sway Lounge ,,8139 E. 7 Mile Rd. Nr. Van Dyke,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+660,Trinity Methodist (M.C.C),,13100 Woodward Ave. ,Detroit,MI,,Church,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+661,Uptown Book Stores ,,16549 Woodward Ave. ,Detroit,MI,,Book Store,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+662,Uptown Book Stores ,,16401 Woodward Ave. ,Detroit,MI,,Book Store,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+663,Wood Six Twin Theatre,,16549 Woodward Ave. ,Detroit,MI,,Theatre,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+664,Woodward Cocktail Lounge,(no neon sign but don't miss it!! Enter though parking lot in rear),6426 Woodward Ave. ,Detroit,MI,"(R),(*)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+665,Book Store ,('Wild back room'),16541 Woodward Ave. ,Detroit,MI,Cruisy Area,"Book Store,Cruising Areas",1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+671,Henry's Club Oasis,(disco),408 So. Center Rd. ,Flint,MI,"(YC),(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+672,State Bar ,,2512 So. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+674,Smitty's ,,100 Washington,Grand Haven ,MI,,Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+675,Carousel ,(Disco)(occ. S)(Game room),8 Ionia ,Grand Rapids,MI,"(*),(D),(R),(PT),(S)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+676,Knife & Fork ,Pantland Hotel ,187 Monroe Ave. N.W.,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+677,Papa Joe's ,(many G),43 So. Division,Grand Rapids,MI,"(G),(D),(PT),(RT)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+678,3 Sons Plus 1,(cruisy),61 So. Division,Grand Rapids,MI,"(YC),(*),(D),(PT),Cruisy Area",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+682,Skiles Tavern ,,154 E. 8th at Colombia,Holland,MI,"(M),(YC)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+683,Bill & Joe's Bar ,,150 W. Michigan Ave. ,Jackson,MI,,Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+684,Jack Thurman's ,,224 W. Kalamazoo,Kalamazoo,MI,"(M),(R)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+686,Bonnie & Clyde's ,"(M- now, but may become the new 'in' place)",316 E. Michigan ,Lansing,MI,"(M),(D),(YC)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+687,Denny's,,2710 E. Grand River,Lansing,MI,"(M),(R),(C),(AH)",Restaurant,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+688,E. Michigan Ave. Adult Books ,,519 E. Michigan Ave. ,Lansing,MI,(M),Book Store,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+689,Joe Covello's ,(Some G),535 E. Michigan,Lansing,MI,"(OC),(D),(G),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+690,Trammpp's ,(Disco),523 E. Michigan Ave. ,Lansing,MI,"(YC),(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+691,Tom & Jerry Theatre,,3214 N. East St. ,Lansing,MI,,Theatre,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+693,Steam Bath Sauna ,(Sat. afternoons only),1203 2nd Ave. ,Marquette,MI,(M),Baths,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+695,Bar 69 ,(best late),69 Macomb St. ,Mount Clemens,MI,(M),Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+696,Crow Bar ,(Some G),16 So. Gratiot Ave. ,Mount Clemens,MI,"(G),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+697,Metropolitan Beach ,So. End,,Mount Clemens,MI,Cruisy Area,Cruising Areas,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+698,Eagles Nest ,(Disco)('Tops' in the area),3236 Hoyt ,Muskegon,MI,"(*),(YC),(D)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+700,Liberty Lounge ,,85 No. Saginaw ,Pontiac,MI,(M),Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+701,Tassi's Ringside Bar ,,125 E. Huron ,Pontiac,MI,"(M),(HIP),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+702,Three Hundred Lounge ,,100 S. Cass Lake Rd. ,Pontiac,MI,"(M),(YC),(D),(*)",Bars/Clubs,1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+705,Red Fox,Harrington Hotel ,1026 No. Military ,Port Huron,MI,(M),"Bars/Clubs,Hotels",1978,,,,3/12/2020 6:09pm,3/28/2020 8:45pm
+708,Pine Grove Park ,,,Port Huron,MI,Cruisy Area,Cruising Areas,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+709,Club Jules ,off Genesee (Disco) ,907 Janes,Saginaw,MI,"(YC),(D),(*)",Bars/Clubs,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+710,Dutch's ,,1742 E. Genesee ,Saginaw,MI,"(PT),(*)",Bars/Clubs,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+719,Hitching Post ,,209 W. Portage ,Sault Ste. Marie,MI,(M),Bars/Clubs,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+720,N.D.J. Enterprises ,(Books),126 Ridge St. ,Sault Ste. Marie,MI,,Book Store,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+721,Elephant Disco ,,115 E. Long Lake Rd. ,Troy,MI,"(M),(YC)",Bars/Clubs,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+722,Flame No. 1 ,,3364 Rochester Rd. ,Troy,MI,"(M),(R),(C),(AH)",Restaurant,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+723,Wagon Wheel ,,2950 Rochester Rd. ,Troy,MI,(M),Bars/Clubs,1978,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+728,Flame ,,115 W. Washington ,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+729,Rubayat ,(Some G)(Disco)(Tues. thru Sat),102 S. 1st St. ,Ann Arbor,MI,"(YC),(G),(D),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+732,Three Knights Inn ,Big Rapids Motel ,1010 S. State St. ,Big Rapids,MI,"(M),(YC),(WE)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+736,Amigas Club ,(Disco) betw. 7 & 8 Mile Roads ,19326 Conant ,Detroit,MI,"(G),(D)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+737,Bar Harlequin ,,10015 Chalmers,Detroit,MI,,Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+738,Bookie's Club 870 ,(also called 'Gagens' or 'Deco Disco')(Some B),870 McNichols nr. Hamilton,Detroit,MI,"(D),(B)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+739,Brass Rail ,(some B) ,6545 Woodward Ave. ,Detroit,MI,"(M),(R),(B),(OC)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+740,Cafe Gigi's ,(use rear entrance),16920 W. Warren nr. Southfield,Detroit,MI,"(R),(YC),(D),(*)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+741,Casbah,,14701 Plymouth at Hubble ,Detroit,MI,"(G),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+742,Club Detroit Baths ,(Upstairs) ,7646 Woodward Ave. ,Detroit,MI,"(YC),(*)",Baths,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+743,Club Fever ,(Fri. & Sat.)(1 a.m. to 6 a.m.)(rear entrance),248 W. McNichols,Detroit,MI,(AH),Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+744,Cove ,(Sun. brunch)(Cruisy)(6 Mile Road),950 McNichols,Detroit,MI,"(R),Cruisy Area,(*)","Restaurant,Cruising Areas",1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+745,Deck ,(Opens 12 noon),14901 E. Jefferson,Detroit,MI,,Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+746,Dignity Detroit ,(Catholic organ.),2846 17th St. ,Detroit,MI,,Church,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+747,Escape Disco Lounge,"(Thru. arcade in back of shopping center)(Some YC, G)",15606 Joy at Greenfield,Detroit,MI,"(*),(D),(YC),(G)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+748,Famous Door ,(Closed Sun.)(Disco),1256 Griswold at State ,Detroit,MI,"(B),(YC),(D),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+749,Foof's Down Under ,(looks promising),16920 W. Warren ,Detroit,MI,(S),Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+750,Gas Station ,(Disco)(enter thru rear parking lot),19106 Woodward Ave. ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+751,Gold Coast ,(go go boys)(Disco) ,2971 E. 7 Mile Road,Detroit,MI,"(*),(YC),(D)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+752,Gold Dollar Show Bar ,(touristy)(Adm.),3127 Cass ,Detroit,MI,"(M),(S)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+753,Golden Bird ,,18458 James Couzens,Detroit,MI,"(B),(YC),(D),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+754,Interchange,"(Some SM, W, FFA)",1501 Holden at Trumbull,Detroit,MI,"(*),(SM),(W),(FFA),(PT)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+755,La Palais Bar ,(Some B),655 Beaubien,Detroit,MI,"(RT),(G),(B)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+756,M.C.C.,,45 E. Adams,Detroit,MI,,Church,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+757,Menjo's ,,928 W. McNichols,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+758,My Fair Lady ,(A Dancery) Indian Village,7909 Jefferson at Van Dyke,Detroit,MI,"(YC),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+759,Other Side ,(Disco) ,14336 E. Warren ,Detroit,MI,"(B),(YC),(D)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+760,Oxford Book Store,,17530 Woodward Ave. ,Detroit,MI,,Book Store,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+761,Paradiso Lounge ,,17360 Woodward Ave. ,Detroit,MI,,Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+762,Park Avenue Baths ,(Best days) ,2027 Park ,Detroit,MI,,Baths,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+763,Prudential Health Club Baths ,,124 W. State Fair ,Detroit,MI,(*),Baths,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+764,Rhinoceros ,(Opening Fall '78),265 Riopelle,Detroit,MI,(R),Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+765,Silver Star ,,9310 Greenfield,Detroit,MI,(*),Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+766,Six Mile Theatre ,,16525 Woodward Ave. ,Detroit,MI,,Theatre,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+767,Stephen's Saloon,"(No sign- looks closed, but don't miss it! Sunday brunch or 'breakfast at Tiffany's)",17436 Woodward Ave.,Detroit,MI,"(W),(YC),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+768,Ted's on the Park ,,18002 Woodward Ave. ,Detroit,MI,"(M),(YC),(R),(AH)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+769,Todd's Sway Lounge ,,8139 E. 7 Mile Road ,Detroit,MI,"(*),(YC),(D)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+770,Underground ,,15535 W. 8 Mile Rd. ,Detroit,MI,(D),Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+771,Uptown Book Stores ,,16549 Woodward,Detroit,MI,(*),Book Store,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+772,Uptown Book Stores ,,16401 Woodward ,Detroit,MI,,Book Store,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+773,Wayman's Lounge ,(Lunch)(Disco)(Some B),1244 Randolph at Macomb,Detroit,MI,"(R),(D),(B)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+774,Wood Six Twin Theatre,,16549 Woodward Ave. ,Detroit,MI,,Theatre,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+775,Woodward Cocktail Lounge,(no sign but don't miss it!! Enter though parking lot in rear),6426 Woodward Ave. ,Detroit,MI,"(*),(R)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+781,Henry's Club Oasis ,(Disco),408 S. Center Rd. ,Flint,MI,"(M),(YC),(D)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+782,Lemon Tree Lounge ,(Disco)(Some G),2545 Grand Traverse,Flint,MI,"(D),(R),(PT),(*),(G)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+783,State Bar ,('Long established'),2512 S. Dort Hwy. ,Flint,MI,"(D),(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+784,The Department Store ,(Disco) Adj. Downtowners Club (Days),510 S. Saginaw,Flint,MI,"(D),(*),(M)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+785,Wally's ,,1341 Center Road ,Flint,MI,"(M),(R),(C),(AH)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+787,Smitty's ,,100 Washington,Grand Haven ,MI,(M),Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+788,Carousel ,(Disco)(Game room- PT)(occ. S),8 Ionia ,Grand Rapids,MI,"(D),(R),(PT),(S)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+790,Knife & Fork ,Pantland Hotel ,187 Monroe Ave. N.W.,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+791,Papa Joe's ,"(Some G, RT)",43 S. Division,Grand Rapids,MI,"(G),(RT),(PT),(D)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+792,3 Sons Plus 1 ,"(Some YC, W, SM)(Cruisy)",61 S. Division,Grand Rapids,MI,"(YC),(W),(SM),(D),(PT),Cruisy Area,(*)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+795,Veteran's Memorial Park ,opp. Y.M.C.A.,,Grand Rapids,MI,Cruisy Area,Cruising Areas,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+796,Skiles Tavern,,154 E. 8th ,Holland,MI,"(M),(YC)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+797,Bill & Joe's Bar ,,150 W. Michigan Ave. ,Jackson,MI,,Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+798,"Hamilton, Ltd.",(books),1913 W. Main ,Kalamazoo,MI,,Book Store,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+799,Unicorn ,"(looks promising)Located in Portage, a suburb",,Kalamazoo,MI,,Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+800,Capitol News ,"(books, 'peep shows' & cruisy aracade)",532 E. Michigan ,Lansing,MI,Cruisy Area,"Book Store,Cruising Areas",1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+801,Denny's ,,2710 E. Grand River ,Lansing,MI,"(M),(R),(C),(AH)",Restaurant,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+802,Joe Covello's ,"(Disco)(Some G, W, YC, OC, something for everyone)",535 E. Michigan Ave.,Lansing,MI,"(*),(D),(G),(W),(YC),(OC)",Bars/Clubs,1979,,,,3/19/2020 8:28pm,3/28/2020 8:45pm
+803,Stover's ,(Disco) ,812 E. Michigan Ave. ,Lansing,MI,"(M),(D),(RT)",Bars/Clubs,1979,,,,3/19/2020 8:29pm,3/28/2020 8:45pm
+804,Trammpp's ,(Disco),523 E. Michigan Ave. ,Lansing,MI,"(YC),(D),(*)",Bars/Clubs,1979,,,,3/19/2020 8:29pm,3/28/2020 8:45pm
+806,Nu-Art Theatre ,('Active back rows'),513 E. Michigan ,Lansing,MI,,Theatre,1979,,,,3/19/2020 8:29pm,3/28/2020 8:45pm
+807,Steam Bath Sauna ,(Sat. afternoons only) ,1203 2nd Ave. ,Marquette,MI,(M),Baths,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+808,Shiras Park ,Picnic Rocks,,Marquette,MI,Cruisy Area,Cruising Areas,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+809,Bar 69,(best late) ,69 Macomb St. ,Mount Clemens,MI,(M),Bars/Clubs,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+810,Crow Bar ,(some G) ,16 S. Gratiot Ave. ,Mount Clemens,MI,"(G),(*)",Bars/Clubs,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+812,Big Stein ,(best late) ,173 W. Broadway ,Muskegon,MI,"(M),(E),(PT)",Bars/Clubs,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+813,Eagle's Nest ,('Tops' in the area)(Disco)(PT & Cruisy game room downstairs)(Muskegon Heights),3236 Hoyt ,Muskegon,MI,"(*),(S),(D),(PT),Cruisy Area","Cruising Areas,Bars/Clubs",1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+818,Sundowners,,125 E. Huron ,Pontiac,MI,"(YC),(*)",Bars/Clubs,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+819,Three Hundred Lounge ,,100 S. Cass Lake Road ,Pontiac,MI,"(M),(YC),(D)",Bars/Clubs,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+822,Red Fox ,Harrington Hotel ,1026 No. Military ,Port Huron,MI,(M),"Bars/Clubs,Hotels",1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+827,Club Jules ,(Disco),907 Janes off Genesee,Saginaw,MI,"(M),(B),(YC),(D)",Bars/Clubs,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+828,Dutch's ,,1742 E. Genesee,Saginaw,MI,"(PT),(*)",Bars/Clubs,1979,,,,3/19/2020 10:56pm,3/28/2020 8:45pm
+836,Hitching Post ,,209 W. Portage ,Sault Ste. Marie,MI,(M),Bars/Clubs,1979,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+837,N.D.J. Enterprises,(Books) ,126 Ridge St. ,Sault Ste. Marie,MI,,Book Store,1979,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+839,Flame No. 1 ,,3364 Rochester Rd. ,Troy,MI,"(M),(R),(C),(AH)",Restaurant,1979,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+840,Wagon Wheel ,,2950 Rochester Rd. ,Troy,MI,(M),Bars/Clubs,1979,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+845,Apartment ,(disco)(looks promising),2200 Fuller Rd. ,Ann Arbor,MI,"(M),(YC),(D)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+846,Flame ,,115 W. Washington,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+847,Rubayat ,(Some L)(Disco) (Tues. thru. Sat),102 S. 1st St. ,Ann Arbor,MI,"(YC),(L),(D),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+850,Three Knights Inn,Big Rapids Hotel ,1010 S. State St. ,Big Rapids,MI,"(M),(YC),(WE)","Bars/Clubs,Hotels",1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+853,Akron Health Club Baths  ,,7530 E. 7 Mile Rd. ,Detroit,MI,,Baths,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+855,Bookie's Club 870 ,(also called 'Gagens')(S- Sun)(Some B),870 McNichols nr. Hamilton ,Detroit,MI,"(*),(S),(D),(B)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+856,Brass Rail ,(Some B) ,6545 Woodward Ave. ,Detroit,MI,"(M),(R),(OC),(B)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+857,Butterfly Introductions ,(Escort Services) (313) 541-2990 (Ferndale),109 E. 9 Mile Rd. ,Detroit,MI,,Business,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+858,Cafe Gigi's ,(Use rear enterance)(Mon. go-go boys),16920 W. Warren nr. Southfield,Detroit,MI,"(R),(YC),(D),(*)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+859,Casbah,,14701 Plymouth at Hubble ,Detroit,MI,"(L),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+860,Club Detriot Baths ,"(Some YC, W, SM, FFA)",7646 Woodward Ave. ,Detroit,MI,"(YC),(W),(SM),(FFA),(*)",Baths,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+861,Club Fever ,(Fri. & Sat.)(1 a.m. & 6 a.m.)(rear entrance),248 W. McNichols ,Detroit,MI,(AH),Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+862,Cove ,(Sun. Brunch)(Cruisy)(AH- until 5a.m.)(6 mile road),950 McNichols ,Detroit,MI,"(R),Cruisy Area,(AH)","Cruising Areas,Restaurant",1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+863,Deck ,(Opens 12 noon) ,14901 E. Jefferson,Detroit,MI,,Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+864,Dignity Detroit ,(Catholic organ.),2846 17th St. ,Detroit,MI,,Church,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+865,Escape Disco Lounge ,"(Some YC, L)(Thru arcade in back of shopping center)",15606 Joy at Greenfield,Detroit,MI,"(*),(D),(YC),(L)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+866,Famous Door ,(Disco)(Closed Sun.),1256 Griswald at State ,Detroit,MI,"(B),(YC),(M),(D),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+867,Gas Station ,(Enter thru rear parking lot)(Disco),19106 Woodward Ave.,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+868,Gold Coast ,(Go go boys)(Disco)(Some L),2971 E. 7 Mile Road ,Detroit,MI,"(*),(D),(L)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+869,Gold Dollar Show Bar ,(Touristy)(Adm.),3127 Cass ,Detroit,MI,"(M),(S)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+870,Interchange ,"(Some SM, W, FFA)(Cruisy) ",1501 Holden at Trumbull,Detroit,MI,"(*),(SM),(W),(FFA),(PT),Cruisy Area","Cruising Areas,Bars/Clubs",1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+871,Jockey Club ,(Disco)(May be closing),19128 Woodward ,Detroit,MI,(D),Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+872,La Palais Bar ,(Some B),655 Beaubien,Detroit,MI,"(RT),(B),(L)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+873,Manis ,(Disco),928 W. McNichols,Detroit,MI,"(*),(AH),(D),(SM),(W),(YC)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+874,M.C.C.,,45 E. Adams ,Detroit,MI,,Church,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+875,Menjo's ,(Disco),928 W. McNichols,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+876,Outlaw ,(Should make it),1028 W. 7 Mile Road,Detroit,MI,"(W),(SM)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+877,Oxford Book Store ,(Cruisy) ,17530 Woodward Ave. ,Detroit,MI,Cruisy Area,"Book Store,Cruising Areas",1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+878,Park Avenue Baths ,(Best days),2027 Park ,Detroit,MI,,Baths,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+879,Prudential Health Club Baths ,,124 W. State Fair ,Detroit,MI,"(*),(YC)",Baths,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+880,Rhinoceros ,,265 Riopelle,Detroit,MI,"(M),(R)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+881,Ruby's ,(Disco)(May be closed) 6 blks. W. of Livernois),6918 Michigan ,Detroit,MI,"(YC),(D)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+882,Silver Star Bar ,(Something for everyone open days) ,9310 Greenfield,Detroit,MI,,Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+883,Six Mile Theatre,,16525 Woodward Ave. ,Detroit,MI,,Theatre,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+884,Stage Door Deli ,(Open until 4am),1020 W. 7 Mile Rd. ,Detroit,MI,"(R),(*)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+885,Stephen's Saloon ,"(No sign- looks closed, but don't miss it! Sunday brunch or 'breakfast at Tiffany's)",17436 Woodward Ave. ,Detroit,MI,"(W),(YC),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+886,Ted's on the Park ,,18002 Woodward Ave. ,Detroit,MI,"(M),(YC),(R),(AH)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+887,Todd's Sway Lounge ,& Todd's Other Side ('Hot' new disco),8139 E. 7 Mile Rd. ,Detroit,MI,"(*),(YC),(D)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+888,Touch of Class Lounge ,,10015 Chalmers ,Detroit,MI,,Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+889,Underground,,15535 W. 8 Mile Rd. at Greenfield,Detroit,MI,(D),Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+890,Uptown Book Stores ,,16549 Woodward ,Detroit,MI,(*),Book Store,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+891,Uptown Book Stores ,,16401 Woodward ,Detroit,MI,,Book Store,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+892,Wood Six Twin Theatre ,,16549 Woodward Ave. ,Detroit,MI,,Theatre,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+893,Woodward Cocktail Lounge ,"(No sign, but don't miss it! Enter thru parking lot in rear)",6426 Woodward Ave. ,Detroit,MI,"(*),(R)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+899,State Bar ,(Long established),2512 S. Dort Hwy. ,Flint,MI,"(D),(PT),(S),(*)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+900,Wally's ,,1341 Center Road ,Flint,MI,"(M),(R),(C),(AH)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+902,Smitty's ,,100 Washington,Grand Haven ,MI,(M),Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+903,Carousel ,(Disco)(Game room- PT)(Occ. S),8 Ionia ,Grand Rapids,MI,"(D),(R),(PT),(*),(S)",Restaurant,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+904,Knife & Fork ,Pantland Hotel ,187 Monroe Ave. N.W.,Grand Rapids,MI,"(M),(R),(C)","Restaurant,Hotels",1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+905,Papa Joe's ,"(Some L, RT)(Doing better since 3 sons burned) ",43 S. Division,Grand Rapids,MI,"(L),(RT),(PT),(D)",Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+906,3 Sons Plus 1,(Burned hopefully re-opening),61 S. Division ,Grand Rapids,MI,(*),Bars/Clubs,1980,,,,3/19/2020 10:57pm,3/28/2020 8:45pm
+911,Skiles Tavern ,,154 E. 8th ,Holland,MI,"(M),(YC)",Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+912,Bill & Joe's Bar ,,150 W. Michigan Ave. ,Jackson,MI,,Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+913,"Hamilton, Ltd. ",(Books),1913 W. Main ,Kalamazoo,MI,,Book Store,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+916,Capitol News ,"(Books, 'peep shows' & cruisy arcade",532 W. Michigan,Lansing,MI,,Book Store,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+917,Denny's ,,2710 E. Grand River ,Lansing,MI,"(M),(R),(C),(AH)",Restaurant,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+918,Joe Covello's ,"(Disco)(Some W, YC, OC, L- something for everyone)",535 E. Michigan Ave. ,Lansing,MI,"(*),(D),(W),(YC),(OC),(L)",Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+919,Trammpp,,532 E. Michigan Ave. ,Lansing,MI,"(YC),(D),(*)",Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+921,Nu-Art Theatre,('Active back rows'),513 E. Michigan ,Lansing,MI,,Cruising Areas,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+923,Steam Bath Sauna ,"(sat. afternoons, Wed. & Fri. 6-10 pm) ",1203 2nd Ave. ,Marquette,MI,(M),Baths,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+926,Bar 69 ,(Best late) ,69 Macomb St. ,Mount Clemens,MI,(M),Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+927,Crow Bar ,(Some L),16 S. Gratiot Ave. ,Mount Clemens,MI,"(*),(L)",Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+929,Big Stein,(Best late),173 W. Broadway,Muskegon,MI,"(M),(E),(PT)",Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+930,Eagle's Nest ,('Tops' in the area)(Disco)(PT & cruisy game room downstairs)(Muskegon Heights),3236 Hoyt ,Muskegon,MI,"(*),(S),(D),(PT)",Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+935,Sundowners ,(many L),125 E. Huron ,Pontiac,MI,"(L),(*)",Bars/Clubs,1980,,,,3/20/2020 6:31pm,3/28/2020 8:45pm
+939,Red Fox ,Harrington Hotel ,1026 N. Military ,Port Huron,MI,(M),"Bars/Clubs,Hotels",1980,,,,3/20/2020 6:32pm,3/28/2020 8:45pm
+944,Dutch's ,(Disco),1742 E. Genesee,Saginaw,MI,"(*),(YC),(D),(R),(PT)",Restaurant,1980,,,,3/20/2020 6:32pm,3/28/2020 8:45pm
+949,Hilltop Inn ,,312 Francis ,Saugatuck,MI,"(M),(H)",Hotels,1980,,,,3/20/2020 6:32pm,3/28/2020 8:45pm
+954,Hitching Post ,,209 W. Portage ,Sault Ste. Marie,MI,(M),Bars/Clubs,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+955,N.D.J. Enterprices,(Books),126 Ridge St. ,Sault Ste. Marie,MI,,Book Store,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+957,High Wheeler,(Cruisy-WE),214 E. Front ,Traverse City,MI,"(M),(WE)",Bars/Clubs,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+958,Pirates Den ,Wildwood Bowling Lanes ,1705 S. Garfield,Traverse City,MI,"(M),(E),(R),(D)",Restaurant,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+959,The Parlor ,,1 Park St. ,Traverse City,MI,(M),Bars/Clubs,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+963,Flame No. 1 ,,3364 Rochester Rd. ,Troy,MI,"(M),(R),(C),(AH)",Restaurant,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+964,Wagon Wheel ,,2950 Rochester Rd. ,Troy,MI,(M),Bars/Clubs,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+967,'Rest Stop on I-94,1 mi. E. of Exit 183,,Ypsilanti,MI,Cruisy Area,Cruising Areas,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm
+968,Student Union- Home Econ. & Education Buildings ,(T-Rooms),,Ypsilanti,MI,Cruisy Area,Cruising Areas,1980,,,,3/20/2020 7:48pm,3/28/2020 8:45pm

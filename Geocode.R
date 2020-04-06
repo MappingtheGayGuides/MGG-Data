@@ -35,7 +35,7 @@ readData <- function( filename ) {
 #                  .fun = readData,
 #                 .parallel = TRUE )
 
-origAddress <- read.csv("originaldata-south.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-pennsylvania.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -66,7 +66,7 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "uncleardata-south.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-pennsylvania.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -83,6 +83,7 @@ uncleardata <- separate(uncleardata, col = lat.lon, into = c("lat","lon"), sep =
 origAddress['status'] = 'Geocoded'
 uncleardata['geoAddress'] = 'unclear_coded_by_hand'
 #uncleardata <- uncleardata %>% select(-"unclearaddress")
+uncleardata <- uncleardata %>% select(-"lastmodified.2")
 alldata <- rbind(origAddress, uncleardata)
 
 
@@ -96,23 +97,50 @@ alldata <- rbind(origAddress, uncleardata)
 #alldata$lat <- as.numeric(alldata$lat)
 #alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "South-Data.csv", row.names=FALSE)
-saveRDS(alldata, "DC-Data.rds")
+write.csv(alldata, "3-GeocodedDatasets/data-pennsylvania.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-pennsylvania.csv", row.names=FALSE)
+#saveRDS(alldata, "DC-Data.rds")
 
 
-dc <- read.csv("4-FullVerifiedDatasets/data-dc.csv")
-south <- read.csv("4-FullVerifiedDatasets/data-south.csv")  
+de <- read.csv("4-FullVerifiedDatasets/data-delaware.csv")
+id <- read.csv("4-FullVerifiedDatasets/data-idaho.csv")  
+mt <- read.csv("4-FullVerifiedDatasets/data-montana.csv")
+ne <- read.csv("4-FullVerifiedDatasets/data-nebraska.csv")
+nh <- read.csv("4-FullVerifiedDatasets/data-newhampshire.csv")
+ok <- read.csv("4-FullVerifiedDatasets/data-oklahoma.csv")
+sd <- read.csv("4-FullVerifiedDatasets/data-southdakota.csv")
+south <- read.csv("4-FullVerifiedDatasets/data-south.csv")
 cali <- read.csv("4-FullVerifiedDatasets/data-cali.csv")
+dc <- read.csv("4-FullVerifiedDatasets/data-dc.csv")
+newstates <- rbind(de,id,mt,ne,nh,ok,sd)
+newstates <- newstates %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"unclearaddress", -"unclear.type")
 cali <- cali %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress")
-#drop unused rows for final dataset
-mergeddata <- rbind(dc, south, cali)
+#currentdata <- read.csv("data.csv")
+#currentdata <- currentdata %>% select(-"X")
+mergeddata <- rbind(newstates, cali, south, dc)
+
+
+nd <- read.csv("4-FullVerifiedDatasets/data-northdakota.csv")
+vt <- read.csv("4-FullVerifiedDatasets/data-vermont.csv")
+ks <- read.csv("4-FullVerifiedDatasets/data-kansas.csv")
+ak <- read.csv("4-FullVerifiedDatasets/data-alaska.csv")
+ut <- read.csv("4-FullVerifiedDatasets/data-utah.csv")
+wy <- read.csv("4-FullVerifiedDatasets/data-wyoming.csv")
+pn <- read.csv("4-FullVerifiedDatasets/data-pennsylvania.csv")
+mi <- read.csv("4-FullVerifiedDatasets/data-michigan.csv")
+
+newstates <- rbind(nd, vt, ks, ak, ut, wy, pn, mi)
+newstates <- newstates %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"unclearaddress")
+#currentdata <- read.csv("data.csv")
+#currentdata <- currentdata %>% select(-"X")
+mergeddata <- rbind(mergeddata, newstates)
 
 
 unique(mergeddata$status)
 mergeddata <- mergeddata %>% mutate(Status_Revised = fct_collapse(status, 
                                                 "Google Verified Location" = "Geocoded",
                                                 "Verified Location" = "Found",
-                                                "Location could not be verified. General city or location coordinates used." = "General City Coordinates Used"))
+                                                "Location could not be verified. General city or location coordinates used." = c("General Cooordinates Used", "General Coordinates Used", "General City Coordinates", "General City Coordinates Used", "General City Coordinates Found")))
 unique(mergeddata$Status_Revised)
 mergeddata <- mergeddata %>% select(-"status") 
 mergeddata <- dplyr::rename(mergeddata, status = Status_Revised)

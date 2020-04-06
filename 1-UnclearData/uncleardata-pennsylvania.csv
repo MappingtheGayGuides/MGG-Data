@@ -1,0 +1,469 @@
+﻿ID,Title,status,description,streetaddress,lat.lon,city,state,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,dateadded,lastmodified
+1112,Lower Deck ,General City Coordinates Used,(WE-only) 2nd & Main (Emmaus),,,Allentown ,PA,"(M),(WE)",Bars/Clubs,1980,checked,,address doesn't appear to exist any longer.,3/6/2020 8:55pm,3/6/2020 9:21pm
+433,New Stonewall Club,Found,,28-20 N. 10th St. ,"40.601357,-75.478586",Allentown ,PA,"(YC),(D),(S),(*)",Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:13am
+336,New Stonewall CLub ,Found,,20-30 N. 10th St. ,"40.601357,-75.478586",Allentown ,PA,"(YC),(D),(S),(*)",Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+263,New Stonewall Club ,Found,,28-30 N 19th St. ,"40.601357,-75.478586",Allentown ,PA,"(YC),(D),(S),(*)",Bars/Clubs,1973,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+2,Rube's ,Found,,9th & Hamilton ,"40.601199,-75.475447",Allentown ,PA,"(M),(*)",Bars/Clubs,1965,checked,,,2/18/2020 4:34pm,2/24/2020 11:17pm
+30,Rube's ,Found,,9th & Hamilton,"40.601199,-75.475447",Allentown ,PA,"(M),(*)",Bars/Clubs,1966,checked,,,2/18/2020 4:35pm,2/24/2020 11:17pm
+57,Rube's ,Found,,9th & Hamilton ,"40.601199,-75.475447",Allentown ,PA,,Bars/Clubs,1968,checked,,,2/18/2020 4:55pm,2/24/2020 11:17pm
+83,Rube's ,Found,,9th and Hamilton ,"40.601199,-75.475447",Allentown ,PA,(*),Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+120,Rube's ,Found,,9th & Hamilton ,"40.601199,-75.475447",Allentown ,PA,(*),Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+159,Rube's ,Found,,9th & Hamilton,"40.601199,-75.475447",Allentown ,PA,(*),Bars/Clubs,1971,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+206,Rube's ,Found,,9th & Hamilton ,"40.601199,-75.475447",Allentown ,PA,(*),Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+264,Rube's ,Found,,9th & Hamilton ,"40.601199,-75.475447",Allentown ,PA,(M),Bars/Clubs,1973,checked,,,2/21/2020 11:17pm,3/28/2020 3:04pm
+337,Rube's ,Found,,9th & Hamilton,"40.601199,-75.475447",Allentown ,PA,(*),Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+434,Rube's ,Found,(making a good 'come back') 9th & Hamiliton,,"40.601199,-75.475447",Allentown ,PA,(*),Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:14am
+548,Rube's ,Found,,9th & Hamilton ,"40.601199,-75.475447",Allentown ,PA,"(OC),(*)",Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,3/28/2020 3:04pm
+800,Rube's ,Found,,9th & Hamilton ,"40.601199,-75.475447",Allentown ,PA,"(OC),(*)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/2/2020 11:57pm
+938,Rube's ,Found,(Some OC) ,9th & Hamilton,"40.601199,-75.475447",Allentown ,PA,"(*),(OC)",Bars/Clubs,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:04pm
+1113,Rube's ,Found,(Some OC) 9th & Hamilton,9th & Hamilton,"40.601199,-75.475447",Allentown ,PA,"(OC),(*)",Bars/Clubs,1980,checked,,,3/6/2020 8:55pm,3/6/2020 9:24pm
+801,Stonewall,Found,(Disco) ,28-30 No. 10th St. ,"40.599591,-75.47775",Allentown ,PA,"(YC),(D),(*)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/2/2020 11:59pm
+1114,Stonewall,Found,(Disco),28-30 N. 10th St. ,"40.599591,-75.47775",Allentown ,PA,"(YC),(D),(*)",Bars/Clubs,1980,checked,,,3/6/2020 8:55pm,3/6/2020 9:25pm
+955,C-1,Found,(Disco)(Mon-W-Fri & Sat) 4400 Block of Huffman,,"40.299577,-76.896044",Harrisburg,PA,"(*),(YC),(D)",Bars/Clubs,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:32am
+957,Dignity ,General City Coordinates Used,"PO Box 297, Harrisburg, PA 17108",,"40.273191,-76.886701",Harrisburg,PA,,Church,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:31pm
+1134,Dignity ,General City Coordinates Used,"PO Box 297, Harrisburg 17108",,"40.273191,-76.886701",Harrisburg,PA,,Church,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:31pm
+452,Front & State Streets,Found,,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/24/2020 11:43pm,3/28/2020 3:20pm
+692,Front & State Streets ,Found,,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:20pm
+383,Front & State Sts.,Found,,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:04pm,3/28/2020 3:20pm
+213,Front & State Sts. ,Found,,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1972,checked,,,2/21/2020 11:17pm,3/28/2020 3:20pm
+272,Front & State Sts. ,Found,,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1973,checked,,,2/21/2020 11:17pm,3/28/2020 3:20pm
+569,Front & State Sts. ,Found,,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 3:34pm,3/28/2020 3:20pm
+821,Front & State Sts. ,Found,(HOT) ,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:20pm
+962,Front & State Sts. ,Found,,,"40.262411,-76.888475",Harrisburg,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:20pm
+819,Gay Switchboard ,General City Coordinates Used,Tel: 717-234-0328,,"40.273191,-76.886701",Harrisburg,PA,,Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:08am
+958,Gay Switchboard ,General City Coordinates Used,Tel: (717) 234-0328,,"40.273191,-76.886701",Harrisburg,PA,,Bars/Clubs,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:34am
+1135,Gay Switchboard ,General City Coordinates Used,Tel: (717)234-0328,,"40.273191,-76.886701",Harrisburg,PA,,Bars/Clubs,1980,checked,,,3/6/2020 8:55pm,3/6/2020 10:06pm
+693,Park along Front St. by Susquehanna River,Found,,,"40.258583,-76.884031",Harrisburg,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:21pm
+822,Park along Front St. by Susquehanna River,Found,,,"40.258583,-76.884031",Harrisburg,PA,"(AYOR),Cruisy Area",Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+963,Park along Front St. by Susquehanna River,Found,,,"40.258583,-76.884031",Harrisburg,PA,"(AYOR),Cruisy Area",Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+453,Plaza Hotel basement,Found,,,"40.259229,-76.880293",Harrisburg,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/24/2020 11:43pm,3/28/2020 3:21pm
+4,Warner Hotel Bar ,Found,,Market Sq.,"40.259841,-76.881876",Harrisburg,PA,,Bars/Clubs,1965,checked,,approximate,2/18/2020 4:34pm,2/24/2020 11:17pm
+59,Warner Hotel Bar ,Found,,Market Square ,"40.259841,-76.881876",Harrisburg,PA,(M),Bars/Clubs,1968,checked,,approximate,2/18/2020 4:55pm,2/24/2020 11:17pm
+86,Warner Hotel Bar ,Found,,Market Sq. ,"40.259841,-76.881876",Harrisburg,PA,(M),Bars/Clubs,1969,checked,,approximate,2/21/2020 1:50pm,2/24/2020 11:17pm
+123,Warner Hotel Bar ,Found,,Market Sq. ,"40.259841,-76.881876",Harrisburg,PA,(M),Bars/Clubs,1970,checked,,approximate,2/21/2020 1:50pm,2/24/2020 11:17pm
+164,Warner Hotel Bar ,Found,,Market Square ,"40.259841,-76.881876",Harrisburg,PA,,Bars/Clubs,1971,checked,,approximate,2/21/2020 1:50pm,2/24/2020 11:17pm
+212,Warner Hotel Bar ,Found,,Market Square ,"40.259841,-76.881876",Harrisburg,PA,(M),Bars/Clubs,1972,checked,,approximate,2/21/2020 11:17pm,2/24/2020 11:17pm
+271,Warner Hotel Bar ,Found,,Market Square ,"40.259841,-76.881876",Harrisburg,PA,(M),Bars/Clubs,1973,checked,,approximate,2/21/2020 11:17pm,2/24/2020 11:17pm
+382,Warner Hotel Bar ,Found,,Market Square ,"40.259841,-76.881876",Harrisburg,PA,(M),Bars/Clubs,1974,checked,,approximate,2/24/2020 11:04pm,2/24/2020 11:17pm
+451,Warner Hotel Bar ,Found,,Market Square ,"40.259841,-76.881876",Harrisburg,PA,(M),Bars/Clubs,1975,checked,,approximate,2/24/2020 11:43pm,2/25/2020 12:26am
+568,Warner Hotel Bar ,Found,,Market Square,"40.259841,-76.881876",Harrisburg,PA,"(M),(RT)",Bars/Clubs,1976,checked,,approximate,2/27/2020 3:34pm,2/27/2020 4:26pm
+691,Warner Hotel Bar ,Found,(hustlers) Market Square ,,"40.259841,-76.881876",Harrisburg,PA,"(M),(RT)",Bars/Clubs,1977,checked,,approximate,2/29/2020 10:22pm,3/28/2020 3:04pm
+32,Warner Hotel bar ,Found,op. Market Square ,,"40.259841,-76.881876",Harrisburg,PA,,Bars/Clubs,1966,checked,,approximate,2/18/2020 4:35pm,2/24/2020 11:17pm
+972,Park City Shopping Center,Found,,,"40.067007,-76.339489",Lancaster,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+828,Park City Shopping Center ,Found,,,"40.067007,-76.339489",Lancaster,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+1150,Park City Shopping Center ,Found,,,"40.067007,-76.339489",Lancaster,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:21pm
+1146,Railroad House Hotel ,Found,"(Upstairs)(Cruise bar downstairs) Front & Perry Sts. (About 12 mi. W, in Marietta)",,"40.054733,-76.559954",Lancaster,PA,"(M),(R)",Restaurant,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:14pm
+969,Railroad House Motel ,Found,(Upstairs)(Cruise bar downstairs) Front & Perry Sts. (About 12 mi. W. in Marietta),,"40.054733,-76.559954",Lancaster,PA,"(M),(R)",Restaurant,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:40am
+971,Y.O.B.'s Inc,Found,(Book store) ,200 block of Prince St. ,"40.040915,-76.308345",Lancaster,PA,,Book Store,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:41am
+1167,'Tow Path',Found,along the canal nr. Ferry St. ,,"40.363428,-74.950423",New Hope,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:18pm
+989,'Tow Path' ,Found,along the canal nr. Ferry St. ,,"40.363428,-74.950423",New Hope,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:18pm
+712,Along Hwy. 202,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:18pm
+978,Black Bass,General City Coordinates Used,(Lumberville),,"40.406772,-75.037948",New Hope,PA,"(M),(H),(PE),(R)","Restaurant,Hotels",1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:44am
+459,Black Bass ,General City Coordinates Used,(Lumberville),,"40.406772,-75.037948 ",New Hope,PA,"(M),(PE),(R),(H)","Restaurant,Hotels",1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:30am
+576,Black Bass ,General City Coordinates Used,(Lumberville),,"40.406772,-75.037948 ",New Hope,PA,"(M),(PE),(R),(H)","Hotels,Restaurant",1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:29pm
+700,Black Bass ,General City Coordinates Used,(Lumberville),,"40.406772,-75.037948 ",New Hope,PA,"(M),(PE),(R),(H)","Hotels,Restaurant",1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:41pm
+829,Black Bass ,General City Coordinates Used,(Lumberville) ,,"40.406772,-75.037948 ",New Hope,PA,"(M),(PE),(R),(H)","Restaurant,Hotels",1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:13am
+1156,Black Bass ,General City Coordinates Used,(Lumberville),,"40.406772,-75.037948 ",New Hope,PA,"(M),(H),(PE),(R)",Restaurant,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:23pm
+460,Blair's Tavern ,General City Coordinates Used,S. Main St. ,S. Main St. ,"40.364273,-74.951278",New Hope,PA,"(M),(YC)",Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:34am
+577,Blair's Tavern ,General City Coordinates Used,S. Main St. ,S. Main St. ,"40.364273,-74.951278",New Hope,PA,"(M),(YC)",Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:29pm
+701,Blair's Tavern ,General City Coordinates Used,S. Main St. ,S. Main St. ,"40.364273,-74.951278",New Hope,PA,"(M),(YC)",Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:41pm
+830,Blairs Tavern ,General City Coordinates Used,So. Main St. ,So. Main St. ,"40.364273,-74.951278",New Hope,PA,"(M),(YC)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:13am
+831,Brookmore Motel ,General City Coordinates Used,1 mi. E. on U.S. 202,,"40.364273,-74.951278",New Hope,PA,(H),Hotels,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:15am
+979,Brookmore Motel ,General City Coordinates Used,Also 'La Camp' Bar & (R) (Best Sundays*) 1 mi. W. on US 202,,"40.364273,-74.951278",New Hope,PA,"(H),(R),(*)","Restaurant,Hotels",1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:46am
+1157,Brookmore Motel ,General City Coordinates Used,Also 'La Camp' Bar (Best Sundays) 1 mi. W on US 202,,"40.364273,-74.951278",New Hope,PA,"(H),(R),(*)","Restaurant,Hotels",1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:25pm
+980,Buck's County Playhouse Bar,General City Coordinates Used,S. Main St. ,S. Main St. ,"40.364273,-74.951278",New Hope,PA,(M),Bars/Clubs,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:46am
+702,Buck's County Playhouse Bar ,General City Coordinates Used,S. Main St. ,S. Main St. ,"40.364273,-74.951278",New Hope,PA,,Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:42pm
+1158,Bucks County Playhouse ,General City Coordinates Used,S. Main St. ,S. Main St. ,"40.364273,-74.951278",New Hope,PA,(M),Bars/Clubs,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:25pm
+833,Bucks County Playhouse Bar,General City Coordinates Used,So. Main St. ,So. Main St. ,"40.364273,-74.951278",New Hope,PA,(M),Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:16am
+703,Canal House ,General City Coordinates Used,(Elbow Room Bar)(Summer season only),,"40.364273,-74.951278",New Hope,PA,,Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:42pm
+834,Canal House ,General City Coordinates Used,(Elbow Room Bar) (Summer season only),,"40.364273,-74.951278",New Hope,PA,,Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:16am
+981,Canal House ,General City Coordinates Used,(Elbow Room Bar)(Summer season only),,"40.364273,-74.951278",New Hope,PA,,Bars/Clubs,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:46am
+1159,Canal House ,General City Coordinates Used,(Elbow Room Bar)(Summer season only),,"40.364273,-74.951278",New Hope,PA,,Bars/Clubs,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:26pm
+7,Cartwheel ,General City Coordinates Used,1 mi. W. on US 202 (downstairs) ,,"40.364273,-74.951278",New Hope,PA,,Bars/Clubs,1965,checked,,,2/18/2020 4:34pm,2/24/2020 11:17pm
+35,Cartwheel ,General City Coordinates Used,(downstairs) 1 mi W on US 202,,"40.364273,-74.951278",New Hope,PA,,Bars/Clubs,1966,checked,,,2/18/2020 4:54pm,2/24/2020 11:17pm
+62,Cartwheel ,General City Coordinates Used,(downstairs) 1 mi W on US 202 ,,"40.364273,-74.951278",New Hope,PA,(*),Bars/Clubs,1968,checked,,,2/18/2020 4:55pm,2/24/2020 11:17pm
+88,Cartwheel ,General City Coordinates Used,(downstairs) 1 mi. W on U.S. 202,,"40.364273,-74.951278",New Hope,PA,"(D),(*)",Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+125,Cartwheel ,General City Coordinates Used,(downstairs) 1 mi. W. on U.S. 202,,"40.364273,-74.951278",New Hope,PA,"(*),(D)",Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,3/28/2020 3:03pm
+166,Cartwheel ,General City Coordinates Used,"1 mi. W on U.S. 202 Playhouse, Bucks County Playhouse Main St. ",,"40.364273,-74.951278",New Hope,PA,"(YC),(*)",Bars/Clubs,1971,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+214,Cartwheel ,General City Coordinates Used,1 mi. W. on U.S. 202,,"40.364273,-74.951278",New Hope,PA,"(YC),(*)",Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+275,Cartwheel ,General City Coordinates Used,(Sunday Buffet) 1 mi. W. on U.S. 202 ,,"40.364273,-74.951278",New Hope,PA,"(YC),(D),(*)",Bars/Clubs,1973,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+352,Cartwheel ,General City Coordinates Used,(Sunday buffet) 1 mi. W on U.S. 202,,"40.364273,-74.951278",New Hope,PA,"(YC),(D),(*)",Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:22pm
+704,Cartwheel Inn ,General City Coordinates Used,(Rathskeller) Hwy 202 W.,,"40.364273,-74.951278",New Hope,PA,(S),Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:43pm
+461,Centre Bridge Inn,Found,3 mi. North ,,"40.401481,-74.979895 ",New Hope,PA,"(M),(R)",Restaurant,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:34am
+982,Centre Bridge Inn,Found,3 mi. North,,"40.401481,-74.979895 ",New Hope,PA,"(M),(R)",Restaurant,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:46am
+1160,Centre Bridge Inn,Found,3 mi. N,,"40.401481,-74.979895 ",New Hope,PA,"(M),(R)",Restaurant,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:26pm
+580,Centre Bridge Inn ,Found,3 mi N. ,,"40.401481,-74.979895 ",New Hope,PA,"(M),(R)",Restaurant,1976,checked,,,2/27/2020 3:35pm,2/27/2020 4:29pm
+705,Centre Bridge Inn ,Found,3 mi. N,,"40.401481,-74.979895 ",New Hope,PA,"(M),(R)",Restaurant,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:43pm
+835,Centre Bridge Inn ,Found,3 mi. No. ,,"40.401481,-74.979895 ",New Hope,PA,"(M),(R)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:17am
+276,Chez Odette,General City Coordinates Used,N.J. Hwy. 32 at River Road ,," 40.357235,-74.949232",New Hope,PA,"(M),(PE),(R)",Restaurant,1973,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+462,Chez Odette,General City Coordinates Used,"Hwy. 32 at River Rd., 1 block south of U.S. 202",," 40.357235,-74.949232",New Hope,PA,"(M),(PE),(R)",Restaurant,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:34am
+581,Chez Odette,General City Coordinates Used,"Hwy. 32 at River Rd., 1 blk. S. of U.S. 202",," 40.357235,-74.949232",New Hope,PA,"(M),(PE),(R)",Restaurant,1976,checked,,,2/27/2020 3:35pm,2/27/2020 4:31pm
+353,Chez Odette ,General City Coordinates Used,N.J. Hwy 32 at River Rd. ,," 40.357235,-74.949232",New Hope,PA,"(M),(PE),(R)",Restaurant,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:22pm
+706,Chez Odette ,General City Coordinates Used,S. River Rd. at Hwy 32,," 40.357235,-74.949232",New Hope,PA,"(M),(PE),(R)",Restaurant,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:44pm
+836,Chez Odette ,General City Coordinates Used,So. River Rd. at Hwy. 32 ,," 40.357235,-74.949232",New Hope,PA,"(M),(PE),(R)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:17am
+590,Highway & Parking lot betw. the Cartwheel & Prelude,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 10:42pm,3/28/2020 3:20pm
+468,Highway & parking lot between the Cartwheel & Prelude,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/24/2020 11:43pm,3/28/2020 3:20pm
+355,Highway & parking lots betw. bars,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/23/2020 8:01pm,3/28/2020 3:20pm
+278,Highway and parking lots bet. bars,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1973,checked,,,2/23/2020 8:01pm,3/28/2020 3:20pm
+1166,Hwy. 202 & Parking lots betw. Cartwheel & Prelude,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:20pm
+988,Hwy. 202 & parking lots betw. Cartwheel & Prelude,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:20pm
+843,Hwy. 202 & Parking lots betw. Prelude & Cartwheel,General City Coordinates Used,,,"40.364273,-74.951278",New Hope,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:20pm
+707,January's ,General City Coordinates Used,(Some G)(2 bars) 2 mi. S. just off Rt. 232 S. ,," 40.364273,-74.951278",New Hope,PA,"(*),(HIP),(M),(YC),(G),(D)",Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:45pm
+832,Le Camp Bar ,General City Coordinates Used,1 mi. E. on U.S. 202 (best Sundays),," 40.364273,-74.951278",New Hope,PA,(R),Restaurant,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:06pm
+582,Logan Inn,Found,,Bridge & Ferry Sts. ,"40.363814,-74.954931",New Hope,PA,"(M),(R)",Restaurant,1976,checked,,,2/27/2020 3:35pm,2/27/2020 4:31pm
+983,Logan Inn,Found,,Bridge & Ferry Sts. ,"40.363814,-74.954931",New Hope,PA,"(M),(R)",Restaurant,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:47am
+463,Logan Inn ,Found,,Bridge & Ferry Sts.,"40.363814,-74.954931",New Hope,PA,"(M),(R)",Restaurant,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:34am
+708,Logan Inn ,Found,,Bridge & Ferry Sts. ,"40.363814,-74.954931",New Hope,PA,"(M),(R)",Restaurant,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:45pm
+838,Logan Inn ,Found,,Bridge & Ferry Sts. ,"40.363814,-74.954931",New Hope,PA,"(M),(R)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:19am
+1161,Logan Inn ,Found,,Bridge & Ferry Sts. ,"40.363814,-74.954931",New Hope,PA,"(M),(R)",Restaurant,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:27pm
+464,Mountainside Inn,General City Coordinates Used,River Rd. - 9 miles N. in Mt. Pleasant,," 40.364273,-74.951278",New Hope,PA,"(M),(R)",Restaurant,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:34am
+586,Mountainside Inn,General City Coordinates Used,River Rd. - 9 mi. N. in Mt. Pleasant ,," 40.364273,-74.951278",New Hope,PA,"(M),(R)",Restaurant,1976,checked,,,2/27/2020 10:42pm,2/27/2020 10:43pm
+839,Mountainside Inn,General City Coordinates Used,River Rd. 9 mi. No. in Mt. Pleasant,," 40.364273,-74.951278",New Hope,PA,"(M),(R)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:20am
+1162,Mountainside Inn,General City Coordinates Used,"River Rd., 9 mi. N in Mt. Pleasant",," 40.364273,-74.951278",New Hope,PA,"(M),(R)",Restaurant,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:27pm
+709,Mountainside Inn ,General City Coordinates Used,River Rd. - 9 mi. N. in Mt Pleasant,," 40.364273,-74.951278",New Hope,PA,"(M),(R)",Restaurant,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:46pm
+984,Mountainside Inn ,General City Coordinates Used,"River Rd., 9 mi. N in Mt. Pleasant",," 40.364273,-74.951278",New Hope,PA,"(M),(R)",Restaurant,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:47am
+465,New Hope Diner ,General City Coordinates Used,(opens 24 hrs) 1 1/2 miles W. on U.S. 202,," 40.364273,-74.951278",New Hope,PA,"(R),(C)",Restaurant,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:35am
+587,New Hope Diner ,General City Coordinates Used,(open 24 hrs.) 1 1/2 mi. W. on U.S. 202,," 40.364273,-74.951278",New Hope,PA,"(R),(C)",Restaurant,1976,checked,,,2/27/2020 10:42pm,2/27/2020 10:44pm
+710,New Hope Diner ,General City Coordinates Used,(24 hours) 1 1/2 mi. W. on U.S. 202,," 40.364273,-74.951278",New Hope,PA,"(R),(C),(*)",Restaurant,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:47pm
+840,New Hope Diner ,General City Coordinates Used,(24 hours*) 1 1/2 mi. W. on U.S. 202,," 40.364273,-74.951278",New Hope,PA,"(R),(C),(*)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:20am
+985,New Hope Diner ,General City Coordinates Used,(24 hours*) 1 1/2 mi. W. on US 202,," 40.364273,-74.951278",New Hope,PA,"(R),(C),(*)",Restaurant,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:48am
+1163,New Hope Diner ,General City Coordinates Used,(24 hours *) 1 1/2 mi. W. on US 202,," 40.364273,-74.951278",New Hope,PA,"(R),(C),(*)",Restaurant,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:30pm
+466,New Prelude ,Found,,1 mi. W. on U.S. 202 ," 40.361603,-74.970359",New Hope,PA,"(S),(YC),(D),(*)",Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:35am
+588,New Prelude ,Found,,1 mi. W. on U.S. 202," 40.361603,-74.970359",New Hope,PA,"(YC),(D),(S),(*)",Bars/Clubs,1976,checked,,,2/27/2020 10:42pm,2/27/2020 10:45pm
+986,New Prelude ,Found,(4 bars) 1 mi. W on US 202,408 York Rd. ," 40.361603,-74.970359",New Hope,PA,"(YC),(D),(*),Cruisy Area",Bars/Clubs,1979,checked,,,3/2/2020 11:45pm,3/3/2020 1:49am
+467,Old Cartwheel Inn,General City Coordinates Used,(3 bars with (some G) (Sunday buffet) 1 mi W. on U.S. 202,,"40.364273,-74.951278",New Hope,PA,(*),Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:36am
+589,Old Cartwheel Inn,General City Coordinates Used,(3 bars - some G)(Sunday buffet) 1 mi. W. on U.S. 202,,"40.364273,-74.951278",New Hope,PA,"(YC),(D),(*),(G)",Bars/Clubs,1976,checked,,,2/27/2020 10:42pm,2/27/2020 10:46pm
+711,Old Cartwheel Inn,General City Coordinates Used,(Some G) (3 bars- Sun. buffet) 1 mi. W. on U.S. 202,,"40.364273,-74.951278",New Hope,PA,"(YC),(D),(G)",Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:47pm
+842,Old Cartwheel Inn ,General City Coordinates Used,(Some G)(3 bars- Sunday buffet) 1 mi. W. on U.S. 202,,"40.364273,-74.951278",New Hope,PA,"(D),(G),(*)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:22am
+987,Old Cartwheel Inn ,General City Coordinates Used,(Some G)(3 bars- Sun buffet) 1 mi. W. on US 202,,"40.364273,-74.951278",New Hope,PA,"(D),(G),(*)",Bars/Clubs,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:04pm
+1165,Old Cartwheel Inn ,General City Coordinates Used,(Some L)(3 bars- Sun. buffet) 1 mi W. on US 202,,"40.364273,-74.951278",New Hope,PA,"(D),(L),(*)",Bars/Clubs,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:30pm
+8,Playhouse ,Found,Bucks Co. Main St. (downstairs) ,,"40.362396,-74.950211",New Hope,PA,,Bars/Clubs,1965,checked,,,2/18/2020 4:34pm,2/24/2020 11:17pm
+36,Playhouse ,Found,(downstairs in Bucks County Playhouse) on Main St. ,,"40.362396,-74.950211",New Hope,PA,,Bars/Clubs,1966,checked,,,2/18/2020 4:54pm,2/24/2020 11:17pm
+63,Playhouse ,Found,"Bucks County Playhouse, Main St. ",,"40.362396,-74.950211",New Hope,PA,(S),Bars/Clubs,1968,checked,,,2/18/2020 4:55pm,2/24/2020 11:17pm
+89,Playhouse ,Found,Bucks County Playhouse Main St. ,,"40.362396,-74.950211",New Hope,PA,(S),Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+126,Playhouse ,Found,"Bucks County Playhouse, Main St. ",,"40.362396,-74.950211",New Hope,PA,(S),Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+215,Playhouse Bar ,Found,"Bucks County Playhouse, Main St. ",,"40.362396,-74.950211",New Hope,PA,,Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+354,Prelude,General City Coordinates Used,,1 mi. W. on U.s. 202 ,"40.364273,-74.951278",New Hope,PA,"(S),(*)",Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:22pm
+64,Prelude ,General City Coordinates Used,,1 mi W on US 202 ,"40.364273,-74.951278",New Hope,PA,(S),Bars/Clubs,1968,checked,,,2/18/2020 4:55pm,2/24/2020 11:17pm
+90,Prelude ,General City Coordinates Used,,1 mi W on U.S. 202 ,"40.364273,-74.951278",New Hope,PA,"(S),(*)",Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+127,Prelude ,General City Coordinates Used,,1 mi. W. on U.S. 202 ,"40.364273,-74.951278",New Hope,PA,"(S),(*)",Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+167,Prelude ,General City Coordinates Used,,1 mi. W on U.S. 202,"40.364273,-74.951278",New Hope,PA,"(S),(*)",Bars/Clubs,1971,checked,,,2/21/2020 1:50pm,3/28/2020 3:04pm
+216,Prelude ,General City Coordinates Used,,1 mi. W on U.S. 202 ,"40.364273,-74.951278",New Hope,PA,"(S),(*)",Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+277,Prelude ,General City Coordinates Used,,1 mi. W. on U.S. 202,"40.364273,-74.951278",New Hope,PA,"(S),(*)",Bars/Clubs,1973,checked,,,2/21/2020 11:17pm,3/28/2020 3:04pm
+1019,51 Club ,Found,,58th & Baltimore ,"39.945864,-75.24031",Philadelphia,PA,(B),Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/5/2020 8:51pm
+471,Alex's Lounge ,General City Coordinates Used,(Norristown) ,,"40.121497,-75.339905",Philadelphia,PA,(M),Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:38am
+170,Buddy's ,Found,,13th & Commerce ,"39.952777,-75.161313",Philadelphia,PA,"(B),(RT)",Bars/Clubs,1971,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+851,Cafe Lafitte,Found,,1304-1306 Drury Lane,"39.950152,-75.162361",Philadelphia,PA,(R),Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:29am
+283,Carey's ,Found,(some G), 23rd & Fairmount,"39.967345,-75.17539",Philadelphia,PA,"(R),(G)",Restaurant,1973,checked,,,2/23/2020 8:01pm,3/28/2020 3:03pm
+1006,Club 13 ,Found,,13th & Locust St. ,"39.947947,-75.162361",Philadelphia,PA,,Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/5/2020 8:37pm
+1180,Club 13 ,Found,,13th & Locust Sts.,"39.947947,-75.162361",Philadelphia,PA,,Bars/Clubs,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:37pm
+857,Corral ,Found,(Downstairs at the 247 Bar),,"39.948422,-75.16929",Philadelphia,PA,"(SM),(*)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:32am
+1008,Corral ,Found,(Downstairs at the 247),,"39.948422,-75.16929",Philadelphia,PA,"(SM),(*)",Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/5/2020 8:38pm
+1181,Corral ,Found,(Downstairs at the 247),,"39.948422,-75.16929",Philadelphia,PA,"(SM),(*)",Bars/Clubs,1980,checked,,,3/6/2020 8:56pm,3/6/2020 10:37pm
+1011,Day's Deli,Found,(Jewish R) ,18th & Spruce ,"39.947785,-75.171196",Philadelphia,PA,"(M),(R)",Restaurant,1979,checked,,,3/5/2020 8:15pm,3/5/2020 8:41pm
+1184,Day's Deli ,Found,(Jewish R) ,18th & Spruce ,"39.947785,-75.171196",Philadelphia,PA,"(M),(R)",Restaurant,1980,checked,,,3/6/2020 8:56pm,3/9/2020 12:29am
+600,Dewey Coffee Shop,Found,13th & Chancelor,13th & Chancelor,"39.948507,-75.162242",Philadelphia,PA,"(M),(R),(C),(AH)",Restaurant,1976,checked,,,2/27/2020 10:42pm,2/27/2020 11:31pm
+601,Dewey Coffee Shop,Found,17th & Chancelor ,17th & Chancelor ,"39.948675,-75.162496",Philadelphia,PA,"(M),(R),(C),(AH),(RT)",Restaurant,1976,checked,,,2/27/2020 10:42pm,2/27/2020 11:31pm
+861,Dewey Coffee Shop,Found,13th & Chancelor,13th & Chancelor,"39.948507,-75.162242",Philadelphia,PA,"(M),(R),(C),(AH)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:36am
+862,Dewey Coffee Shop,Found,17th & Chancelor,17th & Chancelor,"39.94942,-75.169198",Philadelphia,PA,"(M),(R),(C),(AH),(RT)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:36am
+484,Dewey Coffee Shop ,Found,17th & Chancelor ,17th & Chancelor ,"39.94942,-75.169198",Philadelphia,PA,"(M),(R),(C),(AH)",Restaurant,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:38pm
+483,Dewey Coffee Shop ,Found,13th & Chancelor,13th & Chancelor,"39.948507,-75.162242",Philadelphia,PA,"(M),(R),(C),(AH)",Restaurant,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:37pm
+1015,Dewey Coffee Shop ,Found,17th & Chancellor,17th & Chancellor,"39.94942,-75.169198",Philadelphia,PA,"(M),(R),(C),(AH),(RT)",Restaurant,1979,checked,,,3/5/2020 8:15pm,3/5/2020 8:46pm
+1014,Dewey Coffee Shop ,Found,13th & Chancellor ,13th & Chancellor ,"39.948507,-75.162242",Philadelphia,PA,"(M),(R),(C),(AH)",Restaurant,1979,checked,,,3/5/2020 8:15pm,3/5/2020 8:46pm
+94,Dewey's ,Found,Chancelor at 17th St. , 17th & Chancellor ,"39.94942,-75.169198",Philadelphia,PA,(D),Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+131,Dewey's ,Found,Chancelor at 17th St. , 17th & Chancellor ,"39.94942,-75.169198",Philadelphia,PA,(D),Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,3/28/2020 3:04pm
+172,Dewey's ,Found,(after hours)  ,Chancelor at 17th St.,"39.94942,-75.169198",Philadelphia,PA,"(C),(R)",Restaurant,1971,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+288,Dewey's Coffee Shop,Found,(after hours) , 17th & Chancellor ,"39.94942,-75.169198",Philadelphia,PA,"(M),(C),(R)",Restaurant,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+287,Dewey's Coffee Shop,Found,(after hours) ,13th & Chancellor ,"39.948507,-75.162242",Philadelphia,PA,"(M),(C),(R)",Restaurant,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+364,Dewey's Coffee Shop,Found,(After hours) , 17th & Chancellor ,"39.94942,-75.169198",Philadelphia,PA,"(M),(C),(R),(RT)",Restaurant,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:32pm
+363,Dewey's Coffee Shop,Found,(After hours) 13th and Chancellor,13th & Chancellor ,"39.948507,-75.162242",Philadelphia,PA,"(M),(C),(R),(RT)",Restaurant,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:32pm
+221,Dewey's Coffee Shop ,Found,(After hours) ,13th & Chancellor ,"39.948507,-75.162242",Philadelphia,PA,"(R),(C),(M)",Restaurant,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+222,Dewey's Coffee Shop ,Found,(After hours),17th & Chancelor,"39.94942,-75.169198",Philadelphia,PA,"(R),(C),(M)",Restaurant,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+727,Dewey's Coffee Shop ,Found,,13th & Chancelor ,"39.94942,-75.169198",Philadelphia,PA,"(M),(R),(C),(AH),(RT)",Restaurant,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:57pm
+726,Dewey's Coffee Shop ,Found,,,"39.948507,-75.162242",Philadelphia,PA,"(M),(R),(C),(AH)",Restaurant,1977,checked,,,2/29/2020 10:22pm,3/2/2020 10:57pm
+485,Digits ,Found,(Should be a winner...Spring '74 opening may replace Land of Oz) Chancellor and Juniper,,"39.948638,-75.16326",Philadelphia,PA,"(YC),(D)",Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:38pm
+173,Drury Lane ,Found,,1308 Drury Lane ,"39.950181,-75.162467",Philadelphia,PA,"(R),(PE)","Restaurant,Bars/Clubs",1971,checked,,,2/21/2020 1:50pm,3/9/2020 12:58pm
+728,Drury Lane- Cafe Lafitte ,Found,,1304 - 1306 Drury Lane ,"39.950152,-75.162361",Philadelphia,PA,,"Bars/Clubs,Restaurant",1977,checked,,,2/29/2020 10:22pm,3/9/2020 12:58pm
+177,Funky Dunky ,Found,,21st & Arch ,"39.955834,-75.174622",Philadelphia,PA,(M),Bars/Clubs,1971,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+607,Governor's Mansion,Found,(Disco) ,13th & Locust ,"39.948131,-75.162088",Philadelphia,PA,"(M),(RT),(D)",Bars/Clubs,1976,checked,,,2/27/2020 10:42pm,2/29/2020 10:31pm
+44,Lark in Norristown ,General City Coordinates Used,,," 40.121497,-75.339905",Philadelphia,PA,,Bars/Clubs,1966,checked,checked,,2/18/2020 4:54pm,3/28/2020 3:29pm
+631,League Island Park,Found,(sailors),,"39.891217,-75.171073",Philadelphia,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 10:43pm,3/28/2020 3:21pm
+399,League Island Park ,Found,(sailors),,"39.891217,-75.171073",Philadelphia,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:43pm,3/28/2020 3:21pm
+512,League Island Park ,Found,(sailors) ,,"39.891217,-75.171073",Philadelphia,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:21pm
+757,League Island Park ,Found,(sailors),,"39.891217,-75.171073",Philadelphia,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:21pm
+371,London Restaurant ,Found,(Some G) ,23rd & Fairmount,"39.967345,-75.17539",Philadelphia,PA,"(R),(G)",Restaurant,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:42pm
+17,Monaco ,Found,,69th & Market (Upper Darby) ,"39.961753,-75.259015",Philadelphia,PA,"(D),(*)",Bars/Clubs,1965,checked,,,2/18/2020 4:35pm,2/24/2020 11:17pm
+46,Monaco ,Found,,69th & Market in Upper Darby,"39.961753,-75.259015",Philadelphia,PA,"(D),(P)",Bars/Clubs,1966,checked,,,2/18/2020 4:54pm,2/24/2020 11:17pm
+180,My Sisters ,Found,22nd & Arch,,"39.956035,-75.176234",Philadelphia,PA,(*),Bars/Clubs,1971,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+1032,Nugget Saloon ,Found,(Above 247),,"39.948422,-75.16929",Philadelphia,PA,"(*),(R)",Restaurant,1979,checked,,,3/5/2020 8:15pm,3/5/2020 9:09pm
+1202,Nugget Saloon ,Found,(Above 247 bar),,"39.948422,-75.16929",Philadelphia,PA,(R),Restaurant,1980,checked,,,3/9/2020 12:35am,3/9/2020 12:46am
+615,Oz Unlimited ,Found,(Formally Digits)[(G)(D) upstairs at Touche] ,Chancelor & Juniper ,"39.948638,-75.16326",Philadelphia,PA,"(YC),(D),(G)",Bars/Clubs,1976,checked,,,2/27/2020 10:42pm,2/29/2020 10:51pm
+740,Oz Unlimited ,Found,Chancelor & Juniper ,Chancelor & Juniper ,"39.948638,-75.16326",Philadelphia,PA,"(B),(YC),(D)",Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 11:10pm
+298,Parker Hotel Bar,Found,(open Sundays) ,13th & Spruce,"39.946717,-75.162627",Philadelphia,PA,(*),Bars/Clubs,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+229,Parker Hotel Bar ,Found,(open Sundays) ,13th & Spruce,"39.946717,-75.162627",Philadelphia,PA,(*),Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+498,Parker Hotel Bar ,Found,(Open Sundays) ,13th & Spruce,"39.946717,-75.162627",Philadelphia,PA,(M),Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:49pm
+376,Parker Hotel bar ,Found,(open Sundays),13th & Spruce,"39.946717,-75.162627",Philadelphia,PA,(M),Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:42pm
+513,Penn Center Plaza,Found,underground by skate rink,,"39.952554,-75.167296",Philadelphia,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:21pm
+632,Penn Center Plaza,Found,underground skate rink,,"39.952554,-75.167296",Philadelphia,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 10:43pm,3/28/2020 3:21pm
+758,Penn Center Plaza,Found,underground skate rink,,"39.952554,-75.167296",Philadelphia,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:21pm
+893,Penn Center Plaza,Found,Underground skate rink,,"39.952554,-75.167296",Philadelphia,PA,"(B),(AYOR),Cruisy Area",Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+1057,Penn Center Plaza ,Found,Underground skate rink,,"39.952554,-75.167296",Philadelphia,PA,"(B),(AYOR),Cruisy Area",Cruising Areas,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:21pm
+1226,Penn Center Plaza ,Found,Underground skate rink ('Hustlers'),,"39.952554,-75.167296",Philadelphia,PA,"(AYOR),Cruisy Area",Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:21pm
+303,R.D. Club ,Found,13th & Locust ,13th & Locust ," 39.948131,-75.162088",Philadelphia,PA,(RT),Bars/Clubs,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+390,R.D. Club ,Found,13th & Locust ,13th & Locust ," 39.948131,-75.162088",Philadelphia,PA,(RT),Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/24/2020 11:48pm
+503,Regina's Rene ,Found,(go-go boys), 13th nr. Market," 39.952111,-75.161455",Philadelphia,PA,"(YC),(D)",Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:53pm
+311,Rittenhouse Square ,Found,,,"39.949466,-75.171864",Philadelphia,PA,"(HIP),Cruisy Area",Cruising Areas,1973,checked,,,2/23/2020 8:01pm,3/28/2020 3:22pm
+400,Rittenhouse Square ,Found,,,"39.949466,-75.171864",Philadelphia,PA,"(HIP),Cruisy Area",Cruising Areas,1974,checked,,,2/24/2020 11:43pm,3/28/2020 3:22pm
+234,Ritz Bar ,Found,,13th near Market ," 39.952111,-75.161455",Philadelphia,PA,"(B),(*)",Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+304,Ritz Bar ,Found,,13th near Market," 39.952111,-75.161455",Philadelphia,PA,"(B),(*)",Bars/Clubs,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+391,Ritz Bar ,Found,,13th nr. Market ," 39.952111,-75.161455",Philadelphia,PA,"(M),(B),(RT),(*)",Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/24/2020 11:49pm
+504,Ritz Bar ,Found,,13th St. nr. Market," 39.952111,-75.161455",Philadelphia,PA,"(M),(B),(RT),(*)",Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:53pm
+621,Ritz Bar ,Found,,13th St. nr. Market ," 39.952111,-75.161455",Philadelphia,PA,"(M),(B),(RT),(R),(*)",Restaurant,1976,checked,,,2/27/2020 10:43pm,2/29/2020 10:51pm
+745,Ritz Bar ,Found,,13th St. nr. Market ," 39.952111,-75.161455",Philadelphia,PA,"(M),(B),(RT),(R),(*)","Bars/Clubs,Restaurant",1977,checked,,,2/29/2020 10:22pm,3/2/2020 11:14pm
+878,Ritz Bar ,Found,,13th St. nr. Market ," 39.952111,-75.161455",Philadelphia,PA,"(M),(B),(RT),(R),(*)",Restaurant,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:04pm
+235,Rusty's ,Found,(above Barone's),Quince & Walnut,"39.948794,-75.15974",Philadelphia,PA,"(G),(*)",Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+305,Rusty's ,Found,(above Baron's) ,Quince & Walnut,"39.948794,-75.15974",Philadelphia,PA,(G),Bars/Clubs,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+392,Rusty's ,Found,(upstairs),Quince & Walnut,"39.948794,-75.15974",Philadelphia,PA,"(G),(*)",Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/24/2020 11:49pm
+505,Rusty's ,Found,(upstairs) ,Quince & Walnut,"39.948794,-75.15974",Philadelphia,PA,"(G),(D),(*)",Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:54pm
+622,Rusty's ,Found,(Upstairs) ,Quince & Walnut,"39.948794,-75.15974",Philadelphia,PA,"(G),(D),(*)",Bars/Clubs,1976,checked,,,2/27/2020 10:43pm,2/29/2020 10:52pm
+747,Rusty's ,Found,(Upstairs),Quince & Walnut,"39.948794,-75.15974",Philadelphia,PA,"(RT),(G),(D)",Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 11:16pm
+880,Rusty's HC CLub ,Found,10th & Apple Tree Sts.,10th & Apple Tree Sts.,"39.954116,-75.15626",Philadelphia,PA,(G),Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:51am
+748,Rusty's HC Club ,Found,(should be a winner) ,10th & Apple Tree St. ,"39.954116,-75.15626",Philadelphia,PA,(G),Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:04pm
+623,Savoy ,Found,,11th St. & Locust ,"39.947456,-75.15918",Philadelphia,PA,"(M),(R),(C),(AH)",Restaurant,1976,checked,,,2/27/2020 10:43pm,2/29/2020 10:52pm
+506,Savoy's ,Found,,11th St. & Locust ,"39.947456,-75.15918",Philadelphia,PA,"(R),(C),(AH)",Restaurant,1975,checked,,,2/27/2020 3:34pm,2/27/2020 3:54pm
+312,Spruce St. from 11th to 21st,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1973,checked,,,2/23/2020 8:01pm,3/28/2020 3:22pm
+401,Spruce St. from 11th to 24th,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:43pm,3/28/2020 3:22pm
+633,Spruce St. from 21st to 24th ,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 10:43pm,3/28/2020 3:22pm
+759,Spruce St. from 21st to 24th ,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:22pm
+894,Spruce St. from 21st to 24th ,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+1058,Spruce St. from 21st to 24th ,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:22pm
+514,Spruce St. from 21st to 24th Streets,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:22pm
+1227,Spruce St. from 24th to Broad,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+241,Spruce St. from Broad St. to area of Rittenhouse Square,Found,,,"39.948074,-75.172791",Philadelphia,PA,Cruisy Area,Cruising Areas,1972,checked,,,2/21/2020 11:17pm,3/28/2020 3:22pm
+103,Teddy's Bar ,Found,,17th & Lombard ,"39.94527,-75.170114",Philadelphia,PA,(*),Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+140,Teddy's bar ,Found,,Broad & Olney ,"40.039049,-75.144623",Philadelphia,PA,(*),Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+634,Temple U. Campus,Found,,,"39.980594,-75.155738",Philadelphia,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 10:43pm,3/28/2020 3:22pm
+895,Temple U. Campus,Found,,,"39.980594,-75.155738",Philadelphia,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+1059,Temple U. campus,Found,,,"39.980594,-75.155738",Philadelphia,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:22pm
+760,Temple U. Campus ,Found,,,"39.980594,-75.155738",Philadelphia,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:22pm
+1228,Temple U. Campus ,Found,,,"39.980594,-75.155738",Philadelphia,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+515,Temple University Campus ,Found,,,"39.980594,-75.155738",Philadelphia,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:22pm
+104,Terminal Bar ,Found,,Broad & Olney ,"40.039049,-75.144623",Philadelphia,PA,,Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+186,Terminal Bar ,Found,,Broad & Olney ,"40.039049,-75.144623",Philadelphia,PA,,Bars/Clubs,1971,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+237,Terminal Bar ,Found,,Broad & Olney ,"40.039049,-75.144623",Philadelphia,PA,,Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+1045,Terminal Bar ,Found,,13th & Filbert Sts. ,"39.953134,-75.161233 ",Philadelphia,PA,(B),Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/5/2020 9:27pm
+1213,Terminal Bar ,Found,,13th & Filbert ,"39.953134,-75.161233 ",Philadelphia,PA,(B),Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 1:02am
+141,Terminal bar ,Found,,Broad & Olner ,"40.039049,-75.144623",Philadelphia,PA,,Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+1046,The Terminal ,Found,,Broad & Olney,"40.039049,-75.144623",Philadelphia,PA,(B),Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/5/2020 9:28pm
+1214,The Terminal ,Found,,Broad & Olney ,"40.039049,-75.144623",Philadelphia,PA,(B),Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:04pm
+752,Touche ,Found,(above Oz unlimited) ,Chancelor & Juniper ,"39.948638,-75.16326",Philadelphia,PA,"(G),(D)",Bars/Clubs,1977,checked,,,2/29/2020 10:22pm,3/2/2020 11:20pm
+761,U. of PA. - Houston Hall,Found,basement T-room,,"39.950914,-75.193874",Philadelphia,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:23pm
+896,U. of Pa. - Houston Hall ,Found,basement T-Room ,,"39.950914,-75.193874",Philadelphia,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:23pm
+635,U. of Pa. - Houston Hall - basement,Found,,,"39.950914,-75.193874",Philadelphia,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 10:43pm,3/28/2020 3:23pm
+1060,U. of Pa. - Houston Hall - Basement T-Room,Found,,,"39.950914,-75.193874",Philadelphia,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:23pm
+1229,U. of Pa. -Houston Hall ,Found,basement T- Room,,"39.950914,-75.193874",Philadelphia,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:23pm
+239,V.I.P Club ,General City Coordinates Used,(Norristown) ,," 40.121497,-75.339905",Philadelphia,PA,,Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+309,V.I.P. Club ,General City Coordinates Used,(Norristown),," 40.121497,-75.339905",Philadelphia,PA,,Bars/Clubs,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+396,V.I.P. Club ,General City Coordinates Used,(Norristown),," 40.121497,-75.339905",Philadelphia,PA,,Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/24/2020 11:52pm
+888,Variety Room ,Found,(Upstairs),Quince & Walnut ,"39.948794,-75.15974",Philadelphia,PA,"(G),(D)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:56am
+188,Varsity Room ,Found,,Quince & Walnut ,"39.948794,-75.15974",Philadelphia,PA,(G),Bars/Clubs,1971,checked,,,2/21/2020 11:17pm,3/28/2020 3:04pm
+516,Y.M.C.A.,General City Coordinates Used,,,"39.940489,-75.17214",Philadelphia,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:23pm
+636,Y.M.C.A. ,General City Coordinates Used,,,"39.940489,-75.17214",Philadelphia,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 10:43pm,3/28/2020 3:23pm
+1079,2001 ,General City Coordinates Used,(Huge complex with (S)(E)(Disco)(D)(Wed. & Sat. nights only)Next to 3 rivers stadium (Meadville),,"40.445933,-80.01397",Pittsburgh,PA,"(*),(S),(E),(D)",Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:03pm
+1253,2001 ,General City Coordinates Used,(Huge complex with (S)(E)(Disco)(D) Sat. nights only) Next to 3 Rivers Stadium,,"40.445933,-80.01397",Pittsburgh,PA,"(*),(S),(E),(D)",Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 1:47am
+22,A-V-A ,Found, (upstairs entrance on 7th),7th nr. Grant,"40.442186,-79.995009 ",Pittsburgh,PA,"(D),(P)",Bars/Clubs,1965,checked,,,2/18/2020 4:35pm,2/24/2020 11:17pm
+762,Allegheny ,Found,"(Disco)(4 bars, bowling alley, PT)",810-812 Concord Ave. ,"40.457861,-79.997385",Pittsburgh,PA,"(*),(YC),(D),(R)","Restaurant,Bars/Clubs",1977,checked,,,2/29/2020 10:22pm,3/2/2020 11:26pm
+419,Alley behind Edison Hotel ,Found,,,"40.444212,-79.998334",Pittsburgh,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:43pm,3/28/2020 3:18pm
+532,Alley behind Edison Hotel ,Found,,,"40.444212,-79.998334",Pittsburgh,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:18pm
+653,Alley behind Edison Hotel ,Found,,,"40.444212,-79.998334",Pittsburgh,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/28/2020 10:32pm,3/28/2020 3:18pm
+779,Alley behind Edison Hotel ,Found,,,"40.444212,-79.998334",Pittsburgh,PA,"(RT),Cruisy Area",Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:18pm
+918,Alley behind Edison Hotel ,Found,,,"40.444212,-79.998334",Pittsburgh,PA,"(RT),Cruisy Area",Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+900,Boulevard Books ,Found,Smithfield at Avenue of Allies ,,"40.43768,-80.00021",Pittsburgh,PA,,Book Store,1978,checked,,,3/2/2020 11:45pm,3/3/2020 1:02am
+23,Carmen Casa ,Found,Forbes Ave nr. Wood ,,"40.440098,-80.000816",Pittsburgh,PA,"(RT),(SM)",Bars/Clubs,1965,checked,,,2/18/2020 4:35pm,2/24/2020 11:17pm
+403,Cllub Pittsburgh Baths,General City Coordinates Used,(may be opening- inquire locally),,"40.440625,-79.995886",Pittsburgh,PA,,Baths,1974,checked,,,2/24/2020 11:43pm,2/24/2020 11:55pm
+109,Cork n' Bottle ,Found,(downstairs) Oliver & Smithfield ,,"40.440794,-79.998174",Pittsburgh,PA,(PE),Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+146,Cork n' Bottle ,Found,(downstairs) Oliver & Smithfield ,,"40.440794,-79.998174",Pittsburgh,PA,(PE),Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+1239,Dignity/ Pittsburgh,General City Coordinates Used,"(Catholics) Box 991, Pittsburgh 15230",,"40.440625,-79.995886",Pittsburgh,PA,,Church,1980,checked,checked,,3/9/2020 12:35am,3/9/2020 1:28am
+1065,Dignity/Pittsburgh ,General City Coordinates Used,"(Catholics) Box 991, Pittsburgh, Pa. 15230",,"40.440625,-79.995886",Pittsburgh,PA,,Church,1979,checked,checked,,3/5/2020 8:15pm,3/28/2020 3:27pm
+325,Dirthridge St. ,General City Coordinates Used,(Pittsburgh's 'Meat Rack' bet. Forbes & 5th Ave.),," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1973,checked,,,2/23/2020 8:01pm,3/28/2020 3:19pm
+919,Dirthridge St. ,General City Coordinates Used,Pittsburgh's 'Meat Rack' betw. 4th & 5th Sts. ,," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:19pm
+253,Dithridge St. ,General City Coordinates Used,(Pittsburgh's meat rack) bet. Forbes & 5th Ave. ,," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1972,checked,,,2/21/2020 11:17pm,3/28/2020 3:19pm
+420,Dithridge St. ,General City Coordinates Used,"(Pittsburgh's ""Meat Rack"") betw. Forbes & 5th Ave. ",," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:43pm,3/28/2020 3:19pm
+533,Dithridge St. ,General City Coordinates Used,"(Pittsburgh's ""Meat Rack"") Between Forbes & 5th Sts. ",," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:19pm
+654,Dithridge St. ,General City Coordinates Used,(Pittsburgh's 'Meat Rack' between 4th & 5th Sts.) ,," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/28/2020 10:32pm,3/28/2020 3:19pm
+780,Dithridge St. ,General City Coordinates Used,Pittsburgh's 'Meat Rack' betw. 4th & 5th Sts.,," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:19pm
+1081,Dithridge St. ,General City Coordinates Used,Pittsburgh's 'Meat Rack' - betw. 4th & 5th Sts. ,," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:16pm,3/28/2020 3:19pm
+1255,Dithridge St. Winthrop- 'The Wall',General City Coordinates Used,betw. 5th & Forbes (nights only),," 40.440292,-80.00064",Pittsburgh,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:19pm
+1082,Edison Hotel Bar & Alley behind,Found,,,"40.444212,-79.998334",Pittsburgh,PA,"(RT),Cruisy Area",Cruising Areas,1979,checked,,,3/5/2020 8:16pm,3/28/2020 3:20pm
+1256,Edison Hotel Bar & Alley behind,Found,,,"40.444212,-79.998334",Pittsburgh,PA,"(RT),Cruisy Area",Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:20pm
+318,House O' Hi Boy ,Found,(After hours) Penn Ave at 7th St. ,," 40.44324,-80.000263",Pittsburgh,PA,"(M),(R),(C)",Restaurant,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+1083,International Airport,Found,T-Room nr. UAL,,"40.491921,-80.235223",Pittsburgh,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:16pm,3/28/2020 3:20pm
+1257,International Airport ,Found,T-Room nr. UAL,,"40.491921,-80.235223",Pittsburgh,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:20pm
+1071,"Laurel Modeling & Escorts, Inc. ",General City Coordinates Used,"P.O. Box 7124, Pittsburgh, Pa. 15213",,"40.440625,-79.995886",Pittsburgh,PA,,Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/5/2020 10:04pm
+326,Mellon Square,Found,,,"40.44096,-79.99749",Pittsburgh,PA,Cruisy Area,Cruising Areas,1973,checked,,,2/23/2020 8:01pm,3/28/2020 3:21pm
+421,Mellon Square,Found,,,"40.44096,-79.99749",Pittsburgh,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:43pm,3/28/2020 3:21pm
+655,Mellon Square,Found,,,"40.44096,-79.99749",Pittsburgh,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/28/2020 10:32pm,3/28/2020 3:21pm
+1084,Mellon Square,Found,,,"40.44096,-79.99749",Pittsburgh,PA,"(AYOR),Cruisy Area",Cruising Areas,1979,checked,,,3/5/2020 8:16pm,3/28/2020 3:21pm
+254,Mellon Square ,Found,,,"40.44096,-79.99749",Pittsburgh,PA,Cruisy Area,Cruising Areas,1972,checked,,,2/21/2020 11:17pm,3/28/2020 3:21pm
+534,Mellon Square ,Found,,,"40.44096,-79.99749",Pittsburgh,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:21pm
+781,Mellon Square ,Found,,,"40.44096,-79.99749",Pittsburgh,PA,"(AYOR),Cruisy Area",Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:21pm
+920,Mellon Square ,Found,,,"40.44096,-79.99749",Pittsburgh,PA,"(AYOR),Cruisy Area",Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+1258,Mellon Square ,Found,,,"40.44096,-79.99749",Pittsburgh,PA,"(AYOR),Cruisy Area",Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:21pm
+913,Paradise Cove ,General City Coordinates Used,"(Sat & Sun only *) Schenley Rd., off 66 No. - 5 mi. from Leechburg",,"40.62701,-79.605601",Pittsburgh,PA,"(D),(M),(*)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:04pm
+1074,Paradise Cove ,General City Coordinates Used,"(Sat. & Sun. only*)Schenley Rd., off 66 N., 5 mi. from Leechburg",,"40.62701,-79.605601",Pittsburgh,PA,"(D),(M),(*)",Bars/Clubs,1979,checked,,,3/5/2020 8:15pm,3/28/2020 3:04pm
+1248,Paradise Cove ,General City Coordinates Used,"(Sat. & Sun. only) Schenley Rd., off 66 N., 5 mi from Leechburg",,"40.62701,-79.605601",Pittsburgh,PA,"(D),(M),(*)",Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 1:40am
+247,Paris After Dark ,General City Coordinates Used,(some G) Saw Mill Run Blvd. (Rt. 51 South),,"40.406742,-80.004085",Pittsburgh,PA,(G),Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+535,Penn Ave. ,General City Coordinates Used,near bus depot,,"40.462785,-79.928852",Pittsburgh,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:21pm
+656,Penn Ave. ,General City Coordinates Used,near bus depot,,"40.462785,-79.928852",Pittsburgh,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/28/2020 10:32pm,3/28/2020 3:21pm
+782,Penn Ave. ,General City Coordinates Used,nr. Bus Depot,,"40.462785,-79.928852",Pittsburgh,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:21pm
+921,Penn Ave. ,General City Coordinates Used,nr. Bus Depot,,"40.462785,-79.928852",Pittsburgh,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+1085,Penn Ave. nr. Bus Depot,General City Coordinates Used,,,"40.462785,-79.928852",Pittsburgh,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:16pm,3/28/2020 3:21pm
+1259,Penn Ave. nr. Bus Depot ,General City Coordinates Used,,,"40.462785,-79.928852",Pittsburgh,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:21pm
+114,Pin-Up ,General City Coordinates Used,,Penn Ave. ,"40.462785,-79.928852",Pittsburgh,PA,"(RT),(D)",Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,3/28/2020 3:04pm
+151,Pin-Up ,General City Coordinates Used,,Penn Ave. ,"40.462785,-79.928852",Pittsburgh,PA,"(RT),(D)",Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+255,Schenley Park ,Found,Upper oval arc,,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1972,checked,,,2/21/2020 11:17pm,3/28/2020 3:22pm
+327,Schenley Park ,Found,Upper oval arc,,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1973,checked,,,2/23/2020 8:01pm,3/28/2020 3:22pm
+422,Schenley Park ,Found,Upper oval arc. ,,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:43pm,3/28/2020 3:22pm
+536,Schenley Park ,Found,upper oval arc,,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/27/2020 3:34pm,3/28/2020 3:22pm
+657,Schenley Park ,Found,upper oval arc ,,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/28/2020 10:32pm,3/28/2020 3:22pm
+783,Schenley Park ,Found,,overlook Drive nr. Schenley Oval & Prospect Dt. Turnabout,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 10:22pm,3/28/2020 3:22pm
+922,Schenley Park ,Found,,Overlook Dr. nr Schenley Oval & Prospect Dr. Turnabout,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+1086,Schenley Park ,Found,,Overlook Dr. nr. Schenley Oval & Propsect Dr. Turnabout,"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/5/2020 8:16pm,3/28/2020 3:22pm
+1260,Schenley Park ,Found,,Overlook Dr. nr. Schenley Oval & Prospect Dr. Turnabout (Days),"40.434849,-79.942489",Pittsburgh,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+248,Schenley Villa ,Found,,Center & Craig,"40.45189,-79.952021 ",Pittsburgh,PA,,Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+321,Schenley Villa ,Found,,Center & Craig ,"40.45189,-79.952021 ",Pittsburgh,PA,,Bars/Clubs,1973,checked,checked,,2/23/2020 8:01pm,3/28/2020 3:28pm
+197,Silver Buckle ,General City Coordinates Used,,Forbes Ave. ," 40.444052,-79.950213",Pittsburgh,PA,,Bars/Clubs,1971,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+424,This Is It ,Found,,8th & Walnut ,"37.415065,-94.707825",Pittsburgh,PA,"(YC),(D),(*)",Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/25/2020 12:08am
+116,Trade Winds ,Found,,Market at Graeme Market Square ,"40.440782,-80.002484",Pittsburgh,PA,(*),Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+153,Trade Winds ,Found,,Market at Graeme (Market Sq.) ,"40.440782,-80.002484",Pittsburgh,PA,(*),Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+417,Wolfart's ,Found,,5th & Bouquet ,"40.442513,-79.957464",Pittsburgh,PA,"(M),(YC)",Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/25/2020 12:05am
+530,Wolfart's ,Found,,5th & Bouquet,"40.442513,-79.957464",Pittsburgh,PA,"(M),(YC)",Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 4:07pm
+418,Wooden Keg,Found,,Forbes & Bouquet,"40.441945,-79.956442",Pittsburgh,PA,,Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/25/2020 12:07am
+531,Wooden Keg ,Found,,Forbes & Bouquet ,"40.441945,-79.956442",Pittsburgh,PA,,Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 4:08pm
+652,Wooden Keg ,Found,,Forbes & Bouquet ,"40.441945,-79.956442",Pittsburgh,PA,"(M),(R)",Restaurant,1976,checked,,,2/28/2020 10:32pm,3/28/2020 3:04pm
+27,Big Apple ,General City Coordinates Used,,4th and Main ,"40.348594,-75.929473",Reading,PA,(*),Bars/Clubs,1965,checked,,,2/18/2020 4:35pm,2/24/2020 11:17pm
+54,Big Apple ,General City Coordinates Used,,4th and Main ,"40.348594,-75.929473",Reading,PA,(*),Bars/Clubs,1966,checked,,,2/18/2020 4:55pm,3/28/2020 3:03pm
+658,Daniel Boone Hotel Bar ,General City Coordinates Used,,1000 block Penn Ave. ,"40.335692,-75.948118",Reading,PA,(M),Bars/Clubs,1976,checked,,,2/28/2020 10:32pm,2/29/2020 11:25pm
+537,El Camino ,General City Coordinates Used,inquire locally ,," 40.335648,-75.926875",Reading,PA,(M),Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 4:11pm
+661,Sanctuary ,General City Coordinates Used,Inquire locally ,," 40.335648,-75.926875",Reading,PA,,Bars/Clubs,1976,checked,,,2/28/2020 10:32pm,2/29/2020 11:26pm
+539,This Is It,Found,,8th & Walnut ,"40.338367,-75.921936",Reading,PA,"(YC),(D),(*)",Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 4:11pm
+119,Zanzibar ,Found,,3rd at Walnut ," 40.338503,-75.931689",Reading,PA,,Bars/Clubs,1969,checked,,,2/21/2020 1:50pm,3/28/2020 3:04pm
+156,Zanzibar ,Found,,3rd at Walnut ," 40.338503,-75.931689",Reading,PA,,Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+480,Lark ,Found,(back room) (Route 202 at the Bridge),,"40.102824,-75.327311",Bridgeport,PA,"(G),(D)",Bars/Clubs,1975,checked,,,2/25/2020 12:14am,2/25/2020 12:17am
+157,Jimmie's Bar & Grill ,General City Coordinates Used,,Penn Ave. ,"41.418792,-75.656028",Scranton ,PA,"(D),(*)",Bars/Clubs,1970,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+201,Jimmie's Bar & Grill ,General City Coordinates Used,,Penn Ave. ,"41.418792,-75.656028",Scranton ,PA,"(D),(*)",Bars/Clubs,1971,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+162,Washington Hotel Bar ,Found,(thru lobby) ,4th & Pine ," 40.553417,-75.981683",Hamburg,PA,(*),Bars/Clubs,1971,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+210,Washington Hotel Bar ,Found,(thru lobby) ,4th & Pine ," 40.553417,-75.981683",Hamburg,PA,(*),Bars/Clubs,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+1152,'Rest Stop' on 1-95,General City Coordinates Used,,,"39.819279,-75.418527",Marcus Hook,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:18pm
+973,'Rest Stop' on I-95,General City Coordinates Used,,,"39.819279,-75.418527",Marcus Hook,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+165,Club Forty-Six ,General City Coordinates Used,"Rt. 13 at Waterfront (bet. Chester & Wilmington, Del.) ",,"39.819279,-75.418527",Marcus Hook,PA,"(D),(*)",Bars/Clubs,1971,checked,,,2/21/2020 1:50pm,2/24/2020 11:17pm
+793,'The Wall' ,Found,opp. My Oh My Club ,," 40.794839,-77.860699 ",State College ,PA,Cruisy Area,Cruising Areas,1977,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+1099,'The Wall' ,Found,opp. My Oh My Club ,," 40.794839,-77.860699 ",State College ,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/6/2020 8:55pm,3/28/2020 3:18pm
+1272,'The Wall' 100 block of College Ave. ,Found,,," 40.794839,-77.860699 ",State College ,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:18pm
+932,"""The Wall""",Found,opp. My Oh My,," 40.794839,-77.860699 ",State College ,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+203,My Oh MY ,Found,College Ave,," 40.794839,-77.860699 ",State College ,PA,"(YC),(M),(*)",Bars/Clubs,1971,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+1098,Penn St.- Hetzel Union Bldg.,Found,Main floor T-Room ,,"40.798212,-77.861115",State College ,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/6/2020 8:55pm,3/28/2020 3:21pm
+1271,Penn St.- Hetzel Union Bldg. ,Found,Main floor T-Room (AYOR- 'Fuzz'),,"40.798212,-77.861115",State College ,PA,"(AYOR),Cruisy Area",Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:21pm
+1270,Tom Cat ,General City Coordinates Used,(may be opening soon- inquire locally),,"40.793395,-77.860001",State College ,PA,,Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 1:58am
+812,Glenwood Park,Found,,,"42.095249,-80.0727",Erie,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:20pm
+951,Glenwood Park ,Found,,,"42.095249,-80.0727",Erie,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:20pm
+1126,Glenwood Park ,Found,,,"42.095249,-80.0727",Erie,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:20pm
+813,Presque Isle Park Beach,Found,,,"42.158582,-80.114941",Erie,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+952,Presque Isle Park Beach,Found,,,"42.158582,-80.114941",Erie,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+1127,Presque Isle Park Beach ,Found,,,"42.158582,-80.114941",Erie,PA,"(AYOR),Cruisy Area",Cruising Areas,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:22pm
+562,Square opp. Post Office,General City Coordinates Used,,,"42.129224,-80.085059",Erie,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 3:34pm,3/28/2020 3:22pm
+814,Square opp. Post Office ,General City Coordinates Used,,,"42.129224,-80.085059",Erie,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+953,Square opp. Post Office ,General City Coordinates Used,,,"42.129224,-80.085059",Erie,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+1128,Square opp. Post Office ,General City Coordinates Used,,,"42.129224,-80.085059",Erie,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:22pm
+682,Square opp. Post Offie ,General City Coordinates Used,,,"42.129224,-80.085059",Erie,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 10:32pm,3/28/2020 3:22pm
+445,Square opposite Post Office,General City Coordinates Used,,,"42.129224,-80.085059",Erie,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/24/2020 11:43pm,3/28/2020 3:22pm
+348,Washington Grill,Found,,Washington & W. 10th St. ,"42.115252,-80.110473",Erie,PA,"(D),(G),(*)",Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+444,Washington Grill,Found,(some G) ,Washington & W. 10th St. ,"42.115252,-80.110473",Erie,PA,"(D),(*),(G)",Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:23am
+561,Washington Grill,Found,(Some G) ,Washington & W. 10th St. ,"42.115252,-80.110473",Erie,PA,"(D),(G),(*)",Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:23pm
+811,Washington Grill,Found,(Some G) ,Washington & W. 10th St. ,"42.115252,-80.110473",Erie,PA,"(D),(G),(*)",Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 12:04am
+681,Washington Grill ,Found,(some G) ,Washington & W. 10th St. ,"42.115252,-80.110473",Erie,PA,"(D),(G),(*)",Bars/Clubs,1977,checked,,,2/28/2020 10:32pm,3/1/2020 12:01am
+260,Chandler '23 ,General City Coordinates Used,,Rt. 715 South,"41.03981,-75.305729",Tannersville,PA,"(D),(S),(H),(*)",Hotels,1972,checked,,,2/21/2020 11:17pm,2/24/2020 11:17pm
+333,Coral ,General City Coordinates Used,,Center of town on Rt. 611,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+429,Coral ,General City Coordinates Used,,Center of town on St. 116,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/25/2020 12:11am
+544,Coral Reef ,General City Coordinates Used,,Center of town on Rt. 611,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 4:14pm
+667,Coral Reef ,General City Coordinates Used,,Center of town on Rt. 611,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1976,checked,,,2/28/2020 10:32pm,2/29/2020 11:38pm
+795,Coral Reef ,General City Coordinates Used,,Center of town on Rt. 611,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1977,checked,,,3/2/2020 11:45pm,3/2/2020 11:52pm
+934,Coral Reef ,General City Coordinates Used,,Center of town on Rte. 611,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 1:22am
+1102,Coral Reef ,General City Coordinates Used,,Center of town on Rte. 661,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1979,checked,,,3/6/2020 8:55pm,3/6/2020 9:15pm
+1275,Coral Reef ,General City Coordinates Used,,Center of town on Rte. 611,"41.03981,-75.305729",Tannersville,PA,(M),Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 2:01am
+1104,'Rest Stop' on Rte. 11 - 12 mi South,General City Coordinates Used,,,"41.245915,-75.881307",Wilkes-Barre,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/6/2020 8:55pm,3/28/2020 3:18pm
+1278,'Rest Stop' on Rte. 11-12 mi. S,General City Coordinates Used,,,"41.245915,-75.881307",Wilkes-Barre,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:18pm
+1276,Dennis' Paradise Island ,Found, (Disco),South Main Plaza,"41.239204,-75.894589",Wilkes-Barre,PA,"(YC),(D),(*)",Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 2:02am
+935,Tiffany,Found,,Park & Lehigh Sts. ,"41.235172,-75.886082",Wilkes-Barre,PA,,Bars/Clubs,1978,checked,,,3/2/2020 11:45pm,3/3/2020 1:22am
+796,Tiffany Lounge ,Found,Narrows Shopping Center ,,"41.2593,-75.901195 ",Wilkes-Barre,PA,"(M),(D),(AH)",Bars/Clubs,1977,checked,,,3/2/2020 11:45pm,3/2/2020 11:52pm
+1277,Vispi's Camelot Lounge ,Found,(Narrows Shopping Center- Wyoming Ave. (Rte. 11)(Edwardsville),,"41.2593,-75.901195 ",Wilkes-Barre,PA,"(M),(E),(*)",Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 2:03am
+335,Vispy's ,General City Coordinates Used,Inquire Locally,,"41.245915,-75.881307",Wilkes-Barre,PA,,Bars/Clubs,1973,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+431,Vispy's ,General City Coordinates Used,(inquire locally) ,,"41.245915,-75.881307",Wilkes-Barre,PA,,Bars/Clubs,1974,checked,,,2/24/2020 11:43pm,2/25/2020 12:11am
+546,Vispy's ,General City Coordinates Used,Inquire locally ,,"41.245915,-75.881307",Wilkes-Barre,PA,,Bars/Clubs,1975,checked,,,2/27/2020 3:34pm,2/27/2020 4:14pm
+1115,La Pierre ,Found,(Some L),7th Ave. at Union ,"40.501827,-78.407025 ",Altoona,PA,"(M),(L),(D)",Bars/Clubs,1980,checked,,,3/6/2020 8:55pm,3/6/2020 9:25pm
+338,Logan Valley Mall,Found,,,"40.469124,-78.411942",Altoona,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/23/2020 8:01pm,3/28/2020 3:21pm
+435,Logan Valley Mall,Found,,,"40.469124,-78.411942",Altoona,PA,Cruisy Area,Cruising Areas,1975,checked,,,2/24/2020 11:43pm,3/28/2020 3:21pm
+550,Logan Valley Mall,Found,,,"40.469124,-78.411942",Altoona,PA,Cruisy Area,Cruising Areas,1976,checked,,,2/27/2020 3:34pm,3/28/2020 3:21pm
+802,Logan Valley Mall,Found,,,"40.469124,-78.411942",Altoona,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+1116,Logan Valley Mall,Found,,,"40.469124,-78.411942",Altoona,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:21pm
+670,Logan Valley Mall ,Found,,,"40.469124,-78.411942",Altoona,PA,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 10:32pm,3/28/2020 3:21pm
+940,Logan Valley Mall ,Found,,,"40.469124,-78.411942",Altoona,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+555,Danny's Hideaway,General City Coordinates Used,,"Rt. 220, R.D. 1","40.423406,-78.433903",Duncansville,PA,"(G),(D)",Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:20pm
+342,Danny's Hideaway ,General City Coordinates Used,,Rt. 220 R.D. 1,"40.423406,-78.433903",Duncansville,PA,"(G),(D)",Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+438,Danny's Hideaway ,General City Coordinates Used,,"Rt. 220, R.D. 1","40.423406,-78.433903",Duncansville,PA,"(D),(G)",Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:19am
+675,Danny's Hideaway ,General City Coordinates Used,,"Rt. 220, R.D. 1","40.423406,-78.433903",Duncansville,PA,"(G),(D)",Bars/Clubs,1977,checked,,,2/28/2020 10:32pm,2/29/2020 11:57pm
+344,Bar 16,General City Coordinates Used,,N. 4th St. ,"40.740481,-75.252552",Easton,PA,(M),Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+440,Bar 16 ,General City Coordinates Used,,N. 4th St.,"40.740481,-75.252552",Easton,PA,(M),Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:20am
+557,Bar 16 ,General City Coordinates Used,,N. 4th St. ,"40.740481,-75.252552",Easton,PA,(M),Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:21pm
+345,Del Rey's Diner,General City Coordinates Used,(after hours) ,"25th St., opp. shopping center","40.677048,-75.246426",Easton,PA,"(M),(R),(C)",Restaurant,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+441,Del Roy's Diner ,General City Coordinates Used,,"25th Street, opposite shopping center","40.677048,-75.246426",Easton,PA,"(M),(R),(C),(AH)",Restaurant,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:21am
+558,Del Roy's Diner ,General City Coordinates Used,,25th St. opp. shopping center ,"40.677048,-75.246426",Easton,PA,"(M),(R),(C),(AH)",Restaurant,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:22pm
+442,Manhattan Lounge ,General City Coordinates Used,,One the Square,"40.690933,-75.209857",Easton,PA,,Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:21am
+559,Manhattan Lounge ,General City Coordinates Used,,On the square ,"40.690933,-75.209857",Easton,PA,,Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:22pm
+346,"Manhattan, On the Square ",General City Coordinates Used,,,"40.690933,-75.209857",Easton,PA,,Bars/Clubs,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+378,Harrison Ave. ,Found,,,"40.303296,-79.546214",Greensburg,PA,Cruisy Area,Cruising Areas,1974,checked,,,2/24/2020 11:04pm,3/28/2020 3:20pm
+1131,Harrison Ave. off Otterman St. ,Found,,,"40.303296,-79.546214",Greensburg,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:20pm
+349,Act III,General City Coordinates Used,"(Inquire locally) Spot, Main St.",,"40.325996,-78.919898",Johnstown,PA,"(M),(R)",Restaurant,1974,checked,,,2/23/2020 8:01pm,2/24/2020 11:17pm
+455,Act III,General City Coordinates Used,(Inquire locally),,"40.325996,-78.919898",Johnstown,PA,"(M),(R)",Restaurant,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:29am
+571,Act III,General City Coordinates Used,Inquire locally ,,"40.325996,-78.919898",Johnstown,PA,"(M),(R)",Restaurant,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:27pm
+456,Spot ,General City Coordinates Used,,Main St. ,"40.325996,-78.919898",Johnstown,PA,,Bars/Clubs,1975,checked,,,2/24/2020 11:43pm,2/25/2020 12:28am
+572,Spot ,General City Coordinates Used,,Main St. ,"40.325996,-78.919898",Johnstown,PA,,Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:27pm
+552,2002 Club ,General City Coordinates Used,(Disco)(Saturday nights only) , 9 mi. N. on RT. 8,"40.861176,-79.895333",Butler,PA,"(D),(BYOB)",Bars/Clubs,1976,checked,,,2/27/2020 3:34pm,2/27/2020 4:19pm
+672,2002 Club ,General City Coordinates Used,(Disco)(Sat. night only), 9 mi. N. on RT. 8,"40.861176,-79.895333",Butler,PA,"(G),(D)",Bars/Clubs,1977,checked,,,2/28/2020 10:32pm,2/29/2020 11:55pm
+1107,14 Karat ,General City Coordinates Used,,W. Market St. ,"39.957071,-76.745212 ",York,PA,(RT),Bars/Clubs,1979,checked,,,3/6/2020 8:55pm,3/6/2020 9:18pm
+1281,14 Karat ,General City Coordinates Used,,W. Market St. ,"39.957071,-76.745212 ",York,PA,(RT),Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 2:06am
+1109,100 Block of Duke & Queen Sts. ,Found,,," 39.961322,-76.72501 ",York,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/6/2020 8:55pm,3/28/2020 3:18pm
+1283,100 Block of Duke & Wueen Sts. ,Found,,," 39.961322,-76.72501 ",York,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:18pm
+1106,Atland's Ranch ,General City Coordinates Used,(Disco)(WE-only*),10 mi. W. off Rte. 30,"39.962598,-76.727745",York,PA,"(H),(S),(E),(D),(WE),(*)",Bars/Clubs,1979,checked,,,3/6/2020 8:55pm,3/6/2020 9:18pm
+1280,Atland's Ranch ,General City Coordinates Used,(Disco)(WE- only*), 10 mi. W. of Rte. 30 ,"39.962598,-76.727745",York,PA,"(S),(E),(D),(W),(*)",Bars/Clubs,1980,checked,,,3/9/2020 12:35am,3/9/2020 2:06am
+1110,Square on George St. ,General City Coordinates Used,,,"39.975892,-76.732614",York,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/6/2020 8:55pm,3/28/2020 3:22pm
+1284,Square on George St. ,General City Coordinates Used,,,"39.975892,-76.732614",York,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+1285,Swingers Book Club ,General City Coordinates Used,,,"39.975892,-76.732614",York,PA,Cruisy Area,"Cruising Areas,Book Store",1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+1111,Swingers Book Store ,General City Coordinates Used,,,"39.962598,-76.727745",York,PA,Cruisy Area,"Cruising Areas,Book Store",1979,checked,,,3/6/2020 8:55pm,3/28/2020 3:22pm
+1274,Hilton Hotel Bar ,General City Coordinates Used,,,"40.986761,-75.194625",Stroudsburg,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:20pm
+928,'Rest Stop' on Hwy. 82 W,General City Coordinates Used,,,"41.233112,-80.493403",Sharon,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+1093,'Rest Stop' on Hwy. 82 W.,General City Coordinates Used,,,"41.233112,-80.493403",Sharon,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/6/2020 8:55pm,3/28/2020 3:18pm
+790,'Rest Stop' on Hwy. 82- West,General City Coordinates Used,,,"41.233112,-80.493403",Sharon,PA,Cruisy Area,Cruising Areas,1977,checked,checked,,3/2/2020 11:45pm,3/28/2020 3:24pm
+1267,Court House Square ,General City Coordinates Used,,,"41.233112,-80.493403",Sharon,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:19pm
+804,'Rest stop' and adj. woods,General City Coordinates Used,,"Rte. 22, 1 mi. E of RTE 119 ","40.43118,-79.260869",Blairsville,PA,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+941,'Rest Stop' and adj. woods ,General City Coordinates Used,,"Rte. 22, 1 mi. E. of Rte. 119","40.61831,-79.157929 ",Blairsville,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+1141,Leonard Hall,Found,Indiana U. Main floor T-Room,,"40.61831,-79.157929 ",Indiana,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:21pm
+964,Leonard Hall- Indiana U.,Found,Main floor T-Room,,"40.61831,-79.157929 ",Indiana,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:21pm
+1142,Regency Mall,Found,T-Rooms,," 40.615776,-79.173141",Indiana,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:22pm
+965,Regency Mall ,Found,T-Rooms,," 40.615776,-79.173141",Indiana,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+977,'The Wall',Found,,Rte. 93 S. - Nescopeck end of Ber-Nesco Bridge,"41.052113,-76.23122",Nescopeck,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:18pm
+1155,'The Wall' ,Found,,Rte. 93 S.- Nescopeck end of Ber-Nesco Bridge,"41.052113,-76.23122",Nescopeck,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:18pm
+974,Colonial House Restaurant,General City Coordinates Used,,,"41.052029,-76.220767",Nescopeck,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:19pm
+975,Ernie's Nesco Freeze,General City Coordinates Used,,,"41.052029,-76.220767",Nescopeck,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:20pm
+1153,Ernie's Nesco Freeze,General City Coordinates Used,,,"41.052029,-76.220767",Nescopeck,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:20pm
+976,Poor Richard's Dairy & Deli,General City Coordinates Used,,,"41.052029,-76.220767",Nescopeck,PA,Cruisy Area,Cruising Areas,1979,checked,,,3/2/2020 11:45pm,3/28/2020 3:22pm
+1154,Poor Richard's Dairy & Deli,General City Coordinates Used,,,"41.052029,-76.220767",Nescopeck,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:22pm
+1118,'Rest Stop' on I-81- Southbound,General City Coordinates Used,,,"39.937591,-77.661102",Chambersburg,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:18pm
+1132,'Rest Stop' on I-81 S. ,General City Coordinates Used,,," 39.790371,-77.727771",Greencastle,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/6/2020 8:55pm,3/28/2020 3:18pm
+1151,Coleman's Park ,Found,,,"40.350593,-76.44091 ",Lebanon,PA,"(AYOR),Cruisy Area",Cruising Areas,1980,checked,,,3/6/2020 8:56pm,3/28/2020 3:18pm
+1231,"'Rest Stop' & woods behind I-81, betw. exit 31 & 32",General City Coordinates Used,,,"40.548423,-76.384678",Pine Grove,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:18pm
+1230,"Public Park & Hiking Area off I-81 E, exit 34",General City Coordinates Used,,,"40.548423,-76.384678",Pine Grove,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+1232,Swatara Falls ,Found,,,"40.670404,-76.357991",Pine Grove,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+1233,"Truck Stop- I-81, Exit 31",General City Coordinates Used,,,"40.548423,-76.384678",Pine Grove,PA,Cruisy Area,Cruising Areas,1980,checked,,,3/9/2020 12:35am,3/28/2020 3:22pm
+1101,Pine Wood Camp Ground ,General City Coordinates Used,P.O. Box 880 ,,"40.862585,-76.79441",Sunbury,PA,,Hotels,1979,checked,checked,,3/6/2020 8:55pm,3/6/2020 9:15pm
+1140,Peoples Choice Cape,General City Coordinates Used,Inquire locally,,"40.651514,-76.497721",Hegins,PA,"(M),(YC),(R),(WE)",Restaurant,1980,checked,,,3/6/2020 8:55pm,3/6/2020 10:10pm

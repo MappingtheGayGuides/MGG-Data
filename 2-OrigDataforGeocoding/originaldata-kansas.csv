@@ -1,0 +1,96 @@
+﻿ID,title,description,streetaddress,city,state,Year,amenityfeatures,type,unclearaddress,notes,dateadded,lastmodified
+5,Pete's Pub,(Some L) (Sundays *),2550 W. 47th St.,Kansas City,KS,1980,"(D),(L),(*)",Bars/Clubs,,,2/15/2020 6:42pm,2/16/2020 4:13am
+12,The Office,"(Some M, L, B, RT)",140 S. 5th St.,Salina,KS,1980,"(M),(L),(B),(RT),(PT)",Bars/Clubs,,,2/15/2020 6:42pm,2/16/2020 4:13am
+13,Cre's,(Some L),2436 S.E. Virigina,Topeka,KS,1980,"(P),(D),(PT),(L),(*)",Bars/Clubs,,,2/15/2020 6:42pm,2/16/2020 4:13am
+15,Lambda ,(Disco),1435 N. Tyler,Topeka,KS,1980,"(P),(D),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+21,Bus Station,(Disco) (Some L) (Liquor) (WE*),1117 E. Pawnee,Wichita,KS,1980,"(P),(D),(L),(WE),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+22,Club Bunnie's,(Disco) (Some L) (Show Address Book for Adm.) (Liquor),604 S. Topeka,Wichita,KS,1980,"(*),(P),(YC),(D),(L)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+23,"Danny's Cattleman's Association, Ltd.",(Liquor or BYOB) (Forget it!),1534 Ida,Wichita,KS,1980,"(BYOB),(PT),(W)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+24,R & R Club,nr. Broadway,100 W. 31st St,Wichita,KS,1980,"(P),(D),(PT),(BYOB),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+32,Other Way ,(Closed Monday) (WE*),2410 E. 4th ,Hutchinson,KS,1979,"(P),(D),(WE),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+34,Pete's Pub,(Some G) (Sundays *),2550 W. 47th St.,Kansas City,KS,1979,"(D),(G),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+42,Northside Tea Room,(Disco) (Some G) (P- out-of-state guests show Address Book for admission),1435 N. Tyler,Topeka,KS,1979,"(*),(D),(G),(P)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+43,Oz's,(Disco) (Liquor) (Out-of-state guests show Address Book for adm.),1006 Kansas,Topeka,KS,1979,"(P),(*),(D),(YC)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+48,Bus Station,(Disco) (Some G) (Liquor) (WE*),1117 E. Pawnee,Wichita,KS,1979,"(P),(D),(G),(WE),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+49,"Cattlemen's Assocation, Ltd.",('Flicks & cruisy back room) (P-show Address Book for adm.) (Open days) (Liquor or BYOB) (See ad p. 173),1534 Ida,Wichita,KS,1979,"(*),(W),(PT),(P)","Bars/Clubs,Theatre,Cruising Areas",,,2/15/2020 6:43pm,2/16/2020 4:13am
+50,Omage's Tavern,(3.2 beer) (Disco) (go go boys) (see ad p.173),3046 E. 31st St. S.,Wichita,KS,1979,"(YC),(D),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+51,R & R Club,nr. Broadway,100 W. 31st St,Wichita,KS,1979,"(P),(D),(PT),(BYOB),(*)",Bars/Clubs,,,2/15/2020 6:43pm,2/16/2020 4:13am
+58,Rosalea's Hotel,(May 1 to Labor Day - write first as local Ma Bell had the phone cut off),121 Mian St.,Harper,KS,1978,(H),Hotels,,,2/15/2020 8:55pm,2/16/2020 4:13am
+60,Pete's Pub,(Some G) (Open Sundays *),2550 W. 47th St.,Kansas City,KS,1978,"(D),(G),(*)",Bars/Clubs,,,2/15/2020 8:55pm,2/16/2020 4:13am
+66,Guys & Dolls ,(Some G) (3.2 beer),415 Kansas Ave.,Topeka,KS,1978,"(D),(G)",Bars/Clubs,,,2/15/2020 8:55pm,2/16/2020 4:13am
+67,Jayhawk Liquor Store,,117 W. 7th,Topeka,KS,1978,(M),Business,,,2/15/2020 9:06pm,2/16/2020 4:13am
+68,Midnight Sun,(Some G) (Swim pool - summers),2633 N. Kansas,Topeka,KS,1978,"(*),(P),(YC),(G),(D),(BYOB)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+69,Northside Tea Room,(Disco) (Liquor) (P- out-of-state guests show Address Book for adm.),1435 N. Tyler,Topeka,KS,1978,"(D),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+72,The Shoppe,(Gift & books)*,115 W. 7th,Topeka,KS,1978,(*),"Book Store,Business",,,2/15/2020 9:06pm,2/16/2020 4:13am
+76,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,1978,"(P),(G),(D),(PT),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+77,"Cattlemen's Assocation, Ltd.",(Beer & wine) (Good afternoons),1534 Ida,Wichita,KS,1978,"(W),(PT),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+78,Helping Hands,(Some G) (Disco) (3.2 beer),3318 W. Douglas,Wichita,KS,1978,"(*),(YC),(G),(D),(PT),(S)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+79,Mountain Hollow,,Kellog & Broadway,Wichita,KS,1978,"(M),(R),(C),(AH)",Restaurant,,,2/15/2020 9:06pm,2/16/2020 4:13am
+80,R&R Club,nr. Broadway,100 W. 31st S.,Wichita,KS,1978,"(P),(D),(PT),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+84,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,1977,"(D),(G),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+85,Guys & Dolls ,"(Some G, B, D) (beer)",415 Kansas Ave.,Topeka,KS,1977,"(G),(B),(D)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+86,Midnight Sun,(Swim pool - summers) Open til 3 a.m.,2633 N. Kansas,Topeka,KS,1977,"(P),(YC),(D),(BYOB),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+88,Bus Station,,1117 E. Pawnee,Wichita,KS,1977,"(P),(G),(D),(PT),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+89,Eleven Twenty-Three Club,(Occasional S),1123 E. Douglas,Wichita,KS,1977,"(*),(P),(D),(S)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+90,Helping Hands,(Disco) (3.2 beer only),3318 W. Douglas,Wichita,KS,1977,"(YC),(D),(PT)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+91,Jack's by the Tracks,,1534 Ida,Wichita,KS,1977,"(P),(D),(PT),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+94,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,1976,"(D),(G),(*)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+96,Guys & Dolls ,"(Some G, B) (3.2 beer only)",415 Kansas Ave.,Topeka,KS,1976,"(G),(B),(D)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+97,Mae's Place,(Some G) ,922 Kansas Ave.,Topeka,KS,1976,"(P),(G),(D),(BYOB)",Bars/Clubs,,,2/15/2020 9:06pm,2/16/2020 4:13am
+98,Other Side,"(swim pool summers, WE 1 p.m. - 3 a.m. Other times 9 p.m. - 3 a.m.)",2633 N. Kansas,Topeka,KS,1976,"(P),(YC),(D),(BYOB)",Bars/Clubs,,,2/15/2020 10:22pm,2/16/2020 4:13am
+100,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,1976,"(P),(D),(G),(*)",Bars/Clubs,,,2/15/2020 10:22pm,2/16/2020 4:13am
+101,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1976,"(P),(YC),(D),(*)",Bars/Clubs,,,2/15/2020 10:32pm,2/16/2020 4:13am
+102,Helping Hands,(3.2 beer only),3318 W. Douglas,Wichita,KS,1976,,Bars/Clubs,,,2/15/2020 10:32pm,2/16/2020 4:13am
+103,Jack's by the Tracks,,1534 Ida,Wichita,KS,1976,"(P),(D),(*)",Bars/Clubs,,,2/15/2020 10:32pm,2/16/2020 4:13am
+106,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,1975,"(D),(G),(*)",Bars/Clubs,,,2/15/2020 10:32pm,2/16/2020 4:13am
+107,Louise's,,1017 Massachusetts,Lawrence,KS,1975,(M),Bars/Clubs,,,2/15/2020 10:32pm,2/16/2020 4:13am
+109,Other Side,(12 noon to 3 a.m. daily),2633 N. Kansas,Topeka,KS,1975,"(P),(D),(YC),(R),(BYOB),(*)",Restaurant,,,2/15/2020 10:32pm,2/16/2020 4:13am
+110,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1975,,Bars/Clubs,,,2/15/2020 10:38pm,2/16/2020 4:13am
+111,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,1975,"(P),(D),(G)",Bars/Clubs,,,2/15/2020 10:38pm,2/16/2020 4:13am
+112,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1975,"(P),(D),(YC),(*)",Bars/Clubs,,,2/15/2020 10:38pm,2/16/2020 4:13am
+113,Jack's by the Tracks,,1534 Ida,Wichita,KS,1975,"(P),(D),(*)",Bars/Clubs,,,2/15/2020 10:38pm,2/16/2020 4:13am
+114,Jekyll & Hyde,,1119 E. Pawnee,Wichita,KS,1975,"(G),(D),(*)",Bars/Clubs,,,2/15/2020 10:38pm,2/16/2020 4:13am
+116,Pete's Pub,,2550 W. 47th St.,Kansas City,KS,1974,"(G),(*)",Bars/Clubs,,,2/15/2020 10:38pm,2/16/2020 4:13am
+117,Louise's,,1017 Massachusetts,Lawrence,KS,1974,(M),Bars/Clubs,,,2/15/2020 10:38pm,2/16/2020 4:13am
+119,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1974,"(D),(*)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+120,Eleven-Twenty-Three Club,(some G) ,1123 E. Douglas,Wichita,KS,1974,"(P),(D),(*)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+121,Jack's by the Tracks,,1534 Ida,Wichita,KS,1974,"(D),(*)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+122,Quiet Room,,1527 E. Pawnee,Wichita,KS,1974,"(P),(D),(HIP),(YC),(*)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+124,Bank,('packed' late after Missouri bars closed),722 Southwest Boulevard,Kansas City,KS,1973,"(P),(HIP),(YC),(D),(R)","Restaurant,Bars/Clubs",,,2/15/2020 10:44pm,2/16/2020 4:13am
+125,Indians,(Other Side),1610 Minnesota Ave.,Kansas City,KS,1973,"(P),(D)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+126,Pete's Pub,,2550 W. 47th St.,Kansas City,KS,1973,(G),Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+127,Louise's,,1017 Massachusetts,Lawrence,KS,1973,(M),Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+129,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1973,"(D),(*)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+130,Eleven-Twenty-Three Club,(some (G)) ,1123 E. Douglas,Wichita,KS,1973,"(G),(P),(D)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+131,Jack's by the Tracks,,1534 Ida,Wichita,KS,1973,"(D),(*)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+132,Quiet Room,,1527 E. Pawnee,Wichita,KS,1973,"(P),(D),(HIP),(YC),(*)",Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+133,Third Stone,,1009 E. Douglas,Wichita,KS,1973,,Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+135,Tap Room,,514 Commerical,Emporia,KS,1972,,Bars/Clubs,,,2/15/2020 10:44pm,2/16/2020 4:13am
+136,Alternate,(iopen 7 days 'till 3 am) ,2550 W. 47th St.,Kansas City,KS,1972,"(G),(D),(*)",Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+137,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,1972,(M),"Bars/Clubs,Hotels",,,2/15/2020 10:54pm,2/16/2020 4:13am
+138,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1972,"(D),(*)",Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+139,Eleven-Twenty-Three Club,(get admission card at Red Head early),1123 E. Douglas,Wichita,KS,1972,"(P),(D),(*)",Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+140,Jack's by the Tracks,,1534 Ida,Wichita,KS,1972,"(D),(*)",Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+141,Red Head,,418 W. 2nd,Wichita,KS,1972,(G),Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+142,Tap Room,,514 Commerical,Emporia,KS,1971,,Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+143,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,1971,(M),"Bars/Clubs,Hotels",,,2/15/2020 10:54pm,2/16/2020 4:13am
+144,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1971,"(D),(*)",Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+145,Eleven-Twenty-Three Club,(get admission card at Red Head before midnite),1123 E. Douglas,Wichita,KS,1971,"(P),(D),(*)",Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+146,Jack's by the Tracks,,1534 Ida St.,Wichita,KS,1971,(*),Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+147,Red Head,,418 W. 2nd,Wichita,KS,1971,(G),Bars/Clubs,,,2/15/2020 10:54pm,2/16/2020 4:13am
+148,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,1970,(M),"Bars/Clubs,Hotels",,,2/15/2020 10:54pm,2/16/2020 4:13am
+149,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1970,"(D),(*)",Bars/Clubs,,,2/15/2020 11:01pm,2/16/2020 4:13am
+150,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1970,"(P),(D),(*)",Bars/Clubs,,,2/15/2020 11:01pm,2/16/2020 4:13am
+151,Jack's Jolly Jug No. 2,,1534 Ida St.,Wichita,KS,1970,,Bars/Clubs,,,2/15/2020 11:01pm,2/16/2020 4:13am
+152,Red Flame,,1009 E. Douglas,Wichita,KS,1970,(*),Bars/Clubs,,,2/15/2020 11:01pm,2/16/2020 4:13am
+153,Red Head,,418 W. 2nd,Wichita,KS,1970,(G),Bars/Clubs,,,2/15/2020 11:01pm,2/16/2020 4:13am
+154,Jade Room,,116 E. 7th St.,Topeka,KS,1969,,Bars/Clubs,,,2/15/2020 11:01pm,2/16/2020 4:13am
+156,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1969,"(P),(D)",Bars/Clubs,,,2/15/2020 11:04pm,2/16/2020 4:13am
+157,Jolly Jug,,418 W 2nd,Wichita,KS,1969,(*),Bars/Clubs,,,2/15/2020 11:04pm,2/16/2020 4:13am
+158,Jade Room,,116 E. 7th St.,Topeka,KS,1968,,Bars/Clubs,,,2/15/2020 11:04pm,2/16/2020 4:13am
+160,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1968,"(P),(D)",Bars/Clubs,,,2/15/2020 11:04pm,2/16/2020 4:13am
+162,Jolly Jug,,418 W 2nd,Wichita,KS,1968,(*),Bars/Clubs,,,2/15/2020 11:04pm,2/16/2020 4:13am
+163,Jade Room,(formerly Bon Sai),116 E. 7th St.,Topeka,KS,1966,(*),Bars/Clubs,,,2/15/2020 11:04pm,2/16/2020 4:13am
+164,Chances,,1123 E. Douglas,Wichita,KS,1966,(R),Restaurant,,,2/15/2020 11:04pm,2/16/2020 4:13am
+165,Bon Sai,,116 E. 7th St.,Topeka,KS,1965,(*),Bars/Clubs,,,2/15/2020 11:04pm,2/16/2020 4:13am
+166,Chances,,1123 E. Douglas,Wichita,KS,1965,(R),Restaurant,,,2/15/2020 11:12pm,2/16/2020 4:13am
