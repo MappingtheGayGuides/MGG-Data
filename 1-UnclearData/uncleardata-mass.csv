@@ -1,0 +1,430 @@
+﻿ID,Title,status,description,streetaddress,lat.lon,city,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,dateadded,lastmodified
+2,'Rest Stops',Found,"on I-95 N. at Attleboro, & Southbound at N. Attleboro",,"41.944544,-71.285608",Attleboro,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/28/2020 9:31pm,3/29/2020 12:49am
+204,'Rest Stops',Found,"on I-95 N. at Attleboro, & Southbound at N. Attleboro",,"41.944544,-71.285608",Attleboro,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,,3/29/2020 12:36am,3/30/2020 1:43am
+1,U. of Mass.,Found,Downstairs T-room,,"41.944544,-71.285608",Attleboro,Cruisy Area,"Cruising Areas,Organizations",1980,checked,,,3/28/2020 9:30pm,3/31/2020 7:07pm
+395,'L' St. Beach,Found,,,"42.328987,-71.035301",Boston,"Cruisy Area,(OC)",Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+65,'L' St. Beach,Found,,,"42.328987,-71.035301",Boston,"Cruisy Area,(OC)",Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+251,'L' St. Beach,Found,,,"42.328987,-71.035301",Boston,"Cruisy Area,(OC)",Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+543,'L' Street Beach,Found,,,"42.328987,-71.035301",Boston,"Cruisy Area,(OC)",Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+863,'L' Street Beach,Found,,,"42.328987,-71.035301",Boston,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+673,'L' Street Beach,Found,,,"42.328987,-71.035301",Boston,"Cruisy Area,(OC)",Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+786,'L' Street Beach,Found,,,"42.328987,-71.035301",Boston,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+71,'The Block',Found,Commenwealth & Marlborough betw. Arlington & Berkeley,,"42.354125,-71.073122",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,approximate.,3/28/2020 10:06pm,3/29/2020 12:49am
+257,'The Block' ,Found,Commonwealth & Marlborough betw. Arlington & Berkeley,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1979,checked,,approximate.,3/29/2020 6:30pm,3/30/2020 1:43am
+549,'The Block' ,Found,Park Square,,"42.351148,-71.067945",Boston,Cruisy Area,Cruising Areas,1977,checked,,approximate.,3/30/2020 2:36am,3/30/2020 10:49pm
+679,'The Block' ,Found,Park Square,,"42.351148,-71.067945",Boston,Cruisy Area,Cruising Areas,1976,checked,,approximate.,3/30/2020 11:17pm,3/31/2020 2:01am
+936,'The Block' ,Found,Park Square,,"42.351148,-71.067945",Boston,Cruisy Area,Cruising Areas,1973,checked,,approximate.,3/31/2020 4:47pm,3/31/2020 6:27pm
+402,'The Block' ,Found,Commonwealth & Marlborough betw. Arlington & Berkeley,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1978,checked,,approximate.,3/30/2020 1:55am,3/30/2020 2:57am
+867,'The block' ,Found,Park Square,,"42.351148,-71.067945",Boston,Cruisy Area,Cruising Areas,1774,checked,,approximate.,3/31/2020 2:27pm,3/31/2020 5:30pm
+790,'The block' ,Found,Park Square,,"42.351148,-71.067945",Boston,Cruisy Area,Cruising Areas,1975,checked,,approximate.,3/31/2020 1:38pm,3/31/2020 4:10pm
+248,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+392,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+783,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+669,Back Bay Fens,Found,(caution),,"42.34348,-71.094564",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+861,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+62,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+992,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+931,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,Cruisy Area,Cruising Areas,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+539,Back Bay Fens,Found,,,"42.34348,-71.094564",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+670,Blue Hill,Found,(Milton),,"42.215952,-71.067605",Boston,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+784,Blue Hill,Found,(Milton),,"42.215952,-71.067605",Boston,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+393,Blue Hills ,Found,(Milton),,"42.215952,-71.067605",Boston,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+249,Blue Hills ,Found,(Milton),,"42.215952,-71.067605",Boston,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+63,Blue Hills ,Found,(Milton),,"42.215952,-71.067605",Boston,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+540,Blue Hills ,Found,(Milton),,"42.215952,-71.067605",Boston,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+671,Boston Public Library,Found,basement,,"42.349314,-71.078187",Boston,Cruisy Area,"Cruising Areas,Organizations",1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+394,Boston Public Library,Found,Basement T-Room,,"42.349314,-71.078187",Boston,Cruisy Area,"Cruising Areas,Organizations",1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+541,Boston Public Library,Found,basement T-Room,,"42.349314,-71.078187",Boston,Cruisy Area,"Cruising Areas,Organizations",1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+250,Boston Public Library,Found,Basement T-Room,,"42.349314,-71.078187",Boston,Cruisy Area,"Cruising Areas,Organizations",1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+64,Boston Public Library ,Found,Basement T-room (Sure suicide) (Massive arrests),,"42.349314,-71.078187",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+1106,Bosun's Lounge,Found,Hotel Madison North Station,,"42.364985,-71.06298",Boston,(M),"Bars/Clubs,Hotels",1969,checked,,See https://en.wikipedia.org/wiki/Hotel_Manger for a history of the hotel.,3/31/2020 7:26pm,3/31/2020 7:41pm
+1179,Bosun's Lounge,Found,Hotel Madison N Sta,,"42.364985,-71.06298",Boston,(M),"Bars/Clubs,Hotels",1968,checked,,See https://en.wikipedia.org/wiki/Hotel_Manger for a history of the hotel.,3/31/2020 7:52pm,3/31/2020 7:56pm
+1029,Bosun's Lounge,Found,Hotel Madison North Station,,"42.364985,-71.06298",Boston,(M),"Bars/Clubs,Hotels",1971,checked,,See https://en.wikipedia.org/wiki/Hotel_Manger for a history of the hotel.,3/31/2020 4:48pm,3/31/2020 6:55pm
+1214,Bosun's Lounge,Found,Hotel Madison North Sta,,"42.364985,-71.06298",Boston,(M),"Bars/Clubs,Hotels",1966,checked,,See https://en.wikipedia.org/wiki/Hotel_Manger for a history of the hotel.,3/31/2020 7:52pm,3/31/2020 8:17pm
+1069,Bosun's Lounge,Found,Hotel Madison North Station,,"42.364985,-71.06298",Boston,(M),"Bars/Clubs,Hotels",1970,checked,,See https://en.wikipedia.org/wiki/Hotel_Manger for a history of the hotel.,3/31/2020 4:49pm,3/31/2020 7:40pm
+911,Carnival,Found,,Boylston near Washington,"42.35239,-71.062603",Boston,"(RT),(*)",Bars/Clubs,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+212,Club Boston Baths,Found,"(Some W, SM)",4 La Grange betw. Stuart & Washington,"42.351401,-71.062961",Boston,"(*),(W),(S)",Baths,1979,checked,,,3/29/2020 12:36am,3/30/2020 1:43am
+9,Club Boston Baths,Found,(Some W),4 La Grange betw. Stuart & Washington,"42.351401,-71.062961",Boston,"(*),(W)",Baths,1980,checked,,,3/28/2020 9:31pm,3/29/2020 12:49am
+973,Club Car,Found,,South Station,"42.351922,-71.05507",Boston,(M),Bars/Clubs,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:31pm
+1180,Club Car,Found,,South Sta,"42.351922,-71.05507",Boston,(M),Bars/Clubs,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+1245,Club Car,Found,,South Sta,"42.351922,-71.05507",Boston,(M),Bars/Clubs,1965,checked,,,3/31/2020 8:12pm,3/31/2020 8:22pm
+1215,Club Car,Found,,South Sta,"42.351922,-71.05507",Boston,(M),Bars/Clubs,1966,checked,,,3/31/2020 7:52pm,3/31/2020 8:19pm
+1107,Club Car,Found,,South Station,"42.351922,-71.05507",Boston,(M),Bars/Clubs,1969,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1070,Club Car,Found,,South Station,"42.351922,-71.05507",Boston,(M),Bars/Clubs,1970,checked,,,3/31/2020 4:49pm,3/31/2020 7:41pm
+840,Club Car,Found,,South Station,"42.351922,-71.05507",Boston,"(M),(RT)",Bars/Clubs,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+1030,Club Car,Found,,South Station,"42.351922,-71.05507",Boston,(M),Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+634,Club Car,Found,,South Station,"42.351922,-71.05507",Boston,"(M),(RT)",Bars/Clubs,1976,checked,,,3/30/2020 2:37am,3/31/2020 2:01am
+753,Club Car,Found,,South Station,"42.351922,-71.05507",Boston,"(M),(RT)",Bars/Clubs,1975,checked,,,3/30/2020 11:17pm,3/31/2020 4:10pm
+841,Club La Grange Baths,Found, near Washington & Stewart,4 La Grange St.,"42.351401,-71.062961",Boston,,Baths,1774,checked,,,3/31/2020 2:27pm,3/31/2020 8:28pm
+754,Club La Grange Baths,Found,near Washington & Stewart,4 La Grange St. ,"42.351401,-71.062961",Boston,(*),Baths,1975,checked,,,3/30/2020 11:17pm,3/31/2020 8:28pm
+974,Club La Grange Baths,Found,near Washington & Stewart,4 La Grange St. ,"42.351401,-71.062961",Boston,,Baths,1972,checked,,,3/31/2020 4:48pm,3/31/2020 8:28pm
+635,Club La Grange Baths,Found,near Washington & Stuart,4 La Grange St. ,"42.351401,-71.062961",Boston,(*),Baths,1976,checked,,,3/30/2020 2:37am,3/31/2020 8:28pm
+505,Club La Grange Baths,Found, near Washington & Stewart,4 La Grange St.,"42.351401,-71.062961",Boston,(*),Baths,1977,checked,,,3/30/2020 2:36am,3/31/2020 8:26pm
+10,Club Regency,Found,(See Regency Club Baths),,"42.35489,-71.05782",Boston,(*),Baths,1980,checked,,,3/28/2020 9:31pm,3/29/2020 12:49am
+542,Commonwealth & Marlborough Streets,Found,between Arlington and Clarendon,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+672,Commonwealth & Marlborough Sts.,Found,betw. Arlington & Clarendon,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+932,Commonwealth & Marlborough Sts.,Found,betw. Arlington & Clarendon,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+862,Commonwealth & Marlborough Sts.,Found,betw. Arlington & Clarendon,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+993,Commonwealth & Marlborough Sts.,Found,betw. Arlington & Clarendon,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+785,Commonwealth & Marlborough Sts.,Found,betw. Arlington & Clarendon,,"42.354125,-71.073122",Boston,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+755,Cowardly Lion,Found,"Opp. Boston Common-In alley off Boylston, bet. Tremont and Carver Sts.",,"42.352195,-71.066918",Boston,(D),Bars/Clubs,1975,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/30/2020 11:17pm,3/31/2020 4:10pm
+13,Delivery Entrance ,Found,(Bar at The House) (Some L) (Boston's most unusual bar),12 Wilton (Allston),"42.355776,-71.133702",Boston,(L),Bars/Clubs,1980,checked,,,3/28/2020 9:31pm,3/29/2020 12:49am
+1033,Gay Nineties,Found,Next door to The Other Side,90 Broadway,"42.349944,-71.067076",Boston,,Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+757,Herbie's Ramrod,Found,(Upstairs at 12 Carver) ,,"42.351602,-71.06691",Boston,(*),Bars/Clubs,1975,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/30/2020 11:17pm,3/31/2020 4:10pm
+914,Herbie's Ramrod,Found, (Upstairs at 12 Carver) ,,"42.351602,-71.06691",Boston,(*),Bars/Clubs,1973,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/31/2020 4:47pm,3/31/2020 6:27pm
+638,Herbie's Ramrod,Found,"(Upstairs at 12 Carver) (see ad, page 88)",,"42.351602,-71.06691",Boston,"(SM),(*)",Bars/Clubs,1976,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/30/2020 2:37am,3/31/2020 1:37pm
+843,Herbie's Ramrod,Found,(soon SM) (Upstairs at 12 Carver) ,,"42.351602,-71.06691",Boston,(SM),Bars/Clubs,1774,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/31/2020 2:27pm,3/31/2020 5:30pm
+509,Herbie's Ramrod Room,Found,(Upstairs at 12 Carver),,"42.351602,-71.06691",Boston,"(SM),(*)",Bars/Clubs,1977,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/30/2020 2:36am,3/30/2020 10:49pm
+220,Herbie's Ramrod Room,Found,(Upstairs at 12 Carver),,"42.351602,-71.06691",Boston,"(SM),(*)",Bars/Clubs,1979,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/29/2020 12:36am,3/30/2020 1:43am
+365,Herbie's Ramrod Room,Found,(Upstairs at 12 Carver),,"42.351602,-71.06691",Boston,"(SM),(*)",Bars/Clubs,1978,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/29/2020 7:51pm,3/30/2020 2:57am
+916,Jerome,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,"(M),(RT)",Bars/Clubs,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+641,Jerome,General City Coordinates Used,(at your own risk),Washington St.,"42.360083,-71.05888",Boston,"(M),(RT)",Bars/Clubs,1976,checked,,,3/30/2020 2:37am,3/31/2020 1:37pm
+760,Jerome,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,"(M),(RT)",Bars/Clubs,1975,checked,,,3/30/2020 11:17pm,3/31/2020 4:10pm
+978,Jerome,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,"(M),(RT)",Bars/Clubs,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+846,Jerome,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,"(M),(RT)",Bars/Clubs,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+1035,Jerome,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,(RT),Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1073,Jerome's,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,(RT),Bars/Clubs,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1110,Jerome's,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,(RT),Bars/Clubs,1969,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1182,Jerome's,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,(RT),Bars/Clubs,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+1217,La Petite Park ,General City Coordinates Used,Sq area,,"42.360083,-71.05888",Boston,,,1966,checked,checked,,3/31/2020 7:52pm,3/31/2020 8:19pm
+1074,Last Call,Found,(called the Cave) In alley off Boylston bet. Tremont and Carver Pl-opposite Boston Common,,"42.352195,-71.066918",Boston,"(D),(*)","Baths,Bars/Clubs",1970,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/31/2020 7:26pm,3/31/2020 7:42pm
+1036,Last Call,Found,"(Called 'The Cave' on-again-off-again now, since earlier trouble. In alley Boylston bet. Tremont & Carver Pl opposite Boston Common",,"42.352195,-71.066918",Boston,"(D),(*)",Bars/Clubs,1971,checked,,Carver Street was renamed Charles Street South sometime in late 1970s.,3/31/2020 4:48pm,3/31/2020 7:24pm
+396,Lewis Wharf,Found,,,"42.363384,-71.049832",Boston,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+252,Lewis Wharf,Found,,,"42.363384,-71.049832",Boston,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+66,Lewis Wharf,Found,,,"42.363384,-71.049832",Boston,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+1111,Lundin Turkish Baths,Found,,20 Carver Pl," 42.350831,-71.066716",Boston,,Baths,1969,checked,,Carver was renamed Charles Street South sometime in late 1970s.,3/31/2020 7:26pm,3/31/2020 7:41pm
+1249,Mario's 67 Lounge,Found,Piedmont & Church,,"42.349874,-71.06848",Boston,,Bars/Clubs,1965,checked,,,3/31/2020 8:12pm,3/31/2020 8:26pm
+787,Nantasket Beach,Found,,,"42.291766,-70.87449",Boston,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+253,Nantasket Beach,Found,(Very M),,"42.291766,-70.87449",Boston,"Cruisy Area,(M)",Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+544,Nantasket Beach,Found,(Little 'action'),,"42.291766,-70.87449",Boston,"Cruisy Area,(M)",Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+994,Nantasket Beach,Found,,,"42.291766,-70.87449",Boston,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+674,Nantasket Beach,Found,,,"42.291766,-70.87449",Boston,"Cruisy Area,(M)",Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+67,Nantasket Beach,Found,(Very M),,"42.291766,-70.87449",Boston,"Cruisy Area,(M)",Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+864,Nantasket Beach,Found,,,"42.291766,-70.87449",Boston,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+397,Nantasket Beach,Found,(M) (Little 'action'),,"42.291766,-70.87449",Boston,"Cruisy Area,(M)",Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+933,Nantasket Beach,Found,,,"42.291766,-70.87449",Boston,Cruisy Area,Cruising Areas,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+675,Northeastern U.,Found,Mugar Hall,,"42.339807,-71.089172",Boston,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+398,Northeastern Univ.,Found,Mugar Hall,,"42.339807,-71.089172",Boston,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 8:29pm
+545,Northeastern University,Found,Mugar Hall,,"42.339807,-71.089172",Boston,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+1114,Novelty Bar,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,(M),Bars/Clubs,1969,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1039,Novelty Bar,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,(M),Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1077,Novelty Bar,General City Coordinates Used,,Washington St.,"42.360083,-71.05888",Boston,(M),Bars/Clubs,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+853,P.B Pub ,Found,betw. ''Other Side and Nineties',,"42.349912,-71.067038",Boston,"(HIP),(YC)",Bars/Clubs,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+922,P.B Pub ,Found,betw. ''Other Side and Nineties',,"42.349912,-71.067038",Boston,"(HIP),(YC)",Bars/Clubs,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+525,P.B Pub & Honky Tonk Saloon,Found,"between ""Nineties"" and ""Other Side""",,"42.349912,-71.067038",Boston,(E),Bars/Clubs,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+770,P.B Pub & Honky Tonk Saloon,Found,betw. ''Other Side and Nineties',,"42.349912,-71.067038",Boston,,Bars/Clubs,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+652,P.B Pub & Honky Tonk Saloon,Found,betw. 'Nineties' and 'Other Side',,"42.349912,-71.067038",Boston,(E),Bars/Clubs,1976,checked,,,3/30/2020 2:37am,3/31/2020 2:01am
+995,Park Square area,Found,,,"42.351148,-71.067945",Boston,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+1251,Parker House Hotel Bar,Found,Tremont & School Sts,,"42.35799,-71.06046",Boston,"(M),(PE)","Hotels,Bars/Clubs",1965,checked,,,3/31/2020 8:12pm,3/31/2020 8:26pm
+676,Revere Beach,Found,(summers),,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+399,Revere Beach,Found,(Summers),,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+788,Revere Beach,Found,,,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+254,Revere Beach,Found,(Summers),,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+996,Revere Beach,Found,,,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+68,Revere Beach,Found,(Summers),,"42.420226,-70.985881",Boston,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+865,Revere Beach,Found,,,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+546,Revere Beach,Found,(summers),,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+934,Revere Beach,Found,,,"42.420226,-70.985881",Boston,Cruisy Area,Cruising Areas,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+987,Sharaf's,Found,,Charles & Chestnut,"42.357012,-71.069875",Boston,"(YC),(R)",Restaurant,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+1225,Sharaf's,Found,,Charles & Chestnut,"42.357012,-71.069875",Boston,(R),Restaurant,1966,checked,,,3/31/2020 8:11pm,3/31/2020 8:19pm
+1191,Sharaf's,Found,,Charles & Chestnut,"42.357012,-71.069875",Boston,"(R),(M)",Restaurant,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+1081,Sharaf's,Found,,Charles & Chestnut,"42.357012,-71.069875",Boston,"(R),(M)",Restaurant,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1118,Sharaf's,Found,,Charles & Chestnut,"42.357012,-71.069875",Boston,"(R),(M)",Restaurant,1969,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1044,Sharaf's,Found,,Charles & Chestnut,"42.357012,-71.069875",Boston,"(R),(M)",Restaurant,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1226,Shed,General City Coordinates Used,,Huntington St.,"42.360083,-71.05888",Boston,(M),"Bars/Clubs,Cruising Areas",1966,checked,,,3/31/2020 8:11pm,3/31/2020 8:19pm
+1046,Sporter's ,Found,,Cambridge & Irving,"42.360979,-71.066653",Boston,(*),Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1083,Sporter's ,Found,,Cambridge & Irving,"42.360979,-71.066653",Boston,(*),Bars/Clubs,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:44pm
+1193,Sporter's ,Found,,Cambridge & Irving,"42.360979,-71.066653",Boston,(*),Bars/Clubs,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+989,Sporter's ,Found,nr. Irving,228 Cambridge ,"42.360979,-71.066653",Boston,(*),Bars/Clubs,1972,checked,,,3/31/2020 4:48pm,3/31/2020 8:31pm
+1120,Sporter's ,Found,,Cambridge & Irving,"42.360979,-71.066653",Boston,"(*),(SM)",Bars/Clubs,1969,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+532,Sporters ,Found,"(Top cruise bar) (Some W,YC) (Opposite Holiday Inn-no sign, but you can't miss it-good Sunday afternoons)  near Blossom Street",228 Cambridge,"42.360979,-71.066653",Boston,"(*),(W),(YC),(PT)","Cruising Areas,Bars/Clubs",1977,checked,,,3/30/2020 2:36am,3/31/2020 8:26pm
+547,State Theatre,Found,(balcony),,"42.352575,-71.06298",Boston,Cruisy Area,"Cruising Areas,Theatre",1977,checked,,See http://cinematreasures.org/theaters/6328 for more info about this location.,3/30/2020 2:36am,3/30/2020 10:49pm
+69,State Theatre,Found,balcony,,"42.352575,-71.06298",Boston,Cruisy Area,Cruising Areas,1980,checked,,See http://cinematreasures.org/theaters/6328 for more info about this location.,3/28/2020 10:06pm,3/29/2020 12:49am
+255,State Theatre,Found,balcony,,"42.352575,-71.06298",Boston,Cruisy Area,"Cruising Areas,Theatre",1979,checked,,See http://cinematreasures.org/theaters/6328 for more info about this location.,3/29/2020 6:30pm,3/30/2020 1:43am
+400,State Theatre,Found,balcony,,"42.352575,-71.06298",Boston,Cruisy Area,"Cruising Areas,Theatre",1978,checked,,See http://cinematreasures.org/theaters/6328 for more info about this location.,3/30/2020 1:55am,3/30/2020 2:57am
+1084,Statler,Found,Statler-Hilton Hotel Bar Park Square,,"42.351042,-71.069705",Boston,"(PE),(M)","Bars/Clubs,Hotels",1970,checked,,See https://en.wikipedia.org/wiki/Boston_Park_Plaza for more info about this location.,3/31/2020 7:26pm,3/31/2020 7:45pm
+1121,Statler-Hilton Hotel Bar,Found,Park Square,,"42.351042,-71.069705",Boston,"(PE),(M)","Bars/Clubs,Hotels",1969,checked,,See https://en.wikipedia.org/wiki/Boston_Park_Plaza for more info about this location.,3/31/2020 7:26pm,3/31/2020 7:41pm
+1194,Statler-Hilton Hotel Bar,Found,Park Square,,"42.351042,-71.069705",Boston,,"Bars/Clubs,Hotels",1968,checked,,See https://en.wikipedia.org/wiki/Boston_Park_Plaza for more info about this location.,3/31/2020 7:52pm,3/31/2020 8:06pm
+1122,Steak House,General City Coordinates Used,(upstairs & downstairs),Kingston St,"42.360083,-71.05888",Boston,(R),Restaurant,1969,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+677,Storrow Dr.,Found,embankment,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+935,Storrow Dr.,Found,embankment,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+789,Storrow Dr.,Found,embankment,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+997,Storrow Dr.,Found,embankment,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+866,Storrow Dr.,Found,embankment,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+70,Storrow Drive,Found,The Esplanade,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+401,Storrow Drive,Found,The Esplanade,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+256,Storrow Drive,Found,The Esplanade,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+548,Storrow Drive,Found,The Esplanade,,"42.355619,-71.078888",Boston,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+678,Stuart Theatre,Found,,,"42.351162,-71.062723",Boston,Cruisy Area,"Cruising Areas,Theatre",1976,checked,,See http://cinematreasures.org/theaters/6402 for more information.,3/30/2020 11:17pm,3/31/2020 2:01am
+535,The House ,General City Coordinates Used,", off Cambridge near Harvard (Allston)",12 Walston Street,"42.353904,-71.133711",Boston,"(R),(HIP)",Restaurant,1977,checked,,Street appears to no longer exist. General coordinates for Allston used. ,3/30/2020 2:36am,3/31/2020 8:27pm
+387,The House ,General City Coordinates Used,", off Cambridge nr. Harvard (Allston)",12 Walston St.,"42.353904,-71.133711",Boston,"(R),(HIP)",Restaurant,1978,checked,,Street appears to no longer exist. General coordinates for Allston used. ,3/30/2020 1:55am,3/31/2020 8:33pm
+261,Bird Sanctuary,General City Coordinates Used,,,"42.373616,-71.109733",Cambridge,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+405,Bird Sanctuary,General City Coordinates Used,,,"42.373616,-71.109733",Cambridge,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+80,Bird Sanctuary,General City Coordinates Used,,,"42.373616,-71.109733",Cambridge,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+262,Harvard U.,Found,Lamont Library T-Room,,"42.377003,-71.11666",Cambridge,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+683,Harvard U.,Found,Lamont Library ,,"42.377003,-71.11666",Cambridge,Cruisy Area,"Cruising Areas,Organizations",1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+406,Harvard U.,Found,Lamont Library ,,"42.377003,-71.11666",Cambridge,Cruisy Area,"Cruising Areas,Organizations",1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+81,Harvard U.,Found,Lamont Library T-Room,,"42.377003,-71.11666",Cambridge,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+552,Harvard University,Found,Lamont Library ,,"42.377003,-71.11666",Cambridge,Cruisy Area,"Cruising Areas,Organizations",1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+83,City Hall,Found,T-Room (Downstairs),,"42.582242,-71.801357",Fitchburg,"Cruisy Area,(*)",Cruising Areas,1980,checked,,,3/28/2020 10:06pm,3/29/2020 12:49am
+84,Holyoke House,Found,Basement T-Room,,"42.204461,-72.602703",Holyoke,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+264,Holyoke House,Found,Basement T-Room,,"42.204461,-72.602703",Holyoke,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+265,Mountain Park,Found,T-room,,"42.243702,-72.631479 ",Holyoke,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+85,Mountain Park,Found,T-room,,"42.243702,-72.631479 ",Holyoke,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+873,Domenic's,General City Coordinates Used,,Whalom & Waterford," 42.525091,-71.759794",Leominster,,Bars/Clubs,1974,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+940,Domenic's,General City Coordinates Used,,Whalom & Waterford," 42.525091,-71.759794",Leominster,,Bars/Clubs,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+86,Sears Town Mall,Found,T-room,,"42.529646,-71.741193",Leominster,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+87,T-room behind K jewelers,General City Coordinates Used,,," 42.525091,-71.759794",Leominster,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+686,'Rest Stop' ,General City Coordinates Used,on I-495 nr Chelmsford ,,"42.633425,-71.316172",Lowell,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+555,'Rest Stop' ,General City Coordinates Used,on I-495 near Chelmsford ,,"42.633425,-71.316172",Lowell,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+90,'Rest Stops' ,General City Coordinates Used,on I-495 (nr. Chelmsford & Rte. 3 (N. Chelmsford),,"42.633425,-71.316172",Lowell,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+268,'Rest Stops' ,General City Coordinates Used,on I-495 (nr. Chelmsford & Rte. 3 (N. Chelmsford),,"42.633425,-71.316172",Lowell,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+409,'Rest Stops' ,General City Coordinates Used,on I-495 nr. Chelmsford ,,"42.633425,-71.316172",Lowell,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+999,Majestic,Found,Merrimack St.,,"42.646693,-71.315214 ",Lowell,,Bars/Clubs,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+941,Majestic,Found,Merrimack St.,,"42.646693,-71.315214 ",Lowell,,Bars/Clubs,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+874,Majestic,Found,"Merrimack St., behind City Hall",,"42.646693,-71.315214 ",Lowell,,Bars/Clubs,1774,checked,,,3/31/2020 2:27pm,3/31/2020 5:30pm
+795,Majestic,Found,"Merrimack St., behind City Hall",,"42.646693,-71.315214 ",Lowell,,Bars/Clubs,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+1159,Lighthouse,Found,,700 blk. Washington St.,"42.461048,-70.942108",Lynn,(G),Bars/Clubs,1969,checked,,,3/31/2020 7:41pm,3/31/2020 7:41pm
+1000,Lighthouse,Found,,700 blk. Washington St.,"42.461048,-70.942108",Lynn,(G),Bars/Clubs,1972,checked,,,3/31/2020 4:48pm,3/31/2020 7:15pm
+1089,Lighthouse,Found,,700 blk. Washington St.,"42.461048,-70.942108",Lynn,(G),Bars/Clubs,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1051,Lighthouse,Found,,700 blk. Washington St.,"42.461048,-70.942108",Lynn,(G),Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+410,Mr. Dominic's,Found,,34-36 Central Ave.,"42.464019,-70.946862",Lynn,"(D),(*)",Bars/Clubs,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+92,Mr. Dominic's,Found,,34-36 Central Ave.,"42.464019,-70.946862",Lynn,"(D),(PT),(*)",Bars/Clubs,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+270,Mr. Dominic's,Found,,34-36 Central Ave.,"42.464019,-70.946862",Lynn,"(D),(*)",Bars/Clubs,1979,checked,,,3/29/2020 6:30pm,3/30/2020 1:43am
+1231,The Lighthouse,Found,Inquire locally,,"42.461048,-70.942108",Lynn,,Bars/Clubs,1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+1200,The Lighthouse,Found,Inquire locally,,"42.461048,-70.942108",Lynn,,Bars/Clubs,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+93,'Rest Stop' S. ,General City Coordinates Used,on Rte. 3,,"42.087995,-70.744678",Marshfield-Pembroke,Cruisy Area,Cruising Areas,1980,checked,,Approximate location for Rt 3 between these two localities.,3/28/2020 10:39pm,3/29/2020 12:49am
+94,Titticut Follies Guest House,General City Coordinates Used,"P.O. Box 389 Oak Bluffs, Mass. 02557",,"41.380498,-70.645473",Martha's Vineyard,(H),Hotels,1980,checked,,P.O BOX,3/28/2020 10:39pm,3/29/2020 12:49am
+273,Swimming Hole at Milford Quarries,Found,opp. Rte. 495 Exit,,"42.16625,-71.519086",Milford,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+96,Swimming Hole at Milford Quarries,Found,opp. Rte. 495 Exit,,"42.16625,-71.519086",Milford,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+97,Club Car,Found,(Best late) ,Lower Main St.,"41.28347,-70.099451",Nantucket,(M),Bars/Clubs,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+690,Crown Cafe,General City Coordinates Used,,N. Front Street,"41.636215,-70.934205",New Bedford,"(M),(OC),(RT)",Restaurant,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+559,Crown Cafe,General City Coordinates Used,,N. Front Street,"41.636215,-70.934205",New Bedford,"(M),(R),(OC)",Restaurant,1977,checked,,,3/30/2020 2:36am,3/31/2020 12:38am
+102,Main St. Mall,General City Coordinates Used,,,"41.636215,-70.934205",New Bedford,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+101,Pals Four,General City Coordinates Used,,Acushnet St.,"41.636215,-70.934205",New Bedford,"(M),(R),(C),(AH)",Restaurant,1980,checked,,,3/28/2020 10:39pm,3/29/2020 12:49am
+691,Playpen,General City Coordinates Used,(some G) opp. Crown Cafe on N. Front St.,,"41.636215,-70.934205",New Bedford,"(RT),(M),(G)",Bars/Clubs,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+103,Back Door,General City Coordinates Used,(Disco) (In rear of Checkmate Lounge) ,Rte. 1,"42.527873,-70.928661",Peabody,"(S),(D)",Bars/Clubs,1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+276,Back Door,General City Coordinates Used,(Disco) (In rear of Checkmate Lounge) ,Rte. 1,"42.527873,-70.928661",Peabody,"(S),(D)",Bars/Clubs,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+455,'B.A' ,Found,Beach at N. Truro,,"42.064946,-70.111248",Provincetown,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:22am,3/30/2020 2:57am
+605,'B.A' ,Found,beach at N. Truro,,"42.064946,-70.111248",Provincetown,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+168,'B.A' ,Found,beach at N. Truro,,"42.064946,-70.111248",Provincetown,Cruisy Area,Cruising Areas,1980,checked,,,3/28/2020 11:30pm,3/29/2020 12:49am
+733,'B.A' ,Found,beach at N. Truro,,"42.064946,-70.111248",Provincetown,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+324,'B.A' ,Found,Beach at N. Truro,,"42.064946,-70.111248",Provincetown,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+880,Ace of Spades,Found,,Commercial St.,"42.048536,-70.188604",Provincetown,(G),Bars/Clubs,1774,checked,,See https://buildingprovincetown.wordpress.com/2010/01/09/193a-commercial-street/ for more details.,3/31/2020 4:46pm,3/31/2020 5:30pm
+1006,Ace of Spades,Found,,Commercial St.,"42.048536,-70.188604",Provincetown,(G),Bars/Clubs,1972,checked,,See https://buildingprovincetown.wordpress.com/2010/01/09/193a-commercial-street/ for more details.,3/31/2020 4:48pm,3/31/2020 6:52pm
+946,Ace of Spades,Found,,Commercial St.,"42.048536,-70.188604",Provincetown,(G),Bars/Clubs,1973,checked,,See https://buildingprovincetown.wordpress.com/2010/01/09/193a-commercial-street/ for more details.,3/31/2020 4:47pm,3/31/2020 6:27pm
+1004,Anchor Room,Found,,Commercial St,"42.050051,-70.187383",Provincetown,"(YC),(D),(*)",Bars/Clubs,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+1054,Atlantic Hotel Bar,Found,,Commercial St,"42.049893,-70.188507",Provincetown,(*),"Hotels,Bars/Clubs",1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1005,Atlantic Hotel Bar,Found,,Commercial St,"42.049893,-70.188507",Provincetown,,"Hotels,Bars/Clubs",1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+1162,Atlantic Hotel Bar,Found,,Commercial St,"42.049893,-70.188507",Provincetown,(*),"Hotels,Bars/Clubs",1969,checked,,,3/31/2020 7:41pm,3/31/2020 7:41pm
+1092,Atlantic Hotel Bar,Found,,Commercial St,"42.049893,-70.188507",Provincetown,(*),"Hotels,Bars/Clubs",1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1235,Atlantic Hotel Bar,Found,,Commercial St,"42.049893,-70.188507",Provincetown,(*),"Hotels,Bars/Clubs",1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+1203,Atlantic Hotel Bar,Found,,Commercial St,"42.049893,-70.188507",Provincetown,(*),"Hotels,Bars/Clubs",1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+1258,Atlantic House Bar,Found,,Commercial St,"42.049893,-70.188507",Provincetown,(*),"Hotels,Bars/Clubs",1965,checked,,,3/31/2020 8:23pm,3/31/2020 8:26pm
+278,Atlantic House Hotel,Found,(Has had some licensing problems but hopefully will be open for the '78 season. Cruise bar and (YC) (Disco) (D)),"Masonic, an alley off 216 Commercial St.","42.049893,-70.188507",Provincetown,"(*),(YC),(D)","Bars/Clubs,Cruising Areas,Hotels",1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+563,Atlantic House Hotel,Found,"(The two bars here, one for cruising, the other YC, D, did not open last summer due to unexpected licensing problems. Hopefully they will re-open this summer))","Masonic, an alley off 216 Commercial Street","42.049893,-70.188507",Provincetown,"(*),(YC),(D)","Bars/Clubs,Cruising Areas,Hotels",1977,checked,,,3/30/2020 2:36am,3/30/2020 10:49pm
+107,Atlantic House Hotel,Found,(Disco) (2 adj. cruise bars-some W & SM upstairs),"Masonic, an alley off 216 Commercial St.","42.049893,-70.188507",Provincetown,"(*),(YC),(D),(W),(SM)","Bars/Clubs,Cruising Areas,Hotels",1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+416,Atlantic House Hotel,Found,"(Two bars, one for cruising, the other YC, Disco, D)","Masonic, an alley off 216 Commercial St.","42.049893,-70.188507",Provincetown,"(*),(YC),(D)","Bars/Clubs,Cruising Areas,Hotels",1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+693,Atlantic House Hotel,Found,"(two areas, with (YC) (D) in the 'Big Room') ","Masonic Alley, off 216 Commercial Street","42.049893,-70.188507",Provincetown,"(*),(YC),(D)","Bars/Clubs,Hotels",1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+881,Atlantic House Hotel Bars,Found,"(Two rooms, one with (YC) (D))  ","On Masonic, an alley off Commercial Street","42.049893,-70.188507",Provincetown,"(*),(YC),(D)","Bars/Clubs,Hotels",1774,checked,,,3/31/2020 4:46pm,3/31/2020 5:30pm
+801,Atlantic House Hotel Bars,Found,"(Two rooms, one with (YC) (D))  ","On Masonic in alley, off Commercial Street","42.049893,-70.188507",Provincetown,"(*),(YC),(D)","Bars/Clubs,Hotels",1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+947,Atlantic House Hotel Bars,Found,"(Two rooms, one with (YC) (D))  ","On Masonic, an alley off Commercial Street","42.049893,-70.188507",Provincetown,"(*),(YC),(D)","Bars/Clubs,Hotels",1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+417,Back Room,Found,(Disco) (Some G) (Sunday-S) ,(See Crown & Anchor),"42.050051,-70.187383",Provincetown,"(*),(HIP),(YC),(D),(G),(PT)",Bars/Clubs,1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+564,Back Room,Found,(Some G) (Sunday-S) ,(See Crown & Anchor),"42.050051,-70.187383",Provincetown,"(*),(HIP),(YC),(D),(G),(PT)",Bars/Clubs,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+279,Back Room,Found,(Disco) (Some G) (Sunday S) ,(See Crown & Anchor),"42.050051,-70.187383",Provincetown,"(*),(HIP),(YC),(D),(G),(PT)",Bars/Clubs,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+108,Back Room,Found,"(Disco) (Some L, M) ",(See Crown & Anchor),"42.050051,-70.187383",Provincetown,"(*),(HIP),(YC),(D),(L),(M)",Bars/Clubs,1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+694,Back Room,Found,,(See Crown & Anchor),"42.050051,-70.187383",Provincetown,"(*),(HIP),(YC),(D),(G),(PT)",Bars/Clubs,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+280,Back Street Hotel & Bar,Found,,Bradford at Carver,"42.049547,-70.190297",Provincetown,"(D),(R)","Restaurant,Hotels,Bars/Clubs",1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+109,Back Street Inn & Bar,Found,,Bradford at Carver,"42.049547,-70.190297",Provincetown,"(D),(R)","Restaurant,Hotels,Bars/Clubs",1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+169,Beach & bushes ,Found,behind 'Boatslip' & vicinity,,"42.046798,-70.190006",Provincetown,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:07am,3/29/2020 12:49am
+325,Beach & bushes ,Found,behind 'Boatslip' & vicinity,,"42.046798,-70.190006",Provincetown,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+565,Below Deck,Found,,(See Town House),"42.051276,-70.186348",Provincetown,(D),Bars/Clubs,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+695,Below Deck,Found,,(See Town House),"42.051276,-70.186348",Provincetown,(D),Bars/Clubs,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+1163,Black Spade,General City Coordinates Used,,Commercial St.,"42.058441,-70.178642",Provincetown,(G),Bars/Clubs,1969,checked,,,3/31/2020 7:41pm,3/31/2020 7:41pm
+1093,Black Spade,General City Coordinates Used,,Commercial St.,"42.058441,-70.178642",Provincetown,(G),Bars/Clubs,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1055,Black Spade,General City Coordinates Used,,Commercial St.,"42.058441,-70.178642",Provincetown,(G),Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1236,Black Spade,General City Coordinates Used,,Commercial St.,"42.058441,-70.178642",Provincetown,(G),Bars/Clubs,1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+1204,Black Spade,General City Coordinates Used,,Commercial St.,"42.058441,-70.178642",Provincetown,(G),Bars/Clubs,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+802,Boatslip,Found,,Broad St.,"42.047033,-70.190185 ",Provincetown,,"Hotels,Bars/Clubs,Restaurant,Cruising Areas",1975,checked,checked,New address for this entry ,3/31/2020 1:38pm,3/31/2020 4:10pm
+418,Boatslip,Found,& Bar ('Tops' days-cruisy beach & 'tea dance') ,Commercial St.,"42.047033,-70.190185 ",Provincetown,"(H),(R),(*)","Hotels,Bars/Clubs,Restaurant,Cruising Areas",1978,checked,,,3/30/2020 1:55am,3/30/2020 2:57am
+696,Boatslip,Found,(afternoons*),Commercial St.,"42.047033,-70.190185 ",Provincetown,"(H),(R),(*)","Hotels,Bars/Clubs,Restaurant,Cruising Areas",1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+566,Boatslip,Found,(afternoons*),Commercial St.,"42.047033,-70.190185 ",Provincetown,"(H),(R),(*),(M)","Hotels,Bars/Clubs,Restaurant,Cruising Areas",1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+281,Boatslip,Found,& Bar ('Tops' days-cruisy beach & pool) ,Commercial St.,"42.047033,-70.190185 ",Provincetown,"(H),(R),(*)","Hotels,Bars/Clubs,Restaurant,Cruising Areas",1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+698,Buttery,Found,,"Kiley Court, off 430 Commercial St.","42.055615,-70.180674",Provincetown,"(M),(R),(*)",Restaurant,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+420,Buttery,Found,,"Kiley Court, off 430 Commercial ","42.055615,-70.180674",Provincetown,"(M),(R)",Restaurant,1978,checked,,,3/30/2020 2:22am,3/30/2020 2:57am
+568,Buttery,Found,,"Kiley Court, off 430 Commercial ","42.055615,-70.180674",Provincetown,"(M),(R),(*)",Restaurant,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+284,Buttery,Found,,"Kiley Court, off 430 Commercial ","42.055615,-70.180674",Provincetown,"(M),(R)",Restaurant,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+424,Captain's House,Found,(BYOB for 'set-ups' in patio),350-A Commercial St.,"42.053071,-70.184534",Provincetown,(BYOB),Hotels,1978,checked,,,3/30/2020 2:22am,3/30/2020 2:57am
+115,Captain's House,Found,,350-A Commercial St.,"42.053071,-70.184534",Provincetown,,Hotels,1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+287,Captain's House,Found,(BYOB for 'set-ups' in patio),350-A Commercial St.,"42.053071,-70.184534",Provincetown,(BYOB),Hotels,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+571,Captain's House,Found,(BYOB for set-ups in patio),350-A Commercial St.,"42.053071,-70.184534",Provincetown,"(BYOB),(H)",Hotels,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+700,Captain's House,Found,(BYOB for 'set-ups' in patio),350-A Commercial St.,"42.053071,-70.184534",Provincetown,"(BYOB),(H)",Hotels,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+1237,Cellar Bar,Found,,Commercial St.,"42.050051,-70.187383",Provincetown,(*),"Restaurant,Bars/Clubs",1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+1259,Cellar Bar,Found,,Commercial St.,"42.050051,-70.187383",Provincetown,(*),"Restaurant,Bars/Clubs",1965,checked,,,3/31/2020 8:23pm,3/31/2020 8:26pm
+702,Cellar Bar,Found,,(See Crown & Anchor),"42.050051,-70.187383",Provincetown,(*),Bars/Clubs,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+572,Cellar Bar,Found,,(See Crown & Anchor),"42.050051,-70.187383",Provincetown,(*),Bars/Clubs,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+1205,Cellar Bar,Found,,Commercial St.,"42.050051,-70.187383",Provincetown,(*),"Restaurant,Bars/Clubs",1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+803,Ciro & Sal's,Found,,Commercial St.," 42.05576,-70.18086 ",Provincetown,"(M),(R)",Restaurant,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+882,Ciro & Sal's,Found,,Commercial St.," 42.05576,-70.18086 ",Provincetown,"(M),(R)",Restaurant,1774,checked,,,3/31/2020 4:46pm,3/31/2020 5:30pm
+948,Ciro & Sal's,Found,,Commercial St.," 42.05576,-70.18086 ",Provincetown,"(M),(R)",Restaurant,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+606,Commercial St. ,General City Coordinates Used,(Natch!),,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+821,Commercial St. ,General City Coordinates Used,(not surprisingly),,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 2:27pm,3/31/2020 4:10pm
+896,Commercial St. ,General City Coordinates Used,,,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 4:47pm,3/31/2020 5:30pm
+962,Commercial St. ,General City Coordinates Used,,,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+326,Commercial St. ,General City Coordinates Used,(Natch!),,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+734,Commercial St. ,General City Coordinates Used,(not surprisingly),,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+170,Commercial St. ,General City Coordinates Used,(Natch!),,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:07am,3/29/2020 12:49am
+1016,Commercial St. ,General City Coordinates Used,,,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+476,Commercial St. ,General City Coordinates Used,(Natch!),,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+126,Dunes Motel & Apts,General City Coordinates Used,(P.O. Box 361),Bradford St. W.,"42.058441,-70.178642",Provincetown,(H),Hotels,1980,checked,,p.o box,3/28/2020 10:40pm,3/29/2020 12:49am
+293,Dunes Motel & Apts,General City Coordinates Used,(P.O. Box 361),Bradford St. W.,"42.058441,-70.178642",Provincetown,(H),Hotels,1979,checked,,P.O BOX,3/29/2020 7:51pm,3/30/2020 1:43am
+171,East End Beach ,General City Coordinates Used,& bushes behind the Bull Pen,,"42.058441,-70.178642",Provincetown,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:07am,3/29/2020 12:49am
+431,Front Street,Found,(Some G),Commercial St.," 42.05012,-70.188406",Provincetown,"(M),(R),(G),(*)",Restaurant,1978,checked,,,3/30/2020 2:22am,3/30/2020 2:57am
+297,Front Street,Found,(Some G),Commercial St.," 42.05012,-70.188406",Provincetown,"(M),(R),(G),(*)",Restaurant,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+579,Front Street,Found,(Some G),Commercial St.," 42.05012,-70.188406",Provincetown,"(M),(R),(G),(*)",Restaurant,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+132,Gifford House,Found,,Bradford at Carver,"42.049547,-70.190297",Provincetown,"(M),(H),(R)","Restaurant,Hotels",1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+809,Governor Bradford,Found,,Commercial St.,"42.052146,-70.185604",Provincetown,,,1975,checked,checked,,3/31/2020 1:38pm,3/31/2020 4:10pm
+963,Herring Cove Beach,Found,,,"42.047881,-70.220304 ",Provincetown,Cruisy Area,Cruising Areas,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+1017,Herring Cove Beach,Found,,,"42.047881,-70.220304 ",Provincetown,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+477,Herring Cove Beach,Found,,,"42.047881,-70.220304 ",Provincetown,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+607,Herring Cove Beach,Found,(HOT),,"42.047881,-70.220304 ",Provincetown,"Cruisy Area,(HOT)",Cruising Areas,1977,checked,,,3/30/2020 2:37am,4/4/2020 2:24pm
+897,Herring Cove Beach,Found,,,"42.047881,-70.220304 ",Provincetown,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 4:47pm,3/31/2020 5:30pm
+822,Herring Cove Beach,Found,,,"42.047881,-70.220304 ",Provincetown,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 2:27pm,3/31/2020 4:10pm
+735,Herring Cove Beach,Found,(HOT),,"42.047881,-70.220304 ",Provincetown,"Cruisy Area,(HOT)",Cruising Areas,1976,checked,,,3/30/2020 11:17pm,4/4/2020 2:24pm
+172,Herring Cove Beach,Found,,,"42.047881,-70.220304 ",Provincetown,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:07am,3/29/2020 12:49am
+327,Herring Cove Beach,Found,,,"42.047881,-70.220304 ",Provincetown,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+134,Herring Cove Beach Guest House,Found,,,"42.047881,-70.220304 ",Provincetown,(H),Hotels,1980,checked,,,3/28/2020 10:40pm,3/29/2020 12:49am
+898,In front of Town Hall,Found,,,"42.051064,-70.187342",Provincetown,Cruisy Area,Cruising Areas,1774,checked,,,3/31/2020 4:47pm,3/31/2020 5:30pm
+823,In front of Town Hall,Found,,,"42.051064,-70.187342",Provincetown,Cruisy Area,Cruising Areas,1975,checked,,,3/31/2020 2:27pm,3/31/2020 4:10pm
+716,Mayflower Colony,General City Coordinates Used,(housekeeping cottages-Tel. 487-1916) Route 6A,,,Provincetown,(H),Hotels,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+1018,Monument opposite P.D,General City Coordinates Used,,,,Provincetown,Cruisy Area,Cruising Areas,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+437,Moor's,Found,(Portuguese R),Beach Hwy. at Bradford St. exit,"42.038446,-70.198441",Provincetown,(M),Restaurant,1978,checked,,,3/30/2020 2:22am,3/30/2020 2:57am
+585,Moor's,Found,(Portuguese R),Beach Hwy. at Bradford St. exit,"42.038446,-70.198441",Provincetown,(M),Restaurant,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+890,Moors,Found,(afternoons*), Bradford St. exit & Beach Hwy,"42.038446,-70.198441",Provincetown,(*),Restaurant,1774,checked,,,3/31/2020 4:46pm,3/31/2020 5:30pm
+956,Moors,Found,(afternoons*), Bradford St. exit & Beach Hwy,"42.038446,-70.198441",Provincetown,(*),Restaurant,1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+717,Moors,Found,(Portuguese R),Beach Hwy. at Bradford St. exit,"42.038446,-70.198441",Provincetown,(M),Restaurant,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+1012,Moors,Found,(afternoons) Near New Beach,,"42.038446,-70.198441",Provincetown,,Restaurant,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+812,Moors,Found,(afternoons*), Bradford St. exit & Beach Hwy,"42.038446,-70.198441",Provincetown,(*),Restaurant,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+1096,Moors,Found,(afternoons) near New Beach,,"42.038446,-70.198441",Provincetown,,Restaurant,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1166,Moors,Found,(afternoons) near New Beach,,"42.038446,-70.198441",Provincetown,,Restaurant,1969,checked,,,3/31/2020 7:41pm,3/31/2020 7:41pm
+1239,Moors,Found,(afternoons only) nr New Beach,,"42.038446,-70.198441",Provincetown,,Restaurant,1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+1207,Moors,Found,(afternoons only) near New Beach,,"42.038446,-70.198441",Provincetown,,Restaurant,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+1059,Moors,Found,(afternoons) nr. New Beach,,"42.038446,-70.198441",Provincetown,,Restaurant,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+143,Moors Motel,Found,,Bradford St. Ext.,"42.038446,-70.198441",Provincetown,"(H),(M)",Hotels,1980,checked,,,3/28/2020 11:29pm,3/29/2020 12:49am
+813,Piggie,Found,Shank Painter Rd.,,"42.051339,-70.195115",Provincetown,,Bars/Clubs,1975,checked,,,3/31/2020 1:38pm,3/31/2020 4:10pm
+1013,Pilgrim House,Found,,Shank Painter Rd.,"42.052851,-70.184983",Provincetown,(YC),Hotels,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+456,Plain & Fancy,Found,(Downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(R),(*)",Restaurant,1978,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/30/2020 2:22am,3/30/2020 2:57am
+308,Plain & Fancy,Found,(Downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(R),(*)",Restaurant,1979,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/29/2020 7:51pm,3/30/2020 1:43am
+590,Plain & Fancy,Found,(Downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(R),(*)",Restaurant,1977,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/30/2020 2:37am,3/30/2020 10:49pm
+958,Plain & Fancy,Found,(downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(R),(*)",Restaurant,1973,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/31/2020 4:47pm,3/31/2020 6:27pm
+722,Plain & Fancy,Found,(Downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(M),(R),(*)",Restaurant,1976,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/30/2020 11:17pm,3/31/2020 2:01am
+892,Plain & Fancy,Found,(downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(R),(*)",Restaurant,1774,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/31/2020 4:47pm,3/31/2020 5:30pm
+815,Plain & Fancy,Found,(downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(R),(*)",Restaurant,1975,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/31/2020 1:38pm,3/31/2020 4:10pm
+149,Plain & Fancy,Found,(Downstairs),Commercial St.,"42.048664,-70.188871",Provincetown,"(R),(*)",Restaurant,1980,checked,,See http://provincetownhistoryproject.com/PDF/pam_100_030-provincetown-art-association-exhibition-of-1963-1st.pdf,3/28/2020 11:30pm,3/29/2020 12:49am
+592,Provincetown Inn & Motel,Found,,1 mi. west on Commercial Street.," 42.037252,-70.195854",Provincetown,"(H),(M)",Hotels,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+309,Provincetown Inn & Motel,Found,,1 mi. W. on Commercial St.," 42.037252,-70.195854",Provincetown,"(H),(M)",Hotels,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+441,Provincetown Inn & Motel,Found,,1 mi. W. on Commercial St.," 42.037252,-70.195854",Provincetown,"(H),(M)",Hotels,1978,checked,,,3/30/2020 2:22am,3/30/2020 2:57am
+153,Provincetown Inn & Motel,Found,,1 mi. W. on Commercial St.," 42.037252,-70.195854",Provincetown,"(H),(M)",Hotels,1980,checked,,,3/28/2020 11:30pm,3/29/2020 12:49am
+316,Terrace,General City Coordinates Used,,Bradford St.,,Provincetown,"(M),(R),(*)",Restaurant,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+159,Terrace,General City Coordinates Used,,Bradford St.,,Provincetown,"(M),(R),(*)",Restaurant,1980,checked,,,3/28/2020 11:30pm,3/29/2020 12:49am
+736,Town Beach,General City Coordinates Used,East & West Ends-late at night,,,Provincetown,Cruisy Area,Cruising Areas,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+328,Town Beach,General City Coordinates Used,E. & W. end-late at night,,,Provincetown,"Cruisy Area,(E),(W)",Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+608,Town Beach,General City Coordinates Used,East & West ends-late at night,,,Provincetown,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+478,Town Beach,General City Coordinates Used,E. & W. end-late at night,,,Provincetown,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+173,Town Beach,General City Coordinates Used,E. & W. end-late at night,,,Provincetown,"Cruisy Area,(E),(W)",Cruising Areas,1980,checked,,,3/29/2020 12:07am,3/30/2020 1:30am
+321,Vorell's,Found,,Commercial St.,"42.049977,-70.188464 ",Provincetown,"(M),(R),(G)",Restaurant,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+451,Vorelli's,Found,,Commercial St.,"42.049977,-70.188464 ",Provincetown,"(M),(R),(G)",Restaurant,1978,checked,,,3/30/2020 2:22am,3/30/2020 2:57am
+165,Vorelli's,Found,,Commercial St.,"42.049977,-70.188464 ",Provincetown,"(M),(R)",Restaurant,1980,checked,,,3/28/2020 11:30pm,3/29/2020 12:49am
+602,Vorelli's,Found,Inquire locally,,"42.049977,-70.188464 ",Provincetown,"(R),(G),(*)",Restaurant,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+1210,Wuthering Heights,Found,,Shankpater Rd,"42.05027,-70.195999",Provincetown,,Bars/Clubs,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+490,'Rest Stop',General City Coordinates Used,on I-91 So.- betw. Northampton & Holyoke,," 42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+621,'Rest Stop',General City Coordinates Used,on I-91 So.- betw. Northampton & Holyoke,," 42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+341,'Rest Stop',General City Coordinates Used,on I-91 S.- betw. Northampton & Holyoke,," 42.101483,-72.589811",Springfield,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+188,'Rest Stop',General City Coordinates Used,on I-91 S.- betw. Northampton & Holyoke (Mass arrests),," 42.101483,-72.589811",Springfield,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/29/2020 12:26am,3/29/2020 12:49am
+182,Area around The Post Office,Found,,," 42.103738,-72.592921",Springfield,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:26am,3/29/2020 12:49am
+183,Bay State West,Found,Mezzanine T-Room,,"42.101942,-72.590914",Springfield,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:26am,3/29/2020 12:49am
+336,Bay State West,Found,Mezzanine T-Room,,"42.101942,-72.590914",Springfield,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+486,Bay State West,Found,mezzanine T-Room,,"42.101942,-72.590914",Springfield,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+617,Bay State West,Found,mezzanine T-Room,,"42.101942,-72.590914",Springfield,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+1242,Blake's,General City Coordinates Used,(inquire locally),,"42.101483,-72.589811",Springfield,,Bars/Clubs,1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+184,Downtown Mall,General City Coordinates Used,T-Room,,"42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:26am,3/29/2020 12:49am
+618,Downtown Mall,General City Coordinates Used,T-Room,,"42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+487,Downtown Mall,General City Coordinates Used,T-Room,,"42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+337,Downtown Mall,General City Coordinates Used,T-Room,,"42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+488,Forest Park,Found,King Phillip Stockade,,"42.072369,-72.584116",Springfield,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+185,Forest Park,Found,King Phillip Stockade,,"42.072369,-72.584116",Springfield,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:26am,3/29/2020 12:49am
+619,Forest Park,Found,King Phillip Stockade,,"42.072369,-72.584116",Springfield,Cruisy Area,Cruising Areas,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+338,Forest Park,Found,King Phillip Stockade,,"42.072369,-72.584116",Springfield,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+620,Hamden & Gridiron Streets,Found,,,"42.103992,-72.595214",Springfield,Cruisy Area,Cruising Areas,1977,checked,,Approximate. Center of the area between these two streets. ,3/30/2020 2:37am,3/30/2020 10:49pm
+186,Hamden & Gridiron Sts. ,Found,,,"42.103992,-72.595214",Springfield,"Cruisy Area,(AYOR),(RT)",Cruising Areas,1980,checked,,Approximate. Center of the area between these two streets. ,3/29/2020 12:26am,3/29/2020 12:49am
+339,Hamden & Gridiron Sts. ,Found,,,"42.103992,-72.595214",Springfield,"Cruisy Area,(AYOR),(RT)",Cruising Areas,1979,checked,,Approximate. Center of the area between these two streets. ,3/29/2020 7:51pm,3/30/2020 1:43am
+489,Hamden & Gridiron Sts. ,Found,,,"42.103992,-72.595214",Springfield,Cruisy Area,Cruising Areas,1978,checked,,Approximate. Center of the area between these two streets. ,3/30/2020 2:23am,3/30/2020 2:57am
+831,Hampden & Worthington,Found,,,"42.103509,-72.593803",Springfield,Cruisy Area,Cruising Areas,1975,checked,,Approximate. Center of the area between these two streets. ,3/31/2020 2:27pm,3/31/2020 4:10pm
+743,Hampden & Worthington,Found,,,"42.103509,-72.593803",Springfield,Cruisy Area,Cruising Areas,1976,checked,,Approximate. Center of the area between these two streets. ,3/30/2020 11:17pm,3/31/2020 2:01am
+904,Hampden St.,Found,,,"42.103699,-72.594533",Springfield,Cruisy Area,Cruising Areas,1774,checked,,Approximate. Center of the area between these two streets. ,3/31/2020 4:47pm,3/31/2020 5:30pm
+179,Hideaway,General City Coordinates Used,(Williamansett),Montgomery St. off Meadow,"42.179259,-72.620368",Springfield,"(OC),(L),(D)",Bars/Clubs,1980,checked,,,3/29/2020 12:07am,3/29/2020 12:49am
+333,Hideaway,General City Coordinates Used,(Williamansett),Montgomery St. off Meadow,"42.179259,-72.620368",Springfield,"(OC),(D),(G)",Bars/Clubs,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+187,Liberty Street,General City Coordinates Used,,,"42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:26am,3/29/2020 12:49am
+340,Liberty Street,General City Coordinates Used,,,"42.101483,-72.589811",Springfield,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+828,Pub,Found,,Dwight nr. Worthington,"42.105387,-72.590937",Springfield,"(D),(*)",Bars/Clubs,1975,checked,,,3/31/2020 2:27pm,3/31/2020 4:10pm
+903,Pub,Found,,Dwight nr. Worthington,"42.105387,-72.590937",Springfield,"(D),(*),(YC)",Bars/Clubs,1774,checked,,,3/31/2020 4:47pm,3/31/2020 5:30pm
+342,Springfield Bus Terminal,Found,(HOT),,"42.106419,-72.593763",Springfield,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,checked,,,3/29/2020 7:51pm,4/4/2020 2:24pm
+622,Springfield Bus Terminal,Found,,,"42.106419,-72.593763",Springfield,Cruisy Area,"Cruising Areas,Business",1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+491,Springfield Bus Terminal,Found,,,"42.106419,-72.593763",Springfield,Cruisy Area,"Cruising Areas,Business",1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+189,Springfield Bus Terminal,Found,,,"42.106419,-72.593763",Springfield,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/29/2020 12:34am,3/29/2020 12:49am
+1212,The Arch ,General City Coordinates Used,,Main St.,"42.101483,-72.589811",Springfield,,Restaurant,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+1243,The Arch ,General City Coordinates Used,,Main St.,"42.101483,-72.589811",Springfield,,Restaurant,1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+1065,Christmas Tree Inn,General City Coordinates Used,,Rt. 7 ,"42.287587,-73.320386",Stockbridge,,"Bars/Clubs,Hotels",1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1025,Christmas Tree Inn,General City Coordinates Used,,Route 7 ,"42.287587,-73.320386",Stockbridge,,"Bars/Clubs,Hotels",1972,checked,,,3/31/2020 4:48pm,3/31/2020 7:23pm
+969,Christmas Tree Inn,General City Coordinates Used,,Route 7 ,"42.287587,-73.320386",Stockbridge,,"Bars/Clubs,Hotels",1973,checked,,,3/31/2020 4:48pm,3/31/2020 7:23pm
+905,Christmas Tree Inn,General City Coordinates Used,,Route 7 ,"42.287587,-73.320386",Stockbridge,,"Bars/Clubs,Hotels",1774,checked,,,3/31/2020 4:47pm,3/31/2020 7:23pm
+832,Christmas Tree Inn,General City Coordinates Used,,Route 7 ,"42.287587,-73.320386",Stockbridge,(M),"Bars/Clubs,Hotels",1975,checked,,,3/31/2020 2:27pm,3/31/2020 7:23pm
+190,Red Lion Inn,Found,(Downstairs) ,Rte. 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1980,checked,,,3/29/2020 12:34am,3/29/2020 12:49am
+623,Red Lion Inn,Found,(Downstairs) ,Route 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1977,checked,,,3/30/2020 2:37am,3/30/2020 10:49pm
+1066,Red Lion Inn,Found,(Lion's Den-downstairs summers only) ,Rt. 7,"42.281582,-73.312008",Stockbridge,"(M),(*)",Hotels,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1104,Red Lion Inn,Found,,Rt. 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:50pm
+970,Red Lion Inn,Found,(Lion's Den-downstairs-summers only) ,Route 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1973,checked,,,3/31/2020 4:48pm,3/31/2020 6:27pm
+492,Red Lion Inn,Found,(Downstairs) ,Rte. 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+906,Red Lion Inn,Found,(Lion's Den-downstairs-summers only) ,Route 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1774,checked,,,3/31/2020 4:47pm,3/31/2020 5:30pm
+1244,Red Lion Inn,Found,,Rte 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm
+833,Red Lion Inn,Found,(Lion's Den-downstairs-summers only) ,Route 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1975,checked,,,3/31/2020 2:27pm,3/31/2020 4:10pm
+744,Red Lion Inn,Found,(Lion's Den-downstairs-summers) ,Route 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1976,checked,,,3/30/2020 11:17pm,3/31/2020 2:01am
+1174,Red Lion Inn,Found,,Route 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1969,checked,,,3/31/2020 7:41pm,3/31/2020 7:41pm
+1213,Red Lion Inn,Found,,Route 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+343,Red Lion Inn,Found,(Downstairs) ,Rte. 7,"42.281582,-73.312008",Stockbridge,(M),Hotels,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+1026,Red Lion Inn,Found,(Lion's Den-downstairs-summers only) ,Route 7,"42.281582,-73.312008",Stockbridge,"(M),(*)",Hotels,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+191,Spot Pond Rte 28,Found,Turn off,," 42.457241,-71.095831",Stoneham,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:34am,3/29/2020 12:49am
+493,Di Rocco's Cabaret,General City Coordinates Used,"(Disco) (Some G) (WE*) Frost Rd. Rte.3A, nr. New Hampshire State Line",,"42.699363,-71.419956",Tyngsboro,"(G),(D),(WE),(*)",Bars/Clubs,1978,checked,,Approximate.,3/30/2020 2:23am,3/30/2020 2:57am
+344,Di Rocco's Cabaret,General City Coordinates Used,(Disco) (Some G) (WE*) Frost Rd. (Rte.3A) nr. New Hampshire State Line,,"42.699363,-71.419956",Tyngsboro,"(YC),(D),(S),(G)",Bars/Clubs,1979,checked,,Approximate.,3/29/2020 7:51pm,3/30/2020 1:43am
+834,Di Rocco's Cabaret,General City Coordinates Used,,Route 3A,"42.699363,-71.419956",Tyngsboro,"(M),(YC)",Bars/Clubs,1975,checked,,Approximate.,3/31/2020 2:27pm,3/31/2020 4:10pm
+745,Di Rocco's Cabaret,General City Coordinates Used,"(Disco) (Some G) (WE*) Route 3A (Hudson Rd., nr. N.H. State Line)",,"42.699363,-71.419956",Tyngsboro,"(G),(D),(WE),(*),(YC)",Bars/Clubs,1976,checked,,Approximate.,3/30/2020 11:17pm,3/31/2020 2:01am
+624,Di Rocco's Cabaret,General City Coordinates Used,,,"42.699363,-71.419956",Tyngsboro,"(G),(D),(WE),(*),(YC)",Bars/Clubs,1977,checked,,Approximate.,3/30/2020 2:37am,3/30/2020 10:49pm
+192,Di Rocco's Cabaret,General City Coordinates Used,(Disco) (Some L) (WE*) Frost Rd. (Rte.3A) nr. New Hampshire State Line,,"42.699363,-71.419956",Tyngsboro,"(YC),(D),(S),(L),(WE),(*)",Bars/Clubs,1980,checked,,Approximate.,3/29/2020 12:34am,3/29/2020 12:49am
+345,Oasis,General City Coordinates Used,(Many G) (WE*),"Rte. 3A, 1/10th of a mile from DiRocco's","42.699363,-71.419956",Tyngsboro,"(G),(D),(WE),(*)",Bars/Clubs,1979,checked,,Approximate.,3/29/2020 7:51pm,3/30/2020 1:43am
+494,Oasis,General City Coordinates Used,(Many G) (WE*),"Rte. 3A, 1/10th of a mile from DiRocco's","42.699363,-71.419956",Tyngsboro,"(G),(D),(WE),(*)",Bars/Clubs,1978,checked,,Approximate.,3/30/2020 2:23am,3/30/2020 2:57am
+346,Black Knight,General City Coordinates Used,,Rte. 9,"42.259846,-72.239857",Ware,"(M),(R),(WE)",Restaurant,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+193,Black Knight,General City Coordinates Used,,Rte. 9,"42.259846,-72.239857",Ware,"(M),(R),(WE)",Restaurant,1980,checked,,,3/29/2020 12:36am,3/29/2020 12:49am
+194,Williams Inn,General City Coordinates Used,(Disco WE),Main St.,"42.71202,-73.20369",Williamstown,"(M),(H),(R),(WE)","Hotels,Restaurant",1980,checked,,,3/29/2020 12:36am,3/29/2020 12:49am
+195,'Rest Stop' N. on Rte. 3,General City Coordinates Used,,,"42.218072,-70.941036",Weymouth,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,3/29/2020 12:36am,3/29/2020 12:49am
+201,'Rest Stop',General City Coordinates Used,T-Room on Rte. 2 nr Sterling lot.,,"42.262593,-71.802293",Worcester,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:36am,3/29/2020 12:49am
+200,Portland St.,General City Coordinates Used,,,"42.262593,-71.802293",Worcester,Cruisy Area,Cruising Areas,1980,checked,,,3/29/2020 12:36am,3/29/2020 12:49am
+498,Portland St.,General City Coordinates Used,,,"42.262593,-71.802293",Worcester,Cruisy Area,Cruising Areas,1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+351,Portland St.,General City Coordinates Used,,,"42.262593,-71.802293",Worcester,Cruisy Area,Cruising Areas,1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:43am
+352,Worcester Center,General City Coordinates Used,Basement T-Room,,"42.262593,-71.802293",Worcester,Cruisy Area,"Cruising Areas,Organizations",1979,checked,,,3/29/2020 7:51pm,3/30/2020 1:42am
+202,Worcester Center,General City Coordinates Used,Basement T-Room,,"42.262593,-71.802293",Worcester,Cruisy Area,"Cruising Areas,Organizations",1980,checked,,,3/29/2020 12:36am,3/30/2020 1:42am
+499,Worcester Center,General City Coordinates Used,Basement T-Room,,"42.262593,-71.802293",Worcester,Cruisy Area,"Cruising Areas,Organizations",1978,checked,,,3/30/2020 2:23am,3/30/2020 2:57am
+501,Rachid's,Found,(Disco) (Wed. night*) (Mountain Farms Mall (Hadley),," 42.35538,-72.552007",Amherst,"(M),(YC),(D),(*)",Bars/Clubs,1977,checked,,,3/30/2020 2:23am,3/30/2020 10:49pm
+354,Rachid's,Found,(Disco) (Wed. night*) (Mountain Farms Mall (Hadley),," 42.35538,-72.552007",Amherst,"(M),(YC),(D),(*)",Bars/Clubs,1978,checked,,,3/29/2020 7:51pm,3/30/2020 2:58am
+502,University of Massachusetts,Found,Herter Hall-Basement T-room,,"42.38775,-72.527301",Amherst,Cruisy Area,"Cruising Areas,Organizations",1977,checked,,,3/30/2020 2:23am,3/30/2020 10:49pm
+825,House of David,General City Coordinates Used,(baths) For info. call 523-2361,," 42.30565,-71.524509",Southboro,"(P),(D)",Baths,1975,checked,,,3/31/2020 2:27pm,3/31/2020 4:10pm
+937,Hyway Inn,General City Coordinates Used,,Rt. 1 Exit 12 on Sunfold St.,"42.759536,-70.94751",Byfield,,"Bars/Clubs,Hotels",1973,checked,,,3/31/2020 4:47pm,3/31/2020 6:27pm
+871,Don's Den,General City Coordinates Used,"Off Meadow St., Willamansett",,"42.179259,-72.620368 ",Chicopee,,,1774,checked,checked,sounds like a bar or hotel,3/31/2020 2:27pm,3/31/2020 5:30pm
+1021,X-L Bar,General City Coordinates Used,(Inquire locally),,"42.51954,-70.896715",Salem,,Bars/Clubs,1972,checked,,,3/31/2020 4:48pm,3/31/2020 6:52pm
+1100,X-L Bar,General City Coordinates Used,(Inquire locally),,"42.51954,-70.896715",Salem,,Bars/Clubs,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1062,X-L Bar,General City Coordinates Used,(Inquire locally),,"42.51954,-70.896715",Salem,,Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1170,X-L Bar,General City Coordinates Used,(Inquire locally),,"42.51954,-70.896715",Salem,,Bars/Clubs,1969,checked,,,3/31/2020 7:41pm,3/31/2020 7:41pm
+1050,Grey Finch ,General City Coordinates Used,Inquire locally,,"42.615929,-70.661989",Glouchester,,Bars/Clubs,1971,checked,,,3/31/2020 4:48pm,3/31/2020 7:24pm
+1088,Grey Finch ,General City Coordinates Used,Inquire locally,,"42.615929,-70.661989",Glouchester,,Bars/Clubs,1970,checked,,,3/31/2020 7:26pm,3/31/2020 7:41pm
+1199,Grey Finch ,General City Coordinates Used,Inquire locally,,"42.615929,-70.661989",Glouchester,,Bars/Clubs,1968,checked,,,3/31/2020 7:52pm,3/31/2020 8:06pm
+1158,Grey Finch ,General City Coordinates Used,Inquire locally,,"42.615929,-70.661989",Glouchester,,Bars/Clubs,1969,checked,,,3/31/2020 7:41pm,3/31/2020 7:41pm
+1234,Sagimore,General City Coordinates Used,(semi-private inquire locally),,"41.602324,-71.250326",Portsmouth,(D),Bars/Clubs,1966,checked,,,3/31/2020 8:12pm,3/31/2020 8:19pm

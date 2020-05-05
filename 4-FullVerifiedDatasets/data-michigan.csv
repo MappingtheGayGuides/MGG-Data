@@ -168,7 +168,7 @@ ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,uncleara
 212,Adams Hotel Bar ,,203 S. Front ,Marquette,MI,(M),"Bars/Clubs,Hotels",1972,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"203 S. Front , Marquette, MI",-87.3929921,46.5423476,"203 s front st, marquette, mi 49855, usa",Geocoded
 213,Dutch's ,,517 Lapeer ,Saginaw,MI,(M),Bars/Clubs,1972,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"517 Lapeer , Saginaw, MI",-83.9348771,43.4328408,"517 lapeer ave, saginaw, mi 48607, usa",Geocoded
 218,Flame ,,115 W. Washington ,Ann Arbor,MI,"(YC),(*)",Bars/Clubs,1973,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"115 W. Washington , Ann Arbor, MI",-83.749358,42.2803209,"115 w washington st, ann arbor, mi 48104, usa",Geocoded
-219,Oasis ,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1973,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"937 Colombia S.W., Battle Creek , MI",NA,NA,NA,Geocoded
+219,Oasis ,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1973,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"937 Colombia S.W., Battle Creek , MI",-85.217383,42.297782,NA,Found
 220,Blue Ribbon ,,500 1st Ave. ,Bay City ,MI,,Bars/Clubs,1973,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"500 1st Ave. , Bay City , MI",-83.8848355,43.6028391,"500 first st, bay city, mi 48708, usa",Geocoded
 222,Auto City Motel ,,660 Stimson,Detroit,MI,(H),Hotels,1973,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"660 Stimson, Detroit, MI",-83.0603994,42.3450952,"660 stimson st, detroit, mi 48201, usa",Geocoded
 223,Barbary Coast ,,2765 Grand River ,Detroit,MI,"(G),(M),(RT)",Bars/Clubs,1973,NA,NA,3/11/2020 12:46am,3/28/2020 8:45pm,"2765 Grand River , Detroit, MI",-83.0651035,42.3386739,"2765 grand river ave, detroit, mi 48201, usa",Geocoded
@@ -214,7 +214,7 @@ ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,uncleara
 285,Edgehill Inn ,,312 Francis ,Saugatuck,MI,(H),Hotels,1973,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"312 Francis , Saugatuck, MI",-86.2024412,42.6596154,"312 francis st, saugatuck, mi 49453, usa",Geocoded
 287,Saugatuck Motor Lodge ,(after hours)(Hwy. 31),3219 Blue Star Hwy. ,Saugatuck,MI,"(H),(C),(D),(YC)",Hotels,1973,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"3219 Blue Star Hwy. , Saugatuck, MI",-86.1911276,42.6521641,"3219 blue star hwy, saugatuck, mi 49453, usa",Geocoded
 291,Flame ,,115 W. Washington ,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1974,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"115 W. Washington , Ann Arbor, MI",-83.749358,42.2803209,"115 w washington st, ann arbor, mi 48104, usa",Geocoded
-292,Oasis ,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1974,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"937 Colombia S.W., Battle Creek , MI",NA,NA,NA,Geocoded
+292,Oasis ,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1974,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"937 Colombia S.W., Battle Creek , MI",-85.217383,42.297782,NA,Found
 293,Blue Ribbon ,,500 1st Ave.,Bay City ,MI,,Bars/Clubs,1974,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"500 1st Ave., Bay City , MI",-83.8848355,43.6028391,"500 first st, bay city, mi 48708, usa",Geocoded
 295,Adobe ,(betw. 6 & 7 Mile Roads),19326 Conant ,Detroit,MI,(D),Bars/Clubs,1974,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"19326 Conant , Detroit, MI",-83.0755435,42.4358992,"19326 conant st, detroit, mi 48234, usa",Geocoded
 296,Auto City Motel ,,660 Stimson,Detroit,MI,(H),Hotels,1974,NA,NA,3/11/2020 12:47am,3/28/2020 8:45pm,"660 Stimson, Detroit, MI",-83.0603994,42.3450952,"660 stimson st, detroit, mi 48201, usa",Geocoded
@@ -272,7 +272,7 @@ ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,uncleara
 370,Edgehill Inn ,,312 Francis ,Saugatuck,MI,(H),Hotels,1974,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"312 Francis , Saugatuck, MI",-86.2024412,42.6596154,"312 francis st, saugatuck, mi 49453, usa",Geocoded
 372,Saugatuck Motor Lodge ,(after hours),3291 Blue Star Hwy. ,Saugatuck,MI,"(H),(C),(D),(YC)",Hotels,1974,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"3291 Blue Star Hwy. , Saugatuck, MI",-86.1892054,42.657567,"3291 blue star hwy, saugatuck, mi 49453, usa",Geocoded
 376,Flame ,,115 W. Washington,Ann Arbor,MI,"(M),(YC),(*)",Bars/Clubs,1975,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"115 W. Washington, Ann Arbor, MI",-83.749358,42.2803209,"115 w washington st, ann arbor, mi 48104, usa",Geocoded
-378,Oasis,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1975,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"937 Colombia S.W., Battle Creek , MI",NA,NA,NA,Geocoded
+378,Oasis,,937 Colombia S.W.,Battle Creek ,MI,(M),Bars/Clubs,1975,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"937 Colombia S.W., Battle Creek , MI",-85.217383,42.297782,NA,Found
 379,Blue Ribbon ,,500 1st Ave. ,Bay City ,MI,,Bars/Clubs,1975,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"500 1st Ave. , Bay City , MI",-83.8848355,43.6028391,"500 first st, bay city, mi 48708, usa",Geocoded
 381,Adobe ,betw. 6 & 7 Mile Roads,19326 Conant ,Detroit,MI,"(YC),(D),(*)",Bars/Clubs,1975,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"19326 Conant , Detroit, MI",-83.0755435,42.4358992,"19326 conant st, detroit, mi 48234, usa",Geocoded
 382,Akron Health Club Baths,,7530 E. 7 Mile Rd. ,Detroit,MI,,Baths,1975,NA,NA,3/11/2020 2:03am,3/28/2020 8:45pm,"7530 E. 7 Mile Rd. , Detroit, MI",-83.0268647,42.4336623,"7530 seven mile e, detroit, mi 48234, usa",Geocoded
@@ -837,7 +837,7 @@ ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,uncleara
 368,Blue Star Inn,Blue Star Hwy. (Hwy 31),,Saugatuck,MI,(H),Hotels,1974,checked,NA,3/11/2020 2:03am,3/28/2020 8:45pm,", MI",-86.201982,42.655025,unclear_coded_by_hand,General City Coordinates Found
 452,Blue Star Inn,Blue Star Hwy. (Hwy. 31),,Saugatuck,MI,(H),Hotels,1975,checked,NA,3/11/2020 8:40pm,3/28/2020 8:45pm,", MI",-86.201982,42.655025,unclear_coded_by_hand,General City Coordinates Found
 712,Blue Star Inn,& Campsites- Blue Star Hwy (Hwy. 31),,Saugatuck,MI,"(*),(H)",Hotels,1978,checked,NA,3/19/2020 8:28pm,3/28/2020 8:45pm,", MI",-86.201982,42.655025,unclear_coded_by_hand,General City Coordinates Found
-168,Blue Temp Bar,(interesting beach nearby),,Saugatuck,MI,"(D),(*)",Bars/Clubs,1971,checked,NA,3/9/2020 2:15am,3/28/2020 8:45pm,", MI",NA,,unclear_coded_by_hand,
+168,Blue Temp Bar,(interesting beach nearby),,Saugatuck,MI,"(D),(*)",Bars/Clubs,1971,checked,NA,3/9/2020 2:15am,3/28/2020 8:45pm,", MI",-86.201982,42.655025,unclear_coded_by_hand,General City Coordinates Found
 26,Blue Tempo Bar,(an interesting beach nearby),,Saugatuck,MI,(M),Bars/Clubs,1965,checked,NA,3/9/2020 2:11am,3/28/2020 8:45pm,", MI",-86.201982,42.655025,unclear_coded_by_hand,General City Coordinates Found
 54,Blue Tempo Bar,(interesting beach nearby),,Saugatuck,MI,(*),Bars/Clubs,1966,checked,NA,3/9/2020 2:11am,3/28/2020 8:45pm,", MI",-86.201982,42.655025,unclear_coded_by_hand,General City Coordinates Found
 60,Blue Tempo Bar,(interesting beach nearby),,Saugatuck,MI,(*),Bars/Clubs,1968,checked,NA,3/9/2020 2:12am,3/28/2020 8:45pm,", MI",-86.201982,42.655025,unclear_coded_by_hand,General City Coordinates Found
