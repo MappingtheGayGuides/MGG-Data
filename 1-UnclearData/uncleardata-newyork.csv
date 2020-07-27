@@ -1,0 +1,919 @@
+﻿ID,Title,status,description,lat.lon,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,dateadded,lastmodified
+1471,'B.A.' Beach,General Coordinates Used,"Rt. 2, 2 mi. E. of Troy"," 42.728412,-73.691785 ",,Troy,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:58pm
+1113,'B.A.' Beach,General Coordinates Used,2 mi. E. on Rte. 2," 42.728412,-73.691785 ",,Troy,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:35pm
+781,'B.A.' Beach,General Coordinates Used,2 mi. E. on Rtw. 2," 42.728412,-73.691785 ",,Troy,NY,Cruisy Area,Cruising Areas,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:38pm
+381,'B.A.' Beach,General Coordinates Used,2 mi. E. on Rte. 2," 42.728412,-73.691785 ",,Troy,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:39am,2/29/2020 12:22am
+1707,'BA' Beach,General Coordinates Used,Rt. 2- 2mi. E. of Troy," 42.728412,-73.691785 ",,Troy,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/16/2020 7:37pm
+44,'Hitch-hikers',Found,on Elmwood betw. North & Bryant,"42.902261,-78.877111",,Buffalo,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:03am
+419,'Lollypop Heaven',General Coordinates Used,Rest Stop on Rte. 81 Northbound,"42.098687,-75.917974",,Binghamton,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 3:32pm
+1495,'Old Town U.S.A.',General Coordinates Used,Thur. thru Sun. Niagara Falls Blvd.,"42.979007,-78.792272 ",,Amherst,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/9/2020 7:57pm,3/10/2020 12:20am
+1196,'Rest Stop',General Coordinates Used,on I-87 nr. Exit 20,"43.426181,-73.712341",,Lake George,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:50pm
+869,'Rest Stop',General Coordinates Used,"on I-87, nr. exit 28","43.426181,-73.712341",,Lake George,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:14pm
+481,'Rest Stop',General Coordinates Used,"on I-87, nr. exit 28","43.426181,-73.712341",,Lake George,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:16pm
+380,'Rest Stops',General Coordinates Used,on Montauk Hwy. -both sides- just W. of Shinnecock Canal,"40.963434,-72.184801 ",,East Hampton,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:39am,2/29/2020 12:21am
+1117,'Turn around circle',Found,at E. end of Main & block from 1st to 2nd betw. Main & Catherine (by car),"43.10199,-75.223951",,Utica,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:44pm
+784,'Turn around circle',Found,at end of Main & block from 1st to 2nd betw. Main & Catherine,"43.10199,-75.223951",,Utica,NY,Cruisy Area,Cruising Areas,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:41pm
+384,'Turn around circle',Found,"at end of Main, & block from 1st to 2nd betw. Main & Catherine","43.10199,-75.223951",,Utica,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:39am,2/29/2020 3:02pm
+2228,'Vaseline Alley',General Coordinates Used,by car or walking- 37th Rd. (Hot!),"40.747118,-73.892407 ",,Queens,NY,"Cruisy Area,(HOT)",Cruising Areas,1974,checked,,,3/19/2020 2:37pm,7/20/2020 9:14am
+1945,'Vaseline Alley',General Coordinates Used,by car or foot 37th Rd. (HOT!),"40.747118,-73.892407 ",,Queens,NY,"Cruisy Area,(HOT)",Cruising Areas,1975,checked,,,3/17/2020 3:27pm,7/20/2020 9:14am
+1415,'Vaseline Alley',General Coordinates Used,37th Rd.- by car or foot (HOT),"40.747118,-73.892407 ",,Queens,NY,"Cruisy Area,(HOT)",Cruising Areas,1977,checked,,,3/9/2020 7:57pm,7/20/2020 9:11am
+1056,'Vaseline Alley',General Coordinates Used,37th Rd. by foot or car (HOT),"40.747118,-73.892407 ",,Queens,NY,"Cruisy Area,(HOT)",Cruising Areas,1978,checked,,,3/5/2020 11:08pm,7/20/2020 9:11am
+710,'Vaseline Alley',General Coordinates Used,37th Rd. by foot or car (HOT),"40.747118,-73.892407 ",,Queens,NY,"Cruisy Area,(HOT)",Cruising Areas,1979,checked,,,2/29/2020 10:19pm,7/20/2020 9:10am
+304,'Vaseline Alley',General Coordinates Used,37th Rd. by foot or car ,"40.747118,-73.892407 ",,Queens,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/27/2020 12:11am
+601,55th St. Playhouse,Found,(Cinema) 55th St. nr. 7th Ave.,"40.763743,-73.980443",,Midtown,NY,,Theatre,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:50pm
+197,55th St. Playhouse,Found,(Cinema) 55th St nr. 7th Ave.,"40.763743,-73.980443",,Midtown,NY,,Theatre,1980,checked,,,2/18/2020 11:38am,2/25/2020 9:40am
+680,75th St.,Found,betw. Amsterdam & Columbus,"40.78019,-73.978736",,Uptown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:29pm
+271,75th St.,Found,betw. Amsterdam & Columbus,"40.78019,-73.978736",,Uptown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:43pm
+948,Adonis Cinema,Found,8th Ave. at 50th St.," 40.762858,-73.986054 ",,Midtown,NY,,Theatre,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:01pm
+577,Adonis Cinema,Found,8th Ave. at 50th St.," 40.762858,-73.986054 ",,Midtown,NY,,Theatre,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:34pm
+178,Adonis Cinema,Found,8th Ave. at 50th St.," 40.762858,-73.986054 ",,Midtown,NY,,Theatre,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:16am
+1356,Adonis Theatre,Found,8th Avenue at 50th St.," 40.762858,-73.986054 ",,Uptown,NY,,Theatre,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:38pm
+691,Adult Fair Cinema,Found,(Books) Astoria Blvd. at 90ths St.,"40.763599,-73.87925",,Jackson Heights,NY,,"Theatre,Book Store",1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:38pm
+284,Adult Fair Crinema,Found,(Books) Astoria Blvd. at 90th St.,"40.763599,-73.87925",(Jackson Heights),Jackson Heights,NY,,"Theatre,Book Store",1980,checked,,,2/18/2020 11:38am,2/26/2020 11:53pm
+3082,Alamo,Found,8th Av at 58th St.,"40.767431,-73.982373",,New York City,NY,(C),Bars/Clubs,1968,checked,,This year's guide doesn't distinguish between burrows or greenwich like previous years. ,4/10/2020 6:01pm,4/13/2020 1:44pm
+1747,Allentown Area,Found,,"42.899406,-78.876479",,Buffalo,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+839,Allentown Area,Found,,"42.899406,-78.876479",,Buffalo,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 12:27pm
+2027,Allentown area,Found,,"42.899406,-78.876479",,Buffalo,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:19pm
+1516,Allentown area,Found,,"42.899406,-78.876479",,Buffalo,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:10pm
+1165,Allentown area,Found,,"42.899406,-78.876479",,Buffalo,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:33pm
+443,Allentown area,Found,,"42.899406,-78.876479",,Buffalo,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:53pm
+41,Allentown area,Found,,"42.899406,-78.876479",,Buffalo,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:01am
+2435,Alley,Found,63rd St. nr Roosevelt Ave.,"40.745825,-73.901103",,Queens,NY,,Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:37pm
+2209,Alley,Found,(Disco) 63rd St. nr. Roosevelt Ave. ,"40.745825,-73.901103",,Queens,NY,"(YC),(D),(*)",Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 8:34pm
+1754,Alvin's Hideaway,General Coordinates Used,(no booze) Lake Shore Dr. W,"42.485414,-79.348105",,Dunkirk,NY,"(M),(YC),(R)",Restaurant,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+55,Anabel's,General Coordinates Used,(Snacks) Cherry Grove,"40.659792,-73.089962 ",,Fire Island,NY,(R),Restaurant,1980,checked,,Long Island- All Fire Island under Long Island,2/18/2020 11:37am,2/23/2020 5:50pm
+2120,Andre's,Found,8th Ave. & 125th Sts.,"40.810186,-73.951155",,Manhattan,NY,,Bars/Clubs,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:40pm
+640,Andre's,Found,8th Ave. at 125 St.,"40.810186,-73.951155",,Uptown,NY,(B),Bars/Clubs,1979,checked,,,2/29/2020 10:19pm,3/1/2020 2:56pm
+235,Andre's,Found,8th Ave at 125th St.,"40.810186,-73.951155",,Uptown,NY,(B),Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/25/2020 10:26pm
+1203,Angora 129,Found,8th Avenue between 16th and 17th Streets,"40.741071,-74.001559",,Greenwich Village,NY,,Bars/Clubs,1977,checked,checked,,3/5/2020 11:08pm,3/9/2020 12:08am
+1204,Anvil,Found,"(""action"" (S) & ""wild back room"") 10th Avenue at 14th Street","40.742337,-74.008519 ",,Greenwich Village,NY,"(SM),(W),(FFA),(*),(S)",Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/9/2020 12:11am
+876,Anvil,Found,('Action' (S) &'wild back room') 14th St. betw. 10th & 11th Ave.,"40.742337,-74.008519 ",,Greenwich Village,NY,"(P),(FFA),(SM),(S),(*)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:35pm
+2279,Area around bus depot,Found,,"42.645985,-73.751344 ",,Albany,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/19/2020 2:37pm,3/22/2020 9:29pm
+2010,Area around bus depot,Found,,"42.645985,-73.751344 ",,Albany,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:27pm,7/20/2020 9:25am
+76,Area Behind Mr. Chips,General Coordinates Used,,"43.426181,-73.712341",,Lake George,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/23/2020 6:13pm
+3211,Astor Hotel Bar,Found,Broadway & 44th ,"40.757277,-73.985859",,Manhattan,NY,(PE),"Bars/Clubs,Hotels",1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:16pm
+1992,Attic,General Coordinates Used,Montauk Highway,"40.963434,-72.184801 ",,East Hampton,NY,"(YC),(D),(*)",Bars/Clubs,1975,checked,,All Hamptons- Long Island,3/17/2020 3:27pm,3/17/2020 4:18pm
+1701,Attic,General Coordinates Used,Montauk Highway,"40.963434,-72.184801 ",,East Hampton,NY,"(D),(*)",Bars/Clubs,1976,checked,,All Hamptons- Long Island,3/10/2020 11:55am,3/15/2020 3:29pm
+1465,Attic,General Coordinates Used,Montauk Highway,"40.963434,-72.184801 ",,East Hampton,NY,"(D),(*)",Bars/Clubs,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:55pm
+1103,Attic,General Coordinates Used,Montauk Hwy.,"40.963434,-72.184801 ",,East Hampton,NY,(D),Bars/Clubs,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:27pm
+492,Badlands,Found,"(Some W, SM) Christopher & West Sts."," 40.706223,-74.01701",,Greenwich Village,NY,"(W),(SM)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:38pm
+877,Badlands ,Found,West St. at Christopher," 40.706223,-74.01701",,Greenwich Village,NY,,Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:36pm
+1618,Bank St. Pier,General Coordinates Used,(which has replaced 'the trucks'),"40.736453,-74.010241 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:47pm
+941,Bank St. Piers,General Coordinates Used,"(Extremely dangerous- murders, beatings, muggings, etc.)","40.736453,-74.010241 ",,Greenwich Village,NY,"Cruisy Area,(AYOR)",Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 9:58pm
+568,Bank St. Piers,General Coordinates Used,"(Extremely dangerous- murders, muggings, punk kids in cars attacking single gays)","40.736453,-74.010241 ",,Greenwich Village,NY,"(AYOR),Cruisy Area",Cruising Areas,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:30pm
+1287,Bank Street Piers,General Coordinates Used,"(Extremely dangerous- murders, beatings, muggings, etc. AYOR)","40.736453,-74.010241 ",,Greenwich Village,NY,"Cruisy Area,(AYOR)",Cruising Areas,1977,checked,,,3/9/2020 7:56pm,7/20/2020 9:16am
+1296,Barbara's,Found,52nd Street at 1st Avenue,"40.755143,-73.965231",,Midtown,NY,,Bars/Clubs,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:48pm
+950,Barbara's,Found,52nd St. at 1st Ave.,"40.755143,-73.965231",,Midtown,NY,,Bars/Clubs,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:03pm
+2692,Barn,Found,13th St. at 9th Ave. (wild back room)," 40.740264,-74.005866 ",,Greenwich Village,NY,(*),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:23pm
+2634,Baron,Found,Rego Park,"40.725572,-73.862489",,Queens,NY,,Bars/Clubs,1972,checked,checked,,3/24/2020 4:45pm,3/30/2020 2:45pm
+2885,Barrel Inn,Found,9th Ave. bet. 41st & 42nd,"40.758027,-73.9927",,Manhattan,NY,(SM),Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:08pm
+2960,Bat Cave,Found,,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1969,checked,,All Fire Island- Long Island,3/30/2020 4:57pm,3/30/2020 5:51pm
+2831,Bat Cave,Found,,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1970,checked,,All fire island long island,3/30/2020 4:04pm,3/30/2020 4:40pm
+2682,Bat Cave,Found,(Inquire locally),"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1971,checked,checked,"All Fire Island, long island",3/30/2020 2:45pm,3/30/2020 3:19pm
+3131,Bayshore Health Club,General Coordinates Used,1/2 blk E of Citgo Sta N of Southern St Pky,"40.910654,-73.562069",,Bayville,NY,,Baths,1966,checked,,Long Island,4/10/2020 6:01pm,4/13/2020 2:32pm
+3056,Bayshore Health Club,General Coordinates Used,1/2 blk E of Citgo Sta N of Southern St Pky,"40.910654,-73.562069",,Bayville,NY,,Baths,1968,checked,,Long Island,4/10/2020 6:01pm,4/10/2020 6:16pm
+2946,Bayshore Health Club,General Coordinates Used,1/2 nlk E of Citgo St N of Southern St Pkwya Shore House Ludlim Ave,"40.910654,-73.562069",,Bayville,NY,,Baths,1969,checked,checked,Long Island,3/30/2020 4:57pm,3/30/2020 5:42pm
+1470,Beach,General Coordinates Used,at end of 2-Mile Hollow Rd.- beach days- 'Meat Rack' at night,"40.939046,-72.20619",,The Hamptons,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:58pm
+378,Beach,General Coordinates Used,at end of 2-Mile Hollow Rd. (Go left)," 40.939494,-72.205403",,East Hampton,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:39am,2/29/2020 12:19am
+1111,Beach at end of 2-Mile Hollow Rd.,General Coordinates Used,Beach days- 'Meat rack' at night,"40.939046,-72.20619",,The Hamptons,NY,Cruisy Area,Cruising Areas,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:34pm
+780,Beach at end of 2-Mile Hollow Rd.,General Coordinates Used,Beach days 'Meat rack' at night,"40.939046,-72.20619",,The Hamptons,NY,Cruisy Area,Cruising Areas,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:37pm
+1997,Beach at end of Two Mile Hollow Rd,General Coordinates Used,"Beach days, meatrack at night","40.939046,-72.20619",,The Hamptons,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:20pm
+1706,Beach at end of Two Mile Hollow Rd.,General Coordinates Used,beach days- 'Meat Rack' at night.,"40.939046,-72.20619",,The Hamptons,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/16/2020 7:37pm
+2635,Beach Haven,Found,Midland Beach,"40.57149,-74.093163",,Staten Island,NY,,Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:46pm
+2436,Beach Haven,Found,Midland Beach,"40.57149,-74.093163",,Staten Island,NY,(M),Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:38pm
+3201,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:13pm
+3143,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:37pm
+3071,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1968,checked,,Long Island,4/10/2020 6:01pm,4/10/2020 6:33pm
+2961,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1969,checked,,,3/30/2020 4:57pm,3/30/2020 5:51pm
+2832,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,,Hotels,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:40pm
+2683,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:20pm
+2511,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1972,checked,,All Fire Island- long island,3/23/2020 12:33pm,3/23/2020 1:17pm
+2298,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1973,checked,,All Fire Island- long island,3/19/2020 2:37pm,3/22/2020 9:37pm
+2034,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1974,checked,,All Fire Island Long Island,3/17/2020 3:27pm,3/17/2020 7:39pm
+1528,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1976,checked,,All Fire Island- Long Island,3/10/2020 11:55am,3/10/2020 12:18pm
+1180,Beach Hotel,Found,Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1977,checked,,All Fire Island- Long Island,3/5/2020 11:08pm,3/8/2020 11:42pm
+854,Beach Hotel,Found,Cherrry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1978,checked,,All Fire Island listed under Long Island,3/1/2020 4:23pm,3/2/2020 8:00pm
+458,Beach Hotel,Found,,"40.659694,-73.090049",597-6600 Cherry Grove,Fire Island,NY,(H),Hotels,1979,checked,,All Fire Island- Long Island,2/29/2020 3:24pm,7/20/2020 8:50am
+56,Beach Hotel,Found,(516) 597-6600 Cherry Grove,"40.659694,-73.090049",,Fire Island,NY,(H),Hotels,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:51pm
+3212,Beachcomber,Found,6th Av & 11th St.,"40.735398,-73.998263",,Manhattan,NY,,Bars/Clubs,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:16pm
+1388,Beekman Place,Found,," 40.753309,-73.964796",,Uptown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 11:11pm
+1025,Beekman Place,Found,," 40.753309,-73.964796",,Uptown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:24pm
+674,Beekman Place,Found,," 40.753309,-73.964796",,Uptown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:26pm
+265,Beekman Place,Found,," 40.753309,-73.964796",,Uptown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:38pm
+1947,Bella's Candlelight Inn,General Coordinates Used,Rt. 9W," 41.090652,-73.917915 ",,Nyack,NY,"(R),(D)",Restaurant,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:30pm
+1659,Bella's Candlelight Inn,General Coordinates Used,Rt. 9W," 41.090652,-73.917915 ",,Nyack,NY,"(R),(D)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/14/2020 9:13pm
+2019,Big Daddy's Company Store,General Coordinates Used,Main St. nr. Goodell,"42.895025,-78.870907",,Buffalo,NY,"(YC),(D),(*)",Bars/Clubs,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:05pm
+2742,Bigoubi,General Coordinates Used,"(Old Mistique) 49th St., W. of 2nd Ave.","40.754567,-73.97002",,Manhattan,NY,"(P),(D),(*)",Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:54pm
+2575,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:08am
+2364,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/22/2020 9:55pm,3/23/2020 11:58am
+2112,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:37pm
+1840,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:48pm
+1619,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:47pm
+942,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 9:59pm
+569,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:30pm
+171,Bleecker & Hudson Sts.,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:12am
+1288,Bleeker & Hudson Streets,Found,,"40.736899,-74.005524 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:44pm
+3241,Blue Chip,Found,Brown & King Sts,"43.156984,-77.626758 ",,Rochester,NY,"(P),(D),(G)",Bars/Clubs,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:30pm
+3185,Blue Chip,Found,Brown & King St,"43.156984,-77.626758 ",,Rochester,NY,"(P),(D),(G)",Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:58pm
+3121,Blue Chip,Found,Brown & King Sts,"43.156984,-77.626758 ",,Rochester,NY,(*),Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:18pm
+1104,Blue Cloud,General Coordinates Used,(Disco)  Montauk Hwy.,"40.917835,-72.347884",,Watermill,NY,"(M),(R),(*)","Restaurant,Bars/Clubs",1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:29pm
+773,Blue Cloud,General Coordinates Used,(Disco) Montauk Hwy.,"40.917835,-72.347884",,Watermill,NY,"(M),(R),(D),(*)",Restaurant,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:30pm
+373,Blue Cloud,General Coordinates Used,(Disco) Montauk Hwy.,"40.917835,-72.347884",,Watermill,NY,"(M),(R),(D)",Restaurant,1980,checked,,The Hamptons Long Island,2/18/2020 11:39am,2/28/2020 12:12am
+1529,Blue Whale,Found,('Tea Dance' afternoons 5:30- 7:30 is a must) The Pines,"40.665332,-73.06908",,Fire Island,NY,(*),Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:18pm
+1181,Blue Whale,Found,"('Tea Dance"" afternoons/5:30 to 7:30 is a ""must"") The Pines","40.665332,-73.06908",,Fire Island,NY,(*),Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:42pm
+855,Blue Whale,Found,(Tea dance*) The Pines,"40.665332,-73.06908",,Fire Island,NY,,Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 7:59pm
+57,Blue Whale Bar,Found,(Disco 'Tea Dance' 4:30- 7:30*) Boatel Motel,"40.665332,-73.06908",,Fire Island,NY,,Bars/Clubs,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:52pm
+3202,Boatel Hotel,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(H),Hotels,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:13pm
+3072,Boatel Hotel,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(H),Hotels,1968,checked,,Long Island,4/10/2020 6:01pm,4/10/2020 6:33pm
+2962,Boatel Hotel,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(H),Hotels,1969,checked,,,3/30/2020 4:57pm,3/30/2020 5:51pm
+2833,Boatel Hotel,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,Hotels,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:40pm
+2684,Boatel Hotel,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(H),Hotels,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:20pm
+3144,Boatel Hotel ,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(H),Hotels,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:37pm
+459,Boatel Hotel & Bar,General Coordinates Used,597-6500 The Pines,"40.665319,-73.069304",,Fire Island,NY,(H),Hotels,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:01pm
+3203,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:13pm
+3145,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:37pm
+3073,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Hotels,Bars/Clubs",1968,checked,,Long Island,4/10/2020 6:01pm,4/10/2020 6:33pm
+2963,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1969,checked,,,3/30/2020 4:57pm,4/13/2020 3:33pm
+2834,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1970,checked,,,3/30/2020 4:04pm,7/20/2020 9:18am
+2685,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1971,checked,,,3/30/2020 2:45pm,7/20/2020 9:18am
+2512,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1972,checked,,,3/23/2020 12:33pm,7/20/2020 9:18am
+2299,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1973,checked,,,3/19/2020 2:37pm,7/20/2020 9:18am
+2035,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1974,checked,,,3/17/2020 3:27pm,7/20/2020 9:18am
+1530,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1976,checked,,,3/10/2020 11:55am,7/20/2020 9:18am
+1182,Boatel Hotel Bar,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1977,checked,,,3/5/2020 11:08pm,7/20/2020 9:18am
+856,Boatel Hotel Bar ,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,"Bars/Clubs,Hotels",1978,checked,,,3/1/2020 4:23pm,7/20/2020 9:18am
+410,Boatel Motel & Bar,General Coordinates Used,(516) 597- 6500 The Pines,"40.665319,-73.069304",,Fire Island,NY,"(H),(*)","Bars/Clubs,Hotels",1980,checked,,,2/23/2020 5:51pm,2/23/2020 5:53pm
+421,Book Art 4,General Coordinates Used,(Books) E. Chippewa,"42.890043,-78.872649 ",,Buffalo,NY,,Book Store,1979,checked,,,2/29/2020 3:24pm,2/29/2020 3:33pm
+2652,Broad St. Bridge,Found,,"43.154014,-77.609346",,Rochester,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/30/2020 2:45pm,3/30/2020 2:53pm
+2466,Broad St. Bridge,Found,,"43.154014,-77.609346",,Rochester,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:51pm
+2246,Broad St. Bridge,Found,,"43.154014,-77.609346",,Rochester,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:11pm
+1970,Broad St. Bridge,Found,(HOT),"43.154014,-77.609346",,Rochester,NY,"Cruisy Area,(HOT)",Cruising Areas,1975,checked,,,3/17/2020 3:27pm,7/20/2020 9:08am
+1682,Broad St. Bridge,Found,(HOT),"43.154014,-77.609346",,Rochester,NY,"Cruisy Area,(HOT)",Cruising Areas,1976,checked,,,3/10/2020 11:55am,7/20/2020 9:08am
+1444,Broad St. Bridge,Found,,"43.154014,-77.609346",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1977,checked,,Cruisy areas noted (All are HOT and should be visited strictly AYOR),3/9/2020 7:57pm,7/20/2020 9:04am
+1082,Broad St. Bridge,Found,,"43.154014,-77.609346",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1978,checked,,At end of cruisy areas: (NOTE: All are (HOT) and should be visited stricly AYOR),3/5/2020 11:08pm,7/20/2020 9:05am
+747,Broad St. Bridge,Found,,"43.154014,-77.609346",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1979,checked,,All Rochester Cruisy areas noted all are HOT and should be cisited strictly AYOR),3/1/2020 4:22pm,7/20/2020 9:06am
+338,Broad St. Bridge,Found,,"43.154014,-77.609346",,Rochester,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/18/2020 11:39am,7/20/2020 9:07am
+2448,Brooklyn's 'Promenade',General Coordinates Used,just off Montrose Ave.,"40.707157,-73.945085",,Brooklyn,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:44pm
+2226,Brooklyn's 'Promenade',General Coordinates Used,just off Montrose Ave.,"40.707157,-73.945085",,Brooklyn,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/22/2020 8:47pm
+1943,Brooklyn's 'Promenade',General Coordinates Used,just off Montague,"40.695221,-73.995855",,Brooklyn,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:27pm
+1413,Brooklyn's 'Promenade',General Coordinates Used,just off Montague Ave.,"40.695221,-73.995855",,Brooklyn,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:24pm
+1053,Brooklyn's 'Promenade',General Coordinates Used,just off Montague Ave.,"40.695221,-73.995855",,Brooklyn,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/5/2020 11:42pm
+690,Brooklyn's 'Promenade',General Coordinates Used,just off Montague Ave.,"40.695221,-73.995855",,Brooklyn,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:37pm
+283,Brooklyn's 'Promenade',General Coordinates Used,just off Montague Ave.,"40.695221,-73.995855",,Brooklyn,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:52pm
+3120,Bulwinkle's,Found,800 blk Lake Av,"43.179662,-77.631301",,Rochester,NY,(M),Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:18pm
+3044,Bulwinkle's,Found,800 blk Lake Ave,"43.179662,-77.631301",,Rochester,NY,,Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:49pm
+2930,Bulwinkle's,Found,800 Blk Lake Ave.,"43.179662,-77.631301",,Rochester,NY,(M),Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:32pm
+2791,Bulwinkle's,Found,800 blk. Lake Ave.,"43.179662,-77.631301",,Rochester,NY,(M),Bars/Clubs,1971,checked,,,3/30/2020 4:04pm,3/30/2020 4:15pm
+2646,Bulwinkle's,Found,800 block Lake Ave.,"43.179662,-77.631301",,Rochester,NY,(M),Bars/Clubs,1972,checked,,,3/30/2020 2:45pm,3/30/2020 2:49pm
+2458,Bulwinkle's,Found,800 block Lake Ave.,"43.179662,-77.631301",,Rochester,NY,(M),Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:48pm
+2237,Bulwinkle's,Found,800 block Lake Ave,"43.179662,-77.631301",,Rochester,NY,(M),Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:07pm
+1724,Bus Depot,Found,,"42.645985,-73.751344 ",,Albany,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:36pm
+761,Buster Brown's,Found,Lodi St.," 43.059873,-76.146953",,Syracuse,NY,(M),Bars/Clubs,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:21pm
+356,Buster Brown's,Found,(looks promising) Lodi at Butternut Sts.," 43.059873,-76.146953",,Syracuse,NY,,Bars/Clubs,1980,checked,,,2/18/2020 11:39am,2/27/2020 11:59pm
+73,C.A. WIllard Straight Hall,Found,T-Room Cornell U.," 42.446592,-76.485676 ",,Ithaca,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/23/2020 6:09pm
+1418,Candlelight Inn,General Coordinates Used,(Disco) Rt. 9W (Upper Nyack)," 41.090652,-73.917915 ",,Nyack,NY,"(YC),(R),(D),(*)",Restaurant,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:29pm
+1059,Candlelight Inn,General Coordinates Used,(Disco) (Occ.S) Rte. 9W (Upper Nyack)," 41.090652,-73.917915 ",,Nyack,NY,"(YC),(D),(R),(*)","Bars/Clubs,Restaurant",1978,checked,,,3/5/2020 11:08pm,3/6/2020 12:00am
+721,Candlelight Inn,General Coordinates Used,"(Some OC) (Occ. S) Rte. 9W, .5 mi. N. of N.Y. State Thruway (Upper Nyack)"," 41.090652,-73.917915 ",,Nyack,NY,"(R),(D),(OC)",Hotels,1979,checked,,,2/29/2020 10:19pm,3/1/2020 4:03pm
+315,Candlelight Inn ,General Coordinates Used,"(Some OC) (Occ. S) Rte. 9W, .5 mi. N. of N.Y. State Thruway (Upper Nyack)"," 41.090652,-73.917915 ",,Nyack,NY,"(R),(D),(OC),(*),(AH)",Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/27/2020 11:29pm
+2694,Carnival,Found,(above Tool Box) West St. at Jane,"40.738154,-74.009578 ",,Greenwich Village,NY,"(P),(SM)",Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:24pm
+2976,Casa Laredo,Found,Hudson & Perry," 40.73513,-74.006087",,Greenwich Village,NY,(R),Restaurant,1969,checked,,,3/30/2020 4:57pm,3/30/2020 6:50pm
+2845,Casa Laredo,Found,Hudson & Perry," 40.73513,-74.006087",,Greenwich Village,NY,(R),Restaurant,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:48pm
+2696,Casa Laredo,Found,Hudson & Perry," 40.73513,-74.006087",,Greenwich Village,NY,(R),Restaurant,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:25pm
+2053,Cave,Found,Bank & Washington Sts.,"40.736197,-74.008326",,Greenwich Village,NY,(SM),Bars/Clubs,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:54pm
+1216,Cave,Found,"(""wild back room"") Bank & Washington","40.736197,-74.008326",,Greenwich Village,NY,,Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/9/2020 12:28am
+1725,Central Ave.,Found,,"42.690174,-73.801604",,Albany,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:36pm
+1489,Central Ave.,Found,,"42.690174,-73.801604",,Albany,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/9/2020 7:57pm,3/10/2020 12:16am
+799,Central Ave.,Found,,"42.690174,-73.801604",,Albany,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:16pm
+402,Central Ave.,Found,,"42.690174,-73.801604",,Albany,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/18/2020 11:39am,2/29/2020 3:22pm
+9,Central Ave.,Found,,"42.690174,-73.801604",,Albany,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 10:39am,2/18/2020 12:04pm
+1135,Central Avenue,Found,,"42.690174,-73.801604",,Albany,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:06pm
+1507,Central Hotel,General Coordinates Used,Smithtown Ave.,"40.768436,-73.108599",,Bohemia,NY,"(D),(*)","Hotels,Bars/Clubs",1976,checked,,Long Island,3/9/2020 7:57pm,3/10/2020 12:06pm
+1738,Central Hotel ,General Coordinates Used,Smithtown Ave.,"40.768436,-73.108599",,Bohemia,NY,"(YC),(D),(*)","Hotels,Bars/Clubs",1975,checked,,Long Island,3/10/2020 11:56am,3/16/2020 8:37pm
+2630,Central Park,Found,,"40.773823,-73.970818",,Manhattan,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:43pm
+2425,Central Park,Found,Bethesda Fountain and 'Rambles',"40.773823,-73.970818",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:34pm
+2200,Central Park,Found,Bethesda Fountain and the 'Rambles'- use caution,"40.773823,-73.970818",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 5:56pm
+675,Central Park,Found,Bethesda Fountain,"40.773823,-73.970818",,Uptown,NY,"(AYOR),Cruisy Area",Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:27pm
+1390,Central Park West,Found,betw. 72nd & 78th Sts.,"40.784612,-73.969822 ",,Uptown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:11pm
+1027,Central Park West,Found,betw. 72nd & 78th Sts.,"40.784612,-73.969822 ",,Uptown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:25pm
+267,Central Park West,Found,betw. 72nd & 78th Sts.,"40.784612,-73.969822 ",,Uptown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:41pm
+676,Central Park West ,Found,betw. 72nd & 78th Sts.,"40.784612,-73.969822 ",,Uptown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:27pm
+1389,Central Park- Bethesda Fountain,Found,(AYOR),"40.773823,-73.970818",,Uptown,NY,"Cruisy Area,(AYOR)",Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 11:11pm
+1026,Central Park- Bethesda Fountain,Found,,"40.773823,-73.970818",,Uptown,NY,"Cruisy Area,(AYOR)",Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:25pm
+266,Central Park- Bethesda Fountain,Found,,"40.773823,-73.970818",,Uptown,NY,"(AYOR),Cruisy Area",Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:39pm
+1921,Central Park- Bethesda Fountain & the 'Rambles',Found,use caution,"40.773823,-73.970818",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:14pm
+3013,Charade,Found,2nd Ave at 93rd St.,"40.78234,-73.948546 ",,Manhattan,NY,"(G),(D)",Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:31pm
+2892,Charade,Found,2nd Ave. at 93rd St.,"40.78234,-73.948546 ",,Manhattan,NY,"(G),(D)",Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:12pm
+2748,Charade,Found,2nd Ave. at 93rd St.,"40.78234,-73.948546 ",,Manhattan,NY,"(G),(D)",Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:54pm
+2128,Charade,Found,2nd Ave. & E. 93rd St.,"40.78234,-73.948546 ",,Manhattan,NY,(B),Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/19/2020 2:48pm
+2977,Checkerboard,Found,Christopher nr. Hudson,"40.733056,-74.006425 ",,Greenwich Village,NY,(*),Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,3/30/2020 6:50pm
+2846,Checkerboard,Found,Christopher nr. Hudson,"40.733056,-74.006425 ",,Greenwich Village,NY,"(D),(G),(*)",Bars/Clubs,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:49pm
+460,Cherry Grove Inn,General Coordinates Used,597-6162 Cherry Grove,"40.659792,-73.089962 ",,Fire Island,NY,(H),Hotels,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:02pm
+58,Cherry Grove Inn,General Coordinates Used,597-6162 Cherry Grove,"40.659792,-73.089962 ",,Fire Island,NY,(H),Hotels,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:55pm
+1841,Chirstopher St.,Found,,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:48pm
+2113,Christopher St.,Found,,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:37pm
+1620,Christopher St.,Found,,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:47pm
+943,Christopher St.,Found,,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 9:59pm
+570,Christopher St.,Found,especially at corner of West St.,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:31pm
+172,Christopher St.,Found,especially at corner of West St.,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:13am
+2576,Christopher Street,Found,,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:08am
+2365,Christopher Street,Found,,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/22/2020 9:55pm,3/23/2020 11:58am
+1508,Christopher Street,Found,,"40.732422,-74.010231",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 9:44pm,3/9/2020 9:44pm
+1998,Cinderella's Palace,General Coordinates Used,(Some G) (May be closing or moving) Main St. (Route 5),"43.102293,-75.218625",,Utica,NY,"(YC),(D),(G),(*)",Bars/Clubs,1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:21pm
+590,Circus Cinema ,Found,Broadway at 49th St.,"40.760802,-73.984521 ",,Midtown,NY,,Theatre,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:43pm
+2036,Club Atlantique,General Coordinates Used,Cherry Grove,"40.659792,-73.089962 ",,Fire Island,NY,(S),Bars/Clubs,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:40pm
+2893,Club Baths,Found,(inquire locally),"40.723285,-73.988418",,Manhattan,NY,,Baths,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:12pm
+2749,Club Baths,Found,1st Ave. at 1st St.,"40.723285,-73.988418",,Manhattan,NY,,Baths,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:54pm
+2894,Club Forty- Five,General Coordinates Used,E. 45th St. bet. 1st & 2nd Ave.,"40.75126,-73.96968 ",,Manhattan,NY,"(D),(*)",Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:13pm
+2750,Club Forty-Five,General Coordinates Used,E. 45th St.  bet. 1st & 2nd Aves.,"40.75126,-73.96968 ",,Manhattan,NY,"(D),(B)",Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:54pm
+3060,Club Ki-Yo,Found,E North at Michigan,"42.902019,-78.862233",,Buffalo,NY,"(D),(*)",Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/10/2020 6:26pm
+2949,Club Ki-Yo,Found,E Noth at Michigan ,"42.902019,-78.862233",,Buffalo,NY,"(D),(YC),(*)",Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,3/30/2020 5:45pm
+2819,Club Ki-Yo,Found,E. North at Michigan,"42.902019,-78.862233",,Buffalo,NY,"(D),(YC),(*)",Bars/Clubs,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:32pm
+774,Club Swamp,General Coordinates Used,(Disco) Montauk Hwy.,"40.963434,-72.184801 ",,East Hampton,NY,(D),Bars/Clubs,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:31pm
+374,Club Swamp,General Coordinates Used,(Disco) (Open all year) Montauk Hwy.," 40.956391,-72.192435",,East Hampton,NY,(D),Bars/Clubs,1980,checked,,Hamptons long island,2/18/2020 11:39am,2/28/2020 12:12am
+2308,Club Zero,Found,Eliot at Metropolitan,"40.712854,-73.904878",,Maspeth,NY,,Bars/Clubs,1973,checked,,Long Island,3/19/2020 2:37pm,3/22/2020 9:42pm
+1154,Cobble Spring Farm,General Coordinates Used,(Country store& organic food farm- friendly place for local info.) Upper Franklin Falls Rd.," 44.407828,-74.087096",,Bloomingdale,NY,,Business,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:23pm
+816,Cobble Spring Farm,General Coordinates Used,(Country store & organic food farm- friendly place for local info) Upper Franklin Falls Rd.," 44.407828,-74.087096",,Bloomingdale,NY,,Business,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:26pm
+1423,Colonial Inn,General Coordinates Used,(Resort- swim pool) Route 28- (914) 254-9897,"42.133145,-74.480152 ",,Pine HIll,NY,(H),Hotels,1977,checked,,Ulster County,3/9/2020 7:57pm,3/9/2020 11:32pm
+1155,Colonial Inn Bar 7 (R),General Coordinates Used,Rt. 27-A,"40.743987,-73.034554 ",,Blue Point,NY,(R),"Restaurant,Bars/Clubs",1977,checked,,Long Island,3/5/2020 11:08pm,3/8/2020 11:27pm
+1391,Columbus & 75th Sts.,Found,,"40.779376,-73.977385 ",,Uptown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:11pm
+1028,Columbus & 75th Sts.,Found,,"40.779376,-73.977385 ",,Uptown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:26pm
+1700,Columbus Circle,Found,,,,Syracuse,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/15/2020 3:29pm
+1464,Columbus Circle,Found,'Fuzz' posing as hustlers,"43.046838,-76.149117",,Syracuse,NY,"Cruisy Area,(AYOR)",Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:54pm
+1102,Columbus Circle,Found,'Fuzz' posing as hustlers,"43.046838,-76.149117",,Syracuse,NY,"(AYOR),Cruisy Area",Cruising Areas,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:27pm
+771,Columbus Circle,Found,'Fuzz' posing as 'Hustlers',"43.046838,-76.149117",,Syracuse,NY,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:28pm
+371,Columbus Circle,Found,'Fuzz' posing as hustlers,"43.046838,-76.149117",,Syracuse,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/18/2020 11:39am,2/28/2020 12:09am
+2131,Combination,Found,(Disco) Broadway at 95th,"40.793937,-73.972154",,Manhattan,NY,(D),Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/19/2020 2:51pm
+2229,Comeback,General Coordinates Used,"('Your Bar') Route 9W, 2 mi. south of Nyack","41.042041,-73.918192",,Piermont,NY,"(YC),(D),(*)",Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:02pm
+1948,Comeback,General Coordinates Used,"('Your Bar') Route 9W, 2 mi. So. of Nyack","41.042041,-73.918192",,Piermont,NY,"(YC),(D),(*)",Bars/Clubs,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:31pm
+1660,Comeback,General Coordinates Used,"('Your Bar') Rt. 9W, 2 mi. S. of Nyack","41.042041,-73.918192",,Piermont,NY,"(YC),(D),(*)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/14/2020 9:26pm
+1419,Comeback,General Coordinates Used,"Rt. 9W, 2mi. S. of Nyack","41.042041,-73.918192",,Piermont,NY,"(YC),(D),(*)",Bars/Clubs,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:29pm
+1060,Comeback,General Coordinates Used,"Rte. 9W, 2 mi. So. of Nyack","41.042041,-73.918192",,Piermont,NY,"(D),(*)",Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 12:00am
+722,Comeback,General Coordinates Used,"(Disco) (WE*) Rte. 9W, 4 mi. S. of Nyack nr. jct. Orangeburg Rd."," 41.090652,-73.917915 ",,Nyack,NY,"(YC),(D),(WE),(*)",Bars/Clubs,1979,checked,,,2/29/2020 10:19pm,3/1/2020 4:04pm
+874,Continental on the Mountain,General Coordinates Used,(Resort) (Disco) (Some S) N.Y. thruway exit 16 Call 783-7752,"41.330649,-74.186813",,Monroe,NY,"(H),(D),(R),(S)","Hotels,Restaurant",1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:32pm
+488,Continental on the Mountain,General Coordinates Used,"(Resort) (Disco) (Some G) N.Y. Thruway, exit 16","41.330649,-74.186813",,Monroe,NY,"(WE),(H),(D),(G),(R)",Hotels,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:26pm
+84,Continental on the Mountain,General Coordinates Used,"(Resort) (Some L) N.Y. Thruway, exit 16","41.330649,-74.186813",,Monroe,NY,"(D),(WE),(H),(L),(R)","Hotels,Restaurant",1980,checked,,,2/18/2020 11:38am,2/23/2020 8:02pm
+2801,Copper Kettle,Found,Hotel Hilton Montgomery & Harrison,"43.044311,-76.148838",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1971,checked,,,3/30/2020 4:04pm,7/20/2020 9:15am
+2477,Copper Kettle,Found,(Hilton Hotel) Montegomery & Harrison,"43.044311,-76.148838",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1973,checked,,,3/23/2020 12:33pm,7/20/2020 9:14am
+2260,Copper Kettle,Found,Hilton Hotel Montgomery & Harrison,"43.044311,-76.148838",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1974,checked,,,3/19/2020 2:37pm,7/20/2020 9:14am
+1982,Copper Kettle,Found,Milton Hotel Montgomery & Harrison,"43.044311,-76.148838",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:03pm
+2659,Copper Kettle ,Found,Hilton Hotel Montgomery & Harrison,"43.044311,-76.148838",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1972,checked,,,3/30/2020 2:45pm,7/20/2020 9:15am
+2303,Coral,General Coordinates Used,"Holbrook Rd., S. of L. I. Expressway, exit 61","40.812321,-73.078443",,Holbrook,NY,"(YC),(D),(*)",Bars/Clubs,1973,checked,,Long Island,3/19/2020 2:37pm,3/22/2020 9:39pm
+3160,Coral Lounge,Found,52nd St & 8th Av,"40.763545,-73.985192 ",,Manhattan,NY,,Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:43pm
+2042,Corral,General Coordinates Used,"Holbrook (Patchoque) Rd., S. of L.I. Expressway, Exit G1","40.812321,-73.078443",,Holbrook,NY,"(YC),(D),(*)",Bars/Clubs,1974,checked,,Long Island,3/17/2020 3:27pm,3/17/2020 7:42pm
+1971,Court & South Sts.,Found,,"43.153594,-77.60783 ",,Rochester,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:53pm
+1683,Court & South Sts.,Found,(HOT),"43.153594,-77.60783 ",,Rochester,NY,"Cruisy Area,(HOT)",Cruising Areas,1976,checked,,,3/10/2020 11:55am,7/20/2020 9:08am
+1445,Court & South Sts.,Found,,"43.153594,-77.60783 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1977,checked,,,3/9/2020 7:57pm,7/20/2020 9:04am
+1083,Court & South Sts.,Found,,"43.153594,-77.60783 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1978,checked,,,3/5/2020 11:08pm,7/20/2020 9:05am
+417,Courtyard & Bar,Found,at Ramada Inn,"42.097146,-75.915105 ",,Binghamton,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 3:31pm
+18,Courtyard & Bar,Found,at Ramada Inn,"42.097146,-75.915105 ",,Binghamton,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/21/2020 11:37am
+1152,Courtyard & bar at Ramada Inn,Found,,"42.097146,-75.915105 ",,Binghamton,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:21pm
+814,Courtyard & bar at Ramada Inn,Found,,"42.097146,-75.915105 ",,Binghamton,NY,Cruisy Area,"Bars/Clubs,Cruising Areas",1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:24pm
+775,Cozy Cabins,General Coordinates Used,"(Some G) Box 429, E. Hampton"," 40.956391,-72.192435",,East Hampton,NY,"(H),(G)",Hotels,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:32pm
+106,Crisco Disco,Found,(Disco) 15th & 9th Ave.,"40.741622,-74.00486",,Greenwich Village,NY,"(P),(YC),(D)",Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/24/2020 11:10pm
+59,Cultured  Elephant ,General Coordinates Used,(Snacks) The Pines,"40.665319,-73.069304",,Fire Island,NY,(R),Restaurant,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:56pm
+461,Cultured Elephant,General Coordinates Used,(Snacks) The Pines,"40.665319,-73.069304",,Fire Island,NY,(R),Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:02pm
+1426,Cumberland Hotel,Found,Margaret & Court Sts.," 44.69846,-73.452977",,Plattsburg,NY,"(M),(H)",Hotels,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:34pm
+729,Cumberland Hotel,Found,Margaret & Court St.," 44.69846,-73.452977",,Plattsburg,NY,"(H),(M)",Hotels,1979,checked,,,2/29/2020 10:19pm,3/1/2020 4:12pm
+319,Cumberland Hotel,Found,Margaret & Court St.," 44.69846,-73.452977",,Plattsburg,NY,"(M),(H)",Hotels,1980,checked,,,2/18/2020 11:39am,2/27/2020 11:31pm
+1066,Cumberland Hotel ,Found,Margaret & Court Sts.," 44.69846,-73.452977",,Plattsburg,NY,"(M),(H)",Hotels,1978,checked,,,3/5/2020 11:08pm,3/6/2020 12:16am
+2322,Danny's of Sheridan Square,General Coordinates Used,(see 'New Danny's'),"40.7332,-74.002285 ",,Greenwich Village,NY,(*),Bars/Clubs,1973,checked,,,3/19/2020 2:37pm,3/22/2020 9:50pm
+444,Deco,Found,(T-Room) Main & Swan,"42.88186,-78.875537",,Buffalo,NY,"(M),(RT),(AH),(R),Cruisy Area","Cruising Areas,Restaurant",1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:54pm
+42,Deco,Found,(T-Room) Main & Swan,"42.88186,-78.875537",,Buffalo,NY,"Cruisy Area,(M),(RT),(R),(AH)","Cruising Areas,Restaurant",1980,checked,,,2/18/2020 11:37am,2/22/2020 11:02am
+2898,Dee's,Found,E. 70th at 2nd Ave.,"40.767515,-73.959356",,Manhattan,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:16pm
+489,Deja Vu,General Coordinates Used,(Disco) (WE*) 5 mi. N.E. of town on 9W,"41.747593,-74.086809 ",,New Paltz,NY,"(M),(YC),(D),(PT),(WE),(*)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:33pm
+1070,Dejavu,General Coordinates Used,(Disco) (WE*) Across Hudson River then 5 mi. So. on 9W in West Park,"41.700371,-73.92097",,Poughkeepsie,NY,"(YC),(D),(PT),(WE),(*)",Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:03pm
+1494,Denny's,General Coordinates Used,Niagra Falls Blvd.,"42.979007,-78.792272 ",,Amherst,NY,"(M),(R),(C),(AH)",Restaurant,1976,checked,,,3/9/2020 7:57pm,3/10/2020 12:19am
+71,Depot,General Coordinates Used,(Best late) Judo Falls Rd.,"42.443961,-76.501881",,Ithaca,NY,(M),Bars/Clubs,1980,checked,,,2/18/2020 11:37am,5/7/2020 8:08am
+3186,Dick's Forty-Three,General Coordinates Used,(back room) on Wilder St.," 43.156313,-77.637624 ",,Rochester,NY,"(D),(*)",Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:58pm
+2459,Dick's Lounge,General Coordinates Used,100 block State St.,"43.157459,-77.613247 ",,Rochester,NY,(*),Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:48pm
+2239,Dick's Lounge,General Coordinates Used,100 block State St.,"43.157459,-77.613247 ",,Rochester,NY,,Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:09pm
+719,Dissatisfied bridegrooms...,Found,,"43.096214,-79.037739",,Niagara Falls,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 4:01pm
+314,Dissatisfied bridgerooms...,Found,,"43.096214,-79.037739",,Niagara Falls,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/27/2020 12:22am
+2247,Durand- Eastman Park,Found,,"43.239327,-77.569 ",,Rochester,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:11pm
+1684,Durand- Eastman Park,Found,(HOT),"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT)",Cruising Areas,1976,checked,,,3/10/2020 11:55am,7/20/2020 9:08am
+1446,Durand- Eastman Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1977,checked,,,3/9/2020 7:57pm,7/20/2020 9:04am
+1084,Durand- Eastman Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1978,checked,,,3/5/2020 11:08pm,7/20/2020 9:05am
+1972,Durand-Eastman Park,Found,,"43.239327,-77.569 ",,Rochester,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:54pm
+748,Durand-Eastman Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1979,checked,,,3/1/2020 4:22pm,7/20/2020 9:06am
+339,Durand-Eastman Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/18/2020 11:39am,7/20/2020 9:07am
+2533,Eagle's Nest,Found,21st St. at 10th Ave.,"40.746405,-74.005125",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/24/2020 4:52pm
+2325,Eagle's Nest,Found,21st St. & 11th Ave.,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1973,checked,,,3/19/2020 2:37pm,3/22/2020 9:51pm
+2062,Eagle's Nest,Found,21st St. & 11th Ave.,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1974,checked,,,3/17/2020 3:28pm,3/17/2020 7:58pm
+1794,Eagle's Nest,Found,21st St. & 11th Ave.,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1975,checked,,,3/16/2020 8:38pm,3/16/2020 9:11pm
+1567,Eagle's Nest,Found,21st St. at 11th Ave.,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:50pm
+1229,Eagle's Nest,Found,(Sunday brunch and (D) 6 to 11) 21st Street at 11th Avenue,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(*),(D)","Bars/Clubs,Restaurant",1977,checked,,,3/9/2020 7:56pm,3/9/2020 8:10pm
+893,Eagle's Nest,Found,(Sunday brunch & (D)- 6-11 p.m.) 21st St. at 11th Ave.,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(D),(*)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:52pm
+113,Eagle's Nest,Found,(Some OC) 12th St & 11th Ave.,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(OC)",Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/24/2020 11:18pm
+2701,Eagle's Nest ,Found,21st St. at 10th Ave.,"40.746405,-74.005125",,Greenwich Village,NY,(SM),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:27pm
+514,Eagle's Nest ,Found,(Some OC) (WE*) 21st St. at 11th Ave.,"40.747343,-74.007595",,Greenwich Village,NY,"(SM),(OC),(WE),(*)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:51pm
+3215,East Nineteenth,General Coordinates Used,19th nr 5th Av,"40.739091,-73.991384",,Manhattan,NY,(*),Bars/Clubs,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:18pm
+2230,Element,General Coordinates Used,"Route 9W, betw. Mr. G's and Fran Bell's"," 41.090652,-73.917915 ",,Nyack,NY,"(G),(D)",Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:03pm
+1949,Element,General Coordinates Used,"Route 9W, betw, Mr. G's & Fran Bell's"," 41.090652,-73.917915 ",,Nyack,NY,"(G),(D)",Bars/Clubs,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:32pm
+1661,Element,General Coordinates Used,Rt. 9W," 41.090652,-73.917915 ",,Nyack,NY,"(G),(D)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/14/2020 9:28pm
+2449,Embers,General Coordinates Used,(Mr. G's) Route 9 W," 41.090652,-73.917915 ",,Nyack,NY,"(R),(D)",Restaurant,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:45pm
+1105,Eye of the Apple,General Coordinates Used,(Disco) Montauk Hwy," 40.956391,-72.192435",,East Hampton,NY,"(D),(*)",Bars/Clubs,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:29pm
+516,Farm House ,Found,(Southern R) 2nd Ave. at 11th St.,"40.730379,-73.986366",,Greenwich Village,NY,"(R),(M)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:53pm
+1106,Fem-Unique,General Coordinates Used,Sag Harbor Tpke.,"40.937878,-72.300916",,Bridgehampton,NY,"(G),(D),(*)",Bars/Clubs,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:30pm
+2927,Fife & Drum,Found,inquire loacally," 44.696507,-73.454069",,Plattsburg,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:31pm
+2788,Fife & Drum,Found,Inquire Locally," 44.696507,-73.454069",,Plattsburg,NY,,Bars/Clubs,1971,checked,,,3/30/2020 4:04pm,3/30/2020 4:14pm
+2642,Fife & Drum,Found,Inquire locally," 44.696507,-73.454069",,Plattsburg,NY,,Bars/Clubs,1972,checked,,,3/30/2020 2:45pm,3/30/2020 2:48pm
+2454,Fife & Drum,Found,Inquire locally," 44.696507,-73.454069",,Plattsburg,NY,,Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:46pm
+2386,Fifty First St. Playhouse,Found,(theatre) Between 6th & 7th on 51st St.,"40.763743,-73.980443",,Manhattan,NY,,Theatre,1973,checked,,,3/22/2020 9:55pm,3/23/2020 12:17pm
+2638,Fisherman,General Coordinates Used,Montaque off Hicks,"40.695221,-73.995855",,Brooklyn,NY,(*),Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:47pm
+2937,Flagler Hotel,General Coordinates Used,weekend resort in the Catskills,"41.720647,-74.634327",,South Fallsburg,NY,(H),Hotels,1970,checked,,,3/30/2020 4:57pm,3/30/2020 5:36pm
+1146,Flying Machiene,Found,(Park Manor Plaza) Hopper Road (Endicott-Endwell),"42.129368,-76.028196",,Binghamton,NY,"(M),(YC),(*)",Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:18pm
+1501,Flying Machine,Found,(Park Manor Plaza) Hooper Rd. (Endicott- Endwell),"42.129368,-76.028196",,Binghamton,NY,"(M),(YC),(*)",Bars/Clubs,1976,checked,,,3/9/2020 7:57pm,3/10/2020 12:00pm
+810,Flying Machine ,Found,(Very M) Park Manor Plaza Hooper Rd. (Endicott-Endwell),"42.129368,-76.028196",,Binghamton,NY,"(M),(YC)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:22pm
+390,Folderol,General Coordinates Used,(Some L) Rte. 284,"41.336761,-74.539882 ",,Westtown,NY,"(M),(R),(E),(L)",Restaurant,1980,checked,,,2/18/2020 11:39am,2/29/2020 3:09pm
+2139,Forest,Found,(Disco) 3rd Ave. & 81st St.,"40.775601,-73.956337",,Manhattan,NY,"(D),(R)",Restaurant,1974,checked,,,3/19/2020 2:37pm,3/19/2020 4:41pm
+300,Forest Park,Found,," 40.710209,-73.837685 ",,Kew Gardens,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/27/2020 12:07am
+2935,Foster House,Found,Middle Rd. & Foster,"40.735949,-73.078679 ",,Sayville,NY,,Bars/Clubs,1970,checked,checked,Long Island,3/30/2020 4:57pm,3/30/2020 5:34pm
+2797,Foster House,Found,Middle Rd. & Foster,"40.735949,-73.078679 ",,Sayville,NY,(M),Bars/Clubs,1971,checked,checked,Long Island,3/30/2020 4:04pm,3/30/2020 4:19pm
+2654,Foster House,Found,Middle Rd. & Foster,"40.735949,-73.078679 ",,Sayville,NY,(M),Bars/Clubs,1972,checked,checked,Long Island,3/30/2020 2:45pm,3/30/2020 2:55pm
+2469,Foster House,Found,Middle Rd. & Foster,"40.735949,-73.078679 ",,Sayville,NY,(M),Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:52pm
+379,Fowler Beach,Found,(Go right),"40.883148,-72.352687",,South Hampton,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:39am,2/29/2020 12:20am
+2450,Fran Bell's,General Coordinates Used,Route 9 W," 41.090652,-73.917915 ",,Nyack,NY,"(R),(*)",Restaurant,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:45pm
+1662,Fran Bell's,General Coordinates Used,Rt. 9W,"41.150651,-73.945416",,Congers,NY,"(R),(D),(*)",Restaurant,1976,checked,,,3/10/2020 11:55am,3/14/2020 9:29pm
+1197,Frederick's,General Coordinates Used,Holiday Harbor Complex,": 44.289952,-73.979294",,Lake Placid,NY,"(M),(R)",Restaurant,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:50pm
+870,Frederick's,General Coordinates Used,Holiday Harbor Complex,": 44.289952,-73.979294",,Lake Placid,NY,"(M),(R)",Restaurant,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:15pm
+482,Frederick's,General Coordinates Used,Holiday Harbor Complex,": 44.289952,-73.979294",,Lake Placid,NY,"(M),(R)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:17pm
+521,Gables,Found,W. 10th at 7th Ave.,"40.734341,-74.002397",,Greenwich Village,NY,,Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 8:48pm
+118,Gables,Found,(Many B) (Disco) W. 10th at 7th Ave.,"40.734341,-74.002397",,Greenwich Village,NY,"(B),(D)",Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/24/2020 11:24pm
+1147,Galley,Found,"(""Jocks"") (Endicott-Endwell)","42.114518,-76.017785",409 Hooper Road,Binghamton,NY,(M),Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:19pm
+375,Garden of Innocense,General Coordinates Used,(Disco) Montauk Hwy.," 40.956391,-72.192435",,East Hampton,NY,(D),Bars/Clubs,1980,checked,,,2/18/2020 11:39am,2/28/2020 12:13am
+1572,Gay Switchboard,General Coordinates Used,"Tel."" 924-4036","40.733572,-74.002742",,Greenwich Village,NY,,Organizations,1976,checked,checked,,3/10/2020 11:55am,3/10/2020 12:54pm
+1447,Genesee Valley Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1977,checked,,,3/9/2020 7:57pm,7/20/2020 9:04am
+340,Genesee Valley Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/18/2020 11:39am,7/20/2020 9:07am
+2248,Genesse Valley Park,Found,,"43.239327,-77.569 ",,Rochester,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:12pm
+1085,Genessee Valley Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1978,checked,,,3/5/2020 11:08pm,7/20/2020 9:05am
+749,Genessee Valley Park,Found,,"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1979,checked,,,3/1/2020 4:22pm,7/20/2020 9:06am
+1973,Gennessee Valley Park,Found,,"43.239327,-77.569 ",,Rochester,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:54pm
+1685,Gennessee Valley Park,Found,(HOT),"43.239327,-77.569 ",,Rochester,NY,"Cruisy Area,(HOT)",Cruising Areas,1976,checked,,,3/10/2020 11:55am,7/20/2020 9:08am
+2709,GIanni's,Found,"19th St., bet. 5th & 6th Aves.","40.739764,-73.993243",,Greenwich Village,NY,(G),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:30pm
+2541,Gianni's,Found,19th St. bet. 5th & 6th Aves.,"40.739764,-73.993243",,Greenwich Village,NY,"(G),(*)",Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/24/2020 4:58pm
+2595,Gold Rail,Found,,"40.804476,-73.966091",2850 Braodway,Manhattan,NY,"(M),(YC)",Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:14pm
+2711,Goldfarb's,Found,(Tangerine Goldfarb) 7th Ave. at Bleecker,"40.732194,-74.003402 ",,Greenwich Village,NY,,Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:31pm
+2543,Goldfarb's,Found,7th Ave. at Bleecker,"40.732194,-74.003402 ",,Greenwich Village,NY,,Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/24/2020 4:59pm
+2757,Good Table,Found,Lexington at 28th St.,"40.742641,-73.982462",,Manhattan,NY,(R),Restaurant,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:56pm
+2594,Good Table,Found,Lexington Ave. at 28th St.,"40.742641,-73.982462",,Manhattan,NY,(R),Restaurant,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:14pm
+3167,Gotham Hotel Bar,Found,5th Av & 55th St,"40.761667,-73.974914",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1966,checked,,,4/13/2020 2:33pm,7/20/2020 9:18am
+3095,Gotham Hotel Bar,Found,5th Av at 55th St.,"40.761667,-73.974914",,New York City,NY,"(M),(PE)","Bars/Clubs,Hotels",1968,checked,,,4/10/2020 6:01pm,4/13/2020 1:51pm
+3018,Gotham Hotel Bar,Found,5th Ave at 55th St.,"40.761667,-73.974914",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:33pm
+3226,Gotham Hotel Men's Bar,Found,55th St & 5th Av,"40.761667,-73.974914",,Manhattan,NY,(PE),"Bars/Clubs,Hotels",1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:22pm
+2215,Gracie's Mansion,Found,Henry & Clark Sts.,"40.776144,-73.943113",,Brooklyn Heights,NY,,Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 8:39pm
+1935,Gracie's Mansion,Found,Henry & Clark,"40.776144,-73.943113",,Brooklyn Heights,NY,,Bars/Clubs,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:20pm
+2629,Grand Central Station,Found,,"40.755846,-73.974523",,Manhattan,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:43pm
+2426,Grand Central Station,Found,,"40.755846,-73.974523",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:34pm
+2201,Grand Central Station,Found,,"40.755846,-73.974523",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 5:56pm
+1922,Grand Central Station,Found,,"40.755846,-73.974523",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:14pm
+1352,Grand Central Station,Found,,"40.752726,-73.977229",,Midtown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:27pm
+996,Grand Central Station,Found,,"40.752726,-73.977229",,Midtown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:36pm
+359,Granger House,Found,Washington & Genesee,"43.049573,-76.149753",,Syracuse,NY,"(M),(R)",Restaurant,1980,checked,,,2/18/2020 11:39am,2/28/2020 12:01am
+345,Great American Garage Sale,General Coordinates Used,(Disco) (Some L) Depot St. behind Old R.R. Station,"44.330205,-74.133069",,Saranac Lake,NY,"(M),(YC),(D),(*),(L)",Bars/Clubs,1980,checked,,,2/18/2020 11:39am,2/27/2020 11:49pm
+2577,Greenwich Ave.,Found,between 6th & 7th Avenues,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:08am
+2366,Greenwich Ave.,Found,bet. 6th & 7th Aves.,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/22/2020 9:55pm,3/23/2020 11:59am
+2114,Greenwich Ave.,Found,betw. 6th & 7th Aves.,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:37pm
+1842,Greenwich Ave.,Found,betw. 6th & 7th Aves.,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:50pm
+1621,Greenwich Ave.,Found,betw. 6th & 7th Aves.,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:47pm
+571,Greenwich Ave.,Found,betw. 6th & 7th Sts.,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:25pm,7/20/2020 9:25am
+173,Greenwich Ave.,Found,betw. 6th & 7th Sts.,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:14am
+1289,Greenwich Avenue,Found,between 6th and 7th,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:45pm
+944,Greewich Ave. ,Found,betw. 6th & 7th,"40.734562,-73.999782 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 9:59pm
+19,Greyhound & R.R. Deopts,Found,,"42.101145,-75.910207",,Binghamton,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/21/2020 11:38am
+418,Greyhound & R.R. Depots,Found,,"42.101145,-75.910207",,Binghamton,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 3:32pm
+2667,Guardsmen,General Coordinates Used,on Central Ave.,"42.690174,-73.801604",,Albany,NY,(M),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:04pm
+2712,Hades,Found,"(around corner, behind the Tool Box) West St. at Jane","40.738154,-74.009578",,Greenwich Village,NY,(P),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:32pm
+2235,Hamilton Diner,Found,(after hours) Main & Hamilton,"41.702094,-73.923493",,Poughkeepsie,NY,"(M),(R),(C)",Restaurant,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:06pm
+1956,Hamilton Diner,Found,Main & Hamilton,"41.702094,-73.923493",,Poughkeepsie,NY,"(M),(R),(C),(AH)",Restaurant,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:35pm
+1667,Hamilton Diner,Found,Main & Hamilton ,"41.702094,-73.923493",,Poughkeepsie,NY,"(M),(R),(C),(AH)",Restaurant,1976,checked,,,3/10/2020 11:55am,3/14/2020 9:48pm
+1430,Hamilton Diner,Found,Main & Hamilton,"41.702094,-73.923493",,Poughkeepsie,NY,"(M),(R),(C),(AH)",Restaurant,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:36pm
+1071,Hamilton Diner,Found,Main & Hamilton,"41.702094,-73.923493",,Poughkeepsie,NY,"(M),(R),(C),(AH)",Restaurant,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:05pm
+732,Hamilton Diner,Found,Main & Hamilton,"41.702094,-73.923493",,Poughkeepsie,NY,"(M),(R),(C),(AH)",Restaurant,1979,checked,,,2/29/2020 10:19pm,3/1/2020 4:14pm
+1107,Hampton Attic,General Coordinates Used,Montauk Hwy.," 40.956391,-72.192435",,East Hampton,NY,,Bars/Clubs,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:30pm
+376,Hampton Attic,General Coordinates Used,(Disco) (Open all year) Montauk Hwy.," 40.956391,-72.192435",,East Hampton,NY,(D),Bars/Clubs,1980,checked,,,2/18/2020 11:39am,2/28/2020 12:13am
+776,Hampton Attic ,General Coordinates Used,Montauk Hwy.," 40.956391,-72.192435",,East Hampton,NY,,Bars/Clubs,1979,checked,checked,,3/1/2020 4:22pm,7/20/2020 9:23am
+3096,Harry's Bar,Found,3rd Av at 82nd St.,"40.77624,-73.955873",,New York City,NY,,Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 1:52pm
+2544,Haven,Found,(after hours- no booze- had trouble) W. 4th St. at Sheridan Sq.,"40.733302,-74.002507",,Greenwich Village,NY,(YC),Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/24/2020 4:59pm
+1316,Hay Loft,Found,8th Avenue at 46th Street,"40.759657,-73.987889",,Midtown,NY,(RT),Bars/Clubs,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:04pm
+1403,Hideaway,Found,Hillside Ave. & Parsons,"40.707754,-73.802799 ",,Queens,NY,,Bars/Clubs,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:17pm
+700,Hideaway,Found,(Disco) (Some B) Hillside Ave. at Parsons,"40.707576,-73.802425",,Jamaica,NY,"(D),(B)",Bars/Clubs,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:46pm
+1043,Hideaway Hillsdale Ave. & Parsons,Found,,"40.707754,-73.802799 ",,Queens,NY,,Bars/Clubs,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:38pm
+2713,Hippadrome,Found,Ave. 'A' bet. 10th & 11th Sts.," 40.727852,-73.982235",,Greenwich Village,NY,,Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:32pm
+1954,Holiday Inn Bar,General Coordinates Used,Jct. I-87 & N.Y. 3,"44.699487,-73.452912",,Plattsburg,NY,(M),Bars/Clubs,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:35pm
+1665,Holiday Inn Bar,General Coordinates Used,Jct. 1-87 & N.Y. 3,"44.699487,-73.452912",,Plattsburg,NY,(M),Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/14/2020 9:46pm
+462,Holly House,General Coordinates Used,(Rentals) 597-6911 Cherry Grove,"40.659792,-73.089962 ",,Fire Island,NY,,Hotels,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:03pm
+2037,Ice Palace,Found,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:40pm
+1531,Ice Palace,Found,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(S),Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:19pm
+1183,Ice Palace,Found,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(S),Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:43pm
+857,Ice Palace,Found,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(S),Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:02pm
+463,Ice Palace,Found,(Disco) (Some G) Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(D),(S),(G),(*)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:04pm
+60,Ice Palace,Found,"(Disco) (Some L, M) (WE*) Cherry Grove","40.659053,-73.089293",,Fire Island,NY,"(D),(S),(L),(M),(WE),(*)",Bars/Clubs,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:57pm
+1577,International,Found,(the old 'Stud' is alive & well again) Perry & Greenwich,"40.735027,-74.006984",,Greenwich Village,NY,(*),Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:56pm
+1240,International,Found,"(""back room"") Perry & Greenwich","40.735027,-74.006984",,Greenwich Village,NY,"(D),(*)",Bars/Clubs,1977,checked,,,3/9/2020 7:56pm,3/9/2020 8:31pm
+900,International,Found,(Back room) Perry & Greenwich,"40.735027,-74.006984",,Greenwich Village,NY,"(D),(*)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 9:00pm
+278,Iron Horse Pub,Found,7th Ave. & 2nd St.,"40.671142,-73.978079 ",,Brooklyn,NY,(E),Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:48pm
+1532,Island Queen,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:19pm
+858,Island Queen,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(R),(OC)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:02pm
+61,Island Queen,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(R),(OC)",Restaurant,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:57pm
+464,Island Queen ,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(R),(OC),(*)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:04pm
+1578,It's the Pits,Found,($5.00 min.- 'wild back room') 14th St. nr. 9th Ave.,"40.740849,-74.005135",,Greenwich Village,NY,,Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:57pm
+1644,Jack of Diamonds,Found,57th St. at 2nd Ave.,"40.759312,-73.96531",,Midtown,NY,"(R),(D)",Restaurant,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:59pm
+1771,Jacqueline's,Found,(some G) opp. Little Theatre," 42.095811,-79.240278 ",,Jamestown,NY,"(M),(YC),(D),(G)",Bars/Clubs,1975,checked,,,3/16/2020 8:38pm,3/16/2020 8:43pm
+1542,Jacqueline's,Found,(some G) opp. Little Theatre," 42.095811,-79.240278 ",,Jamestown,NY,"(M),(YC),(G),(D)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:24pm
+1194,Jacqueline's,Found,(Some G) opposite Little Theatre," 42.095811,-79.240278 ",,Jamestown,NY,"(M),(YC),(G),(D)",Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:48pm
+867,Jacqueline's,Found,(Some G) (Opposite Little Theatre)," 42.095811,-79.240278 ",,Jamestown,NY,"(M),(YC),(G),(D)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:12pm
+478,Jaqueline's,Found,(Some G) opp. Little Theatre," 42.095811,-79.240278 ",,Jamestown,NY,"(M),(YC),(G),(D)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:14pm
+2149,Jay's,Found,125th St. & 8th Ave.,"40.810186,-73.951155 ",,Manhattan,NY,,Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/19/2020 4:52pm
+1695,Jefferson-Cinton Hotel Bar,Found,Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,(OC),"Bars/Clubs,Hotels",1976,checked,,,3/10/2020 11:55am,7/20/2020 9:18am
+3127,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton Sts,"43.047289,-76.15385 ",,Syracuse,NY,,"Bars/Clubs,Hotels",1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:23pm
+3052,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton Sts,"43.047289,-76.15385 ",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1969,checked,,,4/10/2020 6:01pm,4/10/2020 6:01pm
+2940,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton Sts.,"43.047289,-76.15385 ",,Syracuse,NY,,"Bars/Clubs,Hotels",1970,checked,,,3/30/2020 4:57pm,7/20/2020 9:19am
+2803,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton Sts.,"43.047289,-76.15385 ",,Syracuse,NY,,"Bars/Clubs,Hotels",1971,checked,,,3/30/2020 4:04pm,7/20/2020 9:19am
+2661,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton Sts.,"43.047289,-76.15385 ",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1972,checked,,,3/30/2020 2:45pm,7/20/2020 9:19am
+2479,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1973,checked,,,3/23/2020 12:33pm,7/20/2020 9:19am
+2262,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1974,checked,,,3/19/2020 2:37pm,7/20/2020 9:19am
+1985,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,(M),"Bars/Clubs,Hotels",1975,checked,,,3/17/2020 3:27pm,7/20/2020 9:19am
+1457,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,"(M),(OC)","Bars/Clubs,Hotels",1977,checked,,,3/9/2020 7:57pm,7/20/2020 9:19am
+1098,Jefferson-Clinton Hotel Bar,Found,Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,"(M),(OC)","Bars/Clubs,Hotels",1978,checked,,,3/5/2020 11:08pm,7/20/2020 9:18am
+766,Jefferson-Clinton Hotel Bar,Found,(Downstairs T-Room is HOT-AYOR) Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,"(M),(OC),(H),(AYOR)","Bars/Clubs,Hotels",1979,checked,,,3/1/2020 4:22pm,7/20/2020 9:10am
+361,Jefferson-Clinton Hotel Bar,Found,(Downstairs T-Room is AYOR) Jefferson & Clinton,"43.047289,-76.15385 ",,Syracuse,NY,"(M),(OC),(AYOR)","Bars/Clubs,Hotels",1980,checked,,,2/18/2020 11:39am,7/20/2020 9:18am
+2075,Jewel Theatre,Found,3rd Ave. & 12th St.," 40.732548,-73.988218",,Greenwich Village,NY,,Theatre,1974,checked,,,3/17/2020 3:28pm,3/18/2020 8:07pm
+1802,Jewel Theatre,Found,3rd Ave. & 12th St.," 40.732548,-73.988218",,Greenwich Village,NY,,Theatre,1975,checked,,,3/16/2020 8:38pm,3/16/2020 9:19pm
+1579,Jewell Theatre,Found,3rd Ave. at 12th St.," 40.732548,-73.988218",,Greenwich Village,NY,,Theatre,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:57pm
+2641,Jones Beach,Found,,"40.592193,-73.508611",,Brooklyn,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/30/2020 2:45pm,3/30/2020 2:48pm
+1714,Jones Beach,Found,Parking field No. 9,": 40.594639,-73.508644 ",,Wantagh,NY,Cruisy Area,Cruising Areas,1976,checked,,Long Island,3/10/2020 11:56am,3/16/2020 7:47pm
+1476,Jones Beach,Found,Dunes & bushes east of Parking Field No. 9,": 40.594639,-73.508644 ",,Wantagh,NY,Cruisy Area,Cruising Areas,1977,checked,,Long Island,3/9/2020 7:57pm,3/10/2020 12:01am
+1119,Jones Beach,Found,Dunes & Bushes E. of parking field No. 9,": 40.594639,-73.508644 ",,Wantagh,NY,Cruisy Area,Cruising Areas,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:45pm
+786,Jones Beach,Found,Dunes & bushes E. of parking field No. 6,": 40.594639,-73.508644 ",,Wantagh,NY,Cruisy Area,Cruising Areas,1979,checked,,Long Island,3/1/2020 4:22pm,3/1/2020 6:42pm
+386,Jones Beach,Found,Dunes & bushes E. of parking field No. 6,": 40.594639,-73.508644 ",,Wantagh,NY,Cruisy Area,Cruising Areas,1980,checked,,Long Island,2/18/2020 11:39am,2/29/2020 3:04pm
+2002,Jones Beach Parking,Found,Field No. 9,": 40.594639,-73.508644 ",,Wantagh,NY,Cruisy Area,Cruising Areas,1975,checked,,Long Island,3/17/2020 3:27pm,3/17/2020 4:23pm
+3098,Kelly's,Found,10th Av at E 12th St.,"40.741083,-74.008611",,New York City,NY,,Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 1:53pm
+3210,Kew Bar,General Coordinates Used,Queen's Blvd.,"40.72098,-73.843087 ",,Kew Gardens,NY,,Bars/Clubs,1965,checked,,Long Island,4/13/2020 2:33pm,4/13/2020 3:16pm
+3152,Kew Bar,General Coordinates Used,on Queens Blvd,"40.72098,-73.843087 ",,Kew Gardens,NY,,Bars/Clubs,1966,checked,,Long Island,4/13/2020 2:33pm,4/13/2020 2:40pm
+3080,Kew Bar ,General Coordinates Used,on Queen's Blvd,"40.72098,-73.843087 ",,Kew Gardens,NY,,Bars/Clubs,1968,checked,,Lond Island,4/10/2020 6:01pm,4/10/2020 6:50pm
+3099,King Cole Bar,Found,St Regis Hotel 5th Av at 55th St.," 40.761338,-73.974393",,New York City,NY,"(M),(PE)","Bars/Clubs,Hotels",1968,checked,,,4/10/2020 6:01pm,7/20/2020 9:15am
+3020,King Cole Bar,Found,St. Regis Hotel 5th Ave at 55th St.,"40.761338,-73.974393 ",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:34pm
+2904,King Cole Bar,Found,St. Regis Hotel 5th Ave at 55th St.,"40.761338,-73.974393 ",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1970,checked,,,3/30/2020 4:56pm,7/20/2020 9:15am
+2761,King Cole Bar,Found,St. Regis Hotel 5th Ave. at 55th St.,"40.761338,-73.974393 ",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1971,checked,,,3/30/2020 2:45pm,7/20/2020 9:15am
+2598,King Cole Bar,Found,St. Regis Hotel 5th Ave. at 55th St.,"40.761338,-73.974393 ",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1972,checked,,,3/24/2020 4:45pm,7/20/2020 9:15am
+2393,King Cole Bar,Found,5th Ave. at 55th St.,"40.761338,-73.974393 ",,Manhattan,NY,"(M),(PE)",Bars/Clubs,1973,checked,,,3/22/2020 9:55pm,3/23/2020 12:20pm
+2151,King Cole Bar,Found,5th Ave & 55th St.,"40.761338,-73.974393 ",,Manhattan,NY,"(M),(PE)",Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/19/2020 4:53pm
+1647,King's All Male Theatre,Found,W. 50th St. betw. 8th & Broadway,"236 W. 50th Street, New York, NY 10019",,Midtown,NY,,Theatre,1976,checked,,,3/10/2020 11:55am,3/10/2020 2:01pm
+1322,King's All Male Theatre,Found,W. 50th Street between 8th and Broadway,"236 W. 50th Street, New York, NY 10019",,Midtown,NY,,Theatre,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:09pm
+204,King's All Male Theatre,Found,(May be moving),"236 W. 50th Street, New York, NY 10019",,Midtown,NY,,Theatre,1980,checked,,,2/18/2020 11:38am,2/25/2020 9:46am
+1767,L.I. Railroad Station,,," 40.712071,-73.624797 ",,Hempstead,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:38pm,3/16/2020 8:40pm
+1538,L.I. Railroad Station,Found,(HOT)," 40.712071,-73.624797 ",,Hempstead,NY,"Cruisy Area,(HOT)",Cruising Areas,1976,checked,,Long Island,3/10/2020 11:55am,7/20/2020 9:15am
+2762,La Boheme,Found,69th St. at Broadway,"40.776344,-73.982245",,Manhattan,NY,"(YC),(D),(*)",Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:59pm
+1748,La Salle Park,Found,,"42.888675,-78.890913",,Buffalo,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+1517,La Salle Park,Found,,"42.888675,-78.890913",,Buffalo,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:11pm
+840,La Salle Park,Found,,"42.888675,-78.890913",,Buffalo,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 12:28pm
+446,La Salle Park,Found,,"42.888675,-78.890913",,Buffalo,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:55pm
+2480,Lake Onondaga,Found,,"43.098428,-76.205116",,Syracuse,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:57pm
+2264,Lake Onondaga,Found,,"43.098428,-76.205116",,Syracuse,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:20pm
+1990,Lake Onondaga,Found,,"43.098428,-76.205116",,Syracuse,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:11pm
+80,Lake Placid Club Resort,Found,promenade- best late afternoons)," 44.28202,-73.966193",,Lake Placid,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/23/2020 6:16pm
+1726,"Lark, State & Willet Sts.",General Coordinates Used,nr. Washington Park,"42.659254,-73.776606 ",,Albany,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:36pm
+403,"Lark, State & Willet Sts.",General Coordinates Used,nr. Washington Park,"42.659254,-73.776606 ",,Albany,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/18/2020 11:39am,2/29/2020 3:22pm
+10,"Lark, State & Willet Sts.",General Coordinates Used,nr. Washington Park,"42.659254,-73.776606 ",,Albany,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/18/2020 12:04pm
+800,"Lark, State & Willet Sts. ",General Coordinates Used,nr. Washington Park,"42.659254,-73.776606 ",,Albany,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:16pm
+1136,"Lark, State and Willet Streets",General Coordinates Used,near Washington Park,"42.659254,-73.776606 ",,Albany,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:07pm
+1490,"Lark, State, & Willet St. ",General Coordinates Used,nr. Washington Park,"42.659254,-73.776606 ",,Albany,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/9/2020 7:57pm,3/10/2020 12:16am
+1166,LaSalle Park,Found,,"42.888675,-78.890913",,Buffalo,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:34pm
+2905,Laundry Chute,General Coordinates Used,(downstairs) (after hours) 74th St. bet. Amsterdam and Columbus,"40.779234,-73.979548",,Manhattan,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:21pm
+45,Le Salle Park,Found,,"42.888675,-78.890913",,Buffalo,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:03am
+1161,Libby's Book Store,General Coordinates Used,Main Street,"42.928113,-78.851043",,Buffalo,NY,(M),Book Store,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:31pm
+826,Libby's Book Store,General Coordinates Used,Main St.,"42.928113,-78.851043",,Buffalo,NY,(M),Book Store,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:34pm
+1137,Library,Found,State University of New York,"42.686809,-73.825057",,Albany,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:07pm
+1727,Library- N.Y. State Univ.,Found,,"42.686809,-73.825057",,Albany,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:37pm
+1491,Library- State U. of N.Y.,Found,,"42.686809,-73.825057",,Albany,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/9/2020 7:57pm,3/10/2020 12:17am
+2906,Lighthouse,Found,76th St. at Broadway,"40.781795,-73.981149",,Manhattan,NY,(R),Restaurant,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:21pm
+2763,Lighthouse,Found,76th St. at Broadway,"40.781795,-73.981149",,Manhattan,NY,(*),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:59pm
+2599,Lighthouse,Found,76th St. at Broadway,"40.781795,-73.981149",,Manhattan,NY,(*),Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:30pm
+2427,Lincoln Center,Found,,"40.772464,-73.983489 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:34pm
+2202,Lincoln Center,Found,,"40.772464,-73.983489 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 5:57pm
+1923,Lincoln Center,Found,,"40.772464,-73.983489 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:14pm
+1392,Lincoln Center,Found,,"40.772464,-73.983489",,Uptown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:11pm
+1029,Lincoln Center,Found,,"40.772464,-73.983489",,Uptown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:26pm
+677,Lincoln Center,Found,,"40.772464,-73.983489",,Uptown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:27pm
+268,Lincoln Center,Found,,"40.772464,-73.983489",,Uptown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:41pm
+536,Little Peter's,Found,(Cabaret) 3rd Ave. at St. Mark's Place,"40.729573,-73.989913",,Greenwich Village,NY,"(M),(B)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 9:01pm
+134,Little Peter's,Found,(Cabaret) 3rd Ave. at St. Marks Place,"40.729573,-73.989913",,Greenwich Village,NY,"(M),(B)",Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/24/2020 11:38pm
+2863,Loft,Found,Broadway at 13th St.,"40.73399,-73.990949",,Greenwich Village,NY,(P),Bars/Clubs,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:55pm
+3021,Lolly's,Found,at 75th St.,"40.77208,-73.960755",1049 Lexington,Manhattan,NY,,Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:34pm
+20,Lollypop Heaven',General Coordinates Used,Rest Stop on Rte. 81 Northbound,"42.098687,-75.917974",,Binghamton,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/21/2020 11:39am
+1054,Long Island R.R.,General Coordinates Used,3rd car on most trains,"40.789142,-73.134961",,New York City,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/5/2020 11:51pm
+863,Long Island R.R. Station & Bus Terminal,Found,," 40.712071,-73.624797 ",,Hempstead,NY,"(AYOR),Cruisy Area",Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:07pm
+1189,Long Island Rail Road Station and Bus Terminal,Found,," 40.712071,-73.624797 ",,Hempstead,NY,"(AYOR),Cruisy Area",Cruising Areas,1977,checked,,Long Island,3/5/2020 11:08pm,3/8/2020 11:46pm
+471,Long Island Railroad Station & Bus Terminal,Found,," 40.712071,-73.624797 ",,Hempstead,NY,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,Long Island,2/29/2020 3:24pm,2/29/2020 6:09pm
+67,Long Island Railroad Station & Bus Terminal,Found,," 40.712071,-73.624797 ",,Hempstead,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,Long Island,2/18/2020 11:37am,2/23/2020 6:03pm
+2719,Luv Cage,General Coordinates Used,(above old Showplace) 4th St. nr 6th Ave.," 40.737368,-73.996843 ",,Greenwich Village,NY,"(G),(D),(P),(*)",Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:35pm
+977,M.C.C. Duane Methodist Church,Found,7th Ave. at 13th St.,"40.737869,-74.000202 ",,Midtown,NY,(MCC),Church,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:22pm
+818,MacArthur's,Found,(Disco) Smithtown Ave. at Church," 40.769677,-73.108778",,Bohemia,NY,"(YC),(D),(*)",Bars/Clubs,1978,checked,,Long Island,3/1/2020 4:23pm,3/1/2020 10:28pm
+2600,Machine,Found,Empire Hotel 63rd St. at Broadway,"40.771442,-73.982268",,Manhattan,NY,,"Bars/Clubs,Hotels",1972,checked,,,3/24/2020 4:45pm,7/20/2020 9:15am
+469,Maison Rouge,General Coordinates Used,Rte. 9,"41.380488,-73.940474 ",,Garrison,NY,(D),Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:07pm
+65,Maison Rouge,General Coordinates Used,Rte. 9,"41.380488,-73.940474 ",,Garrison,NY,(D),Bars/Clubs,1980,checked,,,2/18/2020 11:37am,2/23/2020 6:00pm
+1248,Make Believe Ballroom,General Coordinates Used,Inquire locally,"40.733572,-74.002742",,Greenwich Village,NY,"(M),(E),(R)",Restaurant,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:06pm
+2631,Manhattan Subway Stations,General Coordinates Used,,"40.78306,-73.971249 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:43pm
+2428,Manhattan Subway Stations,General Coordinates Used,,"40.78306,-73.971249 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:35pm
+2203,Manhattan Subway Stations,General Coordinates Used,,"40.78306,-73.971249 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 5:57pm
+1924,Manhattan Subway Stations,General Coordinates Used,,"40.78306,-73.971249 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:15pm
+1353,Manhattan Subway Stations,General Coordinates Used,,"40.768687,-73.958443",,Midtown,NY,"(AYOR),Cruisy Area",Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:27pm
+2551,Mardi Gras,Found,(new location for the 'barn') 14th St. at 9th Ave.,"40.740849,-74.005135 ",,Greenwich Village,NY,(*),Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/26/2020 8:09pm
+1123,Maverick Inn,General Coordinates Used,(Disco) Rte. 28- 1 mi. W. of Rte. 365 So. of Woodstock,"42.040925,-74.118197",,Woodstock,NY,"(H),(R),(D),(*)","Hotels,Bars/Clubs",1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:56pm
+790,Maverick Inn,General Coordinates Used,(Disco) Rte. 28- 1 mi. W. of Rte. 375 - S. of Woodstock,"42.040925,-74.118197",,Woodstock,NY,"(*),(H),(R),(D)","Hotels,Bars/Clubs",1979,checked,,,3/1/2020 4:22pm,3/1/2020 10:08pm
+391,Maverick Inn,General Coordinates Used,(Disco) (Summers only) 1 mi. W. of Rte. 375- S. of Woodstock,"42.040925,-74.118197",,Woodstock,NY,"(H),(R),(D)",Hotels,1980,checked,,,2/18/2020 11:39am,2/29/2020 3:08pm
+1717,Maverick Motel & Bar,General Coordinates Used,Rt. 28 1 mi. W. of Rt. 375- S. Woodstock,"42.040925,-74.118197",,Woodstock,NY,(M),"Hotels,Bars/Clubs",1976,checked,,,3/10/2020 11:56am,3/16/2020 7:53pm
+1480,Maverick Motel & Bar,General Coordinates Used,Rt. 28- 1 mi. W. of Rt. 375- S. of Woodstock,"42.040925,-74.118197",,Woodstock,NY,(M),"Hotels,Bars/Clubs",1977,checked,,,3/9/2020 7:57pm,3/10/2020 12:04am
+1198,Maxwell's,Found,(Best bet late) On Main Street opp. Marcy Hotel,"44.287327,-73.984945 ",,Lake Placid,NY,(M),Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:51pm
+871,Maxwell's,Found,(Best bet late) On Main St. opp. Marcy Hotel,"44.287327,-73.984945 ",,Lake Placid,NY,,Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:15pm
+483,Maxwell's,Found,(Best bet late) on Main St. opp. Marcy Hotel,"44.287327,-73.984945 ",,Lake Placid,NY,,Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:17pm
+2429,Metropolitan Museum,Found,,"40.779437,-73.963244",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:37pm
+2204,Metropolitan Museum,Found,,"40.779437,-73.963244",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 5:58pm
+1925,Metropolitan Museum,Found,,"40.779437,-73.963244",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:15pm
+1393,Metropolitan Museum,Found,,"40.779437,-73.963244 ",,Uptown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:11pm
+1030,Metropolitan Museum,Found,,"40.779437,-73.963244 ",,Uptown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:26pm
+678,Metropolitan Museum,Found,,"40.779437,-73.963244 ",,Uptown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:28pm
+269,Metropolitan Museum,Found,,"40.779437,-73.963244 ",,Uptown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:42pm
+1290,Metropolitan Theatre,Found,14th Street,"40.732787,-73.985321 ",,Greenwich Village,NY,Cruisy Area,"Cruising Areas,Theatre",1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:45pm
+2807,Mickey's Hi 'n Low,General Coordinates Used,Just off Thruway in Herkimer,"43.100903,-75.232664",,Utica,NY,,Bars/Clubs,1971,checked,,,3/30/2020 4:04pm,3/30/2020 4:24pm
+2484,Mickey's Hi 'n Low,General Coordinates Used,just off Thruway in Herkimer,"43.100903,-75.232664",,Utica,NY,,Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:58pm
+2268,Mickey's Hi 'n' Low,General Coordinates Used,just off Thruway in Herkimer,"43.100903,-75.232664",,Utica,NY,,Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:22pm
+1711,Midnight Mary's,Found,(Unisex)(Disco) Colmbia at Broadway," 43.102206,-75.233629",,Utica,NY,"(HIP),(D),(*)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/16/2020 7:40pm
+1474,Midnight Mary's,Found,(Unisex) (Disco) Columbia at Broadway," 43.102206,-75.233629",,Utica,NY,"(M),(HIP),(YC),(D),(*)",Bars/Clubs,1977,checked,,,3/9/2020 7:57pm,3/10/2020 12:00am
+1116,Midnight Mary's ,Found,(Disco) Columbia at Broadway," 43.102206,-75.233629",,Utica,NY,"(YC),(D),(*)",Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:40pm
+3170,Milano's,Found,72nd St & Amsterdam,"40.778609,-73.981639",,Manhattan,NY,,Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:48pm
+2908,Milano's,Found,Amsterdamn at 72nd St.,"40.778609,-73.981639",,Manhattan,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:22pm
+2765,Milano's,Found,72nd St. at Amsterdamn,"40.778609,-73.981639",,Manhattan,NY,(*),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 4:00pm
+3101,Milano's ,Found,Amsterdam at 72nd St.,"40.778609,-73.981639 ",,New York City,NY,,Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 1:57pm
+3023,Milano's Amsterdam,Found,at 72nd St.,"40.778609,-73.981639",,Manhattan,NY,,Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:35pm
+3200,Millstone,General Coordinates Used,Millstone Rd,"40.96914,-72.343455 ",,East Hampton,NY,,Bars/Clubs,1965,checked,,Long Island,4/13/2020 2:33pm,4/13/2020 3:12pm
+2959,Millstone,General Coordinates Used,Millstone Rd,"40.96914,-72.343455 ",,East Hampton,NY,,Bars/Clubs,1969,checked,,Long Island,3/30/2020 4:57pm,3/30/2020 5:49pm
+2816,Millstone,Found,(summers only) Millstone Rd.,"40.951787,-72.328122 ",,Bridgehampton,NY,,Bars/Clubs,1970,checked,,Long Island,3/30/2020 4:04pm,3/30/2020 4:30pm
+2676,Millstone,Found,Millstone Rd.,"40.951787,-72.328122 ",,Bridgehampton,NY,,Bars/Clubs,1971,checked,,Long Island,3/30/2020 2:45pm,3/30/2020 3:08pm
+2290,Millstone,Found,Millstone Rd.,"40.951787,-72.328122 ",,Bridgehampton,NY,,Bars/Clubs,1973,checked,,Long island,3/19/2020 2:37pm,3/22/2020 9:34pm
+1108,Millstone,Found,(Seasonal) (Sag Harbor),"40.951787,-72.328122 ",1 Millstone Rd.,Bridgehampton,NY,(D),Bars/Clubs,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:32pm
+3142,Millstone ,General Coordinates Used,on Millstone Rd,"40.96914,-72.343455 ",,East Hampton,NY,,Bars/Clubs,1966,checked,,Long Island,4/13/2020 2:33pm,4/13/2020 2:36pm
+3070,Millstone ,General Coordinates Used,on Millstone Rd,"40.96914,-72.343455 ",,East Hampton,NY,,Bars/Clubs,1968,checked,,Long Island,4/10/2020 6:01pm,4/10/2020 6:31pm
+2501,Millstone ,Found,Millstone Rd.,"40.951787,-72.328122 ",,Bridgehampton,NY,,Bars/Clubs,1972,checked,,Long Island,3/23/2020 12:33pm,3/23/2020 1:16pm
+2038,Monster,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:40pm
+1533,Monster,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:19pm
+1184,Monster,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:43pm
+859,Monster,General Coordinates Used,(Disco) Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(YC),(D),(R),(*)",Restaurant,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:03pm
+465,Monster,General Coordinates Used,(Disco) Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(YC),(D),(R),(*)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:05pm
+62,Monster,General Coordinates Used,(Disco) Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(YC),(D),(R),(*)",Restaurant,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:58pm
+2219,Monte Casino,General Coordinates Used,Montague St.,"40.694975,-73.994963",,Brooklyn Heights,NY,,Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 8:42pm
+759,Motel on the Mountain,Found,(Resort) (Disco) Rte. 17 N. Tel: (914) 357-2500,"41.114818,-74.149589 ",,Suffern,NY,"(H),(R),(D),(S),(*)",Hotels,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:20pm
+354,Motel on the Mountain ,Found,(Resort) (Disco) Rte. 117 N. Tel: (914) 357-2500,"41.114818,-74.149589 ",,Suffern,NY,"(*),(H),(R),(D),(S)",Hotels,1980,checked,,,2/18/2020 11:39am,2/27/2020 11:58pm
+1195,Mr. Chip's,General Coordinates Used,2 miles south of Lake George Village on Route 9 between Northway exits 20 and 21),"43.426181,-73.712341",,Lake George,NY,"(D),(*)",Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:49pm
+868,Mr. Chip's,General Coordinates Used,2 mi. So. of  Lake George Village on Rte. 9 betw. Northway exits 20 & 21,"43.426181,-73.712341",,Lake George,NY,"(D),(*)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:13pm
+1543,Mr. Chips,General Coordinates Used,Exit 20 off Northway on Rte. 9 N.,"43.426181,-73.712341",,Lake George,NY,"(D),(*)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:24pm
+480,Mr. Chips,General Coordinates Used,"2 mi. S. of Lake George Cillage on Rte. 9, betw. Northway exits 20 & 21","43.426181,-73.712341",,Lake George,NY,"(D),(*)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:16pm
+75,Mr. Chips,General Coordinates Used,"2 mi. S. of Lake George Village on Rte. 9, betw. Northway exits 20 & 21","43.426181,-73.712341",,Lake George,NY,"(D),(*)",Bars/Clubs,1980,checked,,,2/18/2020 11:38am,2/23/2020 6:11pm
+2231,Mr. G's,General Coordinates Used,"(The Embers) Route 9W, about 2 mi. north of N.Y. Hwy. 59","41.145993,-73.921213 ",,Rockland Lake,NY,"(YC),(D),(R),(S),(*)",Restaurant,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:04pm
+1951,Mr. G's,General Coordinates Used,"Route 9W, about 2 mi. N. of N.Y. Hwy. 59","41.145993,-73.921213 ",,Rockland Lake,NY,"(YC),(D),(R),(S),(*)",Restaurant,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:33pm
+2270,Mr. G's Roundhill Resort,General Coordinates Used,Route 208,"41.427872,-74.16598",,Washingtonville,NY,(H),Hotels,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:23pm
+2003,Mr. G's Roundhill Resort,General Coordinates Used,Route 208,"41.427872,-74.16598",,Washingtonville,NY,(H),Hotels,1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:23pm
+1715,Mr. G's Roundhill Resort,General Coordinates Used,Route 208,"41.427872,-74.16598",,Washingtonville,NY,(H),Hotels,1976,checked,,,3/10/2020 11:56am,3/16/2020 7:47pm
+2766,Mr. T's,Found,(sign says Sultan's Table) 40th St. at Lexington,"40.750161,-73.976985",,Manhattan,NY,(*),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 4:00pm
+3025,Mt Morris Baths,Found,,"40.805544,-73.940973",1944 Madison,Manhattan,NY,,Baths,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:36pm
+2430,Museum of Modern Art,Found,,"40.761433,-73.977622",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:37pm
+2205,Museum of Modern Art,Found,,"40.761433,-73.977622",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 5:58pm
+1926,Museum of Modern Art,Found,,"40.761433,-73.977622",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:15pm
+1937,New Atlantis,Found,(Disco) Stillwell Ave. at Boardwalk," 40.57334,-73.980854 ",,Coney Island,NY,"(D),(S)",Bars/Clubs,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:22pm
+829,No Name Bar,Found,(Food & drink) Elmwood at Bidwell Parkway,"42.92325,-78.877003",,Buffalo,NY,"(M),(YC),(R)",Restaurant,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:36pm
+1427,Northern Lights,General Coordinates Used,20 mi. W. on N.Y. 3,"44.699487,-73.452912",,Plattsburg,NY,(M),Bars/Clubs,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:34pm
+1067,Northern Lights,General Coordinates Used,20 mi. W. on NY 3,"44.699487,-73.452912",,Plattsburg,NY,(M),Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 12:16am
+1192,Number Nine,General Coordinates Used,College Avenue,"42.441974,-76.485262 ",,Ithaca,NY,"(M),(YC)",Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:47pm
+866,Number Nine,General Coordinates Used,College Ave.,"42.441974,-76.485262 ",,Ithaca,NY,"(M),(YC)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:11pm
+3105,NYMA,General Coordinates Used,18th St,"40.741067,-73.997868 ",,New York City,NY,"(SM),(P)",Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:12pm
+2911,Oak Bar,Found,85th St. at 2nd Ave.,"40.777206,-73.952264 ",,Manhattan,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:23pm
+2767,Oak Bar,Found,85th St. at 2nd Ave.,"40.777206,-73.952264 ",,Manhattan,NY,,Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 4:00pm
+2605,Oak Leaf,General Coordinates Used,85th St. nr. 3rd Ave.,"40.777206,-73.952264 ",,Manhattan,NY,,Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:33pm
+3231,Oak Room,Found,Plaza Hotel 59th St & 5th Av,"40.764469,-73.974488",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:26pm
+1330,Oak Room,Found,Plaza Hotel 5th Avenue at 59th Street,"40.764469,-73.974488",,Midtown,NY,"(M),(PE),(OC)","Bars/Clubs,Hotels",1977,checked,,,3/9/2020 7:56pm,7/20/2020 9:11am
+981,Oak Room,Found,"Plaza hotel, 5th Ave.","40.764469,-73.974488",,Midtown,NY,"(M),(PE),(OC)","Bars/Clubs,Hotels",1978,checked,,,3/2/2020 9:21pm,7/20/2020 9:10am
+1259,Old Forge,Found,17th Street at 3rd Avenue,"40.740384,-73.997664",,Greenwich Village,NY,"(M),(R)",Restaurant,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:26pm
+805,Old Town U.S.A.,General Coordinates Used,Thur. thru Sun. Niagara Falls Blvd.,"42.979007,-78.792272 ",,Amherst,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:18pm
+447,Old Town U.S.A.,General Coordinates Used,(THur. thru Sun.) Niagra Falls Blvd.,"42.979007,-78.792272 ",,Amherst,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:55pm
+1141,Old Town USA,General Coordinates Used,Thursday through Sunday/ Niagra Falls Boulevard,"42.979007,-78.792272 ",,Amherst,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:09pm
+1428,Other Side,Found,(Some G) (Fri. & Sat. from 9 p.m. to 4 a.m.) Cumberland Hotel Margaret & Court Sts.," 44.69846,-73.452977",,Plattsburg,NY,"(D),(G),(*)","Bars/Clubs,Hotels",1977,checked,,,3/9/2020 7:57pm,7/20/2020 9:11am
+1068,Other Side,Found,"(Some G) (Fri. & Sat. from 9 p.m. to 4 a.m.*) Cumberland Hotel, Margaret & Court Sts."," 44.69846,-73.452977",,Plattsburg,NY,"(D),(G),(*)","Bars/Clubs,Hotels",1978,checked,,,3/5/2020 11:08pm,7/20/2020 9:11am
+730,Other Side,Found,(Some G) (Fri. & Sat. from 9p.m. to 4 a.m.*) Cumberland Hotel- Margaret & Court," 44.69846,-73.452977",,Plattsburg,NY,"(D),(G),(*)","Bars/Clubs,Hotels",1979,checked,,,2/29/2020 10:19pm,7/20/2020 9:10am
+320,Other Side,Found,(Some L) (Fri. & Sat. from 9pm to 4am*) Cumberland Hotel- Margaret & Court," 44.69846,-73.452977",,Plattsburg,NY,"(L),(D),(*)","Hotels,Bars/Clubs",1980,checked,,,2/18/2020 11:39am,2/27/2020 11:32pm
+2679,Out of This World,General Coordinates Used,"(Supposedly re-opned, inquire locally)"," 40.963434,-72.184801 ",,East Hampton,NY,,Bars/Clubs,1971,checked,,Long Island,3/30/2020 2:45pm,3/30/2020 3:10pm
+2295,Out of This World,General Coordinates Used,Montauk Highway,"40.963434,-72.184801 ",,East Hampton,NY,,Bars/Clubs,1973,checked,,Long Island,3/19/2020 2:37pm,3/22/2020 9:36pm
+2031,Out of This World,General Coordinates Used,Montauk Hwy.,"40.963434,-72.184801 ",,East Hampton,NY,"(D),(R)",Restaurant,1974,checked,,Long Island,3/17/2020 3:27pm,3/17/2020 7:24pm
+1995,Out of this World,General Coordinates Used,Montauk Highway,"40.937878,-72.300916",,Bridgehampton,NY,(D),Bars/Clubs,1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:18pm
+1704,Out of this World,General Coordinates Used,Montauk Highway,"40.937878,-72.300916",,Bridgehampton,NY,(D),Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/15/2020 3:31pm
+1468,Out of this World,General Coordinates Used,Montauk Highway,"40.937878,-72.300916",,Bridgehampton,NY,(D),Bars/Clubs,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:57pm
+1167,Park & Irving Streets,Found,,"42.902252,-78.875024 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:34pm
+2028,Park & Irving Sts.,Found,,"42.902252,-78.875024 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:19pm
+1749,Park & Irving Sts.,Found,,"42.902252,-78.875024 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+1518,Park & Irving Sts.,Found,,"42.902252,-78.875024 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:11pm
+841,Park & Irving Sts.,Found,,"42.902252,-78.875024 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 12:28pm
+448,Park & Irving Sts.,Found,,"42.902252,-78.875024 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:56pm
+46,Park & Irving Sts.,Found,,"42.902252,-78.875024 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:04am
+2164,Park Miller Theatre,Found,43rd St. betw. 6th & Broadway,"40.75589,-73.984948",,Manhattan,NY,,Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/19/2020 5:11pm
+1894,Park Miller Theatre,Found,43rd St. betw. 6th & Broadway,"40.75589,-73.984948",,Manhattan,NY,,Theatre,1975,checked,,,3/16/2020 8:39pm,3/17/2020 2:58pm
+1654,Park Miller Theatre,Found,"43rd St. betw, 6th & Broadway","40.75589,-73.984948",,Midtown,NY,,Theatre,1976,checked,,,3/10/2020 11:55am,3/10/2020 2:05pm
+1334,Park Miller Theatre,Found,43rd Street between 6th adn Broadway,"40.75589,-73.984948",,Midtown,NY,,Theatre,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:16pm
+2402,Park-Miller Theatre,Found,43rd St. bet. 6th & Broadway,"40.75589,-73.984948",,Manhattan,NY,,Theatre,1973,checked,,,3/22/2020 9:55pm,3/23/2020 12:24pm
+1142,Pat & Scottie's Lounge,Found,,"40.723869,-73.259671",24 Ackerson,Bayshore,NY,(G),Bars/Clubs,1977,checked,,long island,3/5/2020 11:08pm,3/6/2020 3:10pm
+1996,Patchez,General Coordinates Used,,"40.963434,-72.184801 ",44 3 Mile Harbor Rd.,East Hampton,NY,"(G),(D)",Bars/Clubs,1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:19pm
+3174,Pauline's,Found,7th Av & 133rd St.,"40.813991,-73.94456 ",,Manhattan,NY,,Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:49pm
+3107,Pauline's,Found,7th Av at 133rd St.,"40.814054,-73.94475",,New York City,NY,,Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:12pm
+3028,Pauline's,Found,7th Ave at 133rd St,"40.813991,-73.94456 ",,Manhattan,NY,,Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:39pm
+2913,Pauline's,Found,7th Ave. at 133rd St.,"40.813991,-73.94456 ",,Manhattan,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:24pm
+2769,Pauline's,Found,7th Ave. at 133rd St.,"40.813991,-73.94456 ",,Manhattan,NY,(B),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 4:01pm
+2608,Pauline's,Found,7th Ave. at 133rd St.,"40.813991,-73.94456 ",,Manhattan,NY,"(B),(RT)",Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:34pm
+2403,Pauline's,Found,7th Ave. at 133rd Sts.,"40.813991,-73.94456 ",,Manhattan,NY,"(B),(RT)",Bars/Clubs,1973,checked,,,3/22/2020 9:55pm,3/23/2020 12:25pm
+2165,Pauline's,Found,7th Ave. & 133rd St.,"40.813991,-73.94456 ",,Manhattan,NY,"(B),(RT)",Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/19/2020 5:13pm
+2677,Piano Bar,General Coordinates Used,Montague St.,"40.694975,-73.994963",,Brooklyn Heights,NY,,Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:08pm
+2640,Piano Bar,Found,Montaque at Hicks,"40.695221,-73.995855",,Brooklyn,NY,,Bars/Clubs,1972,checked,,,3/30/2020 2:45pm,3/30/2020 2:47pm
+2817,Piano Bar ,General Coordinates Used,Montague St.,"40.694975,-73.994963",,Brooklyn Heights,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:30pm
+2251,Pier 86,Found,Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,(M),Bars/Clubs,1974,checked,,Long Island,3/19/2020 2:37pm,3/22/2020 9:13pm
+1688,Pier 86,Found,Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,(M),Bars/Clubs,1976,checked,,Long Island,3/10/2020 11:55am,3/15/2020 2:30pm
+1451,Pier 86,Found,(Summers) Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,(M),Bars/Clubs,1977,checked,checked,Long Island,3/9/2020 7:57pm,3/9/2020 11:46pm
+1090,Pier 86,Found,(Summers only) Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,,Cruising Areas,1978,checked,checked,Long Island,3/5/2020 11:08pm,3/6/2020 2:16pm
+754,Pier 86,Found,(Summers only) Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,,Cruising Areas,1979,checked,checked,Long Island,3/1/2020 4:22pm,3/1/2020 4:30pm
+2470,Pier 86 ,Found,Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,,Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:52pm
+348,Pier 86 ,Found,(Summers only) Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,,Cruising Areas,1980,checked,checked,Long Island,2/18/2020 11:39am,2/27/2020 11:52pm
+813,Pine Lodge,Found,Seminary & Rotary," 42.097414,-75.9361",,Binghamton,NY,(M),Organizations,1978,checked,checked,,3/1/2020 4:23pm,3/1/2020 10:23pm
+1150,Pine Lounge,Found,Seminary & Rotary," 42.097414,-75.9361",,Binghamton,NY,(M),Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:21pm
+3046,Pink Panter,General Coordinates Used,(back room) Wilder St.," 43.156313,-77.637624 ",,Rochester,NY,(G),Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:53pm
+3187,Pink Panther,General Coordinates Used,(back room) on Wilder St.," 43.156313,-77.637624 ",,Rochester,NY,"(G),(RT)",Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:59pm
+3123,Pink Panther ,General Coordinates Used,(back rm on WIlder St)," 43.156313,-77.637624 ",,Rochester,NY,(G),Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:21pm
+3029,Plaza Hotel,Found,(Oak Room) 5th Ave at 59th St.,"40.764469,-73.974488",,Manhattan,NY,"(M),(PE),(R)","Bars/Clubs,Hotels",1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:40pm
+2914,Plaza Hotel,Found,Oak Room 5th Ave at 59th St.,"40.764469,-73.974488",,Manhattan,NY,"(M),(PE)","Hotels,Bars/Clubs",1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:25pm
+2770,Plaza Hotel,Found,(Oak Room) 5th Ave. at 59th St.,"40.764469,-73.974488",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1971,checked,checked,,3/30/2020 2:45pm,3/30/2020 4:02pm
+2610,Plaza Hotel,Found,(Oak Room) 5th Ave. at 59th St.,"40.764469,-73.974488",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1972,checked,,,3/24/2020 4:45pm,7/20/2020 9:19am
+2406,Plaza Hotel ,Found,(Oak Room) 5th Ave. at 59th St.,"40.764469,-73.974488",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1973,checked,,,3/22/2020 9:55pm,3/23/2020 12:26pm
+2462,Port & Bay,Found,Bay at Portland,"43.170644,-77.594529 ",,Rochester,NY,"(M),(G),(R)",Restaurant,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:49pm
+2241,Port & Bay,Found,Bay at Portland,"43.170644,-77.594529 ",,Rochester,NY,"(M),(R),(G)",Restaurant,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:09pm
+1952,Porthole,Found,(Some G) ,"41.152805,-73.927922 ",75 Route 9W,Congers,NY,(G),Bars/Clubs,1975,checked,,,3/17/2020 3:27pm,3/17/2020 3:34pm
+1061,Porthole,Found,(G- only) (WE*) ,"41.152805,-73.927922 ",75 Rte. 9W,Congers,NY,"(G),(D),(WE),(*)",Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 12:04am
+723,Porthole,General Coordinates Used,(G only) (WE*) (Congers)," 41.090652,-73.917915 ",75 Rte. 9W,Nyack,NY,"(G),(D),(WE),(*)",Bars/Clubs,1979,checked,,,2/29/2020 10:19pm,3/1/2020 4:05pm
+68,Prime Time,General Coordinates Used,(Disco) (Cl. Mon. & Tues.) Rte. 9W N.,"41.369261,-73.96625 ",,Highland Park ,NY,"(D),(*)",Bars/Clubs,1980,checked,,,2/18/2020 11:37am,2/23/2020 6:05pm
+622,Prive,Found,1st Ave at 59th St.,"40.75962,-73.961967",,Midtown,NY,"(PE),(R)",Restaurant,1979,checked,,,2/29/2020 3:25pm,2/29/2020 10:17pm
+220,Prive,Found,1st Ave at 59th St.,"40.75962,-73.961967",,Midtown,NY,"(PE),(R)",Restaurant,1980,checked,,,2/18/2020 11:38am,2/25/2020 9:57am
+2771,Pub Society,Found,85th St. at 2nd Ave.,"40.777206,-73.952264",,Manhattan,NY,,Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 4:02pm
+3124,Purple Tree Bar,Found,Manger Hotel,"43.157601,-77.606154",,Rochester,NY,"(M),(PE)","Bars/Clubs,Hotels",1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:22pm
+708,Queens College,Found,Lower level T-Room,"40.736644,-73.820089",,Queens,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:51pm
+301,Queens College,Found,Lower Level T-Room,"40.736644,-73.820089",,Queens,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/27/2020 12:07am
+1110,Quiet Clam,General Coordinates Used,Montauk Hwy.,"40.963434,-72.184801 ",,East Hampton,NY,(R),Restaurant,1978,checked,,Long Island,3/5/2020 11:08pm,3/6/2020 2:33pm
+778,Quiet Clam,General Coordinates Used,Montauk Hwy.,"40.963434,-72.184801 ",,East Hampton,NY,"(M),(R)",Restaurant,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:35pm
+1354,Radio City Music Hall,Found,Mezzanine T-Room and downstairs lounge,"40.759976,-73.979977",,Midtown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:28pm
+1526,Railroad Ave.,Found,by foot or car,"42.091981,-76.80736",,Elmira,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:16pm
+853,Railroad Ave.,Found,by foot or car,"42.091981,-76.80736",,Elmira,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 7:57pm
+457,Railroad Ave.,Found,by foot or car,"42.091981,-76.80736",,Elmira,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:00pm
+54,Railroad Ave.,Found,by foot or car,"42.091981,-76.80736",,Elmira,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:09am
+1179,Railroad Avenue,Found,by foot or by car,"42.091981,-76.80736",,Elmira,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:41pm
+77,Rest Stop,General Coordinates Used,on I-87 nr. exit 28,"43.426181,-73.712341",,Lake George,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/23/2020 6:13pm
+2431,Riis Park,Found,,"40.56707,-73.87177",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:37pm
+2227,Riis Park,Found,," 40.56707,-73.87177",,Brooklyn,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/22/2020 8:47pm
+1944,Riis Park,Found,Brooklyn," 40.56707,-73.87177",,Brooklyn,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:27pm
+1414,Riis Park,Found,," 40.56707,-73.87177",,Brooklyn,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:24pm
+1055,Riis Park,Found,," 40.56707,-73.87177",,Brooklyn,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/5/2020 11:08pm,3/5/2020 11:52pm
+709,Riis Park,Found,,"40.56707,-73.87177",,Rockaway,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:51pm
+302,Riis Park,Found,,"40.56707,-73.87177",,Rockaway,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/27/2020 12:08am
+2432,Riverside Park,Found,West side bet. 72nd and 85th Sts.," 40.801234,-73.97231",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:37pm
+2206,Riverside Park,Found,West Side betw. 72nd & 85th Sts.," 40.801234,-73.97231",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 6:00pm
+1927,Riverside Park,Found,West side between 72nd & 85th Streets," 40.801234,-73.97231",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:16pm
+1394,Riverside Park,Found,West Side betw. 72nd & 85th Sts.,"40.801234,-73.97231",,Uptown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:11pm
+679,Riverside Park,Found,WestSIde betw. 72nd & 78th St.,"40.801234,-73.97231",,Uptown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:28pm
+270,Riverside Park,Found,West Side betw. 72nd & 78th Sts.,"40.801234,-73.97231",,Uptown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:43pm
+1031,Riverside Park- W. side,Found,betw. 72nd & 85th Sts.,"40.801234,-73.97231",,Uptown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:27pm
+834,Rivoli Theatre,Found,(Films) (Call first),"42.893851,-78.833653",,Buffalo,NY,(AH),Theatre,1978,checked,,,3/1/2020 4:23pm,3/2/2020 12:25pm
+2773,Round Table,General Coordinates Used,50th St. bet. 3rd & Lexington,"40.756278,-73.971528",,Manhattan,NY,(*),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 4:03pm
+334,Royal Knight,General Coordinates Used,East Ave.,"43.148151,-77.566239",,Rochester,NY,"(M),(R),(C),(AH)",Restaurant,1980,checked,,,2/18/2020 11:39am,2/27/2020 11:42pm
+2726,Royal Roost ,General Coordinates Used,Cornelia nr. Bleecker,"40.731157,-74.002951",,Greenwich Village,NY,(R),Restaurant,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:41pm
+1901,Russ Kays,Found,Columbus Ave. at 75th St.,"40.779376,-73.977385",,Manhattan,NY,"(R),(BYOB)",Restaurant,1975,checked,,,3/16/2020 8:39pm,3/17/2020 2:58pm
+801,S.U.N.Y.,Found,Library T-Room,"42.686809,-73.825057",,Albany,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:17pm
+404,S.U.N.Y.,Found,Library T-Room,"42.686809,-73.825057",,Albany,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/18/2020 11:39am,2/29/2020 3:22pm
+11,S.U.N.Y.,Found,Library T-Room,"42.686809,-73.825057",,Albany,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/18/2020 12:05pm
+383,Sambo's,General Coordinates Used,N. Genesse St. (N. Utica),"43.109925,-75.218513",,Utica,NY,"(M),(R),(C),(AH),Cruisy Area","Cruising Areas,Restaurant",1980,checked,,,2/18/2020 11:39am,2/29/2020 2:56pm
+455,Sambo's ,General Coordinates Used,Inquire Locally,"42.089797,-76.807734",,Elmira,NY,"(M),(R),(C),(AH)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:59pm
+2351,Sammy's Folly,General Coordinates Used,15th St. near 5th Ave.,"40.736689,-73.993153",,Greenwich Village,NY,(R),Restaurant,1973,checked,,,3/22/2020 9:55pm,3/22/2020 10:05pm
+2964,Sand Piper,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,3/30/2020 5:51pm
+2835,Sand Piper,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:40pm
+2686,Sand Piper,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,,Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:20pm
+2513,Sand Piper,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(R),Restaurant,1972,checked,,,3/23/2020 12:33pm,3/23/2020 1:16pm
+2300,Sand Piper,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(R),Restaurant,1973,checked,,,3/19/2020 2:37pm,3/22/2020 9:38pm
+2039,Sand Piper,General Coordinates Used,The Pines,"40.665319,-73.069304",,Fire Island,NY,(R),Restaurant,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:40pm
+1534,Sand Piper,General Coordinates Used,(until 4 am) The Pines,"40.665319,-73.069304",,Fire Island,NY,"(D),(*)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:20pm
+860,Sand Piper,General Coordinates Used,(Until 4 a.m.) The Pines,"40.665319,-73.069304",,Fire Island,NY,"(*),(R),(D)",Restaurant,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:04pm
+466,Sand Piper,General Coordinates Used,(Disco) (Until 4 a.m.) The Pines,"40.665319,-73.069304",,Fire Island,NY,"(R),(D),(*)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:06pm
+63,Sand Piper,General Coordinates Used,(Disco) (Good weekdays & best late nights) The Pines,"40.665319,-73.069304",,Fire Island,NY,"(R),(D)",Restaurant,1980,checked,,,2/18/2020 11:37am,2/23/2020 5:59pm
+1185,Sand Piper ,General Coordinates Used,(Until 4 a.m.) The Pines,"40.665319,-73.069304",,Fire Island,NY,"(R),(D),(*)","Restaurant,Bars/Clubs",1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:44pm
+2481,Sandy Pond Beach,Found,,"43.646755,-76.195037 ",,Syracuse,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:57pm
+2265,Sandy Pond Beach,Found,,"43.646755,-76.195037 ",,Syracuse,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:20pm
+1991,Sandy Pond Beach,Found,,"43.646755,-76.195037 ",,Syracuse,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/17/2020 3:27pm,3/17/2020 4:12pm
+3176,Sauna Baths,General Coordinates Used,58th St bet 5th & 6th Avs,"40.764417,-73.975368 ",,Manhattan,NY,,Baths,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:49pm
+2471,Sayville Seashack,Found,Chery Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,,Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:53pm
+2252,Sayville Seashack,Found,Cherry Grove Ferry Dock,"40.727256,-73.071916",,Sayville,NY,"(M),(R)",Restaurant,1974,checked,,Long Island,3/19/2020 2:37pm,3/22/2020 9:14pm
+2996,Sea Colony,Found,Horatio at 8th Ave,"40.738756,-74.003446",,Greenwich Village,NY,(G),Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,3/30/2020 7:07pm
+2871,Sea Colony,General Coordinates Used,Horatio & 6th Ave.,"40.738756,-74.003446",,Greenwich Village,NY,(G),Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:01pm
+2727,Sea Colony,General Coordinates Used,Horatio at 6th Ave.,"40.738756,-74.003446",,Greenwich Village,NY,(G),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:41pm
+2561,Sea Colony,General Coordinates Used,Horatio at 6th Ave.,"40.738756,-74.003446",,Greenwich Village,NY,(G),Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/26/2020 8:17pm
+3204,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:13pm
+3146,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:37pm
+2965,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1969,checked,,,3/30/2020 4:57pm,3/30/2020 5:51pm
+2836,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Restaurant,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:40pm
+2687,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:20pm
+2514,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1972,checked,,,3/23/2020 12:33pm,3/23/2020 1:16pm
+2301,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1973,checked,,,3/19/2020 2:37pm,3/22/2020 9:38pm
+2040,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:40pm
+1535,Sea Shack,General Coordinates Used,Cherry Groves,"40.659053,-73.089293",,Fire Island,NY,"(H),(R),(S)","Restaurant,Hotels",1976,checked,,,3/10/2020 11:55am,3/10/2020 12:20pm
+1186,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(H),(R),(S)","Hotels,Restaurant",1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:44pm
+861,Sea Shack,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(H),(R),(S)",Hotels,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:06pm
+467,Sea Shack,General Coordinates Used,597-6140 Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,"(H),(R),(S)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:06pm
+64,Sea Shack,General Coordinates Used,,"40.659053,-73.089293",597-6140 Cherry Grove,Fire Island,NY,"(H),(R),(S)",Restaurant,1980,checked,,Look @ Cruisy area notes. ,2/18/2020 11:37am,7/20/2020 8:52am
+3074,Sea Shack ,General Coordinates Used,Cherry Grove ,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1968,checked,,Long Island,4/10/2020 6:01pm,4/10/2020 6:33pm
+2919,Sebastian,General Coordinates Used,(inquire locally),"40.78306,-73.971249 ",,Manhattan,NY,(R),Restaurant,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:27pm
+1381,Seesaw Cabaret,General Coordinates Used,Lexington & 81st St.,"40.776275,-73.957936",,Uptown,NY,(E),Bars/Clubs,1977,checked,,,3/9/2020 7:56pm,3/9/2020 11:03pm
+2873,Sewer,General Coordinates Used,16th St. nr. 5th Ave.,"40.737336,-73.992664",,Greenwich Village,NY,"(D),(YC),(*)",Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:02pm
+3034,Shelton Towers,Found,(after hours) Lexington at 49th St.,"40.755876,-73.972834 ",,Manhattan,NY,(D),Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:42pm
+2578,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:09am
+2115,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:37pm
+1843,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:50pm
+1622,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:47pm
+1291,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:46pm
+945,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:00pm
+573,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:32pm
+175,Sheridan Square,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:15am
+2367,Sheridan Square ,Found,,"40.7332,-74.002285 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/22/2020 9:55pm,3/23/2020 11:59am
+3193,Shore House,General Coordinates Used,Ludlim Av,"40.904466,-73.54929",,Bayville,NY,(*),Bars/Clubs,1965,checked,,Long Island,4/13/2020 2:33pm,4/13/2020 3:09pm
+3132,Shore House,General Coordinates Used,on Ludlim Av,"40.904466,-73.54929",,Bayville,NY,,Bars/Clubs,1966,checked,,,4/10/2020 6:01pm,4/13/2020 2:32pm
+2811,Shore House,General Coordinates Used,Bayville Rd. (Nassau County Rt 9),"40.904466,-73.54929",,Bayville,NY,(*),Bars/Clubs,1970,checked,,Long Island,3/30/2020 4:04pm,3/30/2020 4:27pm
+2496,Shore House,General Coordinates Used,(Bayville Road) Nassau country Rt. 9,"40.904466,-73.54929",,Bayville,NY,,Bars/Clubs,1972,checked,,Long Island,3/23/2020 12:33pm,3/23/2020 1:16pm
+2285,Shore House,General Coordinates Used,Batville Road (Nassau Country Rt. 9),"40.725099,-73.245395 ",,Bayshore,NY,,Bars/Clubs,1973,checked,,Long Island,3/19/2020 2:37pm,3/22/2020 9:32pm
+3057,Shore House ,General Coordinates Used,on Ludlim Av,"40.904466,-73.54929",,Bayville,NY,,Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/10/2020 6:22pm
+2671,Shore House ,General Coordinates Used,(Bayville Rd.) Nassau County Rt. 9,"40.904466,-73.54929",,Bayville,NY,,Bars/Clubs,1971,checked,,Long Island,3/30/2020 2:45pm,3/30/2020 3:06pm
+409,Shore House ,General Coordinates Used,Bayville Bridge,"40.904466,-73.54929",,Bayville,NY,,Bars/Clubs,1979,checked,checked,Long Island,2/18/2020 11:39am,2/29/2020 3:26pm
+2444,Sixity-O-Five Club,Found,,"40.712854,-73.904878",Metropolitan & Elliott,Ridgewood,NY,,Bars/Clubs,1973,checked,,(Queens),3/23/2020 12:33pm,7/20/2020 8:50am
+303,Small park on Queens Blvd.,Found,betw. Yellowstone Blvd. & 70th Ave.,"40.722444,-73.84744",,Queens,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/27/2020 12:10am
+2101,Soho Strawberry,Found,Bleecker & Broadway,"40.726542,-73.995855 ",,Greenwich Village,NY,(G),Bars/Clubs,1974,checked,,,3/17/2020 3:28pm,3/18/2020 8:31pm
+456,Someplace Else,Found,100 block of State St.,"42.093975,-76.806399 ",,Elmira,NY,(M),Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:00pm
+3236,Soribaya,General Coordinates Used,74th St Bet Park Av & Lexington Av,"40.772049,-73.962213",,Manhattan,NY,(M),Bars/Clubs,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:29pm
+1753,Sportsman's Pub,General Coordinates Used,"(weekends only) about 2 mi. S. on Falls Blvd., off Rt. 5","43.045067,-75.86658 ",,Chittenango,NY,"(G),(YC),(D),(*),(WE)",Bars/Clubs,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+1522,Sportsman's Pub,General Coordinates Used,"(WE*) About 2 mi. S. on Falls Blvd., off Rt. 5","43.045067,-75.86658 ",,Chittenango,NY,"(YC),(G),(D),(WE),(*)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:12pm
+1172,Sportsman's Pub,General Coordinates Used,"(WE only)* About 2 miles south on Falls Blvd., off of Route 5","43.045067,-75.86658 ",,Chittenango,NY,"(YC),(D),(G),(WE),(*)",Bars/Clubs,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:37pm
+845,Sportsman's Pub,General Coordinates Used,(WE- only*) About 2 mi. So. on Falls Blvd. off Rte. 5,"43.045067,-75.86658 ",,Chittenango,NY,"(YC),(G),(D),(WE),(*)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 7:50pm
+557,St. Marks Baths,Found,(see New St. Marks Baths),"40.72909,-73.989568",,Greenwich Village,NY,,Baths,1979,checked,,,2/29/2020 3:24pm,2/29/2020 9:20pm
+158,St. Marks Baths,Found,(See New St. Marks Baths),"40.72909,-73.989568",,Greenwich Village,NY,,Baths,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:00am
+47,St. U. of N.Y. ,Found,at Buffalo- Norton Union,"43.000809,-78.78897",,Buffalo,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:05am
+842,St. U. of N.Y. ar Buffalo,Found,Norton Union,"43.000809,-78.78897",,Buffalo,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 7:47pm
+1519,St. U. of N.Y. at Buffalo,Found,Norton Union,"43.000809,-78.78897",,Buffalo,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:11pm
+449,St. U. of N.Y. at Buffalo,Found,Norton Union,"43.000809,-78.78897",,Buffalo,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:56pm
+1750,St. Univ. of N.Y. at Buffalo,Found,Norton Union,"43.000809,-78.78897",,Buffalo,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+2777,Stage Forty-Five,General Coordinates Used,(see Club Forty-Five),"40.75126,-73.96968 ",,Manhattan,NY,,Bars/Clubs,1971,checked,,,3/30/2020 4:04pm,3/30/2020 4:05pm
+1168,State University of New York at Buffalo,Found,Norton Union,"43.000809,-78.78897",,Buffalo,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:34pm
+3113,Stone Wall,Found,7th Av at Christopher,"40.733644,-74.002801",,New York City,NY,"(P),(D),(*)",Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/13/2020 2:15pm
+3001,Stone Wall,Found,Christopher at 7th Ave,"40.733644,-74.002801",,Greenwich Village,NY,"(YC),(D),(*)",Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,3/30/2020 7:12pm
+2876,Stone Wall,Found,Christopher at 7th Ave.,"40.733644,-74.002801",,Greenwich Village,NY,"(YC),(D),(*)",Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:03pm
+407,Stop Over Deer Park ,General Coordinates Used,at Railroad,"40.695655,-73.325675",,Babylon,NY,,Cruising Areas,1979,checked,checked,Long Island,2/18/2020 11:39am,2/29/2020 3:24pm
+1609,Strap,Found,18th St. at 10th Ave.,"40.744654,-74.006393",,Greenwich Village,NY,(SM),Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:41pm
+1273,Strap,Found,"(""wild back room"") 18th Street at 10th Avenue","40.744654,-74.006393",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:35pm
+929,Strap,Found,('Wild back room') 18th St. at 10th Ave.,"40.744654,-74.006393",,Greenwich Village,NY,(SM),Bars/Clubs,1978,checked,,,3/2/2020 9:21pm,3/2/2020 9:46pm
+3002,Stud,Found,Greenwich St at Perry,"40.735027,-74.006984",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,3/30/2020 7:12pm
+2877,Stud,Found,Greenwich St. at Perry,"40.735027,-74.006984",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:04pm
+2729,Stud International,Found,Greenwich St. at Perry,"40.735027,-74.006984",,Greenwich Village,NY,(*),Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:42pm
+2563,Stud International,Found,Greenwich St. at Perry,"40.735027,-74.006984",,Greenwich Village,NY,(*),Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/26/2020 8:18pm
+2359,Stud International,Found,"(No booze, juice bar, 'wild back room'*) Greenwich * Perry","40.735027,-74.006984",,Greenwich Village,NY,(*),Bars/Clubs,1973,checked,,,3/22/2020 9:55pm,3/22/2020 10:09pm
+2564,Studio Book Shop,Found,Christopher St. at Hudson,"40.733147,-74.006207 ",,Greenwich Village,NY,,Book Store,1972,checked,,,3/24/2020 4:45pm,3/26/2020 8:19pm
+2878,Studio Book Store,Found,Christopher at Hudson,"40.733147,-74.006207 ",,Greenwich Village,NY,,Book Store,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:04pm
+2730,Studio Book Store,Found,Christopher St. at Hudson,"40.733147,-74.006207 ",,Greenwich Village,NY,,Book Store,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:42pm
+997,Subway Stations,General Coordinates Used,,"40.768687,-73.958443",,Midtown,NY,"(AYOR),Cruisy Area",Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:36pm
+638,Subway Stations,General Coordinates Used,,"40.768687,-73.958443",,Midtown,NY,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,,2/29/2020 10:19pm,2/29/2020 10:26pm
+233,Subway Stations,General Coordinates Used,,"40.768687,-73.958443",,Midtown,NY,"(AYOR),Cruisy Area",Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 10:26pm
+372,Syracuse U.,Found,Maxwell Hall- downstairs T-Room,"43.038403,-76.136253 ",,Syracuse,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:39am,7/20/2020 9:25am
+772,Syracuse Univ.,Found,Maxwell Hall- Downstairs T-Room,"43.038403,-76.136253 ",,Syracuse,NY,Cruisy Area,Cruising Areas,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:28pm
+3037,Taft Hotel Bar,Found,7th Ave at 50th St.,"40.761094,-73.983263",,Manhattan,NY,(M),"Hotels,Bars/Clubs",1969,checked,,,3/30/2020 4:57pm,4/10/2020 5:45pm
+2923,Taft Hotel Bar,Found,7th Ave. at 50th St.,"40.761094,-73.983263",,Manhattan,NY,(M),"Bars/Clubs,Hotels",1970,checked,,,3/30/2020 4:56pm,7/20/2020 9:19am
+2779,Taft Hotel Bar,Found,7th Ave. at 50th St.,"40.761094,-73.983263",,Manhattan,NY,(M),"Bars/Clubs,Hotels",1971,checked,,,3/30/2020 4:04pm,7/20/2020 9:19am
+2619,Taft Hotel Bar,Found,7th Ave. at 50th St.,"40.761094,-73.983263",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1972,checked,,,3/24/2020 4:45pm,7/20/2020 9:19am
+2414,Taft Hotel Bar,Found,7th Ave. at 50th St.,"40.761094,-73.983263",,Manhattan,NY,"(M),(PE)","Bars/Clubs,Hotels",1973,checked,,,3/22/2020 9:55pm,7/20/2020 9:19am
+779,Tallulah's,General Coordinates Used,(May or may not re-open Summer '78) Sag Harbor Tpke.,"40.937878,-72.300916",,Bridgehampton,NY,(G),Bars/Clubs,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:36pm
+1188,Ten Broeck HIll Guest House,General Coordinates Used,RD Number 2,"42.329253,-73.615673 ",,Ghent,NY,(H),Hotels,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:45pm
+1536,Tenbroek Hill Guest House,General Coordinates Used,R.D. No. 2,"42.329253,-73.615673 ",,Ghent,NY,(H),Hotels,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:21pm
+1087,The Alpine,General Coordinates Used,(Resort- bar) Off Rte. 32,"41.844313,-74.081067 ",,Rosendale,NY,,Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:14pm
+1202,The Continental,General Coordinates Used,(Resort) (Disco) (914) 782-8817 - N.Y. Thruway Exit 16,"41.330649,-74.186813",,Monroe,NY,"(H),(D)",Hotels,1977,checked,,,3/5/2020 11:08pm,3/9/2020 12:07am
+439,The Deli,Found,Allen at Elmwood,"42.899457,-78.877111",,Buffalo,NY,"(M),(R)",Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:49pm
+1424,The Godfather,General Coordinates Used,"(Resort- swim pool) P.O. Box H 1, Pine Hill, N.Y. (914) 254-9822","42.133145,-74.480152 ",,Pine HIll,NY,(H),Hotels,1977,checked,,Ulster County,3/9/2020 7:57pm,3/9/2020 11:33pm
+1171,The Lindenmore,Found,(Disco) Sedgemere Road," 40.786622,-72.79424 ",,Center Moriches,NY,"(H),(R),(D)","Hotels,Restaurant,Bars/Clubs",1977,checked,,Long Island,3/5/2020 11:08pm,3/8/2020 11:36pm
+3141,The Place,General Coordinates Used,W Congress (Rt 9),"41.150651,-73.945416",,Congers,NY,,Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:36pm
+3069,The Place,General Coordinates Used,W Congress (Route 9),"42.921314,-78.891456 ",,Buffalo,NY,,Bars/Clubs,1968,checked,,,4/10/2020 6:01pm,4/10/2020 6:31pm
+2830,The Place,General Coordinates Used,W. Congress (Rt. 9),"41.150651,-73.945416",,Congers,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:38pm
+2451,The Place,General Coordinates Used,Route 9 W," 41.090652,-73.917915 ",,Nyack,NY,"(G),(*)",Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:45pm
+2958,The Place ,General Coordinates Used,W Congress Rt 9,"42.921314,-78.891456 ",,Buffalo,NY,,Bars/Clubs,1969,checked,,,3/30/2020 4:57pm,3/30/2020 5:48pm
+2207,Third Ave,General Coordinates Used,from 53rd to 70th Sts.,"40.762177,-73.966123 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 6:00pm
+2632,Third Ave.,General Coordinates Used,from 53rd to 70th Sts.,"40.762177,-73.966123 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:45pm
+1928,Third Ave.,General Coordinates Used,from 53rd to 70th Sts.,"40.762177,-73.966123 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:16pm
+1395,Third Ave.,General Coordinates Used,from 53rd to 70 Sts.,"40.762177,-73.966123",,Uptown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/9/2020 11:11pm
+1032,Third Ave.,General Coordinates Used,from 53rd to 70th Sts.,"40.762177,-73.966123",,Uptown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 10:44pm,3/3/2020 1:27pm
+681,Third Ave.,General Coordinates Used,from 53rd to 70th Sts.,"40.762177,-73.966123",,Uptown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,3/1/2020 3:29pm
+272,Third Ave.,General Coordinates Used,from 53rd to 70th Sts.,"40.762177,-73.966123",,Uptown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/26/2020 11:44pm
+2445,Three Jolly Pigeons,Found,,"40.73821,-73.928235 ",38th St. & Greenpoint,Sunnyside,NY,,Bars/Clubs,1973,checked,,(Queens),3/23/2020 12:33pm,7/20/2020 8:50am
+2223,Three Jolly Pigeons,Found,,"40.73821,-73.928235 ",38th & Greenpoint,Sunnyside,NY,,Bars/Clubs,1974,checked,,(Queens),3/19/2020 2:37pm,7/20/2020 8:50am
+2433,Thrid Ave.,General Coordinates Used,from 53rd to 70th Sts.,"40.762177,-73.966123 ",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:37pm
+3205,Tiffany Room,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1965,checked,,,4/13/2020 2:33pm,4/13/2020 3:13pm
+3147,Tiffany Room,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:37pm
+3075,Tiffany Room,General Coordinates Used,Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,,Bars/Clubs,1968,checked,,Long Island,4/10/2020 6:01pm,4/10/2020 6:33pm
+468,Tiger Lily,General Coordinates Used,(Snacks) Cherry Grove,"40.659053,-73.089293",,Fire Island,NY,(R),Restaurant,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:07pm
+1478,Timbers,General Coordinates Used,Peach St. Rd. at Five Corners,"44.012564,-75.794367 ",,Black River,NY,"(M),(S)",Bars/Clubs,1977,checked,,,3/9/2020 7:57pm,3/10/2020 12:02am
+788,Timbers,General Coordinates Used,Peach St. Rd. at Five Corners,"44.012564,-75.794367 ",,Black River,NY,"(M),(S)",Bars/Clubs,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:43pm
+388,Timbers,General Coordinates Used,Peach St.  Rd. at Five Corners,"44.012564,-75.794367 ",,Black River,NY,"(M),(S)",Bars/Clubs,1980,checked,,,2/18/2020 11:39am,2/29/2020 3:05pm
+1121,Timbers ,General Coordinates Used,Peach St. Rd. at Five Corners,"44.012564,-75.794367 ",,Black River,NY,"(M),(S)",Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:54pm
+2208,Time Square,Found,'Midnight Cowboys'," 40.757975,-73.985543",,Manhattan,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/19/2020 2:37pm,3/21/2020 6:01pm
+2633,Times Sq.,Found,at 42nd St.," 40.757975,-73.985543",,Manhattan,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:45pm
+1929,Times Square,Found,'Midnight Cowboys'," 40.757975,-73.985543",,Manhattan,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/17/2020 3:16pm
+639,Times Square,Found,('Hustlers'),"40.757975,-73.985543",,Midtown,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 10:19pm,2/29/2020 10:26pm
+234,Times Square,Found,('Hustlers'),"40.757975,-73.985543",,Midtown,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 10:26pm
+998,Times Square 'Hustlers',Found,,"40.757975,-73.985543",,Midtown,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/3/2020 8:30am
+1355,"Times Square ""Hustlers""",Found,,"40.757975,-73.985543",,Midtown,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 10:28pm
+2434,Times Squares 'hustlers',Found,," 40.757975,-73.985543",,Manhattan,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:37pm
+2486,Towne House,Found,(weekends only) across from Woodstock Playhouse,"42.038726,-74.111799",,Woodstock,NY,,Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:59pm
+2272,Towne House,Found,(weekends only) across from Woodstock Playhouse,"42.038726,-74.111799",,Woodstock,NY,,Bars/Clubs,1974,checked,,,3/19/2020 2:37pm,3/22/2020 9:25pm
+802,Trailways & Greyhound Bus Deopts,Found,,"42.689539,-73.820348",,Albany,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:17pm
+1138,Trailways & Greyhound Bus Depots,Found,,"42.689539,-73.820348",,Albany,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:07pm
+405,Trailways & Greyhound Bus Depots,Found,,"42.689539,-73.820348",,Albany,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/18/2020 11:39am,2/29/2020 3:23pm
+12,Trailways & Greyhound Bus Depots,Found,,"42.689539,-73.820348",,Albany,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/18/2020 12:05pm
+2736,Triangle,Found,(below the Barn) 13th St. at 9th Ave.,"40.740264,-74.005866",,Greenwich Village,NY,,Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:45pm
+1832,Trude Heller's,Found,(Disco) 9th St. at 6th Ave.,"40.734149,-73.999178",,Greenwich Village,NY,"(E),(D)",Bars/Clubs,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:41pm
+1612,Trude Heller's,Found,(Disco) 9th St at 6th Ave.,"40.734149,-73.999178",,Greenwich Village,NY,"(E),(D),(*)",Bars/Clubs,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:42pm
+1277,Trude Heller's,Found,(Disco) (Admission) 9th St. at 6th Avenue,"40.734149,-73.999178",,Greenwich Village,NY,"(M),(D),(*)",Bars/Clubs,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:37pm
+2883,Twin Brothers ,Found,(after hours) 6th Ave. at Waverly Pl.,"40.732934,-74.000083 ",,Greenwich Village,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:56pm,3/30/2020 5:07pm
+2105,Ty's,Found,Christopher & Bedford,"40.733136,-74.005884",,Greenwich Village,NY,(SM),Bars/Clubs,1974,checked,,,3/17/2020 3:28pm,3/18/2020 8:33pm
+1281,Uncle Paul's,General Coordinates Used,on Christopher Street,"40.733373,-74.004392",,Greenwich Village,NY,,Bars/Clubs,1977,checked,checked,,3/9/2020 7:56pm,3/9/2020 9:39pm
+1835,Underground,Found,('Wild back room'- No booze W-TH-F-Sat only)(downstairs) 14th St. & 9th Ave.,"40.740849,-74.005135",,Greenwich Village,NY,,Bars/Clubs,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:45pm
+938,Underground,Found,(An Erotic Emporium) Dock Strip,"40.740849,-74.005135",,Greenwich Village,NY,,Business,1978,checked,checked,,3/2/2020 9:21pm,3/2/2020 9:56pm
+2571,Upstairs at the Duplex,Found,Grove St. at Sheridan Sq.," 40.733365,-74.002579",,Greenwich Village,NY,,Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:05am
+872,Upstairs/Downstairs,General Coordinates Used,"(Disco) (2 floors) (WE only*) Rte. 9, 4 mi. No. of Latham Center nr. Cresent"," 42.747766,-73.760537",,Latham,NY,"(YC),(D),(WE),(*)",Bars/Clubs,1978,checked,,,3/1/2020 4:23pm,3/2/2020 8:17pm
+485,Upstairs/Downstairs,General Coordinates Used,"(Disco) (2 floors) (WE only) Rte. 9, 4 mi. N. of Latham Center nr. Cresent"," 42.747766,-73.760537",,Latham,NY,"(YC),(D),(WE)",Bars/Clubs,1979,checked,,,2/29/2020 3:24pm,2/29/2020 6:19pm
+1712,Valley View Park,Found,off Utica Parkway,"43.079811,-75.234715",,Utica,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/16/2020 7:41pm
+1475,Valley View Park,Found,off Utica Parkway,"43.079811,-75.234715",,Utica,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:57pm,3/10/2020 12:00am
+1118,Valley View Park,Found,off Utica Parkway,"43.079811,-75.234715",,Utica,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:44pm
+785,Valley View Park,Found,off Utica Parkway,"43.079811,-75.234715",,Utica,NY,Cruisy Area,Cruising Areas,1979,checked,,,3/1/2020 4:22pm,3/1/2020 6:41pm
+385,Valley View Park,Found,off Utica Parkway,"43.079811,-75.234715",,Utica,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:39am,2/29/2020 3:03pm
+2623,Victor's Quarters,Found,52nd St. at 2nd Ave.,"40.756149,-73.96761",,Manhattan,NY,,Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:41pm
+838,Village Cinema,Found,"Central Park Plaza, nr. Amherst & Hill","42.939852,-78.831793",,Buffalo,NY,(M),Theatre,1978,checked,,,3/1/2020 4:23pm,3/2/2020 12:27pm
+442,Village Cinema,Found,Central Park Plaza nr. Amherst & Hill,"42.939852,-78.831793",,Buffalo,NY,(M),Theatre,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:52pm
+169,Village Garden,Found,(Japanese R) Charles & W. 4th St.,"40.734895,-74.003163 ",,Greenwich Village,NY,"(M),(R)",Restaurant,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:11am
+2109,Volcano,General Coordinates Used,2nd Ave. betw. 11th & 12th,"40.730643,-73.985938",,Greenwich Village,NY,"(B),(D)",Bars/Clubs,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:33pm
+2624,Wagon Wheel,Found,,"40.756991,-73.983244 ",114 W. 45th St.,Manhattan,NY,"(M),(R)",Restaurant,1972,checked,,,3/24/2020 4:45pm,3/30/2020 2:41pm
+2280,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/19/2020 2:37pm,3/22/2020 9:29pm
+2011,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:27pm,7/20/2020 9:25am
+1728,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:37pm
+1492,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/9/2020 7:57pm,3/10/2020 12:17am
+1139,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:08pm
+803,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/1/2020 10:17pm
+406,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/18/2020 11:39am,2/29/2020 3:23pm
+13,Washington Park,Found,,"42.658355,-73.772791",,Albany,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/18/2020 12:06pm
+2579,Washington Sq. Park,Found,,"40.730823,-73.997332",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:09am
+3180,Washington Square,Found,(after hours) Broadway at 3rd,"40.727825,-73.994767 ",,Manhattan,NY,"(C),(D)",Bars/Clubs,1966,checked,,,4/13/2020 2:33pm,4/13/2020 2:56pm
+2368,Washington Square Park,Found,,"40.730823,-73.997332",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/22/2020 9:55pm,3/23/2020 11:59am
+750,Washington Square Park,Found,Court at Clinton,"43.15345,-77.605307 ",,Rochester,NY,"Cruisy Area,(HOT),(AYOR)",Cruising Areas,1979,checked,,,3/1/2020 4:22pm,7/20/2020 9:06am
+341,Washington Square Park,Found,Court at Clinton,"43.15345,-77.605307 ",,Rochester,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,At the end of Rochester's cruisy area is noted: all should be visited strickly AYOR,2/18/2020 11:39am,7/20/2020 9:07am
+2029,Washington St.,Found,,"42.888477,-78.872386 ",,Buffalo,NY,"(RT),Cruisy Area",Cruising Areas,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:21pm
+2116,Washington St.,Found,'trucks',"40.732568,-74.008686 ",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:37pm
+1751,Washington St.,Found,,"42.888477,-78.872386 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+1520,Washington St.,Found,,"42.888477,-78.872386 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:11pm
+843,Washington St.,Found,,"42.888477,-78.872386 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 7:48pm
+450,Washington St.,Found,,"42.888477,-78.872386 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:57pm
+48,Washington St.,Found,,"42.888477,-78.872386 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:05am
+1169,Washington Street,Found,,"42.888477,-78.872386 ",,Buffalo,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:35pm
+2117,Weehawken St.,Found,by foot or car,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:37pm
+1844,Weehawken St.,Found,by foot or car,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:50pm
+1623,Weehawken St.,Found,by foot or car,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:47pm
+946,Weehawken St.,Found,by foot or car,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:01pm
+574,Weehawken St.,Found,by foot or car,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:33pm
+176,Weehawken St.,Found,by foot or car,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:15am
+1292,Weehawken Street,Found,by foot or car,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:46pm
+2580,West St.,Found,,"40.733208,-74.009812",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:09am
+2369,West St.,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/22/2020 9:55pm,3/23/2020 11:59am
+2118,West St.,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:28pm,3/19/2020 2:37pm
+1845,West St.,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:51pm
+1624,West St.,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 1:47pm
+575,West St.,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:25pm,2/29/2020 9:33pm
+177,West St.,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:38am,2/25/2020 12:15am
+1293,West Street,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/9/2020 7:56pm,3/9/2020 9:46pm
+947,West Street,Found,,"40.723629,-74.011577",,Greenwich Village,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/2/2020 9:21pm,3/2/2020 10:01pm
+2828,Western Village,Found,Niagara Street,"42.89126,-78.883016",,Buffalo,NY,,Bars/Clubs,1970,checked,,,3/30/2020 4:04pm,3/30/2020 4:35pm
+2506,Woodlawn Beach,Found,,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1972,checked,,,3/23/2020 12:33pm,3/23/2020 1:17pm
+2294,Woodlawn Beach,Found,,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1973,checked,,,3/19/2020 2:37pm,3/22/2020 9:35pm
+2030,Woodlawn Beach,Found,,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1974,checked,,,3/17/2020 3:27pm,3/17/2020 7:21pm
+1752,Woodlawn Beach,Found,,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1975,checked,,,3/10/2020 11:56am,3/16/2020 8:38pm
+1521,Woodlawn Beach,Found,,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1976,checked,,,3/10/2020 11:55am,3/10/2020 12:11pm
+1170,Woodlawn Beach,Found,Lake Shore Road,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1977,checked,,,3/5/2020 11:08pm,3/8/2020 11:35pm
+844,Woodlawn Beach,Found,Lakeshore Rd.,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1978,checked,,,3/1/2020 4:23pm,3/2/2020 7:48pm
+451,Woodlawn Beach,Found,Lakeshore Rd.,"42.789146,-78.851962",,Buffalo,NY,Cruisy Area,Cruising Areas,1979,checked,,,2/29/2020 3:24pm,2/29/2020 5:57pm
+49,Woodlawn Beach,Found,Lakeshore Rd.,"42.789146,-78.851962",,Buffalo,NY,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/22/2020 11:05am
+1839,Woodshed,Found,Bank & Washington Sts.,"40.736197,-74.008326",,Greenwich Village,NY,(M),Bars/Clubs,1975,checked,,,3/16/2020 8:39pm,3/16/2020 9:47pm
+815,Y.M.C.A,Found,,"42.095734,-75.910848",,Binghamton,NY,Cruisy Area,"Cruising Areas,Organizations",1978,checked,,,3/1/2020 4:23pm,7/20/2020 9:22am
+1153,Y.M.C.A.,Found,,"42.095734,-75.910848",,Binghamton,NY,Cruisy Area,"Cruising Areas,Organizations",1977,checked,,,3/5/2020 11:08pm,3/6/2020 3:22pm
+420,Y.M.C.A.,Found,,"42.095734,-75.910848",,Binghamton,NY,Cruisy Area,"Cruising Areas,Organizations",1979,checked,,,2/29/2020 3:24pm,2/29/2020 3:33pm
+21,Y.M.C.A.,Found,,"42.095734,-75.910848",,Binghamton,NY,Cruisy Area,Cruising Areas,1980,checked,,,2/18/2020 11:37am,2/21/2020 11:46am
+2452,Your Bar,General Coordinates Used,Route 9 W," 41.090652,-73.917915 ",,Nyack,NY,,Bars/Clubs,1973,checked,,,3/23/2020 12:33pm,3/23/2020 12:45pm
+1112,Zelda's,General Coordinates Used,(Disco) No. end of Ilium Apt. Complex (Use back door)," 42.728412,-73.691785 ",,Troy,NY,"(YC),(D),(*)",Bars/Clubs,1978,checked,,,3/5/2020 11:08pm,3/6/2020 2:35pm
+2739,Zodiac,Found,"(after hours) (2nd floor, above the Den) 12th St. at Washington","40.737557,-74.008213",,Greenwich Village,NY,"(SM),(*)",Bars/Clubs,1971,checked,,,3/30/2020 2:45pm,3/30/2020 3:47pm
+2574,Zodiac,Found,"(after hours, above the Den) Little 12th St. & Washington","40.737557,-74.008213",,Greenwich Village,NY,"(SM),(P),(*)",Bars/Clubs,1972,checked,,,3/24/2020 4:45pm,3/30/2020 12:07am
