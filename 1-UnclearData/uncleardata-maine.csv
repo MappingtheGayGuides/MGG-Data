@@ -1,4 +1,4 @@
-﻿ID,Title,Status,description,streetaddress,lat.lon,city,state,amenityfeatures,type,unclearaddress,uncleartype,Year,notes,dateadded,lastmodified
+﻿ID,Title,status,description,streetaddress,lat.lon,city,state,amenityfeatures,type,unclearaddress,uncleartype,Year,notes,dateadded,lastmodified
 101,'Rest Areas',General Coordinates Used,on I-95 at Sidney (southbound) & August (northbound) also wooded area in back ,,"44.310624,-69.77949",Augusta,ME,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 3:02pm,4/20/2020 3:08pm
 78,'Rest Stop',General Coordinates Used,on US 1 betw. Bath & Brunswick (southbound),,"43.914016,-69.966996",Brunswick,ME,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:51pm,4/20/2020 2:59pm
 2,'Rest Stop',General Coordinates Used,on I-95 at Sidney (Southbound) & August (Northbound) - also woods in back,,"44.310624,-69.77949",Augusta,ME,Cruisy Area,Cruising Areas,checked,,1980,,4/20/2020 1:12pm,4/20/2020 2:46pm

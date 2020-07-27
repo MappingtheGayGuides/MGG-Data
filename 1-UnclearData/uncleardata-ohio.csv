@@ -1,0 +1,478 @@
+﻿ID,Title,status,description,streetaddress,lat/lon,city,state,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,dateadded,lastmodified
+766,'Cruising the Levee',General City Coordinates Used,"Take Riverside or North Bend Blvd. to Helena, then to Kittering",," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+658,'Cruising the Levee',General City Coordinates Used,"take Riverside on North Bend Blvd. to Helena, then to Kettering",," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:19am,3/2/2020 2:13am
+551,'Cruising the Levee',General City Coordinates Used,"Take Riverside or North Bend Blvd. to Helena, then to Kettering",," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+409,'Cruising the Levee',General City Coordinates Used,"Take Riverside or North Bend Blvd. to Helena, then to Kettering",," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+256,'Cruising the Levee',General City Coordinates Used,Take Dixie Dr. or Riverside to Helena. The Levee overlooks Island Park,," 39.758948,-84.191607",Dayton,OH,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/13/2020 8:50pm
+99,'Cruising the Levee',General City Coordinates Used,Take Dixie Dr or Riverside to Helena. The Levee overlooks Island Park,," 39.758948,-84.191607",Dayton,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+670,'Rest Stop',Found,at I-71 & U.S. 30,,"40.779654,-82.419918",Mansfield,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:51am,3/2/2020 2:12am
+521,'Rest Stop',General City Coordinates Used,on I-90. 25 mi. E. of Cleveland,," 41.49932,-81.69436 ",Cleveland,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+322,'Rest Stop',General City Coordinates Used,on I-77 ('The Playhouse) 10 mi W,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+422,'Rest Stop',Found,at I-71 & US 30,,"40.779654,-82.419918",Mansfield,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+225,'Rest Stop',General City Coordinates Used,"on I-71, 20 mi, So.",," 41.49932,-81.69436 ",Cleveland,OH,"Cruisy Area,(WE),(*)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,2/27/2020 10:27pm
+267,'Rest Stop',Found,at I-71 & US 30,,"40.779654,-82.419918",Mansfield,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+172,'Rest Stop',General City Coordinates Used,"on Hwy. 77 N, Betw. Akron & Canton",,"40.798947,-81.378447",Canton,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,3/13/2020 8:49pm
+226,'Rest Stop',General City Coordinates Used,on I-90. 25 mi. E,," 41.49932,-81.69436 ",Cleveland,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 2:34pm,2/27/2020 10:27pm
+69,'Rest Stop',General City Coordinates Used,"on I-90, 25. E",," 41.49932,-81.69436 ",Cleveland,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+68,'Rest Stop',General City Coordinates Used,"on I-71, 20 mi, S",," 41.49932,-81.69436 ",Cleveland,OH,"Cruisy Area,(WE)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+14,'Rest Stop',General City Coordinates Used,on I-77 ('The Playhouse) 10 mi W,," 41.081445,-81.519005",Akron,OH,"(AH),Cruisy Area",Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:55am
+103,'Rest Stop',General City Coordinates Used,on I-70 & US 202,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+24,'Rest Stop',General City Coordinates Used,"on Hwy 77 N, Betw. Akron & Canton",,"40.798947,-81.378447",Canton,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,3/14/2020 10:22am
+112,'Rest Stop',Found,at I-71 & US 30,,"40.779654,-82.419918",Mansfield,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 8:49pm
+564,'Rest Stop' ,Found,at I-71 & U.S. 30,,"40.779654,-82.419918",Mansfield,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+331,'Rest Stop' ,General City Coordinates Used,on Hwy. 77 N. betw Akron & Canton,,"40.798947,-81.378447",Canton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+165,'Rest Stop' ,General City Coordinates Used,on I-77 ('The Playhouse') 10 mi W,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+141,'Rest Stop' ,General City Coordinates Used,on Rte. 3 s.,,"40.805057,-81.935143",Wooster,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+378,'Rest stop' ,General City Coordinates Used,"on I-90, 25 mi. E. of Cleveland",," 41.49932,-81.69436 ",Cleveland,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:27am,3/13/2020 9:29pm
+467,'Rest Stops' ,General City Coordinates Used,on I-77-about 10 mi. W (Known as the 'The Playhouse'),," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+476,'The Block',General City Coordinates Used,around Andre's Restaurant by foot or car,,"40.798947,-81.378447",Canton,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+329,'The Block',General City Coordinates Used,around Andre's Restaurant on N.W. Cleveland-by foot or car,,"40.798947,-81.378447",Canton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+175,'The Block',General City Coordinates Used,around Andre's Restaurant on N.W. Cleveland-by foot or car,,"40.798947,-81.378447",Canton,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 11:55am,3/13/2020 8:49pm
+25,'The Block',General City Coordinates Used,around Andre's Restaurant on N.W Cleveland-by foot or car,,"40.798947,-81.378447",Canton,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,3/14/2020 10:22am
+330,"""McKinley Tomb",Found,Memorial Park,,"40.791224,-81.288701",Canton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+191,4th & Main to 5th & Sycamore,Found,,,"39.101292,-84.508729",Cincinnati,OH,Cruisy Area,Cruising Areas,1979,checked,,Pin for middle of this block.,2/27/2020 11:55am,2/27/2020 10:27pm
+36,4th & Main to 5th & Sycamore,Found,,,"39.101292,-84.508729",Cincinnati,OH,Cruisy Area,Cruising Areas,1980,checked,,Pin for middle of this block.,2/20/2020 11:44pm,2/27/2020 2:10am
+475,304 Club,Found,N.E.,300-04 Cherry Ave ,"40.799137,-81.370635",Canton,OH,"(D),(PT),(*)",Bars/Clubs,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+478,Adam's Rib,Found,(Many G),217 Calhoun St.,"39.128031,-84.515515",Cincinnati,OH,"(G),(D),(*)",Bars/Clubs,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+72,Adult Book & Movies,General City Coordinates Used,,High & Towne," 39.961176,-82.998794 ",Columbus,OH,,Book Store,1980,checked,,,2/20/2020 11:44pm,3/13/2020 8:48pm
+62,Adult Books,General City Coordinates Used,(back room) Brookpark Rd.,," 41.49932,-81.69436 ",Cleveland,OH,Cruisy Area,"Book Store,Cruising Areas",1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+98,Adult Books,Found,(Cruisy Arcade) 5th & Ludlow known locally as 'filth '& Ludlow),,"39.75646,-84.192832 ",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1980,checked,,,2/20/2020 11:44pm,3/10/2020 10:46am
+640,Adult Books & Movies,General City Coordinates Used,,High & Towne," 39.961176,-82.998794 ",Columbus,OH,,"Business,Book Store",1976,checked,,,3/2/2020 1:14am,3/13/2020 9:41pm
+381,Adult Books & Movies,General City Coordinates Used,,High & Towne," 39.961176,-82.998794 ",Columbus,OH,,Book Store,1978,checked,,,2/28/2020 1:27am,3/13/2020 9:29pm
+229,Adult Books & Movies,General City Coordinates Used,,High & Towne," 39.961176,-82.998794 ",Columbus,OH,,Book Store,1979,checked,,,2/27/2020 2:34pm,2/27/2020 10:27pm
+524,Adult's Books & Movies,General City Coordinates Used,,High & Towne," 39.961176,-82.998794 ",Columbus,OH,,Book Store,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+353,After Midnight,Found,(Disco)(Juice bar) (WE only-midnight to 5 a.m.),Huron & E. 4th,"41.497143,-81.689202",Cleveland,OH,"(D),(WE)",Bars/Clubs,1978,checked,,,2/28/2020 12:52am,2/28/2020 2:31am
+196,After Midnight,Found,(Juice now-may be adding liquor) (Disco) (Fri. & Sat. only from midnight,Huron &  E. 4th,"41.497143,-81.689202",Cleveland,OH,"(YC),(D)",Bars/Clubs,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+1322,American Club,General City Coordinates Used,,US Hwy 422 bet Girard & Youngstown,"41.09978,-80.649519",Youngstown,OH,,Bars/Clubs,1965,checked,,,3/11/2020 1:18am,3/13/2020 10:18pm
+1288,American Club,General City Coordinates Used,,US Hwy 422 bet Girard & Youngstown,"41.09978,-80.649519",Youngstown,OH,,Bars/Clubs,1966,checked,,,3/11/2020 1:18am,3/13/2020 8:41pm
+1257,American Club,General City Coordinates Used,,US Hwy 422 bet Girard & Youngstown,"41.09978,-80.649519",Youngstown,OH,,Bars/Clubs,1968,checked,,,3/11/2020 1:18am,3/13/2020 7:55pm
+1225,American Club,General City Coordinates Used,(bet. Girard & Youngstown),U.S. 422,"41.09978,-80.649519",Youngstown,OH,,Bars/Clubs,1969,checked,,,3/11/2020 12:06am,3/11/2020 1:17am
+1181,American Club,General City Coordinates Used,(bet. Girard & Youngstown),U.S. 422,"41.09978,-80.649519",Youngstown,OH,,Bars/Clubs,1970,checked,,,3/11/2020 12:06am,3/11/2020 1:17am
+1137,American Club,General City Coordinates Used,,U.S. 422 (Between Girard & Youngstown),"41.09978,-80.649519",Youngstown,OH,,Bars/Clubs,1971,checked,,,3/10/2020 10:38pm,3/13/2020 8:59pm
+1,American Disco,Found,(Some L) (Disco) (2 bars) (Opens 9pm),417 Kenmore at Lakeshore," 41.049912,-81.541485",Akron,OH,"(*),(HIP),(YC),(L),(D)",Bars/Clubs,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:54am
+471,Andre's,General City Coordinates Used,,N.W. Cleveland,"40.798947,-81.378447",Canton,OH,"(M),(R),(C),(AH)",Restaurant,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+1123,Aquarius,Found,,500 block of N. High St.,"39.972151,-83.001052",Columbus,OH,,Bars/Clubs,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+22,Arboretum Park,Found,,,"40.839381,-81.402827",Canton,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,3/14/2020 10:22am
+866,Bachelors I,General City Coordinates Used,,W. Union St.,"39.32924,-82.101255 ",Athens,OH,"(M),(YC),(*)",Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+796,Bachelors I,General City Coordinates Used,,W. Union St.,"39.32924,-82.101255 ",Athens,OH,"(M),(YC),(*)",Bars/Clubs,1974,checked,,,3/2/2020 3:46am,3/2/2020 7:16pm
+559,Baker's,Found,,24 Public Square,"40.739535,-84.103919",Lima,OH,"(D),(*)",Bars/Clubs,1977,checked,,,2/29/2020 6:44pm,3/13/2020 8:55pm
+107,Baker's,Found,(Must be poor as they haven't paid me for their '78 books 2-10-79),24 Public Square,"40.739535,-84.103919",Lima,OH,(D),Bars/Clubs,1980,checked,,,2/20/2020 11:44pm,3/13/2020 8:48pm
+416,Baker's ,Found,,24 Public Square,"40.739535,-84.103919",Lima,OH,"(D),(*)",Bars/Clubs,1978,checked,,,2/28/2020 1:49am,3/13/2020 8:53pm
+463,Belden Village Mall,Found,,,"40.856962,-81.427799",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+315,Belden Village Mall,Found,,,"40.856962,-81.427799",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,3/13/2020 8:53pm
+158,Belden Village Mall,Found,,,"40.856962,-81.427799",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+7,Belden Village Mall,Found,,,"40.856962,-81.427799",Akron,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:55am
+582,Betsy Ross Motel,General City Coordinates Used,,Near the Outpost on Rte 5.,"41.237557,-80.818417",Warren,OH,"(M),(H)",Hotels,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+446,Betsy Ross Motel,General City Coordinates Used,,nr. Outpost on Rte 5.,"41.237557,-80.818417",Warren,OH,"(M),(H)",Hotels,1978,checked,,,2/28/2020 1:50am,2/28/2020 2:31am
+693,Biff's,General City Coordinates Used,,E. Market St.," 41.081445,-81.519005",Akron,OH,"(M),(R),(C),(AH)",Restaurant,1975,checked,,,3/2/2020 2:09am,3/2/2020 3:51am
+591,Biff's,General City Coordinates Used,,E. Market St.," 41.081445,-81.519005",Akron,OH,"(M),(R),(C),(AH)",Restaurant,1976,checked,,,2/29/2020 6:44pm,3/2/2020 2:13am
+316,Big Apple Disco,General City Coordinates Used,(Very M),," 41.081445,-81.519005",Akron,OH,"Cruisy Area,(M)",Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+159,Big Apple Disco,General City Coordinates Used,(Very M),," 41.081445,-81.519005",Akron,OH,"Cruisy Area,(M)",Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+8,Big Apple Disco,General City Coordinates Used,(Very M),," 41.081445,-81.519005",Akron,OH,"(M),Cruisy Area",Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:55am
+197,Bill Jones Leather Shop,Found,(Lakewood),1862 Coventry,"41.224837,-81.821004",Lakewood,OH,,Business,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+197 copy,Bill Jones Leather Shop,Found,(Lakewood),15510 Detroit Ave,"41.485374,-81.80541",Lakewood,OH,,Business,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+41,Bill Jones Leather Shops,Found,(Lakewood),1862 Coventry,"41.224837,-81.821004",Lakewood,OH,,Business,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+41 copy,Bill Jones Leather Shops,Found,(Lakewood),15510 Detroit Ave,"41.485374,-81.80541",Lakewood,OH,,Business,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+612,Block around Greyhound & Trailway bus Depots,General City Coordinates Used,,,"39.103118,-84.51202",Cincinnati,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 12:58am,3/2/2020 2:13am
+487,Block around Greyhound & Trailways Bus Depots,General City Coordinates Used,,,"39.103118,-84.51202",Cincinnati,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+343,Block around Greyhound & Trailways Bus Depots,General City Coordinates Used,,,"39.103118,-84.51202",Cincinnati,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+541,Burger Chef,General City Coordinates Used,Downtown Plaza,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Restaurant",1977,checked,,,2/29/2020 6:44pm,3/13/2020 9:37pm
+400,Burger Chef,General City Coordinates Used,,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Restaurant",1978,checked,,,2/28/2020 1:33am,3/13/2020 9:30pm
+88,Burger Chef,General City Coordinates Used,Downtown Plaza,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+246,Burger Cheg,General City Coordinates Used,Downtown Plaza,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Restaurant",1979,checked,,,2/27/2020 2:34pm,3/13/2020 9:22pm
+1044,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+879,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+809,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+758,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:04am,3/2/2020 3:51am
+613,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 12:58am,3/2/2020 2:13am
+488,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+344,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+187,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+32,Burnet Woods,Found,,,"39.1394,-84.517631",Cincinnati,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+16,Bus Station ,General City Coordinates Used,,,"39.32924,-82.101255 ",Athens,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/25/2020 10:45pm
+456,Central Square,General City Coordinates Used,downtown,,"41.09978,-80.649519",Youngstown,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:50am,2/28/2020 2:31am
+305,Central Square,General City Coordinates Used,downtown,,"41.09978,-80.649519",Youngstown,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 10:15pm,2/27/2020 10:27pm
+148,Central Square,General City Coordinates Used,downtown,,"41.09978,-80.649519",Youngstown,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+260,Chez Jay,Found,(Many G) Inquire Locally,,"39.399501,-84.561335",Hamilton,OH,(G),Bars/Clubs,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+415,Chez Jay's,Found,(Many G) Inquire Locally,,"39.399501,-84.561335",Hamilton,OH,"(G),(*)",Bars/Clubs,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+1219,Club Steam Baths,Found,,Milner Hotel Jefferson St.,"41.652406,-83.540826",Toledo,OH,,"Baths,Hotels",1969,checked,,See https://www.toledohistorybox.com/2011/02/23/earle-hotel-fire/ for history of hotel.,3/11/2020 12:06am,3/11/2020 1:16am
+1048,Commodore Hotel Lounge,General City Coordinates Used,(bar only),Euclid at E. 107th St.," 41.49932,-81.69436 ",Cleveland,OH,(M),"Bars/Clubs,Hotels",1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+335,Court House,Found,(HOT),Main & Court Sts.,"39.106854,-84.511041",Cincinnati,OH,"(M),(R),(C),(AH),(HOT)",Restaurant,1978,checked,,,2/27/2020 11:47pm,3/28/2020 4:13pm
+179,Court House,Found,(HOT) ,Main & Court Sts.,"39.106854,-84.511041",Cincinnati,OH,"(M),(RT),(R),(AYOR),(*),(HOT)",Restaurant,1979,checked,,,2/27/2020 11:55am,3/28/2020 4:13pm
+1090,Court House Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 10:57pm,3/2/2020 11:10pm
+542,Court Square,Found,,,"40.274331,-81.865926",Coshocton,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+401,Court Square,Found,,,"40.274331,-81.865926",Coshocton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:33am,2/28/2020 2:31am
+247,Court Square,Found,,,"40.274331,-81.865926",Coshocton,OH,Cruisy Area,"Cruising Areas,Bars/Clubs",1979,checked,,,2/27/2020 2:34pm,3/13/2020 9:22pm
+89,Court Square,Found,,,"40.274331,-81.865926",Coshocton,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+481,Court's House,Found,(HOT),Main & Court Sts.,"39.106854,-84.511041",Cincinnati,OH,"(M),(R),(C),(AH),(HOT)",Restaurant,1977,checked,,,2/28/2020 1:50am,3/28/2020 4:13pm
+930,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+860,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+790,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:46am,3/2/2020 3:51am
+689,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 2:09am,3/2/2020 2:12am
+584,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+449,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:50am,2/28/2020 2:31am
+299,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:57pm,2/27/2020 10:27pm
+140,Courthouse Square,Found,,,"41.236713,-80.81892",Warren,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+848,Cruising the Levee',Found,Nothbend Blvd. at Island Park,,"39.778784,-84.195419",Dayton,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+884,Dante's Dames,Found,,33rd St. & Lakeside,"41.515931,-81.671547",Cleveland,OH,"(G),(D),(*)",Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+885,Dante's Inferno,Found,"(bar, restaurant, and baths)",2948 W. 25th St.,"41.471899,-81.699901",Cleveland,OH,"(YC),(D),(*)","Bars/Clubs,Restaurant,Baths",1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+125,Denny's,Found,Farmer Sack Shopping Plaza,," 41.614491,-83.622199",Toledo,OH,"(M),(R),(C),(AH)",Restaurant,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+1017,Discount Book Store,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1974,checked,,,3/2/2020 7:44pm,3/2/2020 8:07pm
+767,Discount Book Store,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+660,Discount Book Store,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1976,checked,,,3/2/2020 1:19am,3/2/2020 2:13am
+553,Discount Book Store,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+410,Discount Book Store,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1978,checked,,,2/28/2020 1:49am,3/13/2020 9:32pm
+257,Discount Book Store,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1979,checked,,,2/27/2020 2:34pm,3/13/2020 8:50pm
+100,Discount Book Store,General City Coordinates Used,(Movie arcade-cruisy),," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1980,checked,,,2/20/2020 11:44pm,3/10/2020 10:46am
+101,E. 5th St. betw Brown & Wayne,Found,,,"39.75714,-84.183771",Dayton,OH,Cruisy Area,Cruising Areas,1980,checked,,Pin halfway between bruce and wayne.,2/20/2020 11:44pm,2/27/2020 2:10am
+1045,Eden Park,Found,,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+880,Eden Park,Found,,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+810,Eden Park,Found,,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+759,Eden Park,Found,,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:04am,3/2/2020 3:51am
+489,Eden Park,Found,Ohio Park Overlook,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+345,Eden Park,Found,Ohio River Overlook,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+188,Eden Park,Found,Ohio River Overlook,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+33,Eden Park,Found,Ohio River Overlook,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+614,Eden Park-Ohio River Overlook,Found,,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 12:58am,3/2/2020 2:13am
+1064,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+901,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+831,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+741,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+635,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:14am,3/2/2020 2:13am
+518,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+375,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:27am,2/28/2020 2:31am
+222,Edgewater Park,Found,(HOT),," 41.49029,-81.735455",Cleveland,OH,"Cruisy Area,(HOT)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/28/2020 4:13pm
+63,Edgewater Park,Found,,," 41.49029,-81.735455",Cleveland,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+1050,Egg Palace,Found,,Detroit at W. 52nd St.,"41.486087,-81.722475",Cleveland,OH,"(M),(YC),(C),(R)",Restaurant,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+623,Egg Palace,Found,Burned-may be reopening) ,Detroit at W. 52nd St.,"41.486087,-81.722475",Cleveland,OH,"(M),(R),(C),(RT),(SM),(AH)",Restaurant,1976,checked,,,3/2/2020 12:58am,3/2/2020 2:13am
+1009,Empire Theatre,Found,,," 39.11255,-84.516095",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1974,checked,,,3/2/2020 7:30pm,3/13/2020 9:48pm
+760,Empire Theatre,Found,,," 39.11255,-84.516095",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1975,checked,,,3/2/2020 3:04am,3/13/2020 9:45pm
+615,Empire Theatre,Found,,," 39.11255,-84.516095",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1976,checked,,,3/2/2020 12:58am,3/13/2020 9:40pm
+490,Empire Theatre,Found,,," 39.11255,-84.516095",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1977,checked,,,2/28/2020 1:50am,3/13/2020 9:35pm
+346,Empire Theatre,Found,,," 39.11255,-84.516095",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1978,checked,,,2/27/2020 11:47pm,3/13/2020 9:27pm
+189,Empire Theatre,Found,,," 39.11255,-84.516095",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1979,checked,,,2/27/2020 11:55am,3/13/2020 9:20pm
+34,Empire Theatre ,Found,,," 39.11255,-84.516095",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:11pm
+1113,Escape Lounge,General City Coordinates Used,,In Willoughby,"41.63977,-81.406501",Cleveland,OH,,Bars/Clubs,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+1051,Escape Lounge,General City Coordinates Used,(Willoughby),Erie St.,"41.63977,-81.406501",Cleveland,OH,(G),Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+887,Escape Lounge,General City Coordinates Used,(Willoughby),Erie St.,"41.63977,-81.406501",Cleveland,OH,(G),Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+817,Escape Lounge,General City Coordinates Used,(Willoughby),Erie St.,"41.63977,-81.406501",Cleveland,OH,(G),Bars/Clubs,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+223,Euclid Creek Metro. Park,Found,(HOT),," 41.574422,-81.543873",Cleveland,OH,"Cruisy Area,(HOT)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/28/2020 4:13pm
+174,Euclid Creek Metro. Park,Found,,," 41.574422,-81.543873",Cleveland,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/25/2020 11:21pm,2/27/2020 2:10am
+1065,Euclid Creek Metropolitan Park,Found,,," 41.574422,-81.543873",Cleveland,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+742,Euclid Creek Metropolitan Park,Found,,," 41.574422,-81.543873",Cleveland,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+636,Euclid Creek Metropolitan Park,Found,,," 41.574422,-81.543873",Cleveland,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:14am,3/2/2020 2:13am
+519,Euclid Creek Metropolitan Park,Found,,," 41.574422,-81.543873",Cleveland,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+376,Euclid Creek Metropolitan Park,Found,,," 41.574422,-81.543873",Cleveland,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:27am,3/13/2020 9:29pm
+902,Euclid Creek Metropolitan Pk.,Found,,," 41.574422,-81.543873",Cleveland,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+832,Euclid Creek Metropolitan Pk.,Found,,," 41.574422,-81.543873",Cleveland,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+919,Exile North,General City Coordinates Used,,#1 Lake Road,"41.859497,-80.953983",Geneva on the Lake,OH,,,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+1018,Exotic Book Store,General City Coordinates Used,'exotic back room',," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1974,checked,,,3/2/2020 7:44pm,3/13/2020 9:49pm
+768,Exotic Book Store,General City Coordinates Used,exotic back room,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+661,Exotic Book Store,General City Coordinates Used,exotic book room,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,"Cruising Areas,Book Store",1976,checked,,,3/2/2020 1:50am,3/2/2020 2:12am
+560,Faurot Park,General City Coordinates Used,,,"40.736057,-84.114947",Lima,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+417,Faurot Park,General City Coordinates Used,,,"40.736057,-84.114947",Lima,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+263,Faurot Park,General City Coordinates Used,,,"40.736057,-84.114947",Lima,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+108,Faurot Park,General City Coordinates Used,,,"40.736057,-84.114947",Lima,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+659,Field on Island Park,Found,,,"39.778362,-84.197664",Dayton,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:19am,3/2/2020 2:13am
+552,Field on Island Park,Found,,,"39.778362,-84.197664",Dayton,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+411,Field on Island park ,Found,,,"39.778362,-84.197664",Dayton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+1010,Fountain Square,Found,,,"39.101456,-84.51245",Cincinnati,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 7:30pm,3/2/2020 8:07pm
+713,Fountain Square,Found,,,"39.101456,-84.51245",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:47am,3/2/2020 3:51am
+616,Fountain Square,Found,,,"39.101456,-84.51245",Cincinnati,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 12:58am,3/2/2020 2:13am
+491,Fountain Square,Found,,,"39.101456,-84.51245",Cincinnati,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+347,Fountain Square,Found,,,"39.101456,-84.51245",Cincinnati,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+190,Fountain Square,Found,,,"39.101456,-84.51245",Cincinnati,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+35,Fountain Square,Found,,,"39.101456,-84.51245",Cincinnati,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+617,Fourth & Main Streets,Found,,,"39.100413,-84.509454",Cincinnati,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 12:58am,3/2/2020 2:13am
+1011,Fourth & Main Sts.,Found,,,"39.100413,-84.509454",Cincinnati,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 7:31pm,3/2/2020 8:07pm
+714,Fourth & Main Sts.,Found,,,"39.100413,-84.509454",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:47am,3/2/2020 3:51am
+492,Fourth & Main Sts.,Found,,,"39.100413,-84.509454",Cincinnati,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+348,Fourth & Main Sts.,Found,,,"39.100413,-84.509454",Cincinnati,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+290,Franklin Park Mall,Found,,,"41.694547,-83.640731",Toledo,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:56pm,2/27/2020 10:27pm
+135,Franklin Park Mall,Found,,,"41.694547,-83.640731",Toledo,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+64,Fulton News,General City Coordinates Used,('Back room)-Fulton Rd,," 41.49932,-81.69436 ",Cleveland,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+442,Gaiety Theatre,Found,,,"41.651984,-83.532798",Toledo,OH,Cruisy Area,"Cruising Areas,Theatre",1978,checked,,See http://cinematreasures.org/theaters/34384,2/28/2020 1:50am,3/13/2020 9:34pm
+45,Gay Community Center,General City Coordinates Used,(216) 621-3380,," 41.49932,-81.69436 ",Cleveland,OH,,Organizations,1980,checked,,,2/20/2020 11:44pm,3/13/2020 8:47pm
+1252,Gay Pussycat,General City Coordinates Used,,on Broadway,"41.652805,-83.537867 ",Toledo,OH,(S),Bars/Clubs,1968,checked,,,3/11/2020 1:18am,3/13/2020 7:55pm
+1220,Gay Pussycat,General City Coordinates Used,,on Broadway,"41.652805,-83.537867 ",Toledo,OH,(S),Bars/Clubs,1969,checked,,,3/11/2020 12:06am,3/11/2020 1:16am
+1176,Gay Pussycat,General City Coordinates Used,,on Broadway,"41.652805,-83.537867 ",Toledo,OH,(S),Bars/Clubs,1970,checked,,,3/11/2020 12:06am,3/11/2020 12:56am
+786,Gayety Theatre,Found,,,"41.651984,-83.532798",Toledo,OH,Cruisy Area,"Cruising Areas,Theatre",1975,checked,,See http://cinematreasures.org/theaters/34384,3/2/2020 3:46am,3/13/2020 9:47pm
+684,Gayety Theatre,Found,,,"41.651984,-83.532798",Toledo,OH,Cruisy Area,"Cruising Areas,Theatre",1976,checked,,See http://cinematreasures.org/theaters/34384,3/2/2020 2:09am,3/13/2020 9:44pm
+576,Gayety Theatre,Found,,,"41.651984,-83.532798",Toledo,OH,Cruisy Area,"Cruising Areas,Theatre",1977,checked,,See http://cinematreasures.org/theaters/34384,2/29/2020 6:44pm,3/13/2020 9:39pm
+1081,Geneva-on-the-Lake,General City Coordinates Used,(opening Memorial Day '71),Exile North #1 Lake Rd.," 39.758948,-84.191607",Dayton,OH,,Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+274,Geo. Rogers Clark Park,Found,off Rte. 40,,"39.908884,-83.910122 ",Springfield,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+119,Geo. Rogers Clark Park,Found,off Rte. 40,,"39.908884,-83.910122 ",Springfield,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+427,George Rogers Clark Park,Found,(Off Rte.40),,"39.908884,-83.910122 ",Springfield,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+697,Grace Park,Found,,,"41.084744,-81.509236",Akron,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:09am,3/2/2020 3:51am
+596,Grace Park,Found,,,"41.084744,-81.509236",Akron,OH,Cruisy Area,Cruising Areas,1976,checked,,,2/29/2020 6:44pm,3/2/2020 2:13am
+464,Grace Park,Found,,,"41.084744,-81.509236",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+317,Grace Park,Found,,,"41.084744,-81.509236",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+160,Grace Park,Found,,,"41.084744,-81.509236",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+9,Grace Park,Found,,,"41.084744,-81.509236",Akron,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:55am
+412,Greyhound Bus Deport,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+1026,Greyhound Bus Depot,General City Coordinates Used,,,"41.652805,-83.537867 ",Toledo,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 8:04pm,3/2/2020 8:07pm
+715,Greyhound Bus Depot,General City Coordinates Used,,,"39.103118,-84.51202",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+769,Greyhound Bus Depot,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+662,Greyhound Bus Depot,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:50am,3/2/2020 2:12am
+554,Greyhound Bus Depot,General City Coordinates Used,,," 39.758948,-84.191607",Dayton,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+473,Hal's,General City Coordinates Used,,Tuscararas & Schoeyer,"40.798947,-81.378447",Canton,OH,"(G),(D),(*)",Bars/Clubs,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+47,Hex ,General City Coordinates Used,,Ohio City," 41.49932,-81.69436 ",Cleveland,OH,"(M),(R)",Restaurant,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+543,Hickory Billiard Parlor,General City Coordinates Used,Main St.,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Bars/Clubs",1977,checked,,,2/29/2020 6:44pm,3/13/2020 9:37pm
+402,Hickory Billiard Parlor,General City Coordinates Used,Main St.,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Bars/Clubs",1978,checked,,,2/28/2020 1:33am,3/13/2020 9:30pm
+248,Hickory Billiard Parlor,General City Coordinates Used,Main St.,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 2:34pm,2/27/2020 10:27pm
+90,Hickory Billiard Parlor,General City Coordinates Used,Main St.,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Bars/Clubs",1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:15pm
+1020,Hideaway Lounge,Found,,Market at 6th,"40.360731,-80.617511",Steubenville,OH,(M),Bars/Clubs,1974,checked,,,3/2/2020 7:46pm,3/2/2020 8:07pm
+775,Hideaway Lounge,Found,,Market at 6th,"40.360731,-80.617511",Steubenville,OH,(M),Bars/Clubs,1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+673,Hideaway Lounge,Found,,Market at 6th,"40.360731,-80.617511",Steubenville,OH,(M),Bars/Clubs,1976,checked,,,3/2/2020 1:51am,3/2/2020 2:12am
+770,Hills & Dales Park,Found,(Kettering),," 39.716281,-84.187667",Dayton,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+663,Hills & Dales Park,Found,(Kettering),," 39.716281,-84.187667",Dayton,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:50am,3/2/2020 2:12am
+555,Hills & Dales Park,Found,(Kettering),," 39.716281,-84.187667",Dayton,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+413,Hills & Dales Park,Found,(Kettering),," 39.716281,-84.187667",Dayton,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+258,Hills & Dales Park,Found,(Kettering) (HOT) (Sure suicide),," 39.716281,-84.187667",Dayton,OH,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/28/2020 4:13pm
+102,Hills & Dales Park,Found,(Kettering) (Sure suicide),," 39.716281,-84.187667",Dayton,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+668,Holiday Inn Bar,General City Coordinates Used,I-71 at U.S. 30,,"40.75839,-82.515447",Mansfield,OH,(M),"Bars/Clubs,Hotels",1976,checked,,,3/2/2020 1:51am,3/13/2020 9:43pm
+561,Holiday Inn Bar,General City Coordinates Used,,I-71 at U.S. 30,"40.75839,-82.515447",Mansfield,OH,(M),"Bars/Clubs,Hotels",1977,checked,,,2/29/2020 6:44pm,3/13/2020 9:38pm
+419,Holiday Inn Bar,General City Coordinates Used,,I-71 at US 30,"40.75839,-82.515447",Mansfield,OH,(M),"Bars/Clubs,Hotels",1978,checked,,,2/28/2020 1:49am,3/13/2020 9:32pm
+265,Holiday Inn Bar,General City Coordinates Used,,I-71 at US 30,"40.75839,-82.515447",Mansfield,OH,(M),"Bars/Clubs,Hotels",1979,checked,,,2/27/2020 9:41pm,3/13/2020 9:23pm
+562,Hugel's,Found,(Some G),E. 5th & Main Sts.,"40.762982,-82.515314",Mansfield,OH,"(D),(G),(*)",Bars/Clubs,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+1004,Hustler's,Found,,Market & Main Sts.,"41.085119,-81.516799",Akron,OH,"(M),(RT)",Bars/Clubs,1974,checked,,,3/2/2020 7:09pm,3/13/2020 8:57pm
+1084,Ivanhoe,Found,,On Monroe about 300 block,"41.648273,-83.536044",Toledo,OH,,Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+923,Ivanhoe,Found,,300 block on Monroe,"41.648273,-83.536044",Toledo,OH,,Bars/Clubs,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+1166,Jack & Benny's,Found,(after hours),Broad at High St.," 39.962221,-83.000643",Columbus,OH,(C),Restaurant,1970,checked,,,3/11/2020 12:06am,3/11/2020 12:56am
+1126,Jack & Benny's,Found,(after hrs.),Broad at High St.," 39.962221,-83.000643",Columbus,OH,(C),Restaurant,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+1074,Jack & Benny's,Found,(after hours),Broad at High St.," 39.962221,-83.000643",Columbus,OH,"(C),(R),(RT)",Restaurant,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+624,Jerry's Lounge,General City Coordinates Used,,47th & Euclid," 41.49932,-81.69436 ",Cleveland,OH,,Bars/Clubs,1976,checked,,,3/2/2020 1:08am,3/13/2020 9:40pm
+1036,Johnston Party Boats,General City Coordinates Used,Night cruises on the 'Captain' or 'Chaperon' along the Ohio River-still wild in spite of a couple of raids. Boats lv. weekends from Cincinnati Public Landing under Broadway St. Bridge Admission Fee),,"39.103118,-84.51202",Cincinnati,OH,(*),Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+874,Johnston Party Boats,General City Coordinates Used,"(Not what it used to be, & considerably more dangerous, but still leaves at 2:30 a.m. Fri & Sat. nights from Cincinnati Public Landing under Broadway St. Bridge. Adm. charge, B.Y.O.B)",,"39.103118,-84.51202",Cincinnati,OH,,Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+1146,Johnston's Party Boats,General City Coordinates Used,(Night cruises on the 'Captain' or 'Chaperon' along the Ohio River. Lv weekends from Cincinnati Public Landing under Broadway St. Bridge. $1. or $1.25 adm. Inquire locally for schedules)),,"39.103118,-84.51202",Cincinnati,OH,(*),Business,1970,checked,,,3/11/2020 12:06am,3/11/2020 12:56am
+1102,Johnston's Party Boats,General City Coordinates Used,(Night cruises on the 'Captain' or 'Chaperon' along the Ohio River. Lv weekends from Cincinnati Public Landing under Broadway St. Bridge. $1. or $1.25 admiss.),,"39.103118,-84.51202",Cincinnati,OH,(*),Business,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+271,Keg Room,General City Coordinates Used,Inquire Locally,,"41.456175,-82.711682",Sandusky,OH,,Bars/Clubs,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+117,Keg Room ,General City Coordinates Used,Inquire Locally,,"41.456175,-82.711682",Sandusky,OH,,Bars/Clubs,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+126,Key West,Found,(Disco) ,Upton & Berdan,"41.688552,-83.589284",Toledo,OH,"(YC),(D),(*)",Bars/Clubs,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+114,L & K,General City Coordinates Used,Inquire Locally,,"40.144773,-84.242445",Piqua,OH,"(M),(R),(C),(AH)",Restaurant,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+291,Las Vegas Cinema,Found,,,"41.68151,-83.621831",Toledo,OH,Cruisy Area,"Cruising Areas,Theatre",1979,checked,,See http://cinematreasures.org/theaters/38395,2/27/2020 9:56pm,2/27/2020 10:27pm
+136,Las Vegas Cinema,Found,,,"41.68151,-83.621831",Toledo,OH,Cruisy Area,"Cruising Areas,Theatre",1980,checked,,See http://cinematreasures.org/theaters/38395,2/20/2020 11:44pm,2/27/2020 2:10am
+506,Lower Landing,General City Coordinates Used,(See Bayou Landing),," 41.49932,-81.69436 ",Cleveland,OH,"(W),(SM),(*)",Bars/Clubs,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+318,Luv Pub Disco,Found,Chapel Hill Mall,,"41.114346,-81.467271",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+161,Luv Pub Disco,Found,Chapel Hill Mall,,"41.114346,-81.467271",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+10,Luv Pub Disco,Found,Chapel Hill Mall,,"41.114346,-81.467271",Akron,OH,Cruisy Area,"Cruising Areas,Bars/Clubs",1980,checked,,,2/20/2020 11:43pm,3/13/2020 9:04pm
+207,Mad Greek,Found,Courtyard-Courtyard level ,Coventry Rd. at Euclid Heights,"41.508059,-81.579975",Cleveland,OH,"(M),(R)",Restaurant,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+51,Mad Greek,Found,,Fairmount & Cedar,"41.501081,-81.592365",Cleveland,OH,"(M),(R)",Restaurant,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+363,Market Pub,Found,('Drags'),W. 25th at Lorain,"41.484173,-81.703371",Cleveland,OH,(RT),Bars/Clubs,1978,checked,,,2/28/2020 12:58am,2/28/2020 2:31am
+454,Market Street,General City Coordinates Used,,,"41.09978,-80.649519",Youngstown,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:50am,2/28/2020 2:31am
+306,Market Street,General City Coordinates Used,,,"41.09978,-80.649519",Youngstown,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 10:15pm,2/27/2020 10:27pm
+149,Market Street,General City Coordinates Used,,,"41.09978,-80.649519",Youngstown,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+477,McKinley Tomb,Found,Memorial Park,,"40.791224,-81.288701",Canton,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+218,McKinley Tomb,Found,Memorial Park,,"40.791224,-81.288701",Canton,OH,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,,2/27/2020 12:01pm,3/13/2020 8:49pm
+23,McKinley Tomb,Found,Memorial Park,,"40.791224,-81.288701",Canton,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:43pm,3/14/2020 10:22am
+65,Metropolitan Park,Found,Memphis & Tiedman,,"41.440147,-81.755613",Cleveland,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+192,Mt. Adams,General City Coordinates Used,,,"39.10756,-84.499109",Cincinnati,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+37,Mt. Adams,General City Coordinates Used,,,"39.10756,-84.499109",Cincinnati,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+1046,Mt. Airy Forest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+716,Mt. Airy Forest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+493,Mt. Airy Forest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+349,Mt. Airy Forest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+193,Mt. Airy Forest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+38,Mt. Airy Forest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+881,Mt. Airy Forrest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+811,Mt. Airy Forrest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+618,Mt. Airy Forrest,Found,,,"39.181276,-84.570543",Cincinnati,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 12:58am,3/2/2020 2:13am
+1066,N. Chagrin Reservation Park,Found,,," 41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+743,N. Chagrin Reservation Park,Found,,," 41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+637,N. Chagrin Reservation Park,Found,,," 41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:14am,3/2/2020 2:13am
+520,N. Chagrin Reservation Park,Found,,," 41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+903,N. Chagrin Reservation Pk.,Found,,," 41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+833,N. Chagrin Reservation Pk.,Found,,," 41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+1057,Nantucket,Found,(Highland Ave.) (Lakewood),Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,"(M),(PE)",Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+894,Nantucket,Found,(Lakewood),Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,(M),Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+824,Nantucket,Found,(Lakewood),Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,(M),Bars/Clubs,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+730,Nantucket,Found,(Best Sundays*),Clifton & W. 117th Sts.,"41.487514,-81.768727",Cleveland,OH,"(M),(*)",Bars/Clubs,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+627,Nantucket,Found,(Best Sundays*),Clifton & W. 117th Sts.,"41.487514,-81.768727",Cleveland,OH,(M),Bars/Clubs,1976,checked,,,3/2/2020 1:08am,3/2/2020 2:13am
+508,Nantucket,Found,(best Sundays) (Lakewood),Clifton & W. 117th Sts.,"41.487514,-81.768727",Cleveland,OH,"(M),(RT)",Bars/Clubs,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+364,Nantucket,Found,(Best Sundays) (Lakewood),Clifton & W. 117th Sts. ,"41.487514,-81.768727",Lakewood,OH,(M),Bars/Clubs,1978,checked,,,2/28/2020 12:58am,2/28/2020 2:31am
+209,Nantucket,Found,(Best Sun.),Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,(M),Bars/Clubs,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+52,Nantucket,Found,(Best at cocktail hour),Cliffton & W. 117 St. ,"41.487514,-81.768727",Cleveland,OH,,"Restaurant,Bars/Clubs",1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+403,Near Hotel,General City Coordinates Used,Lobby & T-Room,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Hotels",1978,checked,,,2/28/2020 1:33am,3/10/2020 10:57am
+249,Near Hotel,General City Coordinates Used,Lobby & T-Room,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Hotels",1979,checked,,,2/27/2020 2:34pm,3/13/2020 9:22pm
+91,Near Hotel,General City Coordinates Used,Lobby & T-Room,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+544,Near Hotel Lobby & T-Room,General City Coordinates Used,,,"40.272015,-81.859576",Coshocton,OH,Cruisy Area,"Cruising Areas,Hotels",1977,checked,,,2/29/2020 6:44pm,3/13/2020 9:37pm
+53,New Dimensions,Found,"(Disco) (Closed Mon. & Tues) (L on ground floor, macho guys upstairs)",1012 Sumner Ave at 9th,"41.496527,-81.683374",Cleveland,OH,"(*),(YC),(D),(S)",Bars/Clubs,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+465,Nimisila Park,Found,,,"40.807722,-81.357472",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+319,Nimisila Park,Found,,,"40.807722,-81.357472",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+162,Nimisila Park,Found,,,"40.807722,-81.357472",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+11,Nimisila Park,Found,,,"40.807722,-81.357472",Akron,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:55am
+377,No. Chagrin Reservation Park,Found,,," 41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:27am,3/13/2020 9:29pm
+224,No. Chagrin Reservation Park,Found,(HOT),," 41.57,-81.439167",Cleveland,OH,"Cruisy Area,(HOT)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/28/2020 4:13pm
+66,No. Chagrin Reservation Park,Found,,," 41.57,-81.439167",Cleveland,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+717,Ohio River Overlook,Found,,,"39.11765,-84.488329",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+17,Ohio U.,Found,Baker Center-2nd floor T-Room,," 39.324358,-82.101389",Athens,OH,Cruisy Area,"Cruising Areas,Organizations",1980,checked,,,2/20/2020 11:43pm,3/13/2020 9:06pm
+732,Olympic Barbecue,Found,,Clifton & W. 117 Sts.,"41.487514,-81.768727",Cleveland,OH,"(YC),(R),(C),(AH),(*)",Restaurant,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+629,Olympic Barbecue,Found,,Clifton & W. 117th Sts.,"41.487514,-81.768727",Cleveland,OH,"(YC),(R),(C)","Bars/Clubs,Restaurant",1976,checked,,,3/2/2020 1:08am,3/2/2020 2:13am
+895,Olympic Barbeque,Found,"(after hrs.,)",Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,"(R),(C),(YC),(*)",Restaurant,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+825,Olympic Barbeque,Found,"(after hrs.,)",Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,"(YC),(R),(C),(*)",Restaurant,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+685,Ontario St.,Found,(HOT),,"41.650648,-83.541075",Toledo,OH,"Cruisy Area,(HOT)",Cruising Areas,1976,checked,,,3/2/2020 2:09am,3/28/2020 4:13pm
+577,Ontario St.,Found,(HOT),,"41.650648,-83.541075",Toledo,OH,"Cruisy Area,(HOT)",Cruising Areas,1977,checked,,,2/29/2020 6:44pm,3/28/2020 4:13pm
+443,Ontario St.,Found,(HOT),,"41.650648,-83.541075",Toledo,OH,"Cruisy Area,(HOT)",Cruising Areas,1978,checked,,,2/28/2020 1:50am,3/28/2020 4:13pm
+293,Ontario St. ,Found,betw. Washington & Jefferson,,"41.650648,-83.541075",Toledo,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:56pm,2/27/2020 10:27pm
+137,Ontario St. ,Found,betw. Washington & Jefferson,,"41.650648,-83.541075",Toledo,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+787,Ontario Street,Found,(HOT),,"41.650648,-83.541075",Toledo,OH,"Cruisy Area,(HOT)",Cruising Areas,1975,checked,,,3/2/2020 3:46am,3/28/2020 4:14pm
+788,Ottawa Park,Found,,,"41.665399,-83.595464",Toledo,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:46am,3/13/2020 8:57pm
+686,Ottawa Park,Found,,,"41.665399,-83.595464",Toledo,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 2:09am,3/2/2020 2:12am
+578,Ottawa Park,Found,,,"41.665399,-83.595464",Toledo,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+444,Ottawa Park,Found,,,"41.665399,-83.595464",Toledo,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:50am,2/28/2020 2:31am
+294,Ottawa Park,Found,,,"41.665399,-83.595464",Toledo,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:57pm,2/27/2020 10:27pm
+1027,Ottowa Park,Found,,,"41.665399,-83.595464",Toledo,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 8:04pm,3/2/2020 8:07pm
+448,Outpost,General City Coordinates Used,(Disco) (WE-only*),1 mi. E of Ohio Tpke. on Rte. 5 (Exit 14),"41.237557,-80.818417",Warren,OH,"(YC),(D),(WE),(*)",,1978,checked,,,2/28/2020 1:50am,2/28/2020 2:31am
+583,Outpost ,General City Coordinates Used,(Disco) (WE*),1 mi E. of Ohio Tpke on Rte 5 (Exit 14),"41.237557,-80.818417",Warren,OH,"(YC),(D),(WE),(*)",Bars/Clubs,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+21,Palace,General City Coordinates Used,,W. Tuscararas,"40.798947,-81.378447",Canton,OH,"(M),(R),(D),(PT),(AH)","Bars/Clubs,Restaurant",1980,checked,,,2/20/2020 11:43pm,3/14/2020 10:25am
+510,Pappy's Lounge ,Found,(On again-off again),Prospect & E. 14th,"41.499659,-81.680256 ",Cleveland,OH,,Bars/Clubs,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+82,Park by river,Found,nr. Greenlawn Ave. ,,"39.938707,-83.00326",Columbus,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+1059,Park Lunch,General City Coordinates Used,,"Ontario, off Euclid"," 41.49932,-81.69436 ",Cleveland,OH,"(M),(RT),(R),(C)",Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+320,Parking Lot,General City Coordinates Used,American Hotel,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+163,Parking Lot,General City Coordinates Used,American Hotel,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+12,Parking Lot,General City Coordinates Used,American Hotel,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:55am
+67,Parma Theater,Found,T-Room-Ridge Rd.,,"41.404268,-81.734743",Cleveland,OH,Cruisy Area,"Theatre,Cruising Areas",1980,checked,,See http://cinematreasures.org/theaters/3213,2/20/2020 11:44pm,3/13/2020 9:14pm
+1021,Paul's,General City Coordinates Used,,Main St.,"40.369791,-80.633964",Steubenville,OH,(*),Bars/Clubs,1974,checked,,,3/2/2020 7:46pm,3/2/2020 8:07pm
+776,Paul's,General City Coordinates Used,,Main St.,"40.369791,-80.633964",Steubenville,OH,(*),Bars/Clubs,1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+674,Paul's,General City Coordinates Used,,Main St.,"40.369791,-80.633964",Steubenville,OH,(*),Bars/Clubs,1976,checked,,,3/2/2020 1:51am,3/2/2020 2:12am
+630,Perkin's Pancake House,Found,,Berea Rd. & W. 117 Sts.,"41.47397,-81.768812",Cleveland,OH,"(M),(R),(C)",Restaurant,1976,checked,,,3/2/2020 1:08am,3/2/2020 2:13am
+1119,Peterlines,Found,,Superior at E. 55th St.,"41.517901,-81.651944",Cleveland,OH,(M),Bars/Clubs,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+1060,Pickwood Lounge,Found,(across from the Nantucket),Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,"(M),(PE)",Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+897,Pickwood Lounge,Found,(across from the Nantucket),Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,"(M),(PE)",Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+827,Pickwood Lounge,Found,(across from the Nantucket),Clifton & W. 117th St.,"41.487514,-81.768727",Cleveland,OH,"(M),(PE)",Bars/Clubs,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+854,Play Pen,General City Coordinates Used,,Main St.,"41.652805,-83.537867 ",Toledo,OH,,"Bars/Clubs,Restaurant",1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+1038,Playpen,Found,,Gilbert & McMillan," 39.125944,-84.490265 ",Cincinnati,OH,(*),Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+609,Post House,Found,Greyhound Bus Depot,5th & Sycamore," 39.101895,-84.508118",Cincinnati,OH,"(M),(RT)",Bars/Clubs,1976,checked,,,3/2/2020 12:58am,3/13/2020 8:55pm
+485,Post House,Found,(Closed days),Greyhound Bus Depot 5th & Sycamore," 39.101895,-84.508118",Cincinnati,OH,"(M),(RT)",Bars/Clubs,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+339,Post House,Found,Greyhound bus Depot,5th & Sycamore," 39.101895,-84.508118",Cincinnati,OH,"(M),(RT),(AYOR)",Organizations,1978,checked,,,2/27/2020 11:47pm,2/28/2020 2:31am
+875,Post House ,Found,(Greyhound Bus Depot),5th & Sycamore," 39.101895,-84.508118",Cincinnati,OH,"(M),(RT)",Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+805,Post House ,Found,(Greyhound Bus Depot),5th & Sycamore," 39.101895,-84.508118",Cincinnati,OH,"(M),(RT)",Bars/Clubs,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+711,Post House ,Found,(Greyhound Bus Depot),5th & Sycamore," 39.101895,-84.508118",Cincinnati,OH,"(M),(RT)",Bars/Clubs,1975,checked,,,3/2/2020 2:47am,3/2/2020 3:51am
+466,Quaker Square,Found,,,"41.080918,-81.514137",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+321,Quaker Square,Found,,,"41.080918,-81.514137",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+13,Quaker Square,Found,,,"41.080918,-81.514137",Akron,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:55am
+164,Quaker Store,Found,,,"41.080918,-81.514137",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+56,R.S.V.P,Found,(Card & Books) Park Center Shopping Mall,1701 E. 12th & University Circle,"41.502952,-81.685118",Cleveland,OH,,Business,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+214,R.S.V.P.,Found,(Cards & books) Park Center Shopping Mall,1701 E. 12th & University Circle,"41.502952,-81.685118",Cleveland,OH,,Book Store,1979,checked,,,2/27/2020 11:55am,2/27/2020 10:27pm
+669,Ramada Inn Bar,General City Coordinates Used,I-71 at U.S. 30 (Koogle Rd. Exit),,"40.75839,-82.515447",Mansfield,OH,(M),"Bars/Clubs,Hotels",1976,checked,,,3/2/2020 1:51am,3/13/2020 9:43pm
+563,Ramada Inn Bar,General City Coordinates Used,(Koogle Rd. exit,I-71 at U.S. 30,"40.75839,-82.515447",Mansfield,OH,(M),"Bars/Clubs,Hotels",1977,checked,,,2/29/2020 6:44pm,3/13/2020 9:38pm
+1194,Ranch House,General City Coordinates Used,(weekends),"Rt. 52, 1 mi. S.E. of Coney Isl.","39.103118,-84.51202",Cincinnati,OH,(D),Bars/Clubs,1969,checked,,,3/11/2020 12:06am,3/11/2020 1:17am
+1149,Ranch House,General City Coordinates Used,(weekends inquire first),"Rt. 52, 1 mi. S.E. of Coney Isl.","39.103118,-84.51202",Cincinnati,OH,(D),Bars/Clubs,1970,checked,,,3/11/2020 12:06am,3/11/2020 12:56am
+1105,Ranch House,General City Coordinates Used,(weekends-inquire first),"Rt.52, 1 mi. S.E. of Coney Island","39.103118,-84.51202",Cincinnati,OH,(D),Bars/Clubs,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+1292,Rene's,Found,Marne Hotel,Marne Hotel,"41.077849,-81.52072",Akron,OH,(*),"Hotels,Bars/Clubs",1965,checked,,,3/11/2020 1:18am,3/13/2020 10:18pm
+1261,Rene's,Found,,Marne Hotel,"41.077849,-81.52072",Akron,OH,(*),"Bars/Clubs,Hotels",1966,checked,,,3/11/2020 1:18am,3/13/2020 9:00pm
+1229,Rene's,Found,,Marne Hotel,"41.077849,-81.52072",Akron,OH,(*),"Hotels,Bars/Clubs",1968,checked,,,3/11/2020 12:06am,3/13/2020 7:55pm
+421,Retreat,General City Coordinates Used,Inquire Locally,,"40.75839,-82.515447",Mansfield,OH,(WE),Bars/Clubs,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+1098,Roaring 20's,General City Coordinates Used,,W. Union St.,"39.32924,-82.101255 ",Athens,OH,"(M),(YC)",Bars/Clubs,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+1032,Roaring 20's,General City Coordinates Used,,W. Union St.,"39.32924,-82.101255 ",Athens,OH,"(YC),(M)",Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+867,Roaring 20's,General City Coordinates Used,,W. Union St.,"39.32924,-82.101255 ",Athens,OH,(M),Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+797,Roaring 20's,General City Coordinates Used,,W. Union St.,"39.32924,-82.101255 ",Athens,OH,(M),Bars/Clubs,1974,checked,,,3/2/2020 3:46am,3/2/2020 8:07pm
+70,Rocky River Reservation,Found,,," 41.409979,-81.883491",Cleveland,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+1067,Rocky River Reservation Park,Found,,," 41.409979,-81.883491",Cleveland,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+744,Rocky River Reservation Park,Found,,," 41.409979,-81.883491",Cleveland,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+638,Rocky River Reservation Park,Found,,," 41.409979,-81.883491",Cleveland,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:14am,3/2/2020 2:13am
+522,Rocky River Reservation Park,Found,,," 41.409979,-81.883491",Cleveland,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+379,Rocky River Reservation Park,Found,,," 41.409979,-81.883491",Cleveland,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:27am,3/13/2020 9:29pm
+904,Rocky River Reservation Pk.,Found,,," 41.409979,-81.883491",Cleveland,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+834,Rocky River Reservation Pk.,Found,,," 41.409979,-81.883491",Cleveland,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+227,Rocky River Reservations,Found,(HOT),," 41.409979,-81.883491",Cleveland,OH,"Cruisy Area,(HOT)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/28/2020 4:13pm
+1013,Royal Theatre,Found,,,"39.103967,-84.513971",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1974,checked,,,3/2/2020 7:32pm,3/13/2020 9:48pm
+718,Royal Theatre,Found,,,"39.103967,-84.513971",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1975,checked,,,3/2/2020 2:54am,3/13/2020 9:45pm
+619,Royal Theatre,Found,,,"39.103967,-84.513971",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1976,checked,,,3/2/2020 12:58am,3/13/2020 9:40pm
+494,Royal Theatre,Found,,,"39.103967,-84.513971",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1977,checked,,,2/28/2020 1:50am,3/13/2020 9:35pm
+350,Royal Theatre,Found,,,"39.103967,-84.513971",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1978,checked,,,2/27/2020 11:47pm,3/13/2020 9:27pm
+194,Royal Theatre,Found,,,"39.103967,-84.513971",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1979,checked,,,2/27/2020 11:55am,3/13/2020 9:20pm
+39,Royal Theatre,Found,,,"39.103967,-84.513971",Cincinnati,OH,Cruisy Area,"Cruising Areas,Theatre",1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:11pm
+1068,S. Chagrin Reservation Park,Found,,,"41.57,-81.439167",Cleveland,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+104,Sambo's,General City Coordinates Used,N. Main,," 39.758948,-84.191607",Dayton,OH,"Cruisy Area,(M),(R),(C),(AH)","Cruising Areas,Restaurant",1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+1061,Scope,General City Coordinates Used,,Euclid at E. 56th St.," 41.49932,-81.69436 ",Cleveland,OH,"(P),(D)",Bars/Clubs,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+898,Scope,General City Coordinates Used,,Euclid  E. 56th St.," 41.49932,-81.69436 ",Cleveland,OH,"(D),(B)",Bars/Clubs,1973,checked,,,3/2/2020 3:52am,3/2/2020 7:08pm
+828,Scope,General City Coordinates Used,,Euclid  E. 56th St.," 41.49932,-81.69436 ",Cleveland,OH,"(D),(B)",Bars/Clubs,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+514,Silver Spur,Found,(Some G),2402 St. Clair at E. 24th,"41.544246,-81.592499",Cleveland,OH,"(RT),(B),(D),(G)",Bars/Clubs,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+1040,Sixty Second Shop,Found,(Closes 10 pm),5th & Sycamore,"39.101895,-84.508118 ",Cincinnati,OH,(R),Restaurant,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+1107,Sixty-Second Shop,Found,,5th & Sycamore,"39.101895,-84.508118 ",Cincinnati,OH,(R),Restaurant,1971,checked,,,3/10/2020 10:38pm,3/11/2020 12:00am
+649,Small park on Neison Rd,Found,2 blocks N. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:19am,3/2/2020 2:13am
+913,Small park on Nelson Rd,Found,2 blks N. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+843,Small park on Nelson Rd,Found,2 blks N. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+754,Small Park on Nelson Rd.,Found,2 blocks n. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+394,Small Park on Nelson Rd.,Found,2 blocks No. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:33am,2/28/2020 2:31am
+535,Small park on Nelson Rd.,Found,2 blocks N. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+240,Small park on Nelson Rd.,Found,2 blocks N. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 2:34pm,2/27/2020 10:27pm
+83,Small park on Nelson Rd.,Found,2 blocks N. of Broad St.,," 39.974191,-82.946403",Columbus,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+428,Snyder Park,Found,(Off Rte.40),,"39.933708,-83.839331",Springfield,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+275,Snyder Park,Found,(off Rte. 40),,"39.933708,-83.839331",Springfield,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+120,Snyder Park,Found,off Rte. 40,,"39.933708,-83.839331",Springfield,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+295,Southwick Mall,Found,T-Rooms,,"41.60269,-83.667966",Toledo,OH,Cruisy Area,Cruising Areas,1979,checked,,See https://en.wikipedia.org/wiki/Southwyck_Mall,2/27/2020 9:57pm,2/27/2020 10:27pm
+138,Southwick Mall,Found,T-Room,,"41.60269,-83.667966",Toledo,OH,Cruisy Area,Cruising Areas,1980,checked,,See https://en.wikipedia.org/wiki/Southwyck_Mall,2/20/2020 11:44pm,2/27/2020 2:10am
+558,Summit Lodge Resort,General City Coordinates Used,"(Pool, Sauna & lounge) Rte. 1, Rockbridge Ohio 43149 Tel:614-385-6823",,"39.713675,-82.599329",Lancaster,OH,"(P),(H)",Hotels,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+270,Summit Lodge Resort,General City Coordinates Used,"(Pool, Sauna, & lounge. Tel (614) 385-6823) Rte. 1, Rockbridge Ohio 43129",,"39.579808,-82.522259",Rockbridge,OH,"(P),(H)",Hotels,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+116,Summit Lodge Resort,General City Coordinates Used,"(Pool, sauna, & lounge) Tel:614-385-6823 Rte. 1 R",Rockbridge 43129,"39.579808,-82.522259",Rockbridge,OH,"(P),(H)","Hotels,Bars/Clubs",1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:17pm
+425,Summit Lounge Resort,General City Coordinates Used,"(Pool, sauna & lounge) Tel: 614-385-6823; rte. 1, Rock-bridge, Ohio 43149",,"39.579808,-82.522259",Rockbridge,OH,"(P),(H)",Hotels,1978,checked,,,2/28/2020 1:49am,3/13/2020 8:54pm
+468,Summit Mall,Found,,,"41.134704,-81.617352",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+323,Summit Mall,Found,,,"41.134704,-81.617352",Akron,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/27/2020 11:47pm,2/27/2020 11:56pm
+166,Summit Mall,Found,,,"41.134704,-81.617352",Akron,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/20/2020 11:44pm,2/27/2020 10:27pm
+15,Summit Mall,Found,,,"41.134704,-81.617352",Akron,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/21/2020 1:56am
+18,Swanky's,General City Coordinates Used,,,"39.32924,-82.101255 ",Athens,OH,"Cruisy Area,(M),(HIP)",Cruising Areas,1980,checked,,,2/20/2020 11:43pm,2/25/2020 10:45pm
+495,Teachers College Bldg,Found,U. of Cincinnati,,"39.132922,-84.51495",Cincinnati,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+1014,Teachers College Bldg.,Found,Univ. of Cincinnati,,"39.132922,-84.51495",Cincinnati,OH,Cruisy Area,"Cruising Areas,Organizations",1974,checked,,,3/2/2020 7:32pm,3/13/2020 9:48pm
+719,Teachers College Bldg.,Found,Univ. of Cincinnati,,"39.132922,-84.51495",Cincinnati,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+620,Teachers College Bldg.,Found,U. of Cincinnati,,"39.132922,-84.51495",Cincinnati,OH,Cruisy Area,"Cruising Areas,Organizations",1976,checked,,,3/2/2020 12:58am,3/13/2020 9:40pm
+351,Teachers College Bldg.,Found,T-Room U. of Cincy ,,"39.132922,-84.51495",Cincinnati,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 12:52am,2/28/2020 2:31am
+380,The Mail,Found,downtown-12 p.m. police curfew,,"41.502909,-81.69395",Cleveland,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:27am,3/13/2020 9:29pm
+1069,The Mall,Found,downtown,,"41.502909,-81.69395",Cleveland,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+745,The Mall,Found,downtown-12pm police curgew,,"41.502909,-81.69395",Cleveland,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+639,The Mall,Found,downtown 12 p.m. police curfew,,"41.502909,-81.69395",Cleveland,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:14am,3/2/2020 2:13am
+523,The Mall,Found,downtown-12 p.m. police curfew,,"41.502909,-81.69395",Cleveland,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:35pm,2/29/2020 7:43pm
+228,The Mall,Found,Downtown-(Hot) Midnight police curfew,,"41.502909,-81.69395",Cleveland,OH,"Cruisy Area,(HOT)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/28/2020 4:13pm
+71,The Mall,Found,Downtown-Midnight police curfew,,"41.502909,-81.69395",Cleveland,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:14pm
+905,The Mall ,Found,downtown,,"41.502909,-81.69395",Cleveland,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+835,The Mall ,Found,downtown,,"41.502909,-81.69395",Cleveland,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+110,The Place 76 Lounge,General City Coordinates Used,(Some L) Elyria-Loraine,Holidy Inn,"41.452819,-82.182375",Loraine,OH,"(M),(L)","Hotels,Bars/Clubs",1980,checked,checked,,2/20/2020 11:44pm,3/13/2020 9:16pm
+657,The World,General City Coordinates Used,(Supposedly opening on Main St. in early 1975),," 39.758948,-84.191607",Dayton,OH,,Bars/Clubs,1976,checked,,,3/2/2020 1:19am,3/2/2020 2:13am
+532,Tiny's,Found,"('drags') (Some B, RT) (WE*)",High St. at Mound,"39.954807,-82.999206",Columbus,OH,"(S),(B),(RT),(WE),(*)",Bars/Clubs,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+390,Tiny's,Found,"(Some B,RT,'Drags') (WE*)",High St. at Mound,"39.954807,-82.999206",Columbus,OH,"(S),(B),(RT),(WE),(*)",Bars/Clubs,1978,checked,,,2/28/2020 1:33am,2/28/2020 2:31am
+296,Toledo U.,Found,Old Library Bldg.-2nd floor T-Room,,"41.65788,-83.614237",Toledo,OH,Cruisy Area,"Cruising Areas,Organizations",1979,checked,,,2/27/2020 9:57pm,3/13/2020 9:24pm
+755,Towne Cinema,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,"Cruising Areas,Theatre",1975,checked,,,3/2/2020 2:54am,3/2/2020 3:51am
+650,Towne Cinema,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,"Cruising Areas,Theatre",1976,checked,,,3/2/2020 1:19am,3/13/2020 9:41pm
+536,Towne Cinema,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,"Cruising Areas,Theatre",1977,checked,,,2/29/2020 6:44pm,3/13/2020 9:37pm
+395,Towne Cinema,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,"Cruising Areas,Theatre",1978,checked,,,2/28/2020 1:33am,2/28/2020 2:31am
+241,Towne Cinema,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,"Cruising Areas,Theatre",1979,checked,,,2/27/2020 2:34pm,3/13/2020 9:21pm
+84,Towne Cinema,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,"Cruising Areas,Theatre",1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:15pm
+858,Trailway Depot Cafe,General City Coordinates Used,(after hours),Monroe St.,"41.652805,-83.537867 ",Toledo,OH,"(M),(R),(C),(*)",Restaurant,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+849,Troubador,General City Coordinates Used,,Lake Road,"41.859497,-80.953983",Geneva on the Lake,OH,"(M),(YC)",Bars/Clubs,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+771,Troubador,General City Coordinates Used,,Lake Wood,"41.859497,-80.953983",Geneva on the Lake,OH,"(M),(YC)",Bars/Clubs,1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+665,Troubador,General City Coordinates Used,,Lake Road,"41.859497,-80.953983",Geneva on the Lake,OH,"(M),(YC)",Bars/Clubs,1976,checked,,,3/2/2020 1:51am,3/2/2020 2:12am
+557,Troubador,General City Coordinates Used,,Lake Road,"41.859497,-80.953983",Geneva on the Lake,OH,"(M),(YC)",Bars/Clubs,1977,checked,,dbl check city,2/29/2020 6:44pm,2/29/2020 7:43pm
+1334,Turfside,General City Coordinates Used,(weekends only),5 mi S on US 23 nr Scioto Downs Racetrack," 39.961176,-82.998794 ",Columbus,OH,(D),Bars/Clubs,1966,checked,,,3/13/2020 8:07pm,3/13/2020 8:39pm
+1215,Turfside,General City Coordinates Used,(weekends only),5 mi S on U.S. 23 nr Scioto Downs Track," 39.961176,-82.998794 ",Columbus,OH,(D),Bars/Clubs,1969,checked,,,3/11/2020 12:06am,3/11/2020 1:16am
+195,U. of C.,Found,Teachers College Bld. T-Room,,"39.132922,-84.51495",Cincinnati,OH,Cruisy Area,"Cruising Areas,Organizations",1979,checked,,,2/27/2020 11:55am,3/13/2020 9:20pm
+40,U. of C.-,Found,Teachers College Bldg. T-room,,"39.132922,-84.51495",Cincinnati,OH,Cruisy Area,"Cruising Areas,Organizations",1980,checked,,,2/20/2020 11:44pm,3/13/2020 9:12pm
+469,Union St. area,General City Coordinates Used,,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+430,Upper Valley Mall,Found,(Upper Valley Pike),,"39.948725,-83.85387",Springfield,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:49am,2/28/2020 2:31am
+276,Upper Valley Mall,Found,,,"39.948725,-83.85387",Springfield,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 9:41pm,2/27/2020 10:27pm
+914,Vicinity of Greyhound Bus Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1973,checked,,,3/2/2020 3:53am,3/2/2020 7:08pm
+844,Vicinity of Greyhound Bus Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 3:52am,3/2/2020 8:07pm
+761,Vicinity of Greyhound Bus Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 3:31am,3/2/2020 3:51am
+651,Vicinity of Greyhound Bus Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1976,checked,,,3/2/2020 1:19am,3/2/2020 2:13am
+537,Vicinity of Greyhound Bus Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/29/2020 6:44pm,2/29/2020 7:43pm
+396,Vicinity of Greyhound Bus Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1978,checked,,,2/28/2020 1:33am,2/28/2020 2:31am
+85,Vicinity of Greyhound Bus Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+1076,Vicinity of Greyhound Bus Station,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1972,checked,,,3/2/2020 9:16pm,3/2/2020 11:10pm
+242,Vicinity of Greyhound Depot,General City Coordinates Used,,," 39.961176,-82.998794 ",Columbus,OH,Cruisy Area,Cruising Areas,1979,checked,,,2/27/2020 2:34pm,2/27/2020 10:27pm
+575,Warehouse ,General City Coordinates Used,(See Camel Lot Complex),,"41.652805,-83.537867 ",Toledo,OH,,Bars/Clubs,1977,checked,,entry 565,2/29/2020 6:44pm,2/29/2020 7:43pm
+1006,Washington Square,General City Coordinates Used,,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1974,checked,,,3/2/2020 7:15pm,3/2/2020 7:16pm
+698,Washington Square,General City Coordinates Used,,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1975,checked,,,3/2/2020 2:09am,3/2/2020 3:51am
+597,Washington Square,General City Coordinates Used,,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1976,checked,,,2/29/2020 6:44pm,3/2/2020 2:13am
+470,Washington Square,General City Coordinates Used,,," 41.081445,-81.519005",Akron,OH,Cruisy Area,Cruising Areas,1977,checked,,,2/28/2020 1:50am,2/29/2020 7:43pm
+538,Whittier St.,General City Coordinates Used,'In the Woods' (HOT),," 39.961176,-82.998794 ",Columbus,OH,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1977,checked,,,2/29/2020 6:44pm,3/28/2020 4:13pm
+243,Whittier St.,General City Coordinates Used,'In the woods' (HOT),," 39.961176,-82.998794 ",Columbus,OH,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,checked,,,2/27/2020 2:34pm,3/28/2020 4:13pm
+86,Whittier St.,General City Coordinates Used,'In the woods',," 39.961176,-82.998794 ",Columbus,OH,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,,2/20/2020 11:44pm,2/27/2020 2:10am
+397,Whittier St. ,General City Coordinates Used,'In the woods' (HOT),," 39.961176,-82.998794 ",Columbus,OH,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1978,checked,,,2/28/2020 1:33am,3/28/2020 4:13pm
+150,Wick Park,General City Coordinates Used,,,"41.113529,-80.646565",Youngstown,OH,Cruisy Area,Cruising Areas,1980,checked,,Coordinates for Wick Park neighborhood.,2/20/2020 11:44pm,2/27/2020 2:10am
+1043,Wiggin's Rathskeller,Found,(bar only),5th & Vine,"39.10112,-84.512956",Cincinnati,OH,(M),"Bars/Clubs,Restaurant",1972,checked,,,3/2/2020 9:16pm,3/10/2020 10:51am
+757,Wiggins,Found,(bar only),5th & Vine,"39.10112,-84.512956",Cincinnati,OH,"(M),(R)","Restaurant,Bars/Clubs",1975,checked,,,3/2/2020 3:04am,3/13/2020 9:45pm
+878,Wiggins Restaurant,Found,(bar only),5th & Vine,"39.10112,-84.512956",Cincinnati,OH,(M),"Bars/Clubs,Restaurant",1973,checked,,,3/2/2020 3:52am,3/10/2020 10:50am
+808,Wiggins Restaurant,Found,(bar only),5th & Vine,"39.10112,-84.512956",Cincinnati,OH,(M),"Bars/Clubs,Restaurant",1974,checked,,,3/2/2020 3:52am,3/10/2020 10:50am
+455,Youngstown College Campus,Found,,,"41.106649,-80.648146",Youngstown,OH,Cruisy Area,"Cruising Areas,Organizations",1978,checked,,,2/28/2020 1:50am,3/13/2020 9:34pm
+307,Youngstown College Campus,Found,,,"41.106649,-80.648146",Youngstown,OH,Cruisy Area,"Cruising Areas,Organizations",1979,checked,,,2/27/2020 10:15pm,3/13/2020 9:25pm
+151,Youngstown College Campus,Found,,,"41.106649,-80.648146",Youngstown,OH,Cruisy Area,"Cruising Areas,Organizations",1980,checked,,,2/20/2020 11:44pm,3/10/2020 10:49am
