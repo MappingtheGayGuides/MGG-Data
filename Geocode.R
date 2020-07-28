@@ -35,7 +35,7 @@ readData <- function( filename ) {
 #                  .fun = readData,
 #                 .parallel = TRUE )
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-newyork.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-nevada.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -66,7 +66,7 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-newyork.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-nevada.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -97,8 +97,8 @@ alldata <- rbind(origAddress, uncleardata)
 #alldata$lat <- as.numeric(alldata$lat)
 #alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-newyork.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-newyork.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-nevada.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-nevada.csv", row.names=FALSE)
 #saveRDS(alldata, "DC-Data.rds")
 
 ##Existing data
@@ -123,7 +123,29 @@ mi <- read.csv("4-FullVerifiedDatasets/data-michigan.csv")
 wi <- read.csv("4-FullVerifiedDatasets/data-wisconsin.csv")
 il <- read.csv("4-FullVerifiedDatasets/data-illinois.csv")
 mass <- read.csv("4-FullVerifiedDatasets/data-mass.csv")
-states <- rbind(de,id,mt,ne,nh,ok,sd, nd, vt, ks, ak, ut, wy, pn, mi, wi, il, mass)
+nv <- read.csv("4-FullVerifiedDatasets/data-nevada.csv")
+nm <- read.csv("4-FullVerifiedDatasets/data-newmexico.csv")
+wv <- read.csv("4-FullVerifiedDatasets/data-westvirginia.csv")
+az <- read.csv("4-FullVerifiedDatasets/data-arizona.csv")
+ri <- read.csv("4-FullVerifiedDatasets/data-rhodeisland.csv")
+or <- read.csv("4-FullVerifiedDatasets/data-oregon.csv")
+oh <- read.csv("4-FullVerifiedDatasets/data-ohio.csv")
+ny <- read.csv("4-FullVerifiedDatasets/data-newyork.csv")
+me <- read.csv("4-FullVerifiedDatasets/data-maine.csv")
+hi <- read.csv("4-FullVerifiedDatasets/data-hawaii.csv")
+co <- read.csv("4-FullVerifiedDatasets/data-colorado.csv")
+ia <- read.csv("4-FullVerifiedDatasets/data-iowa.csv")
+ct <- read.csv("4-FullVerifiedDatasets/data-conneticut.csv")
+mn <- read.csv("4-FullVerifiedDatasets/data-minnesota.csv")
+wa <- read.csv("4-FullVerifiedDatasets/data-washington.csv")
+mo <- read.csv("4-FullVerifiedDatasets/data-missouri.csv")
+md <- read.csv("4-FullVerifiedDatasets/data-maryland.csv")
+nj <- read.csv("4-FullVerifiedDatasets/data-newjersey.csv")
+ind <- read.csv("4-FullVerifiedDatasets/data-indiana.csv")
+
+
+states <- rbind(de,id,mt,ne,nh,ok,sd, nd, vt, ks, ak, ut, wy, pn, mi, wi, il, mass, nv, wv, az, ri, or, oh, ny, me, hi, co, ia, ct, mn, wa, mo, md, nj, ind)
+                
 states <- states %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"unclearaddress")
 cali <- cali %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress")
 #currentdata <- read.csv("data.csv")

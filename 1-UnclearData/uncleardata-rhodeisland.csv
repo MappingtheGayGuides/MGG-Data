@@ -1,0 +1,75 @@
+﻿ID,Title,status,description,streetaddress,lat.lon,city,state,amenityfeatures,type,unclearaddress,uncleartype,Year,notes,dateadded,lastmodified
+110,'First Beach',Found,in front of concession stands,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 2:58am,4/20/2020 3:29am
+62,'First Beach',Found,in front of concession stands ,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 1:43am,4/20/2020 2:47am
+32,'First Beach',Found,in front of concession stands,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:28am,4/20/2020 1:39am
+4,'First Beach',Found,in front of concession stands,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1980,,4/20/2020 12:39am,4/20/2020 1:25am
+86,"""First Beach""",Found,in front of concession stands,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:49am,4/20/2020 2:56am
+168,Burnside Park,Found,,,"41.825798,-71.41169",Providence,RI,Cruisy Area,Cruising Areas,checked,,1974,,4/20/2020 3:42am,4/20/2020 3:44am
+149,Burnside Park,Found,,,"41.825798,-71.41169",Providence,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:34am,4/20/2020 3:37am
+125,Burnside Park,Found,,,"41.825798,-71.41169",Providence,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 3:26am,4/20/2020 3:29am
+98,Burnside Park,Found,,,"41.825798,-71.41169",Providence,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:54am,4/20/2020 2:56am
+74,Burnside Park,Found,,,"41.825798,-71.41169",Providence,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:36am,4/20/2020 2:47am
+18,Burnside Park,Found,,,"41.825798,-71.41169",Providence,RI,Cruisy Area,Cruising Areas,checked,,1980,,4/20/2020 1:22am,4/20/2020 1:25am
+48,Burnside Park ,Found,,,"41.825798,-71.41169",Providence,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:36am,4/20/2020 1:39am
+49,Bus & R.R. Stations,Found,,,"41.854556,-71.406367 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:37am,4/20/2020 1:39am
+19,Bus & R.R. Stations,Found,,,"41.854556,-71.406367 ",Providence,RI,"(AYOR),Cruisy Area",Cruising Areas,checked,,1980,,4/20/2020 1:22am,4/20/2020 1:25am
+150,Bus & Railroad Stations,Found,,,"41.854556,-71.406367 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:35am,4/20/2020 3:37am
+126,Bus & Railroad Stations,Found,,,"41.854556,-71.406367 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 3:27am,4/20/2020 3:29am
+169,Bus & Railroad Stations ,Found,,,"41.854556,-71.406367 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1974,,4/20/2020 3:42am,4/20/2020 3:44am
+99,Bus & RR Stations,Found,,,"41.854556,-71.406367 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:54am,4/20/2020 2:56am
+75,Bus & RR Stations,Found,,,"41.854556,-71.406367 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:36am,4/20/2020 2:47am
+179,Club Car,General Coordinates Used,,Smith St.,"41.841814,-71.443305",Providence,RI,"(G),(*)",Bars/Clubs,checked,,1973,,4/20/2020 3:46am,4/20/2020 3:48am
+213,Continental ,General Coordinates Used,($1.00 admission),Route 7," 41.92205,-71.54951",Smithfield,RI,"(*),(D)",Bars/Clubs,checked,,1970,,4/20/2020 4:00am,4/20/2020 4:01am
+203,Continental ,General Coordinates Used,($1.00 admission),Route 7 ," 41.92205,-71.54951",Smithfield,RI,"(D),(*)",Bars/Clubs,checked,,1971,,4/20/2020 3:56am,4/20/2020 3:57am
+223,Continental Rt. 7,General Coordinates Used,,Smithfield ,"42.002876,-71.514784 ",Woonsocket,RI,,Bars/Clubs,checked,,1969,,4/20/2020 4:04am,4/20/2020 4:05am
+196,Ebbtide Lounge,Found,(summers only),First Beach,"41.488401,-71.291362",Newport,RI,(M),Bars/Clubs,checked,,1971,,4/20/2020 3:53am,4/20/2020 3:55am
+188,First Beach,Found,,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1972,,4/20/2020 3:49am,4/20/2020 3:52am
+136,First Beach,Found,in front of concession stands,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:30am,4/20/2020 3:37am
+160,First Beach - in front of concession stands,Found,,,"41.488401,-71.291362",Newport,RI,Cruisy Area,Cruising Areas,checked,,1974,,4/20/2020 3:39am,4/20/2020 3:44am
+241,Holiday Inn,Found,,Bernon St.,"41.992134,-71.484818",Woonsocket,RI,(G),Bars/Clubs,checked,,1966,,4/20/2020 4:11am,4/20/2020 4:12am
+239,Kubla Khan ,Found,,Dorrence & Westminster ," 41.823608,-71.411669",Providence,RI,,Restaurant,checked,,1966,,4/20/2020 4:10am,4/20/2020 4:16am
+151,Misquamicut St. Beach,Found,40 mi. S.W. near Waverly ,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:35am,4/20/2020 3:37am
+76,Misquamicut St. Beach,Found,40 mi. S.W. nr. Waverly ,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:36am,4/20/2020 2:47am
+50,Misquamicut St. Beach,Found,40 mi. S.W. nr. Waverly ,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:37am,4/20/2020 1:39am
+20,Misquamicut St. Beach,Found,40 mi. S.W. nr. Waverly ,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1980,,4/20/2020 1:22am,4/20/2020 1:25am
+184,Misquamicut State Beach,Found,40 mi. S.W. near Westerly,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1973,,4/20/2020 3:47am,4/20/2020 3:48am
+170,Misquamicut State Beach,Found,40 mi. S.W. nr. Westerly ,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1974,,4/20/2020 3:42am,4/20/2020 3:44am
+127,Misquamicut State Beach,Found,40 mi. S.W. nr. Westerly ,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 3:27am,4/20/2020 3:29am
+100,Misquamicut State Beach,Found,,40 miles SW near Westerly,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:54am,4/20/2020 2:56am
+171,Moonstone Beach,General Coordinates Used,right side about 5 mi. N. of Misquamicut,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1974,,4/20/2020 3:42am,4/20/2020 3:44am
+152,Moonstone Beach,General Coordinates Used,right side about 5 mi. north of Misquamicut State Beach,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:35am,4/20/2020 3:37am
+128,Moonstone Beach,General Coordinates Used,Right side about 5 mi. N. of Misquamicut St. Beach,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 3:27am,4/20/2020 3:29am
+101,Moonstone Beach,General Coordinates Used,Right side - about 5 miles north of Misquamicut State Beach,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:54am,4/20/2020 2:56am
+77,Moonstone Beach,General Coordinates Used,Right side - 5 mi. N of Misquamicut Beach,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:37am,4/20/2020 2:47am
+51,Moonstone Beach,General Coordinates Used,Right side - 5 mi. N. of Misquamicut Beach,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:37am,4/20/2020 1:39am
+21,Moonstone Beach,General Coordinates Used,Right side - 5 mi. N. of Misquamicut Beach,,"41.323711,-71.802845 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1980,,4/20/2020 1:23am,4/20/2020 1:25am
+185,Prospect Terrace,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,Cruising Areas,checked,,1973,,4/20/2020 3:47am,4/20/2020 3:48am
+172,Prospect Terrace,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,Cruising Areas,checked,,1974,,4/20/2020 3:43am,4/20/2020 3:44am
+153,Prospect Terrace,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:36am,4/20/2020 3:37am
+129,Prospect Terrace,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 3:27am,4/20/2020 3:29am
+102,Prospect Terrace,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:55am,4/20/2020 2:56am
+78,Prospect Terrace,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:37am,4/20/2020 2:47am
+52,Prospect Theatre,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,"Cruising Areas,Theatre",checked,,1979,,4/20/2020 1:37am,7/20/2020 10:39am
+22,Prospect Theatre ,Found,,,"41.829892,-71.407283",Providence,RI,Cruisy Area,"Cruising Areas,Theatre",checked,,1980,,4/20/2020 1:23am,7/20/2020 10:39am
+173,Roger Wiiliams Park,Found,boat house,," 41.790374,-71.414808",Providence,RI,Cruisy Area,Cruising Areas,checked,,1974,,4/20/2020 3:43am,4/20/2020 3:44am
+154,Roger Williams Park,Found,near boat house,," 41.790374,-71.414808",Providence,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:36am,4/20/2020 3:37am
+130,Roger Williams Park,Found,nr. boat house,," 41.790374,-71.414808",Providence,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 3:28am,4/20/2020 3:29am
+103,Roger Williams Park,Found,near Boat House,," 41.790374,-71.414808",Providence,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:55am,4/20/2020 2:56am
+79,Roger Williams Park,Found,Boat house,," 41.790374,-71.414808",Providence,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:37am,4/20/2020 2:47am
+53,Roger Williams Park,Found,boat house ,," 41.790374,-71.414808",Providence,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:38am,4/20/2020 1:39am
+23,Roger Williams Park,Found,boat house & parking area to Nature Trail,," 41.790374,-71.414808",Providence,RI,"(*),Cruisy Area",Cruising Areas,checked,,1980,,4/20/2020 1:23am,4/20/2020 1:25am
+240,Tiogue Vista,Found,,Lake Tiogue,"41.683639,-71.557267",Providence,RI,,Bars/Clubs,checked,,1966,approximate location,4/20/2020 4:10am,4/20/2020 4:12am
+222,Tiogue Vista ,Found,at Lake Tiogue,,"41.683639,-71.557267",Providence,RI,,Bars/Clubs,checked,,1969,approximate location,4/20/2020 4:04am,4/20/2020 4:05am
+243,Venetian Room,General Coordinates Used,,Farewell St.,"41.49368,-71.315438",Newport,RI,,Bars/Clubs,checked,,1965,,4/20/2020 4:12am,4/20/2020 4:13am
+216,Venetian Room,General Coordinates Used,,Farewell St.,"41.49368,-71.315438",Newport,RI,,Bars/Clubs,checked,,1969,,4/20/2020 4:01am,4/20/2020 4:09am
+207,Venetian Room,General Coordinates Used,,Farewell St.,"41.49368,-71.315438",Newport,RI,(*),Bars/Clubs,checked,,1970,,4/20/2020 3:58am,4/20/2020 4:09am
+197,Venetian Room,General Coordinates Used,,Farewell St.,"41.49368,-71.315438",Newport,RI,(*),Bars/Clubs,checked,,1971,,4/20/2020 3:54am,4/20/2020 3:57am
+226,Venetian Room ,General Coordinates Used,,Farewell St.,"41.49368,-71.315438",Newport,RI,,Bars/Clubs,checked,,1968,,4/20/2020 4:06am,4/20/2020 4:09am
+54,Westminster Mall,Found,,,"41.82417,-71.410686 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:38am,4/20/2020 1:39am
+24,Westminster Mall,Found,,,"41.82417,-71.410686 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1980,,4/20/2020 1:24am,4/20/2020 1:25am
+104,Weybosset St.,Found,,,"41.822328,-71.411706 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1977,,4/20/2020 2:55am,4/20/2020 2:56am
+55,Weybosset St.,Found,,,"41.822328,-71.411706 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1979,,4/20/2020 1:38am,4/20/2020 1:39am
+25,Weybosset St.,Found,,,"41.822328,-71.411706 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1980,,4/20/2020 1:24am,4/20/2020 1:25am
+155,Weybosset Street,Found,,,"41.822328,-71.411706 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1975,,4/20/2020 3:36am,4/20/2020 3:37am
+131,Weybosset Street,Found,,,"41.822328,-71.411706 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1976,,4/20/2020 3:28am,4/20/2020 3:29am
+80,Weybosset Street,Found,,,"41.822328,-71.411706 ",Providence,RI,Cruisy Area,Cruising Areas,checked,,1978,,4/20/2020 2:37am,4/20/2020 2:47am

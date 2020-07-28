@@ -1,4 +1,4 @@
-ID,Title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
+ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
 556,'B.A.' Beach,nr. Evergreen Floating Bridge,,Seattle,WA,Cruisy Area,Cruising Areas,1979,checked,,3/28/2020 9:08pm,5/7/2020 9:53am,", WA",-122.332071,47.60621,unclear_coded_by_hand,General Coordinates Used
 464,'B.A.' Beach nr. Evergreen Pt. Floating Bridge,,,Seattle,WA,Cruisy Area,Cruising Areas,1978,checked,,3/28/2020 1:45am,5/7/2020 9:46am,", WA",-122.332071,47.60621,unclear_coded_by_hand,General Coordinates Used
 648,'B.A' Beach nr. Evergreen Floating Bridge,,,Seattle,WA,Cruisy Area,Cruising Areas,1980,checked,,3/30/2020 8:16pm,5/7/2020 9:46am,", WA",-122.332071,47.60621,unclear_coded_by_hand,General Coordinates Used
