@@ -1,103 +1,103 @@
-ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-ID001,Office,,251 E. Center,Pocatello,ID,,Bars/Clubs,1973,NA,NA,NA,NA,"251 E. Center, Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID002,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1974,NA,NA,NA,NA,"2528 Cleveland Blvd, Caldwell, ID",-116.6715342,43.6515523,"2528 cleveland blvd, caldwell, id 83605, usa",Geocoded
-ID003,Office,,251 E. Center,Pocatello,ID,(M),Bars/Clubs,1974,NA,NA,NA,NA,"251 E. Center, Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID004,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1975,NA,NA,NA,NA,"2528 Cleveland Blvd, Caldwell, ID",-116.6715342,43.6515523,"2528 cleveland blvd, caldwell, id 83605, usa",Geocoded
-ID005,Office ,,251 E. Center,Pocatello,ID,(M),Bars/Clubs,1975,NA,NA,NA,NA,"251 E. Center, Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID006,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1976,NA,NA,NA,NA,"2528 Cleveland Blvd, Caldwell, ID",-116.6715342,43.6515523,"2528 cleveland blvd, caldwell, id 83605, usa",Geocoded
-ID007,Atom Club,,230 W. Lewis,Pocatello,ID,"(M),(YC),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"230 W. Lewis, Pocatello, ID",-112.4494001,42.8617144,"230 w lewis st, pocatello, id 83204, usa",Geocoded
-ID008,Office,,251 E. Center,Pocatello,ID,(M),Bars/Clubs,1976,NA,NA,NA,NA,"251 E. Center, Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID009,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1977,NA,NA,NA,NA,"2528 Cleveland Blvd, Caldwell, ID",-116.6715342,43.6515523,"2528 cleveland blvd, caldwell, id 83605, usa",Geocoded
-ID010,Atom Club,,230 W. Lewis,Pocatello,ID,"(M),(YC),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"230 W. Lewis, Pocatello, ID",-112.4494001,42.8617144,"230 w lewis st, pocatello, id 83204, usa",Geocoded
-ID011,Office,,251 E. Center St,Pocatello,ID,(M),Bars/Clubs,1977,NA,NA,NA,NA,"251 E. Center St, Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID012,Shuckey's,,223 S. 10th St.,Boise,ID,"(D),(PT),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"223 S. 10th St., Boise, ID",-116.2067467,43.6158696,"223 s 10th st, boise, id 83702, usa",Geocoded
-ID013,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1978,NA,NA,NA,NA,"2528 Cleveland Blvd, Caldwell, ID",-116.6715342,43.6515523,"2528 cleveland blvd, caldwell, id 83605, usa",Geocoded
-ID014,Bernie's Lounge,(nr. center),100 So. Main ,Pocatello,ID,(*),Bars/Clubs,1978,NA,NA,NA,NA,"100 So. Main , Pocatello, ID",-112.4506275,42.8621121,"100 s main st, pocatello, id 83204, usa",Geocoded
-ID015,Office,,251 E. Center St.,Pocatello,ID,(M),Bars/Clubs,1978,NA,NA,NA,NA,"251 E. Center St., Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID016,Shuckey's ,('Tops' in Idaho)(Some G)(Disco)(Cruisy),233 S. 10th St.,Boise,ID,"(YC),(G),(D),(PT)","Crusing Areas,Bars/Clubs",1979,NA,NA,NA,NA,"233 S. 10th St., Boise, ID",-116.2068228,43.6157883,"233 s 10th st, boise, id 83702, usa",Geocoded
-ID017,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1979,NA,NA,NA,NA,"2528 Cleveland Blvd, Caldwell, ID",-116.6715342,43.6515523,"2528 cleveland blvd, caldwell, id 83605, usa",Geocoded
-ID018,Headquarters Books,"('Toys', 'flicks' & cruisy arcade)",414 Main,Lewiston,ID,(*),"Book Store,Crusing Areas",1979,NA,NA,NA,NA,"414 Main, Lewiston, ID",-117.001189,46.4004089,"lewiston, id 83501, usa",Geocoded
-ID019,Bernie's Lounge,nr. Center,100 S. Main,Pocatello,ID,,Bars/Clubs,1979,NA,NA,NA,NA,"100 S. Main, Pocatello, ID",-112.4506275,42.8621121,"100 s main st, pocatello, id 83204, usa",Geocoded
-ID020,Office,,251 E. Center St.,Pocatello,ID,(M),Bars/Clubs,1979,NA,NA,NA,NA,"251 E. Center St., Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID021,Cheap Chic,(Clothing),222 N. 9th,Boise,ID,,Business,1980,NA,NA,NA,NA,"222 N. 9th, Boise, ID",-116.2031439,43.6175313,"222 n 9th st, boise, id 83702, usa",Geocoded
-ID022,Over 19 Adult Center,,4109 Chinden Ave.,Boise,ID,(*),Business,1980,NA,NA,NA,NA,"4109 Chinden Ave., Boise, ID",-116.2501952,43.6300359,"4109 w chinden blvd, garden city, id 83714, usa",Geocoded
-ID023,Shuckey's,('Tops' in Idaho)(Some L)(Boutique)(Recently expanded)(Disco)(Cruisy),233 S. 10th St.,Boise,ID,"(L),(R),(YC),(D),(PT)","Crusing Areas,Bars/Clubs",1980,NA,NA,NA,NA,"233 S. 10th St., Boise, ID",-116.2068228,43.6157883,"233 s 10th st, boise, id 83702, usa",Geocoded
-ID024,Headquarters Books,"('Toys', 'flicks' & cruisy arcade)",414 Main,Lewiston,ID,(*),"Book Store,Crusing Areas",1980,NA,NA,NA,NA,"414 Main, Lewiston, ID",-117.001189,46.4004089,"lewiston, id 83501, usa",Geocoded
-ID025,Book People,(Books & info) ,512 S. Main,Moscow,ID,(*),Book Store,1980,NA,NA,NA,NA,"512 S. Main, Moscow, ID",-117.0010682,46.7306249,"512 s main st, moscow, id 83843, usa",Geocoded
-ID026,Bernie's Lounge,nr. Center,100 S. Main ,Pocatello,ID,,Bars/Clubs,1980,NA,NA,NA,NA,"100 S. Main , Pocatello, ID",-112.4506275,42.8621121,"100 s main st, pocatello, id 83204, usa",Geocoded
-ID027,Office,,251 E. Center St.,Pocatello,ID,(*),Bars/Clubs,1980,NA,NA,NA,NA,"251 E. Center St., Pocatello, ID",-112.4466388,42.864336,"251 e center st, pocatello, id 83201, usa",Geocoded
-ID028,Coach Lantern,Out of downtown area - inquire locally,,Boise,ID,,Bars/Clubs,1972,checked,,NA,NA,", ID",-116.202314,43.615019,unclear_coded_by_hand,General Coordinates Used
-ID029,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1973,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID030,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1974,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID031,Alibi Lounge,,,Boise,ID,,Bars/Clubs,1974,checked,,NA,NA,", ID",-116.202314,43.615019,unclear_coded_by_hand,General Coordinates Used
-ID032,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID033,Riverside Drive,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", ID",-112.042787,43.500985,unclear_coded_by_hand,Found
-ID034,Snake River Falls,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1975,checked,approximate,NA,NA,", ID",-112.043772,43.496607,unclear_coded_by_hand,Found
-ID035,Snake River Falls,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1976,checked,approximate,NA,NA,", ID",-112.043772,43.496607,unclear_coded_by_hand,Found
-ID036,Riverside Drive,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", ID",-112.042787,43.500985,unclear_coded_by_hand,Found
-ID037,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID038,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", ID",-112.04211,43.472089,unclear_coded_by_hand,Found
-ID039,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID040,Riverside Drive,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", ID",-112.042787,43.500985,unclear_coded_by_hand,Found
-ID041,Classroom Center - T-Rooms/University of Idaho,,,Moscow,ID,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", ID",-117.012608,46.728812,unclear_coded_by_hand,Found
-ID042,Snake River Falls,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1977,checked,approximate,NA,NA,", ID",-112.043772,43.496607,unclear_coded_by_hand,Found
-ID043,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", ID",-112.04211,43.472089,unclear_coded_by_hand,Found
-ID044,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID045,Snake River Falls,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1978,checked,approximate,NA,NA,", ID",-112.043772,43.496607,unclear_coded_by_hand,Found
-ID046,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", ID",-112.04211,43.472089,unclear_coded_by_hand,Found
-ID047,U. of Idaho - Classroom Center T-Room,,,Moscow,ID,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", ID",-117.012608,46.728812,unclear_coded_by_hand,Found
-ID048,Riverside Drive,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", ID",-112.042787,43.500985,unclear_coded_by_hand,Found
-ID049,Block surrounding the Idanha Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID050,Snake River Falls,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1979,checked,approximate,NA,NA,", ID",-112.043772,43.496607,unclear_coded_by_hand,Found
-ID051,Riverside Drive,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", ID",-112.042787,43.500985,unclear_coded_by_hand,Found
-ID052,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", ID",-112.04211,43.472089,unclear_coded_by_hand,Found
-ID053,U. of Idaho - Classroom Center T-Room,,,Moscow,ID,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", ID",-117.012608,46.728812,unclear_coded_by_hand,Found
-ID054,Riverside Drive,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", ID",-112.042787,43.500985,unclear_coded_by_hand,Found
-ID055,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", ID",-112.04211,43.472089,unclear_coded_by_hand,Found
-ID056,Block surrounding Idanha Hotel,,,Boise,ID,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", ID",-116.205511,43.617211,unclear_coded_by_hand,Found
-ID057,Snake River Falls,,,Idaho Falls,ID,Cruisy Areas,Crusing Areas,1980,checked,approximate,NA,NA,", ID",-112.043772,43.496607,unclear_coded_by_hand,Found
-ID058,Moscow Hotel - T-Room,,,Moscow,ID,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", ID",-117.001911,46.731985,unclear_coded_by_hand,Found
-ID059,U. of Idaho - Classroom Center T-Room,,,Moscow,ID,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", ID",-117.012608,46.728812,unclear_coded_by_hand,Found
-ID060,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotels",1975,checked,,NA,NA,"'C' Street, ID",-112.039465,43.49467,unclear_coded_by_hand,Found
-ID061,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotels",1976,checked,,NA,NA,"'C' Street, ID",-112.039465,43.49467,unclear_coded_by_hand,Found
-ID062,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotels",1977,checked,,NA,NA,"'C' Street, ID",-112.039465,43.49467,unclear_coded_by_hand,Found
-ID063,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotels",1978,checked,,NA,NA,"'C' Street, ID",-112.039465,43.49467,unclear_coded_by_hand,Found
-ID064,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotels",1979,checked,,NA,NA,"'C' Street, ID",-112.039465,43.49467,unclear_coded_by_hand,Found
-ID065,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotels",1980,checked,,NA,NA,"'C' Street, ID",-112.039465,43.49467,unclear_coded_by_hand,Found
-ID066,Lewis & Clark Motor Inn,,2nd & Main,Lewiston,ID,"(M),(H)",Hotels,1977,checked,approximate.,NA,NA,"2nd & Main, ID",-117.030526,46.421548,unclear_coded_by_hand,Found
-ID067,Lewis & Clarke Motel,,2nd & Main,Lewiston,ID,"(M),(H)",Hotels,1978,checked,approximate.,NA,NA,"2nd & Main, ID",-117.030526,46.421548,unclear_coded_by_hand,Found
-ID068,Lewis & Clark Motel,,2nd & Main,Lewiston,ID,"(M),(H)",Hotels,1979,checked,approximate.,NA,NA,"2nd & Main, ID",-117.030526,46.421548,unclear_coded_by_hand,Found
-ID069,Lewis & Clark Motel,,2nd & Main,Lewiston,ID,"(M),(H)",Hotels,1980,checked,approximate.,NA,NA,"2nd & Main, ID",-117.030526,46.421548,unclear_coded_by_hand,Found
-ID070,Pioneer Park,(HOT -WE),5th St. at 3rd Ave.,Lewiston,ID,"(WE),(AYOR),(HOT),Cruisy Areas",Crusing Areas,1979,checked,,NA,NA,"5th St. at 3rd Ave., ID",-117.025451,46.419486,unclear_coded_by_hand,Found
-ID071,Pioneer Park,(HOT -WE),5th St. at 3rd Ave.,Lewiston,ID,"(WE),(AYOR),Cruisy Areas",Crusing Areas,1980,checked,,NA,NA,"5th St. at 3rd Ave., ID",-117.025451,46.419486,unclear_coded_by_hand,Found
-ID072,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1966,checked,,NA,NA,"9th & Main St., ID",-116.204679,43.61622,unclear_coded_by_hand,Found
-ID073,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1968,checked,,NA,NA,"9th & Main St., ID",-116.204679,43.61622,unclear_coded_by_hand,Found
-ID074,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1969,checked,,NA,NA,"9th & Main St., ID",-116.204679,43.61622,unclear_coded_by_hand,Found
-ID075,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1970,checked,,NA,NA,"9th & Main St., ID",-116.204679,43.61622,unclear_coded_by_hand,Found
-ID076,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1971,checked,,NA,NA,"9th & Main St., ID",-116.204679,43.61622,unclear_coded_by_hand,Found
-ID077,Riley's Bar,(downstairs in basement of Idanho Hotel),10 & Main Sts.,Boise,ID,(M),"Bars/Clubs,Hotels",1973,checked,,NA,NA,"10 & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID078,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotels",1974,checked,,NA,NA,"10th & Main, ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID079,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotels",1975,checked,,NA,NA,"10th & Main, ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID080,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotels",1976,checked,,NA,NA,"10th & Main, ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID081,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotels",1977,checked,,NA,NA,"10th & Main, ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID082,WEEDS,Ida-Ha Hotel (downstairs),10th & Main Sts.,Boise,ID,,"Bars/Clubs,Hotels",1965,checked,,NA,NA,"10th & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID083,Idanha Hotel,(downstairs),10th & Main Sts.,Boise,ID,(M),"Hotels,Bars/Clubs",1966,checked,,NA,NA,"10th & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID084,Idanha Hotel,(downstairs bar),10th & Main Sts.,Boise,ID,(M),"Hotels,Bars/Clubs",1968,checked,,NA,NA,"10th & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID085,Idanha Hotel,(downstairs bar),10th & Main Sts.,Boise,ID,(M),"Hotels,Bars/Clubs",1969,checked,,NA,NA,"10th & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID086,Idanha Hotel,(downstairs),10th & Main Sts.,Boise,ID,(M),"Hotels,Bars/Clubs",1970,checked,,NA,NA,"10th & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID087,Idanha Hotel,(downstairs),10th & Main Sts.,Boise,ID,(M),"Hotels,Bars/Clubs",1971,checked,,NA,NA,"10th & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID088,Idanho Hotel Weeds Bar,(downstairs),10th & Main Sts.,Boise,ID,(M),"Bars/Clubs,Hotels",1972,checked,,NA,NA,"10th & Main Sts., ID",-116.205854,43.616794,unclear_coded_by_hand,Found
-ID089,Moscow Hotel - T-Room,,313 S. Main,Moscow,ID,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,"313 S. Main, ID",-117.001911,46.731985,unclear_coded_by_hand,Found
-ID090,Wagon Wheel,,About 1 mi. S. on Main St.,Pocatello,ID,(M),Bars/Clubs,1976,checked,,NA,NA,"About 1 mi. S. on Main St., ID",-112.450619,42.862104,unclear_coded_by_hand,Found
-ID091,Wagon Wheel,,About 1 mi. south on Main Street,Pocatello,ID,(M),Bars/Clubs,1977,checked,,NA,NA,"About 1 mi. south on Main Street, ID",-112.450619,42.862104,unclear_coded_by_hand,Found
-ID092,Alpine Villa Townhouses,,"Box 456, Ketchum Id. 83340",Sun Valley,ID,(H),Hotels,1978,checked,,NA,NA,"Box 456, Ketchum Id. 83340, ID",-114.351717,43.697129,unclear_coded_by_hand,Found
-ID093,Alpine Villa Townhouse,,"Box 456, Ketchum Id., 83340",Sun Valley,ID,"(H),(M)",Hotels,1980,checked,,NA,NA,"Box 456, Ketchum Id., 83340, ID",-114.351717,43.697129,unclear_coded_by_hand,Found
-ID094,Apline Villa Townhouses,,"Box 456, Ketchum, Id. 83340",Sun Valley,ID,(H),Hotels,1979,checked,,NA,NA,"Box 456, Ketchum, Id. 83340, ID",-114.351717,43.697129,unclear_coded_by_hand,Found
-ID095,Alpine Villa Townhouses,,"Box 456, Ketchum, Idaho 83340",Sun Valley,ID,(H),Hotels,1977,checked,,NA,NA,"Box 456, Ketchum, Idaho 83340, ID",-114.351717,43.697129,unclear_coded_by_hand,Found
-ID096,Kopper Kitchen,,I-80 at Vista,Boise,ID,"(M),(R),(C),(AH)",Restaurant,1980,checked,Vista Ave Seems to no longer exist - replaced by an airport maybe?,NA,NA,"I-80 at Vista, ID",-116.202314,43.615019,unclear_coded_by_hand,General Coordinates Used
-ID097,The Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1973,checked,,NA,NA,"On Hatwai (North-South Hwy.) 3 mi N.E. of town, ID",-117.001189,46.400409,unclear_coded_by_hand,General Coordinates Used
-ID098,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1974,checked,,NA,NA,"On Hatwai (North-South Hwy.) 3 mi N.E. of town, ID",-117.001189,46.400409,unclear_coded_by_hand,General Coordinates Used
-ID099,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1975,checked,,NA,NA,"On Hatwai (North-South Hwy.) 3 mi N.E. of town, ID",-117.001189,46.400409,unclear_coded_by_hand,General Coordinates Used
-ID100,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1976,checked,,NA,NA,"On Hatwai (North-South Hwy.) 3 mi N.E. of town, ID",-117.001189,46.400409,unclear_coded_by_hand,General Coordinates Used
-ID101,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1977,checked,,NA,NA,"On Hatwai (North-South Hwy.) 3 mi N.E. of town, ID",-117.001189,46.400409,unclear_coded_by_hand,General Coordinates Used
-ID102,Northwest Gay Alliance,,"P.O. Box 8758, Moscow, Idaho, 83843",Moscow,ID,,Organizations,1980,checked,,NA,NA,"P.O. Box 8758, Moscow, Idaho, 83843, ID",-117.000165,46.732387,unclear_coded_by_hand,General Coordinates Used
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+114,ID031,Alibi Lounge,,,Boise,ID,,Bars/Clubs,1974,,-116.202314,43.615019,Location could not be verified. General city or location coordinates used.
+176,ID093,Alpine Villa Townhouse,,"Box 456, Ketchum Id., 83340",Sun Valley,ID,"(H),(M)",Hotel,1980,,-114.351717,43.697129,Verified Location
+178,ID095,Alpine Villa Townhouses,,"Box 456, Ketchum, Idaho 83340",Sun Valley,ID,(H),Hotel,1977,,-114.351717,43.697129,Verified Location
+175,ID092,Alpine Villa Townhouses,,"Box 456, Ketchum Id. 83340",Sun Valley,ID,(H),Hotel,1978,,-114.351717,43.697129,Verified Location
+177,ID094,Apline Villa Townhouses,,"Box 456, Ketchum, Id. 83340",Sun Valley,ID,(H),Hotel,1979,,-114.351717,43.697129,Verified Location
+93,ID010,Atom Club,,230 W. Lewis,Pocatello,ID,"(M),(YC),(*)",Bars/Clubs,1977,NA,-112.4494001,42.8617144,Google Verified Location
+90,ID007,Atom Club,,230 W. Lewis,Pocatello,ID,"(M),(YC),(*)",Bars/Clubs,1976,NA,-112.4494001,42.8617144,Google Verified Location
+109,ID026,Bernie's Lounge,nr. Center,100 S. Main ,Pocatello,ID,,Bars/Clubs,1980,NA,-112.4506275,42.8621121,Google Verified Location
+97,ID014,Bernie's Lounge,(nr. center),100 So. Main ,Pocatello,ID,(*),Bars/Clubs,1978,NA,-112.4506275,42.8621121,Google Verified Location
+102,ID019,Bernie's Lounge,nr. Center,100 S. Main,Pocatello,ID,,Bars/Clubs,1979,NA,-112.4506275,42.8621121,Google Verified Location
+139,ID056,Block surrounding Idanha Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1980,,-116.205511,43.617211,Verified Location
+132,ID049,Block surrounding the Idanha Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1979,,-116.205511,43.617211,Verified Location
+127,ID044,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1978,,-116.205511,43.617211,Verified Location
+113,ID030,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1974,,-116.205511,43.617211,Verified Location
+115,ID032,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1975,,-116.205511,43.617211,Verified Location
+120,ID037,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1976,,-116.205511,43.617211,Verified Location
+122,ID039,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1977,,-116.205511,43.617211,Verified Location
+112,ID029,Block Surrounding the Idanho Hotel,,,Boise,ID,Cruisy Area,Cruising Areas,1973,,-116.205511,43.617211,Verified Location
+108,ID025,Book People,(Books & info) ,512 S. Main,Moscow,ID,(*),Book Store,1980,NA,-117.0010682,46.7306249,Google Verified Location
+104,ID021,Cheap Chic,(Clothing),222 N. 9th,Boise,ID,,Business,1980,NA,-116.2031439,43.6175313,Google Verified Location
+124,ID041,Classroom Center - T-Rooms/University of Idaho,,,Moscow,ID,Cruisy Area,Cruising Areas,1977,,-117.012608,46.728812,Verified Location
+111,ID028,Coach Lantern,Out of downtown area - inquire locally,,Boise,ID,,Bars/Clubs,1972,,-116.202314,43.615019,Location could not be verified. General city or location coordinates used.
+101,ID018,Headquarters Books,"('Toys', 'flicks' & cruisy arcade)",414 Main,Lewiston,ID,(*),"Book Store,Cruising Areas",1979,NA,-117.001189,46.4004089,Google Verified Location
+107,ID024,Headquarters Books,"('Toys', 'flicks' & cruisy arcade)",414 Main,Lewiston,ID,(*),"Book Store,Cruising Areas",1980,NA,-117.001189,46.4004089,Google Verified Location
+168,ID085,Idanha Hotel,(downstairs bar),10th & Main Sts.,Boise,ID,(M),"Hotel,Bars/Clubs",1969,,-116.205854,43.616794,Verified Location
+169,ID086,Idanha Hotel,(downstairs),10th & Main Sts.,Boise,ID,(M),"Hotel,Bars/Clubs",1970,,-116.205854,43.616794,Verified Location
+166,ID083,Idanha Hotel,(downstairs),10th & Main Sts.,Boise,ID,(M),"Hotel,Bars/Clubs",1966,,-116.205854,43.616794,Verified Location
+167,ID084,Idanha Hotel,(downstairs bar),10th & Main Sts.,Boise,ID,(M),"Hotel,Bars/Clubs",1968,,-116.205854,43.616794,Verified Location
+170,ID087,Idanha Hotel,(downstairs),10th & Main Sts.,Boise,ID,(M),"Hotel,Bars/Clubs",1971,,-116.205854,43.616794,Verified Location
+171,ID088,Idanho Hotel Weeds Bar,(downstairs),10th & Main Sts.,Boise,ID,(M),"Bars/Clubs,Hotel",1972,,-116.205854,43.616794,Verified Location
+179,ID096,Kopper Kitchen,,I-80 at Vista,Boise,ID,"(M),(R),(C),(AH)",Restaurant,1980,Vista Ave Seems to no longer exist - replaced by an airport maybe?,-116.202314,43.615019,Location could not be verified. General city or location coordinates used.
+152,ID069,Lewis & Clark Motel,,2nd & Main,Lewiston,ID,"(M),(H)",Hotel,1980,approximate.,-117.030526,46.421548,Verified Location
+151,ID068,Lewis & Clark Motel,,2nd & Main,Lewiston,ID,"(M),(H)",Hotel,1979,approximate.,-117.030526,46.421548,Verified Location
+149,ID066,Lewis & Clark Motor Inn,,2nd & Main,Lewiston,ID,"(M),(H)",Hotel,1977,approximate.,-117.030526,46.421548,Verified Location
+150,ID067,Lewis & Clarke Motel,,2nd & Main,Lewiston,ID,"(M),(H)",Hotel,1978,approximate.,-117.030526,46.421548,Verified Location
+156,ID073,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1968,,-116.204679,43.61622,Verified Location
+159,ID076,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1971,,-116.204679,43.61622,Verified Location
+155,ID072,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1966,,-116.204679,43.61622,Verified Location
+157,ID074,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1969,,-116.204679,43.61622,Verified Location
+158,ID075,Little Mac's,,9th & Main St.,Boise,ID,(M),Bars/Clubs,1970,,-116.204679,43.61622,Verified Location
+141,ID058,Moscow Hotel - T-Room,,,Moscow,ID,Cruisy Area,Cruising Areas,1980,,-117.001911,46.731985,Verified Location
+172,ID089,Moscow Hotel - T-Room,,313 S. Main,Moscow,ID,Cruisy Area,Cruising Areas,1979,,-117.001911,46.731985,Verified Location
+185,ID102,Northwest Gay Alliance,,"P.O. Box 8758, Moscow, Idaho, 83843",Moscow,ID,,Organizations,1980,,-117.000165,46.732387,Location could not be verified. General city or location coordinates used.
+84,ID001,Office,,251 E. Center,Pocatello,ID,,Bars/Clubs,1973,NA,-112.4466388,42.864336,Google Verified Location
+94,ID011,Office,,251 E. Center St,Pocatello,ID,(M),Bars/Clubs,1977,NA,-112.4466388,42.864336,Google Verified Location
+103,ID020,Office,,251 E. Center St.,Pocatello,ID,(M),Bars/Clubs,1979,NA,-112.4466388,42.864336,Google Verified Location
+110,ID027,Office,,251 E. Center St.,Pocatello,ID,(*),Bars/Clubs,1980,NA,-112.4466388,42.864336,Google Verified Location
+98,ID015,Office,,251 E. Center St.,Pocatello,ID,(M),Bars/Clubs,1978,NA,-112.4466388,42.864336,Google Verified Location
+86,ID003,Office,,251 E. Center,Pocatello,ID,(M),Bars/Clubs,1974,NA,-112.4466388,42.864336,Google Verified Location
+91,ID008,Office,,251 E. Center,Pocatello,ID,(M),Bars/Clubs,1976,NA,-112.4466388,42.864336,Google Verified Location
+88,ID005,Office ,,251 E. Center,Pocatello,ID,(M),Bars/Clubs,1975,NA,-112.4466388,42.864336,Google Verified Location
+105,ID022,Over 19 Adult Center,,4109 Chinden Ave.,Boise,ID,(*),Business,1980,NA,-116.2501952,43.6300359,Google Verified Location
+153,ID070,Pioneer Park,(HOT -WE),5th St. at 3rd Ave.,Lewiston,ID,"(WE),(AYOR),(HOT),Cruisy Area",Cruising Areas,1979,,-117.025451,46.419486,Verified Location
+154,ID071,Pioneer Park,(HOT -WE),5th St. at 3rd Ave.,Lewiston,ID,"(WE),(AYOR),Cruisy Area,(HOT)",Cruising Areas,1980,,-117.025451,46.419486,Verified Location
+92,ID009,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1977,NA,-116.6715342,43.6515523,Google Verified Location
+87,ID004,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1975,NA,-116.6715342,43.6515523,Google Verified Location
+100,ID017,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1979,NA,-116.6715342,43.6515523,Google Verified Location
+89,ID006,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1976,NA,-116.6715342,43.6515523,Google Verified Location
+96,ID013,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1978,NA,-116.6715342,43.6515523,Google Verified Location
+85,ID002,Red Barn,,2528 Cleveland Blvd,Caldwell,ID,(M),Bars/Clubs,1974,NA,-116.6715342,43.6515523,Google Verified Location
+160,ID077,Riley's Bar,(downstairs in basement of Idanho Hotel),10 & Main Sts.,Boise,ID,(M),"Bars/Clubs,Hotel",1973,,-116.205854,43.616794,Verified Location
+163,ID080,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotel",1976,,-116.205854,43.616794,Verified Location
+161,ID078,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotel",1974,,-116.205854,43.616794,Verified Location
+164,ID081,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotel",1977,,-116.205854,43.616794,Verified Location
+162,ID079,Riley's Bars,(downstairs in basement of Idanho Hotel),10th & Main,Boise,ID,(M),"Bars/Clubs,Hotel",1975,,-116.205854,43.616794,Verified Location
+131,ID048,Riverside Drive,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1978,,-112.042787,43.500985,Verified Location
+119,ID036,Riverside Drive,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1976,,-112.042787,43.500985,Verified Location
+137,ID054,Riverside Drive,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1980,,-112.042787,43.500985,Verified Location
+116,ID033,Riverside Drive,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1975,,-112.042787,43.500985,Verified Location
+134,ID051,Riverside Drive,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1979,,-112.042787,43.500985,Verified Location
+123,ID040,Riverside Drive,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1977,,-112.042787,43.500985,Verified Location
+95,ID012,Shuckey's,,223 S. 10th St.,Boise,ID,"(D),(PT),(*)",Bars/Clubs,1978,NA,-116.2067467,43.6158696,Google Verified Location
+106,ID023,Shuckey's,('Tops' in Idaho)(Some L)(Boutique)(Recently expanded)(Disco)(Cruisy),233 S. 10th St.,Boise,ID,"(L),(R),(YC),(D),(PT)","Cruising Areas,Bars/Clubs,Restaurant",1980,NA,-116.2068228,43.6157883,Google Verified Location
+99,ID016,Shuckey's ,('Tops' in Idaho)(Some G)(Disco)(Cruisy),233 S. 10th St.,Boise,ID,"(YC),(G),(D),(PT)","Cruising Areas,Bars/Clubs",1979,NA,-116.2068228,43.6157883,Google Verified Location
+118,ID035,Snake River Falls,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1976,approximate,-112.043772,43.496607,Verified Location
+117,ID034,Snake River Falls,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1975,approximate,-112.043772,43.496607,Verified Location
+140,ID057,Snake River Falls,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1980,approximate,-112.043772,43.496607,Verified Location
+133,ID050,Snake River Falls,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1979,approximate,-112.043772,43.496607,Verified Location
+128,ID045,Snake River Falls,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1978,approximate,-112.043772,43.496607,Verified Location
+125,ID042,Snake River Falls,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1977,approximate,-112.043772,43.496607,Verified Location
+182,ID099,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1975,,-117.001189,46.400409,Location could not be verified. General city or location coordinates used.
+181,ID098,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1974,,-117.001189,46.400409,Location could not be verified. General city or location coordinates used.
+183,ID100,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1976,,-117.001189,46.400409,Location could not be verified. General city or location coordinates used.
+184,ID101,Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1977,,-117.001189,46.400409,Location could not be verified. General city or location coordinates used.
+148,ID065,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotel",1980,,-112.039465,43.49467,Verified Location
+144,ID061,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotel",1976,,-112.039465,43.49467,Verified Location
+147,ID064,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotel",1979,,-112.039465,43.49467,Verified Location
+143,ID060,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotel",1975,,-112.039465,43.49467,Verified Location
+146,ID063,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotel",1978,,-112.039465,43.49467,Verified Location
+145,ID062,Starlight Lounge,Bonneville Hotel,'C' Street,Idaho Falls,ID,(M),"Bars/Clubs,Hotel",1977,,-112.039465,43.49467,Verified Location
+121,ID038,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1976,,-112.04211,43.472089,Verified Location
+129,ID046,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1978,,-112.04211,43.472089,Verified Location
+135,ID052,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1979,,-112.04211,43.472089,Verified Location
+126,ID043,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1977,,-112.04211,43.472089,Verified Location
+138,ID055,Tautfus Park Zoo,,,Idaho Falls,ID,Cruisy Area,Cruising Areas,1980,,-112.04211,43.472089,Verified Location
+180,ID097,The Stables,,On Hatwai (North-South Hwy.) 3 mi N.E. of town,Lewiston,ID,(M),Bars/Clubs,1973,,-117.001189,46.400409,Location could not be verified. General city or location coordinates used.
+136,ID053,U. of Idaho - Classroom Center T-Room,,,Moscow,ID,Cruisy Area,Cruising Areas,1979,,-117.012608,46.728812,Verified Location
+130,ID047,U. of Idaho - Classroom Center T-Room,,,Moscow,ID,Cruisy Area,Cruising Areas,1978,,-117.012608,46.728812,Verified Location
+142,ID059,U. of Idaho - Classroom Center T-Room,,,Moscow,ID,Cruisy Area,Cruising Areas,1980,,-117.012608,46.728812,Verified Location
+174,ID091,Wagon Wheel,,About 1 mi. south on Main Street,Pocatello,ID,(M),Bars/Clubs,1977,,-112.450619,42.862104,Verified Location
+173,ID090,Wagon Wheel,,About 1 mi. S. on Main St.,Pocatello,ID,(M),Bars/Clubs,1976,,-112.450619,42.862104,Verified Location
+165,ID082,WEEDS,Ida-Ha Hotel (downstairs),10th & Main Sts.,Boise,ID,,"Bars/Clubs,Hotel",1965,,-116.205854,43.616794,Verified Location

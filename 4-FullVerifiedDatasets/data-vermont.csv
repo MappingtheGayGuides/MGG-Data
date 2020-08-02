@@ -1,76 +1,76 @@
-ID,title,description,streetaddress,city,state,Year,amenityfeatures,type,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-VT001,Andrews Inn,(Ski Resort) (2 bars) (Disco) (Some L),34 Village Square,Bellows Falls,VT,1980,"(H),(*),(R),(L),(D)","Bars/Clubs,Hotels,Restaurant,Business",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"34 Village Square, Bellows Falls, VT",-72.443933,43.134071,"32 square, bellows falls, vt 05101, usa",Geocoded
-VT002,Twin Cities News,"(Books) Twin Cities Shopping Plaza, Barre-Montpelier Rd.",Barre-Montpelier Rd.,Berlin,VT,1980,,Book Store,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"Barre-Montpelier Rd., Berlin, VT",-72.5472486,44.2218853,"barre-montpelier rd, berlin, vt, usa",Geocoded
-VT003,Flat St. Disco,(Wed. only) Inquire locally,,Brattleboro,VT,1980,(YC),Bars/Clubs,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.557868,42.850915,unclear_coded_by_hand,General Coordinates Used
-VT004,Acropolis,,60 Pearl St.,Burlington,VT,1980,"(M),(R)",Restaurant,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"60 Pearl St., Burlington, VT",-73.2164227,44.4805444,"60 pearl st, burlington, vt 05401, usa",Geocoded
-VT005,Taft Corners Adult Books,(Taft Corners Shopping Plaza) Rte. 2 & 2A (Wiliston),,Burlington,VT,1980,,Book Store,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.110622,44.450123,unclear_coded_by_hand,Found
-VT006,Battery Park,(N. Public Beach),,Burlington,VT,1980,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.219886,44.481301,unclear_coded_by_hand,Found
-VT007,City Hall & adj. Park T-Rooms,,,Burlington,VT,1980,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.212854,44.476294,unclear_coded_by_hand,Found
-VT008,Main Square opp. Bus Terminal,(Late),,Burlington,VT,1980,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.212896,44.478825,unclear_coded_by_hand,Found
-VT009,Vermont Transit - T-Room,,,Burlington,VT,1980,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.214283,44.479338,unclear_coded_by_hand,General Coordinates Used
-VT010,Tavern Motor Inn,,,Montpelier,VT,1980,(M),"Hotels,Bars/Clubs",checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.578917,44.260618,unclear_coded_by_hand,Found
-VT011,Back Home Cafe,,21 Center St.,Rutland,VT,1980,"(M),(R)","Restaurant,Bars/Clubs",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"21 Center St., Rutland, VT",-72.97889,43.60674,"21 center st, rutland, vt 05701, usa",Geocoded
-VT012,Mardi Gras,,40 Center St.,Rutland,VT,1980,(*),Bars/Clubs,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"40 Center St., Rutland, VT",-72.97824,43.6064643,"40 center st, rutland, vt 05701, usa",Geocoded
-VT013,Bus Terminal,,,Rutland,VT,1980,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.972606,43.610624,unclear_coded_by_hand,General Coordinates Used
-VT014,'Rest Stop' N. & S. on Rte. 7,,,Rutland,VT,1980,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.972606,43.610624,unclear_coded_by_hand,General Coordinates Used
-VT015,Penelope's,Inquire locally,,Springfield,VT,1980,"(M),(YC),(R)","Restaurant,Bars/Clubs",checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.482312,43.298408,unclear_coded_by_hand,General Coordinates Used
-VT016,'Rest Stops' on I-91,,,Springfield,VT,1980,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.482312,43.298408,unclear_coded_by_hand,General Coordinates Used
-VT017,Kierman's Lodge,(Ski resort),Sugarbush Road,Warren,VT,1980,"(M),(YC),(R),(WE)","Bars/Clubs,Restaurant,Business",checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,"Sugarbush Road, VT",-72.891418,44.139083,unclear_coded_by_hand,General Coordinates Used
-VT018,The Mountain Lodge,(Ski Resort) Tel: (617) 338-7975,,Ascutney,VT,1979,"(H),(R)","Hotels,Restaurant,Business",checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.470853,43.465939,unclear_coded_by_hand,Found
-VT019,Andrews Inn,(Ski resort) (WE*) (2 bars) (Some G),34 Village Square,Bellows Falls,VT,1979,"(WE),(*),(H),(R),(D),(G)","Bars/Clubs,Business,Hotels,Restaurant",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"34 Village Square, Bellows Falls, VT",-72.443933,43.134071,"32 square, bellows falls, vt 05101, usa",Geocoded
-VT020,Twin Cities News,(Books) Twin Cities Shopping Plaza,Barre-Montpelier Rd.,Berlin,VT,1979,,Book Store,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,"Barre-Montpelier Rd., VT",-72.54702,44.221748,unclear_coded_by_hand,General Coordinates Used
-VT021,Nector's ,(Very M) (Upstairs) ,188 Main St.,Burlington,VT,1979,(M),Bars/Clubs,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT022,Taj Mahal,(Downstairs),115 College,Burlington,VT,1979,"(*),(HIP),(M),(YC),(R),(D)","Bars/Clubs,Restaurant",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"115 College, Burlington, VT",-73.215192,44.476831,"115 college st, burlington, vt 05401, usa",Geocoded
-VT023,Taft Corners Adult Books,(Taft Corners Shopping Plaza) Rte. 2 & 2A (Wiliston),,Burlington,VT,1979,,Book Store,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.110622,44.450123,unclear_coded_by_hand,Found
-VT024,Main Square opp. Bus Terminal,(Late),,Burlington,VT,1979,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.212896,44.478825,unclear_coded_by_hand,Found
-VT025,Book King,"(Books, etc.)",57 Merchants Row,Rutland,VT,1979,,Book Store,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"57 Merchants Row, Rutland, VT",-72.9807534,43.6075409,"57 merchants row, rutland, vt 05701, usa",Geocoded
-VT026,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,1979,(M),"Bars/Clubs,Hotels",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"17 S. Main St., White River Junction, VT",-72.3187118,43.6483053,"17 s main st, white river junction, vt 05001, usa",Geocoded
-VT027,The Mountain Lodge,(Ski Resort) Call: (617) 338-7975,,Ascutney,VT,1978,"(H),(R)","Hotels,Restaurant",checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.470853,43.465939,unclear_coded_by_hand,Found
-VT028,Andrews Inn,(Ski resort) (2 bars) (Some G),34 Village Square,Bellows Falls,VT,1978,"(H),(*),(R),(D),(G)","Hotels,Bars/Clubs,Restaurant",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"34 Village Square, Bellows Falls, VT",-72.443933,43.134071,"32 square, bellows falls, vt 05101, usa",Geocoded
-VT029,Twin Cities News,(Books) Twin Cities Shopping Plaza,Barre-Montpelier Rd.,Berlin,VT,1978,,Book Store,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,"Barre-Montpelier Rd., VT",-72.54702,44.221748,unclear_coded_by_hand,General Coordinates Used
-VT030,Office Bar,,103 Church St.,Burlington,VT,1978,"(M),(RT)",Bars/Clubs,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"103 Church St., Burlington, VT",-73.2127958,44.4774979,"103 church st, burlington, vt 05401, usa",Geocoded
-VT031,Taj Mahal,(Upstairs),115 College,Burlington,VT,1978,"(HIP),(YC),(D),(M),(R)","Bars/Clubs,Restaurant",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"115 College, Burlington, VT",-73.215192,44.476831,"115 college st, burlington, vt 05401, usa",Geocoded
-VT032,Taft Corners Adult Books,(Taft Corners Shopping Plaza) Rte. 2 & 2A (Wiliston),,Burlington,VT,1978,,Book Store,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.110622,44.450123,unclear_coded_by_hand,Found
-VT033,Book King,"(Books, etc.)",57 Merchants Row,Rutland,VT,1978,,Book Store,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"57 Merchants Row, Rutland, VT",-72.9807534,43.6075409,"57 merchants row, rutland, vt 05701, usa",Geocoded
-VT034,Rutland Adult Books,nr. McDonald's on So. Main,,Rutland,VT,1978,,Book Store,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-72.969328,43.595735,unclear_coded_by_hand,General Coordinates Used
-VT035,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,1978,(M),"Hotels,Bars/Clubs",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"17 S. Main St., White River Junction, VT",-72.3187118,43.6483053,"17 s main st, white river junction, vt 05001, usa",Geocoded
-VT036,Andrews Inn,(Ski resort) (2 bars) (Some G) (Basement bar),34 Village Square,Bellows Falls,VT,1977,"(H),(*),(R),(G)","Bars/Clubs,Restaurant,Hotels",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"34 Village Square, Bellows Falls, VT",-72.443933,43.134071,"32 square, bellows falls, vt 05101, usa",Geocoded
-VT037,Millard Fillmore,,4 N. Winooski,Burlington,VT,1977,"(HIP),(YC),(G)",Bars/Clubs,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"4 N. Winooski, Burlington, VT",-73.2110093,44.4806742,"4 n winooski ave, burlington, vt 05401, usa",Geocoded
-VT038,Office Bar,,103 Church St.,Burlington,VT,1977,"(M),(RT)",Bars/Clubs,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"103 Church St., Burlington, VT",-73.2127958,44.4774979,"103 church st, burlington, vt 05401, usa",Geocoded
-VT039,Taj Mahal,(D)* (Upstairs) ,115 College,Burlington,VT,1977,"(D),(*),(M),(R)","Bars/Clubs,Restaurant",NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"115 College, Burlington, VT",-73.215192,44.476831,"115 college st, burlington, vt 05401, usa",Geocoded
-VT040,The Sting,(Some G),135 Pearl St.,Burlington,VT,1977,"(M),(YC),(G)",Bars/Clubs,NA,NA,2/16/2020 4:14am,3/30/2020 11:56am,"135 Pearl St., Burlington, VT",-73.2134569,44.480225,"135 pearl st, burlington, vt 05401, usa",Geocoded
-VT041,Bus Depot & Park opposite,,,Burlington,VT,1977,Cruisy Area,Cruising Areas,checked,NA,2/16/2020 4:14am,3/30/2020 11:57am,", VT",-73.212072,44.475883,unclear_coded_by_hand,General Coordinates Used
-VT042,Waybury Inn,,,East Middlebury,VT,1977,"(M),(YC),(R)","Restaurant,Bars/Clubs",checked,NA,2/16/2020 4:37am,3/30/2020 11:57am,", VT",-73.096307,43.972426,unclear_coded_by_hand,Found
-VT043,Alibi,So. Park Street,,Middlebury,VT,1977,"(M),(YC)",Bars/Clubs,checked,NA,2/16/2020 4:37am,3/30/2020 11:57am,", VT",-73.169614,44.012619,unclear_coded_by_hand,General Coordinates Used
-VT044,State Line News,(Books),"U.S. Rte. 7, across from Gasland",Pownal,VT,1977,,Book Store,checked,NA,2/16/2020 4:37am,3/30/2020 11:57am,"U.S. Rte. 7, across from Gasland, VT",-73.226946,42.792313,unclear_coded_by_hand,General Coordinates Used
-VT045,Book King,(Books),57 Merchants Row,Rutland,VT,1977,,Book Store,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"57 Merchants Row, Rutland, VT",-72.9807534,43.6075409,"57 merchants row, rutland, vt 05701, usa",Geocoded
-VT046,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,1977,(M),"Bars/Clubs,Hotels",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"17 S. Main St., White River Junction, VT",-72.3187118,43.6483053,"17 s main st, white river junction, vt 05001, usa",Geocoded
-VT047,Hi Hat Lounge,(WE*) (Upstairs- horse-shoe bar),188 Main St.,Burlington,VT,1976,"(M),(WE),(*)",Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT048,Office Bar,,103 Church St.,Burlington,VT,1976,"(M),(R)","Bars/Clubs,Restaurant",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"103 Church St., Burlington, VT",-73.2127958,44.4774979,"103 church st, burlington, vt 05401, usa",Geocoded
-VT049,Waybury Inn,Main St. nr. Ripton,,East Middlebury,VT,1976,"(M),(R),(YC)","Restaurant,Bars/Clubs",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,", East Middlebury, VT",-73.1033356,43.9726787,"east middlebury, middlebury, vt 05753, usa",Geocoded
-VT050,Alibi,So. Park Street,,Middlebury,VT,1976,"(M),(YC)",Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,", Middlebury, VT",-73.16734,44.0153371,"middlebury, vt 05753, usa",Geocoded
-VT051,State Line News Store,(Books & Movies),"U.S. Route. 7, across from Gasland",Pownal,VT,1976,,Book Store,checked,NA,2/16/2020 4:37am,3/30/2020 11:57am,"U.S. Route. 7, across from Gasland, VT",-73.226946,42.792313,unclear_coded_by_hand,General Coordinates Used
-VT052,Book King,(Book Store),57 Merchants Row,Rutland,VT,1976,,Book Store,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"57 Merchants Row, Rutland, VT",-72.9807534,43.6075409,"57 merchants row, rutland, vt 05701, usa",Geocoded
-VT053,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,1976,(M),"Bars/Clubs,Hotels",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"17 S. Main St., White River Junction, VT",-72.3187118,43.6483053,"17 s main st, white river junction, vt 05001, usa",Geocoded
-VT054,Hi Hat Lounge,(Horseshoe bar),188 Main St.,Burlington,VT,1975,"(M),(*)",Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT055,Hi Hat Lounge,(Horseshoe bar),188 Main St.,Burlington,VT,1974,"(M),(*)",Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT056,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,1974,"(M),(YC)","Hotels,Bars/Clubs",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"17 S. Main St., White River Junction, VT",-72.3187118,43.6483053,"17 s main st, white river junction, vt 05001, usa",Geocoded
-VT057,Gay B's,,91 Main St.,Burlington,VT,1973,"(R),(YC),(*)","Restaurant,Bars/Clubs",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"91 Main St., Burlington, VT",-73.2156493,44.4755725,"91 main st, burlington, vt 05401, usa",Geocoded
-VT058,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,1973,(*),Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT059,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,1973,"(M),(YC)","Bars/Clubs,Hotels",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"17 S. Main St., White River Junction, VT",-72.3187118,43.6483053,"17 s main st, white river junction, vt 05001, usa",Geocoded
-VT060,Chez Dufais,(upstairs),185 Pearl St.,Burlington,VT,1972,(M),Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"185 Pearl St., Burlington, VT",-73.2116712,44.4802672,"185 pearl st, burlington, vt 05401, usa",Geocoded
-VT061,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,1972,(*),Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT062,Hotel Breton,(downstairs club),106 Church St.,Burlington,VT,1972,"(M),(RT)","Bars/Clubs,Hotels",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"106 Church St., Burlington, VT",-73.2124,44.4775,"106 church st, burlington, vt 05401, usa",Geocoded
-VT063,Two Guys Restaurant,,103 Church St.,Burlington,VT,1972,(M),"Bars/Clubs,Restaurant",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"103 Church St., Burlington, VT",-73.2127958,44.4774979,"103 church st, burlington, vt 05401, usa",Geocoded
-VT064,Chez Dufais,(upstairs),185 Pearl St.,Burlington,VT,1971,(M),Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"185 Pearl St., Burlington, VT",-73.2116712,44.4802672,"185 pearl st, burlington, vt 05401, usa",Geocoded
-VT065,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,1971,(*),Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT066,Hotel Breton,(downstairs club),106 Church St.,Burlington,VT,1971,"(M),(RT)","Hotels,Bars/Clubs",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"106 Church St., Burlington, VT",-73.2124,44.4775,"106 church st, burlington, vt 05401, usa",Geocoded
-VT067,Two Guys Restaurant,,103 Church St.,Burlington,VT,1971,(M),"Restaurant,Bars/Clubs",NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"103 Church St., Burlington, VT",-73.2127958,44.4774979,"103 church st, burlington, vt 05401, usa",Geocoded
-VT068,Chez Dufais,(upstairs),185 Pearl St.,Burlington,VT,1970,(M),Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"185 Pearl St., Burlington, VT",-73.2116712,44.4802672,"185 pearl st, burlington, vt 05401, usa",Geocoded
-VT069,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,1970,(*),Bars/Clubs,NA,NA,2/16/2020 4:37am,3/30/2020 11:56am,"188 Main St., Burlington, VT",-73.2116919,44.4761844,"188 main st, burlington, vt 05401, usa",Geocoded
-VT070,Hotel Breton,(downstairs club),106 Church St.,Burlington,VT,1970,"(M),(RT)","Bars/Clubs,Hotels",NA,NA,2/16/2020 4:54am,3/30/2020 11:56am,"106 Church St., Burlington, VT",-73.2124,44.4775,"106 church st, burlington, vt 05401, usa",Geocoded
-VT071,Two Guys Restaurant,,103 Church St.,Burlington,VT,1970,(M),Bars/Clubs,NA,NA,2/16/2020 4:54am,3/30/2020 11:56am,"103 Church St., Burlington, VT",-73.2127958,44.4774979,"103 church st, burlington, vt 05401, usa",Geocoded
-VT072,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,1969,(M),Bars/Clubs,NA,NA,2/16/2020 4:54am,3/30/2020 11:56am,"185 Pearl St., Burlington, VT",-73.2116712,44.4802672,"185 pearl st, burlington, vt 05401, usa",Geocoded
-VT073,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,1968,(M),Bars/Clubs,NA,NA,2/16/2020 4:54am,3/30/2020 11:56am,"185 Pearl St., Burlington, VT",-73.2116712,44.4802672,"185 pearl st, burlington, vt 05401, usa",Geocoded
-VT074,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,1966,,Bars/Clubs,NA,NA,2/16/2020 4:54am,3/30/2020 11:56am,"185 Pearl St., Burlington, VT",-73.2116712,44.4802672,"185 pearl st, burlington, vt 05401, usa",Geocoded
-VT075,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,1965,,Bars/Clubs,NA,NA,2/16/2020 4:57am,3/30/2020 11:56am,"185 Pearl St., Burlington, VT",-73.2116712,44.4802672,"185 pearl st, burlington, vt 05401, usa",Geocoded
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+1060,VT014,'Rest Stop' N. & S. on Rte. 7,,,Rutland,VT,Cruisy Area,Cruising Areas,1980,NA,-72.972606,43.610624,Location could not be verified. General city or location coordinates used.
+1062,VT016,'Rest Stops' on I-91,,,Springfield,VT,Cruisy Area,Cruising Areas,1980,NA,-72.482312,43.298408,Location could not be verified. General city or location coordinates used.
+1050,VT004,Acropolis,,60 Pearl St.,Burlington,VT,"(M),(R)",Restaurant,1980,NA,-73.2164227,44.4805444,Google Verified Location
+1096,VT050,Alibi,So. Park Street,,Middlebury,VT,"(M),(YC)",Bars/Clubs,1976,NA,-73.16734,44.0153371,Google Verified Location
+1089,VT043,Alibi,So. Park Street,,Middlebury,VT,"(M),(YC)",Bars/Clubs,1977,NA,-73.169614,44.012619,Location could not be verified. General city or location coordinates used.
+1074,VT028,Andrews Inn,(Ski resort) (2 bars) (Some G),34 Village Square,Bellows Falls,VT,"(H),(*),(R),(D),(G)","Hotel,Bars/Clubs,Restaurant",1978,NA,-72.443933,43.134071,Google Verified Location
+1082,VT036,Andrews Inn,(Ski resort) (2 bars) (Some G) (Basement bar),34 Village Square,Bellows Falls,VT,"(H),(*),(R),(G)","Bars/Clubs,Restaurant,Hotel",1977,NA,-72.443933,43.134071,Google Verified Location
+1047,VT001,Andrews Inn,(Ski Resort) (2 bars) (Disco) (Some L),34 Village Square,Bellows Falls,VT,"(H),(*),(R),(L),(D)","Bars/Clubs,Hotel,Restaurant,Business",1980,NA,-72.443933,43.134071,Google Verified Location
+1065,VT019,Andrews Inn,(Ski resort) (WE*) (2 bars) (Some G),34 Village Square,Bellows Falls,VT,"(WE),(*),(H),(R),(D),(G)","Bars/Clubs,Business,Hotel,Restaurant",1979,NA,-72.443933,43.134071,Google Verified Location
+1057,VT011,Back Home Cafe,,21 Center St.,Rutland,VT,"(M),(R)","Restaurant,Bars/Clubs",1980,NA,-72.97889,43.60674,Google Verified Location
+1052,VT006,Battery Park,(N. Public Beach),,Burlington,VT,Cruisy Area,Cruising Areas,1980,NA,-73.219886,44.481301,Verified Location
+1079,VT033,Book King,"(Books, etc.)",57 Merchants Row,Rutland,VT,,Book Store,1978,NA,-72.9807534,43.6075409,Google Verified Location
+1098,VT052,Book King,(Book Store),57 Merchants Row,Rutland,VT,,Book Store,1976,NA,-72.9807534,43.6075409,Google Verified Location
+1071,VT025,Book King,"(Books, etc.)",57 Merchants Row,Rutland,VT,,Book Store,1979,NA,-72.9807534,43.6075409,Google Verified Location
+1091,VT045,Book King,(Books),57 Merchants Row,Rutland,VT,,Book Store,1977,NA,-72.9807534,43.6075409,Google Verified Location
+1087,VT041,Bus Depot & Park opposite,,,Burlington,VT,Cruisy Area,Cruising Areas,1977,NA,-73.212072,44.475883,Location could not be verified. General city or location coordinates used.
+1059,VT013,Bus Terminal,,,Rutland,VT,Cruisy Area,Cruising Areas,1980,NA,-72.972606,43.610624,Location could not be verified. General city or location coordinates used.
+1110,VT064,Chez Dufais,(upstairs),185 Pearl St.,Burlington,VT,(M),Bars/Clubs,1971,NA,-73.2116712,44.4802672,Google Verified Location
+1114,VT068,Chez Dufais,(upstairs),185 Pearl St.,Burlington,VT,(M),Bars/Clubs,1970,NA,-73.2116712,44.4802672,Google Verified Location
+1106,VT060,Chez Dufais,(upstairs),185 Pearl St.,Burlington,VT,(M),Bars/Clubs,1972,NA,-73.2116712,44.4802672,Google Verified Location
+1053,VT007,City Hall & adj. Park T-Rooms,,,Burlington,VT,Cruisy Area,Cruising Areas,1980,NA,-73.212854,44.476294,Verified Location
+1049,VT003,Flat St. Disco,(Wed. only) Inquire locally,,Brattleboro,VT,(YC),Bars/Clubs,1980,NA,-72.557868,42.850915,Location could not be verified. General city or location coordinates used.
+1103,VT057,Gay B's,,91 Main St.,Burlington,VT,"(R),(YC),(*)","Restaurant,Bars/Clubs",1973,NA,-73.2156493,44.4755725,Google Verified Location
+1104,VT058,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,(*),Bars/Clubs,1973,NA,-73.2116919,44.4761844,Google Verified Location
+1111,VT065,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,(*),Bars/Clubs,1971,NA,-73.2116919,44.4761844,Google Verified Location
+1101,VT055,Hi Hat Lounge,(Horseshoe bar),188 Main St.,Burlington,VT,"(M),(*)",Bars/Clubs,1974,NA,-73.2116919,44.4761844,Google Verified Location
+1115,VT069,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,(*),Bars/Clubs,1970,NA,-73.2116919,44.4761844,Google Verified Location
+1107,VT061,Hi Hat Lounge,(horseshoe bar),188 Main St.,Burlington,VT,(*),Bars/Clubs,1972,NA,-73.2116919,44.4761844,Google Verified Location
+1093,VT047,Hi Hat Lounge,(WE*) (Upstairs- horse-shoe bar),188 Main St.,Burlington,VT,"(M),(WE),(*)",Bars/Clubs,1976,NA,-73.2116919,44.4761844,Google Verified Location
+1100,VT054,Hi Hat Lounge,(Horseshoe bar),188 Main St.,Burlington,VT,"(M),(*)",Bars/Clubs,1975,NA,-73.2116919,44.4761844,Google Verified Location
+1112,VT066,Hotel Breton,(downstairs club),106 Church St.,Burlington,VT,"(M),(RT)","Hotel,Bars/Clubs",1971,NA,-73.2124,44.4775,Google Verified Location
+1108,VT062,Hotel Breton,(downstairs club),106 Church St.,Burlington,VT,"(M),(RT)","Bars/Clubs,Hotel",1972,NA,-73.2124,44.4775,Google Verified Location
+1116,VT070,Hotel Breton,(downstairs club),106 Church St.,Burlington,VT,"(M),(RT)","Bars/Clubs,Hotel",1970,NA,-73.2124,44.4775,Google Verified Location
+1072,VT026,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,(M),"Bars/Clubs,Hotel",1979,NA,-72.3187118,43.6483053,Google Verified Location
+1081,VT035,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,(M),"Hotel,Bars/Clubs",1978,NA,-72.3187118,43.6483053,Google Verified Location
+1092,VT046,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,(M),"Bars/Clubs,Hotel",1977,NA,-72.3187118,43.6483053,Google Verified Location
+1099,VT053,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,(M),"Bars/Clubs,Hotel",1976,NA,-72.3187118,43.6483053,Google Verified Location
+1102,VT056,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,"(M),(YC)","Hotel,Bars/Clubs",1974,NA,-72.3187118,43.6483053,Google Verified Location
+1105,VT059,Hotel Cooldige Bar,,17 S. Main St.,White River Junction,VT,"(M),(YC)","Bars/Clubs,Hotel",1973,NA,-72.3187118,43.6483053,Google Verified Location
+1063,VT017,Kierman's Lodge,(Ski resort),Sugarbush Road,Warren,VT,"(M),(YC),(R),(WE)","Bars/Clubs,Restaurant,Business",1980,NA,-72.891418,44.139083,Location could not be verified. General city or location coordinates used.
+1054,VT008,Main Square opp. Bus Terminal,(Late),,Burlington,VT,Cruisy Area,Cruising Areas,1980,NA,-73.212896,44.478825,Verified Location
+1070,VT024,Main Square opp. Bus Terminal,(Late),,Burlington,VT,Cruisy Area,Cruising Areas,1979,NA,-73.212896,44.478825,Verified Location
+1058,VT012,Mardi Gras,,40 Center St.,Rutland,VT,(*),Bars/Clubs,1980,NA,-72.97824,43.6064643,Google Verified Location
+1083,VT037,Millard Fillmore,,4 N. Winooski,Burlington,VT,"(HIP),(YC),(G)",Bars/Clubs,1977,NA,-73.2110093,44.4806742,Google Verified Location
+1067,VT021,Nector's ,(Very M) (Upstairs) ,188 Main St.,Burlington,VT,(M),Bars/Clubs,1979,NA,-73.2116919,44.4761844,Google Verified Location
+1084,VT038,Office Bar,,103 Church St.,Burlington,VT,"(M),(RT)",Bars/Clubs,1977,NA,-73.2127958,44.4774979,Google Verified Location
+1076,VT030,Office Bar,,103 Church St.,Burlington,VT,"(M),(RT)",Bars/Clubs,1978,NA,-73.2127958,44.4774979,Google Verified Location
+1094,VT048,Office Bar,,103 Church St.,Burlington,VT,"(M),(R)","Bars/Clubs,Restaurant",1976,NA,-73.2127958,44.4774979,Google Verified Location
+1118,VT072,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,(M),Bars/Clubs,1969,NA,-73.2116712,44.4802672,Google Verified Location
+1121,VT075,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,,Bars/Clubs,1965,NA,-73.2116712,44.4802672,Google Verified Location
+1119,VT073,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,(M),Bars/Clubs,1968,NA,-73.2116712,44.4802672,Google Verified Location
+1120,VT074,Orchid Room,(upstairs at Conrad's),185 Pearl St.,Burlington,VT,,Bars/Clubs,1966,NA,-73.2116712,44.4802672,Google Verified Location
+1061,VT015,Penelope's,Inquire locally,,Springfield,VT,"(M),(YC),(R)","Restaurant,Bars/Clubs",1980,NA,-72.482312,43.298408,Location could not be verified. General city or location coordinates used.
+1080,VT034,Rutland Adult Books,nr. McDonald's on So. Main,,Rutland,VT,,Book Store,1978,NA,-72.969328,43.595735,Location could not be verified. General city or location coordinates used.
+1090,VT044,State Line News,(Books),"U.S. Rte. 7, across from Gasland",Pownal,VT,,Book Store,1977,NA,-73.226946,42.792313,Location could not be verified. General city or location coordinates used.
+1097,VT051,State Line News Store,(Books & Movies),"U.S. Route. 7, across from Gasland",Pownal,VT,,Book Store,1976,NA,-73.226946,42.792313,Location could not be verified. General city or location coordinates used.
+1069,VT023,Taft Corners Adult Books,(Taft Corners Shopping Plaza) Rte. 2 & 2A (Wiliston),,Burlington,VT,,Book Store,1979,NA,-73.110622,44.450123,Verified Location
+1051,VT005,Taft Corners Adult Books,(Taft Corners Shopping Plaza) Rte. 2 & 2A (Wiliston),,Burlington,VT,,Book Store,1980,NA,-73.110622,44.450123,Verified Location
+1078,VT032,Taft Corners Adult Books,(Taft Corners Shopping Plaza) Rte. 2 & 2A (Wiliston),,Burlington,VT,,Book Store,1978,NA,-73.110622,44.450123,Verified Location
+1077,VT031,Taj Mahal,(Upstairs),115 College,Burlington,VT,"(HIP),(YC),(D),(M),(R)","Bars/Clubs,Restaurant",1978,NA,-73.215192,44.476831,Google Verified Location
+1068,VT022,Taj Mahal,(Downstairs),115 College,Burlington,VT,"(*),(HIP),(M),(YC),(R),(D)","Bars/Clubs,Restaurant",1979,NA,-73.215192,44.476831,Google Verified Location
+1085,VT039,Taj Mahal,(D)* (Upstairs) ,115 College,Burlington,VT,"(D),(*),(M),(R)","Bars/Clubs,Restaurant",1977,NA,-73.215192,44.476831,Google Verified Location
+1056,VT010,Tavern Motor Inn,,,Montpelier,VT,(M),"Hotel,Bars/Clubs",1980,NA,-72.578917,44.260618,Verified Location
+1073,VT027,The Mountain Lodge,(Ski Resort) Call: (617) 338-7975,,Ascutney,VT,"(H),(R)","Hotel,Restaurant",1978,NA,-72.470853,43.465939,Verified Location
+1064,VT018,The Mountain Lodge,(Ski Resort) Tel: (617) 338-7975,,Ascutney,VT,"(H),(R)","Hotel,Restaurant,Business",1979,NA,-72.470853,43.465939,Verified Location
+1086,VT040,The Sting,(Some G),135 Pearl St.,Burlington,VT,"(M),(YC),(G)",Bars/Clubs,1977,NA,-73.2134569,44.480225,Google Verified Location
+1048,VT002,Twin Cities News,"(Books) Twin Cities Shopping Plaza, Barre-Montpelier Rd.",Barre-Montpelier Rd.,Berlin,VT,,Book Store,1980,NA,-72.5472486,44.2218853,Google Verified Location
+1066,VT020,Twin Cities News,(Books) Twin Cities Shopping Plaza,Barre-Montpelier Rd.,Berlin,VT,,Book Store,1979,NA,-72.54702,44.221748,Location could not be verified. General city or location coordinates used.
+1075,VT029,Twin Cities News,(Books) Twin Cities Shopping Plaza,Barre-Montpelier Rd.,Berlin,VT,,Book Store,1978,NA,-72.54702,44.221748,Location could not be verified. General city or location coordinates used.
+1109,VT063,Two Guys Restaurant,,103 Church St.,Burlington,VT,(M),"Bars/Clubs,Restaurant",1972,NA,-73.2127958,44.4774979,Google Verified Location
+1113,VT067,Two Guys Restaurant,,103 Church St.,Burlington,VT,(M),"Restaurant,Bars/Clubs",1971,NA,-73.2127958,44.4774979,Google Verified Location
+1117,VT071,Two Guys Restaurant,,103 Church St.,Burlington,VT,(M),Bars/Clubs,1970,NA,-73.2127958,44.4774979,Google Verified Location
+1055,VT009,Vermont Transit - T-Room,,,Burlington,VT,Cruisy Area,Cruising Areas,1980,NA,-73.214283,44.479338,Location could not be verified. General city or location coordinates used.
+1088,VT042,Waybury Inn,,,East Middlebury,VT,"(M),(YC),(R)","Restaurant,Bars/Clubs",1977,NA,-73.096307,43.972426,Verified Location
+1095,VT049,Waybury Inn,Main St. nr. Ripton,,East Middlebury,VT,"(M),(R),(YC)","Restaurant,Bars/Clubs",1976,NA,-73.1033356,43.9726787,Google Verified Location

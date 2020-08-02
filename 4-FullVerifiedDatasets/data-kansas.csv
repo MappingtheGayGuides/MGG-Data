@@ -1,167 +1,167 @@
-ID,title,description,streetaddress,city,state,Year,amenityfeatures,type,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-KS001,'Rest Stop' on US 54,7 mi. E. (Watch out for Highway Patrol),,Augusta,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 4:56pm,", KS",-96.976702,37.686684,unclear_coded_by_hand,General Coordinates Used
-KS002,'Rest Stop' 1 mi. E. on US 56,,,Great Bend,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 4:52pm,", KS",-98.764807,38.364457,unclear_coded_by_hand,General Coordinates Used
-KS003,Roadside Park,2 mi. N.,,Hamilton,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 5:08pm,", KS",-96.164165,37.979471,unclear_coded_by_hand,General Coordinates Used
-KS004,'Rest Stop' on I-70,2 mi. W. of town,,Junction City,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 4:56pm,", KS",-96.831398,39.028609,unclear_coded_by_hand,General Coordinates Used
-KS005,Pete's Pub,(Some L) (Sundays *),2550 W. 47th St.,Kansas City,KS,1980,"(D),(L),(*)",Bars/Clubs,NA,NA,2/15/2020 6:42pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS006,K.U. Student Union,T-Rooms on all floors,,Lawrence,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 5:02pm,", KS",-95.243457,38.959072,unclear_coded_by_hand,Found
-KS007,'Rest Stop' 3 mi. W. on US 56,,,Lyons,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 4:56pm,", KS",-98.201727,38.34501,unclear_coded_by_hand,General Coordinates Used
-KS008,'Rest Stop' on I-70,10 mi. E. of Junction City,,Manhattan,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 4:56pm,", KS",-96.571669,39.183608,unclear_coded_by_hand,General Coordinates Used
-KS009,'Rest Stop' on I-70,,,Maple Hill,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 4:56pm,", KS",-96.028219,39.084581,unclear_coded_by_hand,General Coordinates Used
-KS010,'Rest Stop' on I-35,4 mi. W.,,Olathe,KS,1980,"Cruisy Area,(AYOR)",Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 4:56pm,", KS",-94.819128,38.881396,unclear_coded_by_hand,General Coordinates Used
-KS011,Metcalf Shopping Center,T-Rooms,,Overland Park,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:42pm,3/28/2020 5:05pm,", KS",-94.664768,38.992793,unclear_coded_by_hand,Found
-KS012,The Office,"(Some M, L, B, RT)",140 S. 5th St.,Salina,KS,1980,"(M),(L),(B),(RT),(PT)",Bars/Clubs,NA,NA,2/15/2020 6:42pm,2/16/2020 4:13am,"140 S. 5th St., Salina, KS",-97.608279,38.838843,"140 s 5th st, salina, ks 67401, usa",Geocoded
-KS013,Cre's,(Some L),2436 S.E. Virigina,Topeka,KS,1980,"(P),(D),(PT),(L),(*)",Bars/Clubs,NA,NA,2/15/2020 6:42pm,2/16/2020 4:13am,"2436 S.E. Virigina, Topeka, KS",-95.6643992,39.0230258,"2436 se virginia ave, topeka, ks 66605, usa",Geocoded
-KS014,Kenny's,S. Topeka,,Topeka,KS,1980,"(M),(R),(C),(AH)",Restaurant,checked,,2/15/2020 6:43pm,3/28/2020 5:03pm,", KS",-95.706292,39.007282,unclear_coded_by_hand,General Coordinates Used
-KS015,Lambda ,(Disco),1435 N. Tyler,Topeka,KS,1980,"(P),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"1435 N. Tyler, Topeka, KS",-95.6848523,39.0400543,"1435 sw tyler st, topeka, ks 66612, usa",Geocoded
-KS016,Poor Richard's,,9th & Quincy,Topeka,KS,1980,"(M),(R),(C),(AH)",Restaurant,checked,,2/15/2020 6:43pm,3/28/2020 5:06pm,"9th & Quincy, KS",-95.673696,39.046985,unclear_coded_by_hand,Found
-KS017,Gage Park,,,Topeka,KS,1980,"Cruisy Area,(AYOR)",Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:00pm,", KS",-95.728666,39.054246,unclear_coded_by_hand,Found
-KS018,Kansas Ave.,(Downtown) by automobile,,Topeka,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:03pm,", KS",-95.679358,39.029698,unclear_coded_by_hand,General Coordinates Used
-KS019,'Rest Stop' on Old Hwy. 75,,,Wakarusa,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-95.696034,38.885694,unclear_coded_by_hand,General Coordinates Used
-KS020,'Rest Stop' on Hwy 50 E.,,,Walton,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-97.2567,38.117789,unclear_coded_by_hand,General Coordinates Used
-KS021,Bus Station,(Disco) (Some L) (Liquor) (WE*),1117 E. Pawnee,Wichita,KS,1980,"(P),(D),(L),(WE),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"1117 E. Pawnee, Wichita, KS",-97.3243447,37.6499002,"1117 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS022,Club Bunnie's,(Disco) (Some L) (Show Address Book for Adm.) (Liquor),604 S. Topeka,Wichita,KS,1980,"(*),(P),(YC),(D),(L)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"604 S. Topeka, Wichita, KS",-97.3339553,37.6795139,"604 topeka, wichita, ks 67202, usa",Geocoded
-KS023,"Danny's Cattleman's Association, Ltd.",(Liquor or BYOB) (Forget it!),1534 Ida,Wichita,KS,1980,"(BYOB),(PT),(W)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS024,R & R Club,nr. Broadway,100 W. 31st St,Wichita,KS,1980,"(P),(D),(PT),(BYOB),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"100 W. 31st St, Wichita, KS",-97.3375869,37.637104,"100 w 31st st s, wichita, ks 67217, usa",Geocoded
-KS025,Circle Cinema,,,Wichita,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:57pm,", KS",-97.351854,37.647408,unclear_coded_by_hand,Found
-KS026,Oak Park- Riverside area,,,Wichita,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:06pm,", KS",-97.354499,37.705634,unclear_coded_by_hand,Found
-KS027,Trailways Bus Depot & Vicinity,,,Wichita,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:09pm,", KS",-97.33388,37.688737,unclear_coded_by_hand,General Coordinates Used
-KS028,Island Park,(Days),,Winfield,KS,1980,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:02pm,", KS",-96.9971,37.249228,unclear_coded_by_hand,Found
-KS029,'Rest Stop' on US 54,7 mi. E. (Watch out for Highway Patrol),,Augusta,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-96.976702,37.686684,unclear_coded_by_hand,General Coordinates Used
-KS030,'Rest Stop' on old US Hwy. 50,14 mi. E. (Days & nights),,Emporia,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-96.181663,38.403903,unclear_coded_by_hand,General Coordinates Used
-KS031,Roadside Park,2 mi. N.,,Hamilton,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:08pm,", KS",-96.164165,37.979471,unclear_coded_by_hand,General Coordinates Used
-KS032,Other Way ,(Closed Monday) (WE*),2410 E. 4th ,Hutchinson,KS,1979,"(P),(D),(WE),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"2410 E. 4th , Hutchinson, KS",-97.8867293,38.0580254,"2410 e 4th ave, hutchinson, ks 67501, usa",Geocoded
-KS033,'Rest Stop' on I-70,2 mi. W. of town,,Junction City,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-96.831398,39.028609,unclear_coded_by_hand,General Coordinates Used
-KS034,Pete's Pub,(Some G) (Sundays *),2550 W. 47th St.,Kansas City,KS,1979,"(D),(G),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS035,K.U. Student Union,T-Rooms on all floors,,Lawrence,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:02pm,", KS",-95.243457,38.959072,unclear_coded_by_hand,Found
-KS036,Roadside Park,7 mi. from town on US 40-toward Topeka,,Lawrence,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:08pm,", KS",-95.23525,38.971669,unclear_coded_by_hand,General Coordinates Used
-KS037,'Rest Stop' on I-70,10 mi. E. of Junction City,,Manhattan,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-96.571669,39.183608,unclear_coded_by_hand,General Coordinates Used
-KS038,'Rest Stop' on I-70,,,Maple Hill,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-96.028219,39.084581,unclear_coded_by_hand,General Coordinates Used
-KS039,'Rest Stop' on I-35,4 mi. W.,,Olathe,KS,1979,"Cruisy Area,(AYOR)",Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-94.819128,38.881396,unclear_coded_by_hand,General Coordinates Used
-KS040,Metcalf Shopping Center,T-Rooms,,Overland Park,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:05pm,", KS",-94.664768,38.992793,unclear_coded_by_hand,Found
-KS041,Kenny's,S. Topeka,,Topeka,KS,1979,"(M),(R),(C),(AH)",Restaurant,checked,,2/15/2020 6:43pm,3/28/2020 5:03pm,", KS",-95.706292,39.007282,unclear_coded_by_hand,General Coordinates Used
-KS042,Northside Tea Room,(Disco) (Some G) (P- out-of-state guests show Address Book for admission),1435 N. Tyler,Topeka,KS,1979,"(*),(D),(G),(P)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"1435 N. Tyler, Topeka, KS",-95.6848523,39.0400543,"1435 sw tyler st, topeka, ks 66612, usa",Geocoded
-KS043,Oz's,(Disco) (Liquor) (Out-of-state guests show Address Book for adm.),1006 Kansas,Topeka,KS,1979,"(P),(*),(D),(YC)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"1006 Kansas, Topeka, KS",-95.6654951,39.069238,"1006 n kansas ave, topeka, ks 66608, usa",Geocoded
-KS044,Poor Richard's,,9th & Quincy,Topeka,KS,1979,"(M),(R),(C),(AH)",Restaurant,checked,,2/15/2020 6:43pm,3/28/2020 5:06pm,"9th & Quincy, KS",-95.673696,39.046985,unclear_coded_by_hand,Found
-KS045,Gage Park,(HOT),,Topeka,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:00pm,", KS",-95.728666,39.054246,unclear_coded_by_hand,Found
-KS046,'Rest Stop' on Old Hwy. 75,,,Wakarusa,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-95.696034,38.885694,unclear_coded_by_hand,General Coordinates Used
-KS047,'Rest Stop' on Hwy 50 E.,,,Walton,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 4:56pm,", KS",-97.2567,38.117789,unclear_coded_by_hand,General Coordinates Used
-KS048,Bus Station,(Disco) (Some G) (Liquor) (WE*),1117 E. Pawnee,Wichita,KS,1979,"(P),(D),(G),(WE),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"1117 E. Pawnee, Wichita, KS",-97.3243447,37.6499002,"1117 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS049,"Cattlemen's Assocation, Ltd.",('Flicks & cruisy back room) (P-show Address Book for adm.) (Open days) (Liquor or BYOB) (See ad p. 173),1534 Ida,Wichita,KS,1979,"(*),(W),(PT),(P)","Bars/Clubs,Theatre,Cruising Areas",NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS050,Omage's Tavern,(3.2 beer) (Disco) (go go boys) (see ad p.173),3046 E. 31st St. S.,Wichita,KS,1979,"(YC),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"3046 E. 31st St. S., Wichita, KS",-97.3003753,37.6354146,"3046 e 31st st s, wichita, ks 67216, usa",Geocoded
-KS051,R & R Club,nr. Broadway,100 W. 31st St,Wichita,KS,1979,"(P),(D),(PT),(BYOB),(*)",Bars/Clubs,NA,NA,2/15/2020 6:43pm,2/16/2020 4:13am,"100 W. 31st St, Wichita, KS",-97.3375869,37.637104,"100 w 31st st s, wichita, ks 67217, usa",Geocoded
-KS052,Oak Park-Riverside area,(Cl. 12 midnight),,Wichita,KS,1979,"(YC),Cruisy Area",Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:05pm,", KS",-97.354499,37.705634,unclear_coded_by_hand,Found
-KS053,Trailways Bus Depot,('Hustlers'),,Wichita,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 6:43pm,3/28/2020 5:09pm,", KS",-97.33388,37.688737,unclear_coded_by_hand,General Coordinates Used
-KS054,Island Park,(days),,Winfield,KS,1979,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 5:02pm,", KS",-96.9971,37.249228,unclear_coded_by_hand,Found
-KS055,'Rest Stop' on US 54,7 mi. E. (Watch out for Highway Patrol),,Augusta,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 4:56pm,", KS",-96.976702,37.686684,unclear_coded_by_hand,General Coordinates Used
-KS056,'Rest Stop' on old US Hwy. 50,14 mi. E. (good days & nights),,Emporia,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 4:56pm,", KS",-96.181663,38.403903,unclear_coded_by_hand,General Coordinates Used
-KS057,Roadside Park,2 mi. N.,,Hamilton,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 5:08pm,", KS",-96.164165,37.979471,unclear_coded_by_hand,General Coordinates Used
-KS058,Rosalea's Hotel,(May 1 to Labor Day - write first as local Ma Bell had the phone cut off),121 Mian St.,Harper,KS,1978,(H),Hotels,NA,NA,2/15/2020 8:55pm,2/16/2020 4:13am,"121 Mian St., Harper, KS",-98.0271292,37.286393,"121 w main st, harper, ks 67058, usa",Geocoded
-KS059,'Rest Stop' on I-70,2 mi. W. of town,,Junction City,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 4:56pm,", KS",-96.831398,39.028609,unclear_coded_by_hand,General Coordinates Used
-KS060,Pete's Pub,(Some G) (Open Sundays *),2550 W. 47th St.,Kansas City,KS,1978,"(D),(G),(*)",Bars/Clubs,NA,NA,2/15/2020 8:55pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS061,K.U. Student Union,T-Rooms on all floors,,Lawrence,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 5:02pm,", KS",-95.243457,38.959072,unclear_coded_by_hand,Found
-KS062,Roadside Park,7 mi. from town on US Hwy 40 toward Topeka,,Lawrence,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 5:08pm,", KS",-95.23525,38.971669,unclear_coded_by_hand,General Coordinates Used
-KS063,'Rest Stop' on I-70,10 mi. E. of Junction City,,Manhattan,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 4:56pm,", KS",-96.571669,39.183608,unclear_coded_by_hand,General Coordinates Used
-KS064,'Rest Stop' on I-70,,,Maple Hill,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 4:56pm,", KS",-96.028219,39.084581,unclear_coded_by_hand,General Coordinates Used
-KS065,'Rest Stop' on I-35,4 mi. W.,,Olathe,KS,1978,"Cruisy Area,(AYOR)",Cruising Areas,checked,,2/15/2020 8:55pm,3/28/2020 4:56pm,", KS",-94.819128,38.881396,unclear_coded_by_hand,General Coordinates Used
-KS066,Guys & Dolls ,(Some G) (3.2 beer),415 Kansas Ave.,Topeka,KS,1978,"(D),(G)",Bars/Clubs,NA,NA,2/15/2020 8:55pm,2/16/2020 4:13am,"415 Kansas Ave., Topeka, KS",-95.6728176,39.0538354,"415 s kansas ave, topeka, ks 66603, usa",Geocoded
-KS067,Jayhawk Liquor Store,,117 W. 7th,Topeka,KS,1978,(M),Business,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"117 W. 7th, Topeka, KS",-95.6729537,39.0498335,"117 se 7th st, topeka, ks 66603, usa",Geocoded
-KS068,Midnight Sun,(Some G) (Swim pool - summers),2633 N. Kansas,Topeka,KS,1978,"(*),(P),(YC),(G),(D),(BYOB)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"2633 N. Kansas, Topeka, KS",-95.6604411,39.0945503,"2633 n kansas ave, topeka, ks 66617, usa",Geocoded
-KS069,Northside Tea Room,(Disco) (Liquor) (P- out-of-state guests show Address Book for adm.),1435 N. Tyler,Topeka,KS,1978,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"1435 N. Tyler, Topeka, KS",-95.6848523,39.0400543,"1435 sw tyler st, topeka, ks 66612, usa",Geocoded
-KS070,Poor Richard's,,9th & Quincy,Topeka,KS,1978,"(M),(R),(C),(AH)",Restaurant,checked,,2/15/2020 9:06pm,3/28/2020 5:06pm,"9th & Quincy, KS",-95.673696,39.046985,unclear_coded_by_hand,Found
-KS071,Sambo's,,5th & Topeka,Topeka,KS,1978,"(M),(R),(C),(AH)",Bars/Clubs,checked,,2/15/2020 9:06pm,3/28/2020 5:09pm,"5th & Topeka, KS",-95.678322,39.054634,unclear_coded_by_hand,Found
-KS072,The Shoppe,(Gift & books)*,115 W. 7th,Topeka,KS,1978,(*),"Book Store,Business",NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"115 W. 7th, Topeka, KS",-95.6729828,39.0497926,"115 se 7th st, topeka, ks 66603, usa",Geocoded
-KS073,Gage Park,(HOT),,Topeka,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 5:00pm,", KS",-95.728666,39.054246,unclear_coded_by_hand,Found
-KS074,'Rest Stop' on Old Hwy. 75,,,Wakarusa,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 4:56pm,", KS",-95.696034,38.885694,unclear_coded_by_hand,General Coordinates Used
-KS075,'Rest Stop' on Hwy 50 E.,,,Walton,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 4:56pm,", KS",-97.2567,38.117789,unclear_coded_by_hand,General Coordinates Used
-KS076,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,1978,"(P),(G),(D),(PT),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"1117 E. Pawnee, Wichita, KS",-97.3243447,37.6499002,"1117 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS077,"Cattlemen's Assocation, Ltd.",(Beer & wine) (Good afternoons),1534 Ida,Wichita,KS,1978,"(W),(PT),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS078,Helping Hands,(Some G) (Disco) (3.2 beer),3318 W. Douglas,Wichita,KS,1978,"(*),(YC),(G),(D),(PT),(S)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"3318 W. Douglas, Wichita, KS",-97.3823454,37.6842412,"3318 w douglas ave, wichita, ks 67203, usa",Geocoded
-KS079,Mountain Hollow,,Kellog & Broadway,Wichita,KS,1978,"(M),(R),(C),(AH)",Restaurant,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"Kellog & Broadway, Wichita, KS",-97.1094837,37.2591916,"kellogg, vernon, ks 67119, usa",Geocoded
-KS080,R&R Club,nr. Broadway,100 W. 31st S.,Wichita,KS,1978,"(P),(D),(PT),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"100 W. 31st S., Wichita, KS",-97.3375869,37.637104,"100 w 31st st s, wichita, ks 67217, usa",Geocoded
-KS081,Herman Hill Park,(HOT),,Wichita,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 5:00pm,", KS",-97.337476,37.648199,unclear_coded_by_hand,Found
-KS082,Oak Park,(Riverside Area) (Closes at 12 midnight),,Wichita,KS,1978,"(YC),Cruisy Area",Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 5:06pm,", KS",-97.354499,37.705634,unclear_coded_by_hand,Found
-KS083,Island Park,(days),,Winfield,KS,1978,Cruisy Area,Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 5:02pm,", KS",-96.9971,37.249228,unclear_coded_by_hand,Found
-KS084,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,1977,"(D),(G),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS085,Guys & Dolls ,"(Some G, B, D) (beer)",415 Kansas Ave.,Topeka,KS,1977,"(G),(B),(D)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"415 Kansas Ave., Topeka, KS",-95.6728176,39.0538354,"415 s kansas ave, topeka, ks 66603, usa",Geocoded
-KS086,Midnight Sun,(Swim pool - summers) Open til 3 a.m.,2633 N. Kansas,Topeka,KS,1977,"(P),(YC),(D),(BYOB),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"2633 N. Kansas, Topeka, KS",-95.6604411,39.0945503,"2633 n kansas ave, topeka, ks 66617, usa",Geocoded
-KS087,Gage Park,HOT,,Topeka,KS,1977,Cruisy Area,Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 5:00pm,", KS",-95.728666,39.054246,unclear_coded_by_hand,Found
-KS088,Bus Station,,1117 E. Pawnee,Wichita,KS,1977,"(P),(G),(D),(PT),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"1117 E. Pawnee, Wichita, KS",-97.3243447,37.6499002,"1117 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS089,Eleven Twenty-Three Club,(Occasional S),1123 E. Douglas,Wichita,KS,1977,"(*),(P),(D),(S)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS090,Helping Hands,(Disco) (3.2 beer only),3318 W. Douglas,Wichita,KS,1977,"(YC),(D),(PT)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"3318 W. Douglas, Wichita, KS",-97.3823454,37.6842412,"3318 w douglas ave, wichita, ks 67203, usa",Geocoded
-KS091,Jack's by the Tracks,,1534 Ida,Wichita,KS,1977,"(P),(D),(PT),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS092,R&R Club,(Looks promising),31st and South Broadway,Wichita,KS,1977,"(P),(D),(PT)",Bars/Clubs,checked,,2/15/2020 9:06pm,3/28/2020 5:08pm,"31st and South Broadway, KS",-97.334385,37.637141,unclear_coded_by_hand,Found
-KS093,Herman HIll Park,,,Wichita,KS,1977,Cruisy Area,Cruising Areas,checked,,2/15/2020 9:06pm,3/28/2020 5:00pm,", KS",-97.337476,37.648199,unclear_coded_by_hand,Found
-KS094,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,1976,"(D),(G),(*)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS095,Alley,Across from bowling alley,,Pittsburgh,KS,1976,"(M),(YC)",Bars/Clubs,checked,,2/15/2020 9:06pm,3/28/2020 4:56pm,", KS",-94.70391,37.430047,unclear_coded_by_hand,Found
-KS096,Guys & Dolls ,"(Some G, B) (3.2 beer only)",415 Kansas Ave.,Topeka,KS,1976,"(G),(B),(D)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"415 Kansas Ave., Topeka, KS",-95.6728176,39.0538354,"415 s kansas ave, topeka, ks 66603, usa",Geocoded
-KS097,Mae's Place,(Some G) ,922 Kansas Ave.,Topeka,KS,1976,"(P),(G),(D),(BYOB)",Bars/Clubs,NA,NA,2/15/2020 9:06pm,2/16/2020 4:13am,"922 Kansas Ave., Topeka, KS",-95.6751845,39.0464432,"922 s kansas ave, topeka, ks 66612, usa",Geocoded
-KS098,Other Side,"(swim pool summers, WE 1 p.m. - 3 a.m. Other times 9 p.m. - 3 a.m.)",2633 N. Kansas,Topeka,KS,1976,"(P),(YC),(D),(BYOB)",Bars/Clubs,NA,NA,2/15/2020 10:22pm,2/16/2020 4:13am,"2633 N. Kansas, Topeka, KS",-95.6604411,39.0945503,"2633 n kansas ave, topeka, ks 66617, usa",Geocoded
-KS099,Gage Park,(HOT),,Topeka,KS,1976,Cruisy Area,Cruising Areas,checked,,2/15/2020 10:22pm,3/28/2020 5:00pm,", KS",-95.728666,39.054246,unclear_coded_by_hand,Found
-KS100,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,1976,"(P),(D),(G),(*)",Bars/Clubs,NA,NA,2/15/2020 10:22pm,2/16/2020 4:13am,"1117 E. Pawnee, Wichita, KS",-97.3243447,37.6499002,"1117 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS101,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1976,"(P),(YC),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:32pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS102,Helping Hands,(3.2 beer only),3318 W. Douglas,Wichita,KS,1976,,Bars/Clubs,NA,NA,2/15/2020 10:32pm,2/16/2020 4:13am,"3318 W. Douglas, Wichita, KS",-97.3823454,37.6842412,"3318 w douglas ave, wichita, ks 67203, usa",Geocoded
-KS103,Jack's by the Tracks,,1534 Ida,Wichita,KS,1976,"(P),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:32pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS104,Herman HIll Park,,,Wichita,KS,1976,Cruisy Area,Cruising Areas,checked,,2/15/2020 10:32pm,3/28/2020 5:00pm,", KS",-97.337476,37.648199,unclear_coded_by_hand,Found
-KS105,Alternate,(May be re-opening - Inqurie locally),2550 W. 47th St.,Kansas City,KS,1975,,Bars/Clubs,checked,address is 2550 W. 47th St. (same as Pete's pub-- Gonzaba note),2/15/2020 10:32pm,3/28/2020 4:57pm,"2550 W. 47th St., KS",-94.638765,39.04381,unclear_coded_by_hand,Found
-KS106,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,1975,"(D),(G),(*)",Bars/Clubs,NA,NA,2/15/2020 10:32pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS107,Louise's,,1017 Massachusetts,Lawrence,KS,1975,(M),Bars/Clubs,NA,NA,2/15/2020 10:32pm,2/16/2020 4:13am,"1017 Massachusetts, Lawrence, KS",-95.2362428,38.9649531,"1017 massachusetts st, lawrence, ks 66044, usa",Geocoded
-KS108,Alley,Across from bowling alley,,Pittsburgh,KS,1975,"(M),(YC)",Bars/Clubs,checked,,2/15/2020 10:32pm,3/28/2020 4:56pm,", KS",-94.70391,37.430047,unclear_coded_by_hand,Found
-KS109,Other Side,(12 noon to 3 a.m. daily),2633 N. Kansas,Topeka,KS,1975,"(P),(D),(YC),(R),(BYOB),(*)",Restaurant,NA,NA,2/15/2020 10:32pm,2/16/2020 4:13am,"2633 N. Kansas, Topeka, KS",-95.6604411,39.0945503,"2633 n kansas ave, topeka, ks 66617, usa",Geocoded
-KS110,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1975,,Bars/Clubs,NA,NA,2/15/2020 10:38pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS111,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,1975,"(P),(D),(G)",Bars/Clubs,NA,NA,2/15/2020 10:38pm,2/16/2020 4:13am,"1117 E. Pawnee, Wichita, KS",-97.3243447,37.6499002,"1117 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS112,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1975,"(P),(D),(YC),(*)",Bars/Clubs,NA,NA,2/15/2020 10:38pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS113,Jack's by the Tracks,,1534 Ida,Wichita,KS,1975,"(P),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:38pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS114,Jekyll & Hyde,,1119 E. Pawnee,Wichita,KS,1975,"(G),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:38pm,2/16/2020 4:13am,"1119 E. Pawnee, Wichita, KS",-97.3241414,37.6497477,"1119 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS115,Herman HIll Park,,,Wichita,KS,1975,Cruisy Area,Cruising Areas,checked,,2/15/2020 10:38pm,3/28/2020 5:00pm,", KS",-97.337476,37.648199,unclear_coded_by_hand,Found
-KS116,Pete's Pub,,2550 W. 47th St.,Kansas City,KS,1974,"(G),(*)",Bars/Clubs,NA,NA,2/15/2020 10:38pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS117,Louise's,,1017 Massachusetts,Lawrence,KS,1974,(M),Bars/Clubs,NA,NA,2/15/2020 10:38pm,2/16/2020 4:13am,"1017 Massachusetts, Lawrence, KS",-95.2362428,38.9649531,"1017 massachusetts st, lawrence, ks 66044, usa",Geocoded
-KS118,Alley,Across from bowling alley,,Pittsburgh,KS,1974,"(M),(YC)",Bars/Clubs,checked,,2/15/2020 10:44pm,3/28/2020 4:56pm,", KS",-94.70391,37.430047,unclear_coded_by_hand,Found
-KS119,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1974,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS120,Eleven-Twenty-Three Club,(some G) ,1123 E. Douglas,Wichita,KS,1974,"(P),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS121,Jack's by the Tracks,,1534 Ida,Wichita,KS,1974,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS122,Quiet Room,,1527 E. Pawnee,Wichita,KS,1974,"(P),(D),(HIP),(YC),(*)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1527 E. Pawnee, Wichita, KS",-97.319666,37.6494121,"1527 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS123,Herman HIll Park,,,Wichita,KS,1974,Cruisy Area,Cruising Areas,checked,,2/15/2020 10:44pm,3/28/2020 5:00pm,", KS",-97.337476,37.648199,unclear_coded_by_hand,Found
-KS124,Bank,('packed' late after Missouri bars closed),722 Southwest Boulevard,Kansas City,KS,1973,"(P),(HIP),(YC),(D),(R)","Restaurant,Bars/Clubs",NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"722 Southwest Boulevard, Kansas City, KS",-94.6184248,39.0639529,"722 southwest blvd, kansas city, ks 66103, usa",Geocoded
-KS125,Indians,(Other Side),1610 Minnesota Ave.,Kansas City,KS,1973,"(P),(D)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1610 Minnesota Ave., Kansas City, KS",-94.6475777,39.1157985,"1610 minnesota ave, kansas city, ks 66102, usa",Geocoded
-KS126,Pete's Pub,,2550 W. 47th St.,Kansas City,KS,1973,(G),Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS127,Louise's,,1017 Massachusetts,Lawrence,KS,1973,(M),Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1017 Massachusetts, Lawrence, KS",-95.2362428,38.9649531,"1017 massachusetts st, lawrence, ks 66044, usa",Geocoded
-KS128,Alley,Across fr. bowling alley,,Pittsburgh,KS,1973,"(M),(YC)",Bars/Clubs,checked,,2/15/2020 10:44pm,3/28/2020 4:56pm,", KS",-94.70391,37.430047,unclear_coded_by_hand,Found
-KS129,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1973,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS130,Eleven-Twenty-Three Club,(some (G)) ,1123 E. Douglas,Wichita,KS,1973,"(G),(P),(D)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS131,Jack's by the Tracks,,1534 Ida,Wichita,KS,1973,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS132,Quiet Room,,1527 E. Pawnee,Wichita,KS,1973,"(P),(D),(HIP),(YC),(*)",Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1527 E. Pawnee, Wichita, KS",-97.319666,37.6494121,"1527 e pawnee st, wichita, ks 67211, usa",Geocoded
-KS133,Third Stone,,1009 E. Douglas,Wichita,KS,1973,,Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"1009 E. Douglas, Wichita, KS",-97.3258596,37.6857865,"1009 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS134,Herman HIll Park,,,Wichita,KS,1973,Cruisy Area,Cruising Areas,checked,,2/15/2020 10:44pm,3/28/2020 5:00pm,", KS",-97.337476,37.648199,unclear_coded_by_hand,Found
-KS135,Tap Room,,514 Commerical,Emporia,KS,1972,,Bars/Clubs,NA,NA,2/15/2020 10:44pm,2/16/2020 4:13am,"514 Commerical, Emporia, KS",-96.1798998,38.3912366,"514 s commercial st, emporia, ks 66801, usa",Geocoded
-KS136,Alternate,(iopen 7 days 'till 3 am) ,2550 W. 47th St.,Kansas City,KS,1972,"(G),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"2550 W. 47th St., Kansas City, KS",-94.6160448,39.0443045,"2550 w 47th ave, kansas city, ks 66103, usa",Geocoded
-KS137,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,1972,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"121 E. 4th St., Pittsburgh, KS",-94.7037081,37.4112854,"121 e 4th st, pittsburg, ks 66762, usa",Geocoded
-KS138,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1972,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS139,Eleven-Twenty-Three Club,(get admission card at Red Head early),1123 E. Douglas,Wichita,KS,1972,"(P),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS140,Jack's by the Tracks,,1534 Ida,Wichita,KS,1972,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"1534 Ida, Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS141,Red Head,,418 W. 2nd,Wichita,KS,1972,(G),Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"418 W. 2nd, Wichita, KS",-97.3422414,37.6897483,"418 west 2nd st n, wichita, ks 67202, usa",Geocoded
-KS142,Tap Room,,514 Commerical,Emporia,KS,1971,,Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"514 Commerical, Emporia, KS",-96.1798998,38.3912366,"514 s commercial st, emporia, ks 66801, usa",Geocoded
-KS143,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,1971,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"121 E. 4th St., Pittsburgh, KS",-94.7037081,37.4112854,"121 e 4th st, pittsburg, ks 66762, usa",Geocoded
-KS144,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1971,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS145,Eleven-Twenty-Three Club,(get admission card at Red Head before midnite),1123 E. Douglas,Wichita,KS,1971,"(P),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS146,Jack's by the Tracks,,1534 Ida St.,Wichita,KS,1971,(*),Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"1534 Ida St., Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS147,Red Head,,418 W. 2nd,Wichita,KS,1971,(G),Bars/Clubs,NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"418 W. 2nd, Wichita, KS",-97.3422414,37.6897483,"418 west 2nd st n, wichita, ks 67202, usa",Geocoded
-KS148,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,1970,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 10:54pm,2/16/2020 4:13am,"121 E. 4th St., Pittsburgh, KS",-94.7037081,37.4112854,"121 e 4th st, pittsburg, ks 66762, usa",Geocoded
-KS149,Terrace Lounge,,116 E. 7th St.,Topeka,KS,1970,"(D),(*)",Bars/Clubs,NA,NA,2/15/2020 11:01pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS150,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1970,"(P),(D),(*)",Bars/Clubs,NA,NA,2/15/2020 11:01pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS151,Jack's Jolly Jug No. 2,,1534 Ida St.,Wichita,KS,1970,,Bars/Clubs,NA,NA,2/15/2020 11:01pm,2/16/2020 4:13am,"1534 Ida St., Wichita, KS",-97.3250277,37.6649887,"1534 s ida st, wichita, ks 67211, usa",Geocoded
-KS152,Red Flame,,1009 E. Douglas,Wichita,KS,1970,(*),Bars/Clubs,NA,NA,2/15/2020 11:01pm,2/16/2020 4:13am,"1009 E. Douglas, Wichita, KS",-97.3258596,37.6857865,"1009 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS153,Red Head,,418 W. 2nd,Wichita,KS,1970,(G),Bars/Clubs,NA,NA,2/15/2020 11:01pm,2/16/2020 4:13am,"418 W. 2nd, Wichita, KS",-97.3422414,37.6897483,"418 west 2nd st n, wichita, ks 67202, usa",Geocoded
-KS154,Jade Room,,116 E. 7th St.,Topeka,KS,1969,,Bars/Clubs,NA,NA,2/15/2020 11:01pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS155,Copper Lounge,"William St, bet. Broadway & Market",,Wichita,KS,1969,(M),Bars/Clubs,checked,,2/15/2020 11:04pm,3/28/2020 4:59pm,", KS",-97.335748,37.684796,unclear_coded_by_hand,Found
-KS156,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1969,"(P),(D)",Bars/Clubs,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS157,Jolly Jug,,418 W 2nd,Wichita,KS,1969,(*),Bars/Clubs,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"418 W 2nd, Wichita, KS",-97.3422414,37.6897483,"418 west 2nd st n, wichita, ks 67202, usa",Geocoded
-KS158,Jade Room,,116 E. 7th St.,Topeka,KS,1968,,Bars/Clubs,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS159,Copper Lounge,"William St, bet. Broadway & Market",,Wichita,KS,1968,(M),Bars/Clubs,checked,,2/15/2020 11:04pm,3/28/2020 4:59pm,", KS",-97.335748,37.684796,unclear_coded_by_hand,Found
-KS160,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,1968,"(P),(D)",Bars/Clubs,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS161,Jack's,,W Douglas St.,Wichita,KS,1968,(RT),Bars/Clubs,checked,,2/15/2020 11:04pm,3/28/2020 5:02pm,"W Douglas St., KS",-97.497939,37.682793,unclear_coded_by_hand,General Coordinates Used
-KS162,Jolly Jug,,418 W 2nd,Wichita,KS,1968,(*),Bars/Clubs,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"418 W 2nd, Wichita, KS",-97.3422414,37.6897483,"418 west 2nd st n, wichita, ks 67202, usa",Geocoded
-KS163,Jade Room,(formerly Bon Sai),116 E. 7th St.,Topeka,KS,1966,(*),Bars/Clubs,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS164,Chances,,1123 E. Douglas,Wichita,KS,1966,(R),Restaurant,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
-KS165,Bon Sai,,116 E. 7th St.,Topeka,KS,1965,(*),Bars/Clubs,NA,NA,2/15/2020 11:04pm,2/16/2020 4:13am,"116 E. 7th St., Topeka, KS",-95.672848,39.0502133,"116 se 7th st, topeka, ks 66603, usa",Geocoded
-KS166,Chances,,1123 E. Douglas,Wichita,KS,1965,(R),Restaurant,NA,NA,2/15/2020 11:12pm,2/16/2020 4:13am,"1123 E. Douglas, Wichita, KS",-97.3240808,37.6857979,"1123 e douglas ave, wichita, ks 67211, usa",Geocoded
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+1123,KS002,'Rest Stop' 1 mi. E. on US 56,,,Great Bend,KS,Cruisy Area,Cruising Areas,1980,,-98.764807,38.364457,Location could not be verified. General city or location coordinates used.
+1128,KS007,'Rest Stop' 3 mi. W. on US 56,,,Lyons,KS,Cruisy Area,Cruising Areas,1980,,-98.201727,38.34501,Location could not be verified. General city or location coordinates used.
+1141,KS020,'Rest Stop' on Hwy 50 E.,,,Walton,KS,Cruisy Area,Cruising Areas,1980,,-97.2567,38.117789,Location could not be verified. General city or location coordinates used.
+1168,KS047,'Rest Stop' on Hwy 50 E.,,,Walton,KS,Cruisy Area,Cruising Areas,1979,,-97.2567,38.117789,Location could not be verified. General city or location coordinates used.
+1196,KS075,'Rest Stop' on Hwy 50 E.,,,Walton,KS,Cruisy Area,Cruising Areas,1978,,-97.2567,38.117789,Location could not be verified. General city or location coordinates used.
+1186,KS065,'Rest Stop' on I-35,4 mi. W.,,Olathe,KS,"Cruisy Area,(AYOR)",Cruising Areas,1978,,-94.819128,38.881396,Location could not be verified. General city or location coordinates used.
+1131,KS010,'Rest Stop' on I-35,4 mi. W.,,Olathe,KS,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-94.819128,38.881396,Location could not be verified. General city or location coordinates used.
+1160,KS039,'Rest Stop' on I-35,4 mi. W.,,Olathe,KS,"Cruisy Area,(AYOR)",Cruising Areas,1979,,-94.819128,38.881396,Location could not be verified. General city or location coordinates used.
+1185,KS064,'Rest Stop' on I-70,,,Maple Hill,KS,Cruisy Area,Cruising Areas,1978,,-96.028219,39.084581,Location could not be verified. General city or location coordinates used.
+1158,KS037,'Rest Stop' on I-70,10 mi. E. of Junction City,,Manhattan,KS,Cruisy Area,Cruising Areas,1979,,-96.571669,39.183608,Location could not be verified. General city or location coordinates used.
+1130,KS009,'Rest Stop' on I-70,,,Maple Hill,KS,Cruisy Area,Cruising Areas,1980,,-96.028219,39.084581,Location could not be verified. General city or location coordinates used.
+1159,KS038,'Rest Stop' on I-70,,,Maple Hill,KS,Cruisy Area,Cruising Areas,1979,,-96.028219,39.084581,Location could not be verified. General city or location coordinates used.
+1129,KS008,'Rest Stop' on I-70,10 mi. E. of Junction City,,Manhattan,KS,Cruisy Area,Cruising Areas,1980,,-96.571669,39.183608,Location could not be verified. General city or location coordinates used.
+1154,KS033,'Rest Stop' on I-70,2 mi. W. of town,,Junction City,KS,Cruisy Area,Cruising Areas,1979,,-96.831398,39.028609,Location could not be verified. General city or location coordinates used.
+1184,KS063,'Rest Stop' on I-70,10 mi. E. of Junction City,,Manhattan,KS,Cruisy Area,Cruising Areas,1978,,-96.571669,39.183608,Location could not be verified. General city or location coordinates used.
+1125,KS004,'Rest Stop' on I-70,2 mi. W. of town,,Junction City,KS,Cruisy Area,Cruising Areas,1980,,-96.831398,39.028609,Location could not be verified. General city or location coordinates used.
+1180,KS059,'Rest Stop' on I-70,2 mi. W. of town,,Junction City,KS,Cruisy Area,Cruising Areas,1978,,-96.831398,39.028609,Location could not be verified. General city or location coordinates used.
+1167,KS046,'Rest Stop' on Old Hwy. 75,,,Wakarusa,KS,Cruisy Area,Cruising Areas,1979,,-95.696034,38.885694,Location could not be verified. General city or location coordinates used.
+1195,KS074,'Rest Stop' on Old Hwy. 75,,,Wakarusa,KS,Cruisy Area,Cruising Areas,1978,,-95.696034,38.885694,Location could not be verified. General city or location coordinates used.
+1140,KS019,'Rest Stop' on Old Hwy. 75,,,Wakarusa,KS,Cruisy Area,Cruising Areas,1980,,-95.696034,38.885694,Location could not be verified. General city or location coordinates used.
+1177,KS056,'Rest Stop' on old US Hwy. 50,14 mi. E. (good days & nights),,Emporia,KS,Cruisy Area,Cruising Areas,1978,,-96.181663,38.403903,Location could not be verified. General city or location coordinates used.
+1151,KS030,'Rest Stop' on old US Hwy. 50,14 mi. E. (Days & nights),,Emporia,KS,Cruisy Area,Cruising Areas,1979,,-96.181663,38.403903,Location could not be verified. General city or location coordinates used.
+1150,KS029,'Rest Stop' on US 54,7 mi. E. (Watch out for Highway Patrol),,Augusta,KS,Cruisy Area,Cruising Areas,1979,,-96.976702,37.686684,Location could not be verified. General city or location coordinates used.
+1176,KS055,'Rest Stop' on US 54,7 mi. E. (Watch out for Highway Patrol),,Augusta,KS,Cruisy Area,Cruising Areas,1978,,-96.976702,37.686684,Location could not be verified. General city or location coordinates used.
+1122,KS001,'Rest Stop' on US 54,7 mi. E. (Watch out for Highway Patrol),,Augusta,KS,Cruisy Area,Cruising Areas,1980,,-96.976702,37.686684,Location could not be verified. General city or location coordinates used.
+1229,KS108,Alley,Across from bowling alley,,Pittsburgh,KS,"(M),(YC)",Bars/Clubs,1975,,-94.70391,37.430047,Verified Location
+1239,KS118,Alley,Across from bowling alley,,Pittsburgh,KS,"(M),(YC)",Bars/Clubs,1974,,-94.70391,37.430047,Verified Location
+1216,KS095,Alley,Across from bowling alley,,Pittsburgh,KS,"(M),(YC)",Bars/Clubs,1976,,-94.70391,37.430047,Verified Location
+1249,KS128,Alley,Across fr. bowling alley,,Pittsburgh,KS,"(M),(YC)",Bars/Clubs,1973,,-94.70391,37.430047,Verified Location
+1226,KS105,Alternate,(May be re-opening - Inqurie locally),2550 W. 47th St.,Kansas City,KS,,Bars/Clubs,1975,address is 2550 W. 47th St. (same as Pete's pub-- Gonzaba note),-94.638765,39.04381,Verified Location
+1257,KS136,Alternate,(iopen 7 days 'till 3 am) ,2550 W. 47th St.,Kansas City,KS,"(G),(D),(*)",Bars/Clubs,1972,NA,-94.6160448,39.0443045,Google Verified Location
+1245,KS124,Bank,('packed' late after Missouri bars closed),722 Southwest Boulevard,Kansas City,KS,"(P),(HIP),(YC),(D),(R)","Restaurant,Bars/Clubs",1973,NA,-94.6184248,39.0639529,Google Verified Location
+1286,KS165,Bon Sai,,116 E. 7th St.,Topeka,KS,(*),Bars/Clubs,1965,NA,-95.672848,39.0502133,Google Verified Location
+1232,KS111,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,"(P),(D),(G)",Bars/Clubs,1975,NA,-97.3243447,37.6499002,Google Verified Location
+1169,KS048,Bus Station,(Disco) (Some G) (Liquor) (WE*),1117 E. Pawnee,Wichita,KS,"(P),(D),(G),(WE),(*)",Bars/Clubs,1979,NA,-97.3243447,37.6499002,Google Verified Location
+1209,KS088,Bus Station,,1117 E. Pawnee,Wichita,KS,"(P),(G),(D),(PT),(*)",Bars/Clubs,1977,NA,-97.3243447,37.6499002,Google Verified Location
+1142,KS021,Bus Station,(Disco) (Some L) (Liquor) (WE*),1117 E. Pawnee,Wichita,KS,"(P),(D),(L),(WE),(*)",Bars/Clubs,1980,NA,-97.3243447,37.6499002,Google Verified Location
+1221,KS100,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,"(P),(D),(G),(*)",Bars/Clubs,1976,NA,-97.3243447,37.6499002,Google Verified Location
+1197,KS076,Bus Station,(Some G),1117 E. Pawnee,Wichita,KS,"(P),(G),(D),(PT),(*)",Bars/Clubs,1978,NA,-97.3243447,37.6499002,Google Verified Location
+1198,KS077,"Cattlemen's Assocation, Ltd.",(Beer & wine) (Good afternoons),1534 Ida,Wichita,KS,"(W),(PT),(*)",Bars/Clubs,1978,NA,-97.3250277,37.6649887,Google Verified Location
+1170,KS049,"Cattlemen's Assocation, Ltd.",('Flicks & cruisy back room) (P-show Address Book for adm.) (Open days) (Liquor or BYOB) (See ad p. 173),1534 Ida,Wichita,KS,"(*),(W),(PT),(P)","Bars/Clubs,Theatre,Cruising Areas",1979,NA,-97.3250277,37.6649887,Google Verified Location
+1285,KS164,Chances,,1123 E. Douglas,Wichita,KS,(R),Restaurant,1966,NA,-97.3240808,37.6857979,Google Verified Location
+1287,KS166,Chances,,1123 E. Douglas,Wichita,KS,(R),Restaurant,1965,NA,-97.3240808,37.6857979,Google Verified Location
+1146,KS025,Circle Cinema,,,Wichita,KS,Cruisy Area,Cruising Areas,1980,,-97.351854,37.647408,Verified Location
+1143,KS022,Club Bunnie's,(Disco) (Some L) (Show Address Book for Adm.) (Liquor),604 S. Topeka,Wichita,KS,"(*),(P),(YC),(D),(L)",Bars/Clubs,1980,NA,-97.3339553,37.6795139,Google Verified Location
+1276,KS155,Copper Lounge,"William St, bet. Broadway & Market",,Wichita,KS,(M),Bars/Clubs,1969,,-97.335748,37.684796,Verified Location
+1280,KS159,Copper Lounge,"William St, bet. Broadway & Market",,Wichita,KS,(M),Bars/Clubs,1968,,-97.335748,37.684796,Verified Location
+1134,KS013,Cre's,(Some L),2436 S.E. Virigina,Topeka,KS,"(P),(D),(PT),(L),(*)",Bars/Clubs,1980,NA,-95.6643992,39.0230258,Google Verified Location
+1144,KS023,"Danny's Cattleman's Association, Ltd.",(Liquor or BYOB) (Forget it!),1534 Ida,Wichita,KS,"(BYOB),(PT),(W)",Bars/Clubs,1980,NA,-97.3250277,37.6649887,Google Verified Location
+1210,KS089,Eleven Twenty-Three Club,(Occasional S),1123 E. Douglas,Wichita,KS,"(*),(P),(D),(S)",Bars/Clubs,1977,NA,-97.3240808,37.6857979,Google Verified Location
+1222,KS101,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,"(P),(YC),(D),(*)",Bars/Clubs,1976,NA,-97.3240808,37.6857979,Google Verified Location
+1233,KS112,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,"(P),(D),(YC),(*)",Bars/Clubs,1975,NA,-97.3240808,37.6857979,Google Verified Location
+1271,KS150,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,"(P),(D),(*)",Bars/Clubs,1970,NA,-97.3240808,37.6857979,Google Verified Location
+1260,KS139,Eleven-Twenty-Three Club,(get admission card at Red Head early),1123 E. Douglas,Wichita,KS,"(P),(D),(*)",Bars/Clubs,1972,NA,-97.3240808,37.6857979,Google Verified Location
+1266,KS145,Eleven-Twenty-Three Club,(get admission card at Red Head before midnite),1123 E. Douglas,Wichita,KS,"(P),(D),(*)",Bars/Clubs,1971,NA,-97.3240808,37.6857979,Google Verified Location
+1251,KS130,Eleven-Twenty-Three Club,(some (G)) ,1123 E. Douglas,Wichita,KS,"(G),(P),(D)",Bars/Clubs,1973,NA,-97.3240808,37.6857979,Google Verified Location
+1241,KS120,Eleven-Twenty-Three Club,(some G) ,1123 E. Douglas,Wichita,KS,"(P),(D),(*),(G)",Bars/Clubs,1974,NA,-97.3240808,37.6857979,Google Verified Location
+1277,KS156,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,"(P),(D)",Bars/Clubs,1969,NA,-97.3240808,37.6857979,Google Verified Location
+1281,KS160,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,"(P),(D)",Bars/Clubs,1968,NA,-97.3240808,37.6857979,Google Verified Location
+1208,KS087,Gage Park,HOT,,Topeka,KS,Cruisy Area,Cruising Areas,1977,,-95.728666,39.054246,Verified Location
+1166,KS045,Gage Park,(HOT),,Topeka,KS,Cruisy Area,Cruising Areas,1979,,-95.728666,39.054246,Verified Location
+1220,KS099,Gage Park,(HOT),,Topeka,KS,Cruisy Area,Cruising Areas,1976,,-95.728666,39.054246,Verified Location
+1138,KS017,Gage Park,,,Topeka,KS,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-95.728666,39.054246,Verified Location
+1194,KS073,Gage Park,(HOT),,Topeka,KS,Cruisy Area,Cruising Areas,1978,,-95.728666,39.054246,Verified Location
+1206,KS085,Guys & Dolls ,"(Some G, B, D) (beer)",415 Kansas Ave.,Topeka,KS,"(G),(B),(D)",Bars/Clubs,1977,NA,-95.6728176,39.0538354,Google Verified Location
+1187,KS066,Guys & Dolls ,(Some G) (3.2 beer),415 Kansas Ave.,Topeka,KS,"(D),(G)",Bars/Clubs,1978,NA,-95.6728176,39.0538354,Google Verified Location
+1217,KS096,Guys & Dolls ,"(Some G, B) (3.2 beer only)",415 Kansas Ave.,Topeka,KS,"(G),(B),(D)",Bars/Clubs,1976,NA,-95.6728176,39.0538354,Google Verified Location
+1223,KS102,Helping Hands,(3.2 beer only),3318 W. Douglas,Wichita,KS,,Bars/Clubs,1976,NA,-97.3823454,37.6842412,Google Verified Location
+1211,KS090,Helping Hands,(Disco) (3.2 beer only),3318 W. Douglas,Wichita,KS,"(YC),(D),(PT)",Bars/Clubs,1977,NA,-97.3823454,37.6842412,Google Verified Location
+1199,KS078,Helping Hands,(Some G) (Disco) (3.2 beer),3318 W. Douglas,Wichita,KS,"(*),(YC),(G),(D),(PT),(S)",Bars/Clubs,1978,NA,-97.3823454,37.6842412,Google Verified Location
+1214,KS093,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1977,,-97.337476,37.648199,Verified Location
+1244,KS123,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1974,,-97.337476,37.648199,Verified Location
+1225,KS104,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1976,,-97.337476,37.648199,Verified Location
+1255,KS134,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1973,,-97.337476,37.648199,Verified Location
+1236,KS115,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1975,,-97.337476,37.648199,Verified Location
+1202,KS081,Herman Hill Park,(HOT),,Wichita,KS,Cruisy Area,Cruising Areas,1978,,-97.337476,37.648199,Verified Location
+1264,KS143,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,(M),"Bars/Clubs,Hotel",1971,NA,-94.7037081,37.4112854,Google Verified Location
+1258,KS137,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,(M),"Bars/Clubs,Hotel",1972,NA,-94.7037081,37.4112854,Google Verified Location
+1269,KS148,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,(M),"Bars/Clubs,Hotel",1970,NA,-94.7037081,37.4112854,Google Verified Location
+1246,KS125,Indians,(Other Side),1610 Minnesota Ave.,Kansas City,KS,"(P),(D)",Bars/Clubs,1973,NA,-94.6475777,39.1157985,Google Verified Location
+1204,KS083,Island Park,(days),,Winfield,KS,Cruisy Area,Cruising Areas,1978,,-96.9971,37.249228,Verified Location
+1149,KS028,Island Park,(Days),,Winfield,KS,Cruisy Area,Cruising Areas,1980,,-96.9971,37.249228,Verified Location
+1175,KS054,Island Park,(days),,Winfield,KS,Cruisy Area,Cruising Areas,1979,,-96.9971,37.249228,Verified Location
+1282,KS161,Jack's,,W Douglas St.,Wichita,KS,(RT),Bars/Clubs,1968,,-97.497939,37.682793,Location could not be verified. General city or location coordinates used.
+1212,KS091,Jack's by the Tracks,,1534 Ida,Wichita,KS,"(P),(D),(PT),(*)",Bars/Clubs,1977,NA,-97.3250277,37.6649887,Google Verified Location
+1252,KS131,Jack's by the Tracks,,1534 Ida,Wichita,KS,"(D),(*)",Bars/Clubs,1973,NA,-97.3250277,37.6649887,Google Verified Location
+1261,KS140,Jack's by the Tracks,,1534 Ida,Wichita,KS,"(D),(*)",Bars/Clubs,1972,NA,-97.3250277,37.6649887,Google Verified Location
+1234,KS113,Jack's by the Tracks,,1534 Ida,Wichita,KS,"(P),(D),(*)",Bars/Clubs,1975,NA,-97.3250277,37.6649887,Google Verified Location
+1224,KS103,Jack's by the Tracks,,1534 Ida,Wichita,KS,"(P),(D),(*)",Bars/Clubs,1976,NA,-97.3250277,37.6649887,Google Verified Location
+1267,KS146,Jack's by the Tracks,,1534 Ida St.,Wichita,KS,(*),Bars/Clubs,1971,NA,-97.3250277,37.6649887,Google Verified Location
+1242,KS121,Jack's by the Tracks,,1534 Ida,Wichita,KS,"(D),(*)",Bars/Clubs,1974,NA,-97.3250277,37.6649887,Google Verified Location
+1272,KS151,Jack's Jolly Jug No. 2,,1534 Ida St.,Wichita,KS,,Bars/Clubs,1970,NA,-97.3250277,37.6649887,Google Verified Location
+1284,KS163,Jade Room,(formerly Bon Sai),116 E. 7th St.,Topeka,KS,(*),Bars/Clubs,1966,NA,-95.672848,39.0502133,Google Verified Location
+1275,KS154,Jade Room,,116 E. 7th St.,Topeka,KS,,Bars/Clubs,1969,NA,-95.672848,39.0502133,Google Verified Location
+1279,KS158,Jade Room,,116 E. 7th St.,Topeka,KS,,Bars/Clubs,1968,NA,-95.672848,39.0502133,Google Verified Location
+1188,KS067,Jayhawk Liquor Store,,117 W. 7th,Topeka,KS,(M),Business,1978,NA,-95.6729537,39.0498335,Google Verified Location
+1235,KS114,Jekyll & Hyde,,1119 E. Pawnee,Wichita,KS,"(G),(D),(*)",Bars/Clubs,1975,NA,-97.3241414,37.6497477,Google Verified Location
+1283,KS162,Jolly Jug,,418 W 2nd,Wichita,KS,(*),Bars/Clubs,1968,NA,-97.3422414,37.6897483,Google Verified Location
+1278,KS157,Jolly Jug,,418 W 2nd,Wichita,KS,(*),Bars/Clubs,1969,NA,-97.3422414,37.6897483,Google Verified Location
+1156,KS035,K.U. Student Union,T-Rooms on all floors,,Lawrence,KS,Cruisy Area,Cruising Areas,1979,,-95.243457,38.959072,Verified Location
+1182,KS061,K.U. Student Union,T-Rooms on all floors,,Lawrence,KS,Cruisy Area,Cruising Areas,1978,,-95.243457,38.959072,Verified Location
+1127,KS006,K.U. Student Union,T-Rooms on all floors,,Lawrence,KS,Cruisy Area,Cruising Areas,1980,,-95.243457,38.959072,Verified Location
+1139,KS018,Kansas Ave.,(Downtown) by automobile,,Topeka,KS,Cruisy Area,Cruising Areas,1980,,-95.679358,39.029698,Location could not be verified. General city or location coordinates used.
+1135,KS014,Kenny's,S. Topeka,,Topeka,KS,"(M),(R),(C),(AH)",Restaurant,1980,,-95.706292,39.007282,Location could not be verified. General city or location coordinates used.
+1162,KS041,Kenny's,S. Topeka,,Topeka,KS,"(M),(R),(C),(AH)",Restaurant,1979,,-95.706292,39.007282,Location could not be verified. General city or location coordinates used.
+1136,KS015,Lambda ,(Disco),1435 N. Tyler,Topeka,KS,"(P),(D),(*)",Bars/Clubs,1980,NA,-95.6848523,39.0400543,Google Verified Location
+1248,KS127,Louise's,,1017 Massachusetts,Lawrence,KS,(M),Bars/Clubs,1973,NA,-95.2362428,38.9649531,Google Verified Location
+1238,KS117,Louise's,,1017 Massachusetts,Lawrence,KS,(M),Bars/Clubs,1974,NA,-95.2362428,38.9649531,Google Verified Location
+1228,KS107,Louise's,,1017 Massachusetts,Lawrence,KS,(M),Bars/Clubs,1975,NA,-95.2362428,38.9649531,Google Verified Location
+1218,KS097,Mae's Place,(Some G) ,922 Kansas Ave.,Topeka,KS,"(P),(G),(D),(BYOB)",Bars/Clubs,1976,NA,-95.6751845,39.0464432,Google Verified Location
+1161,KS040,Metcalf Shopping Center,T-Rooms,,Overland Park,KS,Cruisy Area,Cruising Areas,1979,,-94.664768,38.992793,Verified Location
+1132,KS011,Metcalf Shopping Center,T-Rooms,,Overland Park,KS,Cruisy Area,Cruising Areas,1980,,-94.664768,38.992793,Verified Location
+1189,KS068,Midnight Sun,(Some G) (Swim pool - summers),2633 N. Kansas,Topeka,KS,"(*),(P),(YC),(G),(D),(BYOB)",Bars/Clubs,1978,NA,-95.6604411,39.0945503,Google Verified Location
+1207,KS086,Midnight Sun,(Swim pool - summers) Open til 3 a.m.,2633 N. Kansas,Topeka,KS,"(P),(YC),(D),(BYOB),(*)",Bars/Clubs,1977,NA,-95.6604411,39.0945503,Google Verified Location
+1200,KS079,Mountain Hollow,,Kellog & Broadway,Wichita,KS,"(M),(R),(C),(AH)",Restaurant,1978,NA,-97.1094837,37.2591916,Google Verified Location
+1163,KS042,Northside Tea Room,(Disco) (Some G) (P- out-of-state guests show Address Book for admission),1435 N. Tyler,Topeka,KS,"(*),(D),(G),(P)",Bars/Clubs,1979,NA,-95.6848523,39.0400543,Google Verified Location
+1190,KS069,Northside Tea Room,(Disco) (Liquor) (P- out-of-state guests show Address Book for adm.),1435 N. Tyler,Topeka,KS,"(D),(*)",Bars/Clubs,1978,NA,-95.6848523,39.0400543,Google Verified Location
+1203,KS082,Oak Park,(Riverside Area) (Closes at 12 midnight),,Wichita,KS,"(YC),Cruisy Area",Cruising Areas,1978,,-97.354499,37.705634,Verified Location
+1147,KS026,Oak Park- Riverside area,,,Wichita,KS,Cruisy Area,Cruising Areas,1980,,-97.354499,37.705634,Verified Location
+1173,KS052,Oak Park-Riverside area,(Cl. 12 midnight),,Wichita,KS,"(YC),Cruisy Area",Cruising Areas,1979,,-97.354499,37.705634,Verified Location
+1171,KS050,Omage's Tavern,(3.2 beer) (Disco) (go go boys) (see ad p.173),3046 E. 31st St. S.,Wichita,KS,"(YC),(D),(*)",Bars/Clubs,1979,NA,-97.3003753,37.6354146,Google Verified Location
+1230,KS109,Other Side,(12 noon to 3 a.m. daily),2633 N. Kansas,Topeka,KS,"(P),(D),(YC),(R),(BYOB),(*)",Restaurant,1975,NA,-95.6604411,39.0945503,Google Verified Location
+1219,KS098,Other Side,"(swim pool summers, WE 1 p.m. - 3 a.m. Other times 9 p.m. - 3 a.m.)",2633 N. Kansas,Topeka,KS,"(P),(YC),(D),(BYOB)",Bars/Clubs,1976,NA,-95.6604411,39.0945503,Google Verified Location
+1153,KS032,Other Way ,(Closed Monday) (WE*),2410 E. 4th ,Hutchinson,KS,"(P),(D),(WE),(*)",Bars/Clubs,1979,NA,-97.8867293,38.0580254,Google Verified Location
+1164,KS043,Oz's,(Disco) (Liquor) (Out-of-state guests show Address Book for adm.),1006 Kansas,Topeka,KS,"(P),(*),(D),(YC)",Bars/Clubs,1979,NA,-95.6654951,39.069238,Google Verified Location
+1181,KS060,Pete's Pub,(Some G) (Open Sundays *),2550 W. 47th St.,Kansas City,KS,"(D),(G),(*)",Bars/Clubs,1978,NA,-94.6160448,39.0443045,Google Verified Location
+1215,KS094,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,"(D),(G),(*)",Bars/Clubs,1976,NA,-94.6160448,39.0443045,Google Verified Location
+1205,KS084,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,"(D),(G),(*)",Bars/Clubs,1977,NA,-94.6160448,39.0443045,Google Verified Location
+1247,KS126,Pete's Pub,,2550 W. 47th St.,Kansas City,KS,(G),Bars/Clubs,1973,NA,-94.6160448,39.0443045,Google Verified Location
+1237,KS116,Pete's Pub,,2550 W. 47th St.,Kansas City,KS,"(G),(*)",Bars/Clubs,1974,NA,-94.6160448,39.0443045,Google Verified Location
+1227,KS106,Pete's Pub,(Some G) ,2550 W. 47th St.,Kansas City,KS,"(D),(G),(*)",Bars/Clubs,1975,NA,-94.6160448,39.0443045,Google Verified Location
+1126,KS005,Pete's Pub,(Some L) (Sundays *),2550 W. 47th St.,Kansas City,KS,"(D),(L),(*)",Bars/Clubs,1980,NA,-94.6160448,39.0443045,Google Verified Location
+1155,KS034,Pete's Pub,(Some G) (Sundays *),2550 W. 47th St.,Kansas City,KS,"(D),(G),(*)",Bars/Clubs,1979,NA,-94.6160448,39.0443045,Google Verified Location
+1165,KS044,Poor Richard's,,9th & Quincy,Topeka,KS,"(M),(R),(C),(AH)",Restaurant,1979,,-95.673696,39.046985,Verified Location
+1137,KS016,Poor Richard's,,9th & Quincy,Topeka,KS,"(M),(R),(C),(AH)",Restaurant,1980,,-95.673696,39.046985,Verified Location
+1191,KS070,Poor Richard's,,9th & Quincy,Topeka,KS,"(M),(R),(C),(AH)",Restaurant,1978,,-95.673696,39.046985,Verified Location
+1253,KS132,Quiet Room,,1527 E. Pawnee,Wichita,KS,"(P),(D),(HIP),(YC),(*)",Bars/Clubs,1973,NA,-97.319666,37.6494121,Google Verified Location
+1243,KS122,Quiet Room,,1527 E. Pawnee,Wichita,KS,"(P),(D),(HIP),(YC),(*)",Bars/Clubs,1974,NA,-97.319666,37.6494121,Google Verified Location
+1145,KS024,R & R Club,nr. Broadway,100 W. 31st St,Wichita,KS,"(P),(D),(PT),(BYOB),(*)",Bars/Clubs,1980,NA,-97.3375869,37.637104,Google Verified Location
+1172,KS051,R & R Club,nr. Broadway,100 W. 31st St,Wichita,KS,"(P),(D),(PT),(BYOB),(*)",Bars/Clubs,1979,NA,-97.3375869,37.637104,Google Verified Location
+1201,KS080,R&R Club,nr. Broadway,100 W. 31st S.,Wichita,KS,"(P),(D),(PT),(*)",Bars/Clubs,1978,NA,-97.3375869,37.637104,Google Verified Location
+1213,KS092,R&R Club,(Looks promising),31st and South Broadway,Wichita,KS,"(P),(D),(PT)",Bars/Clubs,1977,,-97.334385,37.637141,Verified Location
+1273,KS152,Red Flame,,1009 E. Douglas,Wichita,KS,(*),Bars/Clubs,1970,NA,-97.3258596,37.6857865,Google Verified Location
+1268,KS147,Red Head,,418 W. 2nd,Wichita,KS,(G),Bars/Clubs,1971,NA,-97.3422414,37.6897483,Google Verified Location
+1274,KS153,Red Head,,418 W. 2nd,Wichita,KS,(G),Bars/Clubs,1970,NA,-97.3422414,37.6897483,Google Verified Location
+1262,KS141,Red Head,,418 W. 2nd,Wichita,KS,(G),Bars/Clubs,1972,NA,-97.3422414,37.6897483,Google Verified Location
+1124,KS003,Roadside Park,2 mi. N.,,Hamilton,KS,Cruisy Area,Cruising Areas,1980,,-96.164165,37.979471,Location could not be verified. General city or location coordinates used.
+1157,KS036,Roadside Park,7 mi. from town on US 40-toward Topeka,,Lawrence,KS,Cruisy Area,Cruising Areas,1979,,-95.23525,38.971669,Location could not be verified. General city or location coordinates used.
+1152,KS031,Roadside Park,2 mi. N.,,Hamilton,KS,Cruisy Area,Cruising Areas,1979,,-96.164165,37.979471,Location could not be verified. General city or location coordinates used.
+1183,KS062,Roadside Park,7 mi. from town on US Hwy 40 toward Topeka,,Lawrence,KS,Cruisy Area,Cruising Areas,1978,,-95.23525,38.971669,Location could not be verified. General city or location coordinates used.
+1178,KS057,Roadside Park,2 mi. N.,,Hamilton,KS,Cruisy Area,Cruising Areas,1978,,-96.164165,37.979471,Location could not be verified. General city or location coordinates used.
+1179,KS058,Rosalea's Hotel,(May 1 to Labor Day - write first as local Ma Bell had the phone cut off),121 Mian St.,Harper,KS,(H),Hotel,1978,NA,-98.0271292,37.286393,Google Verified Location
+1192,KS071,Sambo's,,5th & Topeka,Topeka,KS,"(M),(R),(C),(AH)","Bars/Clubs,Restaurant",1978,,-95.678322,39.054634,Verified Location
+1263,KS142,Tap Room,,514 Commerical,Emporia,KS,,Bars/Clubs,1971,NA,-96.1798998,38.3912366,Google Verified Location
+1256,KS135,Tap Room,,514 Commerical,Emporia,KS,,Bars/Clubs,1972,NA,-96.1798998,38.3912366,Google Verified Location
+1270,KS149,Terrace Lounge,,116 E. 7th St.,Topeka,KS,"(D),(*)",Bars/Clubs,1970,NA,-95.672848,39.0502133,Google Verified Location
+1259,KS138,Terrace Lounge,,116 E. 7th St.,Topeka,KS,"(D),(*)",Bars/Clubs,1972,NA,-95.672848,39.0502133,Google Verified Location
+1250,KS129,Terrace Lounge,,116 E. 7th St.,Topeka,KS,"(D),(*)",Bars/Clubs,1973,NA,-95.672848,39.0502133,Google Verified Location
+1265,KS144,Terrace Lounge,,116 E. 7th St.,Topeka,KS,"(D),(*)",Bars/Clubs,1971,NA,-95.672848,39.0502133,Google Verified Location
+1231,KS110,Terrace Lounge,,116 E. 7th St.,Topeka,KS,,Bars/Clubs,1975,NA,-95.672848,39.0502133,Google Verified Location
+1240,KS119,Terrace Lounge,,116 E. 7th St.,Topeka,KS,"(D),(*)",Bars/Clubs,1974,NA,-95.672848,39.0502133,Google Verified Location
+1133,KS012,The Office,"(Some M, L, B, RT)",140 S. 5th St.,Salina,KS,"(M),(L),(B),(RT),(PT)",Bars/Clubs,1980,NA,-97.608279,38.838843,Google Verified Location
+1193,KS072,The Shoppe,(Gift & books)*,115 W. 7th,Topeka,KS,(*),"Book Store,Business",1978,NA,-95.6729828,39.0497926,Google Verified Location
+1254,KS133,Third Stone,,1009 E. Douglas,Wichita,KS,,Bars/Clubs,1973,NA,-97.3258596,37.6857865,Google Verified Location
+1174,KS053,Trailways Bus Depot,('Hustlers'),,Wichita,KS,Cruisy Area,Cruising Areas,1979,,-97.33388,37.688737,Location could not be verified. General city or location coordinates used.
+1148,KS027,Trailways Bus Depot & Vicinity,,,Wichita,KS,Cruisy Area,Cruising Areas,1980,,-97.33388,37.688737,Location could not be verified. General city or location coordinates used.

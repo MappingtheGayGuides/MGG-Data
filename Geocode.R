@@ -144,12 +144,11 @@ nj <- read.csv("4-FullVerifiedDatasets/data-newjersey.csv")
 ind <- read.csv("4-FullVerifiedDatasets/data-indiana.csv")
 
 
-states <- rbind(de,id,mt,ne,nh,ok,sd, nd, vt, ks, ak, ut, wy, pn, mi, wi, il, mass, nv, wv, az, ri, or, oh, ny, me, hi, co, ia, ct, mn, wa, mo, md, nj, ind)
+states <- rbind(de,id,mt,ne,nh,ok,sd, nd, vt, ks, ak, ut, wy, pn, mi, wi, il, mass, nv, nm, wv, az, ri, or, oh, ny, me, hi, co, ia, ct, mn, wa, mo, md, nj, ind)
                 
 states <- states %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"unclearaddress")
 cali <- cali %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress")
-#currentdata <- read.csv("data.csv")
-#currentdata <- currentdata %>% select(-"X")
+
 mergeddata <- rbind(states, cali, south, dc)
 
 unique(mergeddata$status)

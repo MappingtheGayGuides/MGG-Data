@@ -1,194 +1,194 @@
-ID,title,description,streetaddress,city,state,amenityfeatures,type,unclearaddress,Year,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-ME001,East Side,(Disco) (N. Belfast Ave.),4 mi. E. on Hwy. 3 ,Augusta,ME,"(YC),(D),(WE),(*)",Bars/Clubs,NA,1980,NA,4/20/2020 1:11pm,7/27/2020 11:34am,"4 mi. E. on Hwy. 3 , Augusta, ME",-69.7613446,44.3333716,"me-3, augusta, me, usa",Geocoded
-ME002,'Rest Stop',on I-95 at Sidney (Southbound) & August (Northbound) - also woods in back,,Augusta,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:12pm,4/20/2020 2:46pm,", ME",-69.77949,44.310624,unclear_coded_by_hand,General Coordinates Used
-ME003,Miller's,,427 Main St.,Bangor,ME,"(M),(R)",Restaurant,NA,1980,NA,4/20/2020 1:12pm,7/27/2020 11:34am,"427 Main St., Bangor, ME",-68.7767937,44.7916953,"427 main st, bangor, me 04401, usa",Geocoded
-ME004,Peter's Candlelight,(Some RT),158 Main St.,Bangor,ME,"(RT),(M)",Bars/Clubs,NA,1980,NA,4/20/2020 1:13pm,7/27/2020 11:34am,"158 Main St., Bangor, ME",-68.7723463,44.7988663,"158 main st, bangor, me 04401, usa",Geocoded
-ME005,Main St. nr. Candlelight,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:13pm,4/20/2020 2:46pm,", ME",-68.776671,44.791014,unclear_coded_by_hand,General Coordinates Used
-ME006,Old Covered Bridge,behind P.O.,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,checked,1980,NA,4/20/2020 1:13pm,4/20/2020 2:46pm,", ME",-68.776166,44.805575,unclear_coded_by_hand,Found
-ME007,'Rest Stops',on I-95 Southbound at Herman & Northbound at Carmel,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,checked,1980,NA,4/20/2020 1:13pm,4/20/2020 2:46pm,", ME",-68.771226,44.801613,unclear_coded_by_hand,General Coordinates Used
-ME008,Victinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:14pm,4/20/2020 2:46pm,", ME",-68.748712,44.829992,unclear_coded_by_hand,General Coordinates Used
-ME009,Moonlight Reader II,"(Books, ect.)",22 Alfred St.,Biddeford,ME,,Book Store,NA,1980,NA,4/20/2020 1:14pm,7/27/2020 11:34am,"22 Alfred St., Biddeford, ME",-70.4540205,43.4922958,"22 alfred st, biddeford, me 04005, usa",Geocoded
-ME010,Chuckwagon,,Cooks Corners,Brunswick,ME,"(M),(R)",Restaurant,NA,1980,NA,4/20/2020 1:15pm,7/27/2020 11:34am,"Cooks Corners, Brunswick, ME",-69.9153266,43.9078578,"cooks corner, brunswick, me 04011, usa",Geocoded
-ME011,"'Rest Stop' on US 1, betw. Bath & Brunswick (S.)",,,Brunswick,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:15pm,4/20/2020 2:46pm,", ME",-69.966996,43.914016,unclear_coded_by_hand,General Coordinates Used
-ME012,'Rest Stop' on US 1 (Summers),,,Freeport,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:15pm,4/20/2020 2:46pm,", ME",-70.10312,43.857007,unclear_coded_by_hand,General Coordinates Used
-ME013,Sports' Man Athletic Club,(Some L) (Liquor) (Show address book for adm.),18 Canal St. nr. Main,Lewiston,ME,"(YC),(D),(L),(P),(PT),(*)",Bars/Clubs,NA,1980,NA,4/20/2020 1:16pm,7/27/2020 11:34am,"18 Canal St. nr. Main, Lewiston, ME",-70.2185063,44.0983312,"18 canal st, lewiston, me 04240, usa",Geocoded
-ME014,Admiral's Loft Guest House,1/2 mi. N. on Main St. Tel: (207) 646 - 5496,,Ogunquit,ME,"(H),(*)",Hotels,checked,1980,NA,4/20/2020 1:16pm,4/20/2020 2:46pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME015,Anabel's ,(Nights) (Cruisy),US Hwy. 1 ,Ogunquit,ME,"(R),(YC),(D),(*)","Restaurant,Cruising Areas",NA,1980,NA,4/20/2020 1:17pm,7/27/2020 11:34am,"US Hwy. 1 , Ogunquit, ME",-70.6005463,43.2472892,"us-1, ogunquit, me, usa",Geocoded
-ME016,Clipper Ship Guest House ,,46 Main St.,Ogunquit,ME,(H),Hotels,NA,1980,NA,4/20/2020 1:18pm,7/27/2020 11:34am,"46 Main St., Ogunquit, ME",-70.6019264,43.2408797,"46 main st, ogunquit, me 03907, usa",Geocoded
-ME017,Edelweiss,(Downstairs lounge - cocktail hour - 4-7 pm),Main St. at Ogunquit Beach Rd.,Ogunquit,ME,(*),Bars/Clubs,checked,1980,NA,4/20/2020 1:18pm,4/20/2020 2:46pm,"Main St. at Ogunquit Beach Rd., ME",-70.60041,43.248242,unclear_coded_by_hand,Found
-ME018,Linden Lodge ,,24 Shore Rd.,Ogunquit,ME,(H),Hotels,NA,1980,NA,4/20/2020 1:19pm,7/27/2020 11:34am,"24 Shore Rd., Ogunquit, ME",-70.5992566,43.2484088,"24 shore rd, ogunquit, me 03907, usa",Geocoded
-ME019,Ogunquit After Dark,"P, AH, BYOB just beyond Playhouse on US 1 N.",,Ogunquit,ME,"(P),(AH),(BYOB)",Bars/Clubs,NA,1980,NA,4/20/2020 1:19pm,7/27/2020 11:34am,", Ogunquit, ME",-70.5986223,43.2468352,"ogunquit, me, usa",Geocoded
-ME020,The Tavern at Clay Hill Farm,(Very M) (Reservations required),2 mi. W. on Agamenticus Rd.,Ogunquit,ME,"(M),(R)",Restaurant,checked,1980,NA,4/20/2020 1:19pm,4/20/2020 2:46pm,"2 mi. W. on Agamenticus Rd., ME",-70.627946,43.227716,unclear_coded_by_hand,Found
-ME021,Valerie's,(Piano bar only),At the Crossroads,Ogunquit,ME,"(M),(R)",Restaurant,NA,1980,NA,4/20/2020 1:20pm,7/27/2020 11:34am,"At the Crossroads, Ogunquit, ME",-70.600963,43.240212,"36 main st, ogunquit, me 03907, usa",Geocoded
-ME022,Yellow Monkey Guest House,,44 Main St.,Ogunquit,ME,(H),Hotels,NA,1980,NA,4/20/2020 1:21pm,7/27/2020 11:34am,"44 Main St., Ogunquit, ME",-70.6011116,43.2407953,"44 main st, ogunquit, me 03907, usa",Geocoded
-ME023,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:21pm,4/20/2020 2:46pm,", ME",-70.59172,43.25592,unclear_coded_by_hand,Found
-ME024,'Rest Stop',on I-95 S. & US 1 - S.,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:21pm,4/20/2020 2:46pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME025,Old Orchard Beach,(AYOR - cops harrassing),,Old Orchard Beach,ME,"Cruisy Area,(AYOR)",Cruising Areas,checked,1980,NA,4/20/2020 1:22pm,7/20/2020 10:32am,", ME",-70.374117,43.515122,unclear_coded_by_hand,Found
-ME026,Luna Base One,(Disco),Route 2 ,Orono,ME,"(M),(YC),(D)",Bars/Clubs,NA,1980,NA,4/20/2020 1:22pm,7/27/2020 11:34am,"Route 2 , Orono, ME",-68.672283,44.8832315,"us-2, orono, me, usa",Geocoded
-ME027,Denny's,,1210 Brighton Ave.,Portland,ME,"(M),(R),(C),(AH)",Restaurant,NA,1980,NA,4/20/2020 1:22pm,7/27/2020 11:34am,"1210 Brighton Ave., Portland, ME",-70.3293995,43.6764451,"1210 brighton ave, portland, me 04102, usa",Geocoded
-ME028,One Way Pub,(Many L),10 Union St.,Portland,ME,"(D),(L)",Bars/Clubs,NA,1980,NA,4/20/2020 1:23pm,7/27/2020 11:34am,"10 Union St., Portland, ME",-70.2550662,43.655149,"10 union st, portland, me 04101, usa",Geocoded
-ME029,Phoenix ,(Disco) (Also C-AH-WE-subs),83 Oak St.,Portland,ME,"(*),(M),(PT),(D),(C),(AH),(WE)","Bars/Clubs,Restaurant",NA,1980,NA,4/20/2020 1:23pm,7/27/2020 11:34am,"83 Oak St., Portland, ME",-70.2625069,43.6559368,"83 oak st, portland, me 04101, usa",Geocoded
-ME030,Roland's Tavern,(Sun. 1 pm - midnight),413 A Cumberland Ave.,Portland,ME,"(D),(E),(*)",Bars/Clubs,NA,1980,NA,4/20/2020 1:24pm,7/27/2020 11:34am,"413 A Cumberland Ave., Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME031,Sybil's,,135 Middle St.,Portland,ME,(M),Bars/Clubs,NA,1980,NA,4/20/2020 1:24pm,7/27/2020 11:34am,"135 Middle St., Portland, ME",-70.2532667,43.6586583,"135 middle st, portland, me 04101, usa",Geocoded
-ME032,Treasure Chest,(Books),613 Congress St.,Portland,ME,(M),Book Store,NA,1980,NA,4/20/2020 1:24pm,7/27/2020 11:34am,"613 Congress St., Portland, ME",-70.2638777,43.6539103,"613 congress st, portland, me 04101, usa",Geocoded
-ME033,Wayne's Country I,"(Books, ect.) (Peep shows) (Cruisy) ('Wild Back Room!) ",61 Forest Ave.,Portland,ME,(*),"Book Store,Cruising Areas",NA,1980,NA,4/20/2020 1:25pm,7/27/2020 11:34am,"61 Forest Ave., Portland, ME",-70.264412,43.6563313,"61 forest ave, portland, me 04101, usa",Geocoded
-ME034,Eastland Hotel Downstairs T-Room,,,Portland,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:25pm,4/20/2020 2:46pm,", ME",-70.264009,43.654916,unclear_coded_by_hand,Found
-ME035,Pleasant St.,,,Portland,ME,Cruisy Area,Cruising Areas,checked,1980,NA,4/20/2020 1:26pm,4/20/2020 2:46pm,", ME",-70.259993,43.653321,unclear_coded_by_hand,General Coordinates Used
-ME036,State Theatre II,,,Portland,ME,Cruisy Area,"Cruising Areas,Theatre",checked,1980,NA,4/20/2020 1:26pm,7/20/2020 10:33am,", ME",-70.263684,43.653982,unclear_coded_by_hand,Found
-ME037,The Oaks,off Park Ave.,,Portland,ME,"Cruisy Area,(AYOR)",Cruising Areas,checked,1980,NA,4/20/2020 1:26pm,4/20/2020 2:46pm,", ME",-70.272969,43.656371,unclear_coded_by_hand,Found
-ME038,Flo's Tavern ,"(Open Thur., Fri. & Sat. only)",4 mi. E. on Hwy. 3,Augusta,ME,"(YC),(D),(*)",Bars/Clubs,NA,1979,NA,4/20/2020 1:26pm,7/27/2020 11:34am,"4 mi. E. on Hwy. 3, Augusta, ME",-69.7613446,44.3333716,"me-3, augusta, me, usa",Geocoded
-ME039,'Rest Stops',on I-95 at Sidney (Southbound) & Augusta (Northbound) - also woods in back,,Augusta,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:34pm,4/20/2020 2:46pm,", ME",-69.77949,44.310624,unclear_coded_by_hand,General Coordinates Used
-ME040,Miller's,,427 Main St.,Bangor,ME,"(M),(R)",Restaurant,NA,1979,NA,4/20/2020 2:34pm,7/27/2020 11:34am,"427 Main St., Bangor, ME",-68.7767937,44.7916953,"427 main st, bangor, me 04401, usa",Geocoded
-ME041,Peter's Candlelight ,(Some RT),158 Main St.,Bangor,ME,"(RT),(M)",Bars/Clubs,NA,1979,NA,4/20/2020 2:35pm,7/27/2020 11:34am,"158 Main St., Bangor, ME",-68.7723463,44.7988663,"158 main st, bangor, me 04401, usa",Geocoded
-ME042,Main St. nr. Candlelight,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:35pm,4/20/2020 2:46pm,", ME",-68.776671,44.791014,unclear_coded_by_hand,General Coordinates Used
-ME043,Old Covered Bridge,behind P.O.,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,checked,1979,NA,4/20/2020 2:35pm,4/20/2020 2:46pm,", ME",-68.776166,44.805575,unclear_coded_by_hand,Found
-ME044,'Rest Stops',on I-95 - Southbound at Herman & Northbound at Carmel,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,checked,1979,NA,4/20/2020 2:35pm,4/20/2020 2:46pm,", ME",-68.771226,44.801613,unclear_coded_by_hand,General Coordinates Used
-ME045,Vicinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:36pm,4/20/2020 2:46pm,", ME",-68.748712,44.829992,unclear_coded_by_hand,General Coordinates Used
-ME046,Chuckwagon,,Cooks Corners,Brunswick,ME,"(M),(R)",Restaurant,NA,1979,NA,4/20/2020 2:36pm,7/27/2020 11:34am,"Cooks Corners, Brunswick, ME",-69.9153266,43.9078578,"cooks corner, brunswick, me 04011, usa",Geocoded
-ME047,"'Rest Stop' on US 1, betw. Bath & Brunswick (So.)",,,Brunswick,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:36pm,4/20/2020 2:46pm,", ME",-69.966996,43.914016,unclear_coded_by_hand,General Coordinates Used
-ME048,'Rest Stop' on US 1,(summers),,Freeport,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:37pm,4/20/2020 2:46pm,", ME",-70.10312,43.857007,unclear_coded_by_hand,General Coordinates Used
-ME049,Moonlight Reader,(Books),54 Wallingford Rd.,Kittery,ME,,Book Store,NA,1979,NA,4/20/2020 2:37pm,7/27/2020 11:34am,"54 Wallingford Rd., Kittery, ME",-70.743372,43.0856515,"54 wallingford square, kittery, me 03904, usa",Geocoded
-ME050,Blue Swan,(Some G) (Look for blue swan on door),18 Canal St.,Lewiston,ME,"(YC),(D),(*),(G)",Bars/Clubs,NA,1979,NA,4/20/2020 2:37pm,7/27/2020 11:34am,"18 Canal St., Lewiston, ME",-70.2185063,44.0983312,"18 canal st, lewiston, me 04240, usa",Geocoded
-ME051,Admiral's Loft Guest House,Tel: (207) 646 - 5496 ,Main St.,Ogunquit,ME,"(H),(*)",Hotels,NA,1979,NA,4/20/2020 2:38pm,7/27/2020 11:34am,"Main St., Ogunquit, ME",-70.6001928,43.2540678,"main st, ogunquit, me, usa",Geocoded
-ME052,Annabelle's,(Nights),US Hwy. 1,Ogunquit,ME,"(R),(YC),(D),(*)","Restaurant,Bars/Clubs",NA,1979,NA,4/20/2020 2:39pm,7/27/2020 11:34am,"US Hwy. 1, Ogunquit, ME",-70.6005463,43.2472892,"us-1, ogunquit, me, usa",Geocoded
-ME053,Eidleweiss ,(Downstairs lounge - cocktail hour - 4 - 7 p.m.),Main St.,Ogunquit,ME,(*),Bars/Clubs,NA,1979,NA,4/20/2020 2:39pm,7/27/2020 11:34am,"Main St., Ogunquit, ME",-70.6001928,43.2540678,"main st, ogunquit, me, usa",Geocoded
-ME054,Fan Club,,US Hwy. 1,Ogunquit,ME,"(M),(R)",Restaurant,NA,1979,NA,4/20/2020 2:40pm,7/27/2020 11:34am,"US Hwy. 1, Ogunquit, ME",-70.6005463,43.2472892,"us-1, ogunquit, me, usa",Geocoded
-ME055,The Tavern ,(Sundays only),Agamenticus Rd.,Ogunquit,ME,(*),Bars/Clubs,NA,1979,NA,4/20/2020 2:40pm,7/27/2020 11:34am,"Agamenticus Rd., Ogunquit, ME",-70.6051378,43.2420342,"agamenticus rd, ogunquit, me, usa",Geocoded
-ME056,Valerie's,(Bar only),At the Crossroads,Ogunquit,ME,"(M),(R)","Restaurant,Bars/Clubs",NA,1979,NA,4/20/2020 2:40pm,7/27/2020 11:34am,"At the Crossroads, Ogunquit, ME",-70.600963,43.240212,"36 main st, ogunquit, me 03907, usa",Geocoded
-ME057,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:41pm,4/20/2020 2:46pm,", ME",-70.59172,43.25592,unclear_coded_by_hand,Found
-ME058,'Rest Stops',on I-95 S. & US I-S.,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:41pm,4/20/2020 2:46pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME059,Old Orchard Beach,,,Old Orchard Beach,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:41pm,4/20/2020 2:46pm,", ME",-70.374117,43.515122,unclear_coded_by_hand,Found
-ME060,Denny's,,1210 Brighton Ave.,Portland,ME,"(M),(R),(C),(AH)",Restaurant,NA,1979,NA,4/20/2020 2:41pm,7/27/2020 11:34am,"1210 Brighton Ave., Portland, ME",-70.3293995,43.6764451,"1210 brighton ave, portland, me 04102, usa",Geocoded
-ME061,One Way Pub,"(Some G, YC)",10 Union St.,Portland,ME,"(R),(E),(D),(*),(G),(YC)","Bars/Clubs,Restaurant",NA,1979,NA,4/20/2020 2:42pm,7/27/2020 11:34am,"10 Union St., Portland, ME",-70.2550662,43.655149,"10 union st, portland, me 04101, usa",Geocoded
-ME062,Phoenix ,(Disco) (Also C-AH-WE),83 Oak St.,Portland,ME,"(R),(E),(PT),(D),(C),(AH),(WE)","Restaurant,Bars/Clubs",NA,1979,NA,4/20/2020 2:42pm,7/27/2020 11:34am,"83 Oak St., Portland, ME",-70.2625069,43.6559368,"83 oak st, portland, me 04101, usa",Geocoded
-ME063,Roland's Tavern,(Some G) (Sun. 1 p.m. midnight) ,413 A Cumberland Ave.,Portland,ME,"(D),(S),(G),(*)",Bars/Clubs,NA,1979,NA,4/20/2020 2:43pm,7/27/2020 11:34am,"413 A Cumberland Ave., Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME064,Treasure Chest,(Books),613 Congress St.,Portland,ME,(M),Book Store,NA,1979,NA,4/20/2020 2:43pm,7/27/2020 11:34am,"613 Congress St., Portland, ME",-70.2638777,43.6539103,"613 congress st, portland, me 04101, usa",Geocoded
-ME065,Wayne's Country I,"(Books, ect.)",61 Forest Ave.,Portland,ME,(*),Book Store,NA,1979,NA,4/20/2020 2:44pm,7/27/2020 11:34am,"61 Forest Ave., Portland, ME",-70.264412,43.6563313,"61 forest ave, portland, me 04101, usa",Geocoded
-ME066,Wayne's Country II,(Books n' things),10 Union St.,Portland,ME,,Book Store,NA,1979,NA,4/20/2020 2:44pm,7/27/2020 11:34am,"10 Union St., Portland, ME",-70.2550662,43.655149,"10 union st, portland, me 04101, usa",Geocoded
-ME067,Pleasant St.,('P' St.),,Portland,ME,Cruisy Area,Cruising Areas,checked,1979,NA,4/20/2020 2:45pm,4/20/2020 2:46pm,", ME",-70.259993,43.653321,unclear_coded_by_hand,General Coordinates Used
-ME068,The Oaks,off Park Ave. (HOT),,Portland,ME,"(AYOR),Cruisy Area,(HOT)",Cruising Areas,checked,1979,NA,4/20/2020 2:45pm,7/20/2020 10:32am,", ME",-70.272969,43.656371,unclear_coded_by_hand,Found
-ME069,Flo's Tavern ,(Hopefully over last year's problems),4 mi. E. on Hwy. 3,Augusta,ME,"(YC),(D),(*)",Bars/Clubs,NA,1978,NA,4/20/2020 2:47pm,7/27/2020 11:34am,"4 mi. E. on Hwy. 3, Augusta, ME",-69.7613446,44.3333716,"me-3, augusta, me, usa",Geocoded
-ME070,'Rest Stops',on I-95 at Sidney (southbound) & Augusta (northbound) - also woods in back,,Augusta,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:48pm,4/20/2020 2:59pm,", ME",-69.77949,44.310624,unclear_coded_by_hand,General Coordinates Used
-ME071,Miller's ,,427 Main St.,Bangor,ME,"(M),(R)",Restaurant,NA,1978,NA,4/20/2020 2:48pm,7/27/2020 11:34am,"427 Main St., Bangor, ME",-68.7767937,44.7916953,"427 main st, bangor, me 04401, usa",Geocoded
-ME072,Peter's Candlelight,(Some RT) (After 8 p.m. this serves as a bus depot),158 Main St.,Bangor,ME,"(M),(RT)",Bars/Clubs,NA,1978,NA,4/20/2020 2:48pm,7/27/2020 11:34am,"158 Main St., Bangor, ME",-68.7723463,44.7988663,"158 main st, bangor, me 04401, usa",Geocoded
-ME073,Main St. nr. Candelight,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:49pm,4/20/2020 2:59pm,", ME",-68.776671,44.791014,unclear_coded_by_hand,General Coordinates Used
-ME074,Old Covered Bridge,behind P.O.,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,checked,1978,NA,4/20/2020 2:50pm,4/20/2020 2:59pm,", ME",-68.776166,44.805575,unclear_coded_by_hand,Found
-ME075,'Rest Stops',on I-95 - southbound at Herman,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:50pm,4/20/2020 2:59pm,", ME",-68.771226,44.801613,unclear_coded_by_hand,General Coordinates Used
-ME076,Vicinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:50pm,4/20/2020 2:59pm,", ME",-68.748712,44.829992,unclear_coded_by_hand,General Coordinates Used
-ME077,Chuckwagon,,Cook's Corners,Brunswick,ME,"(M),(R)",Restaurant,NA,1978,NA,4/20/2020 2:51pm,7/27/2020 11:34am,"Cook's Corners, Brunswick, ME",-69.9153266,43.9078578,"cooks corner, brunswick, me 04011, usa",Geocoded
-ME078,'Rest Stop',on US 1 betw. Bath & Brunswick (southbound),,Brunswick,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:51pm,4/20/2020 2:59pm,", ME",-69.966996,43.914016,unclear_coded_by_hand,General Coordinates Used
-ME079,'Rest Stop' on US 1,(Summers),,Freeport,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:51pm,4/20/2020 2:59pm,", ME",-70.10312,43.857007,unclear_coded_by_hand,General Coordinates Used
-ME080,Moonlight Reader,(Books),54 Wallingford Rd.,Kittery,ME,,Book Store,NA,1978,NA,4/20/2020 2:52pm,7/27/2020 11:34am,"54 Wallingford Rd., Kittery, ME",-70.743372,43.0856515,"54 wallingford square, kittery, me 03904, usa",Geocoded
-ME081,Blue Swan ,(Some G) (look for blue swan on door),18 Canal St. nr. Main ,Lewiston,ME,"(YC),(D),(G),(*)",Bars/Clubs,NA,1978,NA,4/20/2020 2:52pm,7/27/2020 11:34am,"18 Canal St. nr. Main , Lewiston, ME",-70.2185063,44.0983312,"18 canal st, lewiston, me 04240, usa",Geocoded
-ME082,Annabelle's,(Nights),US Hwy. 1 ,Ogunquit,ME,"(R),(YC),(D),(*)","Bars/Clubs,Restaurant",NA,1978,NA,4/20/2020 2:52pm,7/27/2020 11:34am,"US Hwy. 1 , Ogunquit, ME",-70.6005463,43.2472892,"us-1, ogunquit, me, usa",Geocoded
-ME083,Eidleweiss,(Downstairs lounge - cocktail hour 4 - 7 p.m.),Main St.,Ogunquit,ME,(*),Bars/Clubs,checked,1978,NA,4/20/2020 2:53pm,4/20/2020 2:59pm,"Main St., ME",-70.60041,43.248242,unclear_coded_by_hand,Found
-ME084,Fan Club,,US Hwy. 1,Ogunquit,ME,"(M),(R)",Restaurant,NA,1978,NA,4/20/2020 2:53pm,7/27/2020 11:34am,"US Hwy. 1, Ogunquit, ME",-70.6005463,43.2472892,"us-1, ogunquit, me, usa",Geocoded
-ME085,Poor Richard's Pub,,Shore Rd. US Hwy. 1,Ogunquit,ME,"(M),(PE),(R),(E)",Restaurant,NA,1978,NA,4/20/2020 2:53pm,7/27/2020 11:34am,"Shore Rd. US Hwy. 1, Ogunquit, ME",-70.5984074,43.2477192,"50 shore rd, ogunquit, me 03907, usa",Geocoded
-ME086,The Tavern,(Sundays only),Agamenticus Rd.,Ogunquit,ME,(*),Bars/Clubs,NA,1978,NA,4/20/2020 2:54pm,7/27/2020 11:34am,"Agamenticus Rd., Ogunquit, ME",-70.6051378,43.2420342,"agamenticus rd, ogunquit, me, usa",Geocoded
-ME087,Valerie's ,(Bar only),At the Crossroads,Ogunquit,ME,"(M),(R)",Restaurant,NA,1978,NA,4/20/2020 2:55pm,7/27/2020 11:34am,"At the Crossroads, Ogunquit, ME",-70.600963,43.240212,"36 main st, ogunquit, me 03907, usa",Geocoded
-ME088,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:55pm,4/20/2020 2:59pm,", ME",-70.59172,43.25592,unclear_coded_by_hand,Found
-ME089,'Rest Stops',on I-95 South,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:55pm,4/20/2020 2:59pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME090,Old Orchard Beach,,,Old Orchard Beach,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:55pm,4/20/2020 2:59pm,", ME",-70.374117,43.515122,unclear_coded_by_hand,Found
-ME091,Denny's ,,1210 Brighton Ave.,Portland,ME,"(M),(R),(C),(AH)",Restaurant,NA,1978,NA,4/20/2020 2:56pm,7/27/2020 11:34am,"1210 Brighton Ave., Portland, ME",-70.3293995,43.6764451,"1210 brighton ave, portland, me 04102, usa",Geocoded
-ME092,Phoenix,(Game room) (Disco) (Upstairs) (Also C-AH-WE),83 Oak St.,Portland,ME,"(R),(E),(*),(YC),(D),(C),(AH),(WE)","Restaurant,Bars/Clubs",NA,1978,NA,4/20/2020 2:56pm,7/27/2020 11:34am,"83 Oak St., Portland, ME",-70.2625069,43.6559368,"83 oak st, portland, me 04101, usa",Geocoded
-ME093,Roland's Tavern,(Some G) (Sundays 1 p.m. to midnight),413 A Cumberland Ave.,Portland,ME,"(*),(D),(S),(G)",Bars/Clubs,NA,1978,NA,4/20/2020 2:57pm,7/27/2020 11:34am,"413 A Cumberland Ave., Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME094,Rook & Pawn,(Sundays only),High & Spring ,Portland,ME,(M),Bars/Clubs,NA,1978,NA,4/20/2020 2:57pm,7/27/2020 11:34am,"High & Spring , Portland, ME",-70.28936,43.680523,unclear_coded_by_hand,General Coordinates Used
-ME095,Sybil's,(Disco) (Open till 4 a.m. WE),135 Middle St.,Portland,ME,"(M),(YC),(D)",Bars/Clubs,NA,1978,NA,4/20/2020 2:58pm,7/27/2020 11:34am,"135 Middle St., Portland, ME",-70.2532667,43.6586583,"135 middle st, portland, me 04101, usa",Geocoded
-ME096,Wayne's Country ,"(Books, ect.)",61 Forest Ave.,Portland,ME,,Book Store,NA,1978,NA,4/20/2020 2:58pm,7/27/2020 11:34am,"61 Forest Ave., Portland, ME",-70.264412,43.6563313,"61 forest ave, portland, me 04101, usa",Geocoded
-ME097,Pleasant St.,('P' St.),,Portland,ME,Cruisy Area,Cruising Areas,checked,1978,NA,4/20/2020 2:58pm,4/20/2020 2:59pm,", ME",-70.259993,43.653321,unclear_coded_by_hand,General Coordinates Used
-ME098,'The Oaks',off Park Ave. (HOT),,Portland,ME,"(AYOR),Cruisy Area,(HOT)",Cruising Areas,checked,1978,NA,4/20/2020 2:59pm,7/20/2020 10:32am,", ME",-70.272969,43.656371,unclear_coded_by_hand,Found
-ME099,Northeastland Hotel Bar,,436 Main St.,Presque Isle,ME,(M),Bars/Clubs,NA,1978,NA,4/20/2020 2:59pm,7/27/2020 11:34am,"436 Main St., Presque Isle, ME",-68.0151219,46.6805608,"436 main st, presque isle, me 04769, usa",Geocoded
-ME100,Ray's Riverview,(Nights - WE),29 Water St.,Augusta,ME,"(M),(R),(WE),(*)",Restaurant,NA,1977,NA,4/20/2020 3:00pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME101,'Rest Areas',on I-95 at Sidney (southbound) & August (northbound) also wooded area in back,,Augusta,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:02pm,4/20/2020 3:08pm,", ME",-69.77949,44.310624,unclear_coded_by_hand,General Coordinates Used
-ME102,Bangor House,"(""coming back nicely with new management - left corner is best)",174 Main St.,Bangor,ME,(M),Bars/Clubs,NA,1977,NA,4/20/2020 3:03pm,7/27/2020 11:34am,"174 Main St., Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME103,Benjamin's Tavern,(R on main floor - bar in basement),119 Franklin St.,Bangor,ME,"(M),(HIP),(YC),(*),(R)","Restaurant,Bars/Clubs",NA,1977,NA,4/20/2020 3:03pm,7/27/2020 11:34am,"119 Franklin St., Bangor, ME",-68.771886,44.803462,"119 franklin st, bangor, me 04401, usa",Geocoded
-ME104,Miller's,"(""humpy help"")",427 Main St.,Bangor,ME,"(M),(R)",Restaurant,NA,1977,NA,4/20/2020 3:04pm,7/27/2020 11:34am,"427 Main St., Bangor, ME",-68.7767937,44.7916953,"427 main st, bangor, me 04401, usa",Geocoded
-ME105,Peter's Candlelight ,(Some RT) (After 8 PM this serves as Greyhound Bus Depot),158 Main St.,Bangor,ME,"(M),(RT)",Bars/Clubs,NA,1977,NA,4/20/2020 3:04pm,7/27/2020 11:34am,"158 Main St., Bangor, ME",-68.7723463,44.7988663,"158 main st, bangor, me 04401, usa",Geocoded
-ME106,Main St. near Candlelight,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:05pm,4/20/2020 3:08pm,", ME",-68.776671,44.791014,unclear_coded_by_hand,General Coordinates Used
-ME107,Old Covered Bridge - behind P.O.,(summers - AYOR),,Bangor,ME,"Cruisy Area,(AYOR)",Cruising Areas,checked,1977,NA,4/20/2020 3:05pm,4/20/2020 3:08pm,", ME",-68.776166,44.805575,unclear_coded_by_hand,Found
-ME108,"""Rest Areas"" on I-95 - southbound at Herman & Northbound at Carmel",,,Bangor,ME,"Cruisy Area,(AYOR)",Cruising Areas,checked,1977,NA,4/20/2020 3:06pm,4/20/2020 3:08pm,", ME",-68.771226,44.801613,unclear_coded_by_hand,General Coordinates Used
-ME109,Vicinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:06pm,4/20/2020 3:08pm,", ME",-68.748712,44.829992,unclear_coded_by_hand,General Coordinates Used
-ME110,Amy's Place,,117 Wilson St.,Brewer,ME,"(P),(BYOB),(AH)",Bars/Clubs,NA,1977,NA,4/20/2020 3:06pm,7/27/2020 11:34am,"117 Wilson St., Brewer, ME",-68.765492,44.7944021,"117 wilson st, brewer, me 04412, usa",Geocoded
-ME111,"""Rest Area"" on U.S. 1 between Bath & Brunswick",(Southside),,Brunswick,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:07pm,4/20/2020 3:08pm,", ME",-69.966996,43.914016,unclear_coded_by_hand,General Coordinates Used
-ME112,Annabell's,,U.S. Highway 1,Ogunquit,ME,"(YC),(R),(D),(*)","Restaurant,Bars/Clubs",checked,1977,NA,4/20/2020 3:08pm,4/20/2020 3:09pm,"U.S. Highway 1, ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME113,Eidleweiss,(Upstairs lounge),Main St.,Ogunquit,ME,(M),Bars/Clubs,NA,1977,NA,4/20/2020 3:08pm,7/27/2020 11:34am,"Main St., Ogunquit, ME",-70.6001928,43.2540678,"main st, ogunquit, me, usa",Geocoded
-ME114,Fan Club,,Shore Rd. (U.S. Highway 1),Ogunquit,ME,"(M),(R)",Restaurant,checked,1977,NA,4/20/2020 3:09pm,4/20/2020 3:15pm,"Shore Rd. (U.S. Highway 1), ME",-70.59402,43.238603,unclear_coded_by_hand,General Coordinates Used
-ME115,Poor Richard's Pub,(Piano bar),Shore Rd. (U.S. Highway 1),Ogunquit,ME,"(M),(PE),(R)","Restaurant,Bars/Clubs",checked,1977,NA,4/20/2020 3:09pm,4/20/2020 3:15pm,"Shore Rd. (U.S. Highway 1), ME",-70.596076,43.24523,unclear_coded_by_hand,Found
-ME116,Valerie's,(Bar only) at Crossroads,,Ogunquit,ME,"(R),(*)","Bars/Clubs,Restaurant",checked,1977,NA,4/20/2020 3:10pm,4/20/2020 3:15pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME117,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:10pm,4/20/2020 3:15pm,", ME",-70.59172,43.25592,unclear_coded_by_hand,Found
-ME118,"""Rest Stops"" on I-95 South",,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:10pm,4/20/2020 3:15pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME119,Red Carpet Club,(Disco) (Route 9),95 West Grand Ave.,Old Orchard Beach,ME,"(YC),(D),(*)",Bars/Clubs,NA,1977,NA,4/20/2020 3:10pm,7/27/2020 11:34am,"95 West Grand Ave., Old Orchard Beach, ME",-70.3798607,43.5091074,"95 w grand ave, old orchard beach, me 04064, usa",Geocoded
-ME120,Old Orchard Beach,,,Old Orchard Beach,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:11pm,4/20/2020 3:15pm,", ME",-70.374117,43.515122,unclear_coded_by_hand,Found
-ME121,Roland's Tavern,(Some G) (Sundays from 1 PM to midnight - ask Mark about 2 level disco on Oak St. planned for Spring or Summer of '76),413 A Cumberland Ave.,Portland,ME,"(*),(G),(D),(S)",Bars/Clubs,NA,1977,NA,4/20/2020 3:12pm,7/27/2020 11:34am,"413 A Cumberland Ave., Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME122,Rook & Pawn,(Sundays only),Forest Ave.,Portland,ME,(M),Bars/Clubs,checked,1977,NA,4/20/2020 3:12pm,4/20/2020 3:15pm,"Forest Ave., ME",-70.28936,43.680523,unclear_coded_by_hand,General Coordinates Used
-ME123,Pleasant St.,"(""P"" Street)",,Portland,ME,Cruisy Area,Cruising Areas,checked,1977,NA,4/20/2020 3:13pm,4/20/2020 3:15pm,", ME",-70.259993,43.653321,unclear_coded_by_hand,General Coordinates Used
-ME124,"""The Oaks""",off Park Avenue (HOT),,Portland,ME,"Cruisy Area,(HOT)",Cruising Areas,checked,1977,NA,4/20/2020 3:14pm,7/20/2020 10:32am,", ME",-70.272969,43.656371,unclear_coded_by_hand,Found
-ME125,Northeastland Hotel Bar,,436 Main St.,Presque Isle,ME,(M),Bars/Clubs,NA,1977,NA,4/20/2020 3:14pm,7/27/2020 11:34am,"436 Main St., Presque Isle, ME",-68.0151219,46.6805608,"436 main st, presque isle, me 04769, usa",Geocoded
-ME126,Riverview,,29 Water St.,Augusta,ME,"(M),(R),(RT),(WE),(*)","Bars/Clubs,Restaurant",NA,1976,NA,4/20/2020 3:16pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME127,Benjamin's Tavern,,119 Franklin St.,Bangor,ME,"(M),(*)",Bars/Clubs,NA,1976,NA,4/20/2020 3:17pm,7/27/2020 11:34am,"119 Franklin St., Bangor, ME",-68.771886,44.803462,"119 franklin st, bangor, me 04401, usa",Geocoded
-ME128,Peter's Candlelight,,158 Main St.,Bangor,ME,"(M),(RT)",Bars/Clubs,NA,1976,NA,4/20/2020 3:18pm,7/27/2020 11:34am,"158 Main St., Bangor, ME",-68.7723463,44.7988663,"158 main st, bangor, me 04401, usa",Geocoded
-ME129,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(M),(H),(R)",Hotels,checked,1976,NA,4/20/2020 3:18pm,4/20/2020 4:39pm,"Bald Head Cliff, ME",-70.576164,43.220921,unclear_coded_by_hand,General Coordinates Used
-ME130,Eidleweiss,(upstairs lounge),Main St.,Ogunquit,ME,(M),Bars/Clubs,NA,1976,NA,4/20/2020 4:34pm,7/27/2020 11:34am,"Main St., Ogunquit, ME",-70.6001928,43.2540678,"main st, ogunquit, me, usa",Geocoded
-ME131,Fan Club,,Shore Rd. (U.S. Hwy. 1),Ogunquit,ME,"(M),(R)",Restaurant,NA,1976,NA,4/20/2020 4:34pm,7/27/2020 11:34am,"Shore Rd. (U.S. Hwy. 1), Ogunquit, ME",-70.5984074,43.2477192,"50 shore rd, ogunquit, me 03907, usa",Geocoded
-ME132,Poor Richard's Pub,(Piano bar) At crossroads (U.S. Hwy. 1),,Ogunquit,ME,"(M),(PE),(R)","Restaurant,Bars/Clubs",checked,1976,NA,4/20/2020 4:35pm,4/20/2020 4:39pm,", ME",-70.596076,43.24523,unclear_coded_by_hand,Found
-ME133,Valerie's,(bar only) At crossroads (U.S. Hwy. 1),,Ogunquit,ME,"(M),(R)","Restaurant,Bars/Clubs",checked,1976,NA,4/20/2020 4:35pm,4/20/2020 4:39pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME134,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1976,NA,4/20/2020 4:35pm,4/20/2020 4:39pm,", ME",-70.59172,43.25592,unclear_coded_by_hand,Found
-ME135,'Rest Stops',on I-95 N. & S. of Ogunquit,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1976,NA,4/20/2020 4:36pm,4/20/2020 4:39pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME136,Cremos,(Sundays only),Forest Ave.,Portland,ME,"(M),(RT)",Bars/Clubs,NA,1976,NA,4/20/2020 4:36pm,7/27/2020 11:34am,"Forest Ave., Portland, ME",-70.2893605,43.6805225,"forest ave, portland, me, usa",Geocoded
-ME137,Roland's Tavern,(Some G) (Maine's best known bar),413 A Cumberland Ave.,Portland,ME,"(D),(S),(G),(*)",Bars/Clubs,NA,1976,NA,4/20/2020 4:37pm,7/27/2020 11:34am,"413 A Cumberland Ave., Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME138,Pleasant St.,,,Portland,ME,Cruisy Area,Cruising Areas,checked,1976,NA,4/20/2020 4:37pm,4/20/2020 4:39pm,", ME",-70.259993,43.653321,unclear_coded_by_hand,General Coordinates Used
-ME139,"""P"" Street",,,Portland,ME,Cruisy Area,Cruising Areas,checked,1976,NA,4/20/2020 4:37pm,4/20/2020 4:39pm,", ME",-70.259993,43.653321,unclear_coded_by_hand,General Coordinates Used
-ME140,"""The Oaks""",off Park Ave (HOT),,Portland,ME,"Cruisy Area,(HOT)",Cruising Areas,checked,1976,NA,4/20/2020 4:38pm,7/20/2020 10:32am,", ME",-70.272969,43.656371,unclear_coded_by_hand,Found
-ME141,Northeastland Hotel Bar,,436 Main St.,Presque Isle,ME,(M),Bars/Clubs,NA,1976,NA,4/20/2020 4:38pm,7/27/2020 11:34am,"436 Main St., Presque Isle, ME",-68.0151219,46.6805608,"436 main st, presque isle, me 04769, usa",Geocoded
-ME142,Stage Door,(Sunday brunch),Route 1,Wells,ME,"(YC),(D),(R),(*)","Restaurant,Bars/Clubs",checked,1976,NA,4/20/2020 4:38pm,4/20/2020 4:39pm,"Route 1, ME",-70.580521,43.322233,unclear_coded_by_hand,General Coordinates Used
-ME143,Ray's,,29 Water St.,Augusta,ME,(M),Bars/Clubs,NA,1976,NA,4/20/2020 4:38pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME144,Bangor Lounge,,174 Main St.,Bangor,ME,(M),Bars/Clubs,NA,1976,NA,4/20/2020 4:39pm,7/27/2020 11:34am,"174 Main St., Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME145,Androscoggin Club,(Some G),100 Lincoln St.,Lewiston,ME,"(YC),(G),(*)",Bars/Clubs,NA,1975,NA,4/20/2020 4:39pm,7/27/2020 11:34am,"100 Lincoln St., Lewiston, ME",-70.219427,44.0938793,"100 lincoln st, lewiston, me 04240, usa",Geocoded
-ME146,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(M),(H)",Hotels,checked,1975,NA,4/20/2020 4:41pm,4/20/2020 4:45pm,"Bald Head Cliff, ME",-70.576164,43.220921,unclear_coded_by_hand,General Coordinates Used
-ME147,Lily Marlene,Inquire locally,,Ogunquit,ME,,Bars/Clubs,checked,1975,NA,4/20/2020 4:41pm,4/20/2020 4:45pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,Found
-ME148,Poor Richard's Pub,,U.S. Hwy. 1,Ogunquit,ME,"(M),(R)",Restaurant,checked,1975,NA,4/20/2020 4:42pm,4/20/2020 4:45pm,"U.S. Hwy. 1, ME",-70.596076,43.24523,unclear_coded_by_hand,Found
-ME149,Valerie's,,U.S. Hwy. 1,Ogunquit,ME,,Bars/Clubs,checked,1975,NA,4/20/2020 4:42pm,4/20/2020 4:45pm,"U.S. Hwy. 1, ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME150,'Rest Stops',on U.S. 1 bet. Ogunquit & York,,Ogunquit,ME,Cruisy Area,Cruising Areas,checked,1975,NA,4/20/2020 4:42pm,4/20/2020 4:45pm,", ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME151,Cremos,(Weekends),Forest Ave.,Portland,ME,,Bars/Clubs,checked,1975,NA,4/20/2020 4:43pm,4/20/2020 4:45pm,"Forest Ave., ME",-70.28936,43.680523,unclear_coded_by_hand,General Coordinates Used
-ME152,Hollywood Cafe,,413 A Cumberland,Portland,ME,"(YC),(D),(S),(*)",Bars/Clubs,NA,1975,NA,4/20/2020 4:43pm,7/27/2020 11:34am,"413 A Cumberland, Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME153,Top of the East,Sheraton-Eastland Hotel,157 High St.,Portland,ME,(M),"Bars/Clubs,Hotels",NA,1975,NA,4/20/2020 4:44pm,7/27/2020 11:34am,"157 High St., Portland, ME",-70.2640089,43.6549156,"157 high st, portland, me 04101, usa",Geocoded
-ME154,Around Y.M.C.A.,across street from Rolands,,Portland,ME,Cruisy Area,Cruising Areas,checked,1975,NA,4/20/2020 4:44pm,4/20/2020 4:45pm,", ME",-70.265414,43.656526,unclear_coded_by_hand,General Coordinates Used
-ME155,Ray's,,29 Water St.,Augusta,ME,(M),Bars/Clubs,NA,1974,NA,4/20/2020 4:46pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME156,Bangor Lounge,,174 Main St.,Bangor,ME,(M),Bars/Clubs,NA,1974,NA,4/20/2020 4:47pm,7/27/2020 11:34am,"174 Main St., Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME157,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(M),(H)",Hotels,checked,1974,NA,4/20/2020 4:47pm,4/20/2020 4:49pm,"Bald Head Cliff, ME",-70.576164,43.220921,unclear_coded_by_hand,General Coordinates Used
-ME158,Valerie's,,US Hwy. 1,Ogunquit,ME,,Bars/Clubs,checked,1974,NA,4/20/2020 4:47pm,4/20/2020 4:49pm,"US Hwy. 1, ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME159,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1974,NA,4/20/2020 4:48pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME160,Roland's ,,413 A Cumberland,Portland,ME,"(YC),(D),(S),(*)",Bars/Clubs,NA,1974,NA,4/20/2020 4:48pm,7/27/2020 11:34am,"413 A Cumberland, Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME161,Top of the East,Sheraton-Eastland Hotel,157 High St.,Portland,ME,(M),"Bars/Clubs,Hotels",NA,1974,NA,4/20/2020 4:48pm,7/27/2020 11:34am,"157 High St., Portland, ME",-70.2640089,43.6549156,"157 high st, portland, me 04101, usa",Geocoded
-ME162,Area around Y.M.C.A. across stret from Roland's,,,Portland,ME,Cruisy Area,Cruising Areas,checked,1974,NA,4/20/2020 4:48pm,4/20/2020 4:49pm,", ME",-70.265414,43.656526,unclear_coded_by_hand,General Coordinates Used
-ME163,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,NA,1973,NA,4/20/2020 4:53pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME164,Bangor Lounge,,174 Main St.,Bangor,ME,,Bars/Clubs,NA,1973,NA,4/20/2020 4:53pm,7/27/2020 11:34am,"174 Main St., Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME165,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(H),(M)",Hotels,checked,1973,NA,4/20/2020 4:53pm,4/20/2020 4:55pm,"Bald Head Cliff, ME",-70.576164,43.220921,unclear_coded_by_hand,General Coordinates Used
-ME166,Valerie's,,U.S. Hwy. 1,Ogunquit,ME,,Bars/Clubs,checked,1973,NA,4/20/2020 4:54pm,4/20/2020 4:55pm,"U.S. Hwy. 1, ME",-70.598622,43.246835,unclear_coded_by_hand,General Coordinates Used
-ME167,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1973,NA,4/20/2020 4:54pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME168,Roland's ,,413 A Cumberland,Portland,ME,(*),Bars/Clubs,NA,1973,NA,4/20/2020 4:54pm,7/27/2020 11:34am,"413 A Cumberland, Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME169,Top of the East,Sheraton-Eastland Hotel,157 High St.,Portland,ME,(M),"Bars/Clubs,Hotels",NA,1973,NA,4/20/2020 4:54pm,7/27/2020 11:34am,"157 High St., Portland, ME",-70.2640089,43.6549156,"157 high st, portland, me 04101, usa",Geocoded
-ME170,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,NA,1972,NA,4/20/2020 4:56pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME171,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,NA,1972,NA,4/20/2020 4:57pm,7/27/2020 11:34am,"174 Main, Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME172,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(H),(M)",Hotels,NA,1972,NA,4/20/2020 4:57pm,7/27/2020 11:34am,"Bald Head Cliff, Ogunquit, ME",-70.5803067,43.2201226,"bald head cliff rd, york, me 03902, usa",Geocoded
-ME173,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1972,NA,4/20/2020 4:57pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME174,Roland's ,,413 A Cumberland,Portland,ME,(*),Bars/Clubs,NA,1972,NA,4/20/2020 4:57pm,7/27/2020 11:34am,"413 A Cumberland, Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME175,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,NA,1971,NA,4/20/2020 4:58pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME176,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,NA,1971,NA,4/20/2020 4:59pm,7/27/2020 11:34am,"174 Main, Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME177,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,,Bars/Clubs,NA,1971,NA,4/20/2020 5:00pm,7/27/2020 11:34am,"Bald Head Cliff, Ogunquit, ME",-70.5803067,43.2201226,"bald head cliff rd, york, me 03902, usa",Geocoded
-ME178,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1971,NA,4/20/2020 5:00pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME179,Roland's,,413 A Cumberland Ave.,Portland,ME,(*),Bars/Clubs,NA,1971,NA,4/20/2020 5:00pm,7/27/2020 11:34am,"413 A Cumberland Ave., Portland, ME",-70.2645269,43.6561324,"413 cumberland ave, portland, me 04101, usa",Geocoded
-ME180,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,NA,1970,NA,4/20/2020 5:02pm,7/27/2020 11:34am,"29 Water St., Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME181,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,NA,1970,NA,4/20/2020 5:02pm,7/27/2020 11:34am,"174 Main, Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME182,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,,Bars/Clubs,checked,1970,NA,4/20/2020 5:02pm,4/20/2020 5:04pm,"Bald Head Cliff, ME",-70.576164,43.220921,unclear_coded_by_hand,General Coordinates Used
-ME183,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1970,NA,4/20/2020 5:02pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME184,Ray's ,,29 Water,Augusta,ME,,Bars/Clubs,NA,1969,NA,4/20/2020 5:03pm,7/27/2020 11:34am,"29 Water, Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME185,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,NA,1969,NA,4/20/2020 5:03pm,7/27/2020 11:34am,"174 Main, Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME186,Cliff House Hotel,(Inquire locally),,Ogunquit,ME,,Hotels,checked,1969,NA,4/20/2020 5:03pm,4/20/2020 5:04pm,", ME",-70.576164,43.220921,unclear_coded_by_hand,General Coordinates Used
-ME187,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1969,NA,4/20/2020 5:04pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME188,Ray's,,29 Water,Augusta,ME,,Bars/Clubs,NA,1968,NA,4/20/2020 5:04pm,7/27/2020 11:34am,"29 Water, Augusta, ME",-69.7732719,44.3201734,"29 water st, augusta, me 04330, usa",Geocoded
-ME189,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,NA,1968,NA,4/20/2020 5:04pm,7/27/2020 11:34am,"174 Main, Bangor, ME",-68.7724581,44.7984331,"174 main st, bangor, me 04401, usa",Geocoded
-ME190,Cliff House Hotel,(Inquire locally),,Ogunquit,ME,,Hotels,checked,1968,NA,4/20/2020 5:05pm,4/20/2020 5:06pm,", ME",-70.576164,43.220921,unclear_coded_by_hand,General Coordinates Used
-ME191,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1968,NA,4/20/2020 5:05pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME192,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1966,NA,4/20/2020 5:05pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
-ME193,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,NA,1965,NA,4/20/2020 5:07pm,7/27/2020 11:34am,"133 Free St., Portland, ME",-70.2621415,43.6545259,"133 free st, portland, me 04101, usa",Geocoded
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+13370,ME101,'Rest Areas',on I-95 at Sidney (southbound) & August (northbound) also wooded area in back,,Augusta,ME,Cruisy Area,Cruising Areas,1977,NA,-69.77949,44.310624,Location could not be verified. General city or location coordinates used.
+13271,ME002,'Rest Stop',on I-95 at Sidney (Southbound) & August (Northbound) - also woods in back,,Augusta,ME,Cruisy Area,Cruising Areas,1980,NA,-69.77949,44.310624,Location could not be verified. General city or location coordinates used.
+13293,ME024,'Rest Stop',on I-95 S. & US 1 - S.,,Ogunquit,ME,Cruisy Area,Cruising Areas,1980,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13347,ME078,'Rest Stop',on US 1 betw. Bath & Brunswick (southbound),,Brunswick,ME,Cruisy Area,Cruising Areas,1978,NA,-69.966996,43.914016,Location could not be verified. General city or location coordinates used.
+13317,ME048,'Rest Stop' on US 1,(summers),,Freeport,ME,Cruisy Area,Cruising Areas,1979,NA,-70.10312,43.857007,Location could not be verified. General city or location coordinates used.
+13348,ME079,'Rest Stop' on US 1,(Summers),,Freeport,ME,Cruisy Area,Cruising Areas,1978,NA,-70.10312,43.857007,Location could not be verified. General city or location coordinates used.
+13281,ME012,'Rest Stop' on US 1 (Summers),,,Freeport,ME,Cruisy Area,Cruising Areas,1980,NA,-70.10312,43.857007,Location could not be verified. General city or location coordinates used.
+13280,ME011,"'Rest Stop' on US 1, betw. Bath & Brunswick (S.)",,,Brunswick,ME,Cruisy Area,Cruising Areas,1980,NA,-69.966996,43.914016,Location could not be verified. General city or location coordinates used.
+13316,ME047,"'Rest Stop' on US 1, betw. Bath & Brunswick (So.)",,,Brunswick,ME,Cruisy Area,Cruising Areas,1979,NA,-69.966996,43.914016,Location could not be verified. General city or location coordinates used.
+13313,ME044,'Rest Stops',on I-95 - Southbound at Herman & Northbound at Carmel,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,1979,NA,-68.771226,44.801613,Location could not be verified. General city or location coordinates used.
+13327,ME058,'Rest Stops',on I-95 S. & US I-S.,,Ogunquit,ME,Cruisy Area,Cruising Areas,1979,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13404,ME135,'Rest Stops',on I-95 N. & S. of Ogunquit,,Ogunquit,ME,Cruisy Area,Cruising Areas,1976,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13339,ME070,'Rest Stops',on I-95 at Sidney (southbound) & Augusta (northbound) - also woods in back,,Augusta,ME,Cruisy Area,Cruising Areas,1978,NA,-69.77949,44.310624,Location could not be verified. General city or location coordinates used.
+13308,ME039,'Rest Stops',on I-95 at Sidney (Southbound) & Augusta (Northbound) - also woods in back,,Augusta,ME,Cruisy Area,Cruising Areas,1979,NA,-69.77949,44.310624,Location could not be verified. General city or location coordinates used.
+13344,ME075,'Rest Stops',on I-95 - southbound at Herman,,Bangor,ME,Cruisy Area,Cruising Areas,1978,NA,-68.771226,44.801613,Location could not be verified. General city or location coordinates used.
+13276,ME007,'Rest Stops',on I-95 Southbound at Herman & Northbound at Carmel,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,1980,NA,-68.771226,44.801613,Location could not be verified. General city or location coordinates used.
+13419,ME150,'Rest Stops',on U.S. 1 bet. Ogunquit & York,,Ogunquit,ME,Cruisy Area,Cruising Areas,1975,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13358,ME089,'Rest Stops',on I-95 South,,Ogunquit,ME,Cruisy Area,Cruising Areas,1978,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13367,ME098,'The Oaks',off Park Ave. (HOT),,Portland,ME,"(AYOR),Cruisy Area,(HOT)",Cruising Areas,1978,NA,-70.272969,43.656371,Verified Location
+13408,ME139,"""P"" Street",,,Portland,ME,Cruisy Area,Cruising Areas,1976,NA,-70.259993,43.653321,Location could not be verified. General city or location coordinates used.
+13380,ME111,"""Rest Area"" on U.S. 1 between Bath & Brunswick",(Southside),,Brunswick,ME,Cruisy Area,Cruising Areas,1977,NA,-69.966996,43.914016,Location could not be verified. General city or location coordinates used.
+13377,ME108,"""Rest Areas"" on I-95 - southbound at Herman & Northbound at Carmel",,,Bangor,ME,"Cruisy Area,(AYOR)",Cruising Areas,1977,NA,-68.771226,44.801613,Location could not be verified. General city or location coordinates used.
+13387,ME118,"""Rest Stops"" on I-95 South",,,Ogunquit,ME,Cruisy Area,Cruising Areas,1977,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13409,ME140,"""The Oaks""",off Park Ave (HOT),,Portland,ME,"Cruisy Area,(HOT)",Cruising Areas,1976,NA,-70.272969,43.656371,Verified Location
+13393,ME124,"""The Oaks""",off Park Avenue (HOT),,Portland,ME,"Cruisy Area,(HOT)",Cruising Areas,1977,NA,-70.272969,43.656371,Verified Location
+13283,ME014,Admiral's Loft Guest House,1/2 mi. N. on Main St. Tel: (207) 646 - 5496,,Ogunquit,ME,"(H),(*)",Hotel,1980,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13320,ME051,Admiral's Loft Guest House,Tel: (207) 646 - 5496 ,Main St.,Ogunquit,ME,"(H),(*)",Hotel,1979,NA,-70.6001928,43.2540678,Google Verified Location
+13379,ME110,Amy's Place,,117 Wilson St.,Brewer,ME,"(P),(BYOB),(AH)",Bars/Clubs,1977,NA,-68.765492,44.7944021,Google Verified Location
+13284,ME015,Anabel's ,(Nights) (Cruisy),US Hwy. 1 ,Ogunquit,ME,"(R),(YC),(D),(*)","Restaurant,Cruising Areas",1980,NA,-70.6005463,43.2472892,Google Verified Location
+13414,ME145,Androscoggin Club,(Some G),100 Lincoln St.,Lewiston,ME,"(YC),(G),(*)",Bars/Clubs,1975,NA,-70.219427,44.0938793,Google Verified Location
+13381,ME112,Annabell's,,U.S. Highway 1,Ogunquit,ME,"(YC),(R),(D),(*)","Restaurant,Bars/Clubs",1977,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13351,ME082,Annabelle's,(Nights),US Hwy. 1 ,Ogunquit,ME,"(R),(YC),(D),(*)","Bars/Clubs,Restaurant",1978,NA,-70.6005463,43.2472892,Google Verified Location
+13321,ME052,Annabelle's,(Nights),US Hwy. 1,Ogunquit,ME,"(R),(YC),(D),(*)","Restaurant,Bars/Clubs",1979,NA,-70.6005463,43.2472892,Google Verified Location
+13431,ME162,Area around Y.M.C.A. across stret from Roland's,,,Portland,ME,Cruisy Area,Cruising Areas,1974,NA,-70.265414,43.656526,Location could not be verified. General city or location coordinates used.
+13423,ME154,Around Y.M.C.A.,across street from Rolands,,Portland,ME,Cruisy Area,Cruising Areas,1975,NA,-70.265414,43.656526,Location could not be verified. General city or location coordinates used.
+13371,ME102,Bangor House,"(""coming back nicely with new management - left corner is best)",174 Main St.,Bangor,ME,(M),Bars/Clubs,1977,NA,-68.7724581,44.7984331,Google Verified Location
+13413,ME144,Bangor Lounge,,174 Main St.,Bangor,ME,(M),Bars/Clubs,1976,NA,-68.7724581,44.7984331,Google Verified Location
+13433,ME164,Bangor Lounge,,174 Main St.,Bangor,ME,,Bars/Clubs,1973,NA,-68.7724581,44.7984331,Google Verified Location
+13458,ME189,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,1968,NA,-68.7724581,44.7984331,Google Verified Location
+13454,ME185,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,1969,NA,-68.7724581,44.7984331,Google Verified Location
+13425,ME156,Bangor Lounge,,174 Main St.,Bangor,ME,(M),Bars/Clubs,1974,NA,-68.7724581,44.7984331,Google Verified Location
+13450,ME181,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,1970,NA,-68.7724581,44.7984331,Google Verified Location
+13445,ME176,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,1971,NA,-68.7724581,44.7984331,Google Verified Location
+13440,ME171,Bangor Lounge,,174 Main,Bangor,ME,,Bars/Clubs,1972,NA,-68.7724581,44.7984331,Google Verified Location
+13396,ME127,Benjamin's Tavern,,119 Franklin St.,Bangor,ME,"(M),(*)",Bars/Clubs,1976,NA,-68.771886,44.803462,Google Verified Location
+13372,ME103,Benjamin's Tavern,(R on main floor - bar in basement),119 Franklin St.,Bangor,ME,"(M),(HIP),(YC),(*),(R)","Restaurant,Bars/Clubs",1977,NA,-68.771886,44.803462,Google Verified Location
+13319,ME050,Blue Swan,(Some G) (Look for blue swan on door),18 Canal St.,Lewiston,ME,"(YC),(D),(*),(G)",Bars/Clubs,1979,NA,-70.2185063,44.0983312,Google Verified Location
+13350,ME081,Blue Swan ,(Some G) (look for blue swan on door),18 Canal St. nr. Main ,Lewiston,ME,"(YC),(D),(G),(*)",Bars/Clubs,1978,NA,-70.2185063,44.0983312,Google Verified Location
+13346,ME077,Chuckwagon,,Cook's Corners,Brunswick,ME,"(M),(R)",Restaurant,1978,NA,-69.9153266,43.9078578,Google Verified Location
+13315,ME046,Chuckwagon,,Cooks Corners,Brunswick,ME,"(M),(R)",Restaurant,1979,NA,-69.9153266,43.9078578,Google Verified Location
+13279,ME010,Chuckwagon,,Cooks Corners,Brunswick,ME,"(M),(R)",Restaurant,1980,NA,-69.9153266,43.9078578,Google Verified Location
+13434,ME165,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(H),(M)",Hotel,1973,NA,-70.576164,43.220921,Location could not be verified. General city or location coordinates used.
+13415,ME146,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(M),(H)",Hotel,1975,NA,-70.576164,43.220921,Location could not be verified. General city or location coordinates used.
+13446,ME177,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,,Bars/Clubs,1971,NA,-70.5803067,43.2201226,Google Verified Location
+13451,ME182,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,,Bars/Clubs,1970,NA,-70.576164,43.220921,Location could not be verified. General city or location coordinates used.
+13441,ME172,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(H),(M)",Hotel,1972,NA,-70.5803067,43.2201226,Google Verified Location
+13398,ME129,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(M),(H),(R)","Hotel,Restaurant",1976,NA,-70.576164,43.220921,Location could not be verified. General city or location coordinates used.
+13426,ME157,Cliff House & Motel,,Bald Head Cliff,Ogunquit,ME,"(M),(H)",Hotel,1974,NA,-70.576164,43.220921,Location could not be verified. General city or location coordinates used.
+13455,ME186,Cliff House Hotel,(Inquire locally),,Ogunquit,ME,,Hotel,1969,NA,-70.576164,43.220921,Location could not be verified. General city or location coordinates used.
+13459,ME190,Cliff House Hotel,(Inquire locally),,Ogunquit,ME,,Hotel,1968,NA,-70.576164,43.220921,Location could not be verified. General city or location coordinates used.
+13285,ME016,Clipper Ship Guest House ,,46 Main St.,Ogunquit,ME,(H),Hotel,1980,NA,-70.6019264,43.2408797,Google Verified Location
+13420,ME151,Cremos,(Weekends),Forest Ave.,Portland,ME,,Bars/Clubs,1975,NA,-70.28936,43.680523,Location could not be verified. General city or location coordinates used.
+13405,ME136,Cremos,(Sundays only),Forest Ave.,Portland,ME,"(M),(RT)",Bars/Clubs,1976,NA,-70.2893605,43.6805225,Google Verified Location
+13296,ME027,Denny's,,1210 Brighton Ave.,Portland,ME,"(M),(R),(C),(AH)",Restaurant,1980,NA,-70.3293995,43.6764451,Google Verified Location
+13329,ME060,Denny's,,1210 Brighton Ave.,Portland,ME,"(M),(R),(C),(AH)",Restaurant,1979,NA,-70.3293995,43.6764451,Google Verified Location
+13360,ME091,Denny's ,,1210 Brighton Ave.,Portland,ME,"(M),(R),(C),(AH)",Restaurant,1978,NA,-70.3293995,43.6764451,Google Verified Location
+13270,ME001,East Side,(Disco) (N. Belfast Ave.),4 mi. E. on Hwy. 3 ,Augusta,ME,"(YC),(D),(WE),(*)",Bars/Clubs,1980,NA,-69.7613446,44.3333716,Google Verified Location
+13303,ME034,Eastland Hotel Downstairs T-Room,,,Portland,ME,Cruisy Area,Cruising Areas,1980,NA,-70.264009,43.654916,Verified Location
+13286,ME017,Edelweiss,(Downstairs lounge - cocktail hour - 4-7 pm),Main St. at Ogunquit Beach Rd.,Ogunquit,ME,(*),Bars/Clubs,1980,NA,-70.60041,43.248242,Verified Location
+13382,ME113,Eidleweiss,(Upstairs lounge),Main St.,Ogunquit,ME,(M),Bars/Clubs,1977,NA,-70.6001928,43.2540678,Google Verified Location
+13399,ME130,Eidleweiss,(upstairs lounge),Main St.,Ogunquit,ME,(M),Bars/Clubs,1976,NA,-70.6001928,43.2540678,Google Verified Location
+13352,ME083,Eidleweiss,(Downstairs lounge - cocktail hour 4 - 7 p.m.),Main St.,Ogunquit,ME,(*),Bars/Clubs,1978,NA,-70.60041,43.248242,Verified Location
+13322,ME053,Eidleweiss ,(Downstairs lounge - cocktail hour - 4 - 7 p.m.),Main St.,Ogunquit,ME,(*),Bars/Clubs,1979,NA,-70.6001928,43.2540678,Google Verified Location
+13323,ME054,Fan Club,,US Hwy. 1,Ogunquit,ME,"(M),(R)",Restaurant,1979,NA,-70.6005463,43.2472892,Google Verified Location
+13400,ME131,Fan Club,,Shore Rd. (U.S. Hwy. 1),Ogunquit,ME,"(M),(R)",Restaurant,1976,NA,-70.5984074,43.2477192,Google Verified Location
+13383,ME114,Fan Club,,Shore Rd. (U.S. Highway 1),Ogunquit,ME,"(M),(R)",Restaurant,1977,NA,-70.59402,43.238603,Location could not be verified. General city or location coordinates used.
+13353,ME084,Fan Club,,US Hwy. 1,Ogunquit,ME,"(M),(R)",Restaurant,1978,NA,-70.6005463,43.2472892,Google Verified Location
+13307,ME038,Flo's Tavern ,"(Open Thur., Fri. & Sat. only)",4 mi. E. on Hwy. 3,Augusta,ME,"(YC),(D),(*)",Bars/Clubs,1979,NA,-69.7613446,44.3333716,Google Verified Location
+13338,ME069,Flo's Tavern ,(Hopefully over last year's problems),4 mi. E. on Hwy. 3,Augusta,ME,"(YC),(D),(*)",Bars/Clubs,1978,NA,-69.7613446,44.3333716,Google Verified Location
+13456,ME187,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1969,NA,-70.2621415,43.6545259,Google Verified Location
+13460,ME191,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1968,NA,-70.2621415,43.6545259,Google Verified Location
+13452,ME183,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1970,NA,-70.2621415,43.6545259,Google Verified Location
+13461,ME192,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1966,NA,-70.2621415,43.6545259,Google Verified Location
+13462,ME193,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1965,NA,-70.2621415,43.6545259,Google Verified Location
+13436,ME167,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1973,NA,-70.2621415,43.6545259,Google Verified Location
+13447,ME178,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1971,NA,-70.2621415,43.6545259,Google Verified Location
+13442,ME173,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1972,NA,-70.2621415,43.6545259,Google Verified Location
+13428,ME159,Hollywood Cafe,,133 Free St.,Portland,ME,(M),Bars/Clubs,1974,NA,-70.2621415,43.6545259,Google Verified Location
+13421,ME152,Hollywood Cafe,,413 A Cumberland,Portland,ME,"(YC),(D),(S),(*)",Bars/Clubs,1975,NA,-70.2645269,43.6561324,Google Verified Location
+13416,ME147,Lily Marlene,Inquire locally,,Ogunquit,ME,,Bars/Clubs,1975,NA,-70.598622,43.246835,Verified Location
+13287,ME018,Linden Lodge ,,24 Shore Rd.,Ogunquit,ME,(H),Hotel,1980,NA,-70.5992566,43.2484088,Google Verified Location
+13295,ME026,Luna Base One,(Disco),Route 2 ,Orono,ME,"(M),(YC),(D)",Bars/Clubs,1980,NA,-68.672283,44.8832315,Google Verified Location
+13375,ME106,Main St. near Candlelight,,,Bangor,ME,Cruisy Area,Cruising Areas,1977,NA,-68.776671,44.791014,Location could not be verified. General city or location coordinates used.
+13342,ME073,Main St. nr. Candelight,,,Bangor,ME,Cruisy Area,Cruising Areas,1978,NA,-68.776671,44.791014,Location could not be verified. General city or location coordinates used.
+13274,ME005,Main St. nr. Candlelight,,,Bangor,ME,Cruisy Area,Cruising Areas,1980,NA,-68.776671,44.791014,Location could not be verified. General city or location coordinates used.
+13311,ME042,Main St. nr. Candlelight,,,Bangor,ME,Cruisy Area,Cruising Areas,1979,NA,-68.776671,44.791014,Location could not be verified. General city or location coordinates used.
+13309,ME040,Miller's,,427 Main St.,Bangor,ME,"(M),(R)",Restaurant,1979,NA,-68.7767937,44.7916953,Google Verified Location
+13373,ME104,Miller's,"(""humpy help"")",427 Main St.,Bangor,ME,"(M),(R)",Restaurant,1977,NA,-68.7767937,44.7916953,Google Verified Location
+13272,ME003,Miller's,,427 Main St.,Bangor,ME,"(M),(R)",Restaurant,1980,NA,-68.7767937,44.7916953,Google Verified Location
+13340,ME071,Miller's ,,427 Main St.,Bangor,ME,"(M),(R)",Restaurant,1978,NA,-68.7767937,44.7916953,Google Verified Location
+13318,ME049,Moonlight Reader,(Books),54 Wallingford Rd.,Kittery,ME,,Book Store,1979,NA,-70.743372,43.0856515,Google Verified Location
+13349,ME080,Moonlight Reader,(Books),54 Wallingford Rd.,Kittery,ME,,Book Store,1978,NA,-70.743372,43.0856515,Google Verified Location
+13278,ME009,Moonlight Reader II,"(Books, ect.)",22 Alfred St.,Biddeford,ME,,Book Store,1980,NA,-70.4540205,43.4922958,Google Verified Location
+13410,ME141,Northeastland Hotel Bar,,436 Main St.,Presque Isle,ME,(M),Bars/Clubs,1976,NA,-68.0151219,46.6805608,Google Verified Location
+13394,ME125,Northeastland Hotel Bar,,436 Main St.,Presque Isle,ME,(M),Bars/Clubs,1977,NA,-68.0151219,46.6805608,Google Verified Location
+13368,ME099,Northeastland Hotel Bar,,436 Main St.,Presque Isle,ME,(M),Bars/Clubs,1978,NA,-68.0151219,46.6805608,Google Verified Location
+13288,ME019,Ogunquit After Dark,"P, AH, BYOB just beyond Playhouse on US 1 N.",,Ogunquit,ME,"(P),(AH),(BYOB)",Bars/Clubs,1980,NA,-70.5986223,43.2468352,Google Verified Location
+13357,ME088,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,1978,NA,-70.59172,43.25592,Verified Location
+13386,ME117,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,1977,NA,-70.59172,43.25592,Verified Location
+13326,ME057,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,1979,NA,-70.59172,43.25592,Verified Location
+13292,ME023,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,1980,NA,-70.59172,43.25592,Verified Location
+13403,ME134,Ogunquit Beach,,,Ogunquit,ME,Cruisy Area,Cruising Areas,1976,NA,-70.59172,43.25592,Verified Location
+13312,ME043,Old Covered Bridge,behind P.O.,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,1979,NA,-68.776166,44.805575,Verified Location
+13343,ME074,Old Covered Bridge,behind P.O.,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,1978,NA,-68.776166,44.805575,Verified Location
+13275,ME006,Old Covered Bridge,behind P.O.,,Bangor,ME,"(AYOR),Cruisy Area",Cruising Areas,1980,NA,-68.776166,44.805575,Verified Location
+13376,ME107,Old Covered Bridge - behind P.O.,(summers - AYOR),,Bangor,ME,"Cruisy Area,(AYOR)",Cruising Areas,1977,NA,-68.776166,44.805575,Verified Location
+13294,ME025,Old Orchard Beach,(AYOR - cops harrassing),,Old Orchard Beach,ME,"Cruisy Area,(AYOR)",Cruising Areas,1980,NA,-70.374117,43.515122,Verified Location
+13328,ME059,Old Orchard Beach,,,Old Orchard Beach,ME,Cruisy Area,Cruising Areas,1979,NA,-70.374117,43.515122,Verified Location
+13389,ME120,Old Orchard Beach,,,Old Orchard Beach,ME,Cruisy Area,Cruising Areas,1977,NA,-70.374117,43.515122,Verified Location
+13359,ME090,Old Orchard Beach,,,Old Orchard Beach,ME,Cruisy Area,Cruising Areas,1978,NA,-70.374117,43.515122,Verified Location
+13297,ME028,One Way Pub,(Many L),10 Union St.,Portland,ME,"(D),(L)",Bars/Clubs,1980,NA,-70.2550662,43.655149,Google Verified Location
+13330,ME061,One Way Pub,"(Some G, YC)",10 Union St.,Portland,ME,"(R),(E),(D),(*),(G),(YC)","Bars/Clubs,Restaurant",1979,NA,-70.2550662,43.655149,Google Verified Location
+13341,ME072,Peter's Candlelight,(Some RT) (After 8 p.m. this serves as a bus depot),158 Main St.,Bangor,ME,"(M),(RT)",Bars/Clubs,1978,NA,-68.7723463,44.7988663,Google Verified Location
+13273,ME004,Peter's Candlelight,(Some RT),158 Main St.,Bangor,ME,"(RT),(M)",Bars/Clubs,1980,NA,-68.7723463,44.7988663,Google Verified Location
+13397,ME128,Peter's Candlelight,,158 Main St.,Bangor,ME,"(M),(RT)",Bars/Clubs,1976,NA,-68.7723463,44.7988663,Google Verified Location
+13374,ME105,Peter's Candlelight ,(Some RT) (After 8 PM this serves as Greyhound Bus Depot),158 Main St.,Bangor,ME,"(M),(RT)",Bars/Clubs,1977,NA,-68.7723463,44.7988663,Google Verified Location
+13310,ME041,Peter's Candlelight ,(Some RT),158 Main St.,Bangor,ME,"(RT),(M)",Bars/Clubs,1979,NA,-68.7723463,44.7988663,Google Verified Location
+13361,ME092,Phoenix,(Game room) (Disco) (Upstairs) (Also C-AH-WE),83 Oak St.,Portland,ME,"(R),(E),(*),(YC),(D),(C),(AH),(WE)","Restaurant,Bars/Clubs",1978,NA,-70.2625069,43.6559368,Google Verified Location
+13298,ME029,Phoenix ,(Disco) (Also C-AH-WE-subs),83 Oak St.,Portland,ME,"(*),(M),(PT),(D),(C),(AH),(WE)","Bars/Clubs,Restaurant",1980,NA,-70.2625069,43.6559368,Google Verified Location
+13331,ME062,Phoenix ,(Disco) (Also C-AH-WE),83 Oak St.,Portland,ME,"(R),(E),(PT),(D),(C),(AH),(WE)","Restaurant,Bars/Clubs",1979,NA,-70.2625069,43.6559368,Google Verified Location
+13407,ME138,Pleasant St.,,,Portland,ME,Cruisy Area,Cruising Areas,1976,NA,-70.259993,43.653321,Location could not be verified. General city or location coordinates used.
+13336,ME067,Pleasant St.,('P' St.),,Portland,ME,Cruisy Area,Cruising Areas,1979,NA,-70.259993,43.653321,Location could not be verified. General city or location coordinates used.
+13392,ME123,Pleasant St.,"(""P"" Street)",,Portland,ME,Cruisy Area,Cruising Areas,1977,NA,-70.259993,43.653321,Location could not be verified. General city or location coordinates used.
+13366,ME097,Pleasant St.,('P' St.),,Portland,ME,Cruisy Area,Cruising Areas,1978,NA,-70.259993,43.653321,Location could not be verified. General city or location coordinates used.
+13304,ME035,Pleasant St.,,,Portland,ME,Cruisy Area,Cruising Areas,1980,NA,-70.259993,43.653321,Location could not be verified. General city or location coordinates used.
+13401,ME132,Poor Richard's Pub,(Piano bar) At crossroads (U.S. Hwy. 1),,Ogunquit,ME,"(M),(PE),(R)","Restaurant,Bars/Clubs",1976,NA,-70.596076,43.24523,Verified Location
+13417,ME148,Poor Richard's Pub,,U.S. Hwy. 1,Ogunquit,ME,"(M),(R)",Restaurant,1975,NA,-70.596076,43.24523,Verified Location
+13354,ME085,Poor Richard's Pub,,Shore Rd. US Hwy. 1,Ogunquit,ME,"(M),(PE),(R),(E)",Restaurant,1978,NA,-70.5984074,43.2477192,Google Verified Location
+13384,ME115,Poor Richard's Pub,(Piano bar),Shore Rd. (U.S. Highway 1),Ogunquit,ME,"(M),(PE),(R)","Restaurant,Bars/Clubs",1977,NA,-70.596076,43.24523,Verified Location
+13432,ME163,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,1973,NA,-69.7732719,44.3201734,Google Verified Location
+13457,ME188,Ray's,,29 Water,Augusta,ME,,Bars/Clubs,1968,NA,-69.7732719,44.3201734,Google Verified Location
+13424,ME155,Ray's,,29 Water St.,Augusta,ME,(M),Bars/Clubs,1974,NA,-69.7732719,44.3201734,Google Verified Location
+13439,ME170,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,1972,NA,-69.7732719,44.3201734,Google Verified Location
+13444,ME175,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,1971,NA,-69.7732719,44.3201734,Google Verified Location
+13412,ME143,Ray's,,29 Water St.,Augusta,ME,(M),Bars/Clubs,1976,NA,-69.7732719,44.3201734,Google Verified Location
+13449,ME180,Ray's,,29 Water St.,Augusta,ME,,Bars/Clubs,1970,NA,-69.7732719,44.3201734,Google Verified Location
+13453,ME184,Ray's ,,29 Water,Augusta,ME,,Bars/Clubs,1969,NA,-69.7732719,44.3201734,Google Verified Location
+13369,ME100,Ray's Riverview,(Nights - WE),29 Water St.,Augusta,ME,"(M),(R),(WE),(*)",Restaurant,1977,NA,-69.7732719,44.3201734,Google Verified Location
+13388,ME119,Red Carpet Club,(Disco) (Route 9),95 West Grand Ave.,Old Orchard Beach,ME,"(YC),(D),(*)",Bars/Clubs,1977,NA,-70.3798607,43.5091074,Google Verified Location
+13395,ME126,Riverview,,29 Water St.,Augusta,ME,"(M),(R),(RT),(WE),(*)","Bars/Clubs,Restaurant",1976,NA,-69.7732719,44.3201734,Google Verified Location
+13448,ME179,Roland's,,413 A Cumberland Ave.,Portland,ME,(*),Bars/Clubs,1971,NA,-70.2645269,43.6561324,Google Verified Location
+13429,ME160,Roland's ,,413 A Cumberland,Portland,ME,"(YC),(D),(S),(*)",Bars/Clubs,1974,NA,-70.2645269,43.6561324,Google Verified Location
+13437,ME168,Roland's ,,413 A Cumberland,Portland,ME,(*),Bars/Clubs,1973,NA,-70.2645269,43.6561324,Google Verified Location
+13443,ME174,Roland's ,,413 A Cumberland,Portland,ME,(*),Bars/Clubs,1972,NA,-70.2645269,43.6561324,Google Verified Location
+13362,ME093,Roland's Tavern,(Some G) (Sundays 1 p.m. to midnight),413 A Cumberland Ave.,Portland,ME,"(*),(D),(S),(G)",Bars/Clubs,1978,NA,-70.2645269,43.6561324,Google Verified Location
+13406,ME137,Roland's Tavern,(Some G) (Maine's best known bar),413 A Cumberland Ave.,Portland,ME,"(D),(S),(G),(*)",Bars/Clubs,1976,NA,-70.2645269,43.6561324,Google Verified Location
+13390,ME121,Roland's Tavern,(Some G) (Sundays from 1 PM to midnight - ask Mark about 2 level disco on Oak St. planned for Spring or Summer of '76),413 A Cumberland Ave.,Portland,ME,"(*),(G),(D),(S)",Bars/Clubs,1977,NA,-70.2645269,43.6561324,Google Verified Location
+13299,ME030,Roland's Tavern,(Sun. 1 pm - midnight),413 A Cumberland Ave.,Portland,ME,"(D),(E),(*)",Bars/Clubs,1980,NA,-70.2645269,43.6561324,Google Verified Location
+13332,ME063,Roland's Tavern,(Some G) (Sun. 1 p.m. midnight) ,413 A Cumberland Ave.,Portland,ME,"(D),(S),(G),(*)",Bars/Clubs,1979,NA,-70.2645269,43.6561324,Google Verified Location
+13363,ME094,Rook & Pawn,(Sundays only),High & Spring ,Portland,ME,(M),Bars/Clubs,1978,NA,-70.28936,43.680523,Location could not be verified. General city or location coordinates used.
+13391,ME122,Rook & Pawn,(Sundays only),Forest Ave.,Portland,ME,(M),Bars/Clubs,1977,NA,-70.28936,43.680523,Location could not be verified. General city or location coordinates used.
+13282,ME013,Sports' Man Athletic Club,(Some L) (Liquor) (Show address book for adm.),18 Canal St. nr. Main,Lewiston,ME,"(YC),(D),(L),(P),(PT),(*)",Bars/Clubs,1980,NA,-70.2185063,44.0983312,Google Verified Location
+13411,ME142,Stage Door,(Sunday brunch),Route 1,Wells,ME,"(YC),(D),(R),(*)","Restaurant,Bars/Clubs",1976,NA,-70.580521,43.322233,Location could not be verified. General city or location coordinates used.
+13305,ME036,State Theatre II,,,Portland,ME,Cruisy Area,"Cruising Areas,Theatre",1980,NA,-70.263684,43.653982,Verified Location
+13300,ME031,Sybil's,,135 Middle St.,Portland,ME,(M),Bars/Clubs,1980,NA,-70.2532667,43.6586583,Google Verified Location
+13364,ME095,Sybil's,(Disco) (Open till 4 a.m. WE),135 Middle St.,Portland,ME,"(M),(YC),(D)",Bars/Clubs,1978,NA,-70.2532667,43.6586583,Google Verified Location
+13337,ME068,The Oaks,off Park Ave. (HOT),,Portland,ME,"(AYOR),Cruisy Area,(HOT)",Cruising Areas,1979,NA,-70.272969,43.656371,Verified Location
+13306,ME037,The Oaks,off Park Ave.,,Portland,ME,"Cruisy Area,(AYOR)",Cruising Areas,1980,NA,-70.272969,43.656371,Verified Location
+13355,ME086,The Tavern,(Sundays only),Agamenticus Rd.,Ogunquit,ME,(*),Bars/Clubs,1978,NA,-70.6051378,43.2420342,Google Verified Location
+13324,ME055,The Tavern ,(Sundays only),Agamenticus Rd.,Ogunquit,ME,(*),Bars/Clubs,1979,NA,-70.6051378,43.2420342,Google Verified Location
+13289,ME020,The Tavern at Clay Hill Farm,(Very M) (Reservations required),2 mi. W. on Agamenticus Rd.,Ogunquit,ME,"(M),(R)",Restaurant,1980,NA,-70.627946,43.227716,Verified Location
+13438,ME169,Top of the East,Sheraton-Eastland Hotel,157 High St.,Portland,ME,(M),"Bars/Clubs,Hotel",1973,NA,-70.2640089,43.6549156,Google Verified Location
+13422,ME153,Top of the East,Sheraton-Eastland Hotel,157 High St.,Portland,ME,(M),"Bars/Clubs,Hotel",1975,NA,-70.2640089,43.6549156,Google Verified Location
+13430,ME161,Top of the East,Sheraton-Eastland Hotel,157 High St.,Portland,ME,(M),"Bars/Clubs,Hotel",1974,NA,-70.2640089,43.6549156,Google Verified Location
+13301,ME032,Treasure Chest,(Books),613 Congress St.,Portland,ME,(M),Book Store,1980,NA,-70.2638777,43.6539103,Google Verified Location
+13333,ME064,Treasure Chest,(Books),613 Congress St.,Portland,ME,(M),Book Store,1979,NA,-70.2638777,43.6539103,Google Verified Location
+13435,ME166,Valerie's,,U.S. Hwy. 1,Ogunquit,ME,,Bars/Clubs,1973,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13290,ME021,Valerie's,(Piano bar only),At the Crossroads,Ogunquit,ME,"(M),(R)",Restaurant,1980,NA,-70.600963,43.240212,Google Verified Location
+13325,ME056,Valerie's,(Bar only),At the Crossroads,Ogunquit,ME,"(M),(R)","Restaurant,Bars/Clubs",1979,NA,-70.600963,43.240212,Google Verified Location
+13385,ME116,Valerie's,(Bar only) at Crossroads,,Ogunquit,ME,"(R),(*)","Bars/Clubs,Restaurant",1977,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13418,ME149,Valerie's,,U.S. Hwy. 1,Ogunquit,ME,,Bars/Clubs,1975,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13402,ME133,Valerie's,(bar only) At crossroads (U.S. Hwy. 1),,Ogunquit,ME,"(M),(R)","Restaurant,Bars/Clubs",1976,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13427,ME158,Valerie's,,US Hwy. 1,Ogunquit,ME,,Bars/Clubs,1974,NA,-70.598622,43.246835,Location could not be verified. General city or location coordinates used.
+13356,ME087,Valerie's ,(Bar only),At the Crossroads,Ogunquit,ME,"(M),(R)",Restaurant,1978,NA,-70.600963,43.240212,Google Verified Location
+13314,ME045,Vicinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,1979,NA,-68.748712,44.829992,Location could not be verified. General city or location coordinates used.
+13345,ME076,Vicinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,1978,NA,-68.748712,44.829992,Location could not be verified. General city or location coordinates used.
+13378,ME109,Vicinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,1977,NA,-68.748712,44.829992,Location could not be verified. General city or location coordinates used.
+13277,ME008,Victinity of Sleepers Clothing Store,,,Bangor,ME,Cruisy Area,Cruising Areas,1980,NA,-68.748712,44.829992,Location could not be verified. General city or location coordinates used.
+13365,ME096,Wayne's Country ,"(Books, ect.)",61 Forest Ave.,Portland,ME,,Book Store,1978,NA,-70.264412,43.6563313,Google Verified Location
+13302,ME033,Wayne's Country I,"(Books, ect.) (Peep shows) (Cruisy) ('Wild Back Room!) ",61 Forest Ave.,Portland,ME,(*),"Book Store,Cruising Areas",1980,NA,-70.264412,43.6563313,Google Verified Location
+13334,ME065,Wayne's Country I,"(Books, ect.)",61 Forest Ave.,Portland,ME,(*),Book Store,1979,NA,-70.264412,43.6563313,Google Verified Location
+13335,ME066,Wayne's Country II,(Books n' things),10 Union St.,Portland,ME,,Book Store,1979,NA,-70.2550662,43.655149,Google Verified Location
+13291,ME022,Yellow Monkey Guest House,,44 Main St.,Ogunquit,ME,(H),Hotel,1980,NA,-70.6011116,43.2407953,Google Verified Location

@@ -1,314 +1,314 @@
-ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-OK001,Cache Road Books,(Cruisy 'peep show'),1206 Cache Rd.,Lawton,OK,,"Book Store,Crusing Areas",1980,NA,NA,NA,NA,"1206 Cache Rd., Lawton, OK",-98.4105198,34.6229178,"1206 nw cache rd, lawton, ok 73507, usa",Geocoded
-OK002,Sunshine Shop,,302 White St.,Norman,OK,(M),Bars/Clubs,1980,NA,NA,NA,NA,"302 White St., Norman, OK",-97.4438071,35.212796,"302 white st, norman, ok 73069, usa",Geocoded
-OK003,Walter Mitty's Bar,,573 University Blvd.,Norman,OK,"(M),(YC),(*)",Bars/Clubs,1980,NA,NA,NA,NA,"573 University Blvd., Norman, OK",-97.445301,35.211954,"573 s university blvd, norman, ok 73069, usa",Geocoded
-OK004,Circa Club,"(Some W, YC)(Cruisy)",2201 N. W. 39th St.,Oklahoma City,OK,"(W),(YC),(D),(PT)",Crusing Areas,1980,NA,NA,NA,NA,"2201 N. W. 39th St., Oklahoma City, OK",-97.5494144,35.5117363,"2201 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK005,D.J.'s Crescendo,(Many L),2805 N. W. 36th St.,Oklahoma City,OK,"(P),(L),(D)",,1980,NA,NA,NA,NA,"2805 N. W. 36th St., Oklahoma City, OK",-97.5636993,35.508097,"2805 nw 36th st, oklahoma city, ok 73112, usa",Geocoded
-OK006,End-Up,('Drags'),2525 W. 10th St.,Oklahoma City,OK,"(P),(D),(S)",,1980,NA,NA,NA,NA,"2525 W. 10th St., Oklahoma City, OK",-97.5580224,35.4790183,"2525 nw 10th st, oklahoma city, ok 73107, usa",Geocoded
-OK007,Free Spirit,"('Top' super Disco) (In old church - 2 floors, several bars)",3125 N. Classen Blvd,Oklahoma City,OK,"(D),(P),(YC),(PT)",,1980,NA,NA,NA,NA,"3125 N. Classen Blvd, Oklahoma City, OK",-97.53482,35.501394,"3125 n classen blvd, oklahoma city, ok 73118, usa",Geocoded
-OK008,Godfathers,(Juice Bar - No booze) (Midnight - 4am - AH only),2448 N.W. 39th St.,Oklahoma City,OK,"(AH),(*)",Business,1980,NA,NA,NA,NA,"2448 N.W. 39th St., Oklahoma City, OK",-97.5560243,35.5111,"2448 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK009,Our Place,('Drags'),1302 N.W. Pennsylvania,Oklahoma City,OK,"(OC),(L)",,1980,NA,NA,NA,NA,"1302 N.W. Pennsylvania, Oklahoma City, OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK010,Torch Club,,2125 N. W. 39th St.,Oklahoma City,OK,"(P),(L)",,1980,NA,NA,NA,NA,"2125 N. W. 39th St., Oklahoma City, OK",-97.5485709,35.5115942,"2125 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK011,Baker's,('Greasy spoon') (Cruisy),229 W. 11th,Tulsa,OK,"(R),(C),(AH)","Crusing Areas,Restaurant",1980,NA,NA,NA,NA,"229 W. 11th, Tulsa, OK",-95.9912517,36.1461684,"229 w 11th st, tulsa, ok 74119, usa",Geocoded
-OK012,Bamboo,(Some OC),7204 E. Pine,Tulsa,OK,(OC),Bars/Clubs,1980,NA,NA,NA,NA,"7204 E. Pine, Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK013,Big Sur,(Some L),3014 E. 15th St.,Tulsa,OK,"(D),(PT),(L)",Bars/Clubs,1980,NA,NA,NA,NA,"3014 E. 15th St., Tulsa, OK",-95.9453882,36.1403969,"3014 e 15th st, tulsa, ok 74104, usa",Geocoded
-OK014,Body Shop,(Book store & 'peep shows'),1346 E. 11th St.,Tulsa,OK,(*),Bars/Clubs,1980,NA,NA,NA,NA,"1346 E. 11th St., Tulsa, OK",-95.973597,36.147684,"1346 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK015,Chalk Board,,1324 S. Main,Tulsa,OK,"(M),(PE),(R)",Restaurant,1980,NA,NA,NA,NA,"1324 S. Main, Tulsa, OK",-95.987678,36.1426049,"1324 s main st, tulsa, ok 74119, usa",Geocoded
-OK016,Club,,1221 Memorial,Tulsa,OK,"(P),(L),(D)",Bars/Clubs,1980,NA,NA,NA,NA,"1221 Memorial, Tulsa, OK",-95.8862301,36.145236,"1221 s memorial dr, tulsa, ok 74112, usa",Geocoded
-OK017,Doors Club,,1611 E. 11th,Tulsa,OK,"(P),(D)",Bars/Clubs,1980,NA,NA,NA,NA,"1611 E. 11th, Tulsa, OK",-95.9693,36.148092,"1611 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK018,Friends,('twinkies'),1716 E. 3rd St.,Tulsa,OK,(S),Bars/Clubs,1980,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK019,Happy Pappy's,(C - AH - Sat),3011 E. 15th,Tulsa,OK,"(M),(R),(C),(AH)",Restaurant,1980,NA,NA,NA,NA,"3011 E. 15th, Tulsa, OK",-95.9452141,36.1407343,"3011 e 15th st, tulsa, ok 74104, usa",Geocoded
-OK020,Le Caberet,(Disco),3248 E. Admiral Place,Tulsa,OK,"(P),(D),(S)",Bars/Clubs,1980,NA,NA,NA,NA,"3248 E. Admiral Place, Tulsa, OK",-95.9404143,36.1607713,"3248 e admiral pl, tulsa, ok 74110, usa",Geocoded
-OK021,Pete's Taj Mahal,(Open days),10 W. 7th St.,Tulsa,OK,"(P),(D)",Bars/Clubs,1980,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK022,Playroom,(W & levi) (Some SM) (go go boys),2252 E. 11th,Tulsa,OK,"(W),(SM),(PT),(D)",Bars/Clubs,1980,NA,NA,NA,NA,"2252 E. 11th, Tulsa, OK",-95.9586339,36.14751,"2252 e 11th st, tulsa, ok 74104, usa",Geocoded
-OK023,Whittier Square Books,('Flicks' & arcade),1 N. Lewis,Tulsa,OK,(M),Bars/Clubs,1980,NA,NA,NA,NA,"1 N. Lewis, Tulsa, OK",-95.9579717,36.1600042,"1 n lewis ave, tulsa, ok 74110, usa",Geocoded
-OK024,Zebra,,720 S. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1980,NA,NA,NA,NA,"720 S. Main, Tulsa, OK",-95.9889231,36.1487383,"720 s main st, tulsa, ok 74119, usa",Geocoded
-OK025,Cache Road Books,(Cruisy 'peep shows'),1206 Cache Rd,Lawton,OK,,"Book Store,Crusing Areas",1979,NA,NA,NA,NA,"1206 Cache Rd, Lawton, OK",-98.4105198,34.6229178,"1206 nw cache rd, lawton, ok 73507, usa",Geocoded
-OK026,Sunshine Shop,,302 White St.,Norman,OK,(M),,1979,NA,NA,NA,NA,"302 White St., Norman, OK",-97.4438071,35.212796,"302 white st, norman, ok 73069, usa",Geocoded
-OK027,Walter Mitty's Bar,,573 University Blvd.,Norman,OK,"(M),(YC),(*)",,1979,NA,NA,NA,NA,"573 University Blvd., Norman, OK",-97.445301,35.211954,"573 s university blvd, norman, ok 73069, usa",Geocoded
-OK028,Circa Club,"(Some W, YC) (Cruisy)",2201 N.W. 39th St.,Oklahoma City,OK,"(W),(YC),(D),(PT)","Crusing Areas,Bars/Clubs",1979,NA,NA,NA,NA,"2201 N.W. 39th St., Oklahoma City, OK",-97.5494144,35.5117363,"2201 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK029,D.J.'s Crescendo,(Many G),2805 N.W. 36th St,Oklahoma City,OK,"(P),(*),(G),(D)",Bars/Clubs,1979,NA,NA,NA,NA,"2805 N.W. 36th St, Oklahoma City, OK",-97.5636993,35.508097,"2805 nw 36th st, oklahoma city, ok 73112, usa",Geocoded
-OK030,Free Spirit,"('Top' Super Disco) (In old church - 2 floors, several bars)",3125 N. Classen Blvd,Oklahoma City,OK,"(D),(YC),(PT)",Bars/Clubs,1979,NA,NA,NA,NA,"3125 N. Classen Blvd, Oklahoma City, OK",-97.53482,35.501394,"3125 n classen blvd, oklahoma city, ok 73118, usa",Geocoded
-OK031,Gold Diggers,('Drags'),2525 W. 10th St.,Oklahoma City,OK,"(S),(D)",Bars/Clubs,1979,NA,NA,NA,NA,"2525 W. 10th St., Oklahoma City, OK",-97.5580224,35.4790183,"2525 nw 10th st, oklahoma city, ok 73107, usa",Geocoded
-OK032,Outrigger,(Disco) Viva Motel,2460 N.W. 39th St.,Oklahoma City,OK,"(YC),(D),(WE),(*)",Bars/Clubs,1979,NA,NA,NA,NA,"2460 N.W. 39th St., Oklahoma City, OK",-97.5570115,35.5109835,"2460 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK033,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,"(OC),(G)",Bars/Clubs,1979,NA,NA,NA,NA,"1302 N.W. Pennsylvania, Oklahoma City, OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK034,Road House,"(Some B, G) (Open WE sometimes)",9625 N.E. Expressway,Oklahoma City,OK,"(B),(G),(S),(D),(WE)",Bars/Clubs,1979,NA,NA,NA,NA,"9625 N.E. Expressway, Oklahoma City, OK",-97.5024192,35.5307807,"ne expressway st, oklahoma city, ok, usa",Geocoded
-OK035,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,(G),Bars/Clubs,1979,NA,NA,NA,NA,"3616 N.W. 23rd St., Oklahoma City, OK",-97.5824266,35.4929901,"3616 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK036,Torch Club,(Some G) ('Twinkies') (go go boys - looks promising),2125 N.W. 39th St.,Oklahoma City,OK,"(P),(G)",Bars/Clubs,1979,NA,NA,NA,NA,"2125 N.W. 39th St., Oklahoma City, OK",-97.5485709,35.5115942,"2125 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK037,Baker's,('Greasy Spoon') (Cruisy),229 W. 11th,Tulsa,OK,"(R),(C),(AH)","Crusing Areas,Restaurant",1979,NA,NA,NA,NA,"229 W. 11th, Tulsa, OK",-95.9912517,36.1461684,"229 w 11th st, tulsa, ok 74119, usa",Geocoded
-OK038,Bamboo,(Some G) ,7204 E. Pine,Tulsa,OK,"(M),(YC),(G)",Bars/Clubs,1979,NA,NA,NA,NA,"7204 E. Pine, Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK039,Big Sur,(Some G) ,3014 E. 15th St.,Tulsa,OK,"(D),(PT),(G)",Bars/Clubs,1979,NA,NA,NA,NA,"3014 E. 15th St., Tulsa, OK",-95.9453882,36.1403969,"3014 e 15th st, tulsa, ok 74104, usa",Geocoded
-OK040,Body Shop,(Books store & 'peep shows'),1346 E. 11th St.,Tulsa,OK,(*),Book Store,1979,NA,NA,NA,NA,"1346 E. 11th St., Tulsa, OK",-95.973597,36.147684,"1346 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK041,Casablanca ,('Super bar' & Disco),4812 E. 33rd St. ,Tulsa,OK,"(D),(YC),(*)",Bars/Clubs,1979,NA,NA,NA,NA,"4812 E. 33rd St. , Tulsa, OK",-95.9232846,36.1153315,"4812 e 33rd st, tulsa, ok 74135, usa",Geocoded
-OK042,Chalk Board,(French R),1324 S. Main,Tulsa,OK,"(M),(PE),(R)",Restaurant,1979,NA,NA,NA,NA,"1324 S. Main, Tulsa, OK",-95.987678,36.1426049,"1324 s main st, tulsa, ok 74119, usa",Geocoded
-OK043,Club,,1221 Memorial,Tulsa,OK,"(P),(G),(D)",Bars/Clubs,1979,NA,NA,NA,NA,"1221 Memorial, Tulsa, OK",-95.8862301,36.145236,"1221 s memorial dr, tulsa, ok 74112, usa",Geocoded
-OK044,Doors Club,(Rear entrance),1611 E. 11th,Tulsa,OK,"(P),(D)",Bars/Clubs,1979,NA,NA,NA,NA,"1611 E. 11th, Tulsa, OK",-95.9693,36.148092,"1611 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK045,Friends,(Some chicken),1716 E. 3rd St.,Tulsa,OK,(S),Bars/Clubs,1979,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK046,Le Cabaret,(Disco),3248 E. Admiral Place,Tulsa,OK,"(P),(*),(YC),(D),(S)",Bars/Clubs,1979,NA,NA,NA,NA,"3248 E. Admiral Place, Tulsa, OK",-95.9404143,36.1607713,"3248 e admiral pl, tulsa, ok 74110, usa",Geocoded
-OK047,New Plantation,(Disco) (Some G) (Cruisy),4724 E. 51st,Tulsa,OK,"(*),(D),(YC),(G)","Crusing Areas,Bars/Clubs",1979,NA,NA,NA,NA,"4724 E. 51st, Tulsa, OK",-95.9241325,36.0894903,"4724 e 51st st, tulsa, ok 74135, usa",Geocoded
-OK048,Pete's Taj Mahal,(Open days),10 W. 7th St.,Tulsa,OK,"(P),(*),(D)",Bars/Clubs,1979,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK049,Whittier Square Books,('Flicks' & arcade),1 N. Lewis,Tulsa,OK,(M),Book Store,1979,NA,NA,NA,NA,"1 N. Lewis, Tulsa, OK",-95.9579717,36.1600042,"1 n lewis ave, tulsa, ok 74110, usa",Geocoded
-OK050,Zebra,,720 S. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1979,NA,NA,NA,NA,"720 S. Main, Tulsa, OK",-95.9889231,36.1487383,"720 s main st, tulsa, ok 74119, usa",Geocoded
-OK051,Sunshine Shop,,302 White St.,Norman,OK,(M),Bars/Clubs,1978,NA,NA,NA,NA,"302 White St., Norman, OK",-97.4438071,35.212796,"302 white st, norman, ok 73069, usa",Geocoded
-OK052,Walter Mitty's Bar,,573 University Blvd.,Norman,OK,"(M),(YC),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"573 University Blvd., Norman, OK",-97.445301,35.211954,"573 s university blvd, norman, ok 73069, usa",Geocoded
-OK053,Circa Club,(Cruisy),2201 N.W. 39th St.,,OK,"(P),(D),(W),(PT),(*)","Crusing Areas,Bars/Clubs",1978,NA,NA,NA,NA,"2201 N.W. 39th St., , OK",-97.5494144,35.5117363,"2201 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK054,Crescendo,,2805 N.W. 36th St.,,OK,"(P),(G)",Bars/Clubs,1978,NA,NA,NA,NA,"2805 N.W. 36th St., , OK",-97.5636993,35.508097,"2805 nw 36th st, oklahoma city, ok 73112, usa",Geocoded
-OK055,Free Spirit,(Disco) (Latest 'super bar' - looks promising),3125 N. Classen Blvd,,OK,"(YC),(D),(PT),(BYOB)",Bars/Clubs,1978,NA,NA,NA,NA,"3125 N. Classen Blvd, , OK",-97.53482,35.501394,"3125 n classen blvd, oklahoma city, ok 73118, usa",Geocoded
-OK056,Funny Girl Club,"(Some G, B)",2422 N.W. 23rd St.,,OK,"(P),(G),(B),(D),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"2422 N.W. 23rd St., , OK",-97.5560053,35.4929269,"2422 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK057,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,"(OC),(G)",Bars/Clubs,1978,NA,NA,NA,NA,"1302 N.W. Pennsylvania, , OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK058,Road House,(Some G) (Open Thur. thru Sun. only),9625 N.E. Expressway,,OK,"(M),(S),(D),(G)",Bars/Clubs,1978,NA,NA,NA,NA,"9625 N.E. Expressway, , OK",-97.6809889,35.5775493,"9625 northwest expy, yukon, ok 73099, usa",Geocoded
-OK059,Sans Souci Club,(Disco) (Also C-AH),2320 No. Villa,,OK,"(YC),(D),(S),(R),(C),(AH),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"2320 No. Villa, , OK",-97.556556,35.4920057,"2320 n villa ave, oklahoma city, ok 73107, usa",Geocoded
-OK060,Bamboo,,7204 E. Pine St.,Tulsa,OK,"(M),(YC)",Bars/Clubs,1978,NA,NA,NA,NA,"7204 E. Pine St., Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK061,Big Sur,(Some G) (Looks promising),3014 E. 15th St.,Tulsa,OK,"(D),(PT),(G)",Bars/Clubs,1978,NA,NA,NA,NA,"3014 E. 15th St., Tulsa, OK",-95.9453882,36.1403969,"3014 e 15th st, tulsa, ok 74104, usa",Geocoded
-OK062,Body Shop,(Book Store & 'Peep shows'),1346 E. 11th St.,Tulsa,OK,(*),Book Store,1978,NA,NA,NA,NA,"1346 E. 11th St., Tulsa, OK",-95.973597,36.147684,"1346 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK063,Club,,1221 Memorial,Tulsa,OK,"(P),(G),(D),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"1221 Memorial, Tulsa, OK",-95.8862301,36.145236,"1221 s memorial dr, tulsa, ok 74112, usa",Geocoded
-OK064,Doors Club,(Rear entrance),1611 E. 11th St.,Tulsa,OK,"(P),(D)",Bars/Clubs,1978,NA,NA,NA,NA,"1611 E. 11th St., Tulsa, OK",-95.9693,36.148092,"1611 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK065,Doors Lounge,,1611 E. 11th St.,Tulsa,OK,(*),Bars/Clubs,1978,NA,NA,NA,NA,"1611 E. 11th St., Tulsa, OK",-95.9693,36.148092,"1611 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK066,Friends,(Some B),1716 E. 3rd St.,Tulsa,OK,"(S),(B)",Bars/Clubs,1978,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK067,Harvard Book Store,,3735 So. Harvard,Tulsa,OK,(M),Book Store,1978,NA,NA,NA,NA,"3735 So. Harvard, Tulsa, OK",-95.9397945,36.1085076,"3735 s harvard ave, tulsa, ok 74135, usa",Geocoded
-OK068,Le Cabaret,(Disco),3248 E. Admiral Pl.,Tulsa,OK,"(P),(YC),(D),(S),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"3248 E. Admiral Pl., Tulsa, OK",-95.9404143,36.1607713,"3248 e admiral pl, tulsa, ok 74110, usa",Geocoded
-OK069,Queen of Hearts,(Disco) (2 bars),911 So. Main,Tulsa,OK,"(R),(S),(D),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"911 So. Main, Tulsa, OK",-95.9879545,36.147504,"911 s main st, tulsa, ok 74119, usa",Geocoded
-OK070,Taj Mahal,,10 W. 7th St. ,Tulsa,OK,"(P),(YC),(D),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"10 W. 7th St. , Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK071,Zebra ,,720 So. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1978,NA,NA,NA,NA,"720 So. Main, Tulsa, OK",-95.9889231,36.1487383,"720 s main st, tulsa, ok 74119, usa",Geocoded
-OK072,Circa Club,,2201 N.W. 39th St.,Oklahoma City,OK,"(P),(D)",Bars/Clubs,1977,NA,NA,NA,NA,"2201 N.W. 39th St., Oklahoma City, OK",-97.5494144,35.5117363,"2201 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK073,Club One,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"3616 N.W. 23rd St., Oklahoma City, OK",-97.5824266,35.4929901,"3616 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK074,Crescendo,,2805 N.W. 36th St.,Oklahoma City,OK,"(P),(G)",Bars/Clubs,1977,NA,NA,NA,NA,"2805 N.W. 36th St., Oklahoma City, OK",-97.5636993,35.508097,"2805 nw 36th st, oklahoma city, ok 73112, usa",Geocoded
-OK075,David's,,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(YC),(D)",Bars/Clubs,1977,NA,NA,NA,NA,"1724 N.W. 16th St., Oklahoma City, OK",-97.5401759,35.4857652,"1724 nw 16th st, oklahoma city, ok 73106, usa",Geocoded
-OK076,Disco 36,(Unisex) (Disco),715 N.W. 36th St.,Oklahoma City,OK,"(YC),(D),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"715 N.W. 36th St., Oklahoma City, OK",-97.5250777,35.5079715,"715 nw 36th st, oklahoma city, ok 73118, usa",Geocoded
-OK077,Funny Girl Club,,2422 N.W. 23rd St.,Oklahoma City,OK,"(P),(G),(D),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"2422 N.W. 23rd St., Oklahoma City, OK",-97.5560053,35.4929269,"2422 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK078,Our Place,,1302 N.W. Pennsylvania ,Oklahoma City,OK,"(OC),(G)",Bars/Clubs,1977,NA,NA,NA,NA,"1302 N.W. Pennsylvania , Oklahoma City, OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK079,Mirror Lounge,(Some B),1311 N. Hudson,Oklahoma City,OK,"(M),(RT),(B)",Bars/Clubs,1977,NA,NA,NA,NA,"1311 N. Hudson, Oklahoma City, OK",-97.5193262,35.4817409,"1311 n hudson ave, oklahoma city, ok 73103, usa",Geocoded
-OK080,Road House,(Some G) (Open Thur. thru Sun. only),9625 N.E. Expressway,Oklahoma City,OK,"(M),(S),(D),(G)",Bars/Clubs,1977,NA,NA,NA,NA,"9625 N.E. Expressway, Oklahoma City, OK",-97.5024192,35.5307807,"ne expressway st, oklahoma city, ok, usa",Geocoded
-OK081,Bamboo,,7204 E. Pine St,Tulsa,OK,"(M),(YC)",Bars/Clubs,1977,NA,NA,NA,NA,"7204 E. Pine St, Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK082,Body Shop,(Book Store & 'peep shows'),1346 E. 11th St.,Tulsa,OK,,Book Store,1977,NA,NA,NA,NA,"1346 E. 11th St., Tulsa, OK",-95.973597,36.147684,"1346 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK083,Club,,1221 Memorial,Tulsa,OK,"(P),(YC),(G),(D),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"1221 Memorial, Tulsa, OK",-95.8862301,36.145236,"1221 s memorial dr, tulsa, ok 74112, usa",Geocoded
-OK084,Doors Club,(Rear entrance),1611 E. 11th St.,Tulsa,OK,"(P),(D)",Bars/Clubs,1977,NA,NA,NA,NA,"1611 E. 11th St., Tulsa, OK",-95.9693,36.148092,"1611 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK085,Doors Lounge,,1611 E. 11th St. ,Tulsa,OK,(*),Bars/Clubs,1977,NA,NA,NA,NA,"1611 E. 11th St. , Tulsa, OK",-95.9693,36.148092,"1611 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK086,Friends,(Some B),1716 E. 3rd St.,Tulsa,OK,"(S),(B),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK087,Le Cabaret,(Disco),3248 E. Admiral Place,Tulsa,OK,"(P),(YC),(D),(S),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"3248 E. Admiral Place, Tulsa, OK",-95.9404143,36.1607713,"3248 e admiral pl, tulsa, ok 74110, usa",Geocoded
-OK088,Old Eighth Day,,1108 S. Lewis,Tulsa,OK,(G),Bars/Clubs,1977,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK089,Taj Mahal,,10 W. 7th St.,Tulsa,OK,"(P),(YC),(D),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK090,Tiffany,(Disco),915 S. Main St.,Tulsa,OK,"(P),(YC),(D),(S),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"915 S. Main St., Tulsa, OK",-95.9879362,36.1474685,"915 s main st, tulsa, ok 74119, usa",Geocoded
-OK091,Zebra,,720 S. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1977,NA,NA,NA,NA,"720 S. Main, Tulsa, OK",-95.9889231,36.1487383,"720 s main st, tulsa, ok 74119, usa",Geocoded
-OK092,Circa Club,,2201 N.W. 39th St.,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"2201 N.W. 39th St., Oklahoma City, OK",-97.5494144,35.5117363,"2201 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK093,Do-Me Club,(some G),2424 N.W. 39th Expressway,Oklahoma City,OK,"(YC),(D),(S),(G)",Bars/Clubs,1976,NA,NA,NA,NA,"2424 N.W. 39th Expressway, Oklahoma City, OK",-97.5554666,35.5110591,"2424 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK094,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,(G),Bars/Clubs,1976,NA,NA,NA,NA,"1302 N.W. Pennsylvania, Oklahoma City, OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK095,Mirror Lounge,(some B),1311 N. Hudson,Oklahoma City,OK,"(M),(RT),(B)",Bars/Clubs,1976,NA,NA,NA,NA,"1311 N. Hudson, Oklahoma City, OK",-97.5193262,35.4817409,"1311 n hudson ave, oklahoma city, ok 73103, usa",Geocoded
-OK096,Road House,(Some G) (WE only),9625 N.E. Expressway,Oklahoma City,OK,"(M),(S),(D),(G),(WE)",Bars/Clubs,1976,NA,NA,NA,NA,"9625 N.E. Expressway, Oklahoma City, OK",-97.5024192,35.5307807,"ne expressway st, oklahoma city, ok, usa",Geocoded
-OK097,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"3616 N.W. 23rd St., Oklahoma City, OK",-97.5824266,35.4929901,"3616 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK098,Truck Stop,(Looks promising) (Next to Circa Club),2203 N.W. 39th St.,Oklahoma City,OK,"(C),(R),(AH)",Restaurant,1976,NA,NA,NA,NA,"2203 N.W. 39th St., Oklahoma City, OK",-97.5494566,35.5116627,"2203 nw 39th st, oklahoma city, ok 73112, usa",Geocoded
-OK099,Bamboo,,7204 E. Pine,Tulsa,OK,(M),Bars/Clubs,1976,NA,NA,NA,NA,"7204 E. Pine, Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK100,Body Shop,(book store),1346 E. 11th St.,Tulsa,OK,,Book Store,1976,NA,NA,NA,NA,"1346 E. 11th St., Tulsa, OK",-95.973597,36.147684,"1346 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK101,Doors Lounge,"(2 rooms, one is P)",1611 E. 11th St.,Tulsa,OK,"(YC),(D),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"1611 E. 11th St., Tulsa, OK",-95.9693,36.148092,"1611 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK102,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),Bars/Clubs,1976,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK103,Mama Dee's,,1108 S. Lewis,Tulsa,OK,"(G),(D),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK104,Taj Mahal,,10 W. 7th St. ,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"10 W. 7th St. , Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK105,Tulsa Book Mart,,620 S. Main,Tulsa,OK,,Book Store,1976,NA,NA,NA,NA,"620 S. Main, Tulsa, OK",-95.989438,36.1496769,"620 s main st, tulsa, ok 74119, usa",Geocoded
-OK106,Zebra Lounge,,721 S. Main,Tulsa,OK,"(P),(YC),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"721 S. Main, Tulsa, OK",-95.9889314,36.1493552,"721 s main st, tulsa, ok 74119, usa",Geocoded
-OK107,Box Office,(Some G),2335 N.W. 12th St.,Oklahoma City,OK,"(P),(R),(D),(G),(*)",Bars/Clubs,1975,NA,NA,NA,NA,"2335 N.W. 12th St., Oklahoma City, OK",-97.5537813,35.4821687,"2335 nw 12th st, oklahoma city, ok 73107, usa",Geocoded
-OK108,Gala,(Can enter thru back of Eighth Day),2300 E. 11th St.,Tulsa,OK,"(P),(D),(BYOB),(G)",,1973,NA,NA,NA,NA,"2300 E. 11th St., Tulsa, OK",-95.9584879,36.1475085,"2300 e 11th st, tulsa, ok 74104, usa",Geocoded
-OK109,On Stage,,915 So. Main St.,Tulsa,OK,"(P),(D),(BYOB),(*)",,1973,NA,NA,NA,NA,"915 So. Main St., Tulsa, OK",-95.9879362,36.1474685,"915 s main st, tulsa, ok 74119, usa",Geocoded
-OK110,Taj Mahol,,10 W. 7th St.,Tulsa,OK,"(P),(YC),(D),(BYOB),(*)",,1973,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK111,Zebra Lounge,,720 S. Main St. ,Tulsa,OK,"(P),(BYOB)",,1973,NA,NA,NA,NA,"720 S. Main St. , Tulsa, OK",-95.9889231,36.1487383,"720 s main st, tulsa, ok 74119, usa",Geocoded
-OK112,Crescendo Club,"(Some G) (don't miss, but don't confuse with 'straight' club Matador in same bldg . . . next door)",2805 N.W. 36th St.,Oklahoma City,OK,"(P),(D),(G),(*)",Bars/Clubs,1975,NA,NA,NA,NA,"2805 N.W. 36th St., Oklahoma City, OK",-97.5636993,35.508097,"2805 nw 36th st, oklahoma city, ok 73112, usa",Geocoded
-OK113,French Quarter,,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(HIP),(YC),(D),(*)",Bars/Clubs,1975,NA,NA,NA,NA,"1724 N.W. 16th St., Oklahoma City, OK",-97.5401759,35.4857652,"1724 nw 16th st, oklahoma city, ok 73106, usa",Geocoded
-OK114,Highland Hills M.C.C Church,,3501 N.W. 63rd St.,Oklahoma City,OK,,Church,1975,NA,NA,NA,NA,"3501 N.W. 63rd St., Oklahoma City, OK",-97.5794902,35.5372539,"3501 nw 63rd st, oklahoma city, ok 73116, usa",Geocoded
-OK115,Our Place,,1302 N.W. Pennsylvania ,Oklahoma City,OK,(G),Bars/Clubs,1975,NA,NA,NA,NA,"1302 N.W. Pennsylvania , Oklahoma City, OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK116,Road House,(Some G) (weekends only),9625 N.E. Expressway,Oklahoma City,OK,"(M),(S),(D),(G)",Bars/Clubs,1975,NA,NA,NA,NA,"9625 N.E. Expressway, Oklahoma City, OK",-97.5024192,35.5307807,"ne expressway st, oklahoma city, ok, usa",Geocoded
-OK117,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1975,NA,NA,NA,NA,"3616 N.W. 23rd St., Oklahoma City, OK",-97.5824266,35.4929901,"3616 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK118,Highland Hills Church (M.C.C),,3501 N.W. 63rd St.,Oklahoma City,OK,,Church,1974,NA,NA,NA,NA,"3501 N.W. 63rd St., Oklahoma City, OK",-97.5794902,35.5372539,"3501 nw 63rd st, oklahoma city, ok 73116, usa",Geocoded
-OK119,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,"(G),(*)",Bars/Clubs,1974,NA,NA,NA,NA,"1302 N.W. Pennsylvania, Oklahoma City, OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK120,Pow Wow,,1601 N. MacArthur,Oklahoma City,OK,(G),Bars/Clubs,1974,NA,NA,NA,NA,"1601 N. MacArthur, Oklahoma City, OK",-97.620126,35.4851529,"1601 n macarthur blvd, oklahoma city, ok 73127, usa",Geocoded
-OK121,Red Lion - Nextdoor Club,,6714 N. Western,Oklahoma City,OK,"(D),(*)",Bars/Clubs,1974,NA,NA,NA,NA,"6714 N. Western, Oklahoma City, OK",-97.5295051,35.5402617,"6714 n western ave, oklahoma city, ok 73116, usa",Geocoded
-OK122,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1974,NA,NA,NA,NA,"3616 N.W. 23rd St., Oklahoma City, OK",-97.5824266,35.4929901,"3616 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK123,Bamboo,,7204 E. Pine,Tulsa,OK,(M),Bars/Clubs,1974,NA,NA,NA,NA,"7204 E. Pine, Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK124,Eighth Day,,1108 S. Lewis,Tulsa,OK,(G),Bars/Clubs,1974,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK125,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),Bars/Clubs,1974,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK126,Gala,(some G) (can enter thru back of Eight Day),2300 E. 11th St.,Tulsa,OK,"(G),(P),(D)",Bars/Clubs,1974,NA,NA,NA,NA,"2300 E. 11th St., Tulsa, OK",-95.9584879,36.1475085,"2300 e 11th st, tulsa, ok 74104, usa",Geocoded
-OK127,Taj Mahal,,10 W. 7th St.,Tulsa,OK,"(P),(YC),(D),(BYOB),(*)",Bars/Clubs,1974,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK128,Zebra Lounge,,721 S. Main,Tulsa,OK,"(P),(BYOB)",Bars/Clubs,1974,NA,NA,NA,NA,"721 S. Main, Tulsa, OK",-95.9889314,36.1493552,"721 s main st, tulsa, ok 74119, usa",Geocoded
-OK129,Beer House,(some G),3616 N.W. 23rd St.,Oklahoma City,OK,"(G),(*)",,1973,NA,NA,NA,NA,"3616 N.W. 23rd St., Oklahoma City, OK",-97.5824266,35.4929901,"3616 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK130,Club,(cloed Tues),1724 N.W. 16th St. ,Oklahoma City,OK,"(P),(YC),(D),(*)",,1973,NA,NA,NA,NA,"1724 N.W. 16th St. , Oklahoma City, OK",-97.5401759,35.4857652,"1724 nw 16th st, oklahoma city, ok 73106, usa",Geocoded
-OK131,House of Twelve ,(No sign looks like private residence),3337 N.W. 23rd St.,Oklahoma City,OK,"(P),(D),(*)",,1973,NA,NA,NA,NA,"3337 N.W. 23rd St., Oklahoma City, OK",-97.5762854,35.493229,"3337 nw 23rd st, oklahoma city, ok 73107, usa",Geocoded
-OK132,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,(G),,1973,NA,NA,NA,NA,"1302 N.W. Pennsylvania, Oklahoma City, OK",-97.5334611,35.4845315,"1302 nw 15th st, oklahoma city, ok 73106, usa",Geocoded
-OK133,Red Lion - Nextdoor Club,,6714 N. Western,Oklahoma City,OK,"(D),(*)",,1973,NA,NA,NA,NA,"6714 N. Western, Oklahoma City, OK",-97.5295051,35.5402617,"6714 n western ave, oklahoma city, ok 73116, usa",Geocoded
-OK134,Road House,(Open weekends only apparently - difficult to find without a guide),"9625 N.E. Expressway, (Hwy. 66)",Oklahoma City,OK,,,1973,NA,NA,NA,NA,"9625 N.E. Expressway, (Hwy. 66), Oklahoma City, OK",-97.684728,35.5152099,"9625 rte 66, yukon, ok 73099, usa",Geocoded
-OK135,Bamboo,,7204 E. Pine,Tulsa,OK,(M),,1973,NA,NA,NA,NA,"7204 E. Pine, Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK136,Eighth Day,,1108 S. Lewis,Tulsa,OK,(G),,1973,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK137,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),,1973,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK138,Bamboo,,7204 E. Pine,Tulsa,OK,(M),Bars/Clubs,1975,NA,NA,NA,NA,"7204 E. Pine, Tulsa, OK",-95.8965894,36.1766944,"7204 e pine st, tulsa, ok 74115, usa",Geocoded
-OK139,Body Shop,(book store),1346 E. 11th St.,Tulsa,OK,,Book Store,1975,NA,NA,NA,NA,"1346 E. 11th St., Tulsa, OK",-95.973597,36.147684,"1346 e 11th st, tulsa, ok 74120, usa",Geocoded
-OK140,Doors Club,"(2 rooms, 1[P])",1811 E. 11th St.,Tulsa,OK,"(YC),(D),(*)",Bars/Clubs,1975,NA,NA,NA,NA,"1811 E. 11th St., Tulsa, OK",-95.965169,36.1480867,"1811 e 11th st, tulsa, ok 74104, usa",Geocoded
-OK141,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),Bars/Clubs,1975,NA,NA,NA,NA,"1716 E. 3rd St., Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK142,Outside Inn,(Some G),1108 S. Lewis,Tulsa,OK,"(D),(G)",Bars/Clubs,1975,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK143,Taj Mahal,,10 W. 7th St.,Tulsa,OK,(P),Bars/Clubs,1975,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK144,Tulsa Book Mart,,620 S. Main,Tulsa,OK,,Book Store,1975,NA,NA,NA,NA,"620 S. Main, Tulsa, OK",-95.989438,36.1496769,"620 s main st, tulsa, ok 74119, usa",Geocoded
-OK145,Zebra Lounge,,721 S. Main,Tulsa,OK,"(P),(YC)",Bars/Clubs,1975,NA,NA,NA,NA,"721 S. Main, Tulsa, OK",-95.9889314,36.1493552,"721 s main st, tulsa, ok 74119, usa",Geocoded
-OK146,"Club, The",,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1972,NA,NA,NA,NA,"1724 N.W. 16th St., Oklahoma City, OK",-97.5401759,35.4857652,"1724 nw 16th st, oklahoma city, ok 73106, usa",Geocoded
-OK147,Jungle Pit,(Some G),1217 N. May St,Oklahoma City,OK,"(G),(*)",Bars/Clubs,1972,NA,NA,NA,NA,"1217 N. May St, Oklahoma City, OK",-97.5660413,35.4812625,"1217 n may ave, oklahoma city, ok 73107, usa",Geocoded
-OK148,Nextdoor Club,,4108 N. May,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1972,NA,NA,NA,NA,"4108 N. May, Oklahoma City, OK",-97.5653484,35.5131441,"4108 n may ave, oklahoma city, ok 73112, usa",Geocoded
-OK149,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1972,NA,NA,NA,NA,"4110 N. May, Oklahoma City, OK",-97.5656651,35.5132493,"4110 n may ave, oklahoma city, ok 73112, usa",Geocoded
-OK150,Eighth Day,,1108 S. Lewis,Tulsa,OK,(*),Bars/Clubs,1972,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK151,Friends Lounge,,1716 E. 3rd,Tulsa,OK,,Bars/Clubs,1972,NA,NA,NA,NA,"1716 E. 3rd, Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK152,Hiko Lounge,,859 S. Knoxville,Tulsa,OK,"(R),(G),(YC)",Restaurant,1972,NA,NA,NA,NA,"859 S. Knoxville, Tulsa, OK",-95.9367914,36.148001,"859 s knoxville ave, tulsa, ok 74112, usa",Geocoded
-OK153,Taj Mahol,,10 W. 7th St.,Tulsa,OK,"(BYOB),(*)",Bars/Clubs,1972,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK154,What's It To Ya,,2405 E. Admiral ,Tulsa,OK,(G),Bars/Clubs,1972,NA,NA,NA,NA,"2405 E. Admiral , Tulsa, OK",-95.9577954,36.1600127,"2405 e admiral blvd, tulsa, ok 74110, usa",Geocoded
-OK155,"Club, The",,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1971,NA,NA,NA,NA,"1724 N.W. 16th St., Oklahoma City, OK",-97.5401759,35.4857652,"1724 nw 16th st, oklahoma city, ok 73106, usa",Geocoded
-OK156,Jungle Pit,,1217 N. May St,Oklahoma City,OK,"(G),(M)",Bars/Clubs,1971,NA,NA,NA,NA,"1217 N. May St, Oklahoma City, OK",-97.5660413,35.4812625,"1217 n may ave, oklahoma city, ok 73107, usa",Geocoded
-OK157,Nextdoor Club,,4108 N. May,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1971,NA,NA,NA,NA,"4108 N. May, Oklahoma City, OK",-97.5653484,35.5131441,"4108 n may ave, oklahoma city, ok 73112, usa",Geocoded
-OK158,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1971,NA,NA,NA,NA,"4110 N. May, Oklahoma City, OK",-97.5656651,35.5132493,"4110 n may ave, oklahoma city, ok 73112, usa",Geocoded
-OK159,Voodoo,,2345 N.W. 12th St.,Oklahoma City,OK,"(G),(P),(D)",Bars/Clubs,1971,NA,NA,NA,NA,"2345 N.W. 12th St., Oklahoma City, OK",-97.5532304,35.4818471,"2345 nw 12th st, oklahoma city, ok 73107, usa",Geocoded
-OK160,Eighth Day,,1108 S. Lewis,Tulsa,OK,(*),Bars/Clubs,1971,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK161,Friends Lounge,,1716 E. 3rd,Tulsa,OK,,Bars/Clubs,1971,NA,NA,NA,NA,"1716 E. 3rd, Tulsa, OK",-95.9668881,36.1566536,"1716 e 3rd st, tulsa, ok 74120, usa",Geocoded
-OK162,Hiko Lounge,,859 S. Knoxville,Tulsa,OK,"(R),(G),(YC)",Bars/Clubs,1971,NA,NA,NA,NA,"859 S. Knoxville, Tulsa, OK",-95.9367914,36.148001,"859 s knoxville ave, tulsa, ok 74112, usa",Geocoded
-OK163,Taj Mahol,,10 W. 7th St.,Tulsa,OK,"(BYOB),(*)",Bars/Clubs,1971,NA,NA,NA,NA,"10 W. 7th St., Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK164,What's It To Ya,,2405 E. Admiral ,Tulsa,OK,(G),Bars/Clubs,1971,NA,NA,NA,NA,"2405 E. Admiral , Tulsa, OK",-95.9577954,36.1600127,"2405 e admiral blvd, tulsa, ok 74110, usa",Geocoded
-OK165,"Club, The",,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1970,NA,NA,NA,NA,"1724 N.W. 16th St., Oklahoma City, OK",-97.5401759,35.4857652,"1724 nw 16th st, oklahoma city, ok 73106, usa",Geocoded
-OK166,Jungle Pit,,1217 N. May St.,Oklahoma City,OK,"(G),(M)",Bars/Clubs,1970,NA,NA,NA,NA,"1217 N. May St., Oklahoma City, OK",-97.5660413,35.4812625,"1217 n may ave, oklahoma city, ok 73107, usa",Geocoded
-OK167,Lee's Club,(may have other name by now),3011 Pasco,Oklahoma City,OK,"(S),(P)",Bars/Clubs,1970,NA,NA,NA,NA,"3011 Pasco, Oklahoma City, OK",-97.5233237,35.5000405,"3011 paseo, oklahoma city, ok 73103, usa",Geocoded
-OK168,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,(*),Bars/Clubs,1970,NA,NA,NA,NA,"3009 Pasco, Oklahoma City, OK",-97.5234707,35.4999537,"3009 paseo, oklahoma city, ok 73103, usa",Geocoded
-OK169,Nextdoor Club,,4108 N. May,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1970,NA,NA,NA,NA,"4108 N. May, Oklahoma City, OK",-97.5653484,35.5131441,"4108 n may ave, oklahoma city, ok 73112, usa",Geocoded
-OK170,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1970,NA,NA,NA,NA,"4110 N. May, Oklahoma City, OK",-97.5656651,35.5132493,"4110 n may ave, oklahoma city, ok 73112, usa",Geocoded
-OK171,Voodoo,,2345 N.W. 12th St.,Oklahoma City,OK,"(G),(P),(D)",Bars/Clubs,1970,NA,NA,NA,NA,"2345 N.W. 12th St., Oklahoma City, OK",-97.5532304,35.4818471,"2345 nw 12th st, oklahoma city, ok 73107, usa",Geocoded
-OK172,Eight Day,,1108 S. Lewis,Tulsa,OK,,Bars/Clubs,1970,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK173,Schoobee Doo,,800 S. Sheridan,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1970,NA,NA,NA,NA,"800 S. Sheridan, Tulsa, OK",-95.9045661,36.1506555,"800 s sheridan rd, tulsa, ok 74112, usa",Geocoded
-OK174,Taj Mahal,,10 W. 7th,Tulsa,OK,,Bars/Clubs,1970,NA,NA,NA,NA,"10 W. 7th, Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK175,Lee's Lounge,,3009 Paseo,Oklahoma City,OK,(*),Bars/Clubs,1969,NA,NA,NA,NA,"3009 Paseo, Oklahoma City, OK",-97.5234707,35.4999537,"3009 paseo, oklahoma city, ok 73103, usa",Geocoded
-OK176,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1969,NA,NA,NA,NA,"4110 N. May, Oklahoma City, OK",-97.5656651,35.5132493,"4110 n may ave, oklahoma city, ok 73112, usa",Geocoded
-OK177,Eigth Day,,1108 S. Lewis,Tulsa,OK,(*),Bars/Clubs,1969,NA,NA,NA,NA,"1108 S. Lewis, Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK178,Taj mahol,,10 W. 7th,Tulsa,OK,,Bars/Clubs,1969,NA,NA,NA,NA,"10 W. 7th, Tulsa, OK",-95.9891418,36.1495153,"10 w 7th st, tulsa, ok 74119, usa",Geocoded
-OK179,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,"(*),(P)",Bars/Clubs,1968,NA,NA,NA,NA,"3009 Pasco, Oklahoma City, OK",-97.5234707,35.4999537,"3009 paseo, oklahoma city, ok 73103, usa",Geocoded
-OK180,Crystal Light,,2508 E. 15th St.,Tulsa,OK,(M),Bars/Clubs,1968,NA,NA,NA,NA,"2508 E. 15th St., Tulsa, OK",-95.9556482,36.1403738,"2508 e 15th st, tulsa, ok 74104, usa",Geocoded
-OK181,Eigth Day,,1108 S. Lewis St.,Tulsa,OK,,Bars/Clubs,1968,NA,NA,NA,NA,"1108 S. Lewis St., Tulsa, OK",-95.9573686,36.1475058,"1108 s lewis pl, tulsa, ok 74104, usa",Geocoded
-OK182,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,"(P),(*)",Bars/Clubs,1966,NA,NA,NA,NA,"3009 Pasco, Oklahoma City, OK",-97.5234707,35.4999537,"3009 paseo, oklahoma city, ok 73103, usa",Geocoded
-OK183,Urn,,6915 N. Classen,Oklahoma City,OK,(P),Bars/Clubs,1966,NA,NA,NA,NA,"6915 N. Classen, Oklahoma City, OK",-97.5275589,35.5415739,"6915 n classen blvd, oklahoma city, ok 73116, usa",Geocoded
-OK184,Crystal Light,,2508 E. 15th St.,Tulsa,OK,(M),Bars/Clubs,1966,NA,NA,NA,NA,"2508 E. 15th St., Tulsa, OK",-95.9556482,36.1403738,"2508 e 15th st, tulsa, ok 74104, usa",Geocoded
-OK185,Eighth Day,,1108 S. Lewis St.,Tulsa,OK,,Bars/Clubs,1966,NA,NA,NA,NA,"1108 S. Lewis St., Tulsa, OK",-95.9573686,36.1475058,"1108 s lewis pl, tulsa, ok 74104, usa",Geocoded
-OK186,Black Cat,,819 N. Walker,Oklahoma City,OK,(G),Bars/Clubs,1965,NA,NA,NA,NA,"819 N. Walker, Oklahoma City, OK",-97.5214668,35.4759412,"819 n walker ave, oklahoma city, ok 73102, usa",Geocoded
-OK187,Clique,,6915 N. Classen,Oklahoma City,OK,(P),Bars/Clubs,1965,NA,NA,NA,NA,"6915 N. Classen, Oklahoma City, OK",-97.5275589,35.5415739,"6915 n classen blvd, oklahoma city, ok 73116, usa",Geocoded
-OK188,Jug,,411 W. Sheridan,Oklahoma City,OK,(*),Bars/Clubs,1965,NA,NA,NA,NA,"411 W. Sheridan, Oklahoma City, OK",-97.520169,35.466778,"411 w sheridan ave, oklahoma city, ok 73102, usa",Geocoded
-OK189,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,"(P),(*)",Bars/Clubs,1965,NA,NA,NA,NA,"3009 Pasco, Oklahoma City, OK",-97.5234707,35.4999537,"3009 paseo, oklahoma city, ok 73103, usa",Geocoded
-OK190,Sweet Leona's ,,231 W. Sheridan,Oklahoma City,OK,(M),Bars/Clubs,1965,NA,NA,NA,NA,"231 W. Sheridan, Oklahoma City, OK",-97.5169502,35.4664184,"231 w sheridan ave, oklahoma city, ok 73102, usa",Geocoded
-OK191,Crystal Light,,2508 E. 15th St.,Tulsa,OK,(M),Bars/Clubs,1965,NA,NA,NA,NA,"2508 E. 15th St., Tulsa, OK",-95.9556482,36.1403738,"2508 e 15th st, tulsa, ok 74104, usa",Geocoded
-OK192,Eight Day,,1108 S. Lewis ,Tulsa,OK,,Bars/Clubs,1965,NA,NA,NA,NA,"1108 S. Lewis , Tulsa, OK",-95.9585404,36.1474792,"1108 s lewis ave, tulsa, ok 74104, usa",Geocoded
-OK193,Mall by downtown library,,,Lawton,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-98.394546,34.608311,unclear_coded_by_hand,Found
-OK194,U. of OK - McFarland Library Basement T-Rooms,,,Norman,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.445714,35.205894,unclear_coded_by_hand,Found
-OK195,White St. - nr. the U. of OK.,,,Norman,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.444652,35.213017,unclear_coded_by_hand,Found
-OK196,'The Strip' - 'Hitch-hikers' on Ft. Sill Blvd. from Cache Rd to Main Gate,,,Lawton,OK,Cruisy Areas,Crusing Areas,1980,checked,Middle of road between Cache and Ft. Sill Visitor center.,NA,NA,", OK",-98.422244,34.632623,unclear_coded_by_hand,Found
-OK197,U. of OK. - Student Union - Basement T-Rooms,,,Norman,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.445714,35.205894,unclear_coded_by_hand,Found
-OK198,Sheridan St. - betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK199,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Areas,(AYOR)",Crusing Areas,1980,checked,,NA,NA,", OK",-97.580252,35.503952,unclear_coded_by_hand,Found
-OK200,'Rest Stop' - just N. of I-35 (both sides),,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK201,Union 76 Truck Stop - on I-44,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK202,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK203,O.S.U - Student Union - 2nd floor T-Rooms,,,Stillwater,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-97.073722,36.127024,unclear_coded_by_hand,Found
-OK204,N.E. St. U. - Student Union Basement T-Room,,,Talequah,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-94.965902,35.920968,unclear_coded_by_hand,Found
-OK205,Boulder & Boston - betw. 10th & 14th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1980,checked,approximate,NA,NA,", OK",-95.986885,36.144836,unclear_coded_by_hand,Found
-OK206,U. of Tulsa Student Union Bldg. - Basement T-Room,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-95.946075,36.152053,unclear_coded_by_hand,Found
-OK207,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,"Cruisy Areas,(B),(RT)",Crusing Areas,1980,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK208,Woodward Park,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-95.973661,36.131925,unclear_coded_by_hand,Found
-OK209,Mall by downtown library,,,Lawton,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-98.394546,34.608311,unclear_coded_by_hand,Found
-OK210,Main St. - betw. 4th & 9th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK211,'The Strip' - 'Hitch-hikers' on Ft. Sill Blvd. from Cache Rd. to Main Gate,,,Lawton,OK,Cruisy Areas,Crusing Areas,1979,checked,Middle of road between Cache and Ft. Sill Visitor center.,NA,NA,", OK",-98.422244,34.632623,unclear_coded_by_hand,Found
-OK212,U. of OK. - Student Union - basement T-Room,,,Norman,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.445714,35.205894,unclear_coded_by_hand,Found
-OK213,U. of OK - McFarland Library - basement T-Room,,,Norman,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.445714,35.205894,unclear_coded_by_hand,Found
-OK214,White St. - nr. the U. of OK.,,,Norman,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.444652,35.213017,unclear_coded_by_hand,Found
-OK215,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Areas,(HOT)",Crusing Areas,1979,checked,,NA,NA,", OK",-97.580252,35.503952,unclear_coded_by_hand,Found
-OK216,Sheridan St. - betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK217,Union 76 Truck Stop - on I-40,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK218,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK219,'Rest Stop' - just N. of I-35 (both sides),,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK220,N.E. St. U. - Student Union Basement T-Room,,,Talequah,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-94.965902,35.920968,unclear_coded_by_hand,Found
-OK221,O.S.U. - Student Union - 2nd floor T-Rooms,,,Stillwater,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-97.073722,36.127024,unclear_coded_by_hand,Found
-OK222,Boulder & Boston - betw. 10th & 14th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1979,checked,approximate,NA,NA,", OK",-95.986885,36.144836,unclear_coded_by_hand,Found
-OK223,Main St. betw. 4th & 9th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK224,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,"Cruisy Areas,(B),(RT)",Crusing Areas,1979,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK225,U. of Tulsa - Student Union Bldg. - Basement T-Room,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-95.946075,36.152053,unclear_coded_by_hand,Found
-OK226,North & Keystone Ramps,,,Tulsa,OK,"(AYOR),Cruisy Areas",Crusing Areas,1979,checked,,NA,NA,", OK",-95.992775,36.153982,unclear_coded_by_hand,General Coordinates Used
-OK227,Union 76 Truck Stop - I-244 at E. 161st St,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-95.992775,36.153982,unclear_coded_by_hand,General Coordinates Used
-OK228,Woodward Park,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", OK",-95.973661,36.131925,unclear_coded_by_hand,Found
-OK229,White St. - nr. the U. of OK.,,,Norman,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.444652,35.213017,unclear_coded_by_hand,Found
-OK230,U. of OK - McFarland Library - basement T-Room,,,Norman,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.445714,35.205894,unclear_coded_by_hand,Found
-OK231,U. of OK. - Student Union - basement T-Room,,,Norman,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.445714,35.205894,unclear_coded_by_hand,Found
-OK232,Sheridan St. - betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK233,Union 76 Truck Stop - on I-40,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK234,'Rest Stop' - just N. of I-35 (both sides),,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK235,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK236,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Areas,(HOT)",Crusing Areas,1978,checked,,NA,NA,", OK",-97.580252,35.503952,unclear_coded_by_hand,Found
-OK237,O.S.U. Student Union - 2nd Floor T-Room,,,Stillwater,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-97.073722,36.127024,unclear_coded_by_hand,Found
-OK238,N.E. St. Univ - Student Union -basement T-Room,,,Talequah,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-94.965902,35.920968,unclear_coded_by_hand,Found
-OK239,Union 76 Truck Stop - I-244 at E. 161st St,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-95.992775,36.153982,unclear_coded_by_hand,General Coordinates Used
-OK240,Main St. betw. 4th & 9th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK241,North & Keystone Ramps,,,Tulsa,OK,"Cruisy Areas,(AYOR)",Crusing Areas,1978,checked,,NA,NA,", OK",-95.992775,36.153982,unclear_coded_by_hand,General Coordinates Used
-OK242,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,"(B),(RT),Cruisy Areas",Crusing Areas,1978,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK243,U. of Tulsa - Student Union Bldg. - Basement T-Room,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-95.946075,36.152053,unclear_coded_by_hand,Found
-OK244,Woodward Park,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", OK",-95.973661,36.131925,unclear_coded_by_hand,Found
-OK245,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK246,'Rest Stops' - just N. on I-35 (both sides),,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK247,Sheridan St. betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK248,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Areas,(HOT)",Crusing Areas,1977,checked,,NA,NA,", OK",-97.580252,35.503952,unclear_coded_by_hand,Found
-OK249,"Union 76 Truck Stop, I-40 at Morgan Rd.",,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK250,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK251,North & Keystone Ramps,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-95.992775,36.153982,unclear_coded_by_hand,General Coordinates Used
-OK252,Main St. betw. 4th & 9th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK253,Woodward Park,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", OK",-95.973661,36.131925,unclear_coded_by_hand,Found
-OK254,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK255,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Areas,(HOT)",Crusing Areas,1976,checked,,NA,NA,", OK",-97.580252,35.503952,unclear_coded_by_hand,Found
-OK256,'Rest area' - 1st one N. on I-35 (both sides),,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK257,Sheridan St. Betw. Broadway & Walker,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK258,"Keystone Lake - Washington Irving Cove, North & Keystone Ramps",,,Tulsa,OK,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK259,Main St. betw. 4th & 10th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK260,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK261,"Sheridan St., betw. Broadway & Walker",,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK262,Main St. betw. 4th & 10th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK263,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Areas,(HOT)",Crusing Areas,1975,checked,,NA,NA,", OK",-97.580252,35.503952,unclear_coded_by_hand,Found
-OK264,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1974,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK265,"Sheridan St., betw. Broadway & Walker",,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1974,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK266,Main St. betw. 4th & 10th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1974,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK267,"Keystone Lake - Washington Irving Cove, North & Keystone Ramps",,,Tulsa,OK,Cruisy Areas,Crusing Areas,1974,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK268,Lake Heffner,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1973,checked,,NA,NA,", OK",-97.595158,35.572397,unclear_coded_by_hand,Found
-OK269,"Sheridan St., bet. Broadway & Walker",,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1973,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK270,"Keystone Lake - Washington Irving Cove, North & Keystone Ramps",,,Tulsa,OK,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK271,Keystone Lake - Washington Irving Cove North & Keystone Ramp,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1973,checked,,NA,NA,", OK",-96.257346,36.197595,unclear_coded_by_hand,Found
-OK272,Main St. bet. 4th & 10th,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1973,checked,,NA,NA,", OK",-95.854931,36.274365,unclear_coded_by_hand,Found
-OK273,Sheridan St. - bet. Broadway & Walker,,,Oklahoma City,OK,Cruisy Areas,Crusing Areas,1972,checked,,NA,NA,", OK",-97.518106,35.466403,unclear_coded_by_hand,Found
-OK274,About the 1500 block of So. Main,,,Tulsa,OK,Cruisy Areas,Crusing Areas,1972,checked,,NA,NA,", OK",-95.987687,36.140561,unclear_coded_by_hand,Found
-OK275,Pete & Bob's,,1st & Elwood,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1968,checked,,NA,NA,"1st & Elwood, OK",-95.996831,36.153657,unclear_coded_by_hand,Found
-OK276,Pete & Bob's,,1st & Elwood,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1966,checked,,NA,NA,"1st & Elwood, OK",-95.996831,36.153657,unclear_coded_by_hand,Found
-OK277,Pete & Bob's,,1st & Elwood,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1965,checked,,NA,NA,"1st & Elwood, OK",-95.996831,36.153657,unclear_coded_by_hand,Found
-OK278,M.C.C.,,3rd & Elgin,Tulsa,OK,,Church,1976,checked,,NA,NA,"3rd & Elgin, OK",-95.986347,36.155065,unclear_coded_by_hand,Found
-OK279,Taj Mahal,,7th St. nr Main,Tulsa,OK,,Bars/Clubs,1965,checked,,NA,NA,"7th St. nr Main, OK",-95.989034,36.149552,unclear_coded_by_hand,Found
-OK280,Taj Mahal,,7th St. nr. Main,Tulsa,OK,(*),Bars/Clubs,1968,checked,,NA,NA,"7th St. nr. Main, OK",-95.989034,36.149552,unclear_coded_by_hand,Found
-OK281,Taj Mahal,,7th St. nr. Main,Tulsa,OK,,Bars/Clubs,1966,checked,,NA,NA,"7th St. nr. Main, OK",-95.989034,36.149552,unclear_coded_by_hand,Found
-OK282,Gala,,11th & Lewis Sts,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1966,checked,,NA,NA,"11th & Lewis Sts, OK",-95.958185,36.147789,unclear_coded_by_hand,Found
-OK283,Gala,,11th & Lewis Sts.,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1969,checked,,NA,NA,"11th & Lewis Sts., OK",-95.958185,36.147789,unclear_coded_by_hand,Found
-OK284,Gala,,11th & Lewis Sts.,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1968,checked,,NA,NA,"11th & Lewis Sts., OK",-95.958185,36.147789,unclear_coded_by_hand,Found
-OK285,Gala,,11th & Lewis Sts.,Tulsa,OK,"(D),(P)",Bars/Clubs,1965,checked,,NA,NA,"11th & Lewis Sts., OK",-95.958185,36.147789,unclear_coded_by_hand,Found
-OK286,Club,,11th & Memorial,Tulsa,OK,"(P),(G),(D)",Bars/Clubs,1976,checked,,NA,NA,"11th & Memorial, OK",-95.886339,36.147833,unclear_coded_by_hand,Found
-OK287,Club,,11th & Memorial,Tulsa,OK,"(P),(G),(D),(*)",Bars/Clubs,1975,checked,,NA,NA,"11th & Memorial, OK",-95.886339,36.147833,unclear_coded_by_hand,Found
-OK288,Unique,,23rd at Dewey,Oklahoma City,OK,(R),,1973,checked,,NA,NA,"23rd at Dewey, OK",-97.522514,35.493334,unclear_coded_by_hand,Found
-OK289,Crews Inn,(Beer) (Some B),27th & Walker,Oklahoma City,OK,"(B),(PT)",Bars/Clubs,1980,checked,,NA,NA,"27th & Walker, OK",-97.521019,35.497452,unclear_coded_by_hand,Found
-OK290,Merry-Go-Round,(Beer),27th & Walker,Oklahoma City,OK,(PT),Bars/Clubs,1979,checked,,NA,NA,"27th & Walker, OK",-97.521019,35.497452,unclear_coded_by_hand,Found
-OK291,Colorado's Tavern,,32nd & N. May,Oklahoma City,OK,(YC),Bars/Clubs,1980,checked,,NA,NA,"32nd & N. May, OK",-97.565652,35.503087,unclear_coded_by_hand,Found
-OK292,Zipper's,(Disco) (Cl. Mon & Tues.),33rd & Yale,Tulsa,OK,"(YC),(D)",Bars/Clubs,1980,checked,,NA,NA,"33rd & Yale, OK",-95.922485,36.115654,unclear_coded_by_hand,Found
-OK293,Gene's,,63rd & Classen,Oklahoma City,OK,,Bars/Clubs,1968,checked,,NA,NA,"63rd & Classen, OK",-97.527069,35.537318,unclear_coded_by_hand,Found
-OK294,Continental Country Club,,Hwy 74 N.,Oklahoma City,OK,(P),Bars/Clubs,1966,checked,,NA,NA,"Hwy 74 N., OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK295,Campus Inn,,Inquire Locally,Stillwater,OK,,Bars/Clubs,1975,checked,,NA,NA,"Inquire Locally, OK",-97.058368,36.115607,unclear_coded_by_hand,General Coordinates Used
-OK296,Saddle Club,,Inquire Locally,Lawton,OK,,Bars/Clubs,1974,checked,,NA,NA,"Inquire Locally, OK",-98.395929,34.603567,unclear_coded_by_hand,General Coordinates Used
-OK297,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1974,checked,,NA,NA,"Inquire Locally, OK",-97.058368,36.115607,unclear_coded_by_hand,General Coordinates Used
-OK298,Saddle Club,,Inquire Locally,Lawton,OK,,Bars/Clubs,1973,checked,,NA,NA,"Inquire Locally, OK",-98.395929,34.603567,unclear_coded_by_hand,General Coordinates Used
-OK299,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1973,checked,,NA,NA,"Inquire Locally, OK",-97.058368,36.115607,unclear_coded_by_hand,General Coordinates Used
-OK300,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1972,checked,,NA,NA,"Inquire Locally, OK",-97.058368,36.115607,unclear_coded_by_hand,General Coordinates Used
-OK301,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1971,checked,,NA,NA,"Inquire Locally, OK",-97.058368,36.115607,unclear_coded_by_hand,General Coordinates Used
-OK302,Campus Inn,,Inquire Locally,Stillwater,OK,"(YC),(M)",Bars/Clubs,1970,checked,,NA,NA,"Inquire Locally, OK",-97.058368,36.115607,unclear_coded_by_hand,General Coordinates Used
-OK303,Campus Inn,,Inquire locally,Stillwater,OK,,Bars/Clubs,1976,checked,,NA,NA,"Inquire locally, OK",-97.058368,36.115607,unclear_coded_by_hand,General Coordinates Used
-OK304,Continental,,inquire locally,Oklahoma City,OK,"(P),(D)",Bars/Clubs,1969,checked,,NA,NA,"inquire locally, OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK305,Schoobee Doo,,inquire locally,Tulsa,OK,,Bars/Clubs,1969,checked,,NA,NA,"inquire locally, OK",-95.992775,36.153982,unclear_coded_by_hand,General Coordinates Used
-OK306,Bamboo Room,,Lewis & Independence,Tulsa,OK,,Bars/Clubs,1969,checked,,NA,NA,"Lewis & Independence, OK",-95.957009,36.166238,unclear_coded_by_hand,Found
-OK307,Gala,(Can enter thru back door of Eight Day),Lewis nr. 11th,Tulsa,OK,"(P),(BYOB),(*)",Bars/Clubs,1972,checked,,NA,NA,"Lewis nr. 11th, OK",-95.958185,36.147789,unclear_coded_by_hand,Found
-OK308,Gala,(Can enter thru back door of Eight Day),Lewis nr. 11th,Tulsa,OK,"(P),(B),(BYOB),(*)",Bars/Clubs,1971,checked,,NA,NA,"Lewis nr. 11th, OK",-95.958185,36.147789,unclear_coded_by_hand,Found
-OK309,Gala,(can enter via back door of Eight Day),Lewis nr. 11th,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1970,checked,,NA,NA,"Lewis nr. 11th, OK",-95.958185,36.147789,unclear_coded_by_hand,Found
-OK310,Lilo,,May Ave,Oklahoma City,OK,,Bars/Clubs,1969,checked,,NA,NA,"May Ave, OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK311,Lido,,May Ave,Oklahoma City,OK,,Bars/Clubs,1968,checked,,NA,NA,"May Ave, OK",-97.516428,35.46756,unclear_coded_by_hand,General Coordinates Used
-OK312,Tiger Room,,N. Lewis,Tulsa,OK,,Bars/Clubs,1969,checked,,NA,NA,"N. Lewis, OK",-95.992775,36.153982,unclear_coded_by_hand,General Coordinates Used
-OK313,Tony's,(Some L),Wilshire & May,Oklahoma City,OK,(S),,1980,checked,,NA,NA,"Wilshire & May, OK",-97.565566,35.551117,unclear_coded_by_hand,Found
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+864,OK256,'Rest area' - 1st one N. on I-35 (both sides),,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1976,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+827,OK219,'Rest Stop' - just N. of I-35 (both sides),,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1979,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+808,OK200,'Rest Stop' - just N. of I-35 (both sides),,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1980,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+842,OK234,'Rest Stop' - just N. of I-35 (both sides),,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1978,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+854,OK246,'Rest Stops' - just N. on I-35 (both sides),,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1977,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+804,OK196,'The Strip' - 'Hitch-hikers' on Ft. Sill Blvd. from Cache Rd to Main Gate,,,Lawton,OK,Cruisy Area,Cruising Areas,1980,Middle of road between Cache and Ft. Sill Visitor center.,-98.422244,34.632623,Verified Location
+819,OK211,'The Strip' - 'Hitch-hikers' on Ft. Sill Blvd. from Cache Rd. to Main Gate,,,Lawton,OK,Cruisy Area,Cruising Areas,1979,Middle of road between Cache and Ft. Sill Visitor center.,-98.422244,34.632623,Verified Location
+882,OK274,About the 1500 block of So. Main,,,Tulsa,OK,Cruisy Area,Cruising Areas,1972,,-95.987687,36.140561,Verified Location
+645,OK037,Baker's,('Greasy Spoon') (Cruisy),229 W. 11th,Tulsa,OK,"(R),(C),(AH)","Cruising Areas,Restaurant",1979,NA,-95.9912517,36.1461684,Google Verified Location
+619,OK011,Baker's,('Greasy spoon') (Cruisy),229 W. 11th,Tulsa,OK,"(R),(C),(AH)","Cruising Areas,Restaurant",1980,NA,-95.9912517,36.1461684,Google Verified Location
+707,OK099,Bamboo,,7204 E. Pine,Tulsa,OK,(M),Bars/Clubs,1976,NA,-95.8965894,36.1766944,Google Verified Location
+689,OK081,Bamboo,,7204 E. Pine St,Tulsa,OK,"(M),(YC)",Bars/Clubs,1977,NA,-95.8965894,36.1766944,Google Verified Location
+646,OK038,Bamboo,(Some G) ,7204 E. Pine,Tulsa,OK,"(M),(YC),(G)",Bars/Clubs,1979,NA,-95.8965894,36.1766944,Google Verified Location
+746,OK138,Bamboo,,7204 E. Pine,Tulsa,OK,(M),Bars/Clubs,1975,NA,-95.8965894,36.1766944,Google Verified Location
+731,OK123,Bamboo,,7204 E. Pine,Tulsa,OK,(M),Bars/Clubs,1974,NA,-95.8965894,36.1766944,Google Verified Location
+743,OK135,Bamboo,,7204 E. Pine,Tulsa,OK,(M),Bars/Clubs,1973,NA,-95.8965894,36.1766944,Google Verified Location
+620,OK012,Bamboo,(Some OC),7204 E. Pine,Tulsa,OK,(OC),Bars/Clubs,1980,NA,-95.8965894,36.1766944,Google Verified Location
+668,OK060,Bamboo,,7204 E. Pine St.,Tulsa,OK,"(M),(YC)",Bars/Clubs,1978,NA,-95.8965894,36.1766944,Google Verified Location
+914,OK306,Bamboo Room,,Lewis & Independence,Tulsa,OK,,Bars/Clubs,1969,,-95.957009,36.166238,Verified Location
+737,OK129,Beer House,(some G),3616 N.W. 23rd St.,Oklahoma City,OK,"(G),(*)",Bars/Clubs,1973,NA,-97.5824266,35.4929901,Google Verified Location
+669,OK061,Big Sur,(Some G) (Looks promising),3014 E. 15th St.,Tulsa,OK,"(D),(PT),(G)",Bars/Clubs,1978,NA,-95.9453882,36.1403969,Google Verified Location
+621,OK013,Big Sur,(Some L),3014 E. 15th St.,Tulsa,OK,"(D),(PT),(L)",Bars/Clubs,1980,NA,-95.9453882,36.1403969,Google Verified Location
+647,OK039,Big Sur,(Some G) ,3014 E. 15th St.,Tulsa,OK,"(D),(PT),(G)",Bars/Clubs,1979,NA,-95.9453882,36.1403969,Google Verified Location
+794,OK186,Black Cat,,819 N. Walker,Oklahoma City,OK,(G),Bars/Clubs,1965,NA,-97.5214668,35.4759412,Google Verified Location
+622,OK014,Body Shop,(Book store & 'peep shows'),1346 E. 11th St.,Tulsa,OK,(*),Book Store,1980,NA,-95.973597,36.147684,Google Verified Location
+690,OK082,Body Shop,(Book Store & 'peep shows'),1346 E. 11th St.,Tulsa,OK,,Book Store,1977,NA,-95.973597,36.147684,Google Verified Location
+648,OK040,Body Shop,(Books store & 'peep shows'),1346 E. 11th St.,Tulsa,OK,(*),Book Store,1979,NA,-95.973597,36.147684,Google Verified Location
+670,OK062,Body Shop,(Book Store & 'Peep shows'),1346 E. 11th St.,Tulsa,OK,(*),Book Store,1978,NA,-95.973597,36.147684,Google Verified Location
+747,OK139,Body Shop,(book store),1346 E. 11th St.,Tulsa,OK,,Book Store,1975,NA,-95.973597,36.147684,Google Verified Location
+708,OK100,Body Shop,(book store),1346 E. 11th St.,Tulsa,OK,,Book Store,1976,NA,-95.973597,36.147684,Google Verified Location
+830,OK222,Boulder & Boston - betw. 10th & 14th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1979,approximate,-95.986885,36.144836,Verified Location
+813,OK205,Boulder & Boston - betw. 10th & 14th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1980,approximate,-95.986885,36.144836,Verified Location
+715,OK107,Box Office,(Some G),2335 N.W. 12th St.,Oklahoma City,OK,"(P),(R),(D),(G),(*)","Bars/Clubs,Restaurant",1975,NA,-97.5537813,35.4821687,Google Verified Location
+633,OK025,Cache Road Books,(Cruisy 'peep shows'),1206 Cache Rd,Lawton,OK,,"Book Store,Cruising Areas",1979,NA,-98.4105198,34.6229178,Google Verified Location
+609,OK001,Cache Road Books,(Cruisy 'peep show'),1206 Cache Rd.,Lawton,OK,,"Book Store,Cruising Areas",1980,NA,-98.4105198,34.6229178,Google Verified Location
+908,OK300,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1972,,-97.058368,36.115607,Location could not be verified. General city or location coordinates used.
+903,OK295,Campus Inn,,Inquire Locally,Stillwater,OK,,Bars/Clubs,1975,,-97.058368,36.115607,Location could not be verified. General city or location coordinates used.
+911,OK303,Campus Inn,,Inquire locally,Stillwater,OK,,Bars/Clubs,1976,,-97.058368,36.115607,Location could not be verified. General city or location coordinates used.
+907,OK299,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1973,,-97.058368,36.115607,Location could not be verified. General city or location coordinates used.
+905,OK297,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1974,,-97.058368,36.115607,Location could not be verified. General city or location coordinates used.
+909,OK301,Campus Inn,,Inquire Locally,Stillwater,OK,"(M),(YC)",Bars/Clubs,1971,,-97.058368,36.115607,Location could not be verified. General city or location coordinates used.
+910,OK302,Campus Inn,,Inquire Locally,Stillwater,OK,"(YC),(M)",Bars/Clubs,1970,,-97.058368,36.115607,Location could not be verified. General city or location coordinates used.
+649,OK041,Casablanca ,('Super bar' & Disco),4812 E. 33rd St. ,Tulsa,OK,"(D),(YC),(*)",Bars/Clubs,1979,NA,-95.9232846,36.1153315,Google Verified Location
+650,OK042,Chalk Board,(French R),1324 S. Main,Tulsa,OK,"(M),(PE),(R)",Restaurant,1979,NA,-95.987678,36.1426049,Google Verified Location
+623,OK015,Chalk Board,,1324 S. Main,Tulsa,OK,"(M),(PE),(R)",Restaurant,1980,NA,-95.987678,36.1426049,Google Verified Location
+680,OK072,Circa Club,,2201 N.W. 39th St.,Oklahoma City,OK,"(P),(D)",Bars/Clubs,1977,NA,-97.5494144,35.5117363,Google Verified Location
+612,OK004,Circa Club,"(Some W, YC)(Cruisy)",2201 N. W. 39th St.,Oklahoma City,OK,"(W),(YC),(D),(PT)",Cruising Areas,1980,NA,-97.5494144,35.5117363,Google Verified Location
+661,OK053,Circa Club,(Cruisy),2201 N.W. 39th St.,Oklahoma City,OK,"(P),(D),(W),(PT),(*)","Cruising Areas,Bars/Clubs",1978,NA,-97.5494144,35.5117363,Google Verified Location
+636,OK028,Circa Club,"(Some W, YC) (Cruisy)",2201 N.W. 39th St.,Oklahoma City,OK,"(W),(YC),(D),(PT)","Cruising Areas,Bars/Clubs",1979,NA,-97.5494144,35.5117363,Google Verified Location
+700,OK092,Circa Club,,2201 N.W. 39th St.,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1976,NA,-97.5494144,35.5117363,Google Verified Location
+795,OK187,Clique,,6915 N. Classen,Oklahoma City,OK,(P),Bars/Clubs,1965,NA,-97.5275589,35.5415739,Google Verified Location
+894,OK286,Club,,11th & Memorial,Tulsa,OK,"(P),(G),(D)",Bars/Clubs,1976,,-95.886339,36.147833,Verified Location
+895,OK287,Club,,11th & Memorial,Tulsa,OK,"(P),(G),(D),(*)",Bars/Clubs,1975,,-95.886339,36.147833,Verified Location
+624,OK016,Club,,1221 Memorial,Tulsa,OK,"(P),(L),(D)",Bars/Clubs,1980,NA,-95.8862301,36.145236,Google Verified Location
+738,OK130,Club,(cloed Tues),1724 N.W. 16th St. ,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1973,NA,-97.5401759,35.4857652,Google Verified Location
+651,OK043,Club,,1221 Memorial,Tulsa,OK,"(P),(G),(D)",Bars/Clubs,1979,NA,-95.8862301,36.145236,Google Verified Location
+691,OK083,Club,,1221 Memorial,Tulsa,OK,"(P),(YC),(G),(D),(*)",Bars/Clubs,1977,NA,-95.8862301,36.145236,Google Verified Location
+671,OK063,Club,,1221 Memorial,Tulsa,OK,"(P),(G),(D),(*)",Bars/Clubs,1978,NA,-95.8862301,36.145236,Google Verified Location
+681,OK073,Club One,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1977,NA,-97.5824266,35.4929901,Google Verified Location
+773,OK165,"Club, The",,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1970,NA,-97.5401759,35.4857652,Google Verified Location
+763,OK155,"Club, The",,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1971,NA,-97.5401759,35.4857652,Google Verified Location
+754,OK146,"Club, The",,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1972,NA,-97.5401759,35.4857652,Google Verified Location
+899,OK291,Colorado's Tavern,,32nd & N. May,Oklahoma City,OK,(YC),Bars/Clubs,1980,,-97.565652,35.503087,Verified Location
+912,OK304,Continental,,inquire locally,Oklahoma City,OK,"(P),(D)",Bars/Clubs,1969,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+902,OK294,Continental Country Club,,Hwy 74 N.,Oklahoma City,OK,(P),Bars/Clubs,1966,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+662,OK054,Crescendo,,2805 N.W. 36th St.,Oklahoma City,OK,"(P),(G)",Bars/Clubs,1978,NA,-97.5636993,35.508097,Google Verified Location
+682,OK074,Crescendo,,2805 N.W. 36th St.,Oklahoma City,OK,"(P),(G)",Bars/Clubs,1977,NA,-97.5636993,35.508097,Google Verified Location
+720,OK112,Crescendo Club,"(Some G) (don't miss, but don't confuse with 'straight' club Matador in same bldg . . . next door)",2805 N.W. 36th St.,Oklahoma City,OK,"(P),(D),(G),(*)",Bars/Clubs,1975,NA,-97.5636993,35.508097,Google Verified Location
+897,OK289,Crews Inn,(Beer) (Some B),27th & Walker,Oklahoma City,OK,"(B),(PT)",Bars/Clubs,1980,,-97.521019,35.497452,Verified Location
+792,OK184,Crystal Light,,2508 E. 15th St.,Tulsa,OK,(M),Bars/Clubs,1966,NA,-95.9556482,36.1403738,Google Verified Location
+799,OK191,Crystal Light,,2508 E. 15th St.,Tulsa,OK,(M),Bars/Clubs,1965,NA,-95.9556482,36.1403738,Google Verified Location
+788,OK180,Crystal Light,,2508 E. 15th St.,Tulsa,OK,(M),Bars/Clubs,1968,NA,-95.9556482,36.1403738,Google Verified Location
+637,OK029,D.J.'s Crescendo,(Many G),2805 N.W. 36th St,Oklahoma City,OK,"(P),(*),(G),(D)",Bars/Clubs,1979,NA,-97.5636993,35.508097,Google Verified Location
+613,OK005,D.J.'s Crescendo,(Many L),2805 N. W. 36th St.,Oklahoma City,OK,"(P),(L),(D)",Bars/Clubs,1980,NA,-97.5636993,35.508097,Google Verified Location
+683,OK075,David's,,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(YC),(D)",Bars/Clubs,1977,NA,-97.5401759,35.4857652,Google Verified Location
+684,OK076,Disco 36,(Unisex) (Disco),715 N.W. 36th St.,Oklahoma City,OK,"(YC),(D),(*)",Bars/Clubs,1977,NA,-97.5250777,35.5079715,Google Verified Location
+701,OK093,Do-Me Club,(some G),2424 N.W. 39th Expressway,Oklahoma City,OK,"(YC),(D),(S),(G)",Bars/Clubs,1976,NA,-97.5554666,35.5110591,Google Verified Location
+672,OK064,Doors Club,(Rear entrance),1611 E. 11th St.,Tulsa,OK,"(P),(D)",Bars/Clubs,1978,NA,-95.9693,36.148092,Google Verified Location
+652,OK044,Doors Club,(Rear entrance),1611 E. 11th,Tulsa,OK,"(P),(D)",Bars/Clubs,1979,NA,-95.9693,36.148092,Google Verified Location
+625,OK017,Doors Club,,1611 E. 11th,Tulsa,OK,"(P),(D)",Bars/Clubs,1980,NA,-95.9693,36.148092,Google Verified Location
+692,OK084,Doors Club,(Rear entrance),1611 E. 11th St.,Tulsa,OK,"(P),(D)",Bars/Clubs,1977,NA,-95.9693,36.148092,Google Verified Location
+748,OK140,Doors Club,"(2 rooms, 1[P])",1811 E. 11th St.,Tulsa,OK,"(YC),(D),(*)",Bars/Clubs,1975,NA,-95.965169,36.1480867,Google Verified Location
+693,OK085,Doors Lounge,,1611 E. 11th St. ,Tulsa,OK,(*),Bars/Clubs,1977,NA,-95.9693,36.148092,Google Verified Location
+709,OK101,Doors Lounge,"(2 rooms, one is P)",1611 E. 11th St.,Tulsa,OK,"(YC),(D),(*)",Bars/Clubs,1976,NA,-95.9693,36.148092,Google Verified Location
+673,OK065,Doors Lounge,,1611 E. 11th St.,Tulsa,OK,(*),Bars/Clubs,1978,NA,-95.9693,36.148092,Google Verified Location
+800,OK192,Eight Day,,1108 S. Lewis ,Tulsa,OK,,Bars/Clubs,1965,NA,-95.9585404,36.1474792,Google Verified Location
+780,OK172,Eight Day,,1108 S. Lewis,Tulsa,OK,,Bars/Clubs,1970,NA,-95.9585404,36.1474792,Google Verified Location
+758,OK150,Eighth Day,,1108 S. Lewis,Tulsa,OK,(*),Bars/Clubs,1972,NA,-95.9585404,36.1474792,Google Verified Location
+732,OK124,Eighth Day,,1108 S. Lewis,Tulsa,OK,(G),Bars/Clubs,1974,NA,-95.9585404,36.1474792,Google Verified Location
+744,OK136,Eighth Day,,1108 S. Lewis,Tulsa,OK,(G),Bars/Clubs,1973,NA,-95.9585404,36.1474792,Google Verified Location
+793,OK185,Eighth Day,,1108 S. Lewis St.,Tulsa,OK,,Bars/Clubs,1966,NA,-95.9573686,36.1475058,Google Verified Location
+768,OK160,Eighth Day,,1108 S. Lewis,Tulsa,OK,(*),Bars/Clubs,1971,NA,-95.9585404,36.1474792,Google Verified Location
+785,OK177,Eigth Day,,1108 S. Lewis,Tulsa,OK,(*),Bars/Clubs,1969,NA,-95.9585404,36.1474792,Google Verified Location
+789,OK181,Eigth Day,,1108 S. Lewis St.,Tulsa,OK,,Bars/Clubs,1968,NA,-95.9573686,36.1475058,Google Verified Location
+614,OK006,End-Up,('Drags'),2525 W. 10th St.,Oklahoma City,OK,"(P),(D),(S)",Bars/Clubs,1980,NA,-97.5580224,35.4790183,Google Verified Location
+615,OK007,Free Spirit,"('Top' super Disco) (In old church - 2 floors, several bars)",3125 N. Classen Blvd,Oklahoma City,OK,"(D),(P),(YC),(PT)",Bars/Clubs,1980,NA,-97.53482,35.501394,Google Verified Location
+638,OK030,Free Spirit,"('Top' Super Disco) (In old church - 2 floors, several bars)",3125 N. Classen Blvd,Oklahoma City,OK,"(D),(YC),(PT)",Bars/Clubs,1979,NA,-97.53482,35.501394,Google Verified Location
+663,OK055,Free Spirit,(Disco) (Latest 'super bar' - looks promising),3125 N. Classen Blvd,Oklahoma City,OK,"(YC),(D),(PT),(BYOB)",Bars/Clubs,1978,NA,-97.53482,35.501394,Google Verified Location
+721,OK113,French Quarter,,1724 N.W. 16th St.,Oklahoma City,OK,"(P),(HIP),(YC),(D),(*)",Bars/Clubs,1975,NA,-97.5401759,35.4857652,Google Verified Location
+694,OK086,Friends,(Some B),1716 E. 3rd St.,Tulsa,OK,"(S),(B),(*)",Bars/Clubs,1977,NA,-95.9668881,36.1566536,Google Verified Location
+626,OK018,Friends,('twinkies'),1716 E. 3rd St.,Tulsa,OK,(S),Bars/Clubs,1980,NA,-95.9668881,36.1566536,Google Verified Location
+653,OK045,Friends,(Some chicken),1716 E. 3rd St.,Tulsa,OK,(S),Bars/Clubs,1979,NA,-95.9668881,36.1566536,Google Verified Location
+674,OK066,Friends,(Some B),1716 E. 3rd St.,Tulsa,OK,"(S),(B)",Bars/Clubs,1978,NA,-95.9668881,36.1566536,Google Verified Location
+769,OK161,Friends Lounge,,1716 E. 3rd,Tulsa,OK,,Bars/Clubs,1971,NA,-95.9668881,36.1566536,Google Verified Location
+710,OK102,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),Bars/Clubs,1976,NA,-95.9668881,36.1566536,Google Verified Location
+749,OK141,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),Bars/Clubs,1975,NA,-95.9668881,36.1566536,Google Verified Location
+759,OK151,Friends Lounge,,1716 E. 3rd,Tulsa,OK,,Bars/Clubs,1972,NA,-95.9668881,36.1566536,Google Verified Location
+745,OK137,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),Bars/Clubs,1973,NA,-95.9668881,36.1566536,Google Verified Location
+733,OK125,Friends Lounge,,1716 E. 3rd St.,Tulsa,OK,(*),Bars/Clubs,1974,NA,-95.9668881,36.1566536,Google Verified Location
+685,OK077,Funny Girl Club,,2422 N.W. 23rd St.,Oklahoma City,OK,"(P),(G),(D),(*)",Bars/Clubs,1977,NA,-97.5560053,35.4929269,Google Verified Location
+664,OK056,Funny Girl Club,"(Some G, B)",2422 N.W. 23rd St.,Oklahoma City,OK,"(P),(G),(B),(D),(*)",Bars/Clubs,1978,NA,-97.5560053,35.4929269,Google Verified Location
+916,OK308,Gala,(Can enter thru back door of Eight Day),Lewis nr. 11th,Tulsa,OK,"(P),(B),(BYOB),(*)",Bars/Clubs,1971,,-95.958185,36.147789,Verified Location
+893,OK285,Gala,,11th & Lewis Sts.,Tulsa,OK,"(D),(P)",Bars/Clubs,1965,,-95.958185,36.147789,Verified Location
+734,OK126,Gala,(some G) (can enter thru back of Eight Day),2300 E. 11th St.,Tulsa,OK,"(G),(P),(D)",Bars/Clubs,1974,NA,-95.9584879,36.1475085,Google Verified Location
+891,OK283,Gala,,11th & Lewis Sts.,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1969,,-95.958185,36.147789,Verified Location
+890,OK282,Gala,,11th & Lewis Sts,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1966,,-95.958185,36.147789,Verified Location
+892,OK284,Gala,,11th & Lewis Sts.,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1968,,-95.958185,36.147789,Verified Location
+917,OK309,Gala,(can enter via back door of Eight Day),Lewis nr. 11th,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1970,,-95.958185,36.147789,Verified Location
+716,OK108,Gala,(Can enter thru back of Eighth Day),2300 E. 11th St.,Tulsa,OK,"(P),(D),(BYOB),(G)",Bars/Clubs,1973,NA,-95.9584879,36.1475085,Google Verified Location
+915,OK307,Gala,(Can enter thru back door of Eight Day),Lewis nr. 11th,Tulsa,OK,"(P),(BYOB),(*)",Bars/Clubs,1972,,-95.958185,36.147789,Verified Location
+901,OK293,Gene's,,63rd & Classen,Oklahoma City,OK,,Bars/Clubs,1968,,-97.527069,35.537318,Verified Location
+616,OK008,Godfathers,(Juice Bar - No booze) (Midnight - 4am - AH only),2448 N.W. 39th St.,Oklahoma City,OK,"(AH),(*)",Business,1980,NA,-97.5560243,35.5111,Google Verified Location
+639,OK031,Gold Diggers,('Drags'),2525 W. 10th St.,Oklahoma City,OK,"(S),(D)",Bars/Clubs,1979,NA,-97.5580224,35.4790183,Google Verified Location
+627,OK019,Happy Pappy's,(C - AH - Sat),3011 E. 15th,Tulsa,OK,"(M),(R),(C),(AH)",Restaurant,1980,NA,-95.9452141,36.1407343,Google Verified Location
+675,OK067,Harvard Book Store,,3735 So. Harvard,Tulsa,OK,(M),Book Store,1978,NA,-95.9397945,36.1085076,Google Verified Location
+726,OK118,Highland Hills Church (M.C.C),,3501 N.W. 63rd St.,Oklahoma City,OK,,Church,1974,NA,-97.5794902,35.5372539,Google Verified Location
+722,OK114,Highland Hills M.C.C Church,,3501 N.W. 63rd St.,Oklahoma City,OK,,Church,1975,NA,-97.5794902,35.5372539,Google Verified Location
+760,OK152,Hiko Lounge,,859 S. Knoxville,Tulsa,OK,"(R),(G),(YC)",Restaurant,1972,NA,-95.9367914,36.148001,Google Verified Location
+770,OK162,Hiko Lounge,,859 S. Knoxville,Tulsa,OK,"(R),(G),(YC)","Bars/Clubs,Restaurant",1971,NA,-95.9367914,36.148001,Google Verified Location
+739,OK131,House of Twelve ,(No sign looks like private residence),3337 N.W. 23rd St.,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1973,NA,-97.5762854,35.493229,Google Verified Location
+796,OK188,Jug,,411 W. Sheridan,Oklahoma City,OK,(*),Bars/Clubs,1965,NA,-97.520169,35.466778,Google Verified Location
+774,OK166,Jungle Pit,,1217 N. May St.,Oklahoma City,OK,"(G),(M)",Bars/Clubs,1970,NA,-97.5660413,35.4812625,Google Verified Location
+755,OK147,Jungle Pit,(Some G),1217 N. May St,Oklahoma City,OK,"(G),(*)",Bars/Clubs,1972,NA,-97.5660413,35.4812625,Google Verified Location
+764,OK156,Jungle Pit,,1217 N. May St,Oklahoma City,OK,"(G),(M)",Bars/Clubs,1971,NA,-97.5660413,35.4812625,Google Verified Location
+858,OK250,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,Cruisy Area,Cruising Areas,1977,,-96.257346,36.197595,Verified Location
+815,OK207,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,"Cruisy Area,(B),(RT)",Cruising Areas,1980,,-96.257346,36.197595,Verified Location
+850,OK242,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,"(B),(RT),Cruisy Area",Cruising Areas,1978,,-96.257346,36.197595,Verified Location
+832,OK224,Keystone Lake - Washington Irving Cove,,,Tulsa,OK,"Cruisy Area,(B),(RT)",Cruising Areas,1979,,-96.257346,36.197595,Verified Location
+879,OK271,Keystone Lake - Washington Irving Cove North & Keystone Ramp,,,Tulsa,OK,Cruisy Area,Cruising Areas,1973,,-96.257346,36.197595,Verified Location
+875,OK267,"Keystone Lake - Washington Irving Cove, North & Keystone Ramps",,,Tulsa,OK,Cruisy Area,Cruising Areas,1974,,-96.257346,36.197595,Verified Location
+878,OK270,"Keystone Lake - Washington Irving Cove, North & Keystone Ramps",,,Tulsa,OK,Cruisy Area,Cruising Areas,1975,,-96.257346,36.197595,Verified Location
+866,OK258,"Keystone Lake - Washington Irving Cove, North & Keystone Ramps",,,Tulsa,OK,Cruisy Area,Cruising Areas,1976,,-96.257346,36.197595,Verified Location
+868,OK260,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1975,,-97.595158,35.572397,Verified Location
+872,OK264,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1974,,-97.595158,35.572397,Verified Location
+862,OK254,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1976,,-97.595158,35.572397,Verified Location
+810,OK202,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1980,,-97.595158,35.572397,Verified Location
+853,OK245,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1977,,-97.595158,35.572397,Verified Location
+826,OK218,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1979,,-97.595158,35.572397,Verified Location
+843,OK235,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1978,,-97.595158,35.572397,Verified Location
+876,OK268,Lake Heffner,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1973,,-97.595158,35.572397,Verified Location
+695,OK087,Le Cabaret,(Disco),3248 E. Admiral Place,Tulsa,OK,"(P),(YC),(D),(S),(*)",Bars/Clubs,1977,NA,-95.9404143,36.1607713,Google Verified Location
+676,OK068,Le Cabaret,(Disco),3248 E. Admiral Pl.,Tulsa,OK,"(P),(YC),(D),(S),(*)",Bars/Clubs,1978,NA,-95.9404143,36.1607713,Google Verified Location
+654,OK046,Le Cabaret,(Disco),3248 E. Admiral Place,Tulsa,OK,"(P),(*),(YC),(D),(S)",Bars/Clubs,1979,NA,-95.9404143,36.1607713,Google Verified Location
+628,OK020,Le Caberet,(Disco),3248 E. Admiral Place,Tulsa,OK,"(P),(D),(S)",Bars/Clubs,1980,NA,-95.9404143,36.1607713,Google Verified Location
+775,OK167,Lee's Club,(may have other name by now),3011 Pasco,Oklahoma City,OK,"(S),(P)",Bars/Clubs,1970,NA,-97.5233237,35.5000405,Google Verified Location
+790,OK182,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,"(P),(*)",Bars/Clubs,1966,NA,-97.5234707,35.4999537,Google Verified Location
+783,OK175,Lee's Lounge,,3009 Paseo,Oklahoma City,OK,(*),Bars/Clubs,1969,NA,-97.5234707,35.4999537,Google Verified Location
+797,OK189,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,"(P),(*)",Bars/Clubs,1965,NA,-97.5234707,35.4999537,Google Verified Location
+776,OK168,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,(*),Bars/Clubs,1970,NA,-97.5234707,35.4999537,Google Verified Location
+787,OK179,Lee's Lounge,,3009 Pasco,Oklahoma City,OK,"(*),(P)",Bars/Clubs,1968,NA,-97.5234707,35.4999537,Google Verified Location
+919,OK311,Lido,,May Ave,Oklahoma City,OK,,Bars/Clubs,1968,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+918,OK310,Lilo,,May Ave,Oklahoma City,OK,,Bars/Clubs,1969,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+886,OK278,M.C.C.,,3rd & Elgin,Tulsa,OK,,Church,1976,,-95.986347,36.155065,Verified Location
+818,OK210,Main St. - betw. 4th & 9th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1980,,-95.854931,36.274365,Verified Location
+880,OK272,Main St. bet. 4th & 10th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1973,,-95.854931,36.274365,Verified Location
+848,OK240,Main St. betw. 4th & 9th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1978,,-95.854931,36.274365,Verified Location
+860,OK252,Main St. betw. 4th & 9th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1977,,-95.854931,36.274365,Verified Location
+831,OK223,Main St. betw. 4th & 9th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1979,,-95.854931,36.274365,Verified Location
+874,OK266,Main St. betw. 4th & 10th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1974,,-95.854931,36.274365,Verified Location
+870,OK262,Main St. betw. 4th & 10th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1975,,-95.854931,36.274365,Verified Location
+867,OK259,Main St. betw. 4th & 10th,,,Tulsa,OK,Cruisy Area,Cruising Areas,1976,,-95.854931,36.274365,Verified Location
+817,OK209,Mall by downtown library,,,Lawton,OK,Cruisy Area,Cruising Areas,1979,,-98.394546,34.608311,Verified Location
+801,OK193,Mall by downtown library,,,Lawton,OK,Cruisy Area,Cruising Areas,1980,,-98.394546,34.608311,Verified Location
+711,OK103,Mama Dee's,,1108 S. Lewis,Tulsa,OK,"(G),(D),(*)",Bars/Clubs,1976,NA,-95.9585404,36.1474792,Google Verified Location
+898,OK290,Merry-Go-Round,(Beer),27th & Walker,Oklahoma City,OK,(PT),Bars/Clubs,1979,,-97.521019,35.497452,Verified Location
+703,OK095,Mirror Lounge,(some B),1311 N. Hudson,Oklahoma City,OK,"(M),(RT),(B)",Bars/Clubs,1976,NA,-97.5193262,35.4817409,Google Verified Location
+687,OK079,Mirror Lounge,(Some B),1311 N. Hudson,Oklahoma City,OK,"(M),(RT),(B)",Bars/Clubs,1977,NA,-97.5193262,35.4817409,Google Verified Location
+812,OK204,N.E. St. U. - Student Union Basement T-Room,,,Talequah,OK,Cruisy Area,Cruising Areas,1980,,-94.965902,35.920968,Verified Location
+828,OK220,N.E. St. U. - Student Union Basement T-Room,,,Talequah,OK,Cruisy Area,Cruising Areas,1979,,-94.965902,35.920968,Verified Location
+846,OK238,N.E. St. Univ - Student Union -basement T-Room,,,Talequah,OK,Cruisy Area,Cruising Areas,1978,,-94.965902,35.920968,Verified Location
+655,OK047,New Plantation,(Disco) (Some G) (Cruisy),4724 E. 51st,Tulsa,OK,"(*),(D),(YC),(G)","Cruising Areas,Bars/Clubs",1979,NA,-95.9241325,36.0894903,Google Verified Location
+756,OK148,Nextdoor Club,,4108 N. May,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1972,NA,-97.5653484,35.5131441,Google Verified Location
+765,OK157,Nextdoor Club,,4108 N. May,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1971,NA,-97.5653484,35.5131441,Google Verified Location
+777,OK169,Nextdoor Club,,4108 N. May,Oklahoma City,OK,"(P),(D),(*)",Bars/Clubs,1970,NA,-97.5653484,35.5131441,Google Verified Location
+834,OK226,North & Keystone Ramps,,,Tulsa,OK,"(AYOR),Cruisy Area",Cruising Areas,1979,,-95.992775,36.153982,Location could not be verified. General city or location coordinates used.
+849,OK241,North & Keystone Ramps,,,Tulsa,OK,"Cruisy Area,(AYOR)",Cruising Areas,1978,,-95.992775,36.153982,Location could not be verified. General city or location coordinates used.
+859,OK251,North & Keystone Ramps,,,Tulsa,OK,Cruisy Area,Cruising Areas,1977,,-95.992775,36.153982,Location could not be verified. General city or location coordinates used.
+811,OK203,O.S.U - Student Union - 2nd floor T-Rooms,,,Stillwater,OK,Cruisy Area,Cruising Areas,1980,,-97.073722,36.127024,Verified Location
+829,OK221,O.S.U. - Student Union - 2nd floor T-Rooms,,,Stillwater,OK,Cruisy Area,Cruising Areas,1979,,-97.073722,36.127024,Verified Location
+845,OK237,O.S.U. Student Union - 2nd Floor T-Room,,,Stillwater,OK,Cruisy Area,Cruising Areas,1978,,-97.073722,36.127024,Verified Location
+696,OK088,Old Eighth Day,,1108 S. Lewis,Tulsa,OK,(G),Bars/Clubs,1977,NA,-95.9585404,36.1474792,Google Verified Location
+717,OK109,On Stage,,915 So. Main St.,Tulsa,OK,"(P),(D),(BYOB),(*)",Bars/Clubs,1973,NA,-95.9879362,36.1474685,Google Verified Location
+702,OK094,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,(G),Bars/Clubs,1976,NA,-97.5334611,35.4845315,Google Verified Location
+665,OK057,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,"(OC),(G)",Bars/Clubs,1978,NA,-97.5334611,35.4845315,Google Verified Location
+686,OK078,Our Place,,1302 N.W. Pennsylvania ,Oklahoma City,OK,"(OC),(G)",Bars/Clubs,1977,NA,-97.5334611,35.4845315,Google Verified Location
+641,OK033,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,"(OC),(G)",Bars/Clubs,1979,NA,-97.5334611,35.4845315,Google Verified Location
+617,OK009,Our Place,('Drags'),1302 N.W. Pennsylvania,Oklahoma City,OK,"(OC),(L)",Bars/Clubs,1980,NA,-97.5334611,35.4845315,Google Verified Location
+740,OK132,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,(G),Bars/Clubs,1973,NA,-97.5334611,35.4845315,Google Verified Location
+723,OK115,Our Place,,1302 N.W. Pennsylvania ,Oklahoma City,OK,(G),Bars/Clubs,1975,NA,-97.5334611,35.4845315,Google Verified Location
+727,OK119,Our Place,,1302 N.W. Pennsylvania,Oklahoma City,OK,"(G),(*)",Bars/Clubs,1974,NA,-97.5334611,35.4845315,Google Verified Location
+640,OK032,Outrigger,(Disco) Viva Motel,2460 N.W. 39th St.,Oklahoma City,OK,"(YC),(D),(WE),(*)",Bars/Clubs,1979,NA,-97.5570115,35.5109835,Google Verified Location
+750,OK142,Outside Inn,(Some G),1108 S. Lewis,Tulsa,OK,"(D),(G)",Bars/Clubs,1975,NA,-95.9585404,36.1474792,Google Verified Location
+883,OK275,Pete & Bob's,,1st & Elwood,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1968,,-95.996831,36.153657,Verified Location
+884,OK276,Pete & Bob's,,1st & Elwood,Tulsa,OK,"(D),(P),(*)",Bars/Clubs,1966,,-95.996831,36.153657,Verified Location
+885,OK277,Pete & Bob's,,1st & Elwood,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1965,,-95.996831,36.153657,Verified Location
+629,OK021,Pete's Taj Mahal,(Open days),10 W. 7th St.,Tulsa,OK,"(P),(D)",Bars/Clubs,1980,NA,-95.9891418,36.1495153,Google Verified Location
+656,OK048,Pete's Taj Mahal,(Open days),10 W. 7th St.,Tulsa,OK,"(P),(*),(D)",Bars/Clubs,1979,NA,-95.9891418,36.1495153,Google Verified Location
+630,OK022,Playroom,(W & levi) (Some SM) (go go boys),2252 E. 11th,Tulsa,OK,"(W),(SM),(PT),(D)",Bars/Clubs,1980,NA,-95.9586339,36.14751,Google Verified Location
+728,OK120,Pow Wow,,1601 N. MacArthur,Oklahoma City,OK,(G),Bars/Clubs,1974,NA,-97.620126,35.4851529,Google Verified Location
+677,OK069,Queen of Hearts,(Disco) (2 bars),911 So. Main,Tulsa,OK,"(R),(S),(D),(*)","Bars/Clubs,Restaurant",1978,NA,-95.9879545,36.147504,Google Verified Location
+778,OK170,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1970,NA,-97.5656651,35.5132493,Google Verified Location
+784,OK176,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1969,NA,-97.5656651,35.5132493,Google Verified Location
+766,OK158,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1971,NA,-97.5656651,35.5132493,Google Verified Location
+757,OK149,Red Lion,,4110 N. May,Oklahoma City,OK,(*),Bars/Clubs,1972,NA,-97.5656651,35.5132493,Google Verified Location
+741,OK133,Red Lion - Nextdoor Club,,6714 N. Western,Oklahoma City,OK,"(D),(*)",Bars/Clubs,1973,NA,-97.5295051,35.5402617,Google Verified Location
+729,OK121,Red Lion - Nextdoor Club,,6714 N. Western,Oklahoma City,OK,"(D),(*)",Bars/Clubs,1974,NA,-97.5295051,35.5402617,Google Verified Location
+704,OK096,Road House,(Some G) (WE only),9625 N.E. Expressway,Oklahoma City,OK,"(M),(S),(D),(G),(WE)",Bars/Clubs,1976,NA,-97.5024192,35.5307807,Google Verified Location
+724,OK116,Road House,(Some G) (weekends only),9625 N.E. Expressway,Oklahoma City,OK,"(M),(S),(D),(G)",Bars/Clubs,1975,NA,-97.5024192,35.5307807,Google Verified Location
+666,OK058,Road House,(Some G) (Open Thur. thru Sun. only),9625 N.E. Expressway,Oklahoma City,OK,"(M),(S),(D),(G)",Bars/Clubs,1978,NA,-97.6809889,35.5775493,Google Verified Location
+642,OK034,Road House,"(Some B, G) (Open WE sometimes)",9625 N.E. Expressway,Oklahoma City,OK,"(B),(G),(S),(D),(WE)",Bars/Clubs,1979,NA,-97.5024192,35.5307807,Google Verified Location
+742,OK134,Road House,(Open weekends only apparently - difficult to find without a guide),"9625 N.E. Expressway, (Hwy. 66)",Oklahoma City,OK,,Bars/Clubs,1973,NA,-97.684728,35.5152099,Google Verified Location
+688,OK080,Road House,(Some G) (Open Thur. thru Sun. only),9625 N.E. Expressway,Oklahoma City,OK,"(M),(S),(D),(G)",Bars/Clubs,1977,NA,-97.5024192,35.5307807,Google Verified Location
+643,OK035,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,(G),Bars/Clubs,1979,NA,-97.5824266,35.4929901,Google Verified Location
+725,OK117,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1975,NA,-97.5824266,35.4929901,Google Verified Location
+730,OK122,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1974,NA,-97.5824266,35.4929901,Google Verified Location
+705,OK097,Rusty Nail,,3616 N.W. 23rd St.,Oklahoma City,OK,"(P),(YC),(D),(*)",Bars/Clubs,1976,NA,-97.5824266,35.4929901,Google Verified Location
+904,OK296,Saddle Club,,Inquire Locally,Lawton,OK,,Bars/Clubs,1974,,-98.395929,34.603567,Location could not be verified. General city or location coordinates used.
+906,OK298,Saddle Club,,Inquire Locally,Lawton,OK,,Bars/Clubs,1973,,-98.395929,34.603567,Location could not be verified. General city or location coordinates used.
+667,OK059,Sans Souci Club,(Disco) (Also C-AH),2320 No. Villa,Oklahoma City,OK,"(YC),(D),(S),(R),(C),(AH),(*)","Bars/Clubs,Restaurant",1978,NA,-97.556556,35.4920057,Google Verified Location
+913,OK305,Schoobee Doo,,inquire locally,Tulsa,OK,,Bars/Clubs,1969,,-95.992775,36.153982,Location could not be verified. General city or location coordinates used.
+781,OK173,Schoobee Doo,,800 S. Sheridan,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1970,NA,-95.9045661,36.1506555,Google Verified Location
+881,OK273,Sheridan St. - bet. Broadway & Walker,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1972,,-97.518106,35.466403,Verified Location
+824,OK216,Sheridan St. - betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1979,,-97.518106,35.466403,Verified Location
+806,OK198,Sheridan St. - betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1980,,-97.518106,35.466403,Verified Location
+840,OK232,Sheridan St. - betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1978,,-97.518106,35.466403,Verified Location
+865,OK257,Sheridan St. Betw. Broadway & Walker,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1976,,-97.518106,35.466403,Verified Location
+855,OK247,Sheridan St. betw. Walker & Broadway,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1977,,-97.518106,35.466403,Verified Location
+877,OK269,"Sheridan St., bet. Broadway & Walker",,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1973,,-97.518106,35.466403,Verified Location
+873,OK265,"Sheridan St., betw. Broadway & Walker",,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1974,,-97.518106,35.466403,Verified Location
+869,OK261,"Sheridan St., betw. Broadway & Walker",,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1975,,-97.518106,35.466403,Verified Location
+659,OK051,Sunshine Shop,,302 White St.,Norman,OK,(M),Bars/Clubs,1978,NA,-97.4438071,35.212796,Google Verified Location
+634,OK026,Sunshine Shop,,302 White St.,Norman,OK,(M),Bars/Clubs,1979,NA,-97.4438071,35.212796,Google Verified Location
+610,OK002,Sunshine Shop,,302 White St.,Norman,OK,(M),Bars/Clubs,1980,NA,-97.4438071,35.212796,Google Verified Location
+798,OK190,Sweet Leona's ,,231 W. Sheridan,Oklahoma City,OK,(M),Bars/Clubs,1965,NA,-97.5169502,35.4664184,Google Verified Location
+735,OK127,Taj Mahal,,10 W. 7th St.,Tulsa,OK,"(P),(YC),(D),(BYOB),(*)",Bars/Clubs,1974,NA,-95.9891418,36.1495153,Google Verified Location
+887,OK279,Taj Mahal,,7th St. nr Main,Tulsa,OK,,Bars/Clubs,1965,,-95.989034,36.149552,Verified Location
+888,OK280,Taj Mahal,,7th St. nr. Main,Tulsa,OK,(*),Bars/Clubs,1968,,-95.989034,36.149552,Verified Location
+751,OK143,Taj Mahal,,10 W. 7th St.,Tulsa,OK,(P),Bars/Clubs,1975,NA,-95.9891418,36.1495153,Google Verified Location
+697,OK089,Taj Mahal,,10 W. 7th St.,Tulsa,OK,"(P),(YC),(D),(*)",Bars/Clubs,1977,NA,-95.9891418,36.1495153,Google Verified Location
+712,OK104,Taj Mahal,,10 W. 7th St. ,Tulsa,OK,"(P),(D),(*)",Bars/Clubs,1976,NA,-95.9891418,36.1495153,Google Verified Location
+889,OK281,Taj Mahal,,7th St. nr. Main,Tulsa,OK,,Bars/Clubs,1966,,-95.989034,36.149552,Verified Location
+678,OK070,Taj Mahal,,10 W. 7th St. ,Tulsa,OK,"(P),(YC),(D),(*)",Bars/Clubs,1978,NA,-95.9891418,36.1495153,Google Verified Location
+782,OK174,Taj Mahal,,10 W. 7th,Tulsa,OK,,Bars/Clubs,1970,NA,-95.9891418,36.1495153,Google Verified Location
+771,OK163,Taj Mahol,,10 W. 7th St.,Tulsa,OK,"(BYOB),(*)",Bars/Clubs,1971,NA,-95.9891418,36.1495153,Google Verified Location
+761,OK153,Taj Mahol,,10 W. 7th St.,Tulsa,OK,"(BYOB),(*)",Bars/Clubs,1972,NA,-95.9891418,36.1495153,Google Verified Location
+718,OK110,Taj Mahol,,10 W. 7th St.,Tulsa,OK,"(P),(YC),(D),(BYOB),(*)",Bars/Clubs,1973,NA,-95.9891418,36.1495153,Google Verified Location
+786,OK178,Taj mahol,,10 W. 7th,Tulsa,OK,,Bars/Clubs,1969,NA,-95.9891418,36.1495153,Google Verified Location
+698,OK090,Tiffany,(Disco),915 S. Main St.,Tulsa,OK,"(P),(YC),(D),(S),(*)",Bars/Clubs,1977,NA,-95.9879362,36.1474685,Google Verified Location
+920,OK312,Tiger Room,,N. Lewis,Tulsa,OK,,Bars/Clubs,1969,,-95.992775,36.153982,Location could not be verified. General city or location coordinates used.
+921,OK313,Tony's,(Some L),Wilshire & May,Oklahoma City,OK,"(S),(L)",Bars/Clubs,1980,,-97.565566,35.551117,Verified Location
+618,OK010,Torch Club,,2125 N. W. 39th St.,Oklahoma City,OK,"(P),(L)",Bars/Clubs,1980,NA,-97.5485709,35.5115942,Google Verified Location
+644,OK036,Torch Club,(Some G) ('Twinkies') (go go boys - looks promising),2125 N.W. 39th St.,Oklahoma City,OK,"(P),(G)",Bars/Clubs,1979,NA,-97.5485709,35.5115942,Google Verified Location
+706,OK098,Truck Stop,(Looks promising) (Next to Circa Club),2203 N.W. 39th St.,Oklahoma City,OK,"(C),(R),(AH)",Restaurant,1976,NA,-97.5494566,35.5116627,Google Verified Location
+752,OK144,Tulsa Book Mart,,620 S. Main,Tulsa,OK,,Book Store,1975,NA,-95.989438,36.1496769,Google Verified Location
+713,OK105,Tulsa Book Mart,,620 S. Main,Tulsa,OK,,Book Store,1976,NA,-95.989438,36.1496769,Google Verified Location
+821,OK213,U. of OK - McFarland Library - basement T-Room,,,Norman,OK,Cruisy Area,Cruising Areas,1979,,-97.445714,35.205894,Verified Location
+838,OK230,U. of OK - McFarland Library - basement T-Room,,,Norman,OK,Cruisy Area,Cruising Areas,1978,,-97.445714,35.205894,Verified Location
+802,OK194,U. of OK - McFarland Library Basement T-Rooms,,,Norman,OK,Cruisy Area,Cruising Areas,1980,,-97.445714,35.205894,Verified Location
+820,OK212,U. of OK. - Student Union - basement T-Room,,,Norman,OK,Cruisy Area,Cruising Areas,1979,,-97.445714,35.205894,Verified Location
+839,OK231,U. of OK. - Student Union - basement T-Room,,,Norman,OK,Cruisy Area,Cruising Areas,1978,,-97.445714,35.205894,Verified Location
+805,OK197,U. of OK. - Student Union - Basement T-Rooms,,,Norman,OK,Cruisy Area,Cruising Areas,1980,,-97.445714,35.205894,Verified Location
+833,OK225,U. of Tulsa - Student Union Bldg. - Basement T-Room,,,Tulsa,OK,Cruisy Area,Cruising Areas,1979,,-95.946075,36.152053,Verified Location
+851,OK243,U. of Tulsa - Student Union Bldg. - Basement T-Room,,,Tulsa,OK,Cruisy Area,Cruising Areas,1978,,-95.946075,36.152053,Verified Location
+814,OK206,U. of Tulsa Student Union Bldg. - Basement T-Room,,,Tulsa,OK,Cruisy Area,Cruising Areas,1980,,-95.946075,36.152053,Verified Location
+835,OK227,Union 76 Truck Stop - I-244 at E. 161st St,,,Tulsa,OK,Cruisy Area,Cruising Areas,1979,,-95.992775,36.153982,Location could not be verified. General city or location coordinates used.
+847,OK239,Union 76 Truck Stop - I-244 at E. 161st St,,,Tulsa,OK,Cruisy Area,Cruising Areas,1978,,-95.992775,36.153982,Location could not be verified. General city or location coordinates used.
+825,OK217,Union 76 Truck Stop - on I-40,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1979,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+841,OK233,Union 76 Truck Stop - on I-40,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1978,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+809,OK201,Union 76 Truck Stop - on I-44,,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1980,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+857,OK249,"Union 76 Truck Stop, I-40 at Morgan Rd.",,,Oklahoma City,OK,Cruisy Area,Cruising Areas,1977,,-97.516428,35.46756,Location could not be verified. General city or location coordinates used.
+896,OK288,Unique,,23rd at Dewey,Oklahoma City,OK,(R),"Bars/Clubs,Restaurant",1973,,-97.522514,35.493334,Verified Location
+791,OK183,Urn,,6915 N. Classen,Oklahoma City,OK,(P),Bars/Clubs,1966,NA,-97.5275589,35.5415739,Google Verified Location
+779,OK171,Voodoo,,2345 N.W. 12th St.,Oklahoma City,OK,"(G),(P),(D)",Bars/Clubs,1970,NA,-97.5532304,35.4818471,Google Verified Location
+767,OK159,Voodoo,,2345 N.W. 12th St.,Oklahoma City,OK,"(G),(P),(D)",Bars/Clubs,1971,NA,-97.5532304,35.4818471,Google Verified Location
+660,OK052,Walter Mitty's Bar,,573 University Blvd.,Norman,OK,"(M),(YC),(*)",Bars/Clubs,1978,NA,-97.445301,35.211954,Google Verified Location
+611,OK003,Walter Mitty's Bar,,573 University Blvd.,Norman,OK,"(M),(YC),(*)",Bars/Clubs,1980,NA,-97.445301,35.211954,Google Verified Location
+635,OK027,Walter Mitty's Bar,,573 University Blvd.,Norman,OK,"(M),(YC),(*)",Bars/Clubs,1979,NA,-97.445301,35.211954,Google Verified Location
+762,OK154,What's It To Ya,,2405 E. Admiral ,Tulsa,OK,(G),Bars/Clubs,1972,NA,-95.9577954,36.1600127,Google Verified Location
+772,OK164,What's It To Ya,,2405 E. Admiral ,Tulsa,OK,(G),Bars/Clubs,1971,NA,-95.9577954,36.1600127,Google Verified Location
+803,OK195,White St. - nr. the U. of OK.,,,Norman,OK,Cruisy Area,Cruising Areas,1980,,-97.444652,35.213017,Verified Location
+822,OK214,White St. - nr. the U. of OK.,,,Norman,OK,Cruisy Area,Cruising Areas,1979,,-97.444652,35.213017,Verified Location
+837,OK229,White St. - nr. the U. of OK.,,,Norman,OK,Cruisy Area,Cruising Areas,1978,,-97.444652,35.213017,Verified Location
+631,OK023,Whittier Square Books,('Flicks' & arcade),1 N. Lewis,Tulsa,OK,(M),Bars/Clubs,1980,NA,-95.9579717,36.1600042,Google Verified Location
+657,OK049,Whittier Square Books,('Flicks' & arcade),1 N. Lewis,Tulsa,OK,(M),Book Store,1979,NA,-95.9579717,36.1600042,Google Verified Location
+807,OK199,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-97.580252,35.503952,Verified Location
+871,OK263,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Area,(HOT)",Cruising Areas,1975,,-97.580252,35.503952,Verified Location
+823,OK215,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Area,(HOT)",Cruising Areas,1979,,-97.580252,35.503952,Verified Location
+844,OK236,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Area,(HOT)",Cruising Areas,1978,,-97.580252,35.503952,Verified Location
+856,OK248,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Area,(HOT)",Cruising Areas,1977,,-97.580252,35.503952,Verified Location
+863,OK255,Will Rogers Park,,,Oklahoma City,OK,"Cruisy Area,(HOT)",Cruising Areas,1976,,-97.580252,35.503952,Verified Location
+852,OK244,Woodward Park,,,Tulsa,OK,Cruisy Area,Cruising Areas,1978,,-95.973661,36.131925,Verified Location
+861,OK253,Woodward Park,,,Tulsa,OK,Cruisy Area,Cruising Areas,1977,,-95.973661,36.131925,Verified Location
+836,OK228,Woodward Park,,,Tulsa,OK,Cruisy Area,Cruising Areas,1979,,-95.973661,36.131925,Verified Location
+816,OK208,Woodward Park,,,Tulsa,OK,Cruisy Area,Cruising Areas,1980,,-95.973661,36.131925,Verified Location
+632,OK024,Zebra,,720 S. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1980,NA,-95.9889231,36.1487383,Google Verified Location
+699,OK091,Zebra,,720 S. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1977,NA,-95.9889231,36.1487383,Google Verified Location
+658,OK050,Zebra,,720 S. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1979,NA,-95.9889231,36.1487383,Google Verified Location
+679,OK071,Zebra ,,720 So. Main,Tulsa,OK,"(P),(OC),(W)",Bars/Clubs,1978,NA,-95.9889231,36.1487383,Google Verified Location
+753,OK145,Zebra Lounge,,721 S. Main,Tulsa,OK,"(P),(YC)",Bars/Clubs,1975,NA,-95.9889314,36.1493552,Google Verified Location
+736,OK128,Zebra Lounge,,721 S. Main,Tulsa,OK,"(P),(BYOB)",Bars/Clubs,1974,NA,-95.9889314,36.1493552,Google Verified Location
+714,OK106,Zebra Lounge,,721 S. Main,Tulsa,OK,"(P),(YC),(*)",Bars/Clubs,1976,NA,-95.9889314,36.1493552,Google Verified Location
+719,OK111,Zebra Lounge,,720 S. Main St. ,Tulsa,OK,"(P),(BYOB)",Bars/Clubs,1973,NA,-95.9889231,36.1487383,Google Verified Location
+900,OK292,Zipper's,(Disco) (Cl. Mon & Tues.),33rd & Yale,Tulsa,OK,"(YC),(D)",Bars/Clubs,1980,,-95.922485,36.115654,Verified Location

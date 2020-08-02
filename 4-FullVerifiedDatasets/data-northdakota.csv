@@ -1,71 +1,71 @@
-ID,title,description,streetaddress,city,state,Year,amenityfeatures,type,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-ND001,Embers Lounge,Town House Motor Inn,,Bismarck,ND,1980,(M),"Bars/Clubs,Hotels",checked,,2/14/2020 5:08pm,3/28/2020 4:45pm,", ND",-100.774521,46.824754,unclear_coded_by_hand,Found
-ND002,Flame,,403 Roberts St.,Fargo,ND,1980,"(M),(WE)",Bars/Clubs,NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"403 Roberts St., Fargo, ND",-96.7888939,46.8800967,"403 roberts st n, fargo, nd 58102, usa",Geocoded
-ND003,Pink Pussycat,,401 N. P Ave.,Fargo,ND,1980,(M),Bars/Clubs,NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"401 N. P Ave., Fargo, ND",-96.785004,46.876224,"401 northern pacific ave, fargo, nd 58102, usa",Geocoded
-ND004,Roundup Bar,,409 N. P Ave.,Fargo,ND,1980,(M),Bars/Clubs,NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"409 N. P Ave., Fargo, ND",-96.785254,46.876223,"409 northern pacific ave, fargo, nd 58102, usa",Geocoded
-ND005,Torchlight,"(Some W, YC) (Inquire locally)",,Fargo,ND,1980,"(M),(YC),(W),(E),(AYOR)",Bars/Clubs,checked,,2/14/2020 5:08pm,3/28/2020 4:47pm,", ND",-96.789803,46.877186,unclear_coded_by_hand,General Coordinates Used
-ND006,Broadway,(nights),,Fargo,ND,1980,Cruisy Area,Cruising Areas,checked,General coordinates used for Broadway N,2/14/2020 5:08pm,3/28/2020 4:43pm,", ND",-96.787519,46.901696,unclear_coded_by_hand,General Coordinates Used
-ND007,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,1980,(M),"Bars/Clubs,Hotels",NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"23 N. 3rd. , Grand Forks, ND",-97.031908,47.9254943,"23 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND008,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,1980,(M),"Bars/Clubs,Hotels",NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"14 S.E. 1st , Minot, ND",-101.291994,48.2218862,"1st st se & 14th ave se, minot, nd 58701, usa",Geocoded
-ND009,Embers Lounge,Town House Motor Inn,,Bismarck,ND,1979,(M),"Bars/Clubs,Hotels",checked,,2/14/2020 5:08pm,3/28/2020 4:45pm,", ND",-100.774521,46.824754,unclear_coded_by_hand,Found
-ND010,Stockman's,,1st & Villard,Dickenson,ND,1979,"(M),(W)",Bars/Clubs,checked,,2/14/2020 5:08pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND011,Adult Book Store & Cinema X ,(Cruisy),417 N.P. Ave.,Fargo,ND,1979,,"Book Store,Theatre,Cruising Areas",NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"417 N.P. Ave., Fargo, ND",-96.7856448,46.876164,"417 northern pacific ave, fargo, nd 58102, usa",Geocoded
-ND012,Flame,,403 Roberts St.,Fargo,ND,1979,"(M),(W)",Bars/Clubs,NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"403 Roberts St., Fargo, ND",-96.7888939,46.8800967,"403 roberts st n, fargo, nd 58102, usa",Geocoded
-ND013,Broadway,(nights),,Fargo,ND,1979,Cruisy Area,Cruising Areas,checked,General coordinates used for Broadway N,2/14/2020 5:08pm,3/28/2020 4:43pm,", ND",-96.787519,46.901696,unclear_coded_by_hand,General Coordinates Used
-ND014,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,1979,(M),"Bars/Clubs,Hotels",NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"23 N. 3rd. , Grand Forks, ND",-97.031908,47.9254943,"23 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND015,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,1979,(M),"Bars/Clubs,Hotels",NA,NA,2/14/2020 5:08pm,2/15/2020 6:42pm,"14 S.E. 1st , Minot, ND",-101.291994,48.2218862,"1st st se & 14th ave se, minot, nd 58701, usa",Geocoded
-ND016,Embers Lounge,Town House Motor Inn,,Bismarck,ND,1978,(M),"Bars/Clubs,Hotels",checked,,2/14/2020 5:08pm,3/28/2020 4:45pm,", ND",-100.774521,46.824754,unclear_coded_by_hand,Found
-ND017,Stockman's,,1st & Villard,Dickenson,ND,1978,(M),Bars/Clubs,checked,,2/14/2020 5:08pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND018,Adult Book Store & Cinema X ,,417 N.P. Ave.,Fargo,ND,1978,,"Book Store,Theatre",NA,NA,2/14/2020 5:20pm,2/15/2020 6:42pm,"417 N.P. Ave., Fargo, ND",-96.7856448,46.876164,"417 northern pacific ave, fargo, nd 58102, usa",Geocoded
-ND019,Chatterbox,,501 N.P. Ave.,Fargo,ND,1978,(M),Bars/Clubs,NA,NA,2/14/2020 5:20pm,2/15/2020 6:42pm,"501 N.P. Ave., Fargo, ND",-96.7861605,46.8759279,"501 northern pacific ave, fargo, nd 58102, usa",Geocoded
-ND020,Flame,,408 Robert St.,Fargo,ND,1978,(M),Bars/Clubs,NA,NA,2/14/2020 5:20pm,2/15/2020 6:42pm,"408 Robert St., Fargo, ND",-96.7891617,46.8805779,"408 roberts st n, fargo, nd 58102, usa",Geocoded
-ND021,Red Ram,,Broadway & 2nd Ave,Fargo,ND,1978,(M),Bars/Clubs,checked,,2/14/2020 5:20pm,3/28/2020 4:45pm,"Broadway & 2nd Ave, ND",-96.787487,46.878049,unclear_coded_by_hand,Found
-ND022,Broadway,(nights),,Fargo,ND,1978,Cruisy Area,Cruising Areas,checked,General coordinates used for Broadway N,2/14/2020 5:20pm,3/28/2020 4:43pm,", ND",-96.787519,46.901696,unclear_coded_by_hand,General Coordinates Used
-ND023,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,1978,(M),"Bars/Clubs,Hotels",NA,NA,2/14/2020 5:20pm,2/15/2020 6:42pm,"23 N. 3rd. , Grand Forks, ND",-97.031908,47.9254943,"23 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND024,Chateau Guest Ranch,"(May to Sept. only) Box 177-A, Leonard, N.D. 58052",,Leonard,ND,1978,(H),Hotels,checked,,2/14/2020 5:24pm,3/28/2020 4:43pm,", ND",-97.245647,46.651915,unclear_coded_by_hand,General Coordinates Used
-ND025,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,1978,(M),"Bars/Clubs,Hotels",NA,NA,2/14/2020 5:24pm,2/15/2020 6:42pm,"14 S.E. 1st , Minot, ND",-101.291994,48.2218862,"1st st se & 14th ave se, minot, nd 58701, usa",Geocoded
-ND026,Embers Lounge,Town House Motor Inn,,Bismarck,ND,1977,(M),Bars/Clubs,checked,,2/14/2020 5:24pm,3/28/2020 4:45pm,", ND",-100.774521,46.824754,unclear_coded_by_hand,Found
-ND027,Stockman's,,1st & Villard,Dickenson,ND,1977,(M),Bars/Clubs,checked,,2/14/2020 5:24pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND028,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,1977,"(M),(W)","Bars/Clubs,Hotels",NA,NA,2/14/2020 5:24pm,2/15/2020 6:42pm,"123 Roberts St., Fargo, ND",-96.7893648,46.8777375,"123 roberts st n, fargo, nd 58102, usa",Geocoded
-ND029,Take Five,(Some G) (Best bet in the Dakotas!),520 2nd Ave. N.,Fargo,ND,1977,"(D),(G),(*)",Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"520 2nd Ave. N., Fargo, ND",-96.7867504,46.8778064,"520 2nd ave n, fargo, nd 58102, usa",Geocoded
-ND030,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,1977,(M),"Hotels,Bars/Clubs",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"23 N. 3rd. , Grand Forks, ND",-97.031908,47.9254943,"23 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND031,Chateau Guest Ranch,"(Looks promising - open May - Spet. only) Write: Box 177-A Leonard, N.D. 58052",,Leonard,ND,1977,(H),Hotels,checked,,2/15/2020 6:00pm,3/28/2020 4:43pm,", ND",-97.245647,46.651915,unclear_coded_by_hand,General Coordinates Used
-ND032,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,1977,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"14 S.E. 1st , Minot, ND",-101.291994,48.2218862,"1st st se & 14th ave se, minot, nd 58701, usa",Geocoded
-ND033,Stockman's,,1st & Villard,Dickenson,ND,1976,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND034,Spur,,13th & Villard,Dickenson,ND,1976,,Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND035,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,1976,"(M),(W)","Bars/Clubs,Hotels",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"123 Roberts St., Fargo, ND",-96.7893648,46.8777375,"123 roberts st n, fargo, nd 58102, usa",Geocoded
-ND036,Take Five,,205 Broadway,Fargo,ND,1976,,Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND037,Rayan Hotel,,23 N. 3rd.,Grand Forks,ND,1976,,"Hotels,Bars/Clubs",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"23 N. 3rd., Grand Forks, ND",-97.031908,47.9254943,"23 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND038,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,1976,(M),"Hotels,Bars/Clubs",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"14 S.E. 1st , Minot, ND",-101.291994,48.2218862,"1st st se & 14th ave se, minot, nd 58701, usa",Geocoded
-ND039,Spur,,13th & Villard,Dickenson,ND,1975,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND040,Stockman's,,1st & Villard,Dickenson,ND,1975,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND041,Five Spot,(bar only),205 Broadway,Fargo,ND,1975,(M),Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND042,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,1975,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"123 Roberts St., Fargo, ND",-96.7893648,46.8777375,"123 roberts st n, fargo, nd 58102, usa",Geocoded
-ND043,River Queen,,113 N. 3rd,Grand Forks,ND,1975,(M),Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"113 N. 3rd, Grand Forks, ND",-97.0319312,47.9259496,"113 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND044,Spur,,13th & Villard,Dickenson,ND,1974,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND045,Stockman's,,1st & Villard,Dickenson,ND,1974,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND046,Five Spot,(bar only),205 Broadway,Fargo,ND,1974,(M),Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND047,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,1974,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"123 Roberts St., Fargo, ND",-96.7893648,46.8777375,"123 roberts st n, fargo, nd 58102, usa",Geocoded
-ND048,River Queen,,113 N. 3rd,Grand Forks,ND,1974,(M),Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"113 N. 3rd, Grand Forks, ND",-97.0319312,47.9259496,"113 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND049,Spur,,13th & Villard,Dickenson,ND,1973,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND050,Stockman's,,1st & Villard,Dickenson,ND,1973,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND051,Five Spot,(bar area only),205 Broadway,Fargo,ND,1973,(M),Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND052,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,1973,(M),"Hotels,Bars/Clubs",NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"123 Roberts St., Fargo, ND",-96.7893648,46.8777375,"123 roberts st n, fargo, nd 58102, usa",Geocoded
-ND053,River Queen,,113 N. 3rd,Grand Forks,ND,1973,(M),Bars/Clubs,NA,NA,2/15/2020 6:00pm,2/15/2020 6:42pm,"113 N. 3rd, Grand Forks, ND",-97.0319312,47.9259496,"113 n 3rd st, grand forks, nd 58203, usa",Geocoded
-ND054,Spur,,13th & Villard,Dickenson,ND,1972,(M),Bars/Clubs,checked,,2/15/2020 6:00pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND055,Stockman's,,1st & Villard,Dickenson,ND,1972,(M),Bars/Clubs,checked,,2/15/2020 6:24pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND056,Five Spot,(bar area only),205 Broadway,Fargo,ND,1972,(M),Bars/Clubs,NA,NA,2/15/2020 6:24pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND057,Spur,,13th & Villard,Dickenson,ND,1971,(M),Bars/Clubs,checked,,2/15/2020 6:24pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND058,Stockman's,,1st & Villard,Dickenson,ND,1971,(M),Bars/Clubs,checked,,2/15/2020 6:26pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND059,Five Spot,(bar area only),205 Broadway,Fargo,ND,1971,(M),Bars/Clubs,NA,NA,2/15/2020 6:26pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND060,Clarence Parker Hotel Bar,,14 S. E. 1st,Minot,ND,1971,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 6:28pm,2/15/2020 6:42pm,"14 S. E. 1st, Minot, ND",-101.291994,48.2218862,"1st st se & 14th ave se, minot, nd 58701, usa",Geocoded
-ND061,Spur,,13th & Villard,Dickenson,ND,1970,(M),Bars/Clubs,checked,,2/15/2020 6:28pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND062,Stockman's,,1st & Villard,Dickenson,ND,1970,(M),Bars/Clubs,checked,,2/15/2020 6:29pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND063,Five Spot,(bar area only),205 Broadway,Fargo,ND,1970,(M),Bars/Clubs,NA,NA,2/15/2020 6:29pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND064,Clarence Parker Hotel Bar,,14 S.E. 1st,Minot,ND,1970,(M),"Bars/Clubs,Hotels",NA,NA,2/15/2020 6:29pm,2/15/2020 6:42pm,"14 S.E. 1st, Minot, ND",-101.291994,48.2218862,"1st st se & 14th ave se, minot, nd 58701, usa",Geocoded
-ND065,Spur,,13th & Villard,Dickenson,ND,1969,(M),Bars/Clubs,checked,,2/15/2020 6:29pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND066,Stockman's,,1st & Villard,Dickenson,ND,1969,(M),Bars/Clubs,checked,,2/15/2020 6:30pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND067,Five Spot,(bar area only),205 Broadway,Fargo,ND,1969,(M),Bars/Clubs,NA,NA,2/15/2020 6:30pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
-ND068,Spur,,13th & Villard,Dickenson,ND,1968,(M),Bars/Clubs,checked,,2/15/2020 6:30pm,3/28/2020 4:46pm,"13th & Villard, ND",-102.805167,46.879138,unclear_coded_by_hand,Found
-ND069,Stockman's,,1st & Villard,Dickenson,ND,1968,(M),Bars/Clubs,checked,,2/15/2020 6:31pm,3/28/2020 4:46pm,"1st & Villard, ND",-102.787036,46.878827,unclear_coded_by_hand,Found
-ND070,Five Spot,(bar area only),205 Broadway,Fargo,ND,1968,(M),Bars/Clubs,NA,NA,2/15/2020 6:31pm,2/15/2020 6:42pm,"205 Broadway, Fargo, ND",-96.7873669,46.878083,"205 broadway n, fargo, nd 58102, usa",Geocoded
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+987,ND011,Adult Book Store & Cinema X ,(Cruisy),417 N.P. Ave.,Fargo,ND,,"Book Store,Theatre,Cruising Areas",1979,NA,-96.7856448,46.876164,Google Verified Location
+994,ND018,Adult Book Store & Cinema X ,,417 N.P. Ave.,Fargo,ND,,"Book Store,Theatre",1978,NA,-96.7856448,46.876164,Google Verified Location
+989,ND013,Broadway,(nights),,Fargo,ND,Cruisy Area,Cruising Areas,1979,General coordinates used for Broadway N,-96.787519,46.901696,Location could not be verified. General city or location coordinates used.
+998,ND022,Broadway,(nights),,Fargo,ND,Cruisy Area,Cruising Areas,1978,General coordinates used for Broadway N,-96.787519,46.901696,Location could not be verified. General city or location coordinates used.
+982,ND006,Broadway,(nights),,Fargo,ND,Cruisy Area,Cruising Areas,1980,General coordinates used for Broadway N,-96.787519,46.901696,Location could not be verified. General city or location coordinates used.
+1000,ND024,Chateau Guest Ranch,"(May to Sept. only) Box 177-A, Leonard, N.D. 58052",,Leonard,ND,(H),Hotel,1978,,-97.245647,46.651915,Location could not be verified. General city or location coordinates used.
+1007,ND031,Chateau Guest Ranch,"(Looks promising - open May - Spet. only) Write: Box 177-A Leonard, N.D. 58052",,Leonard,ND,(H),Hotel,1977,,-97.245647,46.651915,Location could not be verified. General city or location coordinates used.
+995,ND019,Chatterbox,,501 N.P. Ave.,Fargo,ND,(M),Bars/Clubs,1978,NA,-96.7861605,46.8759279,Google Verified Location
+984,ND008,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1980,NA,-101.291994,48.2218862,Google Verified Location
+1008,ND032,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1977,NA,-101.291994,48.2218862,Google Verified Location
+1001,ND025,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1978,NA,-101.291994,48.2218862,Google Verified Location
+991,ND015,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1979,NA,-101.291994,48.2218862,Google Verified Location
+1014,ND038,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Hotel,Bars/Clubs",1976,NA,-101.291994,48.2218862,Google Verified Location
+1040,ND064,Clarence Parker Hotel Bar,,14 S.E. 1st,Minot,ND,(M),"Bars/Clubs,Hotel",1970,NA,-101.291994,48.2218862,Google Verified Location
+1036,ND060,Clarence Parker Hotel Bar,,14 S. E. 1st,Minot,ND,(M),"Bars/Clubs,Hotel",1971,NA,-101.291994,48.2218862,Google Verified Location
+992,ND016,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),"Bars/Clubs,Hotel",1978,,-100.774521,46.824754,Verified Location
+1002,ND026,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),Bars/Clubs,1977,,-100.774521,46.824754,Verified Location
+985,ND009,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),"Bars/Clubs,Hotel",1979,,-100.774521,46.824754,Verified Location
+977,ND001,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),"Bars/Clubs,Hotel",1980,,-100.774521,46.824754,Verified Location
+1022,ND046,Five Spot,(bar only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1974,NA,-96.7873669,46.878083,Google Verified Location
+1046,ND070,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1968,NA,-96.7873669,46.878083,Google Verified Location
+1043,ND067,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1969,NA,-96.7873669,46.878083,Google Verified Location
+1027,ND051,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1973,NA,-96.7873669,46.878083,Google Verified Location
+1017,ND041,Five Spot,(bar only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1975,NA,-96.7873669,46.878083,Google Verified Location
+1035,ND059,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1971,NA,-96.7873669,46.878083,Google Verified Location
+1039,ND063,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1970,NA,-96.7873669,46.878083,Google Verified Location
+1032,ND056,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1972,NA,-96.7873669,46.878083,Google Verified Location
+996,ND020,Flame,,408 Robert St.,Fargo,ND,(M),Bars/Clubs,1978,NA,-96.7891617,46.8805779,Google Verified Location
+988,ND012,Flame,,403 Roberts St.,Fargo,ND,"(M),(W)",Bars/Clubs,1979,NA,-96.7888939,46.8800967,Google Verified Location
+978,ND002,Flame,,403 Roberts St.,Fargo,ND,"(M),(WE)",Bars/Clubs,1980,NA,-96.7888939,46.8800967,Google Verified Location
+1028,ND052,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,(M),"Hotel,Bars/Clubs",1973,NA,-96.7893648,46.8777375,Google Verified Location
+1018,ND042,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,(M),"Bars/Clubs,Hotel",1975,NA,-96.7893648,46.8777375,Google Verified Location
+1023,ND047,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,(M),"Bars/Clubs,Hotel",1974,NA,-96.7893648,46.8777375,Google Verified Location
+1004,ND028,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,"(M),(W)","Bars/Clubs,Hotel",1977,NA,-96.7893648,46.8777375,Google Verified Location
+1011,ND035,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,"(M),(W)","Bars/Clubs,Hotel",1976,NA,-96.7893648,46.8777375,Google Verified Location
+979,ND003,Pink Pussycat,,401 N. P Ave.,Fargo,ND,(M),Bars/Clubs,1980,NA,-96.785004,46.876224,Google Verified Location
+1013,ND037,Rayan Hotel,,23 N. 3rd.,Grand Forks,ND,,"Hotel,Bars/Clubs",1976,NA,-97.031908,47.9254943,Google Verified Location
+999,ND023,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Bars/Clubs,Hotel",1978,NA,-97.031908,47.9254943,Google Verified Location
+1006,ND030,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Hotel,Bars/Clubs",1977,NA,-97.031908,47.9254943,Google Verified Location
+990,ND014,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Bars/Clubs,Hotel",1979,NA,-97.031908,47.9254943,Google Verified Location
+983,ND007,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Bars/Clubs,Hotel",1980,NA,-97.031908,47.9254943,Google Verified Location
+997,ND021,Red Ram,,Broadway & 2nd Ave,Fargo,ND,(M),Bars/Clubs,1978,,-96.787487,46.878049,Verified Location
+1019,ND043,River Queen,,113 N. 3rd,Grand Forks,ND,(M),Bars/Clubs,1975,NA,-97.0319312,47.9259496,Google Verified Location
+1024,ND048,River Queen,,113 N. 3rd,Grand Forks,ND,(M),Bars/Clubs,1974,NA,-97.0319312,47.9259496,Google Verified Location
+1029,ND053,River Queen,,113 N. 3rd,Grand Forks,ND,(M),Bars/Clubs,1973,NA,-97.0319312,47.9259496,Google Verified Location
+980,ND004,Roundup Bar,,409 N. P Ave.,Fargo,ND,(M),Bars/Clubs,1980,NA,-96.785254,46.876223,Google Verified Location
+1044,ND068,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1968,,-102.805167,46.879138,Verified Location
+1010,ND034,Spur,,13th & Villard,Dickenson,ND,,Bars/Clubs,1976,,-102.805167,46.879138,Verified Location
+1030,ND054,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1972,,-102.805167,46.879138,Verified Location
+1037,ND061,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1970,,-102.805167,46.879138,Verified Location
+1020,ND044,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1974,,-102.805167,46.879138,Verified Location
+1015,ND039,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1975,,-102.805167,46.879138,Verified Location
+1025,ND049,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1973,,-102.805167,46.879138,Verified Location
+1033,ND057,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1971,,-102.805167,46.879138,Verified Location
+1041,ND065,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1969,,-102.805167,46.879138,Verified Location
+986,ND010,Stockman's,,1st & Villard,Dickenson,ND,"(M),(W)",Bars/Clubs,1979,,-102.787036,46.878827,Verified Location
+1038,ND062,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1970,,-102.787036,46.878827,Verified Location
+1016,ND040,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1975,,-102.787036,46.878827,Verified Location
+1031,ND055,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1972,,-102.787036,46.878827,Verified Location
+1003,ND027,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1977,,-102.787036,46.878827,Verified Location
+1026,ND050,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1973,,-102.787036,46.878827,Verified Location
+993,ND017,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1978,,-102.787036,46.878827,Verified Location
+1021,ND045,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1974,,-102.787036,46.878827,Verified Location
+1034,ND058,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1971,,-102.787036,46.878827,Verified Location
+1009,ND033,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1976,,-102.787036,46.878827,Verified Location
+1042,ND066,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1969,,-102.787036,46.878827,Verified Location
+1045,ND069,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1968,,-102.787036,46.878827,Verified Location
+1012,ND036,Take Five,,205 Broadway,Fargo,ND,,Bars/Clubs,1976,NA,-96.7873669,46.878083,Google Verified Location
+1005,ND029,Take Five,(Some G) (Best bet in the Dakotas!),520 2nd Ave. N.,Fargo,ND,"(D),(G),(*)",Bars/Clubs,1977,NA,-96.7867504,46.8778064,Google Verified Location
+981,ND005,Torchlight,"(Some W, YC) (Inquire locally)",,Fargo,ND,"(M),(YC),(W),(E),(AYOR)",Bars/Clubs,1980,,-96.789803,46.877186,Location could not be verified. General city or location coordinates used.

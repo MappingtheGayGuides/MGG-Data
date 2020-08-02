@@ -1,180 +1,180 @@
-ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-NE001,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1965,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE002,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1965,NA,NA,NA,NA,"505 S. 16th St. , Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE003,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1965,NA,NA,NA,NA,"1917 Cuming, Omaha, NE",-95.9420559,41.267644,"1917 cuming st, omaha, ne 68102, usa",Geocoded
-NE004,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1966,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE005,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1966,NA,NA,NA,NA,"505 S. 16th St. , Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE006,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1966,NA,NA,NA,NA,"1917 Cuming, Omaha, NE",-95.9420559,41.267644,"1917 cuming st, omaha, ne 68102, usa",Geocoded
-NE007,Diamond Bar,,516 S. 16th St.,Omaha,NE,(RT),Bars/Clubs,1968,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE008,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1968,NA,NA,NA,NA,"505 S. 16th St. , Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE009,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1968,NA,NA,NA,NA,"1917 Cuming, Omaha, NE",-95.9420559,41.267644,"1917 cuming st, omaha, ne 68102, usa",Geocoded
-NE010,Diamond Bar,,516 S. 16th St.,Omaha,NE,(RT),Bars/Clubs,1969,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE011,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1969,NA,NA,NA,NA,"505 S. 16th St. , Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE012,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1969,NA,NA,NA,NA,"1917 Cuming, Omaha, NE",-95.9420559,41.267644,"1917 cuming st, omaha, ne 68102, usa",Geocoded
-NE013,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1970,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE014,Cave,(basement of Hill Hotel),505 S. 16th St.,Omaha,NE,"(YC),(D),(*)","Bars/Clubs,Hotels",1970,NA,NA,NA,NA,"505 S. 16th St., Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE015,Diamond Bar,,516 S. 16th St. ,Omaha,NE,(RT),,1970,NA,NA,NA,NA,"516 S. 16th St. , Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE016,Ron-De-Voo,HIll Hotel,505 S. 16th St.,Omaha,NE,(M),"Bars/Clubs,Hotels",1970,NA,NA,NA,NA,"505 S. 16th St., Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE017,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1971,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE018,Cave,(basement of Hill Hotel),505 S. 16th St.,Omaha,NE,"(YC),(D),(*)","Bars/Clubs,Hotels",1971,NA,NA,NA,NA,"505 S. 16th St., Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE019,Diamond Bar,,516 S. 16th St. ,Omaha,NE,(RT),,1971,NA,NA,NA,NA,"516 S. 16th St. , Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE020,Ron-De-Voo,HIll Hotel,505 S. 16th St.,Omaha,NE,(M),"Bars/Clubs,Hotels",1971,NA,NA,NA,NA,"505 S. 16th St., Omaha, NE",-95.9368843,41.2550803,"505 s 16th st, omaha, ne 68102, usa",Geocoded
-NE021,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1972,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE022,Cave Club,(downstairs - 'Under the Hill' hotel),506 S. 16th St.,Omaha,NE,(*),"Bars/Clubs,Hotels",1972,NA,NA,NA,NA,"506 S. 16th St., Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE023,Cottonwood Room,(downstairs - thru lobby - circular bar only) Radisson-Blackstone Hotel,302 S. 36th St.,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1972,NA,NA,NA,NA,"302 S. 36th St., Omaha, NE",-95.9666939,41.2574716,"302 s 36th st, omaha, ne 68131, usa",Geocoded
-NE024,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1972,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE025,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1973,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE026,Cave Club,(downstairs - 'Under the Hill' hotel),506 S. 16th St.,Omaha,NE,"(YC),(HIP),(D),(*)","Bars/Clubs,Hotels",1973,NA,NA,NA,NA,"506 S. 16th St., Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE027,Cottonwood Room,(downstairs - thru lobby - circular bar only) Radisson-Blackstone Hotel,302 S. 36th St.,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1973,NA,NA,NA,NA,"302 S. 36th St., Omaha, NE",-95.9666939,41.2574716,"302 s 36th st, omaha, ne 68131, usa",Geocoded
-NE028,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1973,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE029,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1974,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE030,Cave Club,(downstairs - 'Under the Hill' hotel),506 S. 16th St.,Omaha,NE,"(YC),(HIP),(D),(*)","Bars/Clubs,Hotels",1974,NA,NA,NA,NA,"506 S. 16th St., Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE031,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1974,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE032,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1975,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE033,Cave Club,(downstairs - 'Under the Hill' Hotel . . . Upstairs bar is (M)),506 S. 16th St.,Omaha,NE,"(HIP),(YC),(D),(*),(M)","Bars/Clubs,Hotels",1975,NA,NA,NA,NA,"506 S. 16th St., Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE034,Diamond Bar,,516 S. 16th St.,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1975,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE035,Swingers,,209 N. 16th St.,Omaha,NE,"(M),(YC),(D)",Bars/Clubs,1975,NA,NA,NA,NA,"209 N. 16th St., Omaha, NE",-95.9371725,41.2607319,"209 n 16th st, omaha, ne 68102, usa",Geocoded
-NE036,Casey's Other Place,,1020 'P' St.,Lincoln,NE,"(M),(HIP),(YC),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"1020 'P' St., Lincoln, NE",-96.706581,40.814757,"1020 p st, lincoln, ne 68508, usa",Geocoded
-NE037,Holiday Inn - N.E. Bar,,5250 Cornhusker Hwy.,Lincoln,NE,(M),"Hotels,Bars/Clubs",1976,NA,NA,NA,NA,"5250 Cornhusker Hwy., Lincoln, NE",-96.6488626,40.8558023,"5250 cornhusker hwy, lincoln, ne 68504, usa",Geocoded
-NE038,St. George & The Dragon,,1023 'O' St.,Lincoln,NE,"(M),(YC),(D),(E)",Bars/Clubs,1976,NA,NA,NA,NA,"1023 'O' St., Lincoln, NE",-96.7063285,40.8132902,"1023 o st, lincoln, ne 68508, usa",Geocoded
-NE039,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1976,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE040,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1976,NA,NA,NA,NA,"111 S. 29th St., Lincoln, NE",-96.6801461,40.8130959,"111 s 29th st, lincoln, ne 68510, usa",Geocoded
-NE041,Cave Club,(downstairs - 'Under the Hill' Hotel . . . Upstairs bar is (M)),506 S. 16th St.,Omaha,NE,"(HIP),(YC),(D),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"506 S. 16th St., Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE042,Diamond Bar,"(Nebraska's friendliest bar has new enlarged facilities) (some W, SM)",516 S. 16th St.,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE043,Barrymore's,(In alley),124 N. 13th St.,Lincoln,NE,(M),Bars/Clubs,1979,NA,NA,NA,NA,"124 N. 13th St., Lincoln, NE",-96.7022006,40.8142299,"124 n 13th st, lincoln, ne 68508, usa",Geocoded
-NE044,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C)",Restaurant,1979,NA,NA,NA,NA,"111 S. 29th St., Lincoln, NE",-96.6801461,40.8130959,"111 s 29th st, lincoln, ne 68510, usa",Geocoded
-NE045,Casey's Other Place,,1020 'P' Street,Lincoln,NE,"(M),(HIP),(YC),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"1020 'P' Street, Lincoln, NE",-96.706581,40.814757,"1020 p st, lincoln, ne 68508, usa",Geocoded
-NE046,Holiday Inn - N.E. Bar,,5250 Cornhusker Highway,Lincoln,NE,(M),"Bars/Clubs,Hotels",1977,NA,NA,NA,NA,"5250 Cornhusker Highway, Lincoln, NE",-96.6488626,40.8558023,"5250 cornhusker hwy, lincoln, ne 68504, usa",Geocoded
-NE047,St. George & The Dragon,,1023 'O' Street,Lincoln,NE,"(M),(D),(E),(YC)",Bars/Clubs,1977,NA,NA,NA,NA,"1023 'O' Street, Lincoln, NE",-96.7063285,40.8132902,"1023 o st, lincoln, ne 68508, usa",Geocoded
-NE048,Spigot,,304 South 13th Street,Lincoln,NE,(M),Bars/Clubs,1977,NA,NA,NA,NA,"304 South 13th Street, Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE049,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1977,NA,NA,NA,NA,"111 S. 29th St., Lincoln, NE",-96.6801461,40.8130959,"111 s 29th st, lincoln, ne 68510, usa",Geocoded
-NE050,Cave Club,('Under the HIll' Hotel -- upstairs bar is (M)),506 S. 16th Street,Omaha,NE,"(YC),(D),(*)","Hotels,Bars/Clubs",1977,NA,NA,NA,NA,"506 S. 16th Street, Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE051,Diamond Bar,(Nebraska's friendliest -- good afternoons) (Some SM),516 S. 16th,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"516 S. 16th, Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE052,Stage Door,(Most promising new look in years)(Disco),1512 Howard,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"1512 Howard, Omaha, NE",-95.9362371,41.2558359,"1512 howard st, omaha, ne 68102, usa",Geocoded
-NE053,Casey's Other Place,,1020 'P' St,Lincoln,NE,"(M),(HIP),(YC),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"1020 'P' St, Lincoln, NE",-96.706581,40.814757,"1020 p st, lincoln, ne 68508, usa",Geocoded
-NE054,Holiday Inn - N.E. Bar,,5250 Cornhusker Hwy.,Lincoln,NE,(M),"Hotels,Bars/Clubs",1978,NA,NA,NA,NA,"5250 Cornhusker Hwy., Lincoln, NE",-96.6488626,40.8558023,"5250 cornhusker hwy, lincoln, ne 68504, usa",Geocoded
-NE055,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1978,NA,NA,NA,NA,"304 S. 13th St., Lincoln, NE",-96.7024624,40.8111392,"304 s 13th st, lincoln, ne 68508, usa",Geocoded
-NE056,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1978,NA,NA,NA,NA,"111 S. 29th St., Lincoln, NE",-96.6801461,40.8130959,"111 s 29th st, lincoln, ne 68510, usa",Geocoded
-NE057,Cave Club,('Under the Hill' Hotel - upstairs bar is (M)(RT)) (Many G),506 S. 16th St.,Omaha,NE,"(G),(D),(WE),(*),(M),(RT)","Bars/Clubs,Hotels",1978,NA,NA,NA,NA,"506 S. 16th St., Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE058,Diamond Bar,(Some SM) (Good afternoons),516 S. 16th,Omaha,NE,"(W),(SM)",Bars/Clubs,1978,NA,NA,NA,NA,"516 S. 16th, Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE059,Stage Door,(Disco),1512 Howard,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1978,NA,NA,NA,NA,"1512 Howard, Omaha, NE",-95.9362371,41.2558359,"1512 howard st, omaha, ne 68102, usa",Geocoded
-NE060,Zodiac Helath Spa,(Hurrah! Nebraska's 1st Baths!),4011 Farnum St. ,Omaha,NE,(*),Baths,1978,NA,NA,NA,NA,"4011 Farnum St. , Omaha, NE",-95.9738604,41.2576057,"4011 farnam st, omaha, ne 68131, usa",Geocoded
-NE061,Paintin Place,(Military),1500 J.F.K. Drive,Bellevue,NE,(M),Bars/Clubs,1979,NA,NA,NA,NA,"1500 J.F.K. Drive, Bellevue, NE",-95.9132446,41.1454423,"1500 john f kennedy dr, bellevue, ne 68005, usa",Geocoded
-NE062,Cave Club,(Many G) ('Under the Hill' Hotel - upstairs Bar is M-RT),506 S. 16th St.,Omaha,NE,"(G),(D),(M),(RT)","Hotels,Bars/Clubs",1979,NA,NA,NA,NA,"506 S. 16th St., Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE063,Diamond Bar,"(Some W, SM) (Good Afternoons)",516 S. 16th St.,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1979,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE064,Stage Door,"(Some W, SM - upstairs) (Disco)",1512 Howard,Omaha,NE,"(YC),(W),(SM),(PT)",Bars/Clubs,1979,NA,NA,NA,NA,"1512 Howard, Omaha, NE",-95.9362371,41.2558359,"1512 howard st, omaha, ne 68102, usa",Geocoded
-NE065,Paintin' Place,(Military),1500 J.F.K. Drive,Bellevue,NE,(M),Bars/Clubs,1980,NA,NA,NA,NA,"1500 J.F.K. Drive, Bellevue, NE",-95.9132446,41.1454423,"1500 john f kennedy dr, bellevue, ne 68005, usa",Geocoded
-NE066,Bud's Tavern,(Disco),106 W. 4th St.,Grand Island,NE,"(*),(S),(D),(YC)",Bars/Clubs,1980,NA,NA,NA,NA,"106 W. 4th St., Grand Island, NE",-98.3422555,40.9284455,"106 w 4th st, grand island, ne 68801, usa",Geocoded
-NE067,Red Baron,(Disco),2623 S. Locust,Grand Island,NE,(M),Bars/Clubs,1980,NA,NA,NA,NA,"2623 S. Locust, Grand Island, NE",-98.339761,40.8964432,"2623 s locust st, grand island, ne 68801, usa",Geocoded
-NE068,Barrymore's,(In alley),124 N. 13th St.,Lincoln,NE,(M),Bars/Clubs,1980,NA,NA,NA,NA,"124 N. 13th St., Lincoln, NE",-96.7022006,40.8142299,"124 n 13th st, lincoln, ne 68508, usa",Geocoded
-NE069,Dirt Cheap,(Head shop & Books),227 N. 11th St.,Lincoln,NE,,"Book Store,Business",1980,NA,NA,NA,NA,"227 N. 11th St., Lincoln, NE",-96.7055069,40.8150553,"227 n 11th st, lincoln, ne 68508, usa",Geocoded
-NE070,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C)",Restaurant,1980,NA,NA,NA,NA,"111 S. 29th St., Lincoln, NE",-96.6801461,40.8130959,"111 s 29th st, lincoln, ne 68510, usa",Geocoded
-NE071,Cave Club,(Many L)('Under the HIll' Hotel)(May be closing)(Upstairs Bar is M - RT),506 S. 16th St. ,Omaha,NE,"(L),(D),(M),(RT)","Bars/Clubs,Hotels",1980,NA,NA,NA,NA,"506 S. 16th St. , Omaha, NE",-95.9372041,41.25517,"506 s 16th st, omaha, ne 68102, usa",Geocoded
-NE072,Diamond Bar,"(Some W, SM) (Good afternoons)",516 S. 16th St.,Omaha,NE,"(W),(SM)",Bars/Clubs,1980,NA,NA,NA,NA,"516 S. 16th St., Omaha, NE",-95.9375613,41.2547427,"516 s 16th st, omaha, ne 68102, usa",Geocoded
-NE073,Stage Door,"(Disco) (Some W, SM - upstairs)",1512 Howard,Omaha,NE,"(YC),(D),(W),(SM),(PT)",Bars/Clubs,1980,NA,NA,NA,NA,"1512 Howard, Omaha, NE",-95.9362371,41.2558359,"1512 howard st, omaha, ne 68102, usa",Geocoded
-NE074,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotels",1965,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE075,Blackstone Hotel Bar,,36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1965,checked,,NA,NA,"36th & Farnum, NE",-95.966305,41.257773,unclear_coded_by_hand,Found
-NE076,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotels",1966,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE077,Blackstone Hotel Bar,,36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1966,checked,,NA,NA,"36th & Farnum, NE",-95.966305,41.257773,unclear_coded_by_hand,Found
-NE078,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotels",1968,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE079,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1968,checked,,NA,NA,"36th & Farnum, NE",-95.966305,41.257773,unclear_coded_by_hand,Found
-NE080,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotels",1969,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE081,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1969,checked,,NA,NA,"36th & Farnum, NE",-95.966305,41.257773,unclear_coded_by_hand,Found
-NE082,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotels",1970,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE083,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1970,checked,,NA,NA,"36th & Farnum, NE",-95.966305,41.257773,unclear_coded_by_hand,Found
-NE084,Your Place,,North Side of Harney bet. 15th & 16th,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1970,checked,approximate,NA,NA,"North Side of Harney bet. 15th & 16th, NE",-95.936841,41.256523,unclear_coded_by_hand,Found
-NE085,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotels",1971,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE086,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotels",1971,checked,,NA,NA,"36th & Farnum, NE",-95.966305,41.257773,unclear_coded_by_hand,Found
-NE087,Your Place,,North Side of Harney bet. 15th & 16th,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1971,checked,approximate,NA,NA,"North Side of Harney bet. 15th & 16th, NE",-95.936841,41.256523,unclear_coded_by_hand,Found
-NE088,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotels",1972,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE089,Jack & Jill Coffee Shop,(after hours) (Hill hotel),16th & Howard,Omaha,NE,(C),"Restaurant,Hotels",1972,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE090,Elmwood Park - West End,,,Omaha,NE,Cruisy Areas,Crusing Areas,1972,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE091,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Areas,Crusing Areas,1972,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE092,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotels",1973,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE093,Jack & Jill Coffee Shop,(after hours) (Hill hotel),16th & Howard,Omaha,NE,(C),"Restaurant,Hotels",1973,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE094,Elmwood Park - West End,,,Omaha,NE,Cruisy Areas,Crusing Areas,1973,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE095,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Areas,Crusing Areas,1973,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE096,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotels",1974,checked,,NA,NA,"13th & M, NE",-96.703014,40.811693,unclear_coded_by_hand,Found
-NE097,Den,(adjoins Cave Club) Hill Hotel,16th & Howard,Omaha,NE,"(P),(D)","Bars/Clubs,Hotels",1974,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE098,Jack & Jill Coffee Shop,(after hours) (Hill hotel),16th & Howard,Omaha,NE,(C),"Restaurant,Hotels",1974,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE099,Elmwood Park - West End,,,Omaha,NE,Cruisy Areas,Crusing Areas,1974,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE100,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Areas,Crusing Areas,1974,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE101,Twelfth Street Garage,In the Glass menagerie,12th & 'Q' Sts,Lincoln,NE,"(M),(HIP),(YC)",Bars/Clubs,1975,checked,,NA,NA,"12th & 'Q' Sts, NE",-96.70402,40.815852,unclear_coded_by_hand,Found
-NE102,State Capitol grounds,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", NE",-96.700654,40.807242,unclear_coded_by_hand,Found
-NE103,U. of Nebraska Library,(3rd floor),,Lincoln,NE,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE104,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(C),(R),(AH)","Restaurant,Hotels",1975,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE105,Elmwood Park - West End,,,Omaha,NE,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE106,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Areas,Crusing Areas,1975,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE107,'The Mall' - Crossroads Shopping Center,,,Omaha,NE,Cruisy Areas,Crusing Areas,1975,checked,,NA,NA,", NE",-96.027118,41.260784,unclear_coded_by_hand,Found
-NE108,Apartment,Cornhusker Hotel,13th & M Sts.,Lincoln,NE,(M),"Hotels,Bars/Clubs",1976,checked,,NA,NA,"13th & M Sts., NE",-96.702613,40.811397,unclear_coded_by_hand,Found
-NE109,Antelope Park,(T-Rooms),,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.674452,40.795618,unclear_coded_by_hand,Found
-NE110,State Capitol Grounds,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", NE",-96.700654,40.807242,unclear_coded_by_hand,Found
-NE111,U. of Neb. - Gay Action Group,Sun. Nite. Coffee Clutch 9-12,333 N. 13th St.,Lincoln,NE,Cruisy Areas,"Crusing Areas,Organizations",1976,checked,,NA,NA,"333 N. 13th St., NE",-96.703084,40.816208,unclear_coded_by_hand,Found
-NE112,U. of Neb. - Library (3rd Floor),,,Lincoln,NE,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE113,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(M),(C),(R),(AH)","Restaurant,Hotels",1976,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE114,Elmwood Park - West End,,,Omaha,NE,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE115,Howard & Jackson Sts. betw. 16th & 18th,,,Omaha,NE,Cruisy Areas,Crusing Areas,1976,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE116,Lake Merritt Beach (summers),,,Omaha,NE,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", NE",-95.926844,41.056826,unclear_coded_by_hand,Found
-NE117,Westroads Shopping Center Mall,,,Omaha,NE,Cruisy Areas,Crusing Areas,1976,checked,,NA,NA,", NE",-96.068305,41.265563,unclear_coded_by_hand,Found
-NE118,Apartment,"(Downstairs ""john"") Cornhusker Hotel",13th & 'M' Streets,Lincoln,NE,(M),Bars/Clubs,1977,checked,,NA,NA,"13th & 'M' Streets, NE",-96.702613,40.811397,unclear_coded_by_hand,Found
-NE119,Apartment,(Cruisy T-Rooms)Cornhusker Hotel,13th & 'M' Sts,Lincoln,NE,(M),"Crusing Areas,Bars/Clubs,Hotels",1979,checked,,NA,NA,"13th & 'M' Sts, NE",-96.702613,40.811397,unclear_coded_by_hand,Found
-NE120,Scott's Pancake House,,13th & 'L' Sts.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1979,checked,,NA,NA,"13th & 'L' Sts., NE",-96.70262,40.8103,unclear_coded_by_hand,Found
-NE121,State Capitol Grounds,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", NE",-96.700654,40.807242,unclear_coded_by_hand,Found
-NE122,University of Nebraska - Gay Action Group,"Sunday nigh ""coffee clutch"" 9-12",333 N. 13th Street,Lincoln,NE,Cruisy Areas,"Crusing Areas,Organizations",1977,checked,,NA,NA,"333 N. 13th Street, NE",-96.703084,40.816208,unclear_coded_by_hand,Found
-NE123,University of Nebraska - Library (3rd floor),,,Lincoln,NE,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE124,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(M),(R)","Restaurant,Hotels",1977,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE125,Olympic Restaurant & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1977,checked,,NA,NA,"14th & Farnum, NE",-95.93452,41.257594,unclear_coded_by_hand,Found
-NE126,Elmwood Park,weekends,,Omaha,NE,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE127,Howard & Jackson Streets -- between 16th & 18th,,,Omaha,NE,Cruisy Areas,Crusing Areas,1977,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE128,Lake Merritt Beach,(Summers),,Omaha,NE,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", NE",-95.926844,41.056826,unclear_coded_by_hand,Found
-NE129,Westwood Shopping Center Mall,,,Omaha,NE,Cruisy Areas,Crusing Areas,1977,checked,,NA,NA,", NE",-96.068305,41.265563,unclear_coded_by_hand,Found
-NE130,Apartment,(Cruisy T-Room downstairs) Cornhusker Hotel,13th & 'M' Sts,Lincoln,NE,(M),"Hotels,Bars/Clubs,Crusing Areas",1978,checked,,NA,NA,"13th & 'M' Sts, NE",-96.702613,40.811397,unclear_coded_by_hand,Found
-NE131,State Capitol Grounds,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", NE",-96.700654,40.807242,unclear_coded_by_hand,Found
-NE132,U. of Nebraska - Gay Action Group,Sunday night 'coffee clutch',333 N. 14th St.,Lincoln,NE,Cruisy Areas,"Crusing Areas,Organizations",1978,checked,,NA,NA,"333 N. 14th St., NE",-96.701142,40.816193,unclear_coded_by_hand,Found
-NE133,U. of Nebraska Library - 3rd floor T-Room,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE134,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(M),(R)","Hotels,Bars/Clubs",1978,checked,,NA,NA,"16th & Howard, NE",-95.93719,41.255339,unclear_coded_by_hand,Found
-NE135,Olympic Restaurant & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1978,checked,,NA,NA,"14th & Farnum, NE",-95.93452,41.257594,unclear_coded_by_hand,Found
-NE136,Carter Lake,,,Omaha,NE,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", NE",-95.912075,41.302128,unclear_coded_by_hand,Found
-NE137,Elmwood Park,,,Omaha,NE,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE138,Howard & Jackson Sts - betw. 16th & 18th,,,Omaha,NE,Cruisy Areas,Crusing Areas,1978,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE139,Lake Merritt Beach (Summers),,,Omaha,NE,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", NE",-95.926844,41.056826,unclear_coded_by_hand,Found
-NE140,Westwoods Shopping Center Mall,,,Omaha,NE,Cruisy Areas,Crusing Areas,1978,checked,,NA,NA,", NE",-96.068305,41.265563,unclear_coded_by_hand,Found
-NE141,Pioneer Park,(T-Rooms),,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.776667,40.774424,unclear_coded_by_hand,Found
-NE142,Van Doren Park,(T-Rooms),,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE143,Bus & RR Depots,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.702595,40.813616,unclear_coded_by_hand,General Coordinates Used
-NE144,Gateway Shopping Mall,Lower concourse T-Rooms,,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.636016,40.815336,unclear_coded_by_hand,Found
-NE145,Holiday Inn Bar - N.E.,,,Lincoln,NE,Cruisy Areas,"Crusing Areas,Hotels",1979,checked,,NA,NA,", NE",-96.702595,40.813616,unclear_coded_by_hand,General Coordinates Used
-NE146,State Capitol Grounds,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.700654,40.807242,unclear_coded_by_hand,Found
-NE147,U. of N. - Gay Action Group,,333 N. 14th,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,"333 N. 14th, NE",-96.701142,40.816193,unclear_coded_by_hand,Found
-NE148,U. of N. - Love Library (3rd floor),,,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE149,U. of N. Student Union (basement) T-Rooms,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE150,Olympic Rest. & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(AH)",Restaurant,1979,checked,,NA,NA,"14th & Farnum, NE",-95.93452,41.257594,unclear_coded_by_hand,Found
-NE151,Pancake House,,Saddle Creek & Dodge,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1979,checked,,NA,NA,"Saddle Creek & Dodge, NE",-95.980409,41.259687,unclear_coded_by_hand,Found
-NE152,Carter Lake,,,Omaha,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-95.912075,41.302128,unclear_coded_by_hand,Found
-NE153,"Elmwood Park -T-Room, N.end",,,Omaha,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE154,Howard & Jackson Sts. - betw. 16th & 18th,(nights),,Omaha,NE,Cruisy Areas,Crusing Areas,1979,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE155,Lake Merritt Beach,(Summers),,Omaha,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-95.926844,41.056826,unclear_coded_by_hand,Found
-NE156,Westroads Shopping Center mall,,,Omaha,NE,Cruisy Areas,Crusing Areas,1979,checked,,NA,NA,", NE",-96.068305,41.265563,unclear_coded_by_hand,Found
-NE157,Lincoln Park,,,Grand Island,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-98.333999,40.93578,unclear_coded_by_hand,Found
-NE158,Pier Park,,,Grand Island,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-98.336962,40.917855,unclear_coded_by_hand,Found
-NE159,S. Locust St.,,,Grand Island,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-98.342012,40.926396,unclear_coded_by_hand,General Coordinates Used
-NE160,Apartment,(Cruisy - T-Rooms) Cornhusker Hotel,13th & 'M' Sts,Lincoln,NE,(M),"Bars/Clubs,Hotels",1980,checked,,NA,NA,"13th & 'M' Sts, NE",-96.702613,40.811397,unclear_coded_by_hand,Found
-NE161,Scott's Pancake House,,13th & 'L' Sts.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1980,checked,,NA,NA,"13th & 'L' Sts., NE",-96.70262,40.8103,unclear_coded_by_hand,Found
-NE162,Antelope Park,(T-Rooms),,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.674452,40.795618,unclear_coded_by_hand,Found
-NE163,Pioneer Park,(T-Rooms),,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.776667,40.774424,unclear_coded_by_hand,Found
-NE164,Van Doren Park,(T-Rooms),,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE165,Bus & RR Depots,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.702595,40.813616,unclear_coded_by_hand,General Coordinates Used
-NE166,Gateway Shopping Mall,Lower concourse T-Rooms,,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.636016,40.815336,unclear_coded_by_hand,Found
-NE167,Holiday Inn Bar - N.E.,,,Lincoln,NE,Cruisy Areas,"Crusing Areas,Hotels",1980,checked,,NA,NA,", NE",-96.702595,40.813616,unclear_coded_by_hand,General Coordinates Used
-NE168,State Capitol Grounds,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.700654,40.807242,unclear_coded_by_hand,Found
-NE169,U. of N. - Gay Action Group,,333 N. 14th,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,"333 N. 14th, NE",-96.701142,40.816193,unclear_coded_by_hand,Found
-NE170,U. of N. - Love Library (3rd floor),,,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE171,U. of N. Student Union (basement) T-Rooms,,,Lincoln,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.700476,40.820197,unclear_coded_by_hand,Found
-NE172,Olympic Rest. & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(AH)",Restaurant,1980,checked,,NA,NA,"14th & Farnum, NE",-95.93452,41.257594,unclear_coded_by_hand,Found
-NE173,Pancake House,,Saddle Creek & Dodge,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1980,checked,,NA,NA,"Saddle Creek & Dodge, NE",-95.980409,41.259687,unclear_coded_by_hand,Found
-NE174,Carter Lake,,,Omaha,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-95.912075,41.302128,unclear_coded_by_hand,Found
-NE175,Continental Bus Station - opp. Diamond Bar,,,Omaha,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-95.934503,41.256537,unclear_coded_by_hand,General Coordinates Used
-NE176,Elmwood Park - T-Room N. end,,,Omaha,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.005938,41.253694,unclear_coded_by_hand,Found
-NE177,Howard & Jackson Sts - betw. 16th & 18th (nights),,,Omaha,NE,Cruisy Areas,Crusing Areas,1980,checked,Approximate. Point for the Middle of the block radius.,NA,NA,", NE",-95.938467,41.255015,unclear_coded_by_hand,Found
-NE178,Lake Merritt Beach,,,Omaha,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-95.926844,41.056826,unclear_coded_by_hand,Found
-NE179,Westroads Shopping Center Mall,,,Omaha,NE,Cruisy Areas,Crusing Areas,1980,checked,,NA,NA,", NE",-96.068305,41.265563,unclear_coded_by_hand,Found
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+404,NE107,'The Mall' - Crossroads Shopping Center,,,Omaha,NE,Cruisy Area,Cruising Areas,1975,,-96.027118,41.260784,Verified Location
+459,NE162,Antelope Park,(T-Rooms),,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.674452,40.795618,Verified Location
+406,NE109,Antelope Park,(T-Rooms),,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.674452,40.795618,Verified Location
+416,NE119,Apartment,(Cruisy T-Rooms)Cornhusker Hotel,13th & 'M' Sts,Lincoln,NE,(M),"Cruising Areas,Bars/Clubs,Hotel",1979,,-96.702613,40.811397,Verified Location
+405,NE108,Apartment,Cornhusker Hotel,13th & M Sts.,Lincoln,NE,(M),"Hotel,Bars/Clubs",1976,,-96.702613,40.811397,Verified Location
+415,NE118,Apartment,"(Downstairs ""john"") Cornhusker Hotel",13th & 'M' Streets,Lincoln,NE,(M),"Bars/Clubs,Hotel",1977,,-96.702613,40.811397,Verified Location
+457,NE160,Apartment,(Cruisy - T-Rooms) Cornhusker Hotel,13th & 'M' Sts,Lincoln,NE,(M),"Bars/Clubs,Hotel,Cruising Areas",1980,,-96.702613,40.811397,Verified Location
+427,NE130,Apartment,(Cruisy T-Room downstairs) Cornhusker Hotel,13th & 'M' Sts,Lincoln,NE,(M),"Hotel,Bars/Clubs,Cruising Areas",1978,,-96.702613,40.811397,Verified Location
+340,NE043,Barrymore's,(In alley),124 N. 13th St.,Lincoln,NE,(M),Bars/Clubs,1979,NA,-96.7022006,40.8142299,Google Verified Location
+365,NE068,Barrymore's,(In alley),124 N. 13th St.,Lincoln,NE,(M),Bars/Clubs,1980,NA,-96.7022006,40.8142299,Google Verified Location
+372,NE075,Blackstone Hotel Bar,,36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1965,,-95.966305,41.257773,Verified Location
+378,NE081,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1969,,-95.966305,41.257773,Verified Location
+380,NE083,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1970,,-95.966305,41.257773,Verified Location
+383,NE086,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1971,,-95.966305,41.257773,Verified Location
+376,NE079,Blackstone Hotel Bar,(downstairs),36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1968,,-95.966305,41.257773,Verified Location
+374,NE077,Blackstone Hotel Bar,,36th & Farnum,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1966,,-95.966305,41.257773,Verified Location
+363,NE066,Bud's Tavern,(Disco),106 W. 4th St.,Grand Island,NE,"(*),(S),(D),(YC)",Bars/Clubs,1980,NA,-98.3422555,40.9284455,Google Verified Location
+440,NE143,Bus & RR Depots,,,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.702595,40.813616,Location could not be verified. General city or location coordinates used.
+462,NE165,Bus & RR Depots,,,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.702595,40.813616,Location could not be verified. General city or location coordinates used.
+449,NE152,Carter Lake,,,Omaha,NE,Cruisy Area,Cruising Areas,1979,,-95.912075,41.302128,Verified Location
+433,NE136,Carter Lake,,,Omaha,NE,Cruisy Area,Cruising Areas,1978,,-95.912075,41.302128,Verified Location
+471,NE174,Carter Lake,,,Omaha,NE,Cruisy Area,Cruising Areas,1980,,-95.912075,41.302128,Verified Location
+342,NE045,Casey's Other Place,,1020 'P' Street,Lincoln,NE,"(M),(HIP),(YC),(*)",Bars/Clubs,1977,NA,-96.706581,40.814757,Google Verified Location
+333,NE036,Casey's Other Place,,1020 'P' St.,Lincoln,NE,"(M),(HIP),(YC),(*)",Bars/Clubs,1976,NA,-96.706581,40.814757,Google Verified Location
+350,NE053,Casey's Other Place,,1020 'P' St,Lincoln,NE,"(M),(HIP),(YC),(*)",Bars/Clubs,1978,NA,-96.706581,40.814757,Google Verified Location
+311,NE014,Cave,(basement of Hill Hotel),505 S. 16th St.,Omaha,NE,"(YC),(D),(*)","Bars/Clubs,Hotel",1970,NA,-95.9368843,41.2550803,Google Verified Location
+315,NE018,Cave,(basement of Hill Hotel),505 S. 16th St.,Omaha,NE,"(YC),(D),(*)","Bars/Clubs,Hotel",1971,NA,-95.9368843,41.2550803,Google Verified Location
+330,NE033,Cave Club,(downstairs - 'Under the Hill' Hotel . . . Upstairs bar is (M)),506 S. 16th St.,Omaha,NE,"(HIP),(YC),(D),(*),(M)","Bars/Clubs,Hotel",1975,NA,-95.9372041,41.25517,Google Verified Location
+319,NE022,Cave Club,(downstairs - 'Under the Hill' hotel),506 S. 16th St.,Omaha,NE,(*),"Bars/Clubs,Hotel",1972,NA,-95.9372041,41.25517,Google Verified Location
+354,NE057,Cave Club,('Under the Hill' Hotel - upstairs bar is (M)(RT)) (Many G),506 S. 16th St.,Omaha,NE,"(G),(D),(WE),(*),(M),(RT)","Bars/Clubs,Hotel",1978,NA,-95.9372041,41.25517,Google Verified Location
+347,NE050,Cave Club,('Under the HIll' Hotel -- upstairs bar is (M)),506 S. 16th Street,Omaha,NE,"(YC),(D),(*)","Hotel,Bars/Clubs",1977,NA,-95.9372041,41.25517,Google Verified Location
+359,NE062,Cave Club,(Many G) ('Under the Hill' Hotel - upstairs Bar is M-RT),506 S. 16th St.,Omaha,NE,"(G),(D),(M),(RT)","Hotel,Bars/Clubs",1979,NA,-95.9372041,41.25517,Google Verified Location
+327,NE030,Cave Club,(downstairs - 'Under the Hill' hotel),506 S. 16th St.,Omaha,NE,"(YC),(HIP),(D),(*)","Bars/Clubs,Hotel",1974,NA,-95.9372041,41.25517,Google Verified Location
+368,NE071,Cave Club,(Many L)('Under the HIll' Hotel)(May be closing)(Upstairs Bar is M - RT),506 S. 16th St. ,Omaha,NE,"(L),(D),(M),(RT)","Bars/Clubs,Hotel",1980,NA,-95.9372041,41.25517,Google Verified Location
+323,NE026,Cave Club,(downstairs - 'Under the Hill' hotel),506 S. 16th St.,Omaha,NE,"(YC),(HIP),(D),(*)","Bars/Clubs,Hotel",1973,NA,-95.9372041,41.25517,Google Verified Location
+338,NE041,Cave Club,(downstairs - 'Under the Hill' Hotel . . . Upstairs bar is (M)),506 S. 16th St.,Omaha,NE,"(HIP),(YC),(D),(*)","Bars/Clubs,Hotel",1976,NA,-95.9372041,41.25517,Google Verified Location
+472,NE175,Continental Bus Station - opp. Diamond Bar,,,Omaha,NE,Cruisy Area,Cruising Areas,1980,,-95.934503,41.256537,Location could not be verified. General city or location coordinates used.
+320,NE023,Cottonwood Room,(downstairs - thru lobby - circular bar only) Radisson-Blackstone Hotel,302 S. 36th St.,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1972,NA,-95.9666939,41.2574716,Google Verified Location
+324,NE027,Cottonwood Room,(downstairs - thru lobby - circular bar only) Radisson-Blackstone Hotel,302 S. 36th St.,Omaha,NE,"(M),(PE)","Bars/Clubs,Hotel",1973,NA,-95.9666939,41.2574716,Google Verified Location
+394,NE097,Den,(adjoins Cave Club) Hill Hotel,16th & Howard,Omaha,NE,"(P),(D)","Bars/Clubs,Hotel",1974,,-95.93719,41.255339,Verified Location
+301,NE004,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1966,NA,-95.9375613,41.2547427,Google Verified Location
+328,NE031,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1974,NA,-95.9375613,41.2547427,Google Verified Location
+304,NE007,Diamond Bar,,516 S. 16th St.,Omaha,NE,(RT),Bars/Clubs,1968,NA,-95.9375613,41.2547427,Google Verified Location
+355,NE058,Diamond Bar,(Some SM) (Good afternoons),516 S. 16th,Omaha,NE,"(W),(SM)",Bars/Clubs,1978,NA,-95.9375613,41.2547427,Google Verified Location
+339,NE042,Diamond Bar,"(Nebraska's friendliest bar has new enlarged facilities) (some W, SM)",516 S. 16th St.,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1976,NA,-95.9375613,41.2547427,Google Verified Location
+316,NE019,Diamond Bar,,516 S. 16th St. ,Omaha,NE,(RT),Bars/Clubs,1971,NA,-95.9375613,41.2547427,Google Verified Location
+325,NE028,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1973,NA,-95.9375613,41.2547427,Google Verified Location
+312,NE015,Diamond Bar,,516 S. 16th St. ,Omaha,NE,(RT),Bars/Clubs,1970,NA,-95.9375613,41.2547427,Google Verified Location
+321,NE024,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1972,NA,-95.9375613,41.2547427,Google Verified Location
+331,NE034,Diamond Bar,,516 S. 16th St.,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1975,NA,-95.9375613,41.2547427,Google Verified Location
+369,NE072,Diamond Bar,"(Some W, SM) (Good afternoons)",516 S. 16th St.,Omaha,NE,"(W),(SM)",Bars/Clubs,1980,NA,-95.9375613,41.2547427,Google Verified Location
+307,NE010,Diamond Bar,,516 S. 16th St.,Omaha,NE,(RT),Bars/Clubs,1969,NA,-95.9375613,41.2547427,Google Verified Location
+298,NE001,Diamond Bar,,516 S. 16th St.,Omaha,NE,(*),Bars/Clubs,1965,NA,-95.9375613,41.2547427,Google Verified Location
+360,NE063,Diamond Bar,"(Some W, SM) (Good Afternoons)",516 S. 16th St.,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1979,NA,-95.9375613,41.2547427,Google Verified Location
+348,NE051,Diamond Bar,(Nebraska's friendliest -- good afternoons) (Some SM),516 S. 16th,Omaha,NE,"(W),(SM),(*)",Bars/Clubs,1977,NA,-95.9375613,41.2547427,Google Verified Location
+366,NE069,Dirt Cheap,(Head shop & Books),227 N. 11th St.,Lincoln,NE,,"Book Store,Business",1980,NA,-96.7055069,40.8150553,Google Verified Location
+434,NE137,Elmwood Park,,,Omaha,NE,Cruisy Area,Cruising Areas,1978,,-96.005938,41.253694,Verified Location
+423,NE126,Elmwood Park,weekends,,Omaha,NE,Cruisy Area,Cruising Areas,1977,,-96.005938,41.253694,Verified Location
+473,NE176,Elmwood Park - T-Room N. end,,,Omaha,NE,Cruisy Area,Cruising Areas,1980,,-96.005938,41.253694,Verified Location
+396,NE099,Elmwood Park - West End,,,Omaha,NE,Cruisy Area,Cruising Areas,1974,,-96.005938,41.253694,Verified Location
+402,NE105,Elmwood Park - West End,,,Omaha,NE,Cruisy Area,Cruising Areas,1975,,-96.005938,41.253694,Verified Location
+391,NE094,Elmwood Park - West End,,,Omaha,NE,Cruisy Area,Cruising Areas,1973,,-96.005938,41.253694,Verified Location
+411,NE114,Elmwood Park - West End,,,Omaha,NE,Cruisy Area,Cruising Areas,1976,,-96.005938,41.253694,Verified Location
+387,NE090,Elmwood Park - West End,,,Omaha,NE,Cruisy Area,Cruising Areas,1972,,-96.005938,41.253694,Verified Location
+450,NE153,"Elmwood Park -T-Room, N.end",,,Omaha,NE,Cruisy Area,Cruising Areas,1979,,-96.005938,41.253694,Verified Location
+463,NE166,Gateway Shopping Mall,Lower concourse T-Rooms,,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.636016,40.815336,Verified Location
+441,NE144,Gateway Shopping Mall,Lower concourse T-Rooms,,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.636016,40.815336,Verified Location
+351,NE054,Holiday Inn - N.E. Bar,,5250 Cornhusker Hwy.,Lincoln,NE,(M),"Hotel,Bars/Clubs",1978,NA,-96.6488626,40.8558023,Google Verified Location
+334,NE037,Holiday Inn - N.E. Bar,,5250 Cornhusker Hwy.,Lincoln,NE,(M),"Hotel,Bars/Clubs",1976,NA,-96.6488626,40.8558023,Google Verified Location
+343,NE046,Holiday Inn - N.E. Bar,,5250 Cornhusker Highway,Lincoln,NE,(M),"Bars/Clubs,Hotel",1977,NA,-96.6488626,40.8558023,Google Verified Location
+464,NE167,Holiday Inn Bar - N.E.,,,Lincoln,NE,Cruisy Area,"Cruising Areas,Hotel",1980,,-96.702595,40.813616,Location could not be verified. General city or location coordinates used.
+442,NE145,Holiday Inn Bar - N.E.,,,Lincoln,NE,Cruisy Area,"Cruising Areas,Hotel",1979,,-96.702595,40.813616,Location could not be verified. General city or location coordinates used.
+379,NE082,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotel",1970,,-96.703014,40.811693,Verified Location
+385,NE088,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotel",1972,,-96.703014,40.811693,Verified Location
+375,NE078,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotel",1968,,-96.703014,40.811693,Verified Location
+371,NE074,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotel",1965,,-96.703014,40.811693,Verified Location
+393,NE096,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotel",1974,,-96.703014,40.811693,Verified Location
+389,NE092,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotel",1973,,-96.703014,40.811693,Verified Location
+382,NE085,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(*),"Bars/Clubs,Hotel",1971,,-96.703014,40.811693,Verified Location
+377,NE080,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotel",1969,,-96.703014,40.811693,Verified Location
+373,NE076,Hotel Cornhusker Bar,,13th & M,Lincoln,NE,(M),"Bars/Clubs,Hotel",1966,,-96.703014,40.811693,Verified Location
+424,NE127,Howard & Jackson Streets -- between 16th & 18th,,,Omaha,NE,Cruisy Area,Cruising Areas,1977,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+435,NE138,Howard & Jackson Sts - betw. 16th & 18th,,,Omaha,NE,Cruisy Area,Cruising Areas,1978,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+474,NE177,Howard & Jackson Sts - betw. 16th & 18th (nights),,,Omaha,NE,Cruisy Area,Cruising Areas,1980,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+451,NE154,Howard & Jackson Sts. - betw. 16th & 18th,(nights),,Omaha,NE,Cruisy Area,Cruising Areas,1979,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+403,NE106,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Area,Cruising Areas,1975,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+388,NE091,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Area,Cruising Areas,1972,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+397,NE100,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Area,Cruising Areas,1974,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+392,NE095,Howard & Jackson Sts. bet. 16th & 18th,,,Omaha,NE,Cruisy Area,Cruising Areas,1973,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+412,NE115,Howard & Jackson Sts. betw. 16th & 18th,,,Omaha,NE,Cruisy Area,Cruising Areas,1976,Approximate. Point for the Middle of the block radius.,-95.938467,41.255015,Verified Location
+390,NE093,Jack & Jill Coffee Shop,(after hours) (Hill hotel),16th & Howard,Omaha,NE,(C),"Restaurant,Hotel",1973,,-95.93719,41.255339,Verified Location
+395,NE098,Jack & Jill Coffee Shop,(after hours) (Hill hotel),16th & Howard,Omaha,NE,(C),"Restaurant,Hotel",1974,,-95.93719,41.255339,Verified Location
+401,NE104,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(C),(R),(AH)","Restaurant,Hotel",1975,,-95.93719,41.255339,Verified Location
+431,NE134,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(M),(R)","Hotel,Bars/Clubs,Restaurant",1978,,-95.93719,41.255339,Verified Location
+421,NE124,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(M),(R)","Restaurant,Hotel",1977,,-95.93719,41.255339,Verified Location
+410,NE113,Jack & Jill Coffee Shop,Hill Hotel,16th & Howard,Omaha,NE,"(M),(C),(R),(AH)","Restaurant,Hotel",1976,,-95.93719,41.255339,Verified Location
+386,NE089,Jack & Jill Coffee Shop,(after hours) (Hill hotel),16th & Howard,Omaha,NE,(C),"Restaurant,Hotel",1972,,-95.93719,41.255339,Verified Location
+452,NE155,Lake Merritt Beach,(Summers),,Omaha,NE,Cruisy Area,Cruising Areas,1979,,-95.926844,41.056826,Verified Location
+475,NE178,Lake Merritt Beach,,,Omaha,NE,Cruisy Area,Cruising Areas,1980,,-95.926844,41.056826,Verified Location
+425,NE128,Lake Merritt Beach,(Summers),,Omaha,NE,Cruisy Area,Cruising Areas,1977,,-95.926844,41.056826,Verified Location
+436,NE139,Lake Merritt Beach (Summers),,,Omaha,NE,Cruisy Area,Cruising Areas,1978,,-95.926844,41.056826,Verified Location
+413,NE116,Lake Merritt Beach (summers),,,Omaha,NE,Cruisy Area,Cruising Areas,1976,,-95.926844,41.056826,Verified Location
+454,NE157,Lincoln Park,,,Grand Island,NE,Cruisy Area,Cruising Areas,1980,,-98.333999,40.93578,Verified Location
+447,NE150,Olympic Rest. & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(AH)",Restaurant,1979,,-95.93452,41.257594,Verified Location
+469,NE172,Olympic Rest. & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(AH)",Restaurant,1980,,-95.93452,41.257594,Verified Location
+432,NE135,Olympic Restaurant & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1978,,-95.93452,41.257594,Verified Location
+422,NE125,Olympic Restaurant & Lounge,,14th & Farnum,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1977,,-95.93452,41.257594,Verified Location
+358,NE061,Paintin Place,(Military),1500 J.F.K. Drive,Bellevue,NE,(M),Bars/Clubs,1979,NA,-95.9132446,41.1454423,Google Verified Location
+362,NE065,Paintin' Place,(Military),1500 J.F.K. Drive,Bellevue,NE,(M),Bars/Clubs,1980,NA,-95.9132446,41.1454423,Google Verified Location
+448,NE151,Pancake House,,Saddle Creek & Dodge,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1979,,-95.980409,41.259687,Verified Location
+470,NE173,Pancake House,,Saddle Creek & Dodge,Omaha,NE,"(M),(R),(C),(AH)",Restaurant,1980,,-95.980409,41.259687,Verified Location
+455,NE158,Pier Park,,,Grand Island,NE,Cruisy Area,Cruising Areas,1980,,-98.336962,40.917855,Verified Location
+438,NE141,Pioneer Park,(T-Rooms),,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.776667,40.774424,Verified Location
+460,NE163,Pioneer Park,(T-Rooms),,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.776667,40.774424,Verified Location
+364,NE067,Red Baron,(Disco),2623 S. Locust,Grand Island,NE,(M),Bars/Clubs,1980,NA,-98.339761,40.8964432,Google Verified Location
+302,NE005,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1966,NA,-95.9368843,41.2550803,Google Verified Location
+305,NE008,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1968,NA,-95.9368843,41.2550803,Google Verified Location
+317,NE020,Ron-De-Voo,HIll Hotel,505 S. 16th St.,Omaha,NE,(M),"Bars/Clubs,Hotel",1971,NA,-95.9368843,41.2550803,Google Verified Location
+299,NE002,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1965,NA,-95.9368843,41.2550803,Google Verified Location
+308,NE011,Ron-De-Voo,,505 S. 16th St. ,Omaha,NE,(*),Bars/Clubs,1969,NA,-95.9368843,41.2550803,Google Verified Location
+313,NE016,Ron-De-Voo,HIll Hotel,505 S. 16th St.,Omaha,NE,(M),"Bars/Clubs,Hotel",1970,NA,-95.9368843,41.2550803,Google Verified Location
+456,NE159,S. Locust St.,,,Grand Island,NE,Cruisy Area,Cruising Areas,1980,,-98.342012,40.926396,Location could not be verified. General city or location coordinates used.
+417,NE120,Scott's Pancake House,,13th & 'L' Sts.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1979,,-96.70262,40.8103,Verified Location
+458,NE161,Scott's Pancake House,,13th & 'L' Sts.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1980,,-96.70262,40.8103,Verified Location
+310,NE013,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1970,NA,-96.7024624,40.8111392,Google Verified Location
+326,NE029,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1974,NA,-96.7024624,40.8111392,Google Verified Location
+318,NE021,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1972,NA,-96.7024624,40.8111392,Google Verified Location
+352,NE055,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1978,NA,-96.7024624,40.8111392,Google Verified Location
+322,NE025,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1973,NA,-96.7024624,40.8111392,Google Verified Location
+336,NE039,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1976,NA,-96.7024624,40.8111392,Google Verified Location
+345,NE048,Spigot,,304 South 13th Street,Lincoln,NE,(M),Bars/Clubs,1977,NA,-96.7024624,40.8111392,Google Verified Location
+314,NE017,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1971,NA,-96.7024624,40.8111392,Google Verified Location
+329,NE032,Spigot,,304 S. 13th St.,Lincoln,NE,(M),Bars/Clubs,1975,NA,-96.7024624,40.8111392,Google Verified Location
+344,NE047,St. George & The Dragon,,1023 'O' Street,Lincoln,NE,"(M),(D),(E),(YC)",Bars/Clubs,1977,NA,-96.7063285,40.8132902,Google Verified Location
+335,NE038,St. George & The Dragon,,1023 'O' St.,Lincoln,NE,"(M),(YC),(D),(E)",Bars/Clubs,1976,NA,-96.7063285,40.8132902,Google Verified Location
+361,NE064,Stage Door,"(Some W, SM - upstairs) (Disco)",1512 Howard,Omaha,NE,"(YC),(W),(SM),(PT)",Bars/Clubs,1979,NA,-95.9362371,41.2558359,Google Verified Location
+356,NE059,Stage Door,(Disco),1512 Howard,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1978,NA,-95.9362371,41.2558359,Google Verified Location
+349,NE052,Stage Door,(Most promising new look in years)(Disco),1512 Howard,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1977,NA,-95.9362371,41.2558359,Google Verified Location
+370,NE073,Stage Door,"(Disco) (Some W, SM - upstairs)",1512 Howard,Omaha,NE,"(YC),(D),(W),(SM),(PT)",Bars/Clubs,1980,NA,-95.9362371,41.2558359,Google Verified Location
+306,NE009,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1968,NA,-95.9420559,41.267644,Google Verified Location
+309,NE012,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1969,NA,-95.9420559,41.267644,Google Verified Location
+303,NE006,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1966,NA,-95.9420559,41.267644,Google Verified Location
+300,NE003,Stan's ,,1917 Cuming,Omaha,NE,,Bars/Clubs,1965,NA,-95.9420559,41.267644,Google Verified Location
+407,NE110,State Capitol Grounds,,,Lincoln,NE,Cruisy Area,Cruising Areas,1976,,-96.700654,40.807242,Verified Location
+465,NE168,State Capitol Grounds,,,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.700654,40.807242,Verified Location
+428,NE131,State Capitol Grounds,,,Lincoln,NE,Cruisy Area,Cruising Areas,1978,,-96.700654,40.807242,Verified Location
+418,NE121,State Capitol Grounds,,,Lincoln,NE,Cruisy Area,Cruising Areas,1977,,-96.700654,40.807242,Verified Location
+443,NE146,State Capitol Grounds,,,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.700654,40.807242,Verified Location
+399,NE102,State Capitol grounds,,,Lincoln,NE,Cruisy Area,Cruising Areas,1975,,-96.700654,40.807242,Verified Location
+332,NE035,Swingers,,209 N. 16th St.,Omaha,NE,"(M),(YC),(D)",Bars/Clubs,1975,NA,-95.9371725,41.2607319,Google Verified Location
+398,NE101,Twelfth Street Garage,In the Glass menagerie,12th & 'Q' Sts,Lincoln,NE,"(M),(HIP),(YC)",Bars/Clubs,1975,,-96.70402,40.815852,Verified Location
+466,NE169,U. of N. - Gay Action Group,,333 N. 14th,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.701142,40.816193,Verified Location
+444,NE147,U. of N. - Gay Action Group,,333 N. 14th,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.701142,40.816193,Verified Location
+445,NE148,U. of N. - Love Library (3rd floor),,,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.700476,40.820197,Verified Location
+467,NE170,U. of N. - Love Library (3rd floor),,,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.700476,40.820197,Verified Location
+468,NE171,U. of N. Student Union (basement) T-Rooms,,,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.700476,40.820197,Verified Location
+446,NE149,U. of N. Student Union (basement) T-Rooms,,,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.700476,40.820197,Verified Location
+408,NE111,U. of Neb. - Gay Action Group,Sun. Nite. Coffee Clutch 9-12,333 N. 13th St.,Lincoln,NE,Cruisy Area,"Cruising Areas,Organizations",1976,,-96.703084,40.816208,Verified Location
+409,NE112,U. of Neb. - Library (3rd Floor),,,Lincoln,NE,Cruisy Area,Cruising Areas,1976,,-96.700476,40.820197,Verified Location
+429,NE132,U. of Nebraska - Gay Action Group,Sunday night 'coffee clutch',333 N. 14th St.,Lincoln,NE,Cruisy Area,"Cruising Areas,Organizations",1978,,-96.701142,40.816193,Verified Location
+400,NE103,U. of Nebraska Library,(3rd floor),,Lincoln,NE,Cruisy Area,Cruising Areas,1975,,-96.700476,40.820197,Verified Location
+430,NE133,U. of Nebraska Library - 3rd floor T-Room,,,Lincoln,NE,Cruisy Area,Cruising Areas,1978,,-96.700476,40.820197,Verified Location
+419,NE122,University of Nebraska - Gay Action Group,"Sunday nigh ""coffee clutch"" 9-12",333 N. 13th Street,Lincoln,NE,Cruisy Area,"Cruising Areas,Organizations",1977,,-96.703084,40.816208,Verified Location
+420,NE123,University of Nebraska - Library (3rd floor),,,Lincoln,NE,Cruisy Area,Cruising Areas,1977,,-96.700476,40.820197,Verified Location
+439,NE142,Van Doren Park,(T-Rooms),,Lincoln,NE,Cruisy Area,Cruising Areas,1979,,-96.700476,40.820197,Verified Location
+461,NE164,Van Doren Park,(T-Rooms),,Lincoln,NE,Cruisy Area,Cruising Areas,1980,,-96.700476,40.820197,Verified Location
+353,NE056,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1978,NA,-96.6801461,40.8130959,Google Verified Location
+341,NE044,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C)",Restaurant,1979,NA,-96.6801461,40.8130959,Google Verified Location
+367,NE070,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C)",Restaurant,1980,NA,-96.6801461,40.8130959,Google Verified Location
+346,NE049,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1977,NA,-96.6801461,40.8130959,Google Verified Location
+337,NE040,Village Inn,,111 S. 29th St.,Lincoln,NE,"(M),(R),(C),(AH)",Restaurant,1976,NA,-96.6801461,40.8130959,Google Verified Location
+476,NE179,Westroads Shopping Center Mall,,,Omaha,NE,Cruisy Area,Cruising Areas,1980,,-96.068305,41.265563,Verified Location
+414,NE117,Westroads Shopping Center Mall,,,Omaha,NE,Cruisy Area,Cruising Areas,1976,,-96.068305,41.265563,Verified Location
+453,NE156,Westroads Shopping Center mall,,,Omaha,NE,Cruisy Area,Cruising Areas,1979,,-96.068305,41.265563,Verified Location
+426,NE129,Westwood Shopping Center Mall,,,Omaha,NE,Cruisy Area,Cruising Areas,1977,,-96.068305,41.265563,Verified Location
+437,NE140,Westwoods Shopping Center Mall,,,Omaha,NE,Cruisy Area,Cruising Areas,1978,,-96.068305,41.265563,Verified Location
+384,NE087,Your Place,,North Side of Harney bet. 15th & 16th,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1971,approximate,-95.936841,41.256523,Verified Location
+381,NE084,Your Place,,North Side of Harney bet. 15th & 16th,Omaha,NE,"(YC),(D),(*)",Bars/Clubs,1970,approximate,-95.936841,41.256523,Verified Location
+357,NE060,Zodiac Helath Spa,(Hurrah! Nebraska's 1st Baths!),4011 Farnum St. ,Omaha,NE,(*),Baths,1978,NA,-95.9738604,41.2576057,Google Verified Location

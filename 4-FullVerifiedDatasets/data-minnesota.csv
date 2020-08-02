@@ -1,319 +1,319 @@
-ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-MN001,Erie Rex Lounge,(Cruisy-WE),Hwy. 10 E,Detroit Lakes,MN,"(M),(R),(E),(WE)","Cruising Areas,Restaurant,Bars/Clubs",1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"Hwy. 10 E, Detroit Lakes, MN",-95.8231186,46.8093797,"us hwy 10, detroit lakes, mn 56501, usa",Geocoded
-MN002,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotels,Bars/Clubs",1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"231 E. Superior, Duluth, MN",-92.0950194,46.7897626,"231 e superior st, duluth, mn 55802, usa",Geocoded
-MN003,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN004,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"412 W. Superior, Duluth, MN",-92.1035256,46.7826887,"412 w superior st, duluth, mn 55802, usa",Geocoded
-MN005,Adonis Theatre,,900 Hennepin Ave.,Minneapolis,MN,,Theatre,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"900 Hennepin Ave., Minneapolis, MN",-93.2774221,44.9765348,"900 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN006,Adult Book Store,,429 Hennepin Ave.,Minneapolis,MN,(*),Book Store,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"429 Hennepin Ave., Minneapolis, MN",-93.2714908,44.9798928,"429 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN007,Big Daddy'a,(Baths),3 N. 7th Hennepin,Minneapolis,MN,(OC),Baths,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"3 N. 7th Hennepin, Minneapolis, MN",-93.275496,44.978453,"3 n 7th st, minneapolis, mn 55403, usa",Geocoded
-MN008,Brass Rail,(Some OC),422 Hennepin Ave.,Minneapolis,MN,"(OC),(*)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"422 Hennepin Ave., Minneapolis, MN",-93.2725204,44.9800829,"422 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN009,Club Minneapolis Baths,(Should be a winner),113 1st St. N. ,Minneapolis,MN,,Baths,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"113 1st St. N. , Minneapolis, MN",-93.2685683,44.9849015,"113 n 1st st, minneapolis, mn 55401, usa",Geocoded
-MN010,Diginity,(Catholic Church),1701 Univeristy,Minneapolis,MN,,Church,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"1701 Univeristy, Minneapolis, MN",-93.2281611,44.9845683,"1701 elm st se, minneapolis, mn 55414, usa",Geocoded
-MN011,Gay House,(Social organ.),4419 Nicollet,Minneapolis,MN,,Organizations,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"4419 Nicollet, Minneapolis, MN",-93.277716,44.9226156,"4419 nicollet ave, minneapolis, mn 55419, usa",Geocoded
-MN012,Gay Nineties,(Disco) (Some L) (Adj. Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D),(L),(R)","Restaurant,Bars/Clubs",1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN013,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN014,Integrity,(St. John's Church),4201 Sheridan Ace. S,Minneapolis,MN,,Church,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"4201 Sheridan Ace. S, Minneapolis, MN",-93.3125715,44.9274259,"4201 sheridan ave s, minneapolis, mn 55410, usa",Geocoded
-MN015,Locker Room Health Club,(Baths) ('Harness' shop),315 1st Ave. N,Minneapolis,MN,(*),"Baths,Business",1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"315 1st Ave. N, Minneapolis, MN",-93.2716773,44.9815103,"315 n 1st ave, minneapolis, mn 55401, usa",Geocoded
-MN016,M.C.G.R.,(Social),111 E. Franklin,Minneapolis,MN,,Church,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"111 E. Franklin, Minneapolis, MN",-93.2756697,44.9622638,"111 e franklin ave, minneapolis, mn 55404, usa",Geocoded
-MN017,Nineteen Bar,(Beer) (Many L),19 W. 15th St.,Minneapolis,MN,"(D),(L),(PT)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"19 W. 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN018,Simion's,,416 Hennepin Ave.,Minneapolis,MN,"(R),(AH)",Restaurant,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"416 Hennepin Ave., Minneapolis, MN",-93.2885418,44.9684272,"416 hennepin ave, minneapolis, mn 55405, usa",Geocoded
-MN019,Sun Bar & Disco,(Disco) (WE*),413 Hennepin Ave.,Minneapolis,MN,"(S),(D),(WE),(*)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"413 Hennepin Ave., Minneapolis, MN",-93.271384,44.979969,"413 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN020,Y'All Come Back,(Disco) (Sign says 'Tourist Hotel'),830 Hennepin Ave.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"830 Hennepin Ave., Minneapolis, MN",-93.2770621,44.9768367,"830 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN021,Arbuckle's,(Cruisy) Ramada Inn,600 30th Ave. S.,Moorhead,MN,"(M),(D)","Cruising Areas,Bars/Clubs",1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"600 30th Ave. S., Moorhead, MN",-96.7707273,46.8447393,"600 30th ave s, moorhead, mn 56560, usa",Geocoded
-MN022,Harry's American Bar,Holliday Inn Downtown,220 S. Broadway,Rochester,MN,(M),"Bars/Clubs,Hotels",1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"220 S. Broadway, Rochester, MN",-92.4625008,44.0209056,"220 s broadway, rochester, mn 55904, usa",Geocoded
-MN023,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"502 St. Germaine Ave, St. Cloud, MN",-94.158151,45.560841,"502 w st germain st, st cloud, mn 56301, usa",Geocoded
-MN024,Foxy's,(Disco) (WE*) (Neon sigh says Saints & Sinners),249 W. 7th St.,St. Paul,MN,"(L),(D),(WE),(*)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"249 W. 7th St., St. Paul, MN",-93.1051603,44.9430545,"249 7th st w, st paul, mn 55102, usa",Geocoded
-MN025,La Senorita,(Mexican R) (Roseville),1961 Rice St.,St. Paul,MN,"(M),(R)",Restaurant,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"1961 Rice St., St. Paul, MN",-93.106319,45.0002617,"1961 rice st, roseville, mn 55113, usa",Geocoded
-MN026,Town House,(Many L) (Disco),1415 University Ave,St. Paul,MN,"(L),(D),(*)",Bars/Clubs,1980,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"1415 University Ave, St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN027,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotels,Bars/Clubs",1979,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"231 E. Superior, Duluth, MN",-92.0950194,46.7897626,"231 e superior st, duluth, mn 55802, usa",Geocoded
-MN028,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1979,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN029,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1979,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"412 W. Superior, Duluth, MN",-92.1035256,46.7826887,"412 w superior st, duluth, mn 55802, usa",Geocoded
-MN030,Adonis Theatre,,900 Hennepin Ave.,Minneapolis,MN,,Theatre,1979,NA,,3/26/2020 12:44am,7/23/2020 7:23pm,"900 Hennepin Ave., Minneapolis, MN",-93.2774221,44.9765348,"900 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN031,Adult Book Store,,429 Hennepin Ave.,Minneapolis,MN,(*),Book Store,1979,NA,,3/26/2020 1:32am,7/23/2020 7:23pm,"429 Hennepin Ave., Minneapolis, MN",-93.2714908,44.9798928,"429 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN032,Big Daddy'a,(Baths),3 N. 7th Hennepin,Minneapolis,MN,(OC),Baths,1979,NA,,3/26/2020 1:32am,7/23/2020 7:23pm,"3 N. 7th Hennepin, Minneapolis, MN",-93.275496,44.978453,"3 n 7th st, minneapolis, mn 55403, usa",Geocoded
-MN033,Brass Rail,(Some OC),422 Hennepin Ave.,Minneapolis,MN,"(OC),(*)",Bars/Clubs,1979,NA,,3/26/2020 1:32am,7/23/2020 7:23pm,"422 Hennepin Ave., Minneapolis, MN",-93.2725204,44.9800829,"422 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN034,Christopher Street,(Social organization),1111 W. 23rd St.,Minneapolis,MN,,Organizations,1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"1111 W. 23rd St., Minneapolis, MN",-93.3454804,44.9611114,"w 23rd st, st louis park, mn 55416, usa",Geocoded
-MN035,Diginity,(Catholic Church),1701 Univeristy,Minneapolis,MN,,Church,1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"1701 Univeristy, Minneapolis, MN",-93.2281611,44.9845683,"1701 elm st se, minneapolis, mn 55414, usa",Geocoded
-MN036,Gay House,(Social organ.),4419 Nicollet,Minneapolis,MN,,Organizations,1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"4419 Nicollet, Minneapolis, MN",-93.277716,44.9226156,"4419 nicollet ave, minneapolis, mn 55419, usa",Geocoded
-MN037,Gay Nineties,(Disco) (Some L) (Adj. Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D),(L),(R)","Restaurant,Bars/Clubs",1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN038,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN039,Harness,"(Leather goods, inhalers, erotica, etc) (At the Locker Room)",315 1st Ave N.,Minneapolis,MN,(*),Business,1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"315 1st Ave N., Minneapolis, MN",-93.2716773,44.9815103,"315 n 1st ave, minneapolis, mn 55401, usa",Geocoded
-MN040,Integrity,(St. John's Church),4201 Sheridan Ace. S,Minneapolis,MN,,Church,1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"4201 Sheridan Ace. S, Minneapolis, MN",-93.3125715,44.9274259,"4201 sheridan ave s, minneapolis, mn 55410, usa",Geocoded
-MN041,Locker Room Health Club,(Baths) ('Harness' shop),315 1st Ave. N,Minneapolis,MN,(*),"Baths,Business",1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"315 1st Ave. N, Minneapolis, MN",-93.2716773,44.9815103,"315 n 1st ave, minneapolis, mn 55401, usa",Geocoded
-MN042,Northern Sun,"(Beer & wine) (Best Sun.*) (Some Hip, RT, W, YC)",19 W. 15th,Minneapolis,MN,"(D),(*),(HIP),(RT),(W),(YC)",Bars/Clubs,1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"19 W. 15th, Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN043,Sun Bar & Disco,(go go boys),413 Hennepin Ave.,Minneapolis,MN,,Bars/Clubs,1979,NA,,3/26/2020 1:33am,7/23/2020 7:23pm,"413 Hennepin Ave., Minneapolis, MN",-93.271384,44.979969,"413 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN044,Sutton Place,(Sutton's) (Disco) (Downstairs) (Sun. brunch),14 N. 5th St.,Minneapolis,MN,"(M),(YC),(D),(*)",Bars/Clubs,1979,NA,,3/26/2020 1:39am,7/23/2020 7:23pm,"14 N. 5th St., Minneapolis, MN",-93.2729669,44.9800663,"14 n 5th st, minneapolis, mn 55401, usa",Geocoded
-MN045,Y'All Come Back,(Disco) (Attempt to resurrect the Sundown Saloon),830 Hennepin Ave.,Minneapolis,MN,(D),Bars/Clubs,1979,NA,,3/26/2020 1:39am,7/23/2020 7:23pm,"830 Hennepin Ave., Minneapolis, MN",-93.2770621,44.9768367,"830 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN046,Arbuckle's,(Cruisy) Ramada Inn,600 30th Ave. S.,Moorhead,MN,"(M),(D)","Cruising Areas,Bars/Clubs",1979,NA,,3/26/2020 1:39am,7/23/2020 7:23pm,"600 30th Ave. S., Moorhead, MN",-96.7707273,46.8447393,"600 30th ave s, moorhead, mn 56560, usa",Geocoded
-MN047,Harry's American Bar,Holliday Inn Downtown,220 S. Broadway,Rochester,MN,(M),"Bars/Clubs,Hotels",1979,NA,,3/26/2020 1:39am,7/23/2020 7:23pm,"220 S. Broadway, Rochester, MN",-92.4625008,44.0209056,"220 s broadway, rochester, mn 55904, usa",Geocoded
-MN048,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1979,NA,,3/26/2020 1:39am,7/23/2020 7:23pm,"502 St. Germaine Ave, St. Cloud, MN",-94.158151,45.560841,"502 w st germain st, st cloud, mn 56301, usa",Geocoded
-MN049,Foxy's,(Disco),249 W. 7th St.,St. Paul,MN,"(G),(D)",Bars/Clubs,1979,NA,,3/26/2020 1:39am,7/23/2020 7:23pm,"249 W. 7th St., St. Paul, MN",-93.1051603,44.9430545,"249 7th st w, st paul, mn 55102, usa",Geocoded
-MN050,,,111 W. 6th St.,St. Paul,MN,,,1979,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"111 W. 6th St., St. Paul, MN",-93.0971915,44.9462817,"111 w 6th st, st paul, mn 55102, usa",Geocoded
-MN051,Town House,(Many G) (Disco) (Wed. night for guys*),1415 University Ave,St. Paul,MN,"(YC),(G),(D),(*)",Bars/Clubs,1979,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"1415 University Ave, St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN052,Vapor's Steam Baths,,1860 N.W. Bunker Lake Dr.,Anoka,MN,,Baths,1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"1860 N.W. Bunker Lake Dr., Anoka, MN",-93.4204315,45.2265292,"1860 bunker lake blvd, anoka, mn 55303, usa",Geocoded
-MN053,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotels,Bars/Clubs",1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"231 E. Superior, Duluth, MN",-92.0950194,46.7897626,"231 e superior st, duluth, mn 55802, usa",Geocoded
-MN054,Duluth Steam Baths,(Closes 12 midnight),18 No. 1st Ave. E.,Duluth,MN,,Baths,1978,NA,,3/26/2020 1:39am,7/23/2020 7:23pm,"18 No. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN055,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"412 W. Superior, Duluth, MN",-92.1035256,46.7826887,"412 w superior st, duluth, mn 55802, usa",Geocoded
-MN056,Adonis Theatre,,900 Hennepin Ave.,Minneapolis,MN,,Theatre,1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"900 Hennepin Ave., Minneapolis, MN",-93.2774221,44.9765348,"900 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN057,Adult Book Store,,429 Hennepin Ave.,Minneapolis,MN,,Book Store,1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"429 Hennepin Ave., Minneapolis, MN",-93.2714908,44.9798928,"429 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN058,Brass Rail,,422 Hennepin Ave.,Minneapolis,MN,"(*),(D)",Bars/Clubs,1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"422 Hennepin Ave., Minneapolis, MN",-93.2725204,44.9800829,"422 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN059,Gay Nineties,(Disco) (Adjoins Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D)","Restaurant,Bars/Clubs",1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN060,Haberdashery,Raddison Hotel,45 So. 7th St.,Minneapolis,MN,"(M),(R),(HIP),(YC)","Bars/Clubs,Restaurant,Hotels",1978,NA,,3/26/2020 1:41am,7/23/2020 7:23pm,"45 So. 7th St., Minneapolis, MN",-93.2731363,44.9771474,"45 s 7th st, minneapolis, mn 55402, usa",Geocoded
-MN061,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN062,Locker Room Health Club,(also Disco-D-AH),315 1st Ave. N,Minneapolis,MN,"(*),(D),(AH)","Baths,Business",1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"315 1st Ave. N, Minneapolis, MN",-93.2716773,44.9815103,"315 n 1st ave, minneapolis, mn 55401, usa",Geocoded
-MN063,Northern Sun,"(Some Hip, RT, W, YC)",19 W. 15th,Minneapolis,MN,"(D),(HIP),(RT),(W),(YC)",Bars/Clubs,1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"19 W. 15th, Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN064,Sutton Place,(Sutton's) (Disco) (2 floors-suggest use downstairs Disco) ,50 No. 5th St.,Minneapolis,MN,"(M),(YC),(D),(*)",Bars/Clubs,1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"50 No. 5th St., Minneapolis, MN",-93.2733627,44.9804464,"50 n 5th st, minneapolis, mn 55401, usa",Geocoded
-MN065,Harry's American Bar,Holliday Inn Downtown,220 S. Broadway,Rochester,MN,(M),"Bars/Clubs,Hotels",1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"220 S. Broadway, Rochester, MN",-92.4625008,44.0209056,"220 s broadway, rochester, mn 55904, usa",Geocoded
-MN066,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"502 St. Germaine Ave, St. Cloud, MN",-94.158151,45.560841,"502 w st germain st, st cloud, mn 56301, usa",Geocoded
-MN067,Foxy's,(Many G) (Disco),249 W. 7th St.,St. Paul,MN,"(G),(D),(*)",Bars/Clubs,1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"249 W. 7th St., St. Paul, MN",-93.1051603,44.9430545,"249 7th st w, st paul, mn 55102, usa",Geocoded
-MN068,Haberdashery,,395 Wabasaha Ave.,St. Paul,MN,"(M),(YC),(R)",Restaurant,1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"395 Wabasaha Ave., St. Paul, MN",-93.084634,44.9338288,"395 wabasha st s, st paul, mn 55107, usa",Geocoded
-MN069,No Place Bar,(Some SM) (3.2 beer only) ,461 University Ave.,St. Paul,MN,"(M),(SM)",Bars/Clubs,1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"461 University Ave., St. Paul, MN",-93.1196947,44.9559648,"461 university ave w, st paul, mn 55103, usa",Geocoded
-MN070,Town House, (Disco) ,1415 University Ave,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1978,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"1415 University Ave, St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN071,Vapor's Steam Baths,,1860 N.W. Bunker Lake Dr.,Anoka,MN,,Baths,1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"1860 N.W. Bunker Lake Dr., Anoka, MN",-93.4204315,45.2265292,"1860 bunker lake blvd, anoka, mn 55303, usa",Geocoded
-MN072,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotels,Bars/Clubs",1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"231 E. Superior, Duluth, MN",-92.0950194,46.7897626,"231 e superior st, duluth, mn 55802, usa",Geocoded
-MN073,Duluth Steam Baths,(Closes 12 midnight),18 North 1st Avenue East.,Duluth,MN,,Baths,1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"18 North 1st Avenue East., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN074,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"412 W. Superior, Duluth, MN",-92.1035256,46.7826887,"412 w superior st, duluth, mn 55802, usa",Geocoded
-MN075,Brass Rail,"(Some B, RT)",422 Hennepin Ave.,Minneapolis,MN,"(*),(D),(B),(RT)",Bars/Clubs,1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"422 Hennepin Ave., Minneapolis, MN",-93.2725204,44.9800829,"422 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN076,Gay Nineties,(Disco) (Next to Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D)","Restaurant,Bars/Clubs",1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN077,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R),(HIP),(YC)","Bars/Clubs,Restaurant,Hotels",1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"45 S. 7th St., Minneapolis, MN",-93.2731363,44.9771474,"45 s 7th st, minneapolis, mn 55402, usa",Geocoded
-MN078,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1977,NA,,3/31/2020 9:16pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN079,Locker Room Health Club,(also (Disco) (D) (AH),620 2nd Ave. N.,Minneapolis,MN,"(*),(D),(AH)","Baths,Business",1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"620 2nd Ave. N., Minneapolis, MN",-93.2880484,44.9789445,"620 2nd ave n, minneapolis, mn 55405, usa",Geocoded
-MN080,Northern Sun,,19 W. 15th,Minneapolis,MN,"(D),(HIP),(W),(YC),(*)",Bars/Clubs,1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"19 W. 15th, Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN081,Sutton Place,,114 N. 7th Street,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"114 N. 7th Street, Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN082,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"502 St. Germaine Ave, St. Cloud, MN",-94.158151,45.560841,"502 w st germain st, st cloud, mn 56301, usa",Geocoded
-MN083,Haberdashery,,395 Wabasaha Ave.,St. Paul,MN,"(M),(YC),(R)",Restaurant,1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"395 Wabasaha Ave., St. Paul, MN",-93.084634,44.9338288,"395 wabasha st s, st paul, mn 55107, usa",Geocoded
-MN084,Noble Roman,(Disco),788 Grand Ave,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"788 Grand Ave, St. Paul, MN",-93.1332322,44.939764,"788 grand ave, st paul, mn 55105, usa",Geocoded
-MN085,No Place Bar,(3.2 beer only) ,461 University Avenue,St. Paul,MN,"(M),(SM)",Bars/Clubs,1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"461 University Avenue, St. Paul, MN",-93.0860581,44.9578466,"461 university ave e, st paul, mn 55130, usa",Geocoded
-MN086,Town House,(Many G) (Some B) (Disco) ,1415 University Avenue,St. Paul,MN,"(G),(*),(B),(D)",Bars/Clubs,1977,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"1415 University Avenue, St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN087,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1975,NA,76 is at the bottom!,3/31/2020 9:35pm,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN088,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotels,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"250 S. 1st Ave. E, Duluth, MN",-92.0964945,46.7875851,"250 s 1st ave e, duluth, mn 55802, usa",Geocoded
-MN089,Club ,(next door to Orpheum Theatre & upstairs -adm charge) (AH*),916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D),(AH),(*)","Restaurant,Bars/Clubs",1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"916 Hennepin, Minneapolis, MN",-93.277722,44.97636,"916 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN090,Club Cabaret,(3 floors-go-go boys),5 S. 5th St.,Minneapolis,MN,"(D),(S),(*)",Bars/Clubs,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"5 S. 5th St., Minneapolis, MN",-93.27191,44.9793254,"5 s 5th st, minneapolis, mn 55402, usa",Geocoded
-MN091,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R),(HIP)","Bars/Clubs,Restaurant,Hotels",1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"45 S. 7th St., Minneapolis, MN",-93.2731363,44.9771474,"45 s 7th st, minneapolis, mn 55402, usa",Geocoded
-MN092,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN093,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"630 N. 2nd Ave, Minneapolis, MN",-93.2770017,44.9802343,"630 n 2nd ave, minneapolis, mn 55403, usa",Geocoded
-MN094,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"221 Cedar Ave., Minneapolis, MN",-93.2469139,44.973203,"221 cedar ave, minneapolis, mn 55454, usa",Geocoded
-MN095,Nineteen Bar,(best Sundays*),19 W. 15th St.,Minneapolis,MN,"(RT),(G),(*)",Bars/Clubs,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"19 W. 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN096,Sand Box,(part of Cabaret complex),507 Hennepin,Minneapolis,MN,,Bars/Clubs,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"507 Hennepin, Minneapolis, MN",-93.2730033,44.9792523,"507 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN097,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(YC),(D),(R),(*)","Bars/Clubs,Restaurant",1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN098,F-M Motel Bar,,403 Center Ave.,Moorhead,MN,(M),"Bars/Clubs,Hotels",1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"403 Center Ave., Moorhead, MN",-96.773502,46.874876,"403 center ave, moorhead, mn 56560, usa",Geocoded
-MN099,D & O Lounge,,775 Front St.,St. Paul,MN,"(M),(RT),(G)",Bars/Clubs,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"775 Front St., St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN100,Noble Roman,,788 Grand Ave,St. Paul,MN,"(D),(*)",Bars/Clubs,1975,NA,,3/31/2020 9:35pm,7/23/2020 7:23pm,"788 Grand Ave, St. Paul, MN",-93.1332322,44.939764,"788 grand ave, st paul, mn 55105, usa",Geocoded
-MN101,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1975,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"1415 University Ave., St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN102,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN103,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotels,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"250 S. 1st Ave. E, Duluth, MN",-92.0964945,46.7875851,"250 s 1st ave e, duluth, mn 55802, usa",Geocoded
-MN104,Club ,(next door to Orpheum Theatre & upstairs -Adm Charge) ,916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D),(AH),(*)","Restaurant,Bars/Clubs",1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"916 Hennepin, Minneapolis, MN",-93.277722,44.97636,"916 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN105,Club Cabaret,,5 S. 5th St.,Minneapolis,MN,"(S),(*)",Bars/Clubs,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"5 S. 5th St., Minneapolis, MN",-93.27191,44.9793254,"5 s 5th st, minneapolis, mn 55402, usa",Geocoded
-MN106,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R)","Bars/Clubs,Restaurant,Hotels",1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"45 S. 7th St., Minneapolis, MN",-93.2731363,44.9771474,"45 s 7th st, minneapolis, mn 55402, usa",Geocoded
-MN107,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN108,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"630 N. 2nd Ave, Minneapolis, MN",-93.2770017,44.9802343,"630 n 2nd ave, minneapolis, mn 55403, usa",Geocoded
-MN109,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"221 Cedar Ave., Minneapolis, MN",-93.2469139,44.973203,"221 cedar ave, minneapolis, mn 55454, usa",Geocoded
-MN110,Nineteen Bar,(best Sundays),19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"19 W. 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN111,Sand Box,,507 Hennepin,Minneapolis,MN,,Bars/Clubs,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"507 Hennepin, Minneapolis, MN",-93.2730033,44.9792523,"507 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN112,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(YC),(D),(R),(*)","Bars/Clubs,Restaurant",1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN113,F-M Motel Bar,,403 Center Ave.,Moorhead,MN,,"Bars/Clubs,Hotels",1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"403 Center Ave., Moorhead, MN",-96.773502,46.874876,"403 center ave, moorhead, mn 56560, usa",Geocoded
-MN114,Belmont,,615 University Ave,St. Paul,MN,"(G),(D),(R),(*)",Restaurant,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"615 University Ave, St. Paul, MN",-93.1256964,44.9559865,"615 university ave w, st paul, mn 55103, usa",Geocoded
-MN115,D & O Lounge,,775 Front St.,St. Paul,MN,"(M),(RT),(G)",Bars/Clubs,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"775 Front St., St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN116,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1974,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"1415 University Ave., St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN117,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1973,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN118,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotels,1973,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"250 S. 1st Ave. E, Duluth, MN",-92.0964945,46.7875851,"250 s 1st ave e, duluth, mn 55802, usa",Geocoded
-MN119,Club ,(next door to Orpheum Theatre & upstairs -Admission Charge) ,916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D)","Restaurant,Bars/Clubs",1973,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"916 Hennepin, Minneapolis, MN",-93.277722,44.97636,"916 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN120,Haberdashery,Raddison Hotel,45 So. 7th St.,Minneapolis,MN,(M),"Bars/Clubs,Restaurant,Hotels",1973,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"45 So. 7th St., Minneapolis, MN",-93.2731363,44.9771474,"45 s 7th st, minneapolis, mn 55402, usa",Geocoded
-MN121,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1973,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN122,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1973,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"630 N. 2nd Ave, Minneapolis, MN",-93.2770017,44.9802343,"630 n 2nd ave, minneapolis, mn 55403, usa",Geocoded
-MN123,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1973,NA,,3/31/2020 9:36pm,7/23/2020 7:23pm,"221 Cedar Ave., Minneapolis, MN",-93.2469139,44.973203,"221 cedar ave, minneapolis, mn 55454, usa",Geocoded
-MN124,Nineteen Bar,(best on Sundays),19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1973,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"19 W. 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN125,Sand Box,,507 Hennepin,Minneapolis,MN,,Bars/Clubs,1973,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"507 Hennepin, Minneapolis, MN",-93.2730033,44.9792523,"507 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN126,Sutton's,(Plans to open adjoining restaurant soon),114 N. 7th St.,Minneapolis,MN,"(YC),(D),(*)","Bars/Clubs,Restaurant",1973,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN127,F-M Motel Bar,,403 Center Ave.,Moorhead,MN,,"Bars/Clubs,Hotels",1973,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"403 Center Ave., Moorhead, MN",-96.773502,46.874876,"403 center ave, moorhead, mn 56560, usa",Geocoded
-MN128,D & O Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1973,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"775 Front St., St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN129,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1973,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"1415 University Ave., St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN130,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN131,Club ,(Next door to Orpheum Theatre & upstairs -Admission Charge) ,916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D)","Restaurant,Bars/Clubs",1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"916 Hennepin, Minneapolis, MN",-93.277722,44.97636,"916 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN132,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,(M),"Bars/Clubs,Restaurant,Hotels",1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"45 S. 7th St., Minneapolis, MN",-93.2731363,44.9771474,"45 s 7th st, minneapolis, mn 55402, usa",Geocoded
-MN133,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN134,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"630 N. 2nd Ave, Minneapolis, MN",-93.2770017,44.9802343,"630 n 2nd ave, minneapolis, mn 55403, usa",Geocoded
-MN135,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"221 Cedar Ave., Minneapolis, MN",-93.2469139,44.973203,"221 cedar ave, minneapolis, mn 55454, usa",Geocoded
-MN136,Nineteen Bar,(best Sun.),19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"19 W. 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN137,Aquarium,,23 N. 4th,Moorhead,MN,(M),Business,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"23 N. 4th, Moorhead, MN",-96.7741605,46.873974,"23 4th st s, moorhead, mn 56560, usa",Geocoded
-MN138,Kahler Hotel Rooftop Bar,,20-2nd Ave. SW,Rochester,MN,(M),"Bars/Clubs,Hotels",1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"20-2nd Ave. SW, Rochester, MN",-92.465698,44.0232749,"20 2nd ave sw, rochester, mn 55902, usa",Geocoded
-MN139,D & O Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"775 Front St., St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN140,Smoky's Den,,266 University Ave.,St. Paul,MN,,Bars/Clubs,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"266 University Ave., St. Paul, MN",-93.1113701,44.9555017,"266 university ave w, st paul, mn 55103, usa",Geocoded
-MN141,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1972,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"1415 University Ave., St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN142,Duluth Steam Baths,,18 N. 1st Ave. E.,Duluth,MN,,Baths,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN143,Geno's,(after hours) (admission charge) ,916 Hennepin,Minneapolis,MN,"(C),(D)",Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"916 Hennepin, Minneapolis, MN",-93.277722,44.97636,"916 hennepin ave, minneapolis, mn 55403, usa",Geocoded
-MN144,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN145,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"630 N. 2nd Ave, Minneapolis, MN",-93.2770017,44.9802343,"630 n 2nd ave, minneapolis, mn 55403, usa",Geocoded
-MN146,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"221 Cedar Ave., Minneapolis, MN",-93.2469139,44.973203,"221 cedar ave, minneapolis, mn 55454, usa",Geocoded
-MN147,Nineteen Bar,,19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"19 W. 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN148,Northeast Steam Baths,,1900 University Ave. N.E.,Minneapolis,MN,(M),Baths,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"1900 University Ave. N.E., Minneapolis, MN",-93.2632452,45.0076023,"1900 university ave ne, minneapolis, mn 55418, usa",Geocoded
-MN149,Sutton's,(upstairs (D) on weekends),114 N. 7th St.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN150,Town House,(midway bet. St. Paul & Minneapolis,1321 University Ave.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"1321 University Ave., Minneapolis, MN",-93.2365362,44.9795222,"1321 university ave se, minneapolis, mn 55455, usa",Geocoded
-MN151,Aquarium,,23 No. 4th,Moorhead,MN,(M),Business,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"23 No. 4th, Moorhead, MN",-96.7741605,46.873974,"23 4th st s, moorhead, mn 56560, usa",Geocoded
-MN152,Kahler Hotel Rooftop Bar,(Rooftop Bar),20 2nd Ave. SW,Rochester,MN,(M),"Bars/Clubs,Hotels",1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"20 2nd Ave. SW, Rochester, MN",-92.465698,44.0232749,"20 2nd ave sw, rochester, mn 55902, usa",Geocoded
-MN153,Towne House Lounge,,10 1st Ave. S.E. ,Rochester,MN,(M),Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"10 1st Ave. S.E. , Rochester, MN",-92.4609194,44.0230961,"10 1st ave se, rochester, mn 55904, usa",Geocoded
-MN154,D & O Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1971,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"775 Front St., St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN155,J.T's ,(TONY'S No. 2),226 University,St. Paul,MN,,Bars/Clubs,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"226 University, St. Paul, MN",-93.1156313,44.9463924,"370 selby ave suite 226, st paul, mn 55102, usa",Geocoded
-MN156,Duluth Steam Baths,,18 N. 1st Ave. E.,Duluth,MN,,Baths,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN157,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN158,Herb's,(best on Sundays),624 N. 2nd Ave,Minneapolis,MN,(D),Bars/Clubs,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"624 N. 2nd Ave, Minneapolis, MN",-93.2769194,44.9802885,"624 n 2nd ave, minneapolis, mn 55403, usa",Geocoded
-MN159,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"630 N. 2nd Ave, Minneapolis, MN",-93.2770017,44.9802343,"630 n 2nd ave, minneapolis, mn 55403, usa",Geocoded
-MN160,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"221 Cedar Ave., Minneapolis, MN",-93.2469139,44.973203,"221 cedar ave, minneapolis, mn 55454, usa",Geocoded
-MN161,Nineteen Bar,,19 W. 15th ,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"19 W. 15th , Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN162,Sutton's,Upstairs (D) on weekends,114 N. 7th St.,Minneapolis,MN,"(D),(*)",Bars/Clubs,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN163,Aquarium,,23 No. 4th,Moorhead,MN,(M),Business,1970,NA,,3/31/2020 10:26pm,7/23/2020 7:23pm,"23 No. 4th, Moorhead, MN",-96.7741605,46.873974,"23 4th st s, moorhead, mn 56560, usa",Geocoded
-MN164,Kahler Hotel Rooftop Bar,,20 SW 2nd,Rochester,MN,(M),"Bars/Clubs,Hotels",1970,NA,,3/31/2020 10:51pm,7/23/2020 7:23pm,"20 SW 2nd, Rochester, MN",-92.465748,44.023326,"20 sw 2nd ave sw, rochester, mn 55902, usa",Geocoded
-MN165,Towne House Lounge,,10 1st Ave. S.E. ,Rochester,MN,(M),Bars/Clubs,1970,NA,,3/31/2020 10:51pm,7/23/2020 7:23pm,"10 1st Ave. S.E. , Rochester, MN",-92.4609194,44.0230961,"10 1st ave se, rochester, mn 55904, usa",Geocoded
-MN166,DQ Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1970,NA,,3/31/2020 10:51pm,7/23/2020 7:23pm,"775 Front St., St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN167,Toni's Lounge,,226 University,St. Paul,MN,,Bars/Clubs,1970,NA,,3/31/2020 10:51pm,7/23/2020 7:23pm,"226 University, St. Paul, MN",-93.1156313,44.9463924,"370 selby ave suite 226, st paul, mn 55102, usa",Geocoded
-MN168,Duluth Steam Baths,,18 N 1st Ave,Duluth,MN,,Baths,1969,NA,,3/31/2020 10:51pm,7/23/2020 7:23pm,"18 N 1st Ave, Duluth, MN",-92.0973879,46.7884657,"18 n 1st ave w, duluth, mn 55802, usa",Geocoded
-MN169,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1969,NA,,3/31/2020 10:51pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN170,Nineteen Bar,(best Sun.-others closed),19 W 15th ,Minneapolis,MN,,Bars/Clubs,1969,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"19 W 15th , Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN171,Sutton's,,114 N. 7th St.,Minneapolis,MN,(*),Bars/Clubs,1969,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN172,Aquarium,,23 N 4th,Moorhead,MN,(M),Business,1969,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"23 N 4th, Moorhead, MN",-96.7741605,46.873974,"23 4th st s, moorhead, mn 56560, usa",Geocoded
-MN173,Kahler Hotel Rooftop Bar,,20 SW 2nd,Rochester,MN,(M),"Bars/Clubs,Hotels",1969,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"20 SW 2nd, Rochester, MN",-92.465748,44.023326,"20 sw 2nd ave sw, rochester, mn 55902, usa",Geocoded
-MN174,Towne House Lounge,,10 SE 1st ,Rochester,MN,(M),Bars/Clubs,1969,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"10 SE 1st , Rochester, MN",-92.4609194,44.0230961,"10 1st ave se, rochester, mn 55904, usa",Geocoded
-MN175,Toni's Lounge,,775 Front St,St. Paul,MN,,Bars/Clubs,1969,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"775 Front St, St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN176,Duluth Steam Baths,,18 N 1st Ave,Duluth,MN,,Baths,1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"18 N 1st Ave, Duluth, MN",-92.0973879,46.7884657,"18 n 1st ave w, duluth, mn 55802, usa",Geocoded
-MN177,Happy Hour,,408 Hennepin ,Minneapolis,MN,(*),Bars/Clubs,1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"408 Hennepin , Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN178,Nineteen Bar,(best Sun.-others closed),19 W 15th ,Minneapolis,MN,,Bars/Clubs,1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"19 W 15th , Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN179,Sutton's,,114 N. 7th ,Minneapolis,MN,(*),Bars/Clubs,1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"114 N. 7th , Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN180,Aquarium,,23 N 4th,Moorhead,MN,(M),Business,1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"23 N 4th, Moorhead, MN",-96.7741605,46.873974,"23 4th st s, moorhead, mn 56560, usa",Geocoded
-MN181,Kahler Hotel Rooftop Bar,,20 SW 2nd,Rochester,MN,(M),"Bars/Clubs,Hotels",1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"20 SW 2nd, Rochester, MN",-92.465748,44.023326,"20 sw 2nd ave sw, rochester, mn 55902, usa",Geocoded
-MN182,Towne House Lounge,,10 SE 1st ,Rochester,MN,(M),Bars/Clubs,1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"10 SE 1st , Rochester, MN",-92.4609194,44.0230961,"10 1st ave se, rochester, mn 55904, usa",Geocoded
-MN183,Toni's ,,775 Front St,St. Paul,MN,,Bars/Clubs,1968,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"775 Front St, St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN184,Duluth Hotel Bar,,231 E Superior,Duluth,MN,(M),"Hotels,Bars/Clubs",1966,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"231 E Superior, Duluth, MN",-92.0950194,46.7897626,"231 e superior st, duluth, mn 55802, usa",Geocoded
-MN185,Duluth Steam Baths,,18 N 1st Av,Duluth,MN,,Baths,1966,NA,,3/31/2020 10:55pm,7/23/2020 7:23pm,"18 N 1st Av, Duluth, MN",-92.0973879,46.7884657,"18 n 1st ave w, duluth, mn 55802, usa",Geocoded
-MN186,Happy Hour,(Gay 90's Theater bar),408 Hennepin ,Minneapolis,MN,(*),Bars/Clubs,1966,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"408 Hennepin , Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN187,Nineteen,,19 W 15th St.,Minneapolis,MN,(*),Bars/Clubs,1966,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"19 W 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN188,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(*),(D)",Bars/Clubs,1966,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN189,Toni's  Bar,,775 Front St,St. Paul,MN,,Bars/Clubs,1966,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"775 Front St, St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN190,Duluth Hotel Bar,,231 E Superior,Duluth,MN,(M),"Hotels,Bars/Clubs",1965,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"231 E Superior, Duluth, MN",-92.0950194,46.7897626,"231 e superior st, duluth, mn 55802, usa",Geocoded
-MN191,Duluth Steam Baths,,18 N 1st Av,Duluth,MN,,Baths,1965,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"18 N 1st Av, Duluth, MN",-92.0973879,46.7884657,"18 n 1st ave w, duluth, mn 55802, usa",Geocoded
-MN192,Happy Hour,(Gay Nineties Theater bar),408 Hennepin ,Minneapolis,MN,(*),"Bars/Clubs,Theatre",1965,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"408 Hennepin , Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN193,Nineteen,,19 W 15th St.,Minneapolis,MN,(*),Bars/Clubs,1965,NA,,3/31/2020 11:03pm,7/23/2020 7:23pm,"19 W 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN194,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotels,Bars/Clubs",1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"231 E. Superior, Duluth, MN",-92.0950194,46.7897626,"231 e superior st, duluth, mn 55802, usa",Geocoded
-MN195,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"18 N. 1st Ave. E., Duluth, MN",-92.0973096,46.7885323,"18 n 1st ave e, duluth, mn 55802, usa",Geocoded
-MN196,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotels,1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"250 S. 1st Ave. E, Duluth, MN",-92.0964945,46.7875851,"250 s 1st ave e, duluth, mn 55802, usa",Geocoded
-MN197,Brass Rail,,422 Hennepin Ave.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"422 Hennepin Ave., Minneapolis, MN",-93.2725204,44.9800829,"422 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN198,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R),(HIP)","Bars/Clubs,Restaurant,Hotels",1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"45 S. 7th St., Minneapolis, MN",-93.2731363,44.9771474,"45 s 7th st, minneapolis, mn 55402, usa",Geocoded
-MN199,Happy Hour,"(Some OC, RT))",408 Hennepin Ave,Minneapolis,MN,"(*),(OC),(RT)","Bars/Clubs,Cruising Areas",1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"408 Hennepin Ave, Minneapolis, MN",-93.2719109,44.9804466,"408 hennepin ave, minneapolis, mn 55401, usa",Geocoded
-MN200,Locker Room Health Club,,315 1st Ave. N.,Minneapolis,MN,"(*),(D),(AH)","Baths,Business",1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"315 1st Ave. N., Minneapolis, MN",-93.2716773,44.9815103,"315 n 1st ave, minneapolis, mn 55401, usa",Geocoded
-MN201,Nineteen Bar,(best Sundays*),19 W. 15th St.,Minneapolis,MN,"(RT),(G),(*)",Bars/Clubs,1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"19 W. 15th St., Minneapolis, MN",-93.2787582,44.9675316,"19 w 15th st, minneapolis, mn 55403, usa",Geocoded
-MN202,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(YC),(D),(R),(*)","Bars/Clubs,Restaurant",1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"114 N. 7th St., Minneapolis, MN",-93.274816,44.9779906,"114 n 7th st, minneapolis, mn 55402, usa",Geocoded
-MN203,Mantle,,St. Germaine Avenue,St. Cloud,MN,(M),Bars/Clubs,1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"St. Germaine Avenue, St. Cloud, MN",-94.1910101,45.5471803,"w st germain st, st cloud, mn, usa",Geocoded
-MN204,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC),(*)",Bars/Clubs,1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"502 St. Germaine Ave, St. Cloud, MN",-94.158151,45.560841,"502 w st germain st, st cloud, mn 56301, usa",Geocoded
-MN205,D & O Lounge,,775 Front St.,St. Paul,MN,"(M),(RT),(G)",Bars/Clubs,1976,NA,,4/1/2020 3:52pm,7/23/2020 7:23pm,"775 Front St., St. Paul, MN",-93.132837,44.970438,"775 front ave, st paul, mn 55103, usa",Geocoded
-MN206,Noble Roman,,788 Grand Ave,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1976,NA,,4/1/2020 4:01pm,7/23/2020 7:23pm,"788 Grand Ave, St. Paul, MN",-93.1332322,44.939764,"788 grand ave, st paul, mn 55105, usa",Geocoded
-MN207,Town House,(Many G),1415 University Ave.,St. Paul,MN,"(D),(*),(G)",Bars/Clubs,1976,NA,,4/1/2020 4:01pm,7/23/2020 7:23pm,"1415 University Ave., St. Paul, MN",-93.1600439,44.9560056,"1415 university ave w, st paul, mn 55104, usa",Geocoded
-MN208,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1965,checked,,3/31/2020 11:03pm,3/31/2020 11:09pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN209,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1966,checked,,3/31/2020 11:03pm,3/31/2020 11:06pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN210,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1968,checked,,3/31/2020 10:55pm,3/31/2020 11:01pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN211,Skol Room,,N. 4th at Center,Moorhead,MN,(M),Business,1968,checked,,3/31/2020 10:55pm,3/31/2020 11:01pm,"N. 4th at Center, MN",-96.773502,46.874876,unclear_coded_by_hand,Found
-MN212,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1968,checked,,3/31/2020 10:55pm,3/31/2020 11:01pm,"9th & Hennepin, MN",-93.276688,44.976305,unclear_coded_by_hand,Found
-MN213,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1969,checked,,3/31/2020 10:54pm,3/31/2020 10:59pm,"9th & Hennepin, MN",-93.276688,44.976305,unclear_coded_by_hand,Found
-MN214,Skol Room,,N. 4th at Center,Moorhead,MN,(M),Business,1969,checked,,3/31/2020 10:55pm,3/31/2020 10:59pm,"N. 4th at Center, MN",-96.773502,46.874876,unclear_coded_by_hand,Found
-MN215,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1969,checked,,3/31/2020 10:51pm,3/31/2020 10:59pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN216,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1970,checked,,3/31/2020 10:26pm,3/31/2020 10:54pm,"9th & Hennepin, MN",-93.276688,44.976305,unclear_coded_by_hand,Found
-MN217,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1970,checked,,3/31/2020 10:26pm,3/31/2020 10:55pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN218,Skol Room,,N. 4th at Center,Moorhead,MN,(M),Business,1970,checked,,3/31/2020 10:51pm,3/31/2020 10:54pm,"N. 4th at Center, MN",-96.773502,46.874876,unclear_coded_by_hand,Found
-MN219,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1971,checked,,3/31/2020 10:26pm,3/31/2020 10:48pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN220,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1971,checked,,3/31/2020 10:26pm,3/31/2020 10:48pm,"9th & Hennepin, MN",-93.276688,44.976305,unclear_coded_by_hand,Found
-MN221,Skol Room,,Center at N. 4th,Moorhead,MN,(M),Business,1971,checked,,3/31/2020 10:26pm,3/31/2020 10:48pm,"Center at N. 4th, MN",-96.773502,46.874876,unclear_coded_by_hand,Found
-MN222,Skol Room,,Center at N. 4th,Moorhead,MN,(M),Business,1972,checked,,3/31/2020 10:26pm,3/31/2020 10:38pm,"Center at N. 4th, MN",-96.773502,46.874876,unclear_coded_by_hand,Found
-MN223,Hennepin & Nicollet Sts.,downtown,,Minneapolis,MN,Cruisy Area,Cruising Areas,1972,checked,Pin on Nicollet Ave,3/31/2020 10:26pm,3/31/2020 10:38pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN224,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1972,checked,,3/31/2020 10:26pm,3/31/2020 10:38pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN225,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1972,checked,,3/31/2020 10:26pm,3/31/2020 10:38pm,", MN",-93.284842,44.969968,unclear_coded_by_hand,Found
-MN226,Lake Calhoun Beach,Calhoun Blvd. bet. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1972,checked,,3/31/2020 10:26pm,3/31/2020 10:38pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN227,Bare ass Beach,Mississippi River Flats at Franklin,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1972,checked,,3/31/2020 10:26pm,3/31/2020 10:38pm,", MN",-93.226768,44.963031,unclear_coded_by_hand,Found
-MN228,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1972,checked,,3/31/2020 10:26pm,3/31/2020 10:38pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN229,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1973,checked,,3/31/2020 10:26pm,3/31/2020 10:33pm,"4th Street & 5th Avenue S.E, MN",-92.456822,44.018611,unclear_coded_by_hand,Found
-MN230,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1973,checked,,3/31/2020 10:26pm,3/31/2020 10:33pm,", MN",-93.284842,44.969968,unclear_coded_by_hand,Found
-MN231,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1973,checked,,3/31/2020 9:36pm,3/31/2020 10:33pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN232,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1973,checked,,3/31/2020 10:26pm,3/31/2020 10:32pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN233,Mr. Pete's Corral,Next to Bus Depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1973,checked,,3/31/2020 9:36pm,3/31/2020 10:33pm,", MN",-92.103526,46.782689,unclear_coded_by_hand,Found
-MN234,Bare ass Beach,Mississippi River Flats at Franklin,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1973,checked,,3/31/2020 10:26pm,3/31/2020 10:33pm,", MN",-93.226768,44.963031,unclear_coded_by_hand,Found
-MN235,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1973,checked,Pin on Nicollet Ave,3/31/2020 10:26pm,3/31/2020 10:33pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN236,Lake Calhoun Beach,Calhoun Blvd. bet. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1973,checked,,3/31/2020 10:26pm,3/31/2020 10:33pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN237,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:23pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN238,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1974,checked,Pin on Nicollet Ave,3/31/2020 9:36pm,3/31/2020 10:23pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN239,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:23pm,"4th Street & 5th Avenue S.E, MN",-92.456822,44.018611,unclear_coded_by_hand,Found
-MN240,Franklin Theatre,,10th & Franklin,Minneapolis,MN,,Theatre,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:23pm,"10th & Franklin, MN",-93.259662,44.962714,unclear_coded_by_hand,Found
-MN241,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:23pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN242,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:23pm,", MN",-93.284842,44.969968,unclear_coded_by_hand,Found
-MN243,Mr. Pete's Corral,Next to Bus Depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:23pm,", MN",-92.103526,46.782689,unclear_coded_by_hand,Found
-MN244,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:23pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN245,'B.A.' Beach,Mississippi River Flats at Franklin,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1974,checked,,3/31/2020 9:36pm,3/31/2020 10:29pm,", MN",-93.226768,44.963031,unclear_coded_by_hand,Found
-MN246,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,checked,,3/31/2020 9:35pm,3/31/2020 10:23pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN247,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1975,checked,,3/31/2020 9:35pm,3/31/2020 10:23pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN248,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,checked,Pin on Nicollet Ave,3/31/2020 9:35pm,3/31/2020 10:23pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN249,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1975,checked,,3/31/2020 9:35pm,3/31/2020 10:23pm,"4th Street & 5th Avenue S.E, MN",-92.456822,44.018611,unclear_coded_by_hand,Found
-MN250,Mr. Pete's Corral,Next to bus depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1975,checked,,3/31/2020 9:35pm,3/31/2020 10:23pm,", MN",-92.103526,46.782689,unclear_coded_by_hand,Found
-MN251,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,checked,,3/31/2020 9:35pm,3/31/2020 10:23pm,", MN",-93.282489,45.003436,unclear_coded_by_hand,General Coordinates Used
-MN252,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1975,checked,,3/31/2020 9:57pm,3/31/2020 10:23pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN253,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,checked,,3/31/2020 9:35pm,3/31/2020 10:23pm,", MN",-93.284842,44.969968,unclear_coded_by_hand,Found
-MN254,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1975,checked,,3/31/2020 9:35pm,3/31/2020 10:30pm,", MN",-93.23506,44.970351,unclear_coded_by_hand,Found
-MN255,Mississippi River Flats,"'B.A' Beach about 2,000 block of East River Road-opposite Shriners Hospital",,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-93.23506,44.970351,unclear_coded_by_hand,Found
-MN256,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-93.282489,45.003436,unclear_coded_by_hand,General Coordinates Used
-MN257,Hennepin & Nicollet Streets,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,checked,Pin on Nicollet Ave,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN258,Outrigger,(bar area only),4th St. & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,"4th St. & 5th Avenue S.E, MN",-92.456822,44.018611,unclear_coded_by_hand,Found
-MN259,St. Cloud State College,Education Bldg.,,St. Cloud,MN,Cruisy Area,Cruising Areas,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-94.152477,45.551075,unclear_coded_by_hand,Found
-MN260,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1976,checked,,4/1/2020 4:01pm,4/1/2020 4:07pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN261,Mr. Pete's Corral,Next to Bus Depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-92.103526,46.782689,unclear_coded_by_hand,Found
-MN262,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-93.284842,44.969968,unclear_coded_by_hand,Found
-MN263,Brookdale Mall,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-93.318499,44.980714,unclear_coded_by_hand,Found
-MN264,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,(OC),Baths,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN265,Lake Calhoun Beach,Calhoun Boulevard between 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,checked,,4/1/2020 3:52pm,4/1/2020 4:07pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN266,Hennepin & Nicollet Streets,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,checked,Pin on Nicollet Ave,3/31/2020 9:35pm,3/31/2020 9:47pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN267,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1977,checked,,3/31/2020 9:16pm,3/31/2020 9:47pm,", MN",-92.100759,46.783892,unclear_coded_by_hand,Found
-MN268,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1977,checked,,3/31/2020 9:35pm,3/31/2020 9:47pm,"4th Street & 5th Avenue S.E, MN",-92.456822,44.018611,unclear_coded_by_hand,Found
-MN269,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,checked,,3/31/2020 9:35pm,3/31/2020 9:47pm,", MN",-93.284842,44.969968,unclear_coded_by_hand,Found
-MN270,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,(OC),Baths,1977,checked,,3/31/2020 9:16pm,3/31/2020 9:47pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN271,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1977,checked,,3/31/2020 9:35pm,3/31/2020 9:46pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN272,Lake Calhoun Beach,Calhoun Boulevard between 31st & 32nd Streets.,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,checked,,3/31/2020 9:35pm,3/31/2020 9:47pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN273,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,checked,,3/31/2020 9:35pm,3/31/2020 9:47pm,", MN",-93.282489,45.003436,unclear_coded_by_hand,General Coordinates Used
-MN274,Mantle,,St. Germaine Avenue,St. Cloud,MN,(M),Bars/Clubs,1977,checked,,3/31/2020 9:35pm,3/31/2020 9:47pm,"St. Germaine Avenue, MN",-94.158503,45.561298,unclear_coded_by_hand,Found
-MN275,Mississippi River Flats,"'B.A' Beach about 2,000 block of East River Road-opposite Shriners Hospital",,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1977,checked,,3/31/2020 9:35pm,3/31/2020 10:30pm,", MN",-93.23506,44.970351,unclear_coded_by_hand,Found
-MN276,Brookdale Mall,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,checked,,3/31/2020 9:35pm,3/31/2020 9:47pm,", MN",-93.318499,44.980714,unclear_coded_by_hand,Found
-MN277,Lambda Friends,"P.O. Box 454, Rochester, Minn. 55901",,Rochester,MN,,Organizations,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-92.480199,44.012122,unclear_coded_by_hand,General Coordinates Used
-MN278,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1978,checked,,3/26/2020 1:41am,3/31/2020 9:33pm,", MN",-92.100759,46.783892,unclear_coded_by_hand,Found
-MN279,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd Sts.,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN280,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-93.284842,44.969968,unclear_coded_by_hand,Found
-MN281,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1978,checked,,3/31/2020 9:16pm,3/31/2020 10:30pm,", MN",-93.23506,44.970351,unclear_coded_by_hand,Found
-MN282,M.C.C.,,44th & York St.,Minneapolis,MN,M.C.C.,Church,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,"44th & York St., MN",-93.320149,44.923334,unclear_coded_by_hand,Found
-MN283,Brookdale Mall,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-93.318499,44.980714,unclear_coded_by_hand,Found
-MN284,IDS Tower,Indoor Mall,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-93.272309,44.976119,unclear_coded_by_hand,Found
-MN285,Mantle,,St. German Ave,St. Cloud,MN,(M),Bars/Clubs,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,"St. German Ave, MN",-94.158503,45.561298,unclear_coded_by_hand,Found
-MN286,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-93.282489,45.003436,unclear_coded_by_hand,General Coordinates Used
-MN287,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,(OC),Baths,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN288,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1978,checked,,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN289,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,checked,Pin on Nicollet Ave,3/31/2020 9:16pm,3/31/2020 9:33pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN290,Hennepin & Nicollet,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1979,checked,Pin on Nicollet Ave,3/26/2020 1:39am,3/27/2020 2:35pm,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN291,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1979,checked,,3/26/2020 1:41am,3/31/2020 10:40pm,", MN",-93.097113,44.94475,unclear_coded_by_hand,Found
-MN292,Loring Park & Clifton St.,(HOT),,Minneapolis,MN,"Cruisy Area,(AYOR)",Cruising Areas,1979,checked,,3/26/2020 1:39am,3/27/2020 2:35pm,", MN",-93.284177,44.966184,unclear_coded_by_hand,Found
-MN293,IDS Tower,Indoor Mall (Crystal Court),,Minneapolis,MN,Cruisy Area,Cruising Areas,1979,checked,,3/26/2020 1:39am,3/27/2020 2:35pm,", MN",-93.272309,44.976119,unclear_coded_by_hand,Found
-MN294,Mantle,,St. German Ave,St. Cloud,MN,(M),Bars/Clubs,1979,checked,,3/26/2020 1:39am,3/27/2020 2:35pm,"St. German Ave, MN",-94.158503,45.561298,unclear_coded_by_hand,Found
-MN295,Lambda Friends,"P.O. Box 454, Rochester, MN 55901",,Rochester,MN,,Organizations,1979,checked,P.O Box,3/26/2020 1:39am,3/27/2020 2:35pm,", MN",-92.480199,44.012122,unclear_coded_by_hand,General Coordinates Used
-MN296,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,"(OC),(RT)",Baths,1979,checked,,3/26/2020 1:33am,3/27/2020 2:35pm,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
-MN297,Erie Rex Lounge,(Cruisy-WE),Hwy. 10 E,Detroit Lakes,MN,"(M),(R),(E),(WE)","Cruising Areas,Restaurant,Bars/Clubs",1979,checked,,3/26/2020 12:44am,3/27/2020 2:35pm,"Hwy. 10 E, MN",-95.845325,46.817181,unclear_coded_by_hand,General Coordinates Used
-MN298,Grand Finale,(Disco) (also Victorian Pub),490 N. Robert St. at 10th St.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1979,checked,,3/26/2020 1:41am,3/27/2020 2:35pm,"490 N. Robert St. at 10th St., MN",-93.093876,44.950813,unclear_coded_by_hand,Found
-MN299,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1979,checked,,3/26/2020 1:39am,3/27/2020 2:35pm,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN300,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1979,checked,,3/26/2020 1:39am,3/31/2020 10:30pm,", MN",-93.23506,44.970351,unclear_coded_by_hand,Found
-MN301,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1979,checked,,3/26/2020 12:44am,3/27/2020 2:35pm,", MN",-92.100759,46.783892,unclear_coded_by_hand,Found
-MN302,Embers,,26th & Hennepin,Minneapolis,MN,"(M),(R),(C),(AH)",Restaurant,1979,checked,,3/26/2020 1:33am,3/27/2020 2:35pm,"26th & Hennepin, MN",-93.296736,44.955413,unclear_coded_by_hand,Found
-MN303,M.C.C.,,44th & York St.,Minneapolis,MN,M.C.C.,Church,1979,checked,,3/26/2020 1:33am,3/27/2020 2:35pm,"44th & York St., MN",-93.320149,44.923334,unclear_coded_by_hand,Found
-MN304,Mantle,,St. German Ave,St. Cloud,MN,(M),Bars/Clubs,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,"St. German Ave, MN",-94.158503,45.561298,unclear_coded_by_hand,Found
-MN305,Lake Calhoun Beach,Calhoun Blvd. betw. 32nd & 33rd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-93.319936,44.945113,unclear_coded_by_hand,Found
-MN306,Loring Park & Clifton St.,,,Minneapolis,MN,"Cruisy Area,(AYOR)",Cruising Areas,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-93.284177,44.966184,unclear_coded_by_hand,Found
-MN307,Book Store,at Wabasha & Dale,,St. Paul,MN,"Cruisy Area,(AYOR)","Cruising Areas,Book Store",1980,checked,,3/26/2020 12:44am,7/14/2020 9:20am,", MN",-93.089958,44.953703,unclear_coded_by_hand,General Coordinates Used
-MN308,IDS Tower,Indoor Mall (Crystal Court),,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-93.272309,44.976119,unclear_coded_by_hand,Found
-MN309,Grand Finale,(Disco) (Macho) (Cruisy),490 N. Robert St. at 10th St.,St. Paul,MN,"(YC),(D),(PT),(*)","Cruising Areas,Bars/Clubs",1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,"490 N. Robert St. at 10th St., MN",-93.093876,44.950813,unclear_coded_by_hand,Found
-MN310,M.C.C.,,44th & York St.,Minneapolis,MN,M.C.C.,Church,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,"44th & York St., MN",-93.320149,44.923334,unclear_coded_by_hand,Found
-MN311,Lambda Friends,"P.O. Box 454, Rochester, MN 55901",,Rochester,MN,,Organizations,1980,checked,p.o box,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-92.480199,44.012122,unclear_coded_by_hand,General Coordinates Used
-MN312,U. of Minnesota,Lesbian & Gay Committee (Coffmann Mem. Union),,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-93.235375,44.973089,unclear_coded_by_hand,Found
-MN313,Book Store,at Dale University,,St. Paul,MN,Cruisy Area,"Cruising Areas,Book Store",1980,checked,,3/26/2020 12:44am,7/14/2020 9:20am,", MN",-93.089958,44.953703,unclear_coded_by_hand,General Coordinates Used
-MN314,Rosedale Shopping Center,T-Room (Rosedale),,St. Paul,MN,Cruisy Area,Cruising Areas,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-93.171842,45.014605,unclear_coded_by_hand,Found
-MN315,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-92.100759,46.783892,unclear_coded_by_hand,Found
-MN316,Hennepin & Nicollet,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,checked,Pin on Nicollet Ave,3/26/2020 12:44am,3/26/2020 1:31am,", MN",-93.277916,44.93048,unclear_coded_by_hand,General Coordinates Used
-MN317,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1980,checked,,3/26/2020 12:44am,3/31/2020 10:29pm,", MN",-93.23506,44.970351,unclear_coded_by_hand,Found
-MN318,Club Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1980,checked,,3/26/2020 12:44am,3/26/2020 1:31am,"5th & Hennepin, MN",-93.272574,44.979598,unclear_coded_by_hand,Found
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+14971,MN050,Stage Door,,111 W. 6th St.,St. Paul,MN,,Bars/Clubs,1979,,-93.0971915,44.9462817,Google Verified Location
+15166,MN245,'B.A.' Beach,Mississippi River Flats at Franklin,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1974,,-93.226768,44.963031,Verified Location
+15194,MN273,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,,-93.282489,45.003436,Location could not be verified. General city or location coordinates used.
+15177,MN256,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,,-93.282489,45.003436,Location could not be verified. General city or location coordinates used.
+15172,MN251,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,,-93.282489,45.003436,Location could not be verified. General city or location coordinates used.
+15207,MN286,'Rest Stops',along I-94,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,,-93.282489,45.003436,Location could not be verified. General city or location coordinates used.
+14926,MN005,Adonis Theatre,,900 Hennepin Ave.,Minneapolis,MN,,Theatre,1980,,-93.2774221,44.9765348,Google Verified Location
+14951,MN030,Adonis Theatre,,900 Hennepin Ave.,Minneapolis,MN,,Theatre,1979,,-93.2774221,44.9765348,Google Verified Location
+14977,MN056,Adonis Theatre,,900 Hennepin Ave.,Minneapolis,MN,,Theatre,1978,,-93.2774221,44.9765348,Google Verified Location
+14927,MN006,Adult Book Store,,429 Hennepin Ave.,Minneapolis,MN,(*),Book Store,1980,,-93.2714908,44.9798928,Google Verified Location
+14952,MN031,Adult Book Store,,429 Hennepin Ave.,Minneapolis,MN,(*),Book Store,1979,,-93.2714908,44.9798928,Google Verified Location
+14978,MN057,Adult Book Store,,429 Hennepin Ave.,Minneapolis,MN,,Book Store,1978,,-93.2714908,44.9798928,Google Verified Location
+15084,MN163,Aquarium,,23 No. 4th,Moorhead,MN,(M),Business,1970,,-96.7741605,46.873974,Google Verified Location
+15072,MN151,Aquarium,,23 No. 4th,Moorhead,MN,(M),Business,1971,,-96.7741605,46.873974,Google Verified Location
+15058,MN137,Aquarium,,23 N. 4th,Moorhead,MN,(M),Business,1972,,-96.7741605,46.873974,Google Verified Location
+15101,MN180,Aquarium,,23 N 4th,Moorhead,MN,(M),Business,1968,,-96.7741605,46.873974,Google Verified Location
+15093,MN172,Aquarium,,23 N 4th,Moorhead,MN,(M),Business,1969,,-96.7741605,46.873974,Google Verified Location
+14967,MN046,Arbuckle's,(Cruisy) Ramada Inn,600 30th Ave. S.,Moorhead,MN,"(M),(D)","Cruising Areas,Bars/Clubs",1979,,-96.7707273,46.8447393,Google Verified Location
+14942,MN021,Arbuckle's,(Cruisy) Ramada Inn,600 30th Ave. S.,Moorhead,MN,"(M),(D)","Cruising Areas,Bars/Clubs",1980,,-96.7707273,46.8447393,Google Verified Location
+15148,MN227,Bare ass Beach,Mississippi River Flats at Franklin,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1972,,-93.226768,44.963031,Verified Location
+15155,MN234,Bare ass Beach,Mississippi River Flats at Franklin,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1973,,-93.226768,44.963031,Verified Location
+15035,MN114,Belmont,,615 University Ave,St. Paul,MN,"(G),(D),(R),(*)",Restaurant,1974,,-93.1256964,44.9559865,Google Verified Location
+14953,MN032,Big Daddy'a,(Baths),3 N. 7th Hennepin,Minneapolis,MN,(OC),Baths,1979,,-93.275496,44.978453,Google Verified Location
+14928,MN007,Big Daddy'a,(Baths),3 N. 7th Hennepin,Minneapolis,MN,(OC),Baths,1980,,-93.275496,44.978453,Google Verified Location
+15234,MN313,Book Store,at Dale University,,St. Paul,MN,Cruisy Area,"Cruising Areas,Book Store",1980,,-93.089958,44.953703,Location could not be verified. General city or location coordinates used.
+15228,MN307,Book Store,at Wabasha & Dale,,St. Paul,MN,"Cruisy Area,(AYOR)","Cruising Areas,Book Store",1980,,-93.089958,44.953703,Location could not be verified. General city or location coordinates used.
+14996,MN075,Brass Rail,"(Some B, RT)",422 Hennepin Ave.,Minneapolis,MN,"(*),(D),(B),(RT)",Bars/Clubs,1977,,-93.2725204,44.9800829,Google Verified Location
+15118,MN197,Brass Rail,,422 Hennepin Ave.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1976,,-93.2725204,44.9800829,Google Verified Location
+14929,MN008,Brass Rail,(Some OC),422 Hennepin Ave.,Minneapolis,MN,"(OC),(*)",Bars/Clubs,1980,,-93.2725204,44.9800829,Google Verified Location
+14954,MN033,Brass Rail,(Some OC),422 Hennepin Ave.,Minneapolis,MN,"(OC),(*)",Bars/Clubs,1979,,-93.2725204,44.9800829,Google Verified Location
+14979,MN058,Brass Rail,,422 Hennepin Ave.,Minneapolis,MN,"(*),(D)",Bars/Clubs,1978,,-93.2725204,44.9800829,Google Verified Location
+15197,MN276,Brookdale Mall,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,,-93.318499,44.980714,Verified Location
+15184,MN263,Brookdale Mall,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,,-93.318499,44.980714,Verified Location
+15204,MN283,Brookdale Mall,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,,-93.318499,44.980714,Verified Location
+14955,MN034,Christopher Street,(Social organization),1111 W. 23rd St.,Minneapolis,MN,,Organizations,1979,,-93.3454804,44.9611114,Google Verified Location
+15040,MN119,Club ,(next door to Orpheum Theatre & upstairs -Admission Charge) ,916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D)","Restaurant,Bars/Clubs",1973,,-93.277722,44.97636,Google Verified Location
+15052,MN131,Club ,(Next door to Orpheum Theatre & upstairs -Admission Charge) ,916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D)","Restaurant,Bars/Clubs",1972,,-93.277722,44.97636,Google Verified Location
+15010,MN089,Club ,(next door to Orpheum Theatre & upstairs -adm charge) (AH*),916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D),(AH),(*)","Restaurant,Bars/Clubs",1975,,-93.277722,44.97636,Google Verified Location
+15025,MN104,Club ,(next door to Orpheum Theatre & upstairs -Adm Charge) ,916 Hennepin,Minneapolis,MN,"(YC),(R),(C),(D),(AH),(*)","Restaurant,Bars/Clubs",1974,,-93.277722,44.97636,Google Verified Location
+15011,MN090,Club Cabaret,(3 floors-go-go boys),5 S. 5th St.,Minneapolis,MN,"(D),(S),(*)",Bars/Clubs,1975,,-93.27191,44.9793254,Google Verified Location
+15026,MN105,Club Cabaret,,5 S. 5th St.,Minneapolis,MN,"(S),(*)",Bars/Clubs,1974,,-93.27191,44.9793254,Google Verified Location
+15239,MN318,Club Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1980,,-93.272574,44.979598,Verified Location
+14930,MN009,Club Minneapolis Baths,(Should be a winner),113 1st St. N. ,Minneapolis,MN,,Baths,1980,,-93.2685683,44.9849015,Google Verified Location
+15049,MN128,D & O Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1973,,-93.132837,44.970438,Google Verified Location
+15036,MN115,D & O Lounge,,775 Front St.,St. Paul,MN,"(M),(RT),(G)",Bars/Clubs,1974,,-93.132837,44.970438,Google Verified Location
+15126,MN205,D & O Lounge,,775 Front St.,St. Paul,MN,"(M),(RT),(G)",Bars/Clubs,1976,,-93.132837,44.970438,Google Verified Location
+15060,MN139,D & O Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1972,,-93.132837,44.970438,Google Verified Location
+15020,MN099,D & O Lounge,,775 Front St.,St. Paul,MN,"(M),(RT),(G)",Bars/Clubs,1975,,-93.132837,44.970438,Google Verified Location
+15075,MN154,D & O Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1971,,-93.132837,44.970438,Google Verified Location
+14931,MN010,Diginity,(Catholic Church),1701 Univeristy,Minneapolis,MN,,Church,1980,,-93.2281611,44.9845683,Google Verified Location
+14956,MN035,Diginity,(Catholic Church),1701 Univeristy,Minneapolis,MN,,Church,1979,,-93.2281611,44.9845683,Google Verified Location
+15087,MN166,DQ Lounge,,775 Front St.,St. Paul,MN,(G),Bars/Clubs,1970,,-93.132837,44.970438,Google Verified Location
+15111,MN190,Duluth Hotel Bar,,231 E Superior,Duluth,MN,(M),"Hotel,Bars/Clubs",1965,,-92.0950194,46.7897626,Google Verified Location
+14974,MN053,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotel,Bars/Clubs",1978,,-92.0950194,46.7897626,Google Verified Location
+15115,MN194,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotel,Bars/Clubs",1976,,-92.0950194,46.7897626,Google Verified Location
+15105,MN184,Duluth Hotel Bar,,231 E Superior,Duluth,MN,(M),"Hotel,Bars/Clubs",1966,,-92.0950194,46.7897626,Google Verified Location
+14993,MN072,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotel,Bars/Clubs",1977,,-92.0950194,46.7897626,Google Verified Location
+14948,MN027,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotel,Bars/Clubs",1979,,-92.0950194,46.7897626,Google Verified Location
+14923,MN002,Duluth Hotel Bar,,231 E. Superior,Duluth,MN,(M),"Hotel,Bars/Clubs",1980,,-92.0950194,46.7897626,Google Verified Location
+15008,MN087,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1975,76 is at the bottom!,-92.0973096,46.7885323,Google Verified Location
+15077,MN156,Duluth Steam Baths,,18 N. 1st Ave. E.,Duluth,MN,,Baths,1970,,-92.0973096,46.7885323,Google Verified Location
+14949,MN028,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1979,,-92.0973096,46.7885323,Google Verified Location
+15116,MN195,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1976,,-92.0973096,46.7885323,Google Verified Location
+14994,MN073,Duluth Steam Baths,(Closes 12 midnight),18 North 1st Avenue East.,Duluth,MN,,Baths,1977,,-92.0973096,46.7885323,Google Verified Location
+15106,MN185,Duluth Steam Baths,,18 N 1st Av,Duluth,MN,,Baths,1966,,-92.0973879,46.7884657,Google Verified Location
+15089,MN168,Duluth Steam Baths,,18 N 1st Ave,Duluth,MN,,Baths,1969,,-92.0973879,46.7884657,Google Verified Location
+15063,MN142,Duluth Steam Baths,,18 N. 1st Ave. E.,Duluth,MN,,Baths,1971,,-92.0973096,46.7885323,Google Verified Location
+15097,MN176,Duluth Steam Baths,,18 N 1st Ave,Duluth,MN,,Baths,1968,,-92.0973879,46.7884657,Google Verified Location
+15112,MN191,Duluth Steam Baths,,18 N 1st Av,Duluth,MN,,Baths,1965,,-92.0973879,46.7884657,Google Verified Location
+14975,MN054,Duluth Steam Baths,(Closes 12 midnight),18 No. 1st Ave. E.,Duluth,MN,,Baths,1978,,-92.0973096,46.7885323,Google Verified Location
+14924,MN003,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1980,,-92.0973096,46.7885323,Google Verified Location
+15051,MN130,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1972,,-92.0973096,46.7885323,Google Verified Location
+15023,MN102,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1974,,-92.0973096,46.7885323,Google Verified Location
+15038,MN117,Duluth Steam Baths,(Closes 12 midnight),18 N. 1st Ave. E.,Duluth,MN,,Baths,1973,,-92.0973096,46.7885323,Google Verified Location
+15223,MN302,Embers,,26th & Hennepin,Minneapolis,MN,"(M),(R),(C),(AH)",Restaurant,1979,,-93.296736,44.955413,Verified Location
+14922,MN001,Erie Rex Lounge,(Cruisy-WE),Hwy. 10 E,Detroit Lakes,MN,"(M),(R),(E),(WE)","Cruising Areas,Restaurant,Bars/Clubs",1980,,-95.8231186,46.8093797,Google Verified Location
+15218,MN297,Erie Rex Lounge,(Cruisy-WE),Hwy. 10 E,Detroit Lakes,MN,"(M),(R),(E),(WE)","Cruising Areas,Restaurant,Bars/Clubs",1979,,-95.845325,46.817181,Location could not be verified. General city or location coordinates used.
+15048,MN127,F-M Motel Bar,,403 Center Ave.,Moorhead,MN,,"Bars/Clubs,Hotel",1973,,-96.773502,46.874876,Google Verified Location
+15034,MN113,F-M Motel Bar,,403 Center Ave.,Moorhead,MN,,"Bars/Clubs,Hotel",1974,,-96.773502,46.874876,Google Verified Location
+15019,MN098,F-M Motel Bar,,403 Center Ave.,Moorhead,MN,(M),"Bars/Clubs,Hotel",1975,,-96.773502,46.874876,Google Verified Location
+14945,MN024,Foxy's,(Disco) (WE*) (Neon sigh says Saints & Sinners),249 W. 7th St.,St. Paul,MN,"(L),(D),(WE),(*)",Bars/Clubs,1980,,-93.1051603,44.9430545,Google Verified Location
+14970,MN049,Foxy's,(Disco),249 W. 7th St.,St. Paul,MN,"(G),(D)",Bars/Clubs,1979,,-93.1051603,44.9430545,Google Verified Location
+14988,MN067,Foxy's,(Many G) (Disco),249 W. 7th St.,St. Paul,MN,"(G),(D),(*)",Bars/Clubs,1978,,-93.1051603,44.9430545,Google Verified Location
+15161,MN240,Franklin Theatre,,10th & Franklin,Minneapolis,MN,,Theatre,1974,,-93.259662,44.962714,Verified Location
+14957,MN036,Gay House,(Social organ.),4419 Nicollet,Minneapolis,MN,,Organizations,1979,,-93.277716,44.9226156,Google Verified Location
+14932,MN011,Gay House,(Social organ.),4419 Nicollet,Minneapolis,MN,,Organizations,1980,,-93.277716,44.9226156,Google Verified Location
+14933,MN012,Gay Nineties,(Disco) (Some L) (Adj. Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D),(L),(R)","Restaurant,Bars/Clubs",1980,,-93.2719109,44.9804466,Google Verified Location
+14997,MN076,Gay Nineties,(Disco) (Next to Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D)","Restaurant,Bars/Clubs",1977,,-93.2719109,44.9804466,Google Verified Location
+14980,MN059,Gay Nineties,(Disco) (Adjoins Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D)","Restaurant,Bars/Clubs",1978,,-93.2719109,44.9804466,Google Verified Location
+14958,MN037,Gay Nineties,(Disco) (Some L) (Adj. Happy Hour),408 Hennepin Ave,Minneapolis,MN,"(*),(YC),(D),(L),(R)","Restaurant,Bars/Clubs",1979,,-93.2719109,44.9804466,Google Verified Location
+15064,MN143,Geno's,(after hours) (admission charge) ,916 Hennepin,Minneapolis,MN,"(C),(D)",Bars/Clubs,1971,,-93.277722,44.97636,Google Verified Location
+15219,MN298,Grand Finale,(Disco) (also Victorian Pub),490 N. Robert St. at 10th St.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1979,,-93.093876,44.950813,Verified Location
+15230,MN309,Grand Finale,(Disco) (Macho) (Cruisy),490 N. Robert St. at 10th St.,St. Paul,MN,"(YC),(D),(PT),(*)","Cruising Areas,Bars/Clubs",1980,,-93.093876,44.950813,Verified Location
+15188,MN267,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1977,,-92.100759,46.783892,Verified Location
+15199,MN278,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1978,,-92.100759,46.783892,Verified Location
+15222,MN301,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1979,,-92.100759,46.783892,Verified Location
+15236,MN315,Greyhound Bus Depot,,,Duluth,MN,Cruisy Area,Cruising Areas,1980,,-92.100759,46.783892,Verified Location
+15027,MN106,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R)","Bars/Clubs,Restaurant,Hotel,Hotel",1974,,-93.2731363,44.9771474,Google Verified Location
+15053,MN132,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,(M),"Bars/Clubs,Restaurant,Hotel,Hotel",1972,,-93.2731363,44.9771474,Google Verified Location
+15119,MN198,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R),(HIP)","Bars/Clubs,Restaurant,Hotel,Hotel",1976,,-93.2731363,44.9771474,Google Verified Location
+15041,MN120,Haberdashery,Raddison Hotel,45 So. 7th St.,Minneapolis,MN,(M),"Bars/Clubs,Restaurant,Hotel,Hotel",1973,,-93.2731363,44.9771474,Google Verified Location
+14998,MN077,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R),(HIP),(YC)","Bars/Clubs,Restaurant,Hotel,Hotel",1977,,-93.2731363,44.9771474,Google Verified Location
+15004,MN083,Haberdashery,,395 Wabasaha Ave.,St. Paul,MN,"(M),(YC),(R)",Restaurant,1977,,-93.084634,44.9338288,Google Verified Location
+14981,MN060,Haberdashery,Raddison Hotel,45 So. 7th St.,Minneapolis,MN,"(M),(R),(HIP),(YC)","Bars/Clubs,Restaurant,Hotel,Hotel",1978,,-93.2731363,44.9771474,Google Verified Location
+15012,MN091,Haberdashery,Raddison Hotel,45 S. 7th St.,Minneapolis,MN,"(M),(R),(HIP)","Bars/Clubs,Restaurant,Hotel,Hotel",1975,,-93.2731363,44.9771474,Google Verified Location
+14989,MN068,Haberdashery,,395 Wabasaha Ave.,St. Paul,MN,"(M),(YC),(R)",Restaurant,1978,,-93.084634,44.9338288,Google Verified Location
+15107,MN186,Happy Hour,(Gay 90's Theater bar),408 Hennepin ,Minneapolis,MN,(*),Bars/Clubs,1966,,-93.2719109,44.9804466,Google Verified Location
+15065,MN144,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1971,,-93.2719109,44.9804466,Google Verified Location
+15013,MN092,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1975,,-93.2719109,44.9804466,Google Verified Location
+15098,MN177,Happy Hour,,408 Hennepin ,Minneapolis,MN,(*),Bars/Clubs,1968,,-93.2719109,44.9804466,Google Verified Location
+15113,MN192,Happy Hour,(Gay Nineties Theater bar),408 Hennepin ,Minneapolis,MN,(*),"Bars/Clubs,Theatre",1965,,-93.2719109,44.9804466,Google Verified Location
+14959,MN038,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1979,,-93.2719109,44.9804466,Google Verified Location
+14982,MN061,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1978,,-93.2719109,44.9804466,Google Verified Location
+14934,MN013,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1980,,-93.2719109,44.9804466,Google Verified Location
+15028,MN107,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1974,,-93.2719109,44.9804466,Google Verified Location
+15090,MN169,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1969,,-93.2719109,44.9804466,Google Verified Location
+15078,MN157,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1970,,-93.2719109,44.9804466,Google Verified Location
+15042,MN121,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1973,,-93.2719109,44.9804466,Google Verified Location
+14999,MN078,Happy Hour,(Some OC) (Cruisy),408 Hennepin Ave,Minneapolis,MN,"(*),(OC)","Bars/Clubs,Cruising Areas",1977,,-93.2719109,44.9804466,Google Verified Location
+15120,MN199,Happy Hour,"(Some OC, RT))",408 Hennepin Ave,Minneapolis,MN,"(*),(OC),(RT)","Bars/Clubs,Cruising Areas",1976,,-93.2719109,44.9804466,Google Verified Location
+15054,MN133,Happy Hour,,408 Hennepin Ave,Minneapolis,MN,(*),Bars/Clubs,1972,,-93.2719109,44.9804466,Google Verified Location
+14960,MN039,Harness,"(Leather goods, inhalers, erotica, etc) (At the Locker Room)",315 1st Ave N.,Minneapolis,MN,(*),Business,1979,,-93.2716773,44.9815103,Google Verified Location
+14943,MN022,Harry's American Bar,Holliday Inn Downtown,220 S. Broadway,Rochester,MN,(M),"Bars/Clubs,Hotel",1980,,-92.4625008,44.0209056,Google Verified Location
+14986,MN065,Harry's American Bar,Holliday Inn Downtown,220 S. Broadway,Rochester,MN,(M),"Bars/Clubs,Hotel",1978,,-92.4625008,44.0209056,Google Verified Location
+14968,MN047,Harry's American Bar,Holliday Inn Downtown,220 S. Broadway,Rochester,MN,(M),"Bars/Clubs,Hotel",1979,,-92.4625008,44.0209056,Google Verified Location
+15237,MN316,Hennepin & Nicollet,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15211,MN290,Hennepin & Nicollet,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1979,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15178,MN257,Hennepin & Nicollet Streets,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15187,MN266,Hennepin & Nicollet Streets,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15156,MN235,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1973,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15169,MN248,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15210,MN289,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15159,MN238,Hennepin & Nicollet Sts.,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1974,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15144,MN223,Hennepin & Nicollet Sts.,downtown,,Minneapolis,MN,Cruisy Area,Cruising Areas,1972,Pin on Nicollet Ave,-93.277916,44.93048,Location could not be verified. General city or location coordinates used.
+15129,MN208,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1965,,-93.272574,44.979598,Verified Location
+15168,MN247,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1975,,-93.272574,44.979598,Verified Location
+15140,MN219,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1971,,-93.272574,44.979598,Verified Location
+15162,MN241,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1974,,-93.272574,44.979598,Verified Location
+15131,MN210,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1968,,-93.272574,44.979598,Verified Location
+15208,MN287,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,(OC),Baths,1978,,-93.272574,44.979598,Verified Location
+15185,MN264,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,(OC),Baths,1976,,-93.272574,44.979598,Verified Location
+15138,MN217,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1970,,-93.272574,44.979598,Verified Location
+15217,MN296,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,"(OC),(RT)",Baths,1979,,-93.272574,44.979598,Verified Location
+15145,MN224,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1972,,-93.272574,44.979598,Verified Location
+15191,MN270,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,(OC),Baths,1977,,-93.272574,44.979598,Verified Location
+15152,MN231,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1973,,-93.272574,44.979598,Verified Location
+15130,MN209,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1966,,-93.272574,44.979598,Verified Location
+15136,MN215,Hennepin Baths,,5th & Hennepin,Minneapolis,MN,,Baths,1969,,-93.272574,44.979598,Verified Location
+15079,MN158,Herb's,(best on Sundays),624 N. 2nd Ave,Minneapolis,MN,(D),Bars/Clubs,1970,,-93.2769194,44.9802885,Google Verified Location
+15133,MN212,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1968,,-93.276688,44.976305,Verified Location
+15141,MN220,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1971,,-93.276688,44.976305,Verified Location
+15137,MN216,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1970,,-93.276688,44.976305,Verified Location
+15134,MN213,Hi-Lo Twenty Nine Bar,,9th & Hennepin,Minneapolis,MN,"(M),(RT)",Bars/Clubs,1969,,-93.276688,44.976305,Verified Location
+15117,MN196,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotel,1976,,-92.0964945,46.7875851,Google Verified Location
+15024,MN103,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotel,1974,,-92.0964945,46.7875851,Google Verified Location
+15009,MN088,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotel,1975,,-92.0964945,46.7875851,Google Verified Location
+15039,MN118,Holiday Inn Lounge,,250 S. 1st Ave. E,Duluth,MN,(M),Hotel,1973,,-92.0964945,46.7875851,Google Verified Location
+15214,MN293,IDS Tower,Indoor Mall (Crystal Court),,Minneapolis,MN,Cruisy Area,Cruising Areas,1979,,-93.272309,44.976119,Verified Location
+15205,MN284,IDS Tower,Indoor Mall,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,,-93.272309,44.976119,Verified Location
+15229,MN308,IDS Tower,Indoor Mall (Crystal Court),,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,,-93.272309,44.976119,Verified Location
+14935,MN014,Integrity,(St. John's Church),4201 Sheridan Ace. S,Minneapolis,MN,,Church,1980,,-93.3125715,44.9274259,Google Verified Location
+14961,MN040,Integrity,(St. John's Church),4201 Sheridan Ace. S,Minneapolis,MN,,Church,1979,,-93.3125715,44.9274259,Google Verified Location
+15076,MN155,J.T's ,(TONY'S No. 2),226 University,St. Paul,MN,,Bars/Clubs,1970,,-93.1156313,44.9463924,Google Verified Location
+15059,MN138,Kahler Hotel Rooftop Bar,,20-2nd Ave. SW,Rochester,MN,(M),"Bars/Clubs,Hotel",1972,,-92.465698,44.0232749,Google Verified Location
+15073,MN152,Kahler Hotel Rooftop Bar,(Rooftop Bar),20 2nd Ave. SW,Rochester,MN,(M),"Bars/Clubs,Hotel",1971,,-92.465698,44.0232749,Google Verified Location
+15102,MN181,Kahler Hotel Rooftop Bar,,20 SW 2nd,Rochester,MN,(M),"Bars/Clubs,Hotel",1968,,-92.465748,44.023326,Google Verified Location
+15094,MN173,Kahler Hotel Rooftop Bar,,20 SW 2nd,Rochester,MN,(M),"Bars/Clubs,Hotel",1969,,-92.465748,44.023326,Google Verified Location
+15085,MN164,Kahler Hotel Rooftop Bar,,20 SW 2nd,Rochester,MN,(M),"Bars/Clubs,Hotel",1970,,-92.465748,44.023326,Google Verified Location
+14946,MN025,La Senorita,(Mexican R) (Roseville),1961 Rice St.,St. Paul,MN,"(M),(R)",Restaurant,1980,,-93.106319,45.0002617,Google Verified Location
+15200,MN279,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd Sts.,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,,-93.319936,44.945113,Verified Location
+15193,MN272,Lake Calhoun Beach,Calhoun Boulevard between 31st & 32nd Streets.,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,,-93.319936,44.945113,Verified Location
+15157,MN236,Lake Calhoun Beach,Calhoun Blvd. bet. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1973,,-93.319936,44.945113,Verified Location
+15186,MN265,Lake Calhoun Beach,Calhoun Boulevard between 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,,-93.319936,44.945113,Verified Location
+15165,MN244,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1974,,-93.319936,44.945113,Verified Location
+15167,MN246,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,,-93.319936,44.945113,Verified Location
+15226,MN305,Lake Calhoun Beach,Calhoun Blvd. betw. 32nd & 33rd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,,-93.319936,44.945113,Verified Location
+15147,MN226,Lake Calhoun Beach,Calhoun Blvd. bet. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1972,,-93.319936,44.945113,Verified Location
+15220,MN299,Lake Calhoun Beach,Calhoun Blvd. betw. 31st & 32nd,,Minneapolis,MN,Cruisy Area,Cruising Areas,1979,,-93.319936,44.945113,Verified Location
+15216,MN295,Lambda Friends,"P.O. Box 454, Rochester, MN 55901",,Rochester,MN,,Organizations,1979,P.O Box,-92.480199,44.012122,Location could not be verified. General city or location coordinates used.
+15198,MN277,Lambda Friends,"P.O. Box 454, Rochester, Minn. 55901",,Rochester,MN,,Organizations,1978,,-92.480199,44.012122,Location could not be verified. General city or location coordinates used.
+15232,MN311,Lambda Friends,"P.O. Box 454, Rochester, MN 55901",,Rochester,MN,,Organizations,1980,p.o box,-92.480199,44.012122,Location could not be verified. General city or location coordinates used.
+15080,MN159,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1970,,-93.2770017,44.9802343,Google Verified Location
+15029,MN108,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1974,,-93.2770017,44.9802343,Google Verified Location
+15043,MN122,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1973,,-93.2770017,44.9802343,Google Verified Location
+15066,MN145,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1971,,-93.2770017,44.9802343,Google Verified Location
+15014,MN093,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1975,,-93.2770017,44.9802343,Google Verified Location
+15055,MN134,Locker Room Baths,,630 N. 2nd Ave,Minneapolis,MN,(*),Baths,1972,,-93.2770017,44.9802343,Google Verified Location
+15000,MN079,Locker Room Health Club,(also (Disco) (D) (AH),620 2nd Ave. N.,Minneapolis,MN,"(*),(D),(AH)","Baths,Business",1977,,-93.2880484,44.9789445,Google Verified Location
+15121,MN200,Locker Room Health Club,,315 1st Ave. N.,Minneapolis,MN,"(*),(D),(AH)","Baths,Business",1976,,-93.2716773,44.9815103,Google Verified Location
+14983,MN062,Locker Room Health Club,(also Disco-D-AH),315 1st Ave. N,Minneapolis,MN,"(*),(D),(AH)","Baths,Business",1978,,-93.2716773,44.9815103,Google Verified Location
+14936,MN015,Locker Room Health Club,(Baths) ('Harness' shop),315 1st Ave. N,Minneapolis,MN,(*),"Baths,Business",1980,,-93.2716773,44.9815103,Google Verified Location
+14962,MN041,Locker Room Health Club,(Baths) ('Harness' shop),315 1st Ave. N,Minneapolis,MN,(*),"Baths,Business",1979,,-93.2716773,44.9815103,Google Verified Location
+15146,MN225,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1972,,-93.284842,44.969968,Verified Location
+15174,MN253,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1975,,-93.284842,44.969968,Verified Location
+15190,MN269,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1977,,-93.284842,44.969968,Verified Location
+15151,MN230,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1973,,-93.284842,44.969968,Verified Location
+15201,MN280,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1978,,-93.284842,44.969968,Verified Location
+15183,MN262,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1976,,-93.284842,44.969968,Verified Location
+15163,MN242,Loring Park,,,Minneapolis,MN,Cruisy Area,Cruising Areas,1974,,-93.284842,44.969968,Verified Location
+15227,MN306,Loring Park & Clifton St.,,,Minneapolis,MN,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-93.284177,44.966184,Verified Location
+15213,MN292,Loring Park & Clifton St.,(HOT),,Minneapolis,MN,"Cruisy Area,(AYOR)",Cruising Areas,1979,,-93.284177,44.966184,Verified Location
+15203,MN282,M.C.C.,,44th & York St.,Minneapolis,MN,(MCC),Church,1978,,-93.320149,44.923334,Verified Location
+15231,MN310,M.C.C.,,44th & York St.,Minneapolis,MN,(MCC),Church,1980,,-93.320149,44.923334,Verified Location
+15224,MN303,M.C.C.,,44th & York St.,Minneapolis,MN,(MCC),Church,1979,,-93.320149,44.923334,Verified Location
+14937,MN016,M.C.G.R.,(Social),111 E. Franklin,Minneapolis,MN,,Church,1980,,-93.2756697,44.9622638,Google Verified Location
+15206,MN285,Mantle,,St. German Ave,St. Cloud,MN,(M),Bars/Clubs,1978,,-94.158503,45.561298,Verified Location
+15215,MN294,Mantle,,St. German Ave,St. Cloud,MN,(M),Bars/Clubs,1979,,-94.158503,45.561298,Verified Location
+15124,MN203,Mantle,,St. Germaine Avenue,St. Cloud,MN,(M),Bars/Clubs,1976,,-94.1910101,45.5471803,Google Verified Location
+15195,MN274,Mantle,,St. Germaine Avenue,St. Cloud,MN,(M),Bars/Clubs,1977,,-94.158503,45.561298,Verified Location
+15225,MN304,Mantle,,St. German Ave,St. Cloud,MN,(M),Bars/Clubs,1980,,-94.158503,45.561298,Verified Location
+15238,MN317,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1980,,-93.23506,44.970351,Verified Location
+15176,MN255,Mississippi River Flats,"'B.A' Beach about 2,000 block of East River Road-opposite Shriners Hospital",,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1976,,-93.23506,44.970351,Verified Location
+15175,MN254,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1975,,-93.23506,44.970351,Verified Location
+15196,MN275,Mississippi River Flats,"'B.A' Beach about 2,000 block of East River Road-opposite Shriners Hospital",,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1977,,-93.23506,44.970351,Verified Location
+15221,MN300,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1979,,-93.23506,44.970351,Verified Location
+15202,MN281,Mississippi River Flats,'B.A' Beach about 2000 block of E. River Rd-opp. Shriners Hospital,,Minneapolis,MN,"Cruisy Area,(BA)",Cruising Areas,1978,,-93.23506,44.970351,Verified Location
+15056,MN135,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1972,,-93.2469139,44.973203,Google Verified Location
+15044,MN123,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1973,,-93.2469139,44.973203,Google Verified Location
+15081,MN160,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1970,,-93.2469139,44.973203,Google Verified Location
+15015,MN094,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1975,,-93.2469139,44.973203,Google Verified Location
+15030,MN109,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1974,,-93.2469139,44.973203,Google Verified Location
+15067,MN146,Mixer's,,221 Cedar Ave.,Minneapolis,MN,"(M),(YC),(*)",Bars/Clubs,1971,,-93.2469139,44.973203,Google Verified Location
+14950,MN029,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1979,,-92.1035256,46.7826887,Google Verified Location
+14995,MN074,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1977,,-92.1035256,46.7826887,Google Verified Location
+15164,MN243,Mr. Pete's Corral,Next to Bus Depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1974,,-92.103526,46.782689,Verified Location
+14925,MN004,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1980,,-92.1035256,46.7826887,Google Verified Location
+14976,MN055,Mr. Pete's Corral,,412 W. Superior,Duluth,MN,"(M),(RT)",Bars/Clubs,1978,,-92.1035256,46.7826887,Google Verified Location
+15154,MN233,Mr. Pete's Corral,Next to Bus Depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1973,,-92.103526,46.782689,Verified Location
+15171,MN250,Mr. Pete's Corral,Next to bus depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1975,,-92.103526,46.782689,Verified Location
+15182,MN261,Mr. Pete's Corral,Next to Bus Depot,,Duluth,MN,"(M),(RT)",Bars/Clubs,1976,,-92.103526,46.782689,Verified Location
+15114,MN193,Nineteen,,19 W 15th St.,Minneapolis,MN,(*),Bars/Clubs,1965,,-93.2787582,44.9675316,Google Verified Location
+15108,MN187,Nineteen,,19 W 15th St.,Minneapolis,MN,(*),Bars/Clubs,1966,,-93.2787582,44.9675316,Google Verified Location
+15016,MN095,Nineteen Bar,(best Sundays*),19 W. 15th St.,Minneapolis,MN,"(RT),(G),(*)",Bars/Clubs,1975,,-93.2787582,44.9675316,Google Verified Location
+14938,MN017,Nineteen Bar,(Beer) (Many L),19 W. 15th St.,Minneapolis,MN,"(D),(L),(PT)",Bars/Clubs,1980,,-93.2787582,44.9675316,Google Verified Location
+15082,MN161,Nineteen Bar,,19 W. 15th ,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1970,,-93.2787582,44.9675316,Google Verified Location
+15031,MN110,Nineteen Bar,(best Sundays),19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1974,,-93.2787582,44.9675316,Google Verified Location
+15057,MN136,Nineteen Bar,(best Sun.),19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1972,,-93.2787582,44.9675316,Google Verified Location
+15045,MN124,Nineteen Bar,(best on Sundays),19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1973,,-93.2787582,44.9675316,Google Verified Location
+15099,MN178,Nineteen Bar,(best Sun.-others closed),19 W 15th ,Minneapolis,MN,,Bars/Clubs,1968,,-93.2787582,44.9675316,Google Verified Location
+15091,MN170,Nineteen Bar,(best Sun.-others closed),19 W 15th ,Minneapolis,MN,,Bars/Clubs,1969,,-93.2787582,44.9675316,Google Verified Location
+15068,MN147,Nineteen Bar,,19 W. 15th St.,Minneapolis,MN,"(RT),(G)",Bars/Clubs,1971,,-93.2787582,44.9675316,Google Verified Location
+15122,MN201,Nineteen Bar,(best Sundays*),19 W. 15th St.,Minneapolis,MN,"(RT),(G),(*)",Bars/Clubs,1976,,-93.2787582,44.9675316,Google Verified Location
+14990,MN069,No Place Bar,(Some SM) (3.2 beer only) ,461 University Ave.,St. Paul,MN,"(M),(SM)",Bars/Clubs,1978,,-93.1196947,44.9559648,Google Verified Location
+15006,MN085,No Place Bar,(3.2 beer only) ,461 University Avenue,St. Paul,MN,"(M),(SM)",Bars/Clubs,1977,,-93.0860581,44.9578466,Google Verified Location
+15005,MN084,Noble Roman,(Disco),788 Grand Ave,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1977,,-93.1332322,44.939764,Google Verified Location
+15127,MN206,Noble Roman,,788 Grand Ave,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1976,,-93.1332322,44.939764,Google Verified Location
+15021,MN100,Noble Roman,,788 Grand Ave,St. Paul,MN,"(D),(*)",Bars/Clubs,1975,,-93.1332322,44.939764,Google Verified Location
+15069,MN148,Northeast Steam Baths,,1900 University Ave. N.E.,Minneapolis,MN,(M),Baths,1971,,-93.2632452,45.0076023,Google Verified Location
+15001,MN080,Northern Sun,,19 W. 15th,Minneapolis,MN,"(D),(HIP),(W),(YC),(*)",Bars/Clubs,1977,,-93.2787582,44.9675316,Google Verified Location
+14963,MN042,Northern Sun,"(Beer & wine) (Best Sun.*) (Some Hip, RT, W, YC)",19 W. 15th,Minneapolis,MN,"(D),(*),(HIP),(RT),(W),(YC)",Bars/Clubs,1979,,-93.2787582,44.9675316,Google Verified Location
+14984,MN063,Northern Sun,"(Some Hip, RT, W, YC)",19 W. 15th,Minneapolis,MN,"(D),(HIP),(RT),(W),(YC)",Bars/Clubs,1978,,-93.2787582,44.9675316,Google Verified Location
+15170,MN249,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1975,,-92.456822,44.018611,Verified Location
+15160,MN239,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1974,,-92.456822,44.018611,Verified Location
+15179,MN258,Outrigger,(bar area only),4th St. & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1976,,-92.456822,44.018611,Verified Location
+15150,MN229,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1973,,-92.456822,44.018611,Verified Location
+15189,MN268,Outrigger,(bar area only),4th Street & 5th Avenue S.E,Rochester,MN,"(M),(YC)",Bars/Clubs,1977,,-92.456822,44.018611,Verified Location
+14987,MN066,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1978,,-94.158151,45.560841,Google Verified Location
+14944,MN023,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1980,,-94.158151,45.560841,Google Verified Location
+15125,MN204,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC),(*)",Bars/Clubs,1976,,-94.158151,45.560841,Google Verified Location
+14969,MN048,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1979,,-94.158151,45.560841,Google Verified Location
+15003,MN082,Press Club,,502 St. Germaine Ave,St. Cloud,MN,"(M),(YC)",Bars/Clubs,1977,,-94.158151,45.560841,Google Verified Location
+15153,MN232,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1973,,-93.097113,44.94475,Verified Location
+15192,MN271,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1977,,-93.097113,44.94475,Verified Location
+15212,MN291,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1979,,-93.097113,44.94475,Verified Location
+15149,MN228,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1972,,-93.097113,44.94475,Verified Location
+15209,MN288,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1978,,-93.097113,44.94475,Verified Location
+15181,MN260,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1976,,-93.097113,44.94475,Verified Location
+15173,MN252,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1975,,-93.097113,44.94475,Verified Location
+15158,MN237,Rice Park,,,St. Paul,MN,Cruisy Area,Cruising Areas,1974,,-93.097113,44.94475,Verified Location
+15235,MN314,Rosedale Shopping Center,T-Room (Rosedale),,St. Paul,MN,Cruisy Area,Cruising Areas,1980,,-93.171842,45.014605,Verified Location
+15017,MN096,Sand Box,(part of Cabaret complex),507 Hennepin,Minneapolis,MN,,Bars/Clubs,1975,,-93.2730033,44.9792523,Google Verified Location
+15032,MN111,Sand Box,,507 Hennepin,Minneapolis,MN,,Bars/Clubs,1974,,-93.2730033,44.9792523,Google Verified Location
+15046,MN125,Sand Box,,507 Hennepin,Minneapolis,MN,,Bars/Clubs,1973,,-93.2730033,44.9792523,Google Verified Location
+14939,MN018,Simion's,,416 Hennepin Ave.,Minneapolis,MN,"(R),(AH)",Restaurant,1980,,-93.2885418,44.9684272,Google Verified Location
+15143,MN222,Skol Room,,Center at N. 4th,Moorhead,MN,(M),Business,1972,,-96.773502,46.874876,Verified Location
+15135,MN214,Skol Room,,N. 4th at Center,Moorhead,MN,(M),Business,1969,,-96.773502,46.874876,Verified Location
+15142,MN221,Skol Room,,Center at N. 4th,Moorhead,MN,(M),Business,1971,,-96.773502,46.874876,Verified Location
+15132,MN211,Skol Room,,N. 4th at Center,Moorhead,MN,(M),Business,1968,,-96.773502,46.874876,Verified Location
+15139,MN218,Skol Room,,N. 4th at Center,Moorhead,MN,(M),Business,1970,,-96.773502,46.874876,Verified Location
+15061,MN140,Smoky's Den,,266 University Ave.,St. Paul,MN,,Bars/Clubs,1972,,-93.1113701,44.9555017,Google Verified Location
+15180,MN259,St. Cloud State College,Education Bldg.,,St. Cloud,MN,Cruisy Area,Cruising Areas,1976,,-94.152477,45.551075,Verified Location
+14964,MN043,Sun Bar & Disco,(go go boys),413 Hennepin Ave.,Minneapolis,MN,,Bars/Clubs,1979,,-93.271384,44.979969,Google Verified Location
+14940,MN019,Sun Bar & Disco,(Disco) (WE*),413 Hennepin Ave.,Minneapolis,MN,"(S),(D),(WE),(*)",Bars/Clubs,1980,,-93.271384,44.979969,Google Verified Location
+14985,MN064,Sutton Place,(Sutton's) (Disco) (2 floors-suggest use downstairs Disco) ,50 No. 5th St.,Minneapolis,MN,"(M),(YC),(D),(*)",Bars/Clubs,1978,,-93.2733627,44.9804464,Google Verified Location
+15002,MN081,Sutton Place,,114 N. 7th Street,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1977,,-93.274816,44.9779906,Google Verified Location
+15033,MN112,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(YC),(D),(R),(*)","Bars/Clubs,Restaurant",1974,,-93.274816,44.9779906,Google Verified Location
+15123,MN202,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(YC),(D),(R),(*)","Bars/Clubs,Restaurant",1976,,-93.274816,44.9779906,Google Verified Location
+15018,MN097,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(YC),(D),(R),(*)","Bars/Clubs,Restaurant",1975,,-93.274816,44.9779906,Google Verified Location
+15109,MN188,Sutton Place,,114 N. 7th St.,Minneapolis,MN,"(*),(D)",Bars/Clubs,1966,,-93.274816,44.9779906,Google Verified Location
+14965,MN044,Sutton Place,(Sutton's) (Disco) (Downstairs) (Sun. brunch),14 N. 5th St.,Minneapolis,MN,"(M),(YC),(D),(*)",Bars/Clubs,1979,,-93.2729669,44.9800663,Google Verified Location
+15047,MN126,Sutton's,(Plans to open adjoining restaurant soon),114 N. 7th St.,Minneapolis,MN,"(YC),(D),(*)","Bars/Clubs,Restaurant",1973,,-93.274816,44.9779906,Google Verified Location
+15092,MN171,Sutton's,,114 N. 7th St.,Minneapolis,MN,(*),Bars/Clubs,1969,,-93.274816,44.9779906,Google Verified Location
+15083,MN162,Sutton's,Upstairs (D) on weekends,114 N. 7th St.,Minneapolis,MN,"(D),(*)",Bars/Clubs,1970,,-93.274816,44.9779906,Google Verified Location
+15100,MN179,Sutton's,,114 N. 7th ,Minneapolis,MN,(*),Bars/Clubs,1968,,-93.274816,44.9779906,Google Verified Location
+15070,MN149,Sutton's,(upstairs (D) on weekends),114 N. 7th St.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1971,,-93.274816,44.9779906,Google Verified Location
+15104,MN183,Toni's ,,775 Front St,St. Paul,MN,,Bars/Clubs,1968,,-93.132837,44.970438,Google Verified Location
+15110,MN189,Toni's  Bar,,775 Front St,St. Paul,MN,,Bars/Clubs,1966,,-93.132837,44.970438,Google Verified Location
+15088,MN167,Toni's Lounge,,226 University,St. Paul,MN,,Bars/Clubs,1970,,-93.1156313,44.9463924,Google Verified Location
+15096,MN175,Toni's Lounge,,775 Front St,St. Paul,MN,,Bars/Clubs,1969,,-93.132837,44.970438,Google Verified Location
+15071,MN150,Town House,(midway bet. St. Paul & Minneapolis,1321 University Ave.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1971,,-93.2365362,44.9795222,Google Verified Location
+15022,MN101,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1975,,-93.1600439,44.9560056,Google Verified Location
+14991,MN070,Town House, (Disco) ,1415 University Ave,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1978,,-93.1600439,44.9560056,Google Verified Location
+15128,MN207,Town House,(Many G),1415 University Ave.,St. Paul,MN,"(D),(*),(G)",Bars/Clubs,1976,,-93.1600439,44.9560056,Google Verified Location
+15007,MN086,Town House,(Many G) (Some B) (Disco) ,1415 University Avenue,St. Paul,MN,"(G),(*),(B),(D)",Bars/Clubs,1977,,-93.1600439,44.9560056,Google Verified Location
+14972,MN051,Town House,(Many G) (Disco) (Wed. night for guys*),1415 University Ave,St. Paul,MN,"(YC),(G),(D),(*)",Bars/Clubs,1979,,-93.1600439,44.9560056,Google Verified Location
+14947,MN026,Town House,(Many L) (Disco),1415 University Ave,St. Paul,MN,"(L),(D),(*)",Bars/Clubs,1980,,-93.1600439,44.9560056,Google Verified Location
+15050,MN129,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1973,,-93.1600439,44.9560056,Google Verified Location
+15037,MN116,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1974,,-93.1600439,44.9560056,Google Verified Location
+15062,MN141,Town House,,1415 University Ave.,St. Paul,MN,"(YC),(D),(*)",Bars/Clubs,1972,,-93.1600439,44.9560056,Google Verified Location
+15095,MN174,Towne House Lounge,,10 SE 1st ,Rochester,MN,(M),Bars/Clubs,1969,,-92.4609194,44.0230961,Google Verified Location
+15074,MN153,Towne House Lounge,,10 1st Ave. S.E. ,Rochester,MN,(M),Bars/Clubs,1971,,-92.4609194,44.0230961,Google Verified Location
+15086,MN165,Towne House Lounge,,10 1st Ave. S.E. ,Rochester,MN,(M),Bars/Clubs,1970,,-92.4609194,44.0230961,Google Verified Location
+15103,MN182,Towne House Lounge,,10 SE 1st ,Rochester,MN,(M),Bars/Clubs,1968,,-92.4609194,44.0230961,Google Verified Location
+15233,MN312,U. of Minnesota,Lesbian & Gay Committee (Coffmann Mem. Union),,Minneapolis,MN,Cruisy Area,Cruising Areas,1980,,-93.235375,44.973089,Verified Location
+14973,MN052,Vapor's Steam Baths,,1860 N.W. Bunker Lake Dr.,Anoka,MN,,Baths,1978,,-93.4204315,45.2265292,Google Verified Location
+14992,MN071,Vapor's Steam Baths,,1860 N.W. Bunker Lake Dr.,Anoka,MN,,Baths,1977,,-93.4204315,45.2265292,Google Verified Location
+14941,MN020,Y'All Come Back,(Disco) (Sign says 'Tourist Hotel'),830 Hennepin Ave.,Minneapolis,MN,"(YC),(D),(*)",Bars/Clubs,1980,,-93.2770621,44.9768367,Google Verified Location
+14966,MN045,Y'All Come Back,(Disco) (Attempt to resurrect the Sundown Saloon),830 Hennepin Ave.,Minneapolis,MN,(D),Bars/Clubs,1979,,-93.2770621,44.9768367,Google Verified Location

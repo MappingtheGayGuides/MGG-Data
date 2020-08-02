@@ -1,84 +1,87 @@
-ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
-DE001,Alpine Room,(Will be moving),835 King St.,Wilmington,DE,(*),Bars/Clubs,1980,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE002,Renaissance,,107 W. 6th St.,Wilmington,DE,(PT),Bars/Clubs,1980,NA,NA,NA,NA,"107 W. 6th St., Wilmington, DE",-75.551228,39.74245,"107 w 6th st, wilmington, de 19801, usa",Geocoded
-DE003,Steak 'n' Eggs,,702 Delaware Ave,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1980,NA,NA,NA,NA,"702 Delaware Ave, Wilmington, DE",-75.5531139,39.7494026,"702 delaware ave, wilmington, de 19801, usa",Geocoded
-DE004,Alpine Room,(Cruisy) ('The Golden Greek's'),835 King St.,Wilmington,DE,(*),"Crusing Areas,Bars/Clubs",1979,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE005,Dance Land,(Semi-P)(Disco)(Some G)(AH 11pm -6am. WE only),915 Shipley,Wilmington,DE,"(P),(D),(YC),(AH),(WE),(BYOB),(G)",Bars/Clubs,1979,NA,NA,NA,NA,"915 Shipley, Wilmington, DE",-75.5179115,39.7812519,"915 shipley rd, wilmington, de 19803, usa",Geocoded
-DE006,Renaissance,,107 W. 6th St.,Wilmington,DE,"(*),(PT)",Bars/Clubs,1979,NA,NA,NA,NA,"107 W. 6th St., Wilmington, DE",-75.551228,39.74245,"107 w 6th st, wilmington, de 19801, usa",Geocoded
-DE007,Steak 'n' Eggs,,702 Delaware Ave,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1979,NA,NA,NA,NA,"702 Delaware Ave, Wilmington, DE",-75.5531139,39.7494026,"702 delaware ave, wilmington, de 19801, usa",Geocoded
-DE008,Alpine Room,(Cruisy) ('The Golden Greeks'),835 King St.,Wilmington,DE,(*),Crusing Areas,1978,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE009,Arc Club,"(Disco)(AH*)(If obtain liquor license, will close earlier)",5101 Gov. Printz Blvd.,Wilmington,DE,"(P),(YC),(D),(AH),(*),(BYOB)",Bars/Clubs,1978,NA,NA,NA,NA,"5101 Gov. Printz Blvd., Wilmington, DE",-75.4933193,39.7574516,"5101 governor printz blvd, wilmington, de 19809, usa",Geocoded
-DE010,Michaelangelo's,,207 W. 8th,Wilmington,DE,(D),Bars/Clubs,1978,NA,NA,NA,NA,"207 W. 8th, Wilmington, DE",-75.5507324,39.7440107,"207 w 8th st, wilmington, de 19801, usa",Geocoded
-DE011,Renaissance,,107 W. 6th St.,Wilmington,DE,(*),Bars/Clubs,1978,NA,NA,NA,NA,"107 W. 6th St., Wilmington, DE",-75.551228,39.74245,"107 w 6th st, wilmington, de 19801, usa",Geocoded
-DE012,Steak 'n' Eggs ,,702 Delaware Ave.,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1978,NA,NA,NA,NA,"702 Delaware Ave., Wilmington, DE",-75.5531139,39.7494026,"702 delaware ave, wilmington, de 19801, usa",Geocoded
-DE013,Tomcat Book Store,,101 W. 8th St.,Wilmington,DE,,Book Store,1978,NA,NA,NA,NA,"101 W. 8th St., Wilmington, DE",-75.5499494,39.7438508,"101 w 8th st, wilmington, de 19801, usa",Geocoded
-DE014,Alpine Room ,"('The Golden Greeks', A Delaware 'Institution')",835 King Street,Wilmington,DE,(*),Bars/Clubs,1977,NA,NA,NA,NA,"835 King Street, Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE015,Michaelangelo's,,207 W. 8th,Wilmington,DE,"(D),(*)",Bars/Clubs,1977,NA,NA,NA,NA,"207 W. 8th, Wilmington, DE",-75.5507324,39.7440107,"207 w 8th st, wilmington, de 19801, usa",Geocoded
-DE016,Renaissance,(Looks promising),107 W. 6th St. ,Wilmington,DE,,Bars/Clubs,1977,NA,NA,NA,NA,"107 W. 6th St. , Wilmington, DE",-75.551228,39.74245,"107 w 6th st, wilmington, de 19801, usa",Geocoded
-DE017,Steak 'n' Eggs,,702 Delaware Avenue,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1977,NA,NA,NA,NA,"702 Delaware Avenue, Wilmington, DE",-75.5531139,39.7494026,"702 delaware ave, wilmington, de 19801, usa",Geocoded
-DE018,Alpine Room,(The Golden Greeks - long time favorite),835 King St.,Wilmington,DE,(*),Bars/Clubs,1976,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE019,Dog House,,1200 DuPont Hwy,Wilmington,DE,"(M),(R)",Restaurant,1976,NA,NA,NA,NA,"1200 DuPont Hwy, Wilmington, DE",-75.582428,39.6883927,"1200 n dupont hwy, wilmington manor, de 19720, usa",Geocoded
-DE020,Gas Lamp,(Some G),915 Shipley St.,Wilmington,DE,"(P),(YC),(G),(D),(*)",Bars/Clubs,1976,NA,NA,NA,NA,"915 Shipley St., Wilmington, DE",-75.548917,39.74543,"915 n shipley st, wilmington, de 19801, usa",Geocoded
-DE021,Presto,(bar only -late),816 Shipley St.,Wilmington,DE,"(M),(R)",Bars/Clubs,1976,NA,NA,NA,NA,"816 Shipley St., Wilmington, DE",-75.5494906,39.7437663,"816 n shipley st, wilmington, de 19801, usa",Geocoded
-DE022,Alpine Room,(The 'Golden Greeks' has set the pace in Wilmington for years),835 King St.,Wilmington,DE,(*),Bars/Clubs,1975,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE023,Dog House,,1200 DuPont Hwy.,Wilmington,DE,"(M),(R)",Restaurant,1975,NA,NA,NA,NA,"1200 DuPont Hwy., Wilmington, DE",-75.582428,39.6883927,"1200 n dupont hwy, wilmington manor, de 19720, usa",Geocoded
-DE024,Presto,(bar only -late),816 Shipley,Wilmington,DE,"(M),(R)",Restaurant,1975,NA,NA,NA,NA,"816 Shipley, Wilmington, DE",-75.5169275,39.7773887,"816 shipley rd, wilmington, de 19803, usa",Geocoded
-DE025,Alpine Room,(The 'Golden Greeks' has set the pace in Wilmington for years),835 King St.,Wilmington,DE,(*),Bars/Clubs,1974,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE026,Dog House,,1200 Dupont,Wilmington,DE,"(M),(R)",Restaurant,1974,NA,NA,NA,NA,"1200 Dupont, Wilmington, DE",-75.5872301,39.7670517,"1200 n dupont rd, wilmington, de 19807, usa",Geocoded
-DE027,Presto,(bar only - late),816 Shipley,Wilmington,DE,"(M),(R)","Restaurant,Bars/Clubs",1974,NA,NA,NA,NA,"816 Shipley, Wilmington, DE",-75.5169275,39.7773887,"816 shipley rd, wilmington, de 19803, usa",Geocoded
-DE028,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1973,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE029,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1972,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE030,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1971,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE031,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1970,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE032,Playboy,,109 E. 7th St.,Wilmington,DE,(M),Bars/Clubs,1970,NA,NA,NA,NA,"109 E. 7th St., Wilmington, DE",-75.548891,39.7422892,"109 e 7th st, wilmington, de 19801, usa",Geocoded
-DE033,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1965,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE034,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1966,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE035,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1968,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE036,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1969,NA,NA,NA,NA,"835 King St., Wilmington, DE",-75.5481196,39.7439006,"835 n king st, wilmington, de 19801, usa",Geocoded
-DE037,Playboy,,109 E. 7th St.,Wilmington,DE,(M),Bars/Clubs,1969,NA,NA,NA,NA,"109 E. 7th St., Wilmington, DE",-75.548891,39.7422892,"109 e 7th st, wilmington, de 19801, usa",Geocoded
-DE038,"Market & King Sts., betw. 8th & 10th",,,Wilmington,DE,Cruisy Areas,Crusing Areas,1980,checked,NA,NA,NA,", DE",-75.548001,39.744486,unclear_coded_by_hand,Found
-DE039,'The Dunes' 'B.A.' - Beach about 1 mi. N. o fparking lot at Henlopen St. Park,,,Rehoboth Beach,DE,Cruisy Areas,Crusing Areas,1980,checked,NA,NA,NA,", DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE040,'The Dunes' 'B.A.' - Beach about 1 mi. N. o fparking lot at Henlopen St. Park,,,Rehoboth Beach,DE,Cruisy Areas,Crusing Areas,1979,checked,NA,NA,NA,", DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE041,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1980,checked,NA,NA,NA,", DE",-75.547012,39.745852,unclear_coded_by_hand,Found
-DE042,Carpenters Beach,,,Rehoboth Beach,DE,Cruisy Areas,Crusing Areas,1978,checked,NA,NA,NA,", DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE043,"Market & King Sts., betw. 8th & 10th",,,Wilmington,DE,Cruisy Areas,Crusing Areas,1979,checked,NA,NA,NA,", DE",-75.548001,39.744486,unclear_coded_by_hand,Found
-DE044,'The Dunes' 'B.A.' - Beach about 1 mi. N. o fparking lot at Henlopen St. Park,,,Rehoboth Beach,DE,Cruisy Areas,Crusing Areas,1978,checked,NA,NA,NA,", DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE045,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1979,checked,NA,NA,NA,", DE",-75.547012,39.745852,unclear_coded_by_hand,Found
-DE046,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1978,checked,NA,NA,NA,", DE",-75.548001,39.744486,unclear_coded_by_hand,Found
-DE047,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1978,checked,NA,NA,NA,", DE",-75.547012,39.745852,unclear_coded_by_hand,Found
-DE048,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1977,checked,NA,NA,NA,", DE",-75.547012,39.745852,unclear_coded_by_hand,Found
-DE049,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1977,checked,NA,NA,NA,", DE",-75.548001,39.744486,unclear_coded_by_hand,Found
-DE050,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1976,checked,NA,NA,NA,", DE",-75.547012,39.745852,unclear_coded_by_hand,Found
-DE051,Other Room Bar,Nomad Village Motel,,Bethany Beach,DE,,"Hotels,Bars/Clubs",1975,checked,NA,NA,NA,", DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE052,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1976,checked,NA,NA,NA,", DE",-75.548001,39.744486,unclear_coded_by_hand,Found
-DE053,Other Room Bar,Nomad Village Motel,,Bethany Beach,DE,,"Hotels,Bars/Clubs",1974,checked,NA,NA,NA,", DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE054,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1975,checked,NA,NA,NA,", DE",-75.547012,39.745852,unclear_coded_by_hand,Found
-DE055,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1975,checked,NA,NA,NA,", DE",-75.548001,39.744486,unclear_coded_by_hand,Found
-DE056,Square opposite Hotel Dupont,,,Wilmington,DE,Cruisy Areas,Crusing Areas,1974,checked,NA,NA,NA,", DE",-75.547012,39.745852,unclear_coded_by_hand,Found
-DE057,Sandcastle,(Summers only),1st & Brooklyn,Rehoboth Beach,DE,"(P),(H)",Hotels,1977,checked,NA,NA,NA,"1st & Brooklyn, DE",-75.07864,38.714003,unclear_coded_by_hand,Found
-DE058,Sandcastle,(Summers only),1st & Brooklyn,Rehoboth Beach,DE,"(P),(H)",Hotels,1976,checked,NA,NA,NA,"1st & Brooklyn, DE",-75.07864,38.714003,unclear_coded_by_hand,Found
-DE059,Sandcastle,(Summers only),1st & Brooklyn,Rehoboth Beach,DE,"(P),(H)",Hotels,1975,checked,NA,NA,NA,"1st & Brooklyn, DE",-75.07864,38.714003,unclear_coded_by_hand,Found
-DE060,Boat House,(Disco) (some L) (2 bars),Bellevue & Bayard - on the Bay at Dewey Beach,Rehoboth Beach,DE,"(YC),(*),(D),(L),(R)",Bars/Clubs,1980,checked,NA,NA,NA,"Bellevue & Bayard - on the Bay at Dewey Beach, DE",-75.077334,38.69431,unclear_coded_by_hand,Found
-DE061,Boat House,(Disco) (Some G) (2 bars),Bellevue & Bayard - on the Bay at Dewey Beach,Rehoboth Beach,DE,"(YC),(*),(D),(G),(R)",Bars/Clubs,1979,checked,NA,NA,NA,"Bellevue & Bayard - on the Bay at Dewey Beach, DE",-75.077334,38.69431,unclear_coded_by_hand,Found
-DE062,Boat House,(Disco) (some L) (2 bars),Bellvue & Bayard - on the bay at Dewey Beach,Rehoboth Beach,DE,"(YC),(D),(G),(R)",Bars/Clubs,1978,checked,NA,NA,NA,"Bellvue & Bayard - on the bay at Dewey Beach, DE",-75.077334,38.69431,unclear_coded_by_hand,Found
-DE063,Henlopen Hotel Bar,,Boardwalk & Surf,Rehoboth Beach,DE,(M),"Hotels,Bars/Clubs",1974,checked,NA,NA,NA,"Boardwalk & Surf, DE",-75.077116,38.722804,unclear_coded_by_hand,Found
-DE064,Henlopen Hotel Bar,,Boardwalk & Surf,Rehoboth Beach,DE,(M),"Hotels,Bars/Clubs",1973,checked,NA,NA,NA,"Boardwalk & Surf, DE",-75.077116,38.722804,unclear_coded_by_hand,Found
-DE065,Henlopen Hotel Bar,,Boardwalk & Surf,Rehoboth Beach,DE,(M),"Bars/Clubs,Hotels",1972,checked,NA,NA,NA,"Boardwalk & Surf, DE",-75.077116,38.722804,unclear_coded_by_hand,Found
-DE066,Nomad,,Broadway & Olive,Rehoboth Beach,DE,(M),Bars/Clubs,1971,checked,NA,NA,NA,"Broadway & Olive, DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE067,Pink Pony,,Broadway & Olive,Rehoboth Beach,DE,(M),Bars/Clubs,1970,checked,NA,NA,NA,"Broadway & Olive, DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE068,Pink Pony,,Broadway & Olive,Rehoboth Beach,DE,(M),Bars/Clubs,1969,checked,NA,NA,NA,"Broadway & Olive, DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE069,Nomad Village Motel,(Bar (H)),"P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Bars/Clubs,Hotels",1973,checked,NA,NA,NA,"P.O. Box 158, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE070,Nomad Village Motel,(Bar (H)),"P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Bars/Clubs,Hotels",1972,checked,NA,NA,NA,"P.O. Box 158, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE071,Station Cocktail Lounge,,Penn R.R. Station,Wilmington,DE,(M),Bars/Clubs,1976,checked,NA,NA,NA,"Penn R.R. Station, DE",-75.550909,39.737065,unclear_coded_by_hand,Found
-DE072,Station Cocktail Lounge,,Penn R.R. Station,Wilmington,DE,(M),Bars/Clubs,1975,checked,NA,NA,NA,"Penn R.R. Station, DE",-75.550909,39.737065,unclear_coded_by_hand,Found
-DE073,Station Cocktail Lounge,,Pennsylvania Railroad Station,Wilmington,DE,(M),Bars/Clubs,1977,checked,NA,NA,NA,"Pennsylvania Railroad Station, DE",-75.550909,39.737065,unclear_coded_by_hand,Found
-DE074,Cork 'n' Bottle,,"Route 14, 1 mile south of town",Rehoboth Beach,DE,"(M),(R)",Restaurant,1977,checked,NA,NA,NA,"Route 14, 1 mile south of town, DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE075,Cork 'n' Bottle,,"Route 14, 1 mile south of town",Rehoboth Beach,DE,"(M),(R)",Restaurant,1976,checked,NA,NA,NA,"Route 14, 1 mile south of town, DE",-75.076014,38.720945,unclear_coded_by_hand,General Coordinates Used
-DE076,Nomad Village Motel & Other Room Bar,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Hotels,Bars/Clubs",1977,checked,NA,NA,NA,"Route 14, P.O. Box 158, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE077,Nomad Village Motel & Other Room Bar,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Hotels,Bars/Clubs",1976,checked,NA,NA,NA,"Route 14, P.O. Box 158, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE078,Nomad Village Motel,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),Hotels,1975,checked,NA,NA,NA,"Route 14, P.O. Box 158, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE079,Nomad Village Motel,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),Hotels,1974,checked,NA,NA,NA,"Route 14, P.O. Box 158, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE080,Nomad Village Motel & Other Room Bar,(Sauna) (Swim Pool) (P-Beach),"Rt. 1, 3 mi. N. in Tower Shores",Bethany Beach,DE,"(H),(*)","Hotels,Bars/Clubs",1980,checked,NA,NA,NA,"Rt. 1, 3 mi. N. in Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE081,Nomad Village Motel & Other Room Bar,(This has changed hands & is anyone's guess as to what the policy will be when it re-opens for the '78 summer season),"Rte 14, Tower Shores",Bethany Beach,DE,,"Hotels,Bars/Clubs",1979,checked,NA,NA,NA,"Rte 14, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE082,Nomad Village Motel & Other Room Bar,,"Rte. 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Hotels,Bars/Clubs",1978,checked,NA,NA,NA,"Rte. 14, P.O. Box 158, Tower Shores, DE",-75.055181,38.539556,unclear_coded_by_hand,General Coordinates Used
-DE083,The Lobby(Disco) (May be Closing),,Rte. 896,Newark,DE,"(M),(YC),(D)",Bars/Clubs,1980,checked,NA,NA,NA,"Rte. 896, DE",-75.749657,39.683723,unclear_coded_by_hand,General Coordinates Used
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+39,DE039,'The Dunes' 'B.A.' - Beach about 1 mi. N. o fparking lot at Henlopen St. Park,,,Rehoboth Beach,DE,Cruisy Area,Cruising Areas,1980,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+40,DE040,'The Dunes' 'B.A.' - Beach about 1 mi. N. o fparking lot at Henlopen St. Park,,,Rehoboth Beach,DE,Cruisy Area,Cruising Areas,1979,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+44,DE044,'The Dunes' 'B.A.' - Beach about 1 mi. N. o fparking lot at Henlopen St. Park,,,Rehoboth Beach,DE,Cruisy Area,Cruising Areas,1978,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+1,DE001,Alpine Room,(Will be moving),835 King St.,Wilmington,DE,(*),Bars/Clubs,1980,NA,-75.5481196,39.7439006,Google Verified Location
+8,DE008,Alpine Room,(Cruisy) ('The Golden Greeks'),835 King St.,Wilmington,DE,(*),Cruising Areas,1978,NA,-75.5481196,39.7439006,Google Verified Location
+31,DE031,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1970,NA,-75.5481196,39.7439006,Google Verified Location
+4,DE004,Alpine Room,(Cruisy) ('The Golden Greek's'),835 King St.,Wilmington,DE,(*),"Cruising Areas,Bars/Clubs",1979,NA,-75.5481196,39.7439006,Google Verified Location
+25,DE025,Alpine Room,(The 'Golden Greeks' has set the pace in Wilmington for years),835 King St.,Wilmington,DE,(*),Bars/Clubs,1974,NA,-75.5481196,39.7439006,Google Verified Location
+36,DE036,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1969,NA,-75.5481196,39.7439006,Google Verified Location
+35,DE035,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1968,NA,-75.5481196,39.7439006,Google Verified Location
+18,DE018,Alpine Room,(The Golden Greeks - long time favorite),835 King St.,Wilmington,DE,(*),Bars/Clubs,1976,NA,-75.5481196,39.7439006,Google Verified Location
+34,DE034,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1966,NA,-75.5481196,39.7439006,Google Verified Location
+29,DE029,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1972,NA,-75.5481196,39.7439006,Google Verified Location
+33,DE033,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1965,NA,-75.5481196,39.7439006,Google Verified Location
+30,DE030,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1971,NA,-75.5481196,39.7439006,Google Verified Location
+22,DE022,Alpine Room,(The 'Golden Greeks' has set the pace in Wilmington for years),835 King St.,Wilmington,DE,(*),Bars/Clubs,1975,NA,-75.5481196,39.7439006,Google Verified Location
+28,DE028,Alpine Room,(also called 'Golden Greeks'),835 King St.,Wilmington,DE,(*),Bars/Clubs,1973,NA,-75.5481196,39.7439006,Google Verified Location
+14,DE014,Alpine Room ,"('The Golden Greeks', A Delaware 'Institution')",835 King Street,Wilmington,DE,(*),Bars/Clubs,1977,NA,-75.5481196,39.7439006,Google Verified Location
+9,DE009,Arc Club,"(Disco)(AH*)(If obtain liquor license, will close earlier)",5101 Gov. Printz Blvd.,Wilmington,DE,"(P),(YC),(D),(AH),(*),(BYOB)",Bars/Clubs,1978,NA,-75.4933193,39.7574516,Google Verified Location
+62,DE062,Boat House,(Disco) (some L) (2 bars),Bellvue & Bayard - on the bay at Dewey Beach,Rehoboth Beach,DE,"(YC),(D),(G),(R),(L)","Bars/Clubs,Restaurant",1978,NA,-75.077334,38.69431,Verified Location
+61,DE061,Boat House,(Disco) (Some G) (2 bars),Bellevue & Bayard - on the Bay at Dewey Beach,Rehoboth Beach,DE,"(YC),(*),(D),(G),(R)","Bars/Clubs,Restaurant",1979,NA,-75.077334,38.69431,Verified Location
+60,DE060,Boat House,(Disco) (some L) (2 bars),Bellevue & Bayard - on the Bay at Dewey Beach,Rehoboth Beach,DE,"(YC),(*),(D),(L),(R)","Bars/Clubs,Restaurant",1980,NA,-75.077334,38.69431,Verified Location
+42,DE042,Carpenters Beach,,,Rehoboth Beach,DE,Cruisy Area,Cruising Areas,1978,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+74,DE074,Cork 'n' Bottle,,"Route 14, 1 mile south of town",Rehoboth Beach,DE,"(M),(R)",Restaurant,1977,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+75,DE075,Cork 'n' Bottle,,"Route 14, 1 mile south of town",Rehoboth Beach,DE,"(M),(R)",Restaurant,1976,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+5,DE005,Dance Land,(Semi-P)(Disco)(Some G)(AH 11pm -6am. WE only),915 Shipley,Wilmington,DE,"(P),(D),(YC),(AH),(WE),(BYOB),(G)",Bars/Clubs,1979,NA,-75.5179115,39.7812519,Google Verified Location
+23,DE023,Dog House,,1200 DuPont Hwy.,Wilmington,DE,"(M),(R)",Restaurant,1975,NA,-75.582428,39.6883927,Google Verified Location
+19,DE019,Dog House,,1200 DuPont Hwy,Wilmington,DE,"(M),(R)",Restaurant,1976,NA,-75.582428,39.6883927,Google Verified Location
+26,DE026,Dog House,,1200 Dupont,Wilmington,DE,"(M),(R)",Restaurant,1974,NA,-75.5872301,39.7670517,Google Verified Location
+20,DE020,Gas Lamp,(Some G),915 Shipley St.,Wilmington,DE,"(P),(YC),(G),(D),(*)",Bars/Clubs,1976,NA,-75.548917,39.74543,Google Verified Location
+17026,MD442,Gordon's Pond St. Park,Dunes & beach at No. end of 2nd tower,,Rehoboth Beach,DE,Cruisy Area,Cruising Areas,1978,,-75.081782,38.739628,Verified Location
+17027,MD443,Gordon's Pond St. Park,dunes & beach at N. end of 2nd Tower,,Rehoboth Beach,DE,Cruisy Area,Cruising Areas,1979,,-75.081782,38.739628,Verified Location
+17028,MD444,Grodon's Pond St. Park,dunes & Beach at N. end of 2nd tower,,Rehoboth Beach,DE,Cruisy Area,Cruising Areas,1980,,-75.081782,38.739628,Verified Location
+65,DE065,Henlopen Hotel Bar,,Boardwalk & Surf,Rehoboth Beach,DE,(M),"Bars/Clubs,Hotel",1972,NA,-75.077116,38.722804,Verified Location
+63,DE063,Henlopen Hotel Bar,,Boardwalk & Surf,Rehoboth Beach,DE,(M),"Hotel,Bars/Clubs",1974,NA,-75.077116,38.722804,Verified Location
+64,DE064,Henlopen Hotel Bar,,Boardwalk & Surf,Rehoboth Beach,DE,(M),"Hotel,Bars/Clubs",1973,NA,-75.077116,38.722804,Verified Location
+52,DE052,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Area,Cruising Areas,1976,NA,-75.548001,39.744486,Verified Location
+49,DE049,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Area,Cruising Areas,1977,NA,-75.548001,39.744486,Verified Location
+46,DE046,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Area,Cruising Areas,1978,NA,-75.548001,39.744486,Verified Location
+55,DE055,Market & King Sts betw. 8th & 10th,,,Wilmington,DE,Cruisy Area,Cruising Areas,1975,NA,-75.548001,39.744486,Verified Location
+38,DE038,"Market & King Sts., betw. 8th & 10th",,,Wilmington,DE,Cruisy Area,Cruising Areas,1980,NA,-75.548001,39.744486,Verified Location
+43,DE043,"Market & King Sts., betw. 8th & 10th",,,Wilmington,DE,Cruisy Area,Cruising Areas,1979,NA,-75.548001,39.744486,Verified Location
+15,DE015,Michaelangelo's,,207 W. 8th,Wilmington,DE,"(D),(*)",Bars/Clubs,1977,NA,-75.5507324,39.7440107,Google Verified Location
+10,DE010,Michaelangelo's,,207 W. 8th,Wilmington,DE,(D),Bars/Clubs,1978,NA,-75.5507324,39.7440107,Google Verified Location
+66,DE066,Nomad,,Broadway & Olive,Rehoboth Beach,DE,(M),Bars/Clubs,1971,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+70,DE070,Nomad Village Motel,(Bar (H)),"P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Bars/Clubs,Hotel",1972,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+78,DE078,Nomad Village Motel,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),Hotel,1975,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+79,DE079,Nomad Village Motel,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),Hotel,1974,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+69,DE069,Nomad Village Motel,(Bar (H)),"P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Bars/Clubs,Hotel",1973,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+82,DE082,Nomad Village Motel & Other Room Bar,,"Rte. 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Hotel,Bars/Clubs",1978,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+81,DE081,Nomad Village Motel & Other Room Bar,(This has changed hands & is anyone's guess as to what the policy will be when it re-opens for the '78 summer season),"Rte 14, Tower Shores",Bethany Beach,DE,,"Hotel,Bars/Clubs",1979,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+76,DE076,Nomad Village Motel & Other Room Bar,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Hotel,Bars/Clubs",1977,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+77,DE077,Nomad Village Motel & Other Room Bar,,"Route 14, P.O. Box 158, Tower Shores",Bethany Beach,DE,(H),"Hotel,Bars/Clubs",1976,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+80,DE080,Nomad Village Motel & Other Room Bar,(Sauna) (Swim Pool) (P-Beach),"Rt. 1, 3 mi. N. in Tower Shores",Bethany Beach,DE,"(H),(*)","Hotel,Bars/Clubs",1980,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+53,DE053,Other Room Bar,Nomad Village Motel,,Bethany Beach,DE,,"Hotel,Bars/Clubs",1974,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+51,DE051,Other Room Bar,Nomad Village Motel,,Bethany Beach,DE,,"Hotel,Bars/Clubs",1975,NA,-75.055181,38.539556,Location could not be verified. General city or location coordinates used.
+67,DE067,Pink Pony,,Broadway & Olive,Rehoboth Beach,DE,(M),Bars/Clubs,1970,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+68,DE068,Pink Pony,,Broadway & Olive,Rehoboth Beach,DE,(M),Bars/Clubs,1969,NA,-75.076014,38.720945,Location could not be verified. General city or location coordinates used.
+37,DE037,Playboy,,109 E. 7th St.,Wilmington,DE,(M),Bars/Clubs,1969,NA,-75.548891,39.7422892,Google Verified Location
+32,DE032,Playboy,,109 E. 7th St.,Wilmington,DE,(M),Bars/Clubs,1970,NA,-75.548891,39.7422892,Google Verified Location
+24,DE024,Presto,(bar only -late),816 Shipley,Wilmington,DE,"(M),(R)",Restaurant,1975,NA,-75.5169275,39.7773887,Google Verified Location
+21,DE021,Presto,(bar only -late),816 Shipley St.,Wilmington,DE,"(M),(R)","Bars/Clubs,Restaurant",1976,NA,-75.5494906,39.7437663,Google Verified Location
+27,DE027,Presto,(bar only - late),816 Shipley,Wilmington,DE,"(M),(R)","Restaurant,Bars/Clubs",1974,NA,-75.5169275,39.7773887,Google Verified Location
+16,DE016,Renaissance,(Looks promising),107 W. 6th St. ,Wilmington,DE,,Bars/Clubs,1977,NA,-75.551228,39.74245,Google Verified Location
+11,DE011,Renaissance,,107 W. 6th St.,Wilmington,DE,(*),Bars/Clubs,1978,NA,-75.551228,39.74245,Google Verified Location
+2,DE002,Renaissance,,107 W. 6th St.,Wilmington,DE,(PT),Bars/Clubs,1980,NA,-75.551228,39.74245,Google Verified Location
+6,DE006,Renaissance,,107 W. 6th St.,Wilmington,DE,"(*),(PT)",Bars/Clubs,1979,NA,-75.551228,39.74245,Google Verified Location
+59,DE059,Sandcastle,(Summers only),1st & Brooklyn,Rehoboth Beach,DE,"(P),(H)",Hotel,1975,NA,-75.07864,38.714003,Verified Location
+57,DE057,Sandcastle,(Summers only),1st & Brooklyn,Rehoboth Beach,DE,"(P),(H)",Hotel,1977,NA,-75.07864,38.714003,Verified Location
+58,DE058,Sandcastle,(Summers only),1st & Brooklyn,Rehoboth Beach,DE,"(P),(H)",Hotel,1976,NA,-75.07864,38.714003,Verified Location
+48,DE048,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Area,Cruising Areas,1977,NA,-75.547012,39.745852,Verified Location
+54,DE054,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Area,Cruising Areas,1975,NA,-75.547012,39.745852,Verified Location
+47,DE047,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Area,Cruising Areas,1978,NA,-75.547012,39.745852,Verified Location
+50,DE050,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Area,Cruising Areas,1976,NA,-75.547012,39.745852,Verified Location
+45,DE045,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Area,Cruising Areas,1979,NA,-75.547012,39.745852,Verified Location
+41,DE041,Square opp. Hotel duPont,,,Wilmington,DE,Cruisy Area,Cruising Areas,1980,NA,-75.547012,39.745852,Verified Location
+56,DE056,Square opposite Hotel Dupont,,,Wilmington,DE,Cruisy Area,Cruising Areas,1974,NA,-75.547012,39.745852,Verified Location
+72,DE072,Station Cocktail Lounge,,Penn R.R. Station,Wilmington,DE,(M),Bars/Clubs,1975,NA,-75.550909,39.737065,Verified Location
+73,DE073,Station Cocktail Lounge,,Pennsylvania Railroad Station,Wilmington,DE,(M),Bars/Clubs,1977,NA,-75.550909,39.737065,Verified Location
+71,DE071,Station Cocktail Lounge,,Penn R.R. Station,Wilmington,DE,(M),Bars/Clubs,1976,NA,-75.550909,39.737065,Verified Location
+17,DE017,Steak 'n' Eggs,,702 Delaware Avenue,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1977,NA,-75.5531139,39.7494026,Google Verified Location
+7,DE007,Steak 'n' Eggs,,702 Delaware Ave,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1979,NA,-75.5531139,39.7494026,Google Verified Location
+3,DE003,Steak 'n' Eggs,,702 Delaware Ave,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1980,NA,-75.5531139,39.7494026,Google Verified Location
+12,DE012,Steak 'n' Eggs ,,702 Delaware Ave.,Wilmington,DE,"(M),(R),(C),(AH)",Restaurant,1978,NA,-75.5531139,39.7494026,Google Verified Location
+83,DE083,The Lobby(Disco) (May be Closing),,Rte. 896,Newark,DE,"(M),(YC),(D)",Bars/Clubs,1980,NA,-75.749657,39.683723,Location could not be verified. General city or location coordinates used.
+13,DE013,Tomcat Book Store,,101 W. 8th St.,Wilmington,DE,,Book Store,1978,NA,-75.5499494,39.7438508,Google Verified Location
