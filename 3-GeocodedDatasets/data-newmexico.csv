@@ -1,168 +1,168 @@
-"ID","Title","description","streetaddress","city","state","amenityfeatures","type","Year","unclearaddress","uncleartype","notes","dateadded","lastmodified","full.address","lon","lat","geoAddress","status"
-1,"Adam's Den","(Disco)(Unisex)","4418 Central Ave. N.E.","Albuquerque","NM","(*),(HIP),(YC),(D)","Bars/Clubs",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","4418 Central Ave. N.E., Albuquerque, NM","-106.6057974","35.0798915","4418 central ave ne, albuquerque, nm 87106, usa","Geocoded"
-2,"Albuquerque Social Club","(Height's) ($1.00 adm.) (Some L, Latins) (Disco-D-WE)","4021 Central Ave. N.E.","Albuquerque","NM","(*),(P),(L),(PT),(D),(WE)","Bars/Clubs",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-3,"Cricket Club","(L-only) (Sleazy)","5511 Central Ave. N.W.","Albuquerque","NM","(P),(D),(PT)","Bars/Clubs",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","5511 Central Ave. N.W., Albuquerque, NM","-106.7003121","35.082563","5511 central ave nw, albuquerque, nm 87105, usa","Geocoded"
-4,"Foxe's","(Some W, YC) (Disco) (Open days)","8521 Central Ave. N.E.","Albuquerque","NM","(*),(W),(YC),(D),(PT)","Bars/Clubs",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","8521 Central Ave. N.E., Albuquerque, NM","-106.5518372","35.0743528","8521 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-5,"Madame Lovejoy's","(Books- crusiy arcade)","4217 Central Ave. N.E.","Albuquerque","NM","","Book Store,Cruising Areas",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","4217 Central Ave. N.E., Albuquerque, NM","-106.5967446","35.0791649","4217 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-6,"Pleasure Palace","(Books)","5205 Menaul N.E.","Albuquerque","NM","","Book Store",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","5205 Menaul N.E., Albuquerque, NM","-106.5860917","35.1094432","5205 menaul blvd ne, albuquerque, nm 87110, usa","Geocoded"
-16,"Evangelo's","at Alameda","200 W. San Francisco","Santa Fe","NM","(M)","Bars/Clubs",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","200 W. San Francisco, Santa Fe, NM","-105.9406939","35.6874507","200 w san francisco st, santa fe, nm 87501, usa","Geocoded"
-17,"La Fonda Hotel Bar","(Best bet)","100 San Francisco","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-18,"Senate","(Latins)","221 Galisteo","Santa Fe","NM","(M),(RT)","Bars/Clubs",1980,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","221 Galisteo, Santa Fe, NM","-105.9409599","35.6860637","221 galisteo st, santa fe, nm 87501, usa","Geocoded"
-21,"Cricket Club","(G only)","5511 Central N.W.","Albuquerque","NM","(P),(G),(D),(PT)","Bars/Clubs",1979,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","5511 Central N.W., Albuquerque, NM","-106.7003121","35.082563","5511 central ave nw, albuquerque, nm 87105, usa","Geocoded"
-22,"Crusie Inn","","4223 Central Ave. N.E.","Albuquerque","NM","(H)","Hotels",1979,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","4223 Central Ave. N.E., Albuquerque, NM","-106.5964939","35.0790676","4223 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-23,"Foxe's","(Some W, YC)(Disco) (Open days)","8521 Central Ave. N.E.","Albuquerque","NM","(*),(W),(YC),(D),(PT)","Bars/Clubs",1979,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","8521 Central Ave. N.E., Albuquerque, NM","-106.5518372","35.0743528","8521 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-24,"Height's","(Unisex) (Disco)","4021 Central Ave. N.E.","Albuquerque","NM","(*),(HIP),(D),(PT)","Bars/Clubs",1979,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-25,"Milt's Coffee Shop","","4500 Central Ave. S.E.","Albuquerque","NM","(M),(R)","Restaurant",1979,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","4500 Central Ave. S.E., Albuquerque, NM","-106.5940319","35.0783477","4500 central ave se, albuquerque, nm 87108, usa","Geocoded"
-26,"Pleasure Palace ","(Books)","5205 Menaul N.E.","Albuquerque","NM","","Book Store",1979,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","5205 Menaul N.E., Albuquerque, NM","-106.5860917","35.1094432","5205 menaul blvd ne, albuquerque, nm 87110, usa","Geocoded"
-27,"The Grinder","(Sandwiches)","111 Cornell S.E.","Albuquerque","NM","(M),(R)","Restaurant",1979,NA,NA,NA,"4/26/2020 10:15pm","7/27/2020 1:19pm","111 Cornell S.E., Albuquerque, NM","-106.619782","35.0801076","111 cornell dr se, albuquerque, nm 87106, usa","Geocoded"
-34,"Evangelo's","at Alameda","200 W. San Francisco","Santa Fe","NM","(M)","Bars/Clubs",1979,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","200 W. San Francisco, Santa Fe, NM","-105.9406939","35.6874507","200 w san francisco st, santa fe, nm 87501, usa","Geocoded"
-35,"La Fonda Hotel Bar","(Best bet)","100 San Francisco","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1979,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-36,"Senate","(Latins) (Forget it!)","221 Galisteo","Santa Fe","NM","(M),(RT)","Bars/Clubs",1979,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","221 Galisteo, Santa Fe, NM","-105.9409599","35.6860637","221 galisteo st, santa fe, nm 87501, usa","Geocoded"
-39,"Cricket Club","(G only)","5511 S.W. Central","Albuquerque","NM","(P),(G),(D),(PT),(*)","Bars/Clubs",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","5511 S.W. Central, Albuquerque, NM","-106.7422022","35.072634","5511 central ave sw, albuquerque, nm 87121, usa","Geocoded"
-40,"Crusie Inn","","4223 Central Ave. N.E.","Albuquerque","NM","(H)","Hotels",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4223 Central Ave. N.E., Albuquerque, NM","-106.5964939","35.0790676","4223 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-41,"Depths","(Looks promising) (In rear of Heights- use rear door off alley)","4021 Central Ave. N.E.","Albuquerque","NM","(SM),(W)","Bars/Clubs",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-42,"Foxe's","(Disco-WE) (Sunday brunch)","8521 Central Ave. N.E.","Albuquerque","NM","(W),(D),(PT),(WE),(*)","Bars/Clubs",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","8521 Central Ave. N.E., Albuquerque, NM","-106.5518372","35.0743528","8521 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-43,"Height's","(Unisex) (Disco)","4021 Central Ave. N.E.","Albuquerque","NM","(HIP),(D),(PT),(*)","Bars/Clubs",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-44,"Madame Lovejoy's Adult Books","(Cruisy arcade)","4217 Central Ave. N.E.","Albuquerque","NM","","Book Store,Cruising Areas",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4217 Central Ave. N.E., Albuquerque, NM","-106.5967446","35.0791649","4217 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-45,"Milt's Coffee Shop","","4500 Central Ave. S.E.","Albuquerque","NM","(M),(R)","Restaurant",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4500 Central Ave. S.E., Albuquerque, NM","-106.5940319","35.0783477","4500 central ave se, albuquerque, nm 87108, usa","Geocoded"
-46,"Morning Glory Cafe","","2932 Monte Vista N.E.","Albuquerque","NM","(M),(R),(AH)","Restaurant",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","2932 Monte Vista N.E., Albuquerque, NM","-106.6128579","35.0811661","2932 monte vista blvd ne, albuquerque, nm 87106, usa","Geocoded"
-47,"The Grinder","(Sandwiches)","111 Cornell S.E.","Albuquerque","NM","(M),(R)","Restaurant",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","111 Cornell S.E., Albuquerque, NM","-106.619782","35.0801076","111 cornell dr se, albuquerque, nm 87106, usa","Geocoded"
-54,"La Fonda Hotel Bar","","100 San Francisco","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-55,"Senate","","221 Galisteo","Santa Fe","NM","(YC),(D),(*)","Bars/Clubs",1978,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","221 Galisteo, Santa Fe, NM","-105.9409599","35.6860637","221 galisteo st, santa fe, nm 87501, usa","Geocoded"
-58,"Cricket's","(G-only) (Looks promising- show Address Book for admission)","4027 4th Street N.W.","Albuquerque","NM","(P),(G),(D),(PT)","Bars/Clubs",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4027 4th Street N.W., Albuquerque, NM","-106.6439548","35.1244623","4027 4th st nw, albuquerque, nm 87107, usa","Geocoded"
-59,"Cruise Inn","","4223 Central Ave N.E.","Albuquerque","NM","(H)","Hotels",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4223 Central Ave N.E., Albuquerque, NM","-106.5964939","35.0790676","4223 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-60,"Foxe's","(Disco- WE)","8521 Central Ave. N.E.","Albuquerque","NM","(W),(D),(PT),(WE),(*)","Bars/Clubs",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","8521 Central Ave. N.E., Albuquerque, NM","-106.5518372","35.0743528","8521 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-61,"Loon","(Unisex)(Disco) (May be changing name back to old name ""Heights"")","4021 Central Ave N.E.","Albuquerque","NM","(HIP),(*),(YC),(D),(PT)","Bars/Clubs",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4021 Central Ave N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-62,"Madame Lovejoy's Books","(and cruisy arcade*)","4217 Central Ave. N.E.","Albuquerque","NM","(*)","Book Store,Cruising Areas",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4217 Central Ave. N.E., Albuquerque, NM","-106.5967446","35.0791649","4217 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-63,"Milt's Coffee Shop","","4500 Central Ave. N.E.","Albuquerque","NM","(M),(R),(C),(AH)","Restaurant",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4500 Central Ave. N.E., Albuquerque, NM","-106.6057974","35.0798915","4500 central ave ne, albuquerque, nm 87106, usa","Geocoded"
-64,"Oasis Albuquerque Baths","","244 Wyoming N.E.","Albuquerque","NM","(*)","Baths",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","244 Wyoming N.E., Albuquerque, NM","-106.550029","35.077668","244 wyoming blvd ne, albuquerque, nm 87123, usa","Geocoded"
-65,"Pump Room Number 1","(some W) (Sunday brunch*) (Adjoins Oasis)","242 Wyoming N.E.","Albuquerque","NM","(W),(*)","Bars/Clubs",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","242 Wyoming N.E., Albuquerque, NM","-106.5499844","35.0776663","242 wyoming blvd ne, albuquerque, nm 87123, usa","Geocoded"
-66,"Wellington Lounge","(Disco)","3900 Central Avenue S.E.","Albuquerque","NM","(R),(D),(S)","Restaurant,Bars/Clubs",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","3900 Central Avenue S.E., Albuquerque, NM","-106.6008025","35.0790322","3900 central ave se, albuquerque, nm 87108, usa","Geocoded"
-72,"La Fonda Hotel Bar","","100 San Francisco","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-73,"Senate","","221 Galisteo","Santa Fe","NM","(YC),(D),(*)","Bars/Clubs",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","221 Galisteo, Santa Fe, NM","-105.9409599","35.6860637","221 galisteo st, santa fe, nm 87501, usa","Geocoded"
-74,"The Forge","Inn of the Governors","234 Don Gasper","Santa Fe","NM","(M),(PE)","Bars/Clubs,Hotels",1977,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","234 Don Gasper, Santa Fe, NM","-105.9403374","35.6853861","234 don gaspar ave, santa fe, nm 87501, usa","Geocoded"
-77,"Holiday Inn Lounge","","1401 S. White Sands Bl.","Alamagordo","NM","(M)","Bars/Clubs,Hotels",1976,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","1401 S. White Sands Bl., Alamagordo, NM","-105.9594306","32.8775423","1401 s white sands blvd, alamogordo, nm 88310, usa","Geocoded"
-78,"Height's Lounge","","4021 Central Ave. N.E.","Albuquerque","NM","(YC),(D),(S),(R),(G),(*)","Bars/Clubs,Restaurant",1976,NA,NA,NA,"4/26/2020 10:16pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-79,"Kap's Coffee Shop","","4500 Central Ave. N.E.","Albuquerque","NM","(M),(R),(C),(AH)","Restaurant",1976,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4500 Central Ave. N.E., Albuquerque, NM","-106.6057974","35.0798915","4500 central ave ne, albuquerque, nm 87106, usa","Geocoded"
-80,"Oasis- Albuquerque Baths","","244 Wyoming N.E.","Albuquerque","NM","(*)","Baths",1976,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","244 Wyoming N.E., Albuquerque, NM","-106.550029","35.077668","244 wyoming blvd ne, albuquerque, nm 87123, usa","Geocoded"
-81,"Okie's Lounge","","1720 Central Ave. N.E.","Albuquerque","NM","(M),(HIP),(RT),(YC)","Bars/Clubs",1976,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","1720 Central Ave. N.E., Albuquerque, NM","-106.6271386","35.0812064","1720 central ave ne, albuquerque, nm 87106, usa","Geocoded"
-82,"Pump Room No. 1","(looks promising- adjoins Oasis)","242 Wyoming N.E.","Albuquerque","NM","(P)","Bars/Clubs",1976,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","242 Wyoming N.E., Albuquerque, NM","-106.5499844","35.0776663","242 wyoming blvd ne, albuquerque, nm 87123, usa","Geocoded"
-83,"Wellington Lounge","(Disco)","3900 Central Ave. S.E.","Albuquerque","NM","(R),(D),(*)","Restaurant",1976,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","3900 Central Ave. S.E., Albuquerque, NM","-106.6008025","35.0790322","3900 central ave se, albuquerque, nm 87108, usa","Geocoded"
-88,"La Fonda Hotel Bar","","100 San Francisco","Santa Fe","NM","(M),(*)","Bars/Clubs,Hotels",1976,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-89,"The Forge","Inn of the Governors","234 Don Gaspar","Santa Fe","NM","(M),(PE)","Bars/Clubs,Hotels",1976,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","234 Don Gaspar, Santa Fe, NM","-105.9403374","35.6853861","234 don gaspar ave, santa fe, nm 87501, usa","Geocoded"
-92,"Finishing School","(Some G) (use rear door behind Mildred's)","4021 Central Ave. N.E.","Albuquerque","NM","(D),(G)","Bars/Clubs",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-93,"Height's Cocktail Lounge","","4207 Central Ave. N.E.","Albuquerque","NM","(YC),(D),(S),(R),(*)","Bars/Clubs,Restaurant",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4207 Central Ave. N.E., Albuquerque, NM","-106.5971025","35.0791551","4207 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-94,"Kap's Coffee Shop","","4500 Central Ave. N.E.","Albuquerque","NM","(M),(R),(C),(AH)","Restaurant",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4500 Central Ave. N.E., Albuquerque, NM","-106.6057974","35.0798915","4500 central ave ne, albuquerque, nm 87106, usa","Geocoded"
-95,"Mildred's","(some G)","4021 Central Ave. N.E.","Albuquerque","NM","(D),(S),(G),(*)","Bars/Clubs",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-96,"Okie's Lounge","","1720 Central Ave. N.E.","Albuquerque","NM","(M),(HIP),(YC)","Bars/Clubs",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","1720 Central Ave. N.E., Albuquerque, NM","-106.6271386","35.0812064","1720 central ave ne, albuquerque, nm 87106, usa","Geocoded"
-101,"Claude's","(was closed, but may be reopening)","656 Canyon Rd.","Santa Fe","NM","(M),(HIP),(*)","Bars/Clubs",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","656 Canyon Rd., Santa Fe, NM","-105.9268908","35.6810064","656 canyon rd, santa fe, nm 87501, usa","Geocoded"
-102,"La Fonda Hotel Bar","","100 San Francisco","Santa Fe","NM","(M),(*)","Bars/Clubs,Hotels",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-103,"The Forge","Inn of the Governors","234 Don Gaspar","Santa Fe","NM","(M),(PE)","Bars/Clubs",1975,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","234 Don Gaspar, Santa Fe, NM","-105.9403374","35.6853861","234 don gaspar ave, santa fe, nm 87501, usa","Geocoded"
-105,"Height's Cocktail Lounge","","4201 Central Ave. N.E.","Albuquerque","NM","(D),(*)","Bars/Clubs",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4201 Central Ave. N.E., Albuquerque, NM","-106.5973656","35.0791926","4201 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-106,"Lloyd's of Albuquerque ","","4209 Central Ave. N.E.","Albuquerque","NM","(M),(PE),(R)","Restaurant",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4209 Central Ave. N.E., Albuquerque, NM","-106.5969714","35.0791739","4209 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-107,"Mildred's","(some G)","4021 Central Ave. N.E.","Albuquerque","NM","(D),(S),(G),(*)","Bars/Clubs",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-108,"Okie's Lounge","","1720 Central Ave. N.E. ","Albuquerque","NM","(M),(HIP),(YC)","Bars/Clubs",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","1720 Central Ave. N.E. , Albuquerque, NM","-106.6271386","35.0812064","1720 central ave ne, albuquerque, nm 87106, usa","Geocoded"
-109,"The Place","(after hours) use rear door behind 'Mildred's'-","4021 Central Ave. N.E.","Albuquerque","NM","(R),(C)","Restaurant",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4021 Central Ave. N.E., Albuquerque, NM","-106.5989274","35.0793714","4021 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-110,"Claude's","","656 Canyon Rd.","Santa Fe","NM","(M),(HIP),(*)","Bars/Clubs",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","656 Canyon Rd., Santa Fe, NM","-105.9268908","35.6810064","656 canyon rd, santa fe, nm 87501, usa","Geocoded"
-111,"La Fonda Hotel Bar","","100 San Francisco","Santa Fe","NM","(M),(*)","Bars/Clubs,Hotels",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-112,"The Forge","Inn of the Governors","234 Don Gaspar","Santa Fe","NM","(M),(PE)","Bars/Clubs,Hotels",1974,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","234 Don Gaspar, Santa Fe, NM","-105.9403374","35.6853861","234 don gaspar ave, santa fe, nm 87501, usa","Geocoded"
-114,"Crickets Country Club","(Use rear entrance)","2037 4th St. N.W.","Albuquerque","NM","(G),(D),(P)","Bars/Clubs",1973,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","2037 4th St. N.W., Albuquerque, NM","-106.6480138","35.1052496","2037 4th st nw, albuquerque, nm 87102, usa","Geocoded"
-115,"Height's Cocktail Lounge","","4209 Central Ave. N.E.","Albuquerque","NM","(D),(*)","Bars/Clubs",1973,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4209 Central Ave. N.E., Albuquerque, NM","-106.5969714","35.0791739","4209 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-117,"Okie's Lounge","","1720 Central Ave. S.E.","Albuquerque","NM","(M),(HIP),(YC)","Bars/Clubs",1973,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","1720 Central Ave. S.E., Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-118,"Claude's","","656 Canyon Road","Santa Fe","NM","(M),(*)","Bars/Clubs",1973,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","656 Canyon Road, Santa Fe, NM","-105.9268908","35.6810064","656 canyon rd, santa fe, nm 87501, usa","Geocoded"
-119,"La Fonda Hotel Bar","","100 San Francisco","Santa Fe","NM","(M),(*)","Bars/Clubs,Hotels",1973,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","100 San Francisco, Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-120,"The Forge","Inn of the Governors","234 Don Gaspar","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1973,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","234 Don Gaspar, Santa Fe, NM","-105.9403374","35.6853861","234 don gaspar ave, santa fe, nm 87501, usa","Geocoded"
-121,"Height's Cocktail Lounge","","4209 Central Ave. N.E.","Albuquerque","NM","(*)","Bars/Clubs",1972,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4209 Central Ave. N.E., Albuquerque, NM","-106.5969714","35.0791739","4209 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-123,"Okie's Lounge","","1720 Central Ave. S.E.","Albuquerque","NM","(M),(HIP),(YC)","Bars/Clubs",1972,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","1720 Central Ave. S.E., Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-124,"Upstairs Club","","2933 Monte Vista Blvd.","Albuquerque","NM","(P),(YC),(D),(*)","Bars/Clubs",1972,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","2933 Monte Vista Blvd., Albuquerque, NM","-106.6124834","35.0818319","2933 monte vista blvd ne, albuquerque, nm 87106, usa","Geocoded"
-126,"The Forge","Inn of the Governors","234 Don Gaspar","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1972,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","234 Don Gaspar, Santa Fe, NM","-105.9403374","35.6853861","234 don gaspar ave, santa fe, nm 87501, usa","Geocoded"
-127,"Height's Cocktail Lounge","","4209 Central Ave. N.E.","Albuquerque","NM","(*)","Bars/Clubs",1971,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4209 Central Ave. N.E., Albuquerque, NM","-106.5969714","35.0791739","4209 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-128,"Height's Club","","4217 Central Ave. N.E.","Albuquerque","NM","(P),(D),(*)","Bars/Clubs",1971,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","4217 Central Ave. N.E., Albuquerque, NM","-106.5967446","35.0791649","4217 central ave ne, albuquerque, nm 87108, usa","Geocoded"
-130,"Okie's Lounge","","1720 Central Ave. S.E.","Albuquerque","NM","(YC),(M),(HIP)","Bars/Clubs",1971,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","1720 Central Ave. S.E., Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-131,"La Fonda Hotel Bar","","100 E. San Francisco St.","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1971,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","100 E. San Francisco St., Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-132,"Plaza Bar","on Lincoln, across from The Plaza","","Santa Fe","NM","(RT),(M)","Bars/Clubs",1971,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm",", Santa Fe, NM","-105.937799","35.6869752","santa fe, nm, usa","Geocoded"
-133,"The Forge ","Inn of the Governors","234 Don Gaspar","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1971,NA,NA,NA,"4/26/2020 11:06pm","7/27/2020 1:19pm","234 Don Gaspar, Santa Fe, NM","-105.9403374","35.6853861","234 don gaspar ave, santa fe, nm 87501, usa","Geocoded"
-134,"Height's Cocktail Lounge","","4217 Central S.E.","Albuquerque","NM","(*)","Bars/Clubs",1970,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","4217 Central S.E., Albuquerque, NM","-106.604692","35.0798635","4217 central ave se, albuquerque, nm 87106, usa","Geocoded"
-135,"News Room","(side entrance, downstairs)","624 Central Ave. S.W.","Albuquerque","NM","(D),(*)","Bars/Clubs",1970,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","624 Central Ave. S.W., Albuquerque, NM","-106.6550759","35.084691","624 central ave sw, albuquerque, nm 87102, usa","Geocoded"
-136,"Okie's","","1720 Central Ave. S.E.","Albuquerque","NM","(M),(YC)","Bars/Clubs",1970,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","1720 Central Ave. S.E., Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-137,"Scarlett Slipper","Hotel Franciscan","601 Central Ave. N.W.","Albuquerque","NM","","Bars/Clubs,Hotels",1970,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","601 Central Ave. N.W., Albuquerque, NM","-106.6542274","35.0851933","601 central ave nw, albuquerque, nm 87102, usa","Geocoded"
-138,"Claude's","","656 Canyon Rd.","Santa Fe","NM","(R),(*)","Restaurant",1970,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","656 Canyon Rd., Santa Fe, NM","-105.9268908","35.6810064","656 canyon rd, santa fe, nm 87501, usa","Geocoded"
-139,"La Fonda Hotel Bar","","100 E. San Francisco St.","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1970,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","100 E. San Francisco St., Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-141,"Height's Cocktail Lounge","","4217 Central S.E.","Albuquerque","NM","(*)","Bars/Clubs",1969,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","4217 Central S.E., Albuquerque, NM","-106.604692","35.0798635","4217 central ave se, albuquerque, nm 87106, usa","Geocoded"
-142,"News Room","(side entrance, downstairs)","624 Central Ave SW","Albuquerque","NM","(D),(*)","Bars/Clubs",1969,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","624 Central Ave SW, Albuquerque, NM","-106.6550759","35.084691","624 central ave sw, albuquerque, nm 87102, usa","Geocoded"
-143,"Okie Joe's","","1720 Central Ave SE","Albuquerque","NM","(M),(YC)","Bars/Clubs",1969,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","1720 Central Ave SE, Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-144,"Scarlett Slipper Hotel Franciscan","","601 Central Ave NW","Albuquerque","NM","","Bars/Clubs,Hotels",1969,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","601 Central Ave NW, Albuquerque, NM","-106.6542274","35.0851933","601 central ave nw, albuquerque, nm 87102, usa","Geocoded"
-146,"Claude's","","656 Canyon Rd","Santa Fe","NM","(R),(*)","Restaurant",1969,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","656 Canyon Rd, Santa Fe, NM","-105.9268908","35.6810064","656 canyon rd, santa fe, nm 87501, usa","Geocoded"
-147,"La Fonda Hotel Bar","","100 E. San Francisco St.","Santa Fe","NM","(M)","Bars/Clubs,Hotels",1969,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","100 E. San Francisco St., Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-149,"News Room","(side entrance, downstairs)","624 Central Av SW","Albuquerque","NM","(D),(*)","Bars/Clubs",1968,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","624 Central Av SW, Albuquerque, NM","-106.6550759","35.084691","624 central ave sw, albuquerque, nm 87102, usa","Geocoded"
-150,"Office","","4418 Central Av SE","Albuquerque","NM","(M),(*)","Bars/Clubs",1968,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","4418 Central Av SE, Albuquerque, NM","-106.5945255","35.078539","4418 central ave se, albuquerque, nm 87108, usa","Geocoded"
-151,"Okie Joe's","(collegiate)","1720 Central Av SE","Albuquerque","NM","(M)","Bars/Clubs",1968,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","1720 Central Av SE, Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-153,"Claude's ","","656 Canyon Rd","Santa Fe","NM","(R),(*)","Restaurant",1968,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","656 Canyon Rd, Santa Fe, NM","-105.9268908","35.6810064","656 canyon rd, santa fe, nm 87501, usa","Geocoded"
-154,"La Fonda Hotel Bar","","100 E. San Francisco St.","Santa Fe","NM","(M)","Hotels,Bars/Clubs",1968,NA,NA,NA,"4/26/2020 11:39pm","7/27/2020 1:19pm","100 E. San Francisco St., Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-156,"News Room","(side entrance downstairs)","624 Central Av SW","Albuquerque","NM","(D),(*)","Bars/Clubs",1966,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","624 Central Av SW, Albuquerque, NM","-106.6550759","35.084691","624 central ave sw, albuquerque, nm 87102, usa","Geocoded"
-157,"Office","","4418 Central Av SE","Albuquerque","NM","(M),(*)","Bars/Clubs",1966,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","4418 Central Av SE, Albuquerque, NM","-106.5945255","35.078539","4418 central ave se, albuquerque, nm 87108, usa","Geocoded"
-158,"Okie Joe's","(collegiate)","1720 Central Av SE","Albuquerque","NM","","Bars/Clubs",1966,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","1720 Central Av SE, Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-160,"La Fonda Hotel Bar","","100 E. San Francisco St.","Santa Fe","NM","","Bars/Clubs,Hotels",1966,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","100 E. San Francisco St., Santa Fe, NM","-105.937804","35.68665","100 e san francisco st, santa fe, nm 87501, usa","Geocoded"
-161,"Senate","","221 Galisteo St","Santa Fe","NM","","Bars/Clubs",1966,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","221 Galisteo St, Santa Fe, NM","-105.9409599","35.6860637","221 galisteo st, santa fe, nm 87501, usa","Geocoded"
-162,"News Room","(side entrance, downstairs)","624 Central Av SW","Albuquerque","NM","(D),(*)","Bars/Clubs",1965,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","624 Central Av SW, Albuquerque, NM","-106.6550759","35.084691","624 central ave sw, albuquerque, nm 87102, usa","Geocoded"
-163,"Office","","4418 Central Av SE","Albuquerque","NM","(M),(*)","Bars/Clubs",1965,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","4418 Central Av SE, Albuquerque, NM","-106.5945255","35.078539","4418 central ave se, albuquerque, nm 87108, usa","Geocoded"
-164,"Okie Joe's ","","1720 Central Av SE","Albuquerque","NM","(M)","Bars/Clubs",1965,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","1720 Central Av SE, Albuquerque, NM","-106.6272192","35.0809756","1720 central ave se, albuquerque, nm 87106, usa","Geocoded"
-166,"Pink Adobe ","","406 College","Santa Fe","NM","(R),(G)","Restaurant",1965,NA,NA,NA,"4/26/2020 11:47pm","7/27/2020 1:19pm","406 College, Santa Fe, NM","-105.937799","35.6869752","santa fe, nm, usa","Geocoded"
-167,"Senate","","221 Galisteo","Santa Fe","NM","","Bars/Clubs",1965,NA,NA,NA,"4/26/2020 11:53pm","7/27/2020 1:19pm","221 Galisteo, Santa Fe, NM","-105.9409599","35.6860637","221 galisteo st, santa fe, nm 87501, usa","Geocoded"
-104,"'Walking the Block'","around La Fonda Hotel",NA,"Santa Fe","NM","Cruisy Area","Crusiy Areas",1975,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:23pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-91,"'Walking the Block'","around La Fonda Hotel- also infamous 'john'",NA,"Santa Fe","NM","Cruisy Area","Crusiy Areas",1976,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:15pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-57,"'Walking the Block'","around La Fonda Hotel- also infamous T-Room",NA,"Santa Fe","NM","Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:55pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-113,"'Walking the block'","around La Fonda Hotel",NA,"Santa Fe","NM","Cruisy Area","Crusiy Areas",1974,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:28pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-76,"""Walking the Block""","around La Fonda Hotel- also infamous ""john'",NA,"Santa Fe","NM","Cruisy Area","Crusiy Areas",1977,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 11:06pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-8,"Adult Theatres & Arcades","4200 Block on Central N.E.",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:27pm","NA, NM","-106.564133","35.075459","unclear_coded_by_hand","General Coordinates Used"
-48,"Alley & parking ltos","behind Height's",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:53pm","NA, NM","-106.650422","35.084386","unclear_coded_by_hand","General Coordinates Used"
-9,"Alley & Street","behind Heights",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:27pm","NA, NM","-106.650422","35.084386","unclear_coded_by_hand","General Coordinates Used"
-28,"Alley & Street behind Heights","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:41pm","NA, NM","-106.650422","35.084386","unclear_coded_by_hand","General Coordinates Used"
-97,"Central Ave.","Hitchhiking or by car betw. U. of N.M. & Mildred's",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1975,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:20pm","NA, NM","-106.566819","35.075621","unclear_coded_by_hand","Found"
-84,"Central Ave.","hitch-hiking or by car from U. of N.M. to Height's",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1976,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:14pm","NA, NM","-106.566819","35.075621","unclear_coded_by_hand","Found"
-67,"Central Avenue","""Hitch-hiking"" or by car from University of New Mexico to area near The Loon",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1977,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 11:04pm","NA, NM","-106.566819","35.075621","unclear_coded_by_hand","Found"
-49,"Central Avenue","'Hitch-hiking or by car from U. of N.m. to Height's",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:53pm","NA, NM","-106.566819","35.075621","unclear_coded_by_hand","Found"
-10,"Central Avenue","'HItch-hikers' or by car from U. of N.M. to Heights",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:27pm","NA, NM","-106.566819","35.075621","unclear_coded_by_hand","Found"
-29,"Central Avenure","'Hitch-hiker' or by car from U. of N.M. to Heights",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:41pm","NA, NM","-106.566819","35.075621","unclear_coded_by_hand","Found"
-30,"Grey Hound Bus Depot","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:41pm","NA, NM","-106.647797","35.081988","unclear_coded_by_hand","Found"
-11,"Grey Hound Bus Depot","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:27pm","NA, NM","-106.647797","35.081988","unclear_coded_by_hand","Found"
-68,"Greyhound Bus Deopt","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1977,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 11:04pm","NA, NM","-106.647797","35.081988","unclear_coded_by_hand","Found"
-50,"Greyhound Bus Depot","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:53pm","NA, NM","-106.647797","35.081988","unclear_coded_by_hand","Found"
-165,"Jacque's","S Main & Poe",NA,"Roswell","NM","(M)","Bars/Clubs",1965,"checked",NA,NA,"4/26/2020 11:47pm","4/26/2020 11:55pm","NA, NM","-104.522981","33.365435","unclear_coded_by_hand","Found"
-159,"Jacque's","S Main & Poe St.",NA,"Roswell","NM","(M)","Bars/Clubs",1966,"checked",NA,NA,"4/26/2020 11:47pm","4/26/2020 11:53pm","NA, NM","-104.522981","33.365435","unclear_coded_by_hand","Found"
-152,"Jacque's","S Main & Poe Sts.",NA,"Roswell","NM","(M)","Bars/Clubs",1968,"checked",NA,NA,"4/26/2020 11:39pm","4/26/2020 11:49pm","NA, NM","-104.522981","33.365435","unclear_coded_by_hand","Found"
-145,"Jacque's","S Main at Poe",NA,"Roswell","NM","(M)","Bars/Clubs",1969,"checked",NA,NA,"4/26/2020 11:39pm","4/26/2020 11:46pm","NA, NM","-104.522981","33.365435","unclear_coded_by_hand","Found"
-122,"Limelight","15 mi. N.E. on Hwy. 10",NA,"Cedar Crest","NM","(G)","Bars/Clubs",1972,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:33pm","NA, NM","-106.372802","35.107546","unclear_coded_by_hand","General Coordinates Used"
-116,"Limelight","15 mi. N.E. on Hwy. 10 (Cedar Creek)",NA,"Albuquerque","NM","(M),(S)","Bars/Clubs",1973,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:30pm","NA, NM","-106.650422","35.084386","unclear_coded_by_hand","General Coordinates Used"
-129,"Mustang Lounge","",NA,"Bernalillo","NM","(YC),(D),(M),(*)","Bars/Clubs",1971,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:38pm","NA, NM","-106.551137","35.30004","unclear_coded_by_hand","General Coordinates Used"
-155,"Plaza Bar","on Main Plaza",NA,"Santa Fe","NM","","Bars/Clubs",1968,"checked",NA,NA,"4/26/2020 11:47pm","4/26/2020 11:51pm","NA, NM","-105.938772","35.687846","unclear_coded_by_hand","General Coordinates Used"
-140,"Plaza Bar","On Main Plaza",NA,"Santa Fe","NM","","Bars/Clubs",1970,"checked",NA,NA,"4/26/2020 11:39pm","4/26/2020 11:43pm","NA, NM","-105.938772","35.687846","unclear_coded_by_hand","General Coordinates Used"
-125,"Plaza Bar","on Lincoln across from the Plaza",NA,"Santa Fe","NM","(RT),(M)","Bars/Clubs",1972,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:35pm","NA, NM","-105.938772","35.687846","unclear_coded_by_hand","General Coordinates Used"
-148,"Plaza Bar","On Main Plaza",NA,"Santa Fe","NM","","Bars/Clubs",1969,"checked",NA,NA,"4/26/2020 11:39pm","4/26/2020 11:47pm","NA, NM","-105.938772","35.687846","unclear_coded_by_hand","General Coordinates Used"
-90,"Plaza Colon","",NA,"Santa Fe","NM","Cruisy Area,(RT)","Crusiy Areas",1976,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:15pm","NA, NM","-105.938772","35.687846","unclear_coded_by_hand","General Coordinates Used"
-15,"Rest Stop","on I-10 E.",NA,"Lordsburg","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:30pm","NA, NM","-108.708665","32.350361","unclear_coded_by_hand","General Coordinates Used"
-7,"Rusty Cork","San Mateo Pl. just N. of I-40",NA,"Albuquerque","NM","(P),(L),(D)","Bars/Clubs",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:23pm","NA, NM","-106.586388","35.106875","unclear_coded_by_hand","General Coordinates Used"
-85,"Sandia Park","foot trails",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1976,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:14pm","NA, NM","-106.450567","35.203706","unclear_coded_by_hand","Found"
-69,"Sandia Park","foot trails",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1977,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 11:04pm","NA, NM","-106.450567","35.203706","unclear_coded_by_hand","Found"
-51,"Sandia Park","foot trails",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:53pm","NA, NM","-106.450567","35.203706","unclear_coded_by_hand","Found"
-31,"Sandia Park","foot trails",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:41pm","NA, NM","-106.450567","35.203706","unclear_coded_by_hand","Found"
-12,"Sandia Park","foot trails",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:27pm","NA, NM","-106.450567","35.203706","unclear_coded_by_hand","Found"
-98,"Sandia Peak","Foot Trails",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1975,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:20pm","NA, NM","-106.450567","35.203706","unclear_coded_by_hand","Found"
-75,"The Plaza","",NA,"Santa Fe","NM","Cruisy Area,(RT)","Crusiy Areas",1977,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 11:06pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-56,"The Plaza","",NA,"Santa Fe","NM","(RT),Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:55pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-37,"The Plaza","",NA,"Santa Fe","NM","(RT),Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:44pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-19,"The Plaza","",NA,"Santa Fe","NM","(RT),Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:33pm","NA, NM","-105.938512","35.687428","unclear_coded_by_hand","Found"
-100,"U. of N.M.","Administration Bldg.",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1975,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:20pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-87,"U. of N.M.","Administration Bldg.",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1976,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:14pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-33,"U. of N.M.","Administration Bldg. T-Room",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:41pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-14,"U. of N.M.","Geology Bldg. T-Room, Electrical Bldg. T-Room & gym (north showers)",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:27pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-53,"U. of N.M.","Administration Bldg. T-Room",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:53pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-99,"University Drug Store","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1975,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:20pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-86,"University Drug Store","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1976,"checked",NA,NA,"4/26/2020 11:06pm","4/26/2020 11:14pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-70,"University Drug Store","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1977,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 11:04pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-52,"University Drug Store","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1978,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:53pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-32,"University Drug Store","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:41pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-13,"University Drug Store","",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:27pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-71,"University of New Mexico","Administration Building",NA,"Albuquerque","NM","Cruisy Area","Crusiy Areas",1977,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 11:04pm","NA, NM","-106.619781","35.084319","unclear_coded_by_hand","Found"
-38,"Walking the Block","around La Fonda Hotel (& infamous T-Room)",NA,"Santa Fe","NM","Cruisy Area","Crusiy Areas",1979,"checked",NA,NA,"4/26/2020 10:16pm","4/26/2020 10:44pm","NA, NM","-105.937804","35.68665","unclear_coded_by_hand","Found"
-20,"Walking the Block","around La Fonda Hotel (& infamous T-Room)",NA,"Santa Fe","NM","Cruisy Area","Crusiy Areas",1980,"checked",NA,NA,"4/26/2020 10:15pm","4/26/2020 10:33pm","NA, NM","-105.937804","35.68665","unclear_coded_by_hand","Found"
+﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
+,NM001,Adam's Den,(Disco)(Unisex),4418 Central Ave. N.E.,Albuquerque,NM,"(*),(HIP),(YC),(D)",Bars/Clubs,1980,NA,-106.6057974,35.0798915,Geocoded
+,NM002,Albuquerque Social Club,"(Height's) ($1.00 adm.) (Some L, Latins) (Disco-D-WE)",4021 Central Ave. N.E.,Albuquerque,NM,"(*),(P),(L),(PT),(D),(WE)",Bars/Clubs,1980,NA,-106.5989274,35.0793714,Geocoded
+,NM003,Cricket Club,(L-only) (Sleazy),5511 Central Ave. N.W.,Albuquerque,NM,"(P),(D),(PT)",Bars/Clubs,1980,NA,-106.7003121,35.082563,Geocoded
+,NM004,Foxe's,"(Some W, YC) (Disco) (Open days)",8521 Central Ave. N.E.,Albuquerque,NM,"(*),(W),(YC),(D),(PT)",Bars/Clubs,1980,NA,-106.5518372,35.0743528,Geocoded
+,NM005,Madame Lovejoy's,(Books- crusiy arcade),4217 Central Ave. N.E.,Albuquerque,NM,,"Book Store,Cruising Areas",1980,NA,-106.5967446,35.0791649,Geocoded
+,NM006,Pleasure Palace,(Books),5205 Menaul N.E.,Albuquerque,NM,,Book Store,1980,NA,-106.5860917,35.1094432,Geocoded
+,NM007,Evangelo's,at Alameda,200 W. San Francisco,Santa Fe,NM,(M),Bars/Clubs,1980,NA,-105.9406939,35.6874507,Geocoded
+,NM008,La Fonda Hotel Bar,(Best bet),100 San Francisco,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1980,NA,-105.937804,35.68665,Geocoded
+,NM009,Senate,(Latins),221 Galisteo,Santa Fe,NM,"(M),(RT)",Bars/Clubs,1980,NA,-105.9409599,35.6860637,Geocoded
+,NM010,Cricket Club,(G only),5511 Central N.W.,Albuquerque,NM,"(P),(G),(D),(PT)",Bars/Clubs,1979,NA,-106.7003121,35.082563,Geocoded
+,NM011,Crusie Inn,,4223 Central Ave. N.E.,Albuquerque,NM,(H),Hotels,1979,NA,-106.5964939,35.0790676,Geocoded
+,NM012,Foxe's,"(Some W, YC)(Disco) (Open days)",8521 Central Ave. N.E.,Albuquerque,NM,"(*),(W),(YC),(D),(PT)",Bars/Clubs,1979,NA,-106.5518372,35.0743528,Geocoded
+,NM013,Height's,(Unisex) (Disco),4021 Central Ave. N.E.,Albuquerque,NM,"(*),(HIP),(D),(PT)",Bars/Clubs,1979,NA,-106.5989274,35.0793714,Geocoded
+,NM014,Milt's Coffee Shop,,4500 Central Ave. S.E.,Albuquerque,NM,"(M),(R)",Restaurant,1979,NA,-106.5940319,35.0783477,Geocoded
+,NM015,Pleasure Palace ,(Books),5205 Menaul N.E.,Albuquerque,NM,,Book Store,1979,NA,-106.5860917,35.1094432,Geocoded
+,NM016,The Grinder,(Sandwiches),111 Cornell S.E.,Albuquerque,NM,"(M),(R)",Restaurant,1979,NA,-106.619782,35.0801076,Geocoded
+,NM017,Evangelo's,at Alameda,200 W. San Francisco,Santa Fe,NM,(M),Bars/Clubs,1979,NA,-105.9406939,35.6874507,Geocoded
+,NM018,La Fonda Hotel Bar,(Best bet),100 San Francisco,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1979,NA,-105.937804,35.68665,Geocoded
+,NM019,Senate,(Latins) (Forget it!),221 Galisteo,Santa Fe,NM,"(M),(RT)",Bars/Clubs,1979,NA,-105.9409599,35.6860637,Geocoded
+,NM020,Cricket Club,(G only),5511 S.W. Central,Albuquerque,NM,"(P),(G),(D),(PT),(*)",Bars/Clubs,1978,NA,-106.7422022,35.072634,Geocoded
+,NM021,Crusie Inn,,4223 Central Ave. N.E.,Albuquerque,NM,(H),Hotels,1978,NA,-106.5964939,35.0790676,Geocoded
+,NM022,Depths,(Looks promising) (In rear of Heights- use rear door off alley),4021 Central Ave. N.E.,Albuquerque,NM,"(SM),(W)",Bars/Clubs,1978,NA,-106.5989274,35.0793714,Geocoded
+,NM023,Foxe's,(Disco-WE) (Sunday brunch),8521 Central Ave. N.E.,Albuquerque,NM,"(W),(D),(PT),(WE),(*)",Bars/Clubs,1978,NA,-106.5518372,35.0743528,Geocoded
+,NM024,Height's,(Unisex) (Disco),4021 Central Ave. N.E.,Albuquerque,NM,"(HIP),(D),(PT),(*)",Bars/Clubs,1978,NA,-106.5989274,35.0793714,Geocoded
+,NM025,Madame Lovejoy's Adult Books,(Cruisy arcade),4217 Central Ave. N.E.,Albuquerque,NM,,"Book Store,Cruising Areas",1978,NA,-106.5967446,35.0791649,Geocoded
+,NM026,Milt's Coffee Shop,,4500 Central Ave. S.E.,Albuquerque,NM,"(M),(R)",Restaurant,1978,NA,-106.5940319,35.0783477,Geocoded
+,NM027,Morning Glory Cafe,,2932 Monte Vista N.E.,Albuquerque,NM,"(M),(R),(AH)",Restaurant,1978,NA,-106.6128579,35.0811661,Geocoded
+,NM028,The Grinder,(Sandwiches),111 Cornell S.E.,Albuquerque,NM,"(M),(R)",Restaurant,1978,NA,-106.619782,35.0801076,Geocoded
+,NM029,La Fonda Hotel Bar,,100 San Francisco,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1978,NA,-105.937804,35.68665,Geocoded
+,NM030,Senate,,221 Galisteo,Santa Fe,NM,"(YC),(D),(*)",Bars/Clubs,1978,NA,-105.9409599,35.6860637,Geocoded
+,NM031,Cricket's,(G-only) (Looks promising- show Address Book for admission),4027 4th Street N.W.,Albuquerque,NM,"(P),(G),(D),(PT)",Bars/Clubs,1977,NA,-106.6439548,35.1244623,Geocoded
+,NM032,Cruise Inn,,4223 Central Ave N.E.,Albuquerque,NM,(H),Hotels,1977,NA,-106.5964939,35.0790676,Geocoded
+,NM033,Foxe's,(Disco- WE),8521 Central Ave. N.E.,Albuquerque,NM,"(W),(D),(PT),(WE),(*)",Bars/Clubs,1977,NA,-106.5518372,35.0743528,Geocoded
+,NM034,Loon,"(Unisex)(Disco) (May be changing name back to old name ""Heights"")",4021 Central Ave N.E.,Albuquerque,NM,"(HIP),(*),(YC),(D),(PT)",Bars/Clubs,1977,NA,-106.5989274,35.0793714,Geocoded
+,NM035,Madame Lovejoy's Books,(and cruisy arcade*),4217 Central Ave. N.E.,Albuquerque,NM,(*),"Book Store,Cruising Areas",1977,NA,-106.5967446,35.0791649,Geocoded
+,NM036,Milt's Coffee Shop,,4500 Central Ave. N.E.,Albuquerque,NM,"(M),(R),(C),(AH)",Restaurant,1977,NA,-106.6057974,35.0798915,Geocoded
+,NM037,Oasis Albuquerque Baths,,244 Wyoming N.E.,Albuquerque,NM,(*),Baths,1977,NA,-106.550029,35.077668,Geocoded
+,NM038,Pump Room Number 1,(some W) (Sunday brunch*) (Adjoins Oasis),242 Wyoming N.E.,Albuquerque,NM,"(W),(*)",Bars/Clubs,1977,NA,-106.5499844,35.0776663,Geocoded
+,NM039,Wellington Lounge,(Disco),3900 Central Avenue S.E.,Albuquerque,NM,"(R),(D),(S)","Restaurant,Bars/Clubs",1977,NA,-106.6008025,35.0790322,Geocoded
+,NM040,La Fonda Hotel Bar,,100 San Francisco,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1977,NA,-105.937804,35.68665,Geocoded
+,NM041,Senate,,221 Galisteo,Santa Fe,NM,"(YC),(D),(*)",Bars/Clubs,1977,NA,-105.9409599,35.6860637,Geocoded
+,NM042,The Forge,Inn of the Governors,234 Don Gasper,Santa Fe,NM,"(M),(PE)","Bars/Clubs,Hotels",1977,NA,-105.9403374,35.6853861,Geocoded
+,NM043,Holiday Inn Lounge,,1401 S. White Sands Bl.,Alamagordo,NM,(M),"Bars/Clubs,Hotels",1976,NA,-105.9594306,32.8775423,Geocoded
+,NM044,Height's Lounge,,4021 Central Ave. N.E.,Albuquerque,NM,"(YC),(D),(S),(R),(G),(*)","Bars/Clubs,Restaurant",1976,NA,-106.5989274,35.0793714,Geocoded
+,NM045,Kap's Coffee Shop,,4500 Central Ave. N.E.,Albuquerque,NM,"(M),(R),(C),(AH)",Restaurant,1976,NA,-106.6057974,35.0798915,Geocoded
+,NM046,Oasis- Albuquerque Baths,,244 Wyoming N.E.,Albuquerque,NM,(*),Baths,1976,NA,-106.550029,35.077668,Geocoded
+,NM047,Okie's Lounge,,1720 Central Ave. N.E.,Albuquerque,NM,"(M),(HIP),(RT),(YC)",Bars/Clubs,1976,NA,-106.6271386,35.0812064,Geocoded
+,NM048,Pump Room No. 1,(looks promising- adjoins Oasis),242 Wyoming N.E.,Albuquerque,NM,(P),Bars/Clubs,1976,NA,-106.5499844,35.0776663,Geocoded
+,NM049,Wellington Lounge,(Disco),3900 Central Ave. S.E.,Albuquerque,NM,"(R),(D),(*)",Restaurant,1976,NA,-106.6008025,35.0790322,Geocoded
+,NM050,La Fonda Hotel Bar,,100 San Francisco,Santa Fe,NM,"(M),(*)","Bars/Clubs,Hotels",1976,NA,-105.937804,35.68665,Geocoded
+,NM051,The Forge,Inn of the Governors,234 Don Gaspar,Santa Fe,NM,"(M),(PE)","Bars/Clubs,Hotels",1976,NA,-105.9403374,35.6853861,Geocoded
+,NM052,Finishing School,(Some G) (use rear door behind Mildred's),4021 Central Ave. N.E.,Albuquerque,NM,"(D),(G)",Bars/Clubs,1975,NA,-106.5989274,35.0793714,Geocoded
+,NM053,Height's Cocktail Lounge,,4207 Central Ave. N.E.,Albuquerque,NM,"(YC),(D),(S),(R),(*)","Bars/Clubs,Restaurant",1975,NA,-106.5971025,35.0791551,Geocoded
+,NM054,Kap's Coffee Shop,,4500 Central Ave. N.E.,Albuquerque,NM,"(M),(R),(C),(AH)",Restaurant,1975,NA,-106.6057974,35.0798915,Geocoded
+,NM055,Mildred's,(some G),4021 Central Ave. N.E.,Albuquerque,NM,"(D),(S),(G),(*)",Bars/Clubs,1975,NA,-106.5989274,35.0793714,Geocoded
+,NM056,Okie's Lounge,,1720 Central Ave. N.E.,Albuquerque,NM,"(M),(HIP),(YC)",Bars/Clubs,1975,NA,-106.6271386,35.0812064,Geocoded
+,NM057,Claude's,"(was closed, but may be reopening)",656 Canyon Rd.,Santa Fe,NM,"(M),(HIP),(*)",Bars/Clubs,1975,NA,-105.9268908,35.6810064,Geocoded
+,NM058,La Fonda Hotel Bar,,100 San Francisco,Santa Fe,NM,"(M),(*)","Bars/Clubs,Hotels",1975,NA,-105.937804,35.68665,Geocoded
+,NM059,The Forge,Inn of the Governors,234 Don Gaspar,Santa Fe,NM,"(M),(PE)",Bars/Clubs,1975,NA,-105.9403374,35.6853861,Geocoded
+,NM060,Height's Cocktail Lounge,,4201 Central Ave. N.E.,Albuquerque,NM,"(D),(*)",Bars/Clubs,1974,NA,-106.5973656,35.0791926,Geocoded
+,NM061,Lloyd's of Albuquerque ,,4209 Central Ave. N.E.,Albuquerque,NM,"(M),(PE),(R)",Restaurant,1974,NA,-106.5969714,35.0791739,Geocoded
+,NM062,Mildred's,(some G),4021 Central Ave. N.E.,Albuquerque,NM,"(D),(S),(G),(*)",Bars/Clubs,1974,NA,-106.5989274,35.0793714,Geocoded
+,NM063,Okie's Lounge,,1720 Central Ave. N.E. ,Albuquerque,NM,"(M),(HIP),(YC)",Bars/Clubs,1974,NA,-106.6271386,35.0812064,Geocoded
+,NM064,The Place,(after hours) use rear door behind 'Mildred's'-,4021 Central Ave. N.E.,Albuquerque,NM,"(R),(C)",Restaurant,1974,NA,-106.5989274,35.0793714,Geocoded
+,NM065,Claude's,,656 Canyon Rd.,Santa Fe,NM,"(M),(HIP),(*)",Bars/Clubs,1974,NA,-105.9268908,35.6810064,Geocoded
+,NM066,La Fonda Hotel Bar,,100 San Francisco,Santa Fe,NM,"(M),(*)","Bars/Clubs,Hotels",1974,NA,-105.937804,35.68665,Geocoded
+,NM067,The Forge,Inn of the Governors,234 Don Gaspar,Santa Fe,NM,"(M),(PE)","Bars/Clubs,Hotels",1974,NA,-105.9403374,35.6853861,Geocoded
+,NM068,Crickets Country Club,(Use rear entrance),2037 4th St. N.W.,Albuquerque,NM,"(G),(D),(P)",Bars/Clubs,1973,NA,-106.6480138,35.1052496,Geocoded
+,NM069,Height's Cocktail Lounge,,4209 Central Ave. N.E.,Albuquerque,NM,"(D),(*)",Bars/Clubs,1973,NA,-106.5969714,35.0791739,Geocoded
+,NM070,Okie's Lounge,,1720 Central Ave. S.E.,Albuquerque,NM,"(M),(HIP),(YC)",Bars/Clubs,1973,NA,-106.6272192,35.0809756,Geocoded
+,NM071,Claude's,,656 Canyon Road,Santa Fe,NM,"(M),(*)",Bars/Clubs,1973,NA,-105.9268908,35.6810064,Geocoded
+,NM072,La Fonda Hotel Bar,,100 San Francisco,Santa Fe,NM,"(M),(*)","Bars/Clubs,Hotels",1973,NA,-105.937804,35.68665,Geocoded
+,NM073,The Forge,Inn of the Governors,234 Don Gaspar,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1973,NA,-105.9403374,35.6853861,Geocoded
+,NM074,Height's Cocktail Lounge,,4209 Central Ave. N.E.,Albuquerque,NM,(*),Bars/Clubs,1972,NA,-106.5969714,35.0791739,Geocoded
+,NM075,Okie's Lounge,,1720 Central Ave. S.E.,Albuquerque,NM,"(M),(HIP),(YC)",Bars/Clubs,1972,NA,-106.6272192,35.0809756,Geocoded
+,NM076,Upstairs Club,,2933 Monte Vista Blvd.,Albuquerque,NM,"(P),(YC),(D),(*)",Bars/Clubs,1972,NA,-106.6124834,35.0818319,Geocoded
+,NM077,The Forge,Inn of the Governors,234 Don Gaspar,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1972,NA,-105.9403374,35.6853861,Geocoded
+,NM078,Height's Cocktail Lounge,,4209 Central Ave. N.E.,Albuquerque,NM,(*),Bars/Clubs,1971,NA,-106.5969714,35.0791739,Geocoded
+,NM079,Height's Club,,4217 Central Ave. N.E.,Albuquerque,NM,"(P),(D),(*)",Bars/Clubs,1971,NA,-106.5967446,35.0791649,Geocoded
+,NM080,Okie's Lounge,,1720 Central Ave. S.E.,Albuquerque,NM,"(YC),(M),(HIP)",Bars/Clubs,1971,NA,-106.6272192,35.0809756,Geocoded
+,NM081,La Fonda Hotel Bar,,100 E. San Francisco St.,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1971,NA,-105.937804,35.68665,Geocoded
+,NM082,Plaza Bar,"on Lincoln, across from The Plaza",,Santa Fe,NM,"(RT),(M)",Bars/Clubs,1971,NA,-105.937799,35.6869752,Geocoded
+,NM083,The Forge ,Inn of the Governors,234 Don Gaspar,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1971,NA,-105.9403374,35.6853861,Geocoded
+,NM084,Height's Cocktail Lounge,,4217 Central S.E.,Albuquerque,NM,(*),Bars/Clubs,1970,NA,-106.604692,35.0798635,Geocoded
+,NM085,News Room,"(side entrance, downstairs)",624 Central Ave. S.W.,Albuquerque,NM,"(D),(*)",Bars/Clubs,1970,NA,-106.6550759,35.084691,Geocoded
+,NM086,Okie's,,1720 Central Ave. S.E.,Albuquerque,NM,"(M),(YC)",Bars/Clubs,1970,NA,-106.6272192,35.0809756,Geocoded
+,NM087,Scarlett Slipper,Hotel Franciscan,601 Central Ave. N.W.,Albuquerque,NM,,"Bars/Clubs,Hotels",1970,NA,-106.6542274,35.0851933,Geocoded
+,NM088,Claude's,,656 Canyon Rd.,Santa Fe,NM,"(R),(*)",Restaurant,1970,NA,-105.9268908,35.6810064,Geocoded
+,NM089,La Fonda Hotel Bar,,100 E. San Francisco St.,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1970,NA,-105.937804,35.68665,Geocoded
+,NM090,Height's Cocktail Lounge,,4217 Central S.E.,Albuquerque,NM,(*),Bars/Clubs,1969,NA,-106.604692,35.0798635,Geocoded
+,NM091,News Room,"(side entrance, downstairs)",624 Central Ave SW,Albuquerque,NM,"(D),(*)",Bars/Clubs,1969,NA,-106.6550759,35.084691,Geocoded
+,NM092,Okie Joe's,,1720 Central Ave SE,Albuquerque,NM,"(M),(YC)",Bars/Clubs,1969,NA,-106.6272192,35.0809756,Geocoded
+,NM093,Scarlett Slipper Hotel Franciscan,,601 Central Ave NW,Albuquerque,NM,,"Bars/Clubs,Hotels",1969,NA,-106.6542274,35.0851933,Geocoded
+,NM094,Claude's,,656 Canyon Rd,Santa Fe,NM,"(R),(*)",Restaurant,1969,NA,-105.9268908,35.6810064,Geocoded
+,NM095,La Fonda Hotel Bar,,100 E. San Francisco St.,Santa Fe,NM,(M),"Bars/Clubs,Hotels",1969,NA,-105.937804,35.68665,Geocoded
+,NM096,News Room,"(side entrance, downstairs)",624 Central Av SW,Albuquerque,NM,"(D),(*)",Bars/Clubs,1968,NA,-106.6550759,35.084691,Geocoded
+,NM097,Office,,4418 Central Av SE,Albuquerque,NM,"(M),(*)",Bars/Clubs,1968,NA,-106.5945255,35.078539,Geocoded
+,NM098,Okie Joe's,(collegiate),1720 Central Av SE,Albuquerque,NM,(M),Bars/Clubs,1968,NA,-106.6272192,35.0809756,Geocoded
+,NM099,Claude's ,,656 Canyon Rd,Santa Fe,NM,"(R),(*)",Restaurant,1968,NA,-105.9268908,35.6810064,Geocoded
+,NM100,La Fonda Hotel Bar,,100 E. San Francisco St.,Santa Fe,NM,(M),"Hotels,Bars/Clubs",1968,NA,-105.937804,35.68665,Geocoded
+,NM101,News Room,(side entrance downstairs),624 Central Av SW,Albuquerque,NM,"(D),(*)",Bars/Clubs,1966,NA,-106.6550759,35.084691,Geocoded
+,NM102,Office,,4418 Central Av SE,Albuquerque,NM,"(M),(*)",Bars/Clubs,1966,NA,-106.5945255,35.078539,Geocoded
+,NM103,Okie Joe's,(collegiate),1720 Central Av SE,Albuquerque,NM,,Bars/Clubs,1966,NA,-106.6272192,35.0809756,Geocoded
+,NM104,La Fonda Hotel Bar,,100 E. San Francisco St.,Santa Fe,NM,,"Bars/Clubs,Hotels",1966,NA,-105.937804,35.68665,Geocoded
+,NM105,Senate,,221 Galisteo St,Santa Fe,NM,,Bars/Clubs,1966,NA,-105.9409599,35.6860637,Geocoded
+,NM106,News Room,"(side entrance, downstairs)",624 Central Av SW,Albuquerque,NM,"(D),(*)",Bars/Clubs,1965,NA,-106.6550759,35.084691,Geocoded
+,NM107,Office,,4418 Central Av SE,Albuquerque,NM,"(M),(*)",Bars/Clubs,1965,NA,-106.5945255,35.078539,Geocoded
+,NM108,Okie Joe's ,,1720 Central Av SE,Albuquerque,NM,(M),Bars/Clubs,1965,NA,-106.6272192,35.0809756,Geocoded
+,NM109,Pink Adobe ,,406 College,Santa Fe,NM,"(R),(G)",Restaurant,1965,NA,-105.937799,35.6869752,Geocoded
+,NM110,Senate,,221 Galisteo,Santa Fe,NM,,Bars/Clubs,1965,NA,-105.9409599,35.6860637,Geocoded
+,NM111,'Walking the Block',around La Fonda Hotel,NA,Santa Fe,NM,Cruisy Area,Crusiy Areas,1975,NA,-105.938512,35.687428,Found
+,NM112,'Walking the Block',around La Fonda Hotel- also infamous 'john',NA,Santa Fe,NM,Cruisy Area,Crusiy Areas,1976,NA,-105.938512,35.687428,Found
+,NM113,'Walking the Block',around La Fonda Hotel- also infamous T-Room,NA,Santa Fe,NM,Cruisy Area,Crusiy Areas,1978,NA,-105.938512,35.687428,Found
+,NM114,'Walking the block',around La Fonda Hotel,NA,Santa Fe,NM,Cruisy Area,Crusiy Areas,1974,NA,-105.938512,35.687428,Found
+,NM115,Walking the Block,"around La Fonda Hotel- also infamous ""john'",NA,Santa Fe,NM,Cruisy Area,Crusiy Areas,1977,NA,-105.938512,35.687428,Found
+,NM116,Adult Theatres & Arcades,4200 Block on Central N.E.,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1980,NA,-106.564133,35.075459,General Coordinates Used
+,NM117,Alley & parking ltos,behind Height's,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1978,NA,-106.650422,35.084386,General Coordinates Used
+,NM118,Alley & Street,behind Heights,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1980,NA,-106.650422,35.084386,General Coordinates Used
+,NM119,Alley & Street behind Heights,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1979,NA,-106.650422,35.084386,General Coordinates Used
+,NM120,Central Ave.,Hitchhiking or by car betw. U. of N.M. & Mildred's,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1975,NA,-106.566819,35.075621,Found
+,NM121,Central Ave.,hitch-hiking or by car from U. of N.M. to Height's,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1976,NA,-106.566819,35.075621,Found
+,NM122,Central Avenue,"""Hitch-hiking"" or by car from University of New Mexico to area near The Loon",NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1977,NA,-106.566819,35.075621,Found
+,NM123,Central Avenue,'Hitch-hiking or by car from U. of N.m. to Height's,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1978,NA,-106.566819,35.075621,Found
+,NM124,Central Avenue,'HItch-hikers' or by car from U. of N.M. to Heights,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1980,NA,-106.566819,35.075621,Found
+,NM125,Central Avenure,'Hitch-hiker' or by car from U. of N.M. to Heights,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1979,NA,-106.566819,35.075621,Found
+,NM126,Grey Hound Bus Depot,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1979,NA,-106.647797,35.081988,Found
+,NM127,Grey Hound Bus Depot,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1980,NA,-106.647797,35.081988,Found
+,NM128,Greyhound Bus Deopt,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1977,NA,-106.647797,35.081988,Found
+,NM129,Greyhound Bus Depot,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1978,NA,-106.647797,35.081988,Found
+,NM130,Jacque's,S Main & Poe,NA,Roswell,NM,(M),Bars/Clubs,1965,NA,-104.522981,33.365435,Found
+,NM131,Jacque's,S Main & Poe St.,NA,Roswell,NM,(M),Bars/Clubs,1966,NA,-104.522981,33.365435,Found
+,NM132,Jacque's,S Main & Poe Sts.,NA,Roswell,NM,(M),Bars/Clubs,1968,NA,-104.522981,33.365435,Found
+,NM133,Jacque's,S Main at Poe,NA,Roswell,NM,(M),Bars/Clubs,1969,NA,-104.522981,33.365435,Found
+,NM134,Limelight,15 mi. N.E. on Hwy. 10,NA,Cedar Crest,NM,(G),Bars/Clubs,1972,NA,-106.372802,35.107546,General Coordinates Used
+,NM135,Limelight,15 mi. N.E. on Hwy. 10 (Cedar Creek),NA,Albuquerque,NM,"(M),(S)",Bars/Clubs,1973,NA,-106.650422,35.084386,General Coordinates Used
+,NM136,Mustang Lounge,,NA,Bernalillo,NM,"(YC),(D),(M),(*)",Bars/Clubs,1971,NA,-106.551137,35.30004,General Coordinates Used
+,NM137,Plaza Bar,on Main Plaza,NA,Santa Fe,NM,,Bars/Clubs,1968,NA,-105.938772,35.687846,General Coordinates Used
+,NM138,Plaza Bar,On Main Plaza,NA,Santa Fe,NM,,Bars/Clubs,1970,NA,-105.938772,35.687846,General Coordinates Used
+,NM139,Plaza Bar,on Lincoln across from the Plaza,NA,Santa Fe,NM,"(RT),(M)",Bars/Clubs,1972,NA,-105.938772,35.687846,General Coordinates Used
+,NM140,Plaza Bar,On Main Plaza,NA,Santa Fe,NM,,Bars/Clubs,1969,NA,-105.938772,35.687846,General Coordinates Used
+,NM141,Plaza Colon,,NA,Santa Fe,NM,"Cruisy Area,(RT)",Crusiy Areas,1976,NA,-105.938772,35.687846,General Coordinates Used
+,NM142,Rest Stop,on I-10 E.,NA,Lordsburg,NM,Cruisy Area,Crusiy Areas,1980,NA,-108.708665,32.350361,General Coordinates Used
+,NM143,Rusty Cork,San Mateo Pl. just N. of I-40,NA,Albuquerque,NM,"(P),(L),(D)",Bars/Clubs,1980,NA,-106.586388,35.106875,General Coordinates Used
+,NM144,Sandia Park,foot trails,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1976,NA,-106.450567,35.203706,Found
+,NM145,Sandia Park,foot trails,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1977,NA,-106.450567,35.203706,Found
+,NM146,Sandia Park,foot trails,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1978,NA,-106.450567,35.203706,Found
+,NM147,Sandia Park,foot trails,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1979,NA,-106.450567,35.203706,Found
+,NM148,Sandia Park,foot trails,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1980,NA,-106.450567,35.203706,Found
+,NM149,Sandia Peak,Foot Trails,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1975,NA,-106.450567,35.203706,Found
+,NM150,The Plaza,,NA,Santa Fe,NM,"Cruisy Area,(RT)",Crusiy Areas,1977,NA,-105.938512,35.687428,Found
+,NM151,The Plaza,,NA,Santa Fe,NM,"(RT),Cruisy Area",Crusiy Areas,1978,NA,-105.938512,35.687428,Found
+,NM152,The Plaza,,NA,Santa Fe,NM,"(RT),Cruisy Area",Crusiy Areas,1979,NA,-105.938512,35.687428,Found
+,NM153,The Plaza,,NA,Santa Fe,NM,"(RT),Cruisy Area",Crusiy Areas,1980,NA,-105.938512,35.687428,Found
+,NM154,U. of N.M.,Administration Bldg.,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1975,NA,-106.619781,35.084319,Found
+,NM155,U. of N.M.,Administration Bldg.,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1976,NA,-106.619781,35.084319,Found
+,NM156,U. of N.M.,Administration Bldg. T-Room,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1979,NA,-106.619781,35.084319,Found
+,NM157,U. of N.M.,"Geology Bldg. T-Room, Electrical Bldg. T-Room & gym (north showers)",NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1980,NA,-106.619781,35.084319,Found
+,NM158,U. of N.M.,Administration Bldg. T-Room,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1978,NA,-106.619781,35.084319,Found
+,NM159,University Drug Store,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1975,NA,-106.619781,35.084319,Found
+,NM160,University Drug Store,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1976,NA,-106.619781,35.084319,Found
+,NM161,University Drug Store,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1977,NA,-106.619781,35.084319,Found
+,NM162,University Drug Store,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1978,NA,-106.619781,35.084319,Found
+,NM163,University Drug Store,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1979,NA,-106.619781,35.084319,Found
+,NM164,University Drug Store,,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1980,NA,-106.619781,35.084319,Found
+,NM165,University of New Mexico,Administration Building,NA,Albuquerque,NM,Cruisy Area,Crusiy Areas,1977,NA,-106.619781,35.084319,Found
+,NM166,Walking the Block,around La Fonda Hotel (& infamous T-Room),NA,Santa Fe,NM,Cruisy Area,Crusiy Areas,1979,NA,-105.937804,35.68665,Found
+,NM167,Walking the Block,around La Fonda Hotel (& infamous T-Room),NA,Santa Fe,NM,Cruisy Area,Crusiy Areas,1980,NA,-105.937804,35.68665,Found
