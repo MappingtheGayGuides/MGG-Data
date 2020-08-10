@@ -166,3 +166,7 @@ write.csv(mergeddata, "data.csv")
 saveRDS(mergeddata, "data.rds")
 #create a list of amenities
 amenities <- origAddress %>% select(amenityfeatures)
+
+#unclear 2917 9%
+#verified 7218 21%
+#G verified 24029 70%
