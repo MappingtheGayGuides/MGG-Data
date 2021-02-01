@@ -58,11 +58,11 @@
 1241,KS120,Eleven-Twenty-Three Club,(some G) ,1123 E. Douglas,Wichita,KS,"(P),(D),(*),(G)",Bars/Clubs,1974,NA,-97.3240808,37.6857979,Google Verified Location
 1277,KS156,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,"(P),(D)",Bars/Clubs,1969,NA,-97.3240808,37.6857979,Google Verified Location
 1281,KS160,Eleven-Twenty-Three Club,,1123 E. Douglas,Wichita,KS,"(P),(D)",Bars/Clubs,1968,NA,-97.3240808,37.6857979,Google Verified Location
-1208,KS087,Gage Park,HOT,,Topeka,KS,Cruisy Area,Cruising Areas,1977,,-95.728666,39.054246,Verified Location
-1166,KS045,Gage Park,(HOT),,Topeka,KS,Cruisy Area,Cruising Areas,1979,,-95.728666,39.054246,Verified Location
-1220,KS099,Gage Park,(HOT),,Topeka,KS,Cruisy Area,Cruising Areas,1976,,-95.728666,39.054246,Verified Location
+1208,KS087,Gage Park,HOT,,Topeka,KS,"Cruisy Area,(HOT)",Cruising Areas,1977,2/1/2021 updated to include missing HOT amenity.,-95.728666,39.054246,Verified Location
+1166,KS045,Gage Park,(HOT),,Topeka,KS,"Cruisy Area,(HOT)",Cruising Areas,1979,2/1/2021 updated to include missing HOT amenity.,-95.728666,39.054246,Verified Location
+1220,KS099,Gage Park,(HOT),,Topeka,KS,"Cruisy Area,(HOT)",Cruising Areas,1976,2/1/2021 updated to include missing HOT amenity.,-95.728666,39.054246,Verified Location
 1138,KS017,Gage Park,,,Topeka,KS,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-95.728666,39.054246,Verified Location
-1194,KS073,Gage Park,(HOT),,Topeka,KS,Cruisy Area,Cruising Areas,1978,,-95.728666,39.054246,Verified Location
+1194,KS073,Gage Park,(HOT),,Topeka,KS,"Cruisy Area,(HOT)",Cruising Areas,1978,2/1/2021 updated to include missing HOT amenity.,-95.728666,39.054246,Verified Location
 1206,KS085,Guys & Dolls ,"(Some G, B, D) (beer)",415 Kansas Ave.,Topeka,KS,"(G),(B),(D)",Bars/Clubs,1977,NA,-95.6728176,39.0538354,Google Verified Location
 1187,KS066,Guys & Dolls ,(Some G) (3.2 beer),415 Kansas Ave.,Topeka,KS,"(D),(G)",Bars/Clubs,1978,NA,-95.6728176,39.0538354,Google Verified Location
 1217,KS096,Guys & Dolls ,"(Some G, B) (3.2 beer only)",415 Kansas Ave.,Topeka,KS,"(G),(B),(D)",Bars/Clubs,1976,NA,-95.6728176,39.0538354,Google Verified Location
@@ -74,7 +74,7 @@
 1225,KS104,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1976,,-97.337476,37.648199,Verified Location
 1255,KS134,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1973,,-97.337476,37.648199,Verified Location
 1236,KS115,Herman HIll Park,,,Wichita,KS,Cruisy Area,Cruising Areas,1975,,-97.337476,37.648199,Verified Location
-1202,KS081,Herman Hill Park,(HOT),,Wichita,KS,Cruisy Area,Cruising Areas,1978,,-97.337476,37.648199,Verified Location
+1202,KS081,Herman Hill Park,(HOT),,Wichita,KS,"Cruisy Area,(HOT)",Cruising Areas,1978,2/1/2021 updated to include missing HOT amenity.,-97.337476,37.648199,Verified Location
 1264,KS143,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,(M),"Bars/Clubs,Hotel",1971,NA,-94.7037081,37.4112854,Google Verified Location
 1258,KS137,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,(M),"Bars/Clubs,Hotel",1972,NA,-94.7037081,37.4112854,Google Verified Location
 1269,KS148,Hotel Besse Bar,,121 E. 4th St.,Pittsburgh,KS,(M),"Bars/Clubs,Hotel",1970,NA,-94.7037081,37.4112854,Google Verified Location

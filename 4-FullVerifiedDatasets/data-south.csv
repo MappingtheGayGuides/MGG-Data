@@ -4894,7 +4894,7 @@
 29896,S4264,Locker Room -Hollywood Hots,(AH*) (Very popular after hours) (Drag Shows) (Sauna & baths) ,2325 Cheshire Br. Rd. N.E. ,Atlanta,GA,"(D),(AH),(*)","Baths,Bars/Clubs",1979,,-84.3487861,33.818249,Google Verified Location
 29897,S4265,Locker Room Baths,(Cheshire Square Shopping Center -for information call 325-0967) ,2325 Cheshire Bridge ,Atlanta,GA,(*),Baths,1977,,-84.3487861,33.818249,Google Verified Location
 29898,S4266,"Locker Room Health
-  Club",(Includes baths & sauna adjoining Hollywood Hots (Disco) (D) (S) (Flicks) & bookstore -BYOB for AH -Open 24 hrs.),2325 Cheshire Bridge Rd. N.E. at Cheshire Square Shopping Center,Atlanta,GA,"(*),(D),(S)","Book Store,Theatre,Baths",1978,,-84.348786,33.818249,Verified Location
+  Club",(Includes baths & sauna adjoining Hollywood Hots (Disco) (D) (S) (Flicks) & bookstore -BYOB for AH -Open 24 hrs.),2325 Cheshire Bridge Rd. N.E. at Cheshire Square Shopping Center,Atlanta,GA,"(*),(D),(S),(BYOB),(AH)","Book Store,Theatre,Baths",1978,Updated 2/1/2021 to include missing amenities BYOB and AH.,-84.348786,33.818249,Verified Location
 29900,S4268,Lodge ,(WE*) (Some G) (Occ. S) ,924 Jackson,Alexandria,LA,"(D),(PT),(WE),(*),(G),(S)",Bars/Clubs,1979,,-92.4498133,31.3092299,Google Verified Location
 29899,S4267,Lodge ,,924 Jackson,Alexandria,LA,(*),Bars/Clubs,1977,,-92.4498133,31.3092299,Google Verified Location
 29901,S4269,Loft,(Looks promising)(above Scottie's Cabaret - stairway outside on right),728 Rampart St.,New Orleans,LA,"(W),(SM)",Bars/Clubs,1976,,-90.0676878,29.9609597,Google Verified Location
@@ -7189,7 +7189,7 @@
 32131,S6468,Skyway Bridge Park,,,St. Petersburg,FL,Cruisy Area,Cruising Areas,1976,,-82.677679,27.681931,Verified Location
 32136,S6473,Slim's Lounge,,2923 Main St.,Houston,TX,,Bars/Clubs,1970,,-95.3757149,29.7428992,Google Verified Location
 32137,S6474,Sly Fox,(Disco),Hwy. 33 4.5 miles north of Lakeland Hills Blvd on Lake Desson,Lakeland,FL,"(D),(S)",Bars/Clubs,1980,,-81.949804,28.039465,Location could not be verified. General city or location coordinates used.
-32139,S6476,Smith Park,(Very HOT),,Jackson,MS,Cruisy Area,Cruising Areas,1979,,-90.183304,32.301229,Verified Location
+32139,S6476,Smith Park,(Very HOT),,Jackson,MS,"Cruisy Area,(HOT)",Cruising Areas,1979,Updated 2/1/2021 to include HOT in amenities.,-90.183304,32.301229,Verified Location
 32138,S6475,Smith Park,,,Jackson,MS,Cruisy Area,Cruising Areas,1978,,-90.183304,32.301229,Verified Location
 32140,S6477,Smith Park,,,Jackson,MS,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-90.183304,32.301229,Verified Location
 32141,S6478,Smith Park - opp. Governor's Mansion,,,Jackson,MS,"Cruisy Area,(HOT)",Cruising Areas,1975,,-90.183304,32.301229,Verified Location
@@ -7538,20 +7538,20 @@
   Airport",,,Tampa,FL,Cruisy Area,Cruising Areas,1978,,-82.537078,27.983478,Verified Location
 32469,S6806,Tampa International Airport,,,Tampa,FL,Cruisy Area,Cruising Areas,1975,,-82.537078,27.983478,Verified Location
 32468,S6805,Tampa International Airport,,,Tampa,FL,Cruisy Area,Cruising Areas,1974,,-82.537078,27.983478,Verified Location
-32471,S6808,Tampa International Airport,(T-Rooms are HOT),,Tampa,FL,Cruisy Area,Cruising Areas,1977,,-82.537078,27.983478,Verified Location
+32471,S6808,Tampa International Airport,(T-Rooms are HOT),,Tampa,FL,"Cruisy Area,(HOT)",Cruising Areas,1977,Updated 2/1/2021 to include HOT in amenities.,-82.537078,27.983478,Verified Location
 32467,S6804,Tampa International Airport,,,Tampa,FL,Cruisy Area,Cruising Areas,1973,,-82.537078,27.983478,Verified Location
 32470,S6807,Tampa International Airport,,,Tampa,FL,Cruisy Area,Cruising Areas,1976,,-82.537078,27.983478,Verified Location
 32472,S6809,Tampa International Airport,,,Tampa,FL,Cruisy Area,Cruising Areas,1980,,-82.537078,27.983478,Verified Location
 32473,S6810,Tampa Mun. Beach,Campbell Causeway (T-Rooms are suicide),,Tampa,FL,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-82.579284,27.970749,Verified Location
-32475,S6812,Tampa Mun. Beach -Campbell Causeway,(T-Rooms are HOT),,Tampa,FL,Cruisy Area,Cruising Areas,1979,,-82.579284,27.970749,Verified Location
+32475,S6812,Tampa Mun. Beach -Campbell Causeway,(T-Rooms are HOT),,Tampa,FL,"Cruisy Area,(HOT)",Cruising Areas,1979,Updated 2/1/2021 to include HOT in amenities.,-82.579284,27.970749,Verified Location
 32474,S6811,Tampa Mun. Beach -Campbell Causeway,,,Tampa,FL,Cruisy Area,Cruising Areas,1973,,-82.579284,27.970749,Verified Location
 32477,S6814,Tampa Municipal Beach,,,Tampa,FL,Cruisy Area,Cruising Areas,1974,,-82.537078,27.983478,Verified Location
 32476,S6813,Tampa Municipal Beach,on Campbell Causeway,,Tampa,FL,Cruisy Area,Cruising Areas,1972,,-82.579284,27.970749,Verified Location
 32478,S6815,"Tampa Municipal Beach
-  - Campbell Causeway",(T-Rooms are HOT),,Tampa,FL,Cruisy Area,Cruising Areas,1978,,-82.537078,27.983478,Verified Location
+  - Campbell Causeway",(T-Rooms are HOT),,Tampa,FL,"Cruisy Area, (HOT)",Cruising Areas,1978,Updated 2/1/2021 to include HOT in amenities.,-82.537078,27.983478,Verified Location
 32480,S6817,Tampa Municipal Beach - Campbell Causeway,(T-Rooms are HOT!),,Tampa,FL,"(HOT),Cruisy Area",Cruising Areas,1976,,-82.579284,27.970749,Verified Location
 32479,S6816,Tampa Municipal Beach - Campbell Causeway,,,Tampa,FL,Cruisy Area,Cruising Areas,1975,,-82.579284,27.970749,Verified Location
-32481,S6818,Tampa Municipal Beach -Campbell Causeway,(T-Rooms are HOT),,Tampa,FL,Cruisy Area,Cruising Areas,1977,,-82.579284,27.970749,Verified Location
+32481,S6818,Tampa Municipal Beach -Campbell Causeway,(T-Rooms are HOT),,Tampa,FL,"Cruisy Area, (HOT)",Cruising Areas,1977,Updated 2/1/2021 to include HOT in amenities.,-82.579284,27.970749,Verified Location
 32482,S6819,Tangerine ,(Liquor) (Disco) ,2960 North Federal Highway ,Ft. Lauderdale,FL,"(*),(R),(E),(S),(YC),(D)","Bars/Clubs,Restaurant",1977,,-80.1154213,26.1653213,Google Verified Location
 32483,S6820,Tango Palace,,267 S. Cleveland ,Memphis,TN,"(W),(YC),(D)",Bars/Clubs,1977,,-90.0167676,35.1347061,Google Verified Location
 32484,S6836,Tap Room,,3625 S. Dixie Hwy. ,West Palm Beach,FL,"(G),(PT)",Bars/Clubs,1979,,-80.0548239,26.6787123,Google Verified Location
@@ -8150,7 +8150,7 @@
 33068,S7389,Venture Inn ,,1791 W. Broward Blvd.,Ft. Lauderdale,FL,"(YC),(D),(*)",Bars/Clubs,1972,,-80.1652726,26.1222921,Google Verified Location
 33071,S7392,Venture-N,,2923 S. Main,Houston,TX,,Bars/Clubs,1980,,-95.5598821,29.6152151,Google Verified Location
 33070,S7391,Venture-N,(Looking up) ,2923 S. Main ,Houston,TX,,Bars/Clubs,1979,,-95.5598821,29.6152151,Google Verified Location
-33072,S7393,Venus Adult Entertainment,(HOT),418 No. 19th St.,Birmingham,AL,"Cruisy Area,(M)",Cruising Areas,1978,,-86.8090334,33.5166619,Google Verified Location
+33072,S7393,Venus Adult Entertainment,(HOT),418 No. 19th St.,Birmingham,AL,"Cruisy Area,(M),(HOT)",Cruising Areas,1978,updated 2/1/2021 to include HOT in amenities.,-86.8090334,33.5166619,Google Verified Location
 33073,S7394,Venus Adult Entertainment,,,Birmingham,AL,Cruisy Area,Cruising Areas,1979,,-86.810357,33.518589,Location could not be verified. General city or location coordinates used.
 33074,S7395,Venus Cinema ,(Books) ,410 W. Trade St. ,Charlotte,NC,(M),"Book Store,Theatre",1977,,-80.8461821,35.2299894,Google Verified Location
 33076,S7397,Venus Cinema ,(Books),410 W. Trade St.,Charlotte,NC,(M),Book Store,1979,,-80.8461821,35.2299894,Google Verified Location
@@ -8441,7 +8441,7 @@
 33355,S7676,Woodrow Wilson Park,,,Birmingham,AL,"Cruisy Area,(HOT)",Cruising Areas,1977,Renamed to Linn Park.,-86.809888,33.520773,Verified Location
 33358,S7679,Woodrow Wilson Park,,,Birmingham,AL,"Cruisy Area,(AYOR)",Cruising Areas,1980,Renamed to Linn Park.,-86.809888,33.520773,Verified Location
 33353,S7674,Woodrow Wilson Park,,,Birmingham,AL,Cruisy Area,Cruising Areas,1975,Renamed to Linn Park.,-86.809888,33.520773,Verified Location
-33356,S7677,Woodrow Wilson Park,(HOT),,Birmingham,AL,Cruisy Area,Cruising Areas,1978,Renamed to Linn Park.,-86.809888,33.520773,Verified Location
+33356,S7677,Woodrow Wilson Park,(HOT),,Birmingham,AL,"Cruisy Area, (HOT)",Cruising Areas,1978,Renamed to Linn Park. Updated 2/1/2021 to include HOT in amenities.,-86.809888,33.520773,Verified Location
 33354,S7675,Woodrow Wilson Park,,,Birmingham,AL,"Cruisy Area,(HOT)",Cruising Areas,1976,Renamed to Linn Park.,-86.809888,33.520773,Verified Location
 33357,S7678,Woodrow Wilson Park,,,Birmingham,AL,Cruisy Area,Cruising Areas,1979,Renamed to Linn Park.,-86.809888,33.520773,Verified Location
 33359,S7680,Woody's ,Scheduled to open Spring '74,129 W. River St.,Savannah,GA,"(R),(D),(E)",Restaurant,1975,,-81.0976272,32.084466,Google Verified Location
