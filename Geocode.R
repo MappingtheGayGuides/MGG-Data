@@ -66,7 +66,7 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-virginislands.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-guam.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -97,8 +97,8 @@ alldata <- rbind(origAddress, uncleardata)
 #alldata$lat <- as.numeric(alldata$lat)
 #alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-virginislands.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-virginislands.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-guam.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-guam.csv", row.names=FALSE)
 #saveRDS(alldata, "DC-Data.rds")
 
 ##Existing data
@@ -142,14 +142,19 @@ mo <- read.csv("4-FullVerifiedDatasets/data-missouri.csv")
 md <- read.csv("4-FullVerifiedDatasets/data-maryland.csv")
 nj <- read.csv("4-FullVerifiedDatasets/data-newjersey.csv")
 ind <- read.csv("4-FullVerifiedDatasets/data-indiana.csv")
-
-
+gu <- read.csv("4-FullVerifiedDatasets/data-guam.csv")
+pr <- read.csv("4-FullVerifiedDatasets/data-puertorico.csv")
+vi <- read.csv("4-FullVerifiedDatasets/data-virginislands.csv")
+territories <- rbind(gu,pr,vi)
 states <- rbind(de,id,mt,ne,nh,ok,sd, nd, vt, ks, ak, ut, wy, pn, mi, wi, il, mass, nv, nm, wv, az, ri, or, oh, ny, me, hi, co, ia, ct, mn, wa, mo, md, nj, ind)
                 
-states <- states %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"unclearaddress")
-cali <- cali %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress")
+states <- states %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"unclearaddress", "Field.1")
+territories <- territories %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"unclearaddress", -"uncleartype")
+cali <- cali %>% select(-"lastmodified", -"full.address", -"dateadded", -"geoAddress", -"Field.1")
 
 mergeddata <- rbind(states, cali, south, dc)
+mergeddata <- mergeddata %>% select(-"Field.1") 
+mergeddata <- rbind(mergeddata, territories)
 
 unique(mergeddata$status)
 mergeddata <- mergeddata %>% mutate(Status_Revised = fct_collapse(status, 

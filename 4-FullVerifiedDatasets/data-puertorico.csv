@@ -1,4 +1,4 @@
-ID,Title,description,streetaddress,city,state,amenityfeatures,type,unclearaddress,uncleartype,Year,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
+ID,title,description,streetaddress,city,state,amenityfeatures,type,unclearaddress,uncleartype,Year,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
 PR001,Lutece Guest House,,1 Atlantic Pl. off McLeary ,Condado,PR,(*),Bars/Clubs,NA,NA,1979,NA,4/27/2020 7:07pm,4/27/2020 8:03pm,"1 Atlantic Pl. off McLeary , Condado, ",-66.0578831,18.4540659,"1 calle atlantic pl, san juan, 00911, puerto rico",Geocoded
 PR002,Lutece Guest House,,1 Atlantic Pl. off McLeary ,Condado,PR,(*),Bars/Clubs,NA,NA,1980,NA,4/27/2020 6:28pm,4/27/2020 6:59pm,"1 Atlantic Pl. off McLeary , Condado, ",-66.0578831,18.4540659,"1 calle atlantic pl, san juan, 00911, puerto rico",Geocoded
 PR003,El Mar Guest House,,1 Calle Ciemenceau,Condado,PR,(H),Hotels,NA,NA,1973,NA,4/28/2020 2:02am,4/28/2020 2:11am,"1 Calle Ciemenceau, Condado, ",-66.0753342,18.4568079,"cll clemenceau, san juan, 00907, puerto rico",Geocoded

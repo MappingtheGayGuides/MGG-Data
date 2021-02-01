@@ -1,4 +1,4 @@
-ID,Title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
+ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,dateadded,lastmodified,full.address,lon,lat,geoAddress,status
 VI001,Stone Balloon,NA,1 Queens Cross,"Christiansted, St. Croix",VI,"(M),(*)",Bars/Clubs,1980,NA,NA,NA,4/27/2020 6:18pm,4/27/2020 6:38pm,"1 Queens Cross, Christiansted, St. Croix, ",-64.7013379,17.7427351,"1 queen cross st, christiansted, st croix 00820, usvi",Geocoded
 VI002,Persian Virgin,NA,14 King St.,"Frederiksted, St. Croix",VI,(M),Bars/Clubs,1980,NA,NA,NA,4/27/2020 6:18pm,4/27/2020 6:39pm,"14 King St., Frederiksted, St. Croix, ",-64.8824811,17.7113441,"king st, frederiksted, st croix 00840, usvi",Geocoded
 VI003,Stone Balloon,NA,1 Queens Cross,"Christiansted, St. Croix",VI,"(M),(*)",Bars/Clubs,1979,NA,NA,NA,4/27/2020 6:18pm,4/27/2020 7:04pm,"1 Queens Cross, Christiansted, St. Croix, ",-64.7013379,17.7427351,"1 queen cross st, christiansted, st croix 00820, usvi",Geocoded
