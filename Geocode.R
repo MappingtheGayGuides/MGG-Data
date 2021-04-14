@@ -51,7 +51,7 @@ origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$c
 
 
 # Register the google api code for the georeferencing service.
-register_google(key = "AIzaSyA-x--1E6bbemYGA4m0BLrQfKw6Kr-gsNI")
+register_google(key = Sys.getenv("GOOGLEAPI_KEY"))
 
 # Loop through the addresses to get the latitude and longitude of each address and add it to the origAddress data frame in new columns lat and lon
 for(i in 1:nrow(origAddress)) {
