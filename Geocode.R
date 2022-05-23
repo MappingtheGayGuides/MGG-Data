@@ -66,7 +66,7 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-guam.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-toronto-1965-77.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -98,7 +98,7 @@ alldata <- rbind(origAddress, uncleardata)
 #alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
 write.csv(alldata, "3-GeocodedDatasets/data-guam.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-guam.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-toronto-1965-77.csv", row.names=FALSE)
 #saveRDS(alldata, "DC-Data.rds")
 
 ##Existing data
