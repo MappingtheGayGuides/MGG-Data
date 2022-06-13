@@ -35,7 +35,7 @@ readData <- function( filename ) {
 #                  .fun = readData,
 #                 .parallel = TRUE )
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-virginislands.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1981.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -97,7 +97,7 @@ alldata <- rbind(origAddress, uncleardata)
 #alldata$lat <- as.numeric(alldata$lat)
 #alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-guam.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-xxxx.csv", row.names=FALSE)
 write.csv(alldata, "4-FullVerifiedDatasets/data-toronto-1965-77.csv", row.names=FALSE)
 #saveRDS(alldata, "DC-Data.rds")
 
