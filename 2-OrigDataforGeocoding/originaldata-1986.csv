@@ -1,4 +1,4 @@
-﻿ID2,title,description,streetaddress,city,state,amenityfeatures,type,unclear_address,unclear type or question,notes,Year,Last Modified
+﻿ID,title,description,streetaddress,city,state,amenityfeatures,type,unclear_address,uncleartype,notes,Year,lastmodified
 3693,Owl & Pussycat ,"(WE*) Key West Motel,", 109 2nd Ave.,Asbury Park,NJ,"(L),(E),(WE),(*)",Bars/Clubs,,,,1986,6/7/2022 2:26pm
 1218,'B' Street ,(Disco) , 236 S. 'B' St.,San Mateo,CA,"(D),(R),(YC),(PT),(*)","Restaurant,Bars/Clubs",,,,1986,2/11/2022 3:21pm
 1186,Buck's,, 301 Stockton Ave.,San Jose ,CA,,Bars/Clubs,,,,1986,2/10/2022 10:05pm
@@ -1294,7 +1294,7 @@
 2002,Pharr Library ,(Disco) (Cruisy cocktail hour) (Hot preppies) ,550 Pharr Rd. N.E.,Atlanta,GA,"(*),(D)","Bars/Clubs,Cruising Areas",,,,1986,6/7/2022 1:32pm
 4968,Venus Pancake House,,550 W. Palmetto,Florence,SC,"(M),(R),(C),(AH)",Restaurant,,,,1986,4/12/2022 7:02pm
 1322,Denver Detour,"(Some SM, L, OC) (WE*) ",551 E. Colfax,Denver,CO,"(R),(SM),(L),(OC),(WE),(*)",Restaurant,,,,1986,6/7/2022 2:24pm
-1981,551 ,(R & Deli) ,551 Ponce de Leon N.E.,Atlanta,GA,"(N),(R)",Restaurant,,,,1986,2/22/2022 8:16pm
+1981,551,(R & Deli) ,551 Ponce de Leon N.E.,Atlanta,GA,"(N),(R)",Restaurant,,,,1986,2/22/2022 8:16pm
 1574,Daron's,,551 S.W. 27th Ave.,Ft. Lauderdale,FL,(R),Restaurant,,,,1986,2/15/2022 7:38pm
 2003,Pleasant Peasant ,,555 Peachtree St. N.E.,Atlanta,GA,"(M),(PE),(R)",Restaurant,,,,1986,2/23/2022 1:36pm
 549,Harold's ,(Hustlers) ,555 S. Main St.,Midtown- Los Angeles ,CA,"(B),(RT),(*)",Bars/Clubs,,,,1986,2/1/2022 1:59pm
@@ -1346,7 +1346,7 @@
 5667,Six Eleven Tavern ,,611 2nd Ave.,Seattle,WA,,Bars/Clubs,,,,1986,4/22/2022 1:32pm
 5111,Back Street Basic's ,"(Some S&M, W) (Disco) (AH*) (Cruisy) ",611 E. 7th ,Austin,TX,"(SM),(W),(D),(AH),(*)","Bars/Clubs,Cruising Areas",,,,1986,6/7/2022 1:25pm
 3695,Rascals ,"(Some YC, M, B) (Disco) (L- 3rd floor WE) (V's Place- upstairs) (WE*) just off of Cookman ",611 Heck St. ,Asbury Park,NJ,"(M),(YC),(B),(D),(WE),(*)",Bars/Clubs,,,,1986,3/17/2022 8:07pm
-5336,611 ,,611 Hyde Park ,Houston,TX,(SM),Bars/Clubs,,,,1986,4/20/2022 2:05pm
+5336,611,,611 Hyde Park ,Houston,TX,(SM),Bars/Clubs,,,,1986,4/20/2022 2:05pm
 5126,The Crossing ,(Cruisy) (Disco) (Opens 7am) ,611 Red River,Austin,TX,"(*),(S),(PT)","Bars/Clubs,Cruising Areas",,,,1986,6/7/2022 1:28pm
 2939,Haymarket ,(Some Hustlers) (Disco) ,611 Washington St. ,Boston,MA,"(D),(V)",Bars/Clubs,,,,1986,3/11/2022 12:00pm
 586,One Way,"(Some SM,FFA)(DJ but no D)(Cruisy)
@@ -2677,7 +2677,7 @@ Memorial Parkway",Huntsville,AL,"(YC),(D),(*)",Bars/Clubs,,,,1986,1/25/2022 1:20
 2225,Company ,,2683 N. Halsted,Chicago,IL,"(N),(D)",Bars/Clubs,,,,1986,2/27/2022 12:51am
 645,Manhandler,(Disco) ,2692 S. La Cienega,West Los Angeles ,CA,"(PT),(YC),(D),(*)",Bars/Clubs,,,,1986,2/2/2022 2:55pm
 4548,Village Inn Pancake House ,,2701 Classen ,Oklahoma City,OK,"(M),(R),(AH)",Restaurant,,,,1986,4/8/2022 2:14pm
-5186,M.C.C. ,-Dallas,2701 Reagan,Dallas,TX,(MCC),Religious Institution,,,,1986,6/7/2022 12:44pm
+5186,M.C.C. ,#NAME?,2701 Reagan,Dallas,TX,(MCC),Religious Institution,,,,1986,6/7/2022 12:44pm
 5072,Classic Art ,(Books) ,2702 Dickerson Rd.,Nashville,TN,,Book Store,,,,1986,4/13/2022 2:18pm
 5331,Rascal's ,(Cabaret) ,2702 Kirby ,Houston,TX,"(*),(R)","Restaurant,Bars/Clubs",,,,1986,4/20/2022 2:05pm
 3540,Adult Book Store & Arcade,,2702 Minneapolis Ave.,Billings,MT,(M),"Book Store,Erotic Shop",,,,1986,6/7/2022 12:51pm

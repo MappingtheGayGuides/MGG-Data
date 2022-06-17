@@ -1,4 +1,4 @@
-﻿ID2,title,amenityfeatures,description,streetaddress,type,city,state,Year,unclear_address,unclear type or question,notes,Last Modified
+﻿ID,title,amenityfeatures,description,streetaddress,type,city,state,Year,unclear_address,uncleartype,notes,lastmodified
 1,Bill's Club,"(*),(L),(D),(S)","(Many L)
 ","208 N. 23rd St.
 ",Bars/Clubs,Birmingham,AL,1988,,,,1/24/2022 2:11pm

@@ -1,4 +1,4 @@
-﻿ID2,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclear_address,unclear type or question,notes,Last Modified
+﻿ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,unclear_address,uncleartype,notes,lastmodified
 1,After Dark,(Many L) (Disco) (WE *),117 1/2 N. 21st St,Birmingham,AL,"(L),(D),(WE),(*)",Bars/Clubs,,,,,11/23/2021 9:17am
 3,Bell Watling's ,(Disco),607 N. 21st St,Birmingham,AL,"(YC),(*)",Bars/Clubs,,,,,11/23/2021 9:17am
 4,Birmingham Adult Books & Cinema ,(AYOR-'Fuzz'),7610 1st Ave. N.,Birmingham,AL,"(M),(AYOR)","Book Store,Theatre",,,,,11/23/2021 9:17am

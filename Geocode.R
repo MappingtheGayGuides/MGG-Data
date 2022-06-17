@@ -77,12 +77,17 @@ uncleardata$full.address <- paste(uncleardata$streetaddress, ", ", uncleardata$s
 
 #split Lat/Long out into two columns
 #separate(uncleardata$Lat.Lon, c("lat", "lon"), ",")
-uncleardata <- separate(uncleardata, col = lat.lon, into = c("lat","lon"), sep = ",")
+## as of 6-2022 no longer needed?
+#uncleardata <- separate(uncleardata, col = lat.lon, into = c("lat","lon"), sep = ",")
 
 #make sure both dfs have same columns
 origAddress['status'] = 'Geocoded'
 uncleardata['geoAddress'] = 'unclear_coded_by_hand'
-#uncleardata <- uncleardata %>% select(-"unclearaddress")
+
+#check col names
+colnames(origAddress)
+colnames(uncleardata)
+
 uncleardata <- uncleardata %>% select(-"lastmodified.2")
 alldata <- rbind(origAddress, uncleardata)
 
