@@ -1,4 +1,4 @@
-﻿ID,title,status,description,streetaddress,lat,lon,city,state,amenityfeatures,type,Year,unclearaddress,uncleartype,notes,lastmodified
+﻿ID,title,status,description,streetaddress,lat,lon,city,state,amenityfeatures,type,Year,unclear_address,uncleartype,notes,lastmodified
 2,Noble St.,Found,betw. 8th & 6th,,33.658482,-85.829655,Anniston,AL,Cruisy Area,Cruising Areas,1983,checked,,,2/8/2022 3:33am
 1,Greyhound Bus Depot,General Coordinates Used,,,33.659826,-85.831632,Anniston,AL,Cruisy Area,Cruising Areas,1983,checked,,,2/8/2022 3:27am
 3,Penny's T-Room ,General Coordinates Used,(Quintard),,33.659826,-85.831632,Anniston,AL,Cruisy Area,Cruising Areas,1983,checked,,,2/8/2022 3:34am
