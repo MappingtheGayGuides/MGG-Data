@@ -101,8 +101,8 @@ alldata <- rbind(origAddress, uncleardata)
 #alldata$lat <- as.numeric(alldata$lat)
 #alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-1984.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-1984.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-1985.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-1985.csv", row.names=FALSE)
 #saveRDS(alldata, "DC-Data.rds")
 
 ##Existing data
