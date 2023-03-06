@@ -13,29 +13,13 @@ library(forcats)
 #origAddress <- read.csv("MGG-App/NGSData/1965.csv", header = TRUE, sep =",", stringsAsFactors = FALSE)
 
 
-########FUNCTION FOR READING IN ALL DATA FILES########
-
-readData <- function( filename ) {
-  
-  # read in the data
-  data <- read.csv( paste("NGSData/", filename, sep=""),
-                    header = TRUE, 
-                    sep =",", 
-                    stringsAsFactors = FALSE )
-  
-  # add a "Year" column by removing both "yob" and ".txt" from file name
-  data$Year <- gsub( ".csv", "", filename )
-  
-  return( data )
-}
-
 ########READ IN DATA AND PREP FOR GEOCODING########
 
 #origAddress <- ldply( .data = list.files(path="NGSData/", pattern="*.csv", include.dirs = TRUE),
 #                  .fun = readData,
 #                 .parallel = TRUE )
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1986.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1987.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -83,7 +67,7 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-1985.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-1988.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -118,8 +102,8 @@ alldata <- rbind(origAddress, uncleardata)
 #alldata$lat <- as.numeric(alldata$lat)
 #alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-1985.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-1985.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-1988.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-1988.csv", row.names=FALSE)
 #saveRDS(alldata, "DC-Data.rds")
 
 ##Existing data
