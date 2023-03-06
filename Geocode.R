@@ -35,7 +35,7 @@ readData <- function( filename ) {
 #                  .fun = readData,
 #                 .parallel = TRUE )
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1985.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1986.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -52,6 +52,23 @@ origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$c
 
 # Register the google api code for the georeferencing service.
 register_google(key = Sys.getenv("GOOGLEAPI_KEY"))
+
+#mgg.geocode <- function(dataset) {
+#  origAddress <- read.csv(paste("2-OrigDataforGeocoding/originaldata-",dataset,".csv", sep=""), header = TRUE)
+#  origAddress <- origAddress %>% mutate_if(is.character, trimws)
+  # paste together the street address, city and state in order to ensure we use full addresses for geocoding. Will minimize mistakes caused by common streetnames. 
+#  origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$city, ", ", origAddress$state, sep="") 
+  # Loop through the addresses to get the latitude and longitude of each address and add it to the origAddress data frame in new columns lat and lon
+#  for(i in 1:10) {
+    # Print("Working...")
+#    result <- tryCatch(geocode(origAddress$full.address[i], output = "latlona", source = "google"), warning = function(w) data.frame(lon = NA, lat = NA, address = NA))
+#    origAddress$lon[i] <- as.numeric(result[1])
+#    origAddress$lat[i] <- as.numeric(result[2])
+#    origAddress$geoAddress[i] <- as.character(result[3])
+#  }
+ # fundata <- as.data.frame(origAddress)
+  #return(as.data.frame(fundata))
+#}
 
 # Loop through the addresses to get the latitude and longitude of each address and add it to the origAddress data frame in new columns lat and lon
 for(i in 1:nrow(origAddress)) {
