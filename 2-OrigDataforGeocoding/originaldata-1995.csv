@@ -1,8 +1,8 @@
 ﻿ID2,title,streetaddress,unclear_address,description,city,state,amenityfeatures,type,unclear type or question,notes,Year,Last Modified
-6094,Ocean Walk,1 Atlantic Place,,"728-0855/(800)468-0615 on the beach, sundeck",San Juan,PR,"(GF),(SW),(IGTA)",Accommodations,,,,4/27/2023 11:34am
+6094,Ocean Walk,1 Atlantic Place,,"728-0855/(800)468-0615 on the beach, sundeck",San Juan,PR,"(GF),(SW),(IGTA)",Accommodations,,,1995,7/26/2023 12:07pm
 1432,Thomas Floral & Adult Gifts,1 Broadway Ste. 108 ,,"(at Ellsworth) 744-6400 8:30am-6pm, til 5pm Sat, clsd Sun",Denver,CO,(WC),Bookstores/Retail Shops,,,1995,4/28/2023 9:39am
-6093,Numero Uno on the Beach,1 Calle Santa Ana,,"Ocean Park, 726-5010/727-9687 guest house, bar & grille",San Juan,PR,"(*),(GF),(SW),(WC)",Accommodations,,,,4/27/2023 11:34am
-6088,Atlantic Beach Hotel,1 Calle Vendig,,Condado 721-6900 bar & restaurant,San Juan,PR,"(*),(MW),(IGTA)",Accommodations,,,,4/27/2023 11:31am
+6093,Numero Uno on the Beach,1 Calle Santa Ana,,"Ocean Park, 726-5010/727-9687 guest house, bar & grille",San Juan,PR,"(*),(GF),(SW),(WC)",Accommodations,,,1995,7/26/2023 12:07pm
+6088,Atlantic Beach Hotel,1 Calle Vendig,,Condado 721-6900 bar & restaurant,San Juan,PR,"(*),(MW),(IGTA)",Accommodations,,,1995,7/26/2023 12:07pm
 3208,Provincetown Inn,1 Commercial St.,,487-9500 hotel,Provincetown,MA,"(GF),(F),(SW),(WC)",Accommodations,,,1995,4/25/2023 9:22pm
 1845,Pier House Resort & Caribbean Spa,1 Duval St.,,"296-4600/ (800)327-8340 priv. beach, 5 restaurants, 5 bars, spa & gym",Key West,FL,"(GF),(SW)",Accommodations,,,1995,4/25/2023 9:22pm
 5083,Gerardo's,1 Franklin Square,,"274-5560 4pm-1am, til 2am Fri-Sat",Providence,RI,"(MW),D,(E),(WC)",Bars,,,1995,4/25/2023 9:23pm
@@ -21,7 +21,7 @@
 2998,Hippo,1 W. Eager St.,,"547-0069 3pm-2am, 3 bars",Baltimore,MD,"(*),(MW),D,(K),(V),(WC)",Bars,,,1995,4/25/2023 9:22pm
 4110,Cafe Risque,2 Bank St.,,"675-7710 market-style cuisine, exotic desserts, cabaret, full bar, some veggie",New York City,NY,(*),Restaurants & Cafes,,"Listed under ""N.Y.C. - Greenwich Village/Chelsea.""",1995,4/25/2023 9:23pm
 2930,Sportsman's Club,2 Bates St.,,"784-2251 8pm-1am, from 4pm Sun",Lewiston,ME,"(*),(MW),D",Bars,,,1995,4/25/2023 9:22pm
-6095,Barefoot Bar,2 Calle Vendig,,"Condado, 724-7230 beach bar, 9am-3am",San Juan,PR,"(*),(F)",Bars,,,,4/27/2023 11:35am
+6095,Barefoot Bar,2 Calle Vendig,,"Condado, 724-7230 beach bar, 9am-3am",San Juan,PR,"(*),(F)",Bars,,,1995,7/26/2023 12:07pm
 5092,Tri-Travel,2 Charles St.,,272-2990/(800)842-33115 ask for Roger,Providence,RI,(IGTA),Travel/Tour Operators,,,1995,4/25/2023 9:23pm
 4917,Grown Ups,2 E. Mechanic St.,,862-9304 opens 11am,New Hope,PA,,Erotica,,,1995,4/25/2023 9:23pm
 2965,"Adventure Travel, Inc.","2 Elsie Way, Scarborough",,885-5060,Portland,ME,(IGTA),Travel/Tour Operators,,,1995,4/25/2023 9:22pm
@@ -31,7 +31,7 @@
 3614,West End Cafe,2 N. Euclid Ave.,,"361-2020 lunch, dinner, American",St. Louis,MO,,Restaurants & Cafes,,,1995,4/25/2023 9:22pm
 3012,Donna's Coffee Bar,2 W. Madison,,385-0180,Baltimore,MD,(BW),Restaurants & Cafes,,,1995,4/25/2023 9:22pm
 3090,Icarus,3 Appleton St.,,426-1790,Boston,MA,,Restaurants & Cafes,,,1995,4/25/2023 9:22pm
-6087,3 Elena Guest House,3 Elena St.,,"728-7418 garden setting, at the gay beach",San Juan,PR,"(*),(MW),(F),(SW)",Accommodations,,,,4/27/2023 11:30am
+6087,3 Elena Guest House,3 Elena St.,,"728-7418 garden setting, at the gay beach",San Juan,PR,"(*),(MW),(F),(SW)",Accommodations,,,1995,7/26/2023 12:07pm
 5069,Raffles,3 Farewell St.,,847-9663 9pm-1am,Newport,RI,"(*),D",Bars,,,1995,4/25/2023 9:23pm
 185,Cedarberry Cottage B&B,3 Kings Hwy.,,253-6115 hot tubs,Eureka Springs,AR,(GF),Accommodations,,,1995,4/25/2023 9:22pm
 2963,Communiques,3 Moulton St.,,"773-5181, 10am-6pm, cards, gifts & clothing",Portland,ME,,Bookstores/Retail Shops,,,1995,4/25/2023 9:22pm
@@ -50,7 +50,7 @@
 3218,Shiremax Inn,5 Tremont St.,,487-1233,Provincetown,MA,,Accommodations,,,1995,4/25/2023 9:22pm
 4911,Karla's,5 W. Mechanic St.,,"862-2612 lunch, dinner & late night brkfst, full bar",New Hope,PA,(E),Restaurants & Cafes,,,1995,4/25/2023 9:23pm
 3204,Mayflower Apartments & Cottages,6 Bangs St.,,487-1916,Provincetown,MA,(GF),Accommodations,,,1995,4/25/2023 9:22pm
-6090,Condado Inn,6 Condado Ave,,"Condado 724-7145 guest-house w/ terrace restaurant & lounge, 1/2 blk. to beach",San Juan,PR,"(*),(MW)",Accommodations,,,,4/27/2023 11:32am
+6090,Condado Inn,6 Condado Ave,,"Condado 724-7145 guest-house w/ terrace restaurant & lounge, 1/2 blk. to beach",San Juan,PR,"(*),(MW)",Accommodations,,,1995,7/26/2023 12:07pm
 3166,Ampersand Guest House,6 Cottage St.,,487-0959,Provincetown,MA,(MW),Accommodations,,,1995,4/25/2023 9:22pm
 4097,Shelter,6 Hubert St. ,,"(at Hudson St.) 677-2582 10pm-6am Tues, Fri-Sat, call for theme nights, no alcohol",New York City,NY,"(GF),D,(MRC-AF)",Bars,,"Listed under ""N.Y.C. - Greenwich Village/Chelsea.""",1995,4/28/2023 9:41am
 189,Maple Leaf Inn,6 Kings Hwy.,,"253-6876/ (800)372-6542 restored Victorian, jacuzzis, full brkfst",Eureka Springs,AR,(GF),Accommodations,,,1995,4/25/2023 9:22pm
@@ -67,7 +67,7 @@
 38,Frontiers,7 S. Joachim St.,,,Mobile,AL,"(MW),(D),(F),(E),(PC)",Bars,,,1995,4/25/2023 9:22pm
 3228,Watership Inn,7 Winthrop St.,,487-0094,Provincetown,MA,"(*),(MW)",Accommodations,,,1995,4/25/2023 9:22pm
 3613,Sunshine Inn,8 1/2 S. Euclid Ave.,,"367-1413 clsd Mon, vegetarian",St. Louis,MO,,Restaurants & Cafes,,,1995,4/25/2023 9:22pm
-6080,Villa Ricomar,8 Calle Paz,,"Carretera 459, Barrio Jobos. Opens 9pm Fri-Sat, from 6pm Sun",Isabela,PR,"(MW),(D),(S)",,,,,4/27/2023 10:44am
+6080,Villa Ricomar,8 Calle Paz,,"Carretera 459, Barrio Jobos. Opens 9pm Fri-Sat, from 6pm Sun",Isabela,PR,"(MW),(D),(S)",,,,1995,7/26/2023 12:07pm
 3213,Roomers,8 Carver St.,,"487-3532, seasonal",Provincetown,MA,,Accommodations,,,1995,4/25/2023 9:22pm
 4091,Pieces,8 Christopher St.,,929-9291 2pm-4am,New York City,NY,"(NH),(V)",Bars,,"Listed under ""N.Y.C. - Greenwich Village/Chelsea.""",1995,4/25/2023 9:23pm
 3185,Christopher Inn,8 Dyer St.,,487-1920,Provincetown,MA,(SW),Accommodations,,,1995,4/25/2023 9:22pm
@@ -319,14 +319,14 @@
 1496,La Rosa's,50 Weston St.,,"560-6300 Sun, Italian, some veggie, full bar",Hartford,CT,,Restaurants & Cafes,,,1995,4/25/2023 9:22pm
 1557,Ground Zero,50 Wilmington Ave.,,"227-8041 6pm-2am, full bar",Rehoboth Beach,DE,"(MW),(WC)",Restaurants & Cafes,,,1995,4/25/2023 9:22pm
 1556,Celsius,50-C Wilmington Ave.,,"227-5767 5:30pm-11pm, northern Italy/French, some veggie",Rehoboth Beach,DE,(WC),Restaurants & Cafes,,,1995,4/25/2023 9:22pm
-6106,Vibration,51 Ave Barranquitas,,"Condado 10pm-5am, cruisy, men-only backroom",San Juan,PR,"(*),(S)","Bars,Cruising Areas",,,,4/28/2023 9:33am
+6106,Vibration,51 Ave Barranquitas,,"Condado 10pm-5am, cruisy, men-only backroom",San Juan,PR,"(*),(S)","Bars,Cruising Areas",,,1995,7/26/2023 12:07pm
 41,Society Lounge,51 S. Conception,,433-9141 noon-?,Mobile,AL,"(MW),(D),(S),(PC)",Bars,,,1995,4/25/2023 9:22pm
 3829,Rah-Rah Pub,51 S. Day St.,,"676-1399 4pm-2am, til 3am Fri-Sat, fresh pizza",Orange,NJ,"(*),(MW),(F)",Bars,,,1995,4/25/2023 9:22pm
 1624,Zone,52 'L' St. SE,,"488-1200 9pm-?, clsd Mon-Tues, nude go-go boys",Washington,DC,(S),Bars,,,1995,4/25/2023 9:22pm
 198,Cafe Armagost,52 Kings Hwy.,,"253-8075 excellent French/Creole gourmet, 5pm-10pm, Sun brunch",Eureka Springs,AR,(*),Restaurants & Cafes,,,1995,4/25/2023 9:22pm
 3081,Napoleon Club,52 Piedmont,,"338-7547 5pm-2am, piano bar",Boston,MA,"(*),D,(OC)",Bars,,,1995,4/25/2023 9:22pm
 1230,City Books,52 Turk St.,,885-4216,San Francisco,CA,,Erotica,,"Listed under ""S.F.- Downtown"".",1995,4/25/2023 9:22pm
-6100,La Laguna Night Club,53 Calle Barranquitas,,Condado from 9pm,San Juan,PR,"(*),(D),(S)",Bars,,,,4/27/2023 11:39am
+6100,La Laguna Night Club,53 Calle Barranquitas,,Condado from 9pm,San Juan,PR,"(*),(D),(S)",Bars,,,1995,7/26/2023 12:07pm
 3761,Members,53 Green St.,,"436-9451 8pm-1:30am, from 6pm Fri-Sun, piano lounge wknds",Portsmouth,NH,"(*),D,(E),(S),(V),(PC)",Bars,,,1995,4/25/2023 9:22pm
 4891,Den of Pleasure,53 N. Prince St.,,299-1779,Lancaster,PA,,Erotica,,,1995,4/25/2023 9:23pm
 1094,Caribbean Zone,55 Natoma St.,,"541-9465 festive decor, cocktails",San Francisco,CA,(*),Restaurants & Cafes,,"Listed under ""S.F. - South of Market"".",1995,4/25/2023 9:22pm
@@ -336,7 +336,7 @@
 4173,Banana Video,55 W. 38th St.,,382-0935 clsd Sun,New York City,NY,,Erotica,,"Listed under ""N.Y.C. - Midtown.""",1995,4/25/2023 9:23pm
 1616,Lost & Found,56 'L' St. SE,,"488-1200 9pm-2am, til 5am Fri-Sat, clsd Mon-Tues",Washington,DC,"(MW),D,(WC)",Bars,,,1995,4/25/2023 9:22pm
 4105,Uncle Charlie's,56 Greenwich Ave.,,"255-8787 3pm-4am, very preppie",New York City,NY,"(*),(P),(V),(YC)",Bars,,"Listed under ""N.Y.C. - Greenwich Village/Chelsea.""",1995,4/25/2023 9:23pm
-6089,Casablanca Guest House,57 Caribe,,Condado 722-7139 1 blk. to beach,San Juan,PR,"(*),(MW)",Accommodations,,,,4/27/2023 11:31am
+6089,Casablanca Guest House,57 Caribe,,Condado 722-7139 1 blk. to beach,San Juan,PR,"(*),(MW)",Accommodations,,,1995,7/26/2023 12:07pm
 5567,Anton Boxrud B&B,57 S. 600 E.,,363-8035/524-5511 full brkfst,Salt Lake City,UT,(GF),Accommodations,,,1995,4/25/2023 9:23pm
 4906,Riverside B&B,58 N. Main St.,,"862-0216, cont'l brkfst",New Hope,PA,,Accommodations,,,1995,4/25/2023 9:23pm
 2960,Westside,58 Pine St.,,773-8223 8am-9pm,Portland,ME,(WC),Restaurants & Cafes,,,1995,4/25/2023 9:22pm
@@ -536,8 +536,8 @@
 2211,Foxes Video Showcase,111 Jefferson Davis Hwy.,,"(803) 279-7023, 24hrs",Augusta,GA,,Erotica,,,1995,4/25/2023 9:22pm
 5193,501 Club,111 N. Claybrook,,"274-8655 noon-3am, patio; also cruise bar",Memphis,SD,"(MW),D,(S),(WC)","Bars,Cruising Areas",,,1995,4/25/2023 9:23pm
 677,Friar Tucks,111 N. Pine St.,,"265-9093 dinner nightly, full bar",Nevada City,CA,(WC),Restaurants & Cafes,,,1995,4/25/2023 9:22pm
-6086,Concra,112 Ave. Universidad,,"Santa Rita, Rio Piedras 753-9443 healthcare & referrals",San Juan,PR,,Info Lines & Services,,,,4/27/2023 11:30am
-6101,Lime,112 Condado Ave,,"from 7pm, from 5pm Sun (""a must"")",San Juan,PR,"(*),(YC)",Bars,,,,4/27/2023 11:39am
+6086,Concra,112 Ave. Universidad,,"Santa Rita, Rio Piedras 753-9443 healthcare & referrals",San Juan,PR,,Info Lines & Services,,,1995,7/26/2023 12:07pm
+6101,Lime,112 Condado Ave,,"from 7pm, from 5pm Sun (""a must"")",San Juan,PR,"(*),(YC)",Bars,,,1995,7/26/2023 12:07pm
 5094,Back Street Video,112 Mathewson,,521-7905,Providence,RI,,Erotica,,,1995,4/25/2023 9:23pm
 2784,Kixx,112 N. Hollywood,,876-9587 6pm-2am,Houma,LA,"(MW),D,(WC)",Bars,,,1995,4/25/2023 9:22pm
 2642,Garden,112 SE 4th St.,,243-3965 6pm-2am,Des Moines,IA,"(*),(MW),D,(S),(WC)",Bars,,,1995,4/25/2023 9:22pm
@@ -645,7 +645,7 @@
 1447,Pleasure Entertainment Center,127 S. Broadway,,"722-5852, 24hrs",Denver,CO,,Erotica,,,1995,4/25/2023 9:22pm
 3779,Ocean House,127 S. Ocean Ave.,,345-8203,Atlantic City,NJ,"MO,(N)",Accommodations,,,1995,4/25/2023 9:22pm
 2345,Whoppers,127 S. Park Ave. W.,,733-5817 7pm-1am,Twin Falls,ID,"(GF),(WC)",Bars,,,1995,4/25/2023 9:22pm
-6123,On the Beach Resort,127 Smithfield Rd. ,,"772-1205/(800)524-2018 beachfront hotel, kitchenettes, bar & restaurant",Frederiksted,VI,"(GF),(SW)",Accommodations,,,,4/28/2023 9:27am
+6123,On the Beach Resort,127 Smithfield Rd. ,,"772-1205/(800)524-2018 beachfront hotel, kitchenettes, bar & restaurant",Frederiksted,VI,"(GF),(SW)",Accommodations,,,1995,7/26/2023 12:07pm
 3841,"Travel Registry, Inc.",127 Washington St.,,921-6900/ (800)346-6901,Rocky Hill ,NJ,(IGTA),Travel/Tour Operators,,,1995,4/25/2023 9:22pm
 4555,Cameron's Cafe,128 Dillmont Dr.,,"888-1166 4pm-midnight, clsd Sun. full bar",Columbus,OH,"(MW),D,(WC)",Restaurants & Cafes,,,1995,4/25/2023 9:23pm
 5004,Bubba's,"128 E. 8th Ave., Homestead",,"461-9700 6pm-2am, clsd Sun",Pittsburgh,PA,"(W),(NH)",Bars,,,1995,4/25/2023 9:23pm
@@ -854,7 +854,7 @@
 4938,Bike Stop,204 S. Quince,,"627-1662 3pm-2am, from 1pm wknds; 4 flrs.",Philadelphia,PA,"(*),D,(L),(E)",Bars,,,1995,4/25/2023 9:23pm
 3110,Art I & II Cinemas,204 Tremont,,482-4661,Boston,MA,,Erotica,,,1995,4/25/2023 9:22pm
 8,Lambda Resource Center,205 32nd St. S.,,"326-8600, info line 6pm-10pm, from 1pm wknds; library; drop-in coffeehouse 7pm-10pm Th-Sat; men's night 2nd Mon 7pm",Birmingham,AL,,Info Lines & Services,,,1995,4/25/2023 9:22pm
-6111,Steam Works,205 Calle Luna,,725-4993,San Juan,PR,(PC),Men's Clubs,,,,4/28/2023 9:16am
+6111,Steam Works,205 Calle Luna,,725-4993,San Juan,PR,(PC),Men's Clubs,,,1995,7/26/2023 12:07pm
 4939,Black Banana,205 N. 3rd,,"925-4433 10pm-3am, clsd Mon",Philadelphia,PA,"(GF),D,(A),(WC)",Bars,,,1995,4/25/2023 9:23pm
 3025,Center News,205 W. Fayette St.,,727-9544,Baltimore,MD,,Erotica,,,1995,4/25/2023 9:22pm
 2986,Biltmore Suites,205 W. Madison St.,,728-6550 B&B,Baltimore,MD,(GF),Accommodations,,,1995,4/25/2023 9:22pm
@@ -970,7 +970,7 @@
 4168,Spa227,227 E. 56th St.,,754-0227,New York City,NY,,Gyms & Health Clubs,,"Listed under ""N.Y.C. - Midtown.""",1995,4/25/2023 9:23pm
 4171,East Side Club,227 E. 56th St. ,,"(6th flr.) 753-2222 24hrs, spa",New York City,NY,"(*),(PC)",Men's Clubs,,"Listed under ""N.Y.C. - Midtown.""",1995,4/28/2023 10:29am
 4041,Next,"227 East 56th St. 2nd flr, 10022",,832-7188,New York City,NY,,Publications,,"Listed under ""N.Y.C. - Overview.""",1995,4/25/2023 9:23pm
-6126,Calparrio International Travel,227 King St.,,772-9822/(800)537-7239,,,(IGTA),Travel/Tour Operators,,,,4/28/2023 9:29am
+6126,Calparrio International Travel,227 King St.,,772-9822/(800)537-7239,Frederiksted,VI,(IGTA),Travel/Tour Operators,,,1995,7/31/2023 4:46pm
 4700,Grass Roots Bookstore,227 SW 2nd St.,,"754-7668, 9am-7pm, til 5pm Sat, til 9pm Fri, 11am-4pm Sun",Corvallis,OR,,Bookstores/Retail Shops,,,1995,4/25/2023 9:23pm
 595,Avenue of Adventure,"227 W. Las Tunas, San Gabriel",,(818)576-0264/ (800)934-5245,Los Angeles,CA,(IGTA),Travel/Tour Operators,,"Listed under ""L.A. - Silverlake.""",1995,4/25/2023 9:22pm
 3086,Sporters,228 Cambridge St.,,742-4084 3pm-2am,Boston,MA,"(*),D,(E),(V)",Bars,,,1995,4/25/2023 9:22pm
@@ -1377,7 +1377,7 @@
 1741,"Deck, The",401 N. Atlantic ,,(Bahama Hotel) 467-7315 oceanfront cafe,Ft. Lauderdale,FL,,Restaurants & Cafes,,,1995,4/28/2023 10:24am
 311,Booklegger,402 2nd St.,,445-1344 some gay titles,Eureka,CA,,Bookstores/Retail Shops,,,1995,4/25/2023 9:22pm
 3772,Teddy's Pub,402 Emory St.,,774-9871 2pm-2am,Asbury Park/Ocean Grove,NJ,"(MW),(NH),(WC)",Bars,,,1995,4/25/2023 9:22pm
-6124,Prince Street Inn,402 Prince St.,,"882-9550 6 apts. w/kitchens, quiet, nr. beach",Frederiksted,VI,(GF),Accommodations,,,,4/28/2023 9:27am
+6124,Prince Street Inn,402 Prince St.,,"882-9550 6 apts. w/kitchens, quiet, nr. beach",Frederiksted,VI,(GF),Accommodations,,,1995,7/26/2023 12:07pm
 744,Las Palmas Travel,403 N. Palm Canyon Dr.,,325-6311/ (800)776-6888,Palm Springs,CA,(IGTA),Travel/Tour Operators,,,1995,4/25/2023 9:22pm
 5421,Arnie's,403 Westheimer,,523-0030 10am-midnight,Houston,TX,(S),Bars,,,1995,4/25/2023 9:23pm
 295,New Venture Travel,"404 22nd St., Oakland",,835-3800,East Bay,CA,(IGTA),Travel/Tour Operators,,,1995,4/25/2023 9:22pm
@@ -1393,7 +1393,7 @@
 6045,Molly & Oscar's,405 Tower Ave.,,394-7423 2pm-2am,Superior,WI,"(GF),(NH)",Bars,,,1995,4/25/2023 9:23pm
 2047,"Office on Wright St., The",406 E. Wright St.,,"432-7969 3pm-3am, health club inside",Pensacola,FL,"(MW),D,(S),(SW),(WC)",Bars,,,1995,4/25/2023 9:22pm
 5789,Double Header,407 2nd Ave.,,624-8439 10am-1am,Seattle,WA,"(GF),(NH)",Bars,,,1995,4/25/2023 9:23pm
-6107,Cafe Berlin,407 Plaza Colon,,"Old San Juan, 722-5205 espresso bar",San Juan,PR,(*),Restaurants & Cafes,,,,4/28/2023 9:14am
+6107,Cafe Berlin,407 Plaza Colon,,"Old San Juan, 722-5205 espresso bar",San Juan,PR,(*),Restaurants & Cafes,,,1995,7/26/2023 12:07pm
 5953,Pure Pleasure Books,407 S. 3rd St.,,785-1912,La Crosse,WI,,Erotica,,,1995,4/25/2023 9:23pm
 181,Bargain Box,408 16th St.,,"782-6742, 24hrs",Yuma,AZ,,Erotica,,,1995,4/25/2023 9:22pm
 5419,Montrose Inn,408 Avondale,,520-0206/ (800)357-1228,Houston,TX,(MW),Accommodations,,,1995,4/25/2023 9:23pm
@@ -1765,7 +1765,7 @@
 2039,Vagabond Travels,601 Northlake Blvd.,,848-0648/ (800)226-3830,Palm Beach Gardens,FL,(IGTA),Travel/Tour Operators,,,1995,4/25/2023 9:22pm
 1617,Mr. Henry's Capitol Hill,601 Pennsylvania Ave. SE,,"546-8412 also restaurant, lunch & dinner",Washington,DC,"(*),(GF),(WC)",Bars,,,1995,4/25/2023 9:22pm
 2346,Alton Metro,602 Belle,,465-8687 5pm-2am,Alton,IL,"D,(S),(WC)",Bars,,,1995,4/25/2023 9:22pm
-6098,Junior's Bar,602 Calle Condado,,"Santurce salsa & merengue, 6pm-2am, til 4am Fri-Sat",San Juan,PR,"(MW),(NH),(D)",Bars,,,,4/27/2023 11:37am
+6098,Junior's Bar,602 Calle Condado,,"Santurce salsa & merengue, 6pm-2am, til 4am Fri-Sat",San Juan,PR,"(MW),(NH),(D)",Bars,,,1995,7/26/2023 12:07pm
 1474,"Hackman House, The",602 W. Midland Ave.,,"687-9851 Victorian B&B, massage available",Woodland Park,CO,(MW),Accommodations,,,1995,4/25/2023 9:22pm
 3227,Watermark Inn Guest House,603 Commercial St.,,487-2506,Provincetown,MA,(GF),Accommodations,,,1995,4/25/2023 9:22pm
 1465,Glacier House,603 Lake Rd.,,567-0536 chalet homestead in the mountains,Idaho Springs,CO,(MW),Accommodations,,,1995,4/25/2023 9:22pm
@@ -2516,8 +2516,8 @@
 4761,Three Sisters Tavern,1125 SW Stark St.,,"228-0486 12:30pm-2:30am, 3pm-midnight Sun",Portland,OR,"(NH),D,(F)",Bars,,,1995,4/25/2023 9:23pm
 5871,Spokane Ave.,1125 W. 1st,,"747-1621, 24hrs",Spokane,WA,,Erotica,,,1995,4/25/2023 9:23pm
 5936,Brandy's II,1126 Main St.,,"432-3917 1pm-2am, til 2am Fri-Sat",Green Bay,WI,"(MW),(NH)",Bars,,,1995,4/25/2023 9:23pm
-6091,Embassy Guest House,1126 Seaview,,"Condado, 725-8284 across street from beach",San Juan,PR,,Accommodations,,,,4/27/2023 11:32am
-6109,Panache,1127 Calle Seaview,,"Condado 725-2400, French cuisine, dinner only",San Juan,PR,,Restaurants & Cafes,,,,4/28/2023 9:15am
+6091,Embassy Guest House,1126 Seaview,,"Condado, 725-8284 across street from beach",San Juan,PR,,Accommodations,,,1995,7/26/2023 12:07pm
+6109,Panache,1127 Calle Seaview,,"Condado 725-2400, French cuisine, dinner only",San Juan,PR,,Restaurants & Cafes,,,1995,7/26/2023 12:07pm
 2880,Boomerang,1128 Decatur St.,,"566-7298, 11am-7pm, clothing",New Orleans,LA,,Bookstores/Retail Shops,,,1995,4/25/2023 9:22pm
 2882,Rings of Desire,"1128 Decatur St., 2nd flr.",,"524-6147, 11am-7pm, piercing studio",New Orleans,LA,,Bookstores/Retail Shops,,,1995,4/25/2023 9:22pm
 5153,St. Francis & St. Clare MCC,1129 E. 9th St.,,332-3966,Sioux Falls,SD,,Info Lines & Services,,,1995,4/25/2023 9:23pm
@@ -2567,7 +2567,7 @@
 950,Cinema F,1202 University Ave.,,298-0854 24hrs,San Diego,CA,(PC),Erotica,,,1995,4/25/2023 9:22pm
 3919,Tecolote Cafe,1203 Cerrillos Rd.,,"988-1362 7am-2pm, clsd Mon, great brkfst",Santa Fe,NM,(*),Restaurants & Cafes,,,1995,4/25/2023 9:23pm
 4372,Treasurebox Video & News,1203 E. Bessemer,,"373-9849, 24hrs",Greensboro,NC,,Erotica,,,1995,4/25/2023 9:23pm
-6097,Cignel,1203 Ponce de Leon,,opens 9pm,San Juan,PR,"(MW),(D),(S),(V),(YC)",Bars,,,,4/27/2023 11:37am
+6097,Cignel,1203 Ponce de Leon,,opens 9pm,San Juan,PR,"(MW),(D),(S),(V),(YC)",Bars,,,1995,7/26/2023 12:07pm
 653,AA Gay/Lesbian,1203 Tully Rd. Ste. B.,,"531-2040, 8pm Tues, Th, Fri-Sat, 7pm Sun",Modesto,CA,,Info Lines & Services,,,1995,4/25/2023 9:22pm
 4841,ASS (Alternative Subway Stop),1204 7th Ave.,,"(rear entrance) (no phone) 8pm-2am, clsd Sun",Beaver Falls,PA,D,Bars,,,1995,4/25/2023 9:23pm
 4467,Kaldi's Cafe & Books,1204 Main St.,,"241-3070 8am-1am, from 10am wknds",Cincinnati ,OH,"(E),(WC)",Restaurants & Cafes,,,1995,4/25/2023 9:23pm
@@ -2651,7 +2651,7 @@
 405,Back Door,1255 West Ave. T,,945-2566 6pm-2am,Lancaster,CA,"(MW),D",Bars,,,1995,4/25/2023 9:22pm
 2060,H.G. Roosters,1256 Old Stickney Pt. Rd.,,346-3000 3pm-2am,Sarasota,FL,"(NH),(S)",Bars,,,1995,4/25/2023 9:22pm
 2699,Apartment By Appointments,1257 N. Broadway,,"265-4323 day, week or month",Wichita,KS,(GF),Accommodations,,,1995,4/25/2023 9:22pm
-6099,Krash,1257 Ponce de Leon,,"Santurce 722-1131/725-1390 9pm-4am, clsd Mon-Tues",San Juan,PR,"(*),(MW),(D),(E),(V)",Bars,,,,4/27/2023 11:38am
+6099,Krash,1257 Ponce de Leon,,"Santurce 722-1131/725-1390 9pm-4am, clsd Mon-Tues",San Juan,PR,"(*),(MW),(D),(E),(V)",Bars,,,1995,7/26/2023 12:07pm
 3113,Video Expo,1258 Boylston St.,,859-8911,Boston,MA,,Erotica,,,1995,4/25/2023 9:22pm
 1194,Front Lyne Video,1259 Polk St.,,931-9999,San Francisco,CA,,Erotica,,"Listed under ""S.F.- Polk Street Area"".",1995,4/25/2023 9:22pm
 1795,Jarviston Junction,1261 King St.,,388-3434 2pm-2am,Jacksonville,FL,"(NH),(BW)",Bars,,,1995,4/25/2023 9:22pm
@@ -3086,7 +3086,7 @@
 5742,Everett Magazine Center,1905 1/2 Hewitt Ave.,,258-1969,Everett,WA,,Erotica,,,1995,4/25/2023 9:23pm
 301,L'Amour Shoppe,"1905 San Pablo Ave., Oakland",,"465-4216, 24hrs",East Bay,CA,,Erotica,,,1995,4/25/2023 9:22pm
 124,Evita's,1906 E. Camelback Rd.,,"263-8482 5pm-10pm, Argentinian",Phoenix,AZ,"(E),(WC)",Restaurants & Cafes,,,1995,4/25/2023 9:22pm
-6102,"Oh, Rio",1909 Ave. Fernandez Juncos,,Santurce clsd Mon-Tues,San Juan,PR,"(MW),(D)",Bars,,,,4/27/2023 11:40am
+6102,"Oh, Rio",1909 Ave. Fernandez Juncos,,Santurce clsd Mon-Tues,San Juan,PR,"(MW),(D)",Bars,,,1995,7/26/2023 12:07pm
 1712,Kelly's Guesthouse,1909 SW 2nd St.,,462-6035 kitchens,Ft. Lauderdale,FL,(SW),Accommodations,,,1995,4/25/2023 9:22pm
 2304,Singha,1910 Ala Moana,,"941-2898, 11am-11pm, from 4pm wknds, Thai","Honolulu, Oahu",HI,,Restaurants & Cafes,,,1995,4/25/2023 9:22pm
 2311,Tickets To Go,1910 Ala Moana Blvd. Ste. B,,942-7785/ Outer Islands only: (800)713-8123,"Honolulu, Oahu",HI,(IGTA),Travel/Tour Operators,,,1995,4/25/2023 9:22pm
@@ -3210,7 +3210,7 @@
 1129,"Lion's Pub, The",2062 Divisadero St.,,"567-6565 noon-2am, popular theme nights",San Francisco,CA,(P),Bars,,"Listed under ""S.F.- Haight, Fillmore & West"".",1995,4/25/2023 9:22pm
 2162,Heretic,2069 Cheshire Bridge Rd.,,"325-3061 10am-4am, from noon wknds, 3 bars, cruisy, free buffet Sun, call for theme nights; also Heretic Leather toy shop",Atlanta,GA,"D,(L),(F)","Bars,Cruising Areas",,,1995,4/28/2023 9:33am
 5114,Big Jim's,"2070 Harley Ave., N Charleston",,"744-5380, 24hrs",Charleston,SC,,Erotica,,,1995,4/25/2023 9:23pm
-6092,La Condessa,2071 Cacique St.,,"727-3698/3900 B&B, restaurant & bar on premises",San Juan,PR,"(GF),(SW)",Accommodations,,,,4/27/2023 11:33am
+6092,La Condessa,2071 Cacique St.,,"727-3698/3900 B&B, restaurant & bar on premises",San Juan,PR,"(GF),(SW)",Accommodations,,,1995,7/26/2023 12:07pm
 293,Tea Spot Cafe,"2072 San Pablo Ave., Berkeley",,"848-7376 8am-9pm, til 2:30pm Sun, clsd Mon",East Bay,CA,"(*),(MW),(BW),(WC)",Restaurants & Cafes,,,1995,4/25/2023 9:22pm
 1033,Counter Culture,2073 Market St.,,621-7488 gourmet take-out,San Francisco,CA,,Restaurants & Cafes,,"Listed under ""S. F. - Castro Area"".",1995,4/25/2023 9:22pm
 2055,"Friends Group, The (Gay AA)",2080 Ringling Ste. 302,,365-0014 (AA#) 8pm Mon & Wed,Sarasota,FL,,Info Lines & Services,,,1995,4/25/2023 9:22pm
@@ -3398,7 +3398,7 @@
 5880,24th Street Tavern,2409 Pacific Ave.,,"572-3748 noon-2am, bands Fri-Sat",Tacoma,WA,"(MW),D,(S),(BW),(WC)",Bars,,,1995,4/25/2023 9:23pm
 1609,El Faro,2411 18th St. NW,,387-6554 11am-2am; also Mexican/El Salvadorean restaurant,Washington,DC,"(MW),(MRC-L),(E)",Bars,,,1995,4/25/2023 9:22pm
 4389,Rathskeller,2412 Hillsborough St.,,"821-5342 11am-11pm, some veggie",Raleigh ,NC,(WC),Restaurants & Cafes,,,1995,4/25/2023 9:23pm
-6108,Golden Unicorn,2415 Calle Laurel,,"728-4066, 11am-11pm, Chinese Cusine",San Juan,PR,,Restaurants & Cafes,,,,4/28/2023 9:15am
+6108,Golden Unicorn,2415 Calle Laurel,,"728-4066, 11am-11pm, Chinese Cusine",San Juan,PR,,Restaurants & Cafes,,,1995,7/26/2023 12:07pm
 5976,Ray's,2415 Winnebago St.,,"246-3949 4pm-2am, from noon wknds",Madison,WI,"(MW),(NH),(F),(WC)",Bars,,,1995,4/25/2023 9:23pm
 239,Gay AA,2421 Alta Vista Dr.,,327-3724 8pm Mon & Wed,Bakersfield,CA,,Info Lines & Services,,,1995,4/25/2023 9:22pm
 3888,"Travel Scene, The",2424 Juan Tabo Blvd. NE,,292-4343/(800)658-5779,Albuquerque,NM,,Travel/Tour Operators,,,1995,4/25/2023 9:23pm
@@ -4112,8 +4112,8 @@
 459,Edge,"6434 Santa Monica Blvd., Hollywood, 90038",,(213)962-6994,Los Angeles,CA,,Publications,,"Listed under ""L.A. - Overview.""",1995,4/25/2023 9:22pm
 332,"Travel Address, The",6465 N. Blackstone Ave.,,432-9095/ (800)800-9095,Fresno,CA,,Travel/Tour Operators,,,1995,4/25/2023 9:22pm
 790,Bob & Jacques' Cottage,6471 Old Trenton Rd.,,575-1033 hot tub,Guerneville,CA,(N),Accommodations,,"Listed under ""Russian River Resort (All are Guerneville until noted).""",1995,4/25/2023 9:22pm
-6121,Island Underground,"6501 Red Hook Plaza, Ste 201",,777-7614,Charlotte Amalie,VI,,Publications,,,,4/28/2023 9:26am
-6120,"Journeys by Sea, Inc","6501 Red Hook Plaza, Ste 201",,775-3660/(800)825-3632 yacht vacations & day sails,Charlotte Amalie,VI,(IGTA),Travel/Tour Operators,,,,4/28/2023 9:26am
+6121,Island Underground,"6501 Red Hook Plaza, Ste 201",,777-7614,Charlotte Amalie,VI,,Publications,,,1995,7/26/2023 12:07pm
+6120,"Journeys by Sea, Inc","6501 Red Hook Plaza, Ste 201",,775-3660/(800)825-3632 yacht vacations & day sails,Charlotte Amalie,VI,(IGTA),Travel/Tour Operators,,,1995,7/26/2023 12:07pm
 2567,Dreams and Swords,6503 Ferguson St.,,253-9966/ (800)937-2706 lesbian-feminist bookstore w/men's section,Indianapolis,IN,,Bookstores/Retail Shops,,,1995,4/25/2023 9:22pm
 4504,Barbarino's,6504 Detroit Ave.,,"651-5551, 11am-10pm, til midnight Fri-Sat, 3pm-9pm Sun, Italian cuisine",Cleveland,OH,,Restaurants & Cafes,,,1995,4/25/2023 9:23pm
 675,Willow Retreat,6517 Dry Creek Rd.,,944-8173 day use available,Napa,CA,"(GF),(SW)",Accommodations,,,1995,4/25/2023 9:22pm
