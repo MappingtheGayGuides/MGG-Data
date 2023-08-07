@@ -4647,7 +4647,7 @@ ID,title,description,amenityfeatures,streetaddress,type,city,state,unclearaddres
 4646,GLALA Hotline,(503)757-1980,,,Hotline,Corvallis,OR,checked,1989,NA,,2/17/2023 7:30pm,", OR",-123.262043,44.564566,unclear_coded_by_hand,General Coordinates Used
 4647,M.C.C.,,(MCC),1165 N.W. Monroe,Religious Institution,Corvallis,OR,NA,1989,NA,,6/30/2022 2:37pm,"1165 N.W. Monroe, Corvallis, OR",-123.2696572,44.5669214,"1165 nw monroe ave, corvallis, or 97330, usa",Geocoded
 4648,O.S.U.,Home Econ. (3rd floor),Cruisy Area,,Cruising Areas,Corvallis,OR,checked,1989,NA,,2/17/2023 7:30pm,", OR",-123.279444,44.563781,unclear_coded_by_hand,Found
-4649,,Student Union (Basement),Cruisy Area,,Cruising Areas,Corvallis,OR,checked,1989,NA,,2/17/2023 7:30pm,", OR",-123.262043,44.564566,unclear_coded_by_hand,General Coordinates Used
+4649,O.S.U.,Student Union (Basement),Cruisy Area,,Cruising Areas,Corvallis,OR,checked,1989,NA,,2/17/2023 7:30pm,", OR",-123.262043,44.564566,unclear_coded_by_hand,General Coordinates Used
 4650,Club Arena,(WE*),"(M),(YC),(L),(WE),(*)",959 Pearl St.,Bars/Clubs,Eugene,OR,NA,1989,NA,,6/30/2022 2:36pm,"959 Pearl St., Eugene, OR",-123.0895316,44.0492797,"959 pearl st, eugene, or 97401, usa",Geocoded
 4651,Gay & Lesbians-U. of O.,(503)686-3360,,,Organization,Eugene,OR,checked,1989,NA,,2/17/2023 7:31pm,", OR",-123.086754,44.052069,unclear_coded_by_hand,General Coordinates Used
 4652,M.C.C.,(503)686-9109,(MCC),,Religious Institution,Eugene,OR,checked,1989,NA,,2/17/2023 7:31pm,", OR",-123.086754,44.052069,unclear_coded_by_hand,General Coordinates Used
