@@ -11,12 +11,12 @@ library(tidyverse)
 
 ########READ IN DATA AND PREP FOR GEOCODING########
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1989.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1990.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
 # paste together the street address, city and state in order to ensure we use full addresses for geocoding. Will minimize mistakes caused by common streetnames. 
-origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$city, ", ", origAddress$state, sep="") 
+origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$city, ", ", origAddress$state) 
 
 ##########GEOCODE DATA############################
 
@@ -38,7 +38,7 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-1989.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-1990.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -55,14 +55,30 @@ uncleardata['geoAddress'] = 'unclear_coded_by_hand'
 colnames(origAddress)
 colnames(uncleardata)
 
+colnames(uncleardata)[2] = "title"
+
+colnames(uncleardata)[13] = "unclear_address"
+
+colnames(origAddress)[11] = "uncleartype"
+
+colnames(uncleardata)[17] = "Last.Modified"
+
+colnames(origAddress)[1] = "ID"
+
+uncleardata <- uncleardata[,-16]
+
 alldata <- rbind(origAddress, uncleardata)
+
+alldata$lat <- as.double(alldata$lat)
+alldata$lon <- as.double(alldata$lon)
+
 
 
 ########MERGE THE TWO DATASETS########
 
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-1989.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-1989.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-1990.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-1990.csv", row.names=FALSE)
 
 #COMMIT HERE LUC
 
