@@ -11,7 +11,7 @@ library(tidyverse)
 
 ########READ IN DATA AND PREP FOR GEOCODING########
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1990.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1991.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -38,7 +38,7 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-1990.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-1991.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -65,20 +65,20 @@ colnames(uncleardata)[17] = "Last.Modified"
 
 colnames(origAddress)[1] = "ID"
 
-uncleardata <- uncleardata[,-16]
+uncleardata <- uncleardata[,-16] #remove "dateadded" column
 
 alldata <- rbind(origAddress, uncleardata)
 
-alldata$lat <- as.double(alldata$lat)
-alldata$lon <- as.double(alldata$lon)
+alldata$lat <- as.numeric(alldata$lat)
+alldata$lon <- as.numeric(alldata$lon)
 
 
 
 ########MERGE THE TWO DATASETS########
 
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-1990.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-1990.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-1991.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-1991.csv", row.names=FALSE)
 
 #COMMIT HERE LUC
 
