@@ -11,7 +11,7 @@ library(tidyverse)
 
 ########READ IN DATA AND PREP FOR GEOCODING########
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-1996.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-2000.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -22,8 +22,8 @@ origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$c
 
 
 # Register the google api code for the georeferencing service.
-register_google(key = Sys.getenv("MGG_GOOGLE_KEY"))
-
+#register_google(key = Sys.getenv("MGG_GOOGLE_KEY"))
+register_google(key = Sys.getenv("GOOGLEGEOCODE_API_KEY"))
 
 # Loop through the addresses to get the latitude and longitude of each address and add it to the origAddress data frame in new columns lat and lon
 for(i in 1:nrow(origAddress)) {
@@ -38,14 +38,14 @@ for(i in 1:nrow(origAddress)) {
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-1996.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-2000.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
   mutate_if(is.character, trimws)
 
 #create full address column
-uncleardata$full.address <- paste(uncleardata$streetaddress, ", ", uncleardata$state, sep="") 
+uncleardata$full.address <- paste(uncleardata$streetaddress, ", ", uncleardata$city, ", ", uncleardata$state, sep="") 
 
 #make sure both dfs have same columns
 origAddress['status'] = 'Geocoded'
@@ -55,15 +55,15 @@ uncleardata['geoAddress'] = 'unclear_coded_by_hand'
 colnames(origAddress)
 colnames(uncleardata)
 
-colnames(uncleardata)[2] = "title"
+colnames(origAddress)[1] = "ID"
 
-colnames(uncleardata)[13] = "unclear_address"
+colnames(uncleardata)[2] = "title"
 
 colnames(origAddress)[10] = "uncleartype"
 
-colnames(uncleardata)[17] = "Last.Modified"
+colnames(uncleardata)[9] = "unclear_address"
 
-colnames(origAddress)[1] = "ID"
+colnames(uncleardata)[17] = "Last.Modified"
 
 uncleardata <- uncleardata[,-16] #remove "dateadded" column
 
@@ -79,8 +79,8 @@ alldata$lon <- as.numeric(alldata$lon)
 ########MERGE THE TWO DATASETS########
 
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-1996.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-1996.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-2000.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-2000.csv", row.names=FALSE)
 
 #COMMIT HERE LUC
 
