@@ -11,7 +11,7 @@ library(tidyverse)
 
 ########READ IN DATA AND PREP FOR GEOCODING########
 
-origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-2000.csv", header = TRUE)
+origAddress <- read.csv("2-OrigDataforGeocoding/originaldata-2001.csv", header = TRUE)
 origAddress <- origAddress %>%
   mutate_if(is.character, trimws)
 
@@ -22,8 +22,8 @@ origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$c
 
 
 # Register the google api code for the georeferencing service.
-#register_google(key = Sys.getenv("MGG_GOOGLE_KEY"))
-register_google(key = Sys.getenv("GOOGLEGEOCODE_API_KEY"))
+register_google(key = Sys.getenv("MGG_GOOGLE_KEY"))
+#register_google(key = Sys.getenv("GOOGLEGEOCODE_API_KEY"))
 
 # Loop through the addresses to get the latitude and longitude of each address and add it to the origAddress data frame in new columns lat and lon
 for(i in 1:nrow(origAddress)) {
@@ -34,11 +34,15 @@ for(i in 1:nrow(origAddress)) {
   origAddress$geoAddress[i] <- as.character(result[3])
 }
 
+# find NA values in the lat and lon fields
+#na_indices <- which(is.na(origAddress$lat) | is.na(origAddress$lon))
+# Subset the data table to get rows with NA values in the lat field
+#rows_with_na <- origAddress[na_indices, ]
 
 ##########MANIPULATE UNCLEAR DATA#################
 
 #Make unclear address match the geocoded dataset 
-uncleardata <- read.csv(file = "1-UnclearData/uncleardata-2000.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+uncleardata <- read.csv(file = "1-UnclearData/uncleardata-2001.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
 #trim white space
 uncleardata <- uncleardata %>%
@@ -61,7 +65,7 @@ colnames(uncleardata)[2] = "title"
 
 colnames(origAddress)[10] = "uncleartype"
 
-colnames(uncleardata)[9] = "unclear_address"
+colnames(uncleardata)[10] = "unclear_address"
 
 colnames(uncleardata)[17] = "Last.Modified"
 
@@ -79,8 +83,8 @@ alldata$lon <- as.numeric(alldata$lon)
 ########MERGE THE TWO DATASETS########
 
 # Write a CSV file containing origAddress to the working directory
-write.csv(alldata, "3-GeocodedDatasets/data-2000.csv", row.names=FALSE)
-write.csv(alldata, "4-FullVerifiedDatasets/data-2000.csv", row.names=FALSE)
+write.csv(alldata, "3-GeocodedDatasets/data-2001.csv", row.names=FALSE)
+write.csv(alldata, "4-FullVerifiedDatasets/data-2001.csv", row.names=FALSE)
 
 #COMMIT HERE LUC
 
