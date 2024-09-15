@@ -1,442 +1,442 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-16835,MD251,'The Dock',,,Annapolis,MD,Cruisy Area,Cruising Areas,1974,,-76.492183,38.978445,Location could not be verified. General city or location coordinates used.
-16834,MD250,'The Dock',,,Annapolis,MD,Cruisy Area,Cruising Areas,1975,,-76.492183,38.978445,Location could not be verified. General city or location coordinates used.
-16700,MD116,724 Magazines & Books,,724 N. Howard St.,Baltimore,MD,,Book Store,1976,NA,-76.620332,39.29788,Google Verified Location
-16721,MD137,724 Magazines & Books,,724 N. Howard St.,Baltimore,MD,,Book Store,1975,NA,-76.620332,39.29788,Google Verified Location
-16763,MD179,724 Magazines & Books,,724 Howard St.,Baltimore,MD,,Book Store,1973,NA,-76.620332,39.29788,Google Verified Location
-16745,MD161,724 Magazines & Books,,724 N. Howard ,Baltimore,MD,,Book Store,1974,NA,-76.620332,39.29788,Google Verified Location
-16676,MD092,724 Magazines & Books,,724 N. Howard,Baltimore,MD,,Book Store,1977,NA,-76.620332,39.29788,Google Verified Location
-16987,MD403,Algonquin Motor Inn,Baltimore & Green Sts.,,Cumberland,MD,"(M),(H),(R)","Restaurant,Hotel",1980,,-78.764581,39.650838,Verified Location
-16986,MD402,Algonquin Motor Inn,Baltimore and Green Streets,,Cumberland,MD,"(M),(H),(R)","Restaurant,Hotel",1977,,-78.764581,39.650838,Verified Location
-16985,MD401,Algonquin Motor Inn,Baltimore & green Sts.,,Cumberland,MD,"(M),(H),(R)","Restaurant,Hotel",1978,,-78.764581,39.650838,Verified Location
-16984,MD400,Algonquin Motor Inn,Baltimore & Green Sts.,,Cumberland,MD,"(M),(H),(R)","Hotel,Restaurant",1976,,-78.764581,39.650838,Verified Location
-16983,MD399,Algonquin Motor Inn,Baltimore & Green Sts.,,Cumberland,MD,"(M),(H),(R)","Restaurant,Hotel",1979,,-78.764581,39.650838,Verified Location
-16813,MD229,Alonso's,(collegiate),415 W. Cold Spgs Lane,Baltimore,MD,(M),Bars/Clubs,1968,NA,-76.630937,39.344444,Google Verified Location
-16821,MD237,Alonso's,(collegiate),415 W. Cold Springs Lane,Baltimore,MD,(M),Bars/Clubs,1966,NA,-76.6309148,39.3444211,Google Verified Location
-16853,MD269,Armistead Hotel Bar,Holiday & Fayette,,Baltimore,MD,"(M),(D)","Bars/Clubs,Hotel",1974,,-76.610235,39.290469,Verified Location
-16850,MD266,Armistead Hotel Bar,Holiday & Fayette,,Baltimore,MD,"(M),(RT)","Bars/Clubs,Hotel",1968,,-76.610235,39.290469,Verified Location
-16852,MD268,Armistead Hotel Bar,Holiday & Fayette,,Baltimore,MD,"(M),(RT)","Bars/Clubs,Hotel",1973,,-76.610235,39.290469,Verified Location
-16849,MD265,Armistead Hotel Bar,Holiday & Fayette,,Baltimore,MD,"(M),(RT)","Bars/Clubs,Hotel",1970,,-76.610235,39.290469,Verified Location
-16851,MD267,Armistead Hotel Bar,Holliday & Fayette,,Baltimore,MD,"(M),(RT)","Bars/Clubs,Hotel",1966,,-76.610235,39.290469,Verified Location
-16854,MD270,Armistead Hotel Bar,Holiday & Fayette,,Baltimore,MD,"(M),(RT)","Bars/Clubs,Hotel",1972,,-76.610235,39.290469,Verified Location
-16847,MD263,Armistead Hotel Bar,Holiday & Fayette,,Baltimore,MD,"(M),(RT)","Bars/Clubs,Hotel",1969,,-76.610235,39.290469,Verified Location
-16848,MD264,Armistead Hotel Bar,Holiday & Fayette,,Baltimore,MD,"(M),(RT)","Bars/Clubs,Hotel",1971,,-76.610235,39.290469,Verified Location
-16856,MD272,B & B,Broadway & E Sts.,,Baltimore,MD,"(M),(R)",Restaurant,1975,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16855,MD271,B & B,Broadway & E Sts.,,Baltimore,MD,"(M),(R)","Bars/Clubs,Restaurant",1974,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-17004,MD420,Backstage Cafe,Atop Painters Mill Music Fair,,Owings Mills,MD,(D),Bars/Clubs,1980,,-76.780253,39.41955,Verified Location
-16857,MD273,Baltimore Gay Alliace,Tel: 235-HELP,,Baltimore,MD,,Organizations,1979,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16858,MD274,Baltimore Gay Alliance,Tel: 235-HELP,,Baltimore,MD,,Organizations,1980,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16862,MD278,Baltimore Museum Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1979,,-76.616487,39.297451,Verified Location
-16860,MD276,Baltimore Museum Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1980,,-76.616487,39.297451,Verified Location
-16863,MD279,Baltimore Museum Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1978,,-76.616487,39.297451,Verified Location
-16861,MD277,Baltimore Museum Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1977,,-76.616487,39.297451,Verified Location
-16859,MD275,Baltimore Museum Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1976,,-76.616487,39.297451,Verified Location
-16864,MD280,Baltimore's famed 'meat rack',in Mt. Vernon Sq.,,Baltimore,MD,Cruisy Area,Cruising Areas,1973,,-76.616487,39.297451,Verified Location
-16867,MD283,Baltimore's famed 'meat rack',in Mt. Vernon Sq.,,Baltimore,MD,Cruisy Area,Cruising Areas,1972,,-76.616487,39.297451,Verified Location
-16866,MD282,Baltimore's famed 'meat rack',at Mt. Vernon Square,,Baltimore,MD,Cruisy Area,Cruising Areas,1974,,-76.616487,39.297451,Verified Location
-16865,MD281,Baltimore's famed 'meat rack',at Mt. Vernon Square,,Baltimore,MD,Cruisy Area,Cruising Areas,1975,,-76.616487,39.297451,Verified Location
-16868,MD284,Baltimore's famed 'meat rack' at Mt. Vernon Square,(caution),,Baltimore,MD,Cruisy Area,Cruising Areas,1976,,-76.616487,39.297451,Verified Location
-16869,MD285,"Baltimore's famed ""Meat Rack"" at Mt. Vernon Square",,,Baltimore,MD,"(AYOR),Cruisy Area",Cruising Areas,1977,,-76.616487,39.297451,Verified Location
-16634,MD050,Barracks,(Baths) (Health Club),1114 Cathedral,Baltimore,MD,"(P),(*)",Baths,1978,NA,-76.6183009,39.3020316,Google Verified Location
-16610,MD026,Barracks,(Baths)(Health Club)(Use rear entrance),1114 Cathedral,Baltimore,MD,"(*),(P)",Baths,1979,NA,-76.6183009,39.3020316,Google Verified Location
-16662,MD078,Barracks,(Baths) (Some W-SM),1114 Cathederal,Baltimore,MD,"(W),(SM),(*)",Baths,1977,NA,-76.6183009,39.3020316,Google Verified Location
-16586,MD002,Barracks,"(Baths) (Health Club) (Burned, but should b re-opening)",1114 Cathedral,Baltimore,MD,"(*),(P)",Baths,1980,NA,-76.6183009,39.3020316,Google Verified Location
-16751,MD167,Barrister Inn,,66 State Circle,Annapolis,MD,(M),Bars/Clubs,1973,NA,-76.4899714,38.9793178,Google Verified Location
-16727,MD143,Barrister Inn,,66 State Circle,Annapolis,MD,(M),Bars/Clubs,1974,NA,-76.4899714,38.9793178,Google Verified Location
-16730,MD146,Body Shop,(behind the 'Hippo'),1 Eager St.,Baltimore,MD,"(YC),(D),(R),(*)",Restaurant,1974,NA,-76.6155591,39.3008879,Google Verified Location
-16706,MD122,Body Shop,,1 Eager St.,Baltimore,MD,"(P),(YC),(D),(*)",Bars/Clubs,1975,NA,-76.6155591,39.3008879,Google Verified Location
-16631,MD047,Bull Ring Lounge,(Cl. Sun.) Colonial Hotel at Antietam,57 S. Potomac,Hagerstown,MD,"(YC),(*)","Bars/Clubs,Hotel",1979,NA,-77.721462,39.6409329,Google Verified Location
-16659,MD075,Bull Ring Lounge,(Closed Sundays) Colonial Hotel at Antietam,57 So. Potomac,Hagerstown,MD,"(YC),(*)","Bars/Clubs,Hotel",1978,NA,-77.721462,39.6409329,Google Verified Location
-16681,MD097,Bull Ring Lounge,Colonial Hotel at Antietam,57 S. Potomac,Hagerstown,MD,"(M),(YC),(*)","Bars/Clubs,Hotel",1977,NA,-77.721462,39.6409329,Google Verified Location
-16606,MD022,Bull Ring Lounge,(Cl. Sun.) Colonial Apts. at Antietam,57 S. Potomac,Hagerstown,MD,,Bars/Clubs,1980,NA,-77.721462,39.6409329,Google Verified Location
-16873,MD289,Cage,,Castle & Monument,Baltimore,MD,,Bars/Clubs,1965,,-76.588694,39.298601,Verified Location
-16876,MD292,Cage,,Castle & Monument,Baltimore,MD,(*),Bars/Clubs,1969,,-76.588694,39.298601,Verified Location
-16878,MD294,Cage,,Castle & Monument,Baltimore,MD,(D),Bars/Clubs,1972,,-76.588694,39.298601,Verified Location
-16879,MD295,Cage,,Castle & Monument,Baltimore,MD,(*),Bars/Clubs,1968,,-76.588694,39.298601,Verified Location
-16870,MD286,Cage,,Castle & Monument,Baltimore,MD,"(D),(*)",Bars/Clubs,1971,,-76.588694,39.298601,Verified Location
-16877,MD293,Cage,,Castle & Monument,Baltimore,MD,(D),Bars/Clubs,1975,,-76.588694,39.298601,Verified Location
-16875,MD291,Cage,,Castle & Monument,Baltimore,MD,"(D),(*)",Bars/Clubs,1970,,-76.588694,39.298601,Verified Location
-16872,MD288,Cage,,Castle & Monument,Baltimore,MD,(D),Bars/Clubs,1974,,-76.588694,39.298601,Verified Location
-16874,MD290,Cage,,Castle & Monument,Baltimore,MD,(*),Bars/Clubs,1966,,-76.588694,39.298601,Verified Location
-16871,MD287,Cage,,Castle & Monument,Baltimore,MD,"(D),(*)",Bars/Clubs,1973,,-76.588694,39.298601,Verified Location
-16684,MD100,Cat's Meow Steam Bath,,2206 N. Charles,Baltimore,MD,(M),Baths,1976,NA,-76.6170776,39.3144569,Google Verified Location
-16731,MD147,Cat's Meow Steam Baths,,666 N. Charles St.,Baltimore,MD,,Baths,1974,NA,-76.6158555,39.2985868,Google Verified Location
-16707,MD123,Cat's Meow Steam Baths ,,2206 N. Charles,Baltimore,MD,,Baths,1975,NA,-76.6170776,39.3144569,Google Verified Location
-16880,MD296,Chease Steam Baths,,Chase & Cathedral,Baltimore,MD,,Baths,1970,,-76.61799,39.302309,Verified Location
-16882,MD298,Cicero's,,Gay & Forrest,Baltimore,MD,"(G),(RT)",Bars/Clubs,1966,,-76.605109,39.296502,Verified Location
-16881,MD297,Cicero's,,Gay & Forrest,Baltimore,MD,"(G),(RT)",Bars/Clubs,1965,,-76.605109,39.296502,Verified Location
-16883,MD299,Cicerp's,,Gay & Forrest Sts.,Baltimore,MD,"(G),(RT)",Bars/Clubs,1968,,-76.605109,39.296502,Verified Location
-16884,MD300,Cinema Follies Club,(Theatre),Howard & North Ave.,Baltimore,MD,"(P),(PT),(*),(BYOB)",Theatre,1978,,-76.619301,39.310982,Verified Location
-16611,MD027,Cinema Follies Club,('Flicks')(back room),137 W. North Ave.,Baltimore,MD,"(P),(BYOB)",Theatre,1979,NA,-76.6192057,39.3106725,Google Verified Location
-16802,MD218,Club Bar,"(closes 1 A.M., most 2 A.M.)",221 W. Franklin,Baltimore,MD,(*),Bars/Clubs,1969,NA,-76.6192336,39.2948217,Google Verified Location
-16793,MD209,Club Bar,(closes 1 am),221 W. Franklin,Baltimore,MD,"(D),(*)",Bars/Clubs,1970,NA,-76.6192336,39.2948217,Google Verified Location
-16782,MD198,Club Bar,(closes 1 am),221 W. Franklin,Baltimore,MD,"(D),(*)",Bars/Clubs,1971,NA,-76.6192336,39.2948217,Google Verified Location
-16685,MD101,Club East Baths,,1105 Cathedral,Baltimore,MD,(*),Baths,1976,NA,-76.617758,39.302556,Google Verified Location
-16885,MD301,Club East Baths,,1105 Cathedral,Baltimore,MD,(*),Baths,1972,,-76.617758,39.302556,Verified Location
-16612,MD028,Club East Baths,,1105 Cathedral,Baltimore,MD,"(P),(*)",Baths,1979,NA,-76.617758,39.302556,Google Verified Location
-16587,MD003,Club East Baths,,1105 Cathedral,Baltimore,MD,"(P),(*)",Baths,1980,NA,-76.617758,39.302556,Google Verified Location
-16794,MD210,Club East Baths,,1105 Cathedral,Baltimore,MD,(*),Baths,1970,NA,-76.617758,39.302556,Google Verified Location
-16754,MD170,Club East Baths,,1105 Cathedral,Baltimore,MD,(*),Baths,1973,NA,-76.617758,39.302556,Google Verified Location
-16783,MD199,Club East Baths,,1105 Cathedral,Baltimore,MD,(*),Baths,1971,NA,-76.617758,39.302556,Google Verified Location
-16732,MD148,Club East Baths,,1105 Cathedral,Baltimore,MD,(*),Baths,1974,NA,-76.617758,39.302556,Google Verified Location
-16663,MD079,Club East Baths,,1105 Cathederal,Baltimore,MD,(*),Baths,1977,NA,-76.617758,39.302556,Google Verified Location
-16708,MD124,Club East Baths,,1105 Cathedral,Baltimore,MD,(*),Baths,1975,NA,-76.617758,39.302556,Google Verified Location
-16635,MD051,Club East Baths,,1105 Cathedral,Baltimore,MD,"(P),(*)",Baths,1978,NA,-76.617758,39.302556,Google Verified Location
-16686,MD102,Club Mitchell,,1003 E. Pratt,Baltimore,MD,"(P),(G),(D),(*)",Bars/Clubs,1976,NA,-76.6012464,39.2878684,Google Verified Location
-16588,MD004,Club Mitchell,(Also C-AH),1103 E. Pratt,Baltimore,MD,"(*),(L),(R),(D),(PT),(C),(AH)","Bars/Clubs,Restaurant",1980,NA,-76.6005399,39.2883197,Google Verified Location
-16784,MD200,Club Mitchell,,100 E. Pratt,Baltimore,MD,"(G),(P),(D)",Bars/Clubs,1971,NA,-76.6128397,39.2871714,Google Verified Location
-16664,MD080,Club Mitchell,,1103 E. Pratt,Baltimore,MD,"(P),(G),(D),(*)",Bars/Clubs,1977,NA,-76.6005399,39.2883197,Google Verified Location
-16803,MD219,Club Mitchell,,100 E. Pratt,Baltimore,MD,"(D),(P),(G)",Bars/Clubs,1969,NA,-76.6128397,39.2871714,Google Verified Location
-16636,MD052,Club Mitchell,(G only) (also C-AH),1103 E. Pratt,Baltimore,MD,"(P),(G),(D),(PT),(C),(AH),(*)",Bars/Clubs,1978,NA,-76.6005399,39.2883197,Google Verified Location
-16795,MD211,Club Mitchell,,100 E. Pratt,Baltimore,MD,"(D),(G),(P)",Bars/Clubs,1970,NA,-76.6128397,39.2871714,Google Verified Location
-16709,MD125,Club Mitchell,,1003 E. Pratt,Baltimore,MD,"(P),(G),(D),(*)",Bars/Clubs,1975,NA,-76.6012464,39.2878684,Google Verified Location
-16613,MD029,Club Mitchell,(Also C-AH),1103 E. Pratt,Baltimore,MD,"(G),(R),(*),(D),(PT),(C),(AH)","Bars/Clubs,Restaurant",1979,NA,-76.6005399,39.2883197,Google Verified Location
-16770,MD186,Club Mitchell,,100 E. Pratt,Baltimore,MD,"(G),(P),(D)",Bars/Clubs,1972,NA,-76.6128397,39.2871714,Google Verified Location
-16733,MD149,Club Mitchell ,,1000 E. Pratt St.,Baltimore,MD,"(G),(P),(D),(*)",Bars/Clubs,1974,NA,-76.601532,39.2879353,Google Verified Location
-16710,MD126,Club Nine Hundred,,900 Monument,Baltimore,MD,"(M),(B),(G),(RT),(D)",Bars/Clubs,1975,NA,-76.6055729,39.2980768,Google Verified Location
-16804,MD220,Club Nine Hundred,,900 E. Monument,Baltimore,MD,(*),Bars/Clubs,1969,NA,-76.6055729,39.2980768,Google Verified Location
-16796,MD212,Club Nine Hundred,,900 E. Monument,Baltimore,MD,"(*),(D)",Bars/Clubs,1970,NA,-76.6055729,39.2980768,Google Verified Location
-16785,MD201,Club Nine Hundred,,900 E. Monument,Baltimore,MD,"(D),(*)",Bars/Clubs,1971,NA,-76.6055729,39.2980768,Google Verified Location
-16734,MD150,Club Nine- Hundred,,900 Monument ,Baltimore,MD,"(M),(B),(G),(RT),(D),(*)",Bars/Clubs,1974,NA,-76.6055729,39.2980768,Google Verified Location
-16637,MD053,Connie's Hideaway Lounge,,2308 Boston St.,Baltimore,MD,"(M),(G),(D)",Bars/Clubs,1978,NA,-76.5842286,39.2832008,Google Verified Location
-16771,MD187,Cyrano's,($2.00 admission),710 N. Howard St.,Baltimore,MD,"(YC),(D),(*)",Bars/Clubs,1972,NA,-76.6203544,39.2977892,Google Verified Location
-16994,MD410,Daisy's Anchor Bar,Inquire Locally,,Ocean City,MD,"(M),(RT)",Bars/Clubs,1979,,-75.084906,38.336503,Location could not be verified. General city or location coordinates used.
-16993,MD409,Daisy's Anchor Bar,Inquire locally,,Ocean City,MD,"(M),(RT)",Bars/Clubs,1978,,-75.084906,38.336503,Location could not be verified. General city or location coordinates used.
-16995,MD411,Daisy's Anchor Bat,Inquire Locally,,Ocean City,MD,"(M),(RT)",Bars/Clubs,1980,,-75.084906,38.336503,Location could not be verified. General city or location coordinates used.
-16886,MD302,Diamond Back Room,Lord Baltmore Hotel,,Baltimore,MD,"(M),(PE)","Bars/Clubs,Hotel",1965,,-76.616314,39.289639,Verified Location
-16772,MD188,Downtown Club,,1101 Cathedral,Baltimore,MD,"(YC),(HIP),(D),(*)",Bars/Clubs,1972,NA,-76.6178248,39.302445,Google Verified Location
-16889,MD305,Drinkery,,Park & Reid Sts.,Baltimore,MD,(*),Bars/Clubs,1975,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16887,MD303,Drinkery,,Park & Reid Sts.,Baltimore,MD,,Bars/Clubs,1974,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16888,MD304,Drinkery,(Best days),Park & Reid Sts.,Baltimore,MD,(M),Bars/Clubs,1977,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16890,MD306,Drinkery,(Disco),Park & Reid Sts.,Baltimore,MD,"(M),(D)",Bars/Clubs,1980,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16589,MD005,Eager St. Saloon,(Adjoins Hippo- opens 4pm) at Charles,1 W. Eager,Baltimore,MD,"(YC),(D),(PT),(*)",Bars/Clubs,1980,NA,-76.6163574,39.3008418,Google Verified Location
-16638,MD054,Eager St. Saloon,"(Adjoins 'Hippo""- opens 4 p.m.) at Charles",1 W. Eager,Baltimore,MD,"(YC),(D),(PT),(*)",Bars/Clubs,1978,NA,-76.6163574,39.3008418,Google Verified Location
-16614,MD030,Eager St. Saloon,(Adjoins Hippo- opens 4 p.m.) at Charles,1 W. Eager,Baltimore,MD,"(YC),(D),(PT),(*)",Bars/Clubs,1979,NA,-76.6163574,39.3008418,Google Verified Location
-16766,MD182,Eagle's Cafe,,65 N. Mechanic,Cumberland,MD,(M),Restaurant,1973,NA,-78.763712,39.6524452,Google Verified Location
-16749,MD165,Eagle's Cafe,,65 N. Mechanic,Cumberland,MD,(M),Restaurant,1974,NA,-78.763712,39.6524452,Google Verified Location
-16725,MD141,Eagle's Cafe,,65 N. Mechanic,Cumberland,MD,(M),Restaurant,1975,NA,-78.763712,39.6524452,Google Verified Location
-16779,MD195,Eagles Cafe,,65 N. Mechanic,Cumberland,MD,(M),Restaurant,1972,NA,-78.763712,39.6524452,Google Verified Location
-16897,MD313,Eddie's,(Water is an alley between Redwood & Lombard),Water & Light Sts,Baltimore,MD,(*),Bars/Clubs,1968,,-76.613666,39.288071,Verified Location
-16892,MD308,Eddie's,(Water is an alley bet. Redwood & Lombard),Water & Light,Baltimore,MD,"(P),(D),(*)",Bars/Clubs,1973,,-76.613666,39.288071,Verified Location
-16829,MD245,Eddie's,(side st entr),947 W. Baltimore,Baltimore,MD,,Bars/Clubs,1965,NA,-76.6336135,39.2885877,Google Verified Location
-16895,MD311,Eddie's,,Water & Light Sts.,Baltimore,MD,,Bars/Clubs,1966,,-76.613666,39.288071,Verified Location
-16893,MD309,Eddie's,(Water is an alley bet. Redwood & Lombard,Water & Light,Baltimore,MD,"(P),(D),(*)",Bars/Clubs,1972,,-76.613666,39.288071,Verified Location
-16898,MD314,Eddie's,(Water is an alley betw. Redwood & Lombard),Water & Light,Baltimore,MD,"(P),(D)",Bars/Clubs,1974,,-76.613666,39.288071,Verified Location
-16896,MD312,Eddie's,(Water is an alley bet. Redwood & Lombard),Water & Light Sts,Baltimore,MD,"(RT),(*)",Bars/Clubs,1969,,-76.613666,39.288071,Verified Location
-16894,MD310,Eddie's,(Water is an alley bet. Redwood & Lombard),,Baltimore,MD,"(D),(RT),(*)",Bars/Clubs,1971,,-76.613666,39.288071,Verified Location
-16891,MD307,Eddie's,(Water is an alley bet. Redwood & Lombard),Water & Light,Baltimore,MD,"(D),(RT),(*)",Bars/Clubs,1970,,-76.613666,39.288071,Verified Location
-16900,MD316,Elmer's,,Pratt & Light,Baltimore,MD,"(M),(RT),(SM)",Bars/Clubs,1969,,-76.612124,39.28659,Verified Location
-16899,MD315,Elmer's,,Pratt & Light,Baltimore,MD,"(M),(RT),(SM)",Bars/Clubs,1970,,-76.612124,39.28659,Verified Location
-16996,MD412,Fager's Island,Inquire locally,,Ocean City,MD,"(M),(R)",Restaurant,1979,,-75.070657,38.382978,Verified Location
-16998,MD414,Fager's Island,Inquire Locally,,Ocean City,MD,"(M),(R)",Restaurant,1980,,-75.070657,38.382978,Verified Location
-16997,MD413,Fager's Island,Inquire locally,,Ocean City,MD,"(M),(R)",Restaurant,1978,,-75.070657,38.382978,Verified Location
-16735,MD151,Fay's Mistake,,2218 Boston,Baltimore,MD,"(M),(G),(RT)",Bars/Clubs,1974,NA,-76.5850064,39.283682,Google Verified Location
-16711,MD127,Fay's Mistake,,2218 Boston,Baltimore,MD,"(M),(G),(RT)",Bars/Clubs,1975,NA,-76.5850064,39.283682,Google Verified Location
-16687,MD103,Fay's Mistake,,2218 Boston,Baltimore,MD,"(M),(RT),(G)",Bars/Clubs,1976,NA,-76.5850064,39.283682,Google Verified Location
-16755,MD171,Fay's Mistake,,2218 Boston St.,Baltimore,MD,(G),Bars/Clubs,1973,NA,-76.5850064,39.283682,Google Verified Location
-16639,MD055,Fayette News Center,,205 W. Fayette,Baltimore,MD,(AYOR),Business,1978,NA,-76.6182332,39.2903704,Google Verified Location
-16901,MD317,Flamboyan,(The Flam),Lombard & Eutaw,Baltimore,MD,(G),Bars/Clubs,1969,,-76.620811,39.287523,Verified Location
-16902,MD318,Frank & Ron's,(Some G),Thames Street,Baltimore,MD,"(M),(YC),(G)",Bars/Clubs,1977,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16903,MD319,Frank's,,Boston & Aliceanna,Baltimore,MD,,Bars/Clubs,1974,,-76.585761,39.283861,Verified Location
-16665,MD081,Frankie & Johnnie's,(Some G) ,2218 Boston,Baltimore,MD,"(M),(RT),(G)",Bars/Clubs,1977,NA,-76.5850064,39.283682,Google Verified Location
-16640,MD056,Frankie & Ronnie's,(Some G),2218 Boston St.,Baltimore,MD,"(M),(YC),(G),(D)",Bars/Clubs,1978,NA,-76.5850064,39.283682,Google Verified Location
-16590,MD006,Frankie & Ronnie's,(Some L),2218 Boston St.,Baltimore,MD,"(M),(YC),(L),(D)",Bars/Clubs,1980,NA,-76.5850064,39.283682,Google Verified Location
-16615,MD031,Frankie & Ronnie's,(Some G),2218 Boston St.,Baltimore,MD,"(M),(YC),(D),(PT),(G)",Bars/Clubs,1979,NA,-76.5850064,39.283682,Google Verified Location
-16712,MD128,Gallery,,1735 Maryland,Baltimore,MD,"(W),(SM),(*)",Bars/Clubs,1975,NA,-76.6176464,39.3096234,Google Verified Location
-16688,MD104,Gallery,[also (SM) in back room called 'Shipmates'],1735 Maryland,Baltimore,MD,"(W),(*),(SM)",Bars/Clubs,1976,NA,-76.6176464,39.3096234,Google Verified Location
-16616,MD032,Gallery,& Shipmates Disco Room,1735 Maryland,Baltimore,MD,"(*),(SM),(W),(R)",Restaurant,1979,NA,-76.6176464,39.3096234,Google Verified Location
-16591,MD007,Gallery,& Shipmates Disco Room,1735 Maryland,Baltimore,MD,"(SM),(*),(W),(R)","Bars/Clubs,Restaurant",1980,NA,-76.6176464,39.3096234,Google Verified Location
-16641,MD057,Gallery ,& Shipmate's Disco Room,1735 Maryland,Baltimore,MD,"(R),(W),(SM),(*)",Restaurant,1978,NA,-76.6176464,39.3096234,Google Verified Location
-16666,MD082,Gallery ,"(Some W, SM)",1735 Maryland,Baltimore,MD,"(R),(W),(SM),(*)","Bars/Clubs,Restaurant",1977,NA,-76.6176464,39.3096234,Google Verified Location
-16726,MD142,Gay Nineties,,41 N. Protomoc St.,Hagerstown,MD,(*),Bars/Clubs,1975,NA,-77.7197451,39.6431403,Google Verified Location
-16750,MD166,Gay Nineties,,41 N. Protomoc St.,Hagerstown,MD,(*),Bars/Clubs,1974,NA,-77.7197451,39.6431403,Google Verified Location
-16767,MD183,Gay Nineties ,,41 N. Potomoc St.,Hagerstown,MD,,Bars/Clubs,1973,NA,-77.7197451,39.6431403,Google Verified Location
-17007,MD423,Gold Key Club,5th & Chesapeake,,North Beach,MD,"(YC),(D),(S),(*)",Bars/Clubs,1978,,-76.53278,38.707158,Verified Location
-17006,MD422,Gold Key Club,5th & Chesapeake Streets,,North Beach,MD,"(YC),(D),(S),(*)",Bars/Clubs,1977,,-76.53278,38.707158,Verified Location
-17005,MD421,Gold Key Club,(WE*) 5th & Chesapeake,,North Beach,MD,"(YC),(D),(S),(WE),(*)",Bars/Clubs,1979,,-76.53278,38.707158,Verified Location
-17012,MD428,Golden Key,on the beach,,North Beach,MD,"(D),(S),(YC),(*)",Bars/Clubs,1972,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17015,MD431,Golden Key,on the beach,,North Beach,MD,(D),Bars/Clubs,1970,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17017,MD433,Golden Key,On the beach,,North Beach,MD,"(YC),(D),(S),(*)",Bars/Clubs,1974,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17016,MD432,Golden Key,(on the beach),,North Beach,MD,(*),Bars/Clubs,1966,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17013,MD429,Golden Key,on the beach,,North Beach,MD,"(YC),(D),(S),(*)",Bars/Clubs,1973,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17010,MD426,Golden Key,On the Beach,,North Beach,MD,(D),Bars/Clubs,1969,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17009,MD425,Golden Key,On the Beach,,North Beach,MD,"(YC),(D),(S),(*)",Bars/Clubs,1976,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17011,MD427,Golden Key,On the beach,,North Beach,MD,,Bars/Clubs,1968,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17008,MD424,Golden Key,On The Beach,,North Beach,MD,"(YC),(D),(S),(*)",Bars/Clubs,1975,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17014,MD430,Golden Key,on the beach,,North Beach,MD,"(D),(S),(*)",Bars/Clubs,1971,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17018,MD434,Golden King,On the Beach (summers & weekends),,North Beach,MD,(*),Bars/Clubs,1965,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-16905,MD321,Hippo,(Unisex) (Far Out! Don't miss it. Enter thry Body Shop),Charles and Eager Sts.,Baltimore,MD,"(HIP),(YC),(D),(*)",Bars/Clubs,1975,,-76.61589,39.301007,Verified Location
-16904,MD320,Hippo,"(Unisex) ($3 min. at front door, or enter free from 'Body Shop'. Far out! Don't miss it!)",Charles & Eager Sts.,Baltimore,MD,"(M),(HIP),(YC),(D),(R),(*)","Restaurant,Bars/Clubs",1974,,-76.61589,39.301007,Verified Location
-16642,MD058,Hippopotamus,(Unisex)(Disco) at Charles,1 W. Eager,Baltimore,MD,"(*),(M),(HIP),(YC),(D),(PT)",Bars/Clubs,1978,NA,-76.6163574,39.3008418,Google Verified Location
-16667,MD083,Hippopotamus,(Unisex)(Disco) (Wednesday night is B) at Charles,1 West Eager,Baltimore,MD,"(M),(HIP),(YC),(D),(PT),(B)",Bars/Clubs,1977,NA,-76.6163574,39.3008418,Google Verified Location
-16617,MD033,Hippopotamus,(Unisex)(Disco) at Charles ,1 W. Eager ,Baltimore,MD,"(*),(HIP),(YC),(D),(PT)",Bars/Clubs,1979,NA,-76.6163574,39.3008418,Google Verified Location
-16592,MD008,Hippopotamus,(Disco) (Unisex)at Charles,1 W. Eager,Baltimore,MD,"(*),(HIP),(YC),(D),(PT)",Bars/Clubs,1980,NA,-76.6163574,39.3008418,Google Verified Location
-16689,MD105,Hippoptamus,(Unisex)(Disco) at Charles,1 W. Eager,Baltimore,MD,"(M),(HIP),(YC),(D),(B),(*)",Bars/Clubs,1976,NA,-76.6163574,39.3008418,Google Verified Location
-16690,MD106,Horse You Came In ON,,1626 Thames,Baltimore,MD,"(M),(YC),(D),(R)",Restaurant,1976,NA,-76.5941298,39.2815385,Google Verified Location
-16736,MD152,Horse You Came In On,,1626 Thames,Baltimore,MD,"(HIP),(YC),(D),(R)",Restaurant,1974,NA,-76.5941298,39.2815385,Google Verified Location
-16713,MD129,Horse You Came In On,,1626 Thames,Baltimore,MD,"(HIP),(YC),(D),(R)",Restaurant,1975,NA,-76.5941298,39.2815385,Google Verified Location
-16668,MD084,Horse you Came In On,,1626 Thames Street,Baltimore,MD,"(M),(YC),(D),(R)","Bars/Clubs,Restaurant",1977,NA,-76.5941298,39.2815385,Google Verified Location
-16714,MD130,Howard Bar,,715 Howard St.,Baltimore,MD,"(B),(M),(RT)",Bars/Clubs,1975,NA,-76.6197451,39.2982162,Google Verified Location
-16737,MD153,Howard Bar,,715 Howard St.,Baltimore,MD,"(B),(M),(RT)",Bars/Clubs,1974,NA,-76.6197451,39.2982162,Google Verified Location
-16691,MD107,Howard Bar,,715 Howard St.,Baltimore,MD,"(B),(RT)",Bars/Clubs,1976,NA,-76.6197451,39.2982162,Google Verified Location
-16738,MD154,Howard St. Book Store,,700 Howard St.,Baltimore,MD,,Book Store,1974,NA,-76.6202767,39.2974671,Google Verified Location
-16692,MD108,Jack's La Sauna,(baths- massage) Marylander Apts.- lower level arcade,3501 St. Paul,Baltimore,MD,,Baths,1976,NA,-76.6157291,39.3304334,Google Verified Location
-16907,MD323,Jack's La Sauna Health Spa,(Sauna & massage) 267-6565,,Baltimore,MD,,Baths,1979,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16908,MD324,Jack's La Sauna Health Spa,Sauna & massage- 467-6565,,Baltimore,MD,,Baths,1978,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16906,MD322,Jack's La Sauna Health Spa,(Sauna & Massage) 467-6565,,Baltimore,MD,,Baths,1980,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16643,MD059,Jay Bee's Saloon,(E. Baltimore),2204 Fleet St.,Baltimore,MD,(RT),Bars/Clubs,1978,NA,-76.5855388,39.2850652,Google Verified Location
-16909,MD325,Key Hole,,Monument & Castle,Baltimore,MD,,Bars/Clubs,1977,,-76.588694,39.298601,Verified Location
-16618,MD034,Laura's,,502 N. Howard St.,Baltimore,MD,(D),Bars/Clubs,1979,NA,-76.6200392,39.2951166,Google Verified Location
-16912,MD328,Ledbetter's,,Broadway and Thames,Baltimore,MD,"(HIP),(M),(YC)",Bars/Clubs,1975,,-76.592877,39.281831,Verified Location
-16910,MD326,Ledbetter's,,Broadway & Thames,Baltimore,MD,"(HIP),(M),(YC)",Bars/Clubs,1974,,-76.592877,39.281831,Verified Location
-16911,MD327,Ledbetter's,,Broadway & Thames,Baltimore,MD,"(HIP),(M),(YC)",Bars/Clubs,1976,,-76.592877,39.281831,Verified Location
-16914,MD330,Ledbetter's,,Broadway & Thames,Baltimore,MD,"(M),(HIP),(YC)",Bars/Clubs,1973,,-76.592877,39.281831,Verified Location
-16913,MD329,Ledbetter's,,Broadway & Thames,Baltimore,MD,"(HIP),(M),(YC)",Bars/Clubs,1977,,-76.592877,39.281831,Verified Location
-16915,MD331,Lena's,,Franklin & Paca,Baltimore,MD,(B),Bars/Clubs,1972,,-76.62264,39.294836,Verified Location
-16916,MD332,Lena's,,Franklin & Paca,Baltimore,MD,,Bars/Clubs,1971,,-76.62264,39.294836,Verified Location
-16773,MD189,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1972,NA,-76.6189891,39.3015442,Google Verified Location
-16693,MD109,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1976,NA,-76.6189891,39.3015442,Google Verified Location
-16797,MD213,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1970,NA,-76.6189891,39.3015442,Google Verified Location
-16786,MD202,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1971,NA,-76.6189891,39.3015442,Google Verified Location
-16715,MD131,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1975,NA,-76.6189891,39.3015442,Google Verified Location
-16669,MD085,Leon's,,870 Park Avenue,Baltimore,MD,(*),Bars/Clubs,1977,NA,-76.6189891,39.3015442,Google Verified Location
-16739,MD155,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1974,NA,-76.6189891,39.3015442,Google Verified Location
-16593,MD009,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1980,NA,-76.6189891,39.3015442,Google Verified Location
-16619,MD035,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1979,NA,-76.6189891,39.3015442,Google Verified Location
-16644,MD060,Leon's,(Some OC),870 Park Ave.,Baltimore,MD,"(OC),(*)",Bars/Clubs,1978,NA,-76.6189891,39.3015442,Google Verified Location
-16822,MD238,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1966,NA,-76.6189891,39.3015442,Google Verified Location
-16814,MD230,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1968,NA,-76.6189891,39.3015442,Google Verified Location
-16805,MD221,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1969,NA,-76.6189891,39.3015442,Google Verified Location
-16830,MD246,Leon's,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1965,NA,-76.6189891,39.3015442,Google Verified Location
-16756,MD172,Leon's ,,870 Park Ave.,Baltimore,MD,(*),Bars/Clubs,1973,NA,-76.6189891,39.3015442,Google Verified Location
-16917,MD333,"Lights, Camera, Action","(""Drags"")",1700 block on S. Charles,Baltimore,MD,"(S),(RT)",Bars/Clubs,1977,,-76.613937,39.270319,Verified Location
-16645,MD061,"Lights, Camera, Action",(Disco) ('Drags'),1642 Light St.,Baltimore,MD,"(D),(S),(RT)",Bars/Clubs,1978,NA,-76.6117352,39.2707219,Google Verified Location
-16752,MD168,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1973,NA,-76.4897218,38.9796937,Google Verified Location
-16791,MD207,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1970,NA,-76.4897218,38.9796937,Google Verified Location
-16827,MD243,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1965,NA,-76.4897218,38.9796937,Google Verified Location
-16811,MD227,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1968,NA,-76.4897218,38.9796937,Google Verified Location
-16660,MD076,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1977,NA,-76.4897218,38.9796937,Google Verified Location
-16633,MD049,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1978,NA,-76.4897218,38.9796937,Google Verified Location
-16682,MD098,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1976,NA,-76.4897218,38.9796937,Google Verified Location
-16800,MD216,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1969,NA,-76.4897218,38.9796937,Google Verified Location
-16819,MD235,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1966,NA,-76.4897218,38.9796937,Google Verified Location
-16609,MD025,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1979,NA,-76.4897218,38.9796937,Google Verified Location
-16585,MD001,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1980,NA,-76.4897218,38.9796937,Google Verified Location
-16768,MD184,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1972,NA,-76.4897218,38.9796937,Google Verified Location
-16780,MD196,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1971,NA,-76.4897218,38.9796937,Google Verified Location
-16728,MD144,Little Campus,,63 Maryland,Annapolis,MD,(M),Bars/Clubs,1974,NA,-76.4897218,38.9796937,Google Verified Location
-16704,MD120,Little Campus,,63 Maryland ,Annapolis,MD,(M),Bars/Clubs,1975,NA,-76.4897218,38.9796937,Google Verified Location
-16918,MD334,Lord Baltimore Hotel Discoteque Room,Lord Baltimore Hotel,,Baltimore,MD,"(M),(PE)","Bars/Clubs,Hotel",1966,,-76.616314,39.289639,Verified Location
-16594,MD010,Lynn's,,774 Washington,Baltimore,MD,,Bars/Clubs,1980,NA,-76.6121893,39.2903848,Google Verified Location
-16597,MD013,M.C.C.,,2233 St. Paul St.,Baltimore,MD,(MCC),Church,1980,NA,-76.6149136,39.3152395,Google Verified Location
-16621,MD037,M.C.C.,,2233 St. Paul St.,Baltimore,MD,(MCC),Church,1979,NA,-76.6149136,39.3152395,Google Verified Location
-16647,MD063,M.C.C.,,2233 St. Paul St.,Baltimore,MD,(MCC),Church,1978,NA,-76.6149136,39.3152395,Google Verified Location
-16845,MD261,Marmaduke's,7th Ave. & 3rd St.,,Freeport,MD,(M),Bars/Clubs,1978,"City designation likely a typo for ""Eastport""",-76.481318,38.972222,Verified Location
-16846,MD262,Marmaduke's,7th Ave. & 3rd St.,,Freeport,MD,(M),Bars/Clubs,1979,"City designation likely a typo for ""Eastport""",-76.481318,38.972222,Verified Location
-17025,MD441,Marmaduke's,7th Avenue & 3rd Street,,Eastport,MD,(M),Bars/Clubs,1977,,-76.481499,38.972208,Verified Location
-16844,MD260,Marmaduke's,7th Ave. & 3rd St.,,Freeport,MD,(M),Bars/Clubs,1980,"City designation likely a typo for ""Eastport""",-76.481318,38.972222,Verified Location
-17023,MD439,Marmaduke's,7th Ave. & 3rd St.,,Eastport,MD,(M),Bars/Clubs,1976,,-76.481499,38.972208,Verified Location
-17024,MD440,Marmaduke's,7th Ave. & 3rd St.,,Eastport,MD,(M),Bars/Clubs,1975,,-76.481499,38.972208,Verified Location
-16920,MD336,Martick's,,Tyson & Mulberry,Baltimore,MD,(M),Bars/Clubs,1965,,-76.619027,39.29497,Verified Location
-16921,MD337,Martick's,(arty),Tyson & Mulberry,Baltimore,MD,(M),Bars/Clubs,1968,,-76.619027,39.29497,Verified Location
-16919,MD335,Martick's,(artsy),Tyson & Mulberry,Baltimore,MD,(M),Bars/Clubs,1966,,-76.619027,39.29497,Verified Location
-16758,MD174,Mary's,,1101 Cathedral,Baltimore,MD,"(YC),(D),(*)",Bars/Clubs,1973,NA,-76.6178248,39.302445,Google Verified Location
-16740,MD156,Mary's,(Downtown Club),1101 Cathedral,Baltimore,MD,"(YC),(D),(*)",Bars/Clubs,1974,NA,-76.6178248,39.302445,Google Verified Location
-16620,MD036,Mary's Club,"(Some YC, B) (Disco)",1101 Cathedral,Baltimore,MD,"(*),(YC),(B),(D)",Bars/Clubs,1979,NA,-76.6178248,39.302445,Google Verified Location
-16595,MD011,Mary's Club,(Disco),1101 Cathedral,Baltimore,MD,"(*),(YC),(D)",Bars/Clubs,1980,NA,-76.6178248,39.302445,Google Verified Location
-16670,MD086,Mary's Club,(Disco),1101 Cathedral,Baltimore,MD,"(HIP),(YC),(D),(*)",Bars/Clubs,1977,NA,-76.6178248,39.302445,Google Verified Location
-16646,MD062,Mary's Club,(Disco),1101 Cathedral,Baltimore,MD,"(YC),(D),(*)",Bars/Clubs,1978,NA,-76.6178248,39.302445,Google Verified Location
-16694,MD110,Mary's Downtown Club,(Some G) (DIsco),1101 Cathedral,Baltimore,MD,"(HIP),(YC),(G),(B),(D),(*)",Bars/Clubs,1976,NA,-76.6178248,39.302445,Google Verified Location
-16716,MD132,Mary's Downtown Club,(Weekends*),1101 Cathedral,Baltimore,MD,"(YC),(D),(*)",Bars/Clubs,1975,NA,-76.6178248,39.302445,Google Verified Location
-16774,MD190,Maryland Bar,,1417 Maryland Ave.,Baltimore,MD,(YC),Bars/Clubs,1972,NA,-76.6175848,39.3060114,Google Verified Location
-16787,MD203,Maryland Bar,,1417 Maryland Ave.,Baltimore,MD,(YC),Bars/Clubs,1971,NA,-76.6175848,39.3060114,Google Verified Location
-16757,MD173,Maryland Bar,,1417 Maryland Ave.,Baltimore,MD,"(M),(YC)",Bars/Clubs,1973,NA,-76.6175848,39.3060114,Google Verified Location
-16922,MD338,Maryland Bar,1400 blk Maryland Ave.,,Baltimore,MD,"(YC),(*)",Bars/Clubs,1970,,-76.617542,39.305375,Verified Location
-16837,MD253,Maryland Inn,Church Circle and Maine,,Annapolis,MD,"(M),(HIP),(YC)",Bars/Clubs,1975,,-76.492334,38.978339,Verified Location
-16841,MD257,Maryland Inn,Church Circle & Main,,Annapolis,MD,"(M),(R),(HIP),(YC)","Bars/Clubs,Restaurant",1980,,-76.492334,38.978339,Verified Location
-16838,MD254,Maryland Inn,Church Circle & Main,,Annapolis,MD,"(M),(R),(HIP),(YC)",Restaurant,1979,,-76.492334,38.978339,Verified Location
-16842,MD258,Maryland Inn,Church Circle & Main,,Annapolis,MD,"(M),(HIP),(YC)",Bars/Clubs,1974,,-76.492334,38.978339,Verified Location
-16840,MD256,Maryland Inn,Chirch Circle & Main,,Annapolis,MD,"(R),(M),(HIP),(YC)",Restaurant,1977,,-76.492334,38.978339,Verified Location
-16836,MD252,Maryland Inn,Church Circle & Main,,Annapolis,MD,"(M),(R),(HIP),(YC)",Restaurant,1978,,-76.492334,38.978339,Verified Location
-16839,MD255,Maryland Inn,Church Circle and Main,,Annapolis,MD,"(R),(M),(HIP),(YC)","Bars/Clubs,Restaurant",1976,,-76.492334,38.978339,Verified Location
-16596,MD012,Masquerade,,2308 Boston St. ,Baltimore,MD,"(L),(PT),(D)",Bars/Clubs,1980,NA,-76.5842286,39.2832008,Google Verified Location
-16923,MD339,Mt. Vernon Sq.,'Meat Rack',,Baltimore,MD,"Cruisy Area,(AYOR)",Cruising Areas,1978,,-76.613833,39.299319,Location could not be verified. General city or location coordinates used.
-16924,MD340,Mt. Vernon Square,'Meat Rack',,Baltimore,MD,"(AYOR),Cruisy Area",Cruising Areas,1979,,-76.613833,39.299319,Location could not be verified. General city or location coordinates used.
-16925,MD341,Mt. Vernon Square,'Meat Rack',,Baltimore,MD,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-76.613833,39.299319,Location could not be verified. General city or location coordinates used.
-16926,MD342,Nellie's,(Sign says Nelson Baker's),Maryland & Lafayette,Baltimore,MD,,Bars/Clubs,1968,,-76.617832,39.309747,Verified Location
-16927,MD343,Nellie's,,Maryland & LaFayette,Baltimore,MD,,Bars/Clubs,1969,,-76.617832,39.309747,Verified Location
-16759,MD175,Nite Owl,(after hours),710 N. Howard St.,Baltimore,MD,"(YC),(D),(C),(R),(*)",Restaurant,1973,NA,-76.6203544,39.2977892,Google Verified Location
-16928,MD344,O'Henry's,Inquire Locally,,Baltimore,MD,"(M),(HIP),(YC)",Bars/Clubs,1974,,-76.62162,39.343026,Verified Location
-16929,MD345,O'Henry's,,"Center, bet. Charles & St. Paul",Baltimore,MD,"(M),(HIP),(YC)",Bars/Clubs,1975,,-76.62162,39.343026,Verified Location
-16671,MD087,One West,"(also called ""The Body Shop""- adjoins ""The HIppo) at Charles",1 W. Eager,Baltimore,MD,"(YC),(D),(PT),(*)",Bars/Clubs,1977,NA,-76.6163574,39.3008418,Google Verified Location
-16695,MD111,One West,at Charles (Adjoins the 'Hippo'),1 W. Eager,Baltimore,MD,"(YC),(D),(*)",Bars/Clubs,1976,NA,-76.6163574,39.3008418,Google Verified Location
-16930,MD346,Open House,,29th & Howard,Baltimore,MD,"(M),(R),(C),(AH)",Restaurant,1976,,-76.620074,39.323093,Verified Location
-16932,MD348,Open House,,29th & Howard,Baltimore,MD,"(M),(AYOR),(C),(AH)",Restaurant,1977,,-76.620074,39.323093,Verified Location
-16931,MD347,Open House,,29th & Howard,Baltimore,MD,"(M),(R),(C),(AH)","Bars/Clubs,Restaurant",1980,,-76.620074,39.323093,Verified Location
-16935,MD351,Open House,,29th & Howard,Baltimore,MD,"(M),(R),(C),(AH)",Restaurant,1978,,-76.620074,39.323093,Verified Location
-16934,MD350,Open House,,29th & Howard,Baltimore,MD,"(M),(R),(C),(AH)",Restaurant,1979,,-76.620074,39.323093,Verified Location
-16933,MD349,Open House,,29th & Howard,Baltimore,MD,"(M),(R),(C),(AH)",Restaurant,1975,,-76.620074,39.323093,Verified Location
-16741,MD157,Owl's Nest,(after hours),105 E. Madison,Baltimore,MD,"(C),(R)",Restaurant,1974,NA,-76.6135256,39.2986747,Google Verified Location
-16936,MD352,Paca House,,Paca near Saratoga,Baltimore,MD,(B),Bars/Clubs,1972,,-76.622497,39.292775,Verified Location
-16937,MD353,Paca House,,Paca near Saratoga,Baltimore,MD,(B),Bars/Clubs,1973,,-76.622497,39.292775,Verified Location
-16940,MD356,Park Ave.,,N. of Monument Square,Baltimore,MD,Cruisy Area,Cruising Areas,1980,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16944,MD360,Park Ave.,,N. of Monument St.,Baltimore,MD,Cruisy Area,Cruising Areas,1973,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16941,MD357,Park Ave.,,N. of Monument Square,Baltimore,MD,Cruisy Area,Cruising Areas,1976,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16942,MD358,Park Ave.,,N. of Monument St.,Baltimore,MD,Cruisy Area,Cruising Areas,1975,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16938,MD354,Park Ave.,,N. of Monument Square,Baltimore,MD,Cruisy Area,Cruising Areas,1979,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16943,MD359,Park Ave.,,N. of Monument St.,Baltimore,MD,Cruisy Area,Cruising Areas,1974,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16939,MD355,Park Ave.,,N. of Monument Square,Baltimore,MD,Cruisy Area,Cruising Areas,1978,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16945,MD361,Park Avenue,,North of Monument Square,Baltimore,MD,"(AYOR),Cruisy Area",Cruising Areas,1977,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16648,MD064,Parker's,(6 a.m. to 2 a.m.),704 No. Howard,Baltimore,MD,(B),Bars/Clubs,1978,NA,-76.6201738,39.2976088,Google Verified Location
-16598,MD014,Parker's,('Hustlers'),704 N Howard,Baltimore,MD,"(B),(RT)",Bars/Clubs,1980,NA,-76.6201738,39.2976088,Google Verified Location
-16622,MD038,Parker's ,('Hustlers'),704 N. Howard,Baltimore,MD,"(B),(RT)",Bars/Clubs,1979,NA,-76.6201738,39.2976088,Google Verified Location
-16948,MD364,Patterson Park,at Eastern Ave.,at Eastern Ave.,Baltimore,MD,"(RT),Cruisy Area",Cruising Areas,1980,,-76.579999,39.286191,Verified Location
-16949,MD365,Patterson Park,(HOT),at Eastern Ave.,Baltimore,MD,"Cruisy Area,(RT),(HOT)",Cruising Areas,1977,,-76.579999,39.286191,Verified Location
-16950,MD366,Patterson Park,at Eastern Ave.,at Eastern Ave.,Baltimore,MD,Cruisy Area,Cruising Areas,1975,,-76.579999,39.286191,Verified Location
-16946,MD362,Patterson Park,(HOT),at Eastern Ave.,Baltimore,MD,"Cruisy Area,(RT),(HOT)",Cruising Areas,1976,,-76.579999,39.286191,Verified Location
-16951,MD367,Patterson Park,(HOT),at Eastern Ave.,Baltimore,MD,"Cruisy Area,(RT),(HOT)",Cruising Areas,1979,,-76.579999,39.286191,Verified Location
-16947,MD363,Patterson Park,(HOT),at Eastern Ave.,Baltimore,MD,"Cruisy Area,(RT),(HOT)",Cruising Areas,1978,,-76.579999,39.286191,Verified Location
-16672,MD088,Peabody Book Store,(This is a bar),921 Charles Street,Baltimore,MD,"(M),(HIP),(YC)",Bars/Clubs,1977,NA,-76.6142727,39.2784225,Google Verified Location
-16717,MD133,Peabody Book Store,(bar),921 Charles St.,Baltimore,MD,"(M),(HIP),(YC)",Bars/Clubs,1975,NA,-76.6158047,39.299935,Google Verified Location
-16696,MD112,Peabody Book Store,(a bar),921 Charles St.,Baltimore,MD,"(M),(HIP),(YC)",Bars/Clubs,1976,NA,-76.6158047,39.299935,Google Verified Location
-16831,MD247,Pepper HIll,,217 N. Gay ,Baltimore,MD,(*),Bars/Clubs,1965,NA,-76.608732,39.2924611,Google Verified Location
-16823,MD239,Pepper Hill,,213 N. Gay St.,Baltimore,MD,(*),Bars/Clubs,1966,NA,-76.6087794,39.292388,Google Verified Location
-16806,MD222,Pepper Hill,,213 N. Gat St.,Baltimore,MD,"(G),(D),(*)",Bars/Clubs,1969,NA,-76.6087794,39.292388,Google Verified Location
-16815,MD231,Pepper Hill,,213 N. Gay St.,Baltimore,MD,(*),Bars/Clubs,1968,NA,-76.6087794,39.292388,Google Verified Location
-16729,MD145,Port of Annapolis Bar,,186 Main St.,Annapolis,MD,,Bars/Clubs,1974,NA,-76.490422,38.978155,Google Verified Location
-16753,MD169,Port of Annapolis Bar,,186 Main St.,Annapolis,MD,(M),Bars/Clubs,1973,NA,-76.490422,38.978155,Google Verified Location
-16661,MD077,Port of Annapolis Pub,,186 Main St.,Annapolis,MD,(M),Bars/Clubs,1977,NA,-76.490422,38.978155,Google Verified Location
-16705,MD121,Port of Annapolis Pub,,186 Main St.,Annapolis,MD,(M),Bars/Clubs,1975,NA,-76.490422,38.978155,Google Verified Location
-16683,MD099,Port of Annapolis Pub,,186 Main St.,Annapolis,MD,(M),Bars/Clubs,1976,NA,-76.490422,38.978155,Google Verified Location
-16599,MD015,Private Affair,,2001 Eastern,Baltimore,MD,,Bars/Clubs,1980,NA,-76.5886125,39.2856009,Google Verified Location
-16820,MD236,Red Coach,,211 King St.,Annapolis,MD,(M),Bars/Clubs,1966,NA,-76.487435,38.980395,Google Verified Location
-16801,MD217,Red Coach,,211 George St.,Annapolis,MD,(M),Bars/Clubs,1969,NA,-76.4889538,38.9798836,Google Verified Location
-16828,MD244,Red Coach,,211 King George,Annapolis,MD,(M),Bars/Clubs,1965,NA,-76.487435,38.980395,Google Verified Location
-16812,MD228,Red Coach,,211 King St.,Annapolis,MD,(M),Bars/Clubs,1968,NA,-76.487435,38.980395,Google Verified Location
-16792,MD208,Red Coach,,211 George St.,Annapolis,MD,(M),Bars/Clubs,1970,NA,-76.4889538,38.9798836,Google Verified Location
-16769,MD185,Red Coach,,211 George St.,Annapolis,MD,(M),Bars/Clubs,1972,NA,-76.4889538,38.9798836,Google Verified Location
-16781,MD197,Red Coach,,211 George St.,Annapolis,MD,(M),Bars/Clubs,1971,NA,-76.4889538,38.9798836,Google Verified Location
-16775,MD191,Regency of Baltimore Baths,,17 E. Franklin St.,Baltimore,MD,(P),Baths,1972,NA,-76.614442,39.2949086,Google Verified Location
-16977,MD393,Rest Stop & woods behind (Known locally as 'Ruth Ann's) I-95 Northbound,,,Burtonsville,MD,Cruisy Area,Cruising Areas,1980,,-76.932475,39.111219,Location could not be verified. General city or location coordinates used.
-16978,MD394,Rest Stop & woods behind (Known locally as 'Ruth Ann's) I-95 Northbound,,,Burtonsville,MD,Cruisy Area,Cruising Areas,1979,,-76.932475,39.111219,Location could not be verified. General city or location coordinates used.
-16979,MD395,Rest Stop & Woods behind I-95 Northbound,,,Burtonsville,MD,Cruisy Area,Cruising Areas,1978,,-76.932475,39.111219,Location could not be verified. General city or location coordinates used.
-16760,MD176,Roosevelt Hotel Bar,(may be closing),312 W. Camden,Baltimore,MD,"(G),(*)","Bars/Clubs,Hotel",1973,NA,-76.6193743,39.2852721,Google Verified Location
-17001,MD417,Roosevelt Hotel Bar,On the Boardwalk,,Ocean City,MD,(M),"Bars/Clubs,Hotel",1975,Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/,-75.084868,38.331962,Verified Location
-17003,MD419,Roosevelt Hotel Bar,On the Boardwalk,,Ocean City,MD,(M),"Bars/Clubs,Hotel",1976,Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/,-75.084868,38.331962,Verified Location
-16816,MD232,Roosevelt Hotel Bar,,312 W. Camden,Baltimore,MD,"(M),(G),(RT)","Bars/Clubs,Hotel",1968,NA,-76.6193743,39.2852721,Google Verified Location
-17000,MD416,Roosevelt Hotel Bar,on the Boardwalk,,Ocean City,MD,(M),"Bars/Clubs,Hotel",1973,Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/,-75.084868,38.331962,Verified Location
-16999,MD415,Roosevelt Hotel Bar,on the Boardwalk,,Ocean City,MD,(M),"Hotel,Bars/Clubs",1972,Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/,-75.084868,38.331962,Verified Location
-16776,MD192,Roosevelt Hotel Bar,,312 W. Camden,Baltimore,MD,"(G),(*)","Bars/Clubs,Hotel",1972,NA,-76.6193743,39.2852721,Google Verified Location
-16824,MD240,Roosevelt Hotel Bar,,312 W. Camden,Baltimore,MD,"(M),(RT),(G)","Bars/Clubs,Hotel",1966,NA,-76.6193743,39.2852721,Google Verified Location
-16807,MD223,Roosevelt Hotel Bar,,312 W. Camden,Baltimore,MD,"(G),(M),(RT)","Bars/Clubs,Hotel",1969,NA,-76.6193743,39.2852721,Google Verified Location
-17002,MD418,Roosevelt Hotel Bar,On the boardwalk,,Ocean City,MD,(M),"Bars/Clubs,Hotel",1974,Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/,-75.084868,38.331962,Verified Location
-17022,MD438,Rose's,on the beach,,North Beach,MD,(D),Bars/Clubs,1972,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17021,MD437,Rose's,On the Beach,,North Beach,MD,"(D),(S),(*)",Bars/Clubs,1969,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17019,MD435,Rose's,on the beach,,North Beach,MD,"(D),(S),(*)",Bars/Clubs,1970,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-17020,MD436,Rose's,on the beach,,North Beach,MD,"(D),(S)",Bars/Clubs,1971,,-76.531067,38.707341,Location could not be verified. General city or location coordinates used.
-16953,MD369,Sadie's,,Broadway & Bond,Baltimore,MD,(G),Bars/Clubs,1974,,-76.594526,39.28552,Location could not be verified. General city or location coordinates used.
-16952,MD368,Sadie's,,Broadway and Bond,Baltimore,MD,(G),Bars/Clubs,1975,,-76.594526,39.28552,Location could not be verified. General city or location coordinates used.
-16788,MD204,Sanitary European Steam Baths,,1425 E. Baltimore,Baltimore,MD,,Baths,1971,NA,-76.5977944,39.2912747,Google Verified Location
-16808,MD224,Sanitary European Steam Baths,,1425 E. Baltimore,Baltimore,MD,,Baths,1969,NA,-76.5977944,39.2912747,Google Verified Location
-16798,MD214,Sanitary European Steam Baths,,1425  E. Baltimore,Baltimore,MD,,Baths,1970,NA,-76.5977944,39.2912747,Google Verified Location
-16718,MD134,Sanitary European Turkish Baths,,1425 E. Baltimore,Baltimore,MD,,Baths,1975,NA,-76.5977944,39.2912747,Google Verified Location
-16697,MD113,Sanitary European Turkish Baths,,1425 E. Baltimore,Baltimore,MD,(RT),Baths,1976,NA,-76.5977944,39.2912747,Google Verified Location
-16673,MD089,Sanitary European Turkish Baths,,1425 E. Baltimore,Baltimore,MD,"(OC),(RT)",Baths,1977,NA,-76.5977944,39.2912747,Google Verified Location
-16742,MD158,Sanitary European Turkish Baths,,1425 E. Baltimore,Baltimore,MD,,Baths,1974,NA,-76.5977944,39.2912747,Google Verified Location
-16623,MD039,Sappho's,(Disco),100 Albemarle,Baltimore,MD,"(G),(D)",Bars/Clubs,1979,NA,-76.6039212,39.2884704,Google Verified Location
-16649,MD065,Sappho's,(Disco- WE),100 Albemarle,Baltimore,MD,"(G),(D),(WE),(*)",Bars/Clubs,1978,NA,-76.6039212,39.2884704,Google Verified Location
-16674,MD090,Satelite,(Many G),1901 Aliceanna,Baltimore,MD,"(G),(D),(*)",Bars/Clubs,1977,NA,-76.5897871,39.2835112,Google Verified Location
-16777,MD193,Satelite,,1901 Aliceanna,Baltimore,MD,(G),Bars/Clubs,1972,NA,-76.5897871,39.2835112,Google Verified Location
-16761,MD177,Satelite,,1901 Aliceanna,Baltimore,MD,(G),Bars/Clubs,1973,NA,-76.5897871,39.2835112,Google Verified Location
-16789,MD205,Satelite,,1901 Aliceanna,Baltimore,MD,,Bars/Clubs,1971,NA,-76.5897871,39.2835112,Google Verified Location
-16719,MD135,Satelite,,1901 Aliceanna,Baltimore,MD,"(G),(D),(*)",Bars/Clubs,1975,NA,-76.5897871,39.2835112,Google Verified Location
-16954,MD370,Satelite,,,Baltimore,MD,(G),Bars/Clubs,1969,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16698,MD114,Satelite,,1901 Aliceanna,Baltimore,MD,"(G),(D),(*)",Bars/Clubs,1976,NA,-76.5897871,39.2835112,Google Verified Location
-16743,MD159,Satelite,,1901 Aliceanna,Baltimore,MD,"(G),(D),(*)",Bars/Clubs,1974,NA,-76.5897871,39.2835112,Google Verified Location
-16720,MD136,Senator,,612 N. Howard St.,Baltimore,MD,"(RT),(*)",Bars/Clubs,1975,NA,-76.6202656,39.2972148,Google Verified Location
-16790,MD206,Senator,(back room- side entrance),612 N. Howard,Baltimore,MD,,Bars/Clubs,1971,NA,-76.6202656,39.2972148,Google Verified Location
-16675,MD091,Senator,(Best on Sunday afternoons),612 North Howard Street,Baltimore,MD,"(RT),(*)",Bars/Clubs,1977,NA,-76.6202656,39.2972148,Google Verified Location
-16817,MD233,Senator,(back room- use side entrance),612 N. Howard,Baltimore,MD,,Bars/Clubs,1968,NA,-76.6202656,39.2972148,Google Verified Location
-16699,MD115,Senator,(Best Sunday afternoons),612 N. Howard St.,Baltimore,MD,"(RT),(*)",Bars/Clubs,1976,NA,-76.6202656,39.2972148,Google Verified Location
-16744,MD160,Senator,,612 N. Howard St.,Baltimore,MD,"(M),(*)",Bars/Clubs,1974,NA,-76.6202656,39.2972148,Google Verified Location
-16778,MD194,Senator,,612 N. Howard,Baltimore,MD,"(M),(RT),(*)",Bars/Clubs,1972,NA,-76.6202656,39.2972148,Google Verified Location
-16799,MD215,Senator,(back room- side entrance),612 N. Howard,Baltimore,MD,,Bars/Clubs,1970,NA,-76.6202656,39.2972148,Google Verified Location
-16762,MD178,Senator,,612 N. Howard,Baltimore,MD,"(M),(*)",Bars/Clubs,1973,NA,-76.6202656,39.2972148,Google Verified Location
-16809,MD225,Senator,(back room- use side entrance),612 N. Howard,Baltimore,MD,,Bars/Clubs,1969,NA,-76.6202656,39.2972148,Google Verified Location
-16825,MD241,Senator ,(back room enter fr Monument) at Monument St.,612 N. Howard,Baltimore,MD,,Bars/Clubs,1966,NA,-76.6202656,39.2972148,Google Verified Location
-16600,MD016,Senator Bar,(Some OC) (Good Sundays),612 N. Howard,Baltimore,MD,"(*),(E),(OC)",Bars/Clubs,1980,NA,-76.6202656,39.2972148,Google Verified Location
-16624,MD040,Senator Bar,(Some OC) (Good Sundays),612 N. Howard,Baltimore,MD,"(*),(E),(OC)",Bars/Clubs,1979,NA,-76.6202656,39.2972148,Google Verified Location
-16650,MD066,Senator Bar,(Best Sun.),612 No. Howard St.,Baltimore,MD,"(E),(OC),(*)",Bars/Clubs,1978,NA,-76.6202656,39.2972148,Google Verified Location
-16955,MD371,Sherrie's Place,,So. Broadway,Baltimore,MD,(G),Bars/Clubs,1978,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16956,MD372,Shipmates,(See Gallery),,Baltimore,MD,(SM),Bars/Clubs,1976,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16746,MD162,Shot Tower,,4 N. High St.,Baltimore,MD,"(M),(RT),(B),(G)",Bars/Clubs,1974,NA,-76.6045234,39.2904544,Google Verified Location
-16722,MD138,Shot Tower,,4 N. High St.,Baltimore,MD,"(M),(B),(G),(RT)",Bars/Clubs,1975,NA,-76.6045234,39.2904544,Google Verified Location
-16701,MD117,Shot Tower,,4 N. High St.,Baltimore,MD,"(M),(B),(G),(RT)",Bars/Clubs,1976,NA,-76.6045234,39.2904544,Google Verified Location
-16677,MD093,Shot Tower,,4 N. High St.,Baltimore,MD,"(M),(B),(G),(RT)",Bars/Clubs,1977,NA,-76.6045234,39.2904544,Google Verified Location
-16764,MD180,Shot Tower,,4 N. High St.,Baltimore,MD,"(G),(M),(B),(RT)",Bars/Clubs,1973,NA,-76.6045234,39.2904544,Google Verified Location
-16625,MD041,Shot Tower Bar,(Some G),4 N. High St.,Baltimore,MD,(G),Bars/Clubs,1979,NA,-76.6045234,39.2904544,Google Verified Location
-16651,MD067,Shot Tower Bar,(Some G),4 No. High St.,Baltimore,MD,(G),Bars/Clubs,1978,NA,-76.6045234,39.2904544,Google Verified Location
-16601,MD017,Shot Tower Bar,(Some L),4 N. High St.,Baltimore,MD,(L),Bars/Clubs,1980,NA,-76.6045234,39.2904544,Google Verified Location
-16818,MD234,Snug's,,100 E. Pratt,Baltimore,MD,"(D),(P)",Bars/Clubs,1968,NA,-76.6128397,39.2871714,Google Verified Location
-16832,MD248,Snugs,,100 E. Pratt,Baltimore,MD,"(G),(D),(P)",Bars/Clubs,1965,NA,-76.6128397,39.2871714,Google Verified Location
-16652,MD068,Stallion Inn,"(Some YC, RT)",2318 Fleet St.,Baltimore,MD,"(PT),(D),(YC),(RT)",Bars/Clubs,1978,NA,-76.583657,39.2850985,Google Verified Location
-16957,MD373,Stu's Male Model & Escort Service,Tel: 235-STU'S,,Baltimore,MD,,Business,1979,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16958,MD374,Stu's Male Model & Escort Service,(By appt.) Tel: 235-7887,,Baltimore,MD,,Business,1978,,-76.612189,39.290385,Location could not be verified. General city or location coordinates used.
-16653,MD069,Studio,(Some SM) (Adjoins Gallery),1735 Maryland Ave.,Baltimore,MD,"(R),(SM),(*)",Restaurant,1978,NA,-76.6176464,39.3096234,Google Verified Location
-16602,MD018,Studio,"(Some SM, W) (Adjoins Gallery)",1735 Maryland Ave.,Baltimore,MD,"(*),(R),(SM),(W)","Bars/Clubs,Restaurant",1980,NA,-76.6176464,39.3096234,Google Verified Location
-16626,MD042,Studio,"(Some SM, W) (Adjoins Gallery)",1735 Maryland Ave.,Baltimore,MD,"(*),(R),(SM),(W)",Restaurant,1979,NA,-76.6176464,39.3096234,Google Verified Location
-16826,MD242,Sung's,,100 E. Pratt,Baltimore,MD,"(D),(P)",Bars/Clubs,1966,NA,-76.6128397,39.2871714,Google Verified Location
-16959,MD375,Sweet Lips Disco,,Hanover & Ostend,Baltimore,MD,,Bars/Clubs,1980,,-76.615405,39.274695,Verified Location
-16843,MD259,The Dock,,,Annapolis,MD,Cruisy Area,Cruising Areas,1973,,-76.492183,38.978445,Location could not be verified. General city or location coordinates used.
-16608,MD024,Townson Books,,526 Tork Rd.,Towson,MD,(*),Book Store,1980,NA,-76.6022188,39.4011503,Google Verified Location
-16632,MD048,Towson Books,,516 York Rd.,Towson,MD,(*),Book Store,1979,NA,-76.6017813,39.4011275,Google Verified Location
-16654,MD070,Towson Books,,516 York Rd.,Baltimore,MD,,Book Store,1978,NA,-76.6017813,39.4011275,Google Verified Location
-16833,MD249,Turf,,226 W. Fayette,Baltimore,MD,"(M),(RT)",Bars/Clubs,1965,NA,-76.6190907,39.2906696,Google Verified Location
-16627,MD043,Turkish Baths,"(Some OC, B)",1425 E. Baltimore,Baltimore,MD,"(OC),(B),(*)",Baths,1979,NA,-76.5977944,39.2912747,Google Verified Location
-16655,MD071,Turkish Baths,(Some B),1425 E. Baltimore,Baltimore,MD,"(OC),(B),(*)",Baths,1978,NA,-76.5977944,39.2912747,Google Verified Location
-16603,MD019,Turkish Baths,"(Some OC, B)",1425 E. Baltimore,Baltimore,MD,"(OC),(B)",Baths,1980,NA,-76.5977944,39.2912747,Google Verified Location
-16810,MD226,Twenty-Two Club,,2200 E. Fayette,Baltimore,MD,(B),Bars/Clubs,1969,NA,-76.5862427,39.2944163,Google Verified Location
-16960,MD376,Tycon Place,(can enter thru back of Leon's also),Chase & Park,Baltimore,MD,"(YC),(*)",Bars/Clubs,1973,,-76.618768,39.302232,Verified Location
-16678,MD094,Tyson Place,"(Can enter through rear of ""Leon's"")",227 W. Chase Street,Baltimore,MD,"(M),(R)",Restaurant,1977,NA,-76.6191881,39.3016308,Google Verified Location
-16604,MD020,Tyson Place,(Can enter thru rear of Leon's),227 W. Chase St.,Baltimore,MD,"(M),(R)",Restaurant,1980,NA,-76.6191881,39.3016308,Google Verified Location
-16656,MD072,Tyson Place,(Can enter thru rear of Leon's),227 W. Chase St.,Baltimore,MD,"(M),(R)",Restaurant,1978,NA,-76.6191881,39.3016308,Google Verified Location
-16628,MD044,Tyson Place,(Can enter thru rear of Leon's),227 W. Chase St.,Baltimore,MD,"(M),(R)",Restaurant,1979,NA,-76.6191881,39.3016308,Google Verified Location
-16981,MD397,U. of Md. - Student Union Bldg. Basement T-Room,,,College Park,MD,Cruisy Area,Cruising Areas,1980,,-76.942554,38.986918,Verified Location
-16982,MD398,U. of Md. - Student Union Bldg. Basement T-Room,,,College Park,MD,Cruisy Area,Cruising Areas,1978,,-76.942554,38.986918,Verified Location
-16980,MD396,U. of Md. - Student Union Bldg. Basement T-Room,,,College Park,MD,Cruisy Area,Cruising Areas,1979,,-76.942554,38.986918,Verified Location
-16990,MD406,Union St.,nr. Holiday Inn,,Cumberland,MD,Cruisy Area,Cruising Areas,1980,,-78.762518,39.652865,Location could not be verified. General city or location coordinates used.
-16988,MD404,Union St.,nr. Holiday Inn,,Cumberland,MD,Cruisy Area,Cruising Areas,1979,,-78.762518,39.652865,Location could not be verified. General city or location coordinates used.
-16989,MD405,Union St.,nr. Holiday Inn,,Cumberland,MD,Cruisy Area,Cruising Areas,1978,,-78.762518,39.652865,Location could not be verified. General city or location coordinates used.
-16991,MD407,Union St. near Holiday Inn,,,Cumberland,MD,Cruisy Area,Cruising Areas,1976,,-78.762518,39.652865,Location could not be verified. General city or location coordinates used.
-16992,MD408,Union Street,near Holiday Inn,,Cumberland,MD,Cruisy Area,Cruising Areas,1977,,-78.762518,39.652865,Location could not be verified. General city or location coordinates used.
-16607,MD023,Westwood,(Some W)(Best late- Cl. 1 am),8233 Georgia Ave.,Silver Lake,MD,"(M),(R),(W)",Restaurant,1980,NA,-77.0262093,38.9926626,Google Verified Location
-16964,MD380,White Coffee Pot,(after hours),Howard & Franklin,Baltimore,MD,"(M),(R),(C)",Restaurant,1973,,-76.619773,39.29494,Verified Location
-16965,MD381,White Coffee Pot,Howard & Franklin,Howard & Franklin,Baltimore,MD,(C),Restaurant,1966,,-76.619773,39.29494,Verified Location
-16961,MD377,White Coffee Pot,(after hours),Howard & Franklin,Baltimore,MD,(C),Restaurant,1971,,-76.619773,39.29494,Verified Location
-16967,MD383,White Coffee Pot,(after hours),Howard & Franklin,Baltimore,MD,"(M),(R),(C)",Restaurant,1974,,-76.619773,39.29494,Verified Location
-16962,MD378,White Coffee Pot,(after hours),Howard & Franklin,Baltimore,MD,(C),Restaurant,1972,,-76.619773,39.29494,Verified Location
-16963,MD379,White Coffee Pot,(after hours),Howard & Franklin,Baltimore,MD,(C),Restaurant,1969,,-76.619773,39.29494,Verified Location
-16966,MD382,White Coffee Pot,Howard & Franklin,Howard & Franklin,Baltimore,MD,(C),Restaurant,1968,,-76.619773,39.29494,Verified Location
-16968,MD384,White Cofffe Pot,(after hours),Howard & Franklin,Baltimore,MD,,Restaurant,1970,,-76.619773,39.29494,Verified Location
-16969,MD385,Wyman Park,,,Baltimore,MD,"Cruisy Area,(AYOR)",Cruising Areas,1978,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16972,MD388,Wyman Park,,,Baltimore,MD,"(AYOR),Cruisy Area",Cruising Areas,1980,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16970,MD386,Wyman Park,,,Baltimore,MD,"(AYOR),Cruisy Area",Cruising Areas,1979,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16971,MD387,Wyman Park,,,Baltimore,MD,"Cruisy Area,(AYOR)",Cruising Areas,1977,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16976,MD392,Wymann Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1973,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16974,MD390,Wymann Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1974,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16973,MD389,Wymann Park,,,Baltimore,MD,Cruisy Area,Cruising Areas,1975,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16975,MD391,Wymann Park,(caution),,Baltimore,MD,Cruisy Area,Cruising Areas,1976,Wyman Park (neighborhood). General Google Coordinates Used.,-76.627553,39.33087,Verified Location
-16702,MD118,Y.M.C.A.,,24 W. Franklin,Baltimore,MD,,Hotel,1976,NA,-76.6165858,39.2954574,Google Verified Location
-16605,MD021,Y.M.C.A.,,24 W. Franklin,Baltimore,MD,"(M),(H)",Hotel,1980,NA,-76.6165858,39.2954574,Google Verified Location
-16629,MD045,Y.M.C.A.,,24 W. Franklin,Baltimore,MD,"(M),(H)",Hotel,1979,NA,-76.6165858,39.2954574,Google Verified Location
-16747,MD163,Y.M.C.A.,,24 W. Franklin,Baltimore,MD,"(H),(M)",Hotel,1974,NA,-76.6165858,39.2954574,Google Verified Location
-16679,MD095,Y.M.C.A.,,24 W. Franklin,Baltimore,MD,"(M),(H)",Hotel,1977,NA,-76.6165858,39.2954574,Google Verified Location
-16657,MD073,Y.M.C.A.,,24 W. Franklin,Baltimore,MD,"(M),(H)",Hotel,1978,NA,-76.6165858,39.2954574,Google Verified Location
-16723,MD139,Y.M.C.H.,,24 W. Franklin,Baltimore,MD,"(M),(H)",Hotel,1975,NA,-76.6165858,39.2954574,Google Verified Location
-16748,MD164,Zodiac,(was closed- may be re-opening),632 S. Bond St.,Baltimore,MD,,Bars/Clubs,1974,NA,-76.5954768,39.2837771,Google Verified Location
-16680,MD096,Zodiac,,632 S. Bond,Baltimore,MD,,Bars/Clubs,1977,NA,-76.5954768,39.2837771,Google Verified Location
-16765,MD181,Zodiac,,632 S. Bond St.,Baltimore,MD,"(G),(S)",Bars/Clubs,1973,NA,-76.5954768,39.2837771,Google Verified Location
-16703,MD119,Zodiac,,632 S. Bond,Baltimore,MD,,Bars/Clubs,1976,NA,-76.5954768,39.2837771,Google Verified Location
-16724,MD140,Zodiac,,632 S. Bond,Baltimore,MD,,Bars/Clubs,1975,NA,-76.5954768,39.2837771,Google Verified Location
-16658,MD074,Zodiac Club,,2001 Eastern,Baltimore,MD,,Bars/Clubs,1978,NA,-76.5886125,39.2856009,Google Verified Location
-16630,MD046,Zodiac Club,(May be changing name),2001 Eastern,Baltimore,MD,,Bars/Clubs,1979,NA,-76.5886125,39.2856009,Google Verified Location
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"'The Dock'","","","Annapolis","MD","Cruisy Area","Cruising Areas",1974,"",-76.492183,38.978445,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-MD-0001"
+"'The Dock'","","","Annapolis","MD","Cruisy Area","Cruising Areas",1975,"",-76.492183,38.978445,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-MD-0002"
+"724 Magazines & Books","","724 N. Howard St.","Baltimore","MD","","Book Store",1976,NA,-76.620332,39.29788,"Google Verified Location",NA,NA,NA,"1976-MD-0003"
+"724 Magazines & Books","","724 N. Howard St.","Baltimore","MD","","Book Store",1975,NA,-76.620332,39.29788,"Google Verified Location",NA,NA,NA,"1975-MD-0004"
+"724 Magazines & Books","","724 Howard St.","Baltimore","MD","","Book Store",1973,NA,-76.620332,39.29788,"Google Verified Location",NA,NA,NA,"1973-MD-0005"
+"724 Magazines & Books","","724 N. Howard ","Baltimore","MD","","Book Store",1974,NA,-76.620332,39.29788,"Google Verified Location",NA,NA,NA,"1974-MD-0006"
+"724 Magazines & Books","","724 N. Howard","Baltimore","MD","","Book Store",1977,NA,-76.620332,39.29788,"Google Verified Location",NA,NA,NA,"1977-MD-0007"
+"Algonquin Motor Inn","Baltimore & Green Sts.","","Cumberland","MD","(M),(H),(R)","Restaurant,Hotel",1980,"",-78.764581,39.650838,"Verified Location",NA,NA,NA,"1980-MD-0008"
+"Algonquin Motor Inn","Baltimore and Green Streets","","Cumberland","MD","(M),(H),(R)","Restaurant,Hotel",1977,"",-78.764581,39.650838,"Verified Location",NA,NA,NA,"1977-MD-0009"
+"Algonquin Motor Inn","Baltimore & green Sts.","","Cumberland","MD","(M),(H),(R)","Restaurant,Hotel",1978,"",-78.764581,39.650838,"Verified Location",NA,NA,NA,"1978-MD-0010"
+"Algonquin Motor Inn","Baltimore & Green Sts.","","Cumberland","MD","(M),(H),(R)","Hotel,Restaurant",1976,"",-78.764581,39.650838,"Verified Location",NA,NA,NA,"1976-MD-0011"
+"Algonquin Motor Inn","Baltimore & Green Sts.","","Cumberland","MD","(M),(H),(R)","Restaurant,Hotel",1979,"",-78.764581,39.650838,"Verified Location",NA,NA,NA,"1979-MD-0012"
+"Alonso's","(collegiate)","415 W. Cold Spgs Lane","Baltimore","MD","(M)","Bars/Clubs",1968,NA,-76.630937,39.344444,"Google Verified Location",NA,NA,NA,"1968-MD-0013"
+"Alonso's","(collegiate)","415 W. Cold Springs Lane","Baltimore","MD","(M)","Bars/Clubs",1966,NA,-76.6309148,39.3444211,"Google Verified Location",NA,NA,NA,"1966-MD-0014"
+"Armistead Hotel Bar","Holiday & Fayette","","Baltimore","MD","(M),(D)","Bars/Clubs,Hotel",1974,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1974-MD-0015"
+"Armistead Hotel Bar","Holiday & Fayette","","Baltimore","MD","(M),(RT)","Bars/Clubs,Hotel",1968,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1968-MD-0016"
+"Armistead Hotel Bar","Holiday & Fayette","","Baltimore","MD","(M),(RT)","Bars/Clubs,Hotel",1973,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1973-MD-0017"
+"Armistead Hotel Bar","Holiday & Fayette","","Baltimore","MD","(M),(RT)","Bars/Clubs,Hotel",1970,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1970-MD-0018"
+"Armistead Hotel Bar","Holliday & Fayette","","Baltimore","MD","(M),(RT)","Bars/Clubs,Hotel",1966,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1966-MD-0019"
+"Armistead Hotel Bar","Holiday & Fayette","","Baltimore","MD","(M),(RT)","Bars/Clubs,Hotel",1972,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1972-MD-0020"
+"Armistead Hotel Bar","Holiday & Fayette","","Baltimore","MD","(M),(RT)","Bars/Clubs,Hotel",1969,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1969-MD-0021"
+"Armistead Hotel Bar","Holiday & Fayette","","Baltimore","MD","(M),(RT)","Bars/Clubs,Hotel",1971,"",-76.610235,39.290469,"Verified Location",NA,NA,NA,"1971-MD-0022"
+"B & B","Broadway & E Sts.","","Baltimore","MD","(M),(R)","Restaurant",1975,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-MD-0023"
+"B & B","Broadway & E Sts.","","Baltimore","MD","(M),(R)","Bars/Clubs,Restaurant",1974,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-MD-0024"
+"Backstage Cafe","Atop Painters Mill Music Fair","","Owings Mills","MD","(D)","Bars/Clubs",1980,"",-76.780253,39.41955,"Verified Location",NA,NA,NA,"1980-MD-0025"
+"Baltimore Gay Alliace","Tel: 235-HELP","","Baltimore","MD","","Organizations",1979,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0026"
+"Baltimore Gay Alliance","Tel: 235-HELP","","Baltimore","MD","","Organizations",1980,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0027"
+"Baltimore Museum Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1979,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1979-MD-0028"
+"Baltimore Museum Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1980,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1980-MD-0029"
+"Baltimore Museum Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1978,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1978-MD-0030"
+"Baltimore Museum Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1977,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1977-MD-0031"
+"Baltimore Museum Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1976,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1976-MD-0032"
+"Baltimore's famed 'meat rack'","in Mt. Vernon Sq.","","Baltimore","MD","Cruisy Area","Cruising Areas",1973,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1973-MD-0033"
+"Baltimore's famed 'meat rack'","in Mt. Vernon Sq.","","Baltimore","MD","Cruisy Area","Cruising Areas",1972,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1972-MD-0034"
+"Baltimore's famed 'meat rack'","at Mt. Vernon Square","","Baltimore","MD","Cruisy Area","Cruising Areas",1974,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1974-MD-0035"
+"Baltimore's famed 'meat rack'","at Mt. Vernon Square","","Baltimore","MD","Cruisy Area","Cruising Areas",1975,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1975-MD-0036"
+"Baltimore's famed 'meat rack' at Mt. Vernon Square","(caution)","","Baltimore","MD","Cruisy Area","Cruising Areas",1976,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1976-MD-0037"
+"Baltimore's famed ""Meat Rack"" at Mt. Vernon Square","","","Baltimore","MD","(AYOR),Cruisy Area","Cruising Areas",1977,"",-76.616487,39.297451,"Verified Location",NA,NA,NA,"1977-MD-0038"
+"Barracks","(Baths) (Health Club)","1114 Cathedral","Baltimore","MD","(P),(*)","Baths",1978,NA,-76.6183009,39.3020316,"Google Verified Location",NA,NA,NA,"1978-MD-0039"
+"Barracks","(Baths)(Health Club)(Use rear entrance)","1114 Cathedral","Baltimore","MD","(*),(P)","Baths",1979,NA,-76.6183009,39.3020316,"Google Verified Location",NA,NA,NA,"1979-MD-0040"
+"Barracks","(Baths) (Some W-SM)","1114 Cathederal","Baltimore","MD","(W),(SM),(*)","Baths",1977,NA,-76.6183009,39.3020316,"Google Verified Location",NA,NA,NA,"1977-MD-0041"
+"Barracks","(Baths) (Health Club) (Burned, but should b re-opening)","1114 Cathedral","Baltimore","MD","(*),(P)","Baths",1980,NA,-76.6183009,39.3020316,"Google Verified Location",NA,NA,NA,"1980-MD-0042"
+"Barrister Inn","","66 State Circle","Annapolis","MD","(M)","Bars/Clubs",1973,NA,-76.4899714,38.9793178,"Google Verified Location",NA,NA,NA,"1973-MD-0043"
+"Barrister Inn","","66 State Circle","Annapolis","MD","(M)","Bars/Clubs",1974,NA,-76.4899714,38.9793178,"Google Verified Location",NA,NA,NA,"1974-MD-0044"
+"Body Shop","(behind the 'Hippo')","1 Eager St.","Baltimore","MD","(YC),(D),(R),(*)","Restaurant",1974,NA,-76.6155591,39.3008879,"Google Verified Location",NA,NA,NA,"1974-MD-0045"
+"Body Shop","","1 Eager St.","Baltimore","MD","(P),(YC),(D),(*)","Bars/Clubs",1975,NA,-76.6155591,39.3008879,"Google Verified Location",NA,NA,NA,"1975-MD-0046"
+"Bull Ring Lounge","(Cl. Sun.) Colonial Hotel at Antietam","57 S. Potomac","Hagerstown","MD","(YC),(*)","Bars/Clubs,Hotel",1979,NA,-77.721462,39.6409329,"Google Verified Location",NA,NA,NA,"1979-MD-0047"
+"Bull Ring Lounge","(Closed Sundays) Colonial Hotel at Antietam","57 So. Potomac","Hagerstown","MD","(YC),(*)","Bars/Clubs,Hotel",1978,NA,-77.721462,39.6409329,"Google Verified Location",NA,NA,NA,"1978-MD-0048"
+"Bull Ring Lounge","Colonial Hotel at Antietam","57 S. Potomac","Hagerstown","MD","(M),(YC),(*)","Bars/Clubs,Hotel",1977,NA,-77.721462,39.6409329,"Google Verified Location",NA,NA,NA,"1977-MD-0049"
+"Bull Ring Lounge","(Cl. Sun.) Colonial Apts. at Antietam","57 S. Potomac","Hagerstown","MD","","Bars/Clubs",1980,NA,-77.721462,39.6409329,"Google Verified Location",NA,NA,NA,"1980-MD-0050"
+"Cage","","Castle & Monument","Baltimore","MD","","Bars/Clubs",1965,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1965-MD-0051"
+"Cage","","Castle & Monument","Baltimore","MD","(*)","Bars/Clubs",1969,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1969-MD-0052"
+"Cage","","Castle & Monument","Baltimore","MD","(D)","Bars/Clubs",1972,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1972-MD-0053"
+"Cage","","Castle & Monument","Baltimore","MD","(*)","Bars/Clubs",1968,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1968-MD-0054"
+"Cage","","Castle & Monument","Baltimore","MD","(D),(*)","Bars/Clubs",1971,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1971-MD-0055"
+"Cage","","Castle & Monument","Baltimore","MD","(D)","Bars/Clubs",1975,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1975-MD-0056"
+"Cage","","Castle & Monument","Baltimore","MD","(D),(*)","Bars/Clubs",1970,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1970-MD-0057"
+"Cage","","Castle & Monument","Baltimore","MD","(D)","Bars/Clubs",1974,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1974-MD-0058"
+"Cage","","Castle & Monument","Baltimore","MD","(*)","Bars/Clubs",1966,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1966-MD-0059"
+"Cage","","Castle & Monument","Baltimore","MD","(D),(*)","Bars/Clubs",1973,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1973-MD-0060"
+"Cat's Meow Steam Bath","","2206 N. Charles","Baltimore","MD","(M)","Baths",1976,NA,-76.6170776,39.3144569,"Google Verified Location",NA,NA,NA,"1976-MD-0061"
+"Cat's Meow Steam Baths","","666 N. Charles St.","Baltimore","MD","","Baths",1974,NA,-76.6158555,39.2985868,"Google Verified Location",NA,NA,NA,"1974-MD-0062"
+"Cat's Meow Steam Baths ","","2206 N. Charles","Baltimore","MD","","Baths",1975,NA,-76.6170776,39.3144569,"Google Verified Location",NA,NA,NA,"1975-MD-0063"
+"Chease Steam Baths","","Chase & Cathedral","Baltimore","MD","","Baths",1970,"",-76.61799,39.302309,"Verified Location",NA,NA,NA,"1970-MD-0064"
+"Cicero's","","Gay & Forrest","Baltimore","MD","(G),(RT)","Bars/Clubs",1966,"",-76.605109,39.296502,"Verified Location",NA,NA,NA,"1966-MD-0065"
+"Cicero's","","Gay & Forrest","Baltimore","MD","(G),(RT)","Bars/Clubs",1965,"",-76.605109,39.296502,"Verified Location",NA,NA,NA,"1965-MD-0066"
+"Cicerp's","","Gay & Forrest Sts.","Baltimore","MD","(G),(RT)","Bars/Clubs",1968,"",-76.605109,39.296502,"Verified Location",NA,NA,NA,"1968-MD-0067"
+"Cinema Follies Club","(Theatre)","Howard & North Ave.","Baltimore","MD","(P),(PT),(*),(BYOB)","Theatre",1978,"",-76.619301,39.310982,"Verified Location",NA,NA,NA,"1978-MD-0068"
+"Cinema Follies Club","('Flicks')(back room)","137 W. North Ave.","Baltimore","MD","(P),(BYOB)","Theatre",1979,NA,-76.6192057,39.3106725,"Google Verified Location",NA,NA,NA,"1979-MD-0069"
+"Club Bar","(closes 1 A.M., most 2 A.M.)","221 W. Franklin","Baltimore","MD","(*)","Bars/Clubs",1969,NA,-76.6192336,39.2948217,"Google Verified Location",NA,NA,NA,"1969-MD-0070"
+"Club Bar","(closes 1 am)","221 W. Franklin","Baltimore","MD","(D),(*)","Bars/Clubs",1970,NA,-76.6192336,39.2948217,"Google Verified Location",NA,NA,NA,"1970-MD-0071"
+"Club Bar","(closes 1 am)","221 W. Franklin","Baltimore","MD","(D),(*)","Bars/Clubs",1971,NA,-76.6192336,39.2948217,"Google Verified Location",NA,NA,NA,"1971-MD-0072"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(*)","Baths",1976,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1976-MD-0073"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(*)","Baths",1972,"",-76.617758,39.302556,"Verified Location",NA,NA,NA,"1972-MD-0074"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(P),(*)","Baths",1979,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1979-MD-0075"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(P),(*)","Baths",1980,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1980-MD-0076"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(*)","Baths",1970,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1970-MD-0077"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(*)","Baths",1973,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1973-MD-0078"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(*)","Baths",1971,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1971-MD-0079"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(*)","Baths",1974,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1974-MD-0080"
+"Club East Baths","","1105 Cathederal","Baltimore","MD","(*)","Baths",1977,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1977-MD-0081"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(*)","Baths",1975,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1975-MD-0082"
+"Club East Baths","","1105 Cathedral","Baltimore","MD","(P),(*)","Baths",1978,NA,-76.617758,39.302556,"Google Verified Location",NA,NA,NA,"1978-MD-0083"
+"Club Mitchell","","1003 E. Pratt","Baltimore","MD","(P),(G),(D),(*)","Bars/Clubs",1976,NA,-76.6012464,39.2878684,"Google Verified Location",NA,NA,NA,"1976-MD-0084"
+"Club Mitchell","(Also C-AH)","1103 E. Pratt","Baltimore","MD","(*),(L),(R),(D),(PT),(C),(AH)","Bars/Clubs,Restaurant",1980,NA,-76.6005399,39.2883197,"Google Verified Location",NA,NA,NA,"1980-MD-0085"
+"Club Mitchell","","100 E. Pratt","Baltimore","MD","(G),(P),(D)","Bars/Clubs",1971,NA,-76.6128397,39.2871714,"Google Verified Location",NA,NA,NA,"1971-MD-0086"
+"Club Mitchell","","1103 E. Pratt","Baltimore","MD","(P),(G),(D),(*)","Bars/Clubs",1977,NA,-76.6005399,39.2883197,"Google Verified Location",NA,NA,NA,"1977-MD-0087"
+"Club Mitchell","","100 E. Pratt","Baltimore","MD","(D),(P),(G)","Bars/Clubs",1969,NA,-76.6128397,39.2871714,"Google Verified Location",NA,NA,NA,"1969-MD-0088"
+"Club Mitchell","(G only) (also C-AH)","1103 E. Pratt","Baltimore","MD","(P),(G),(D),(PT),(C),(AH),(*)","Bars/Clubs",1978,NA,-76.6005399,39.2883197,"Google Verified Location",NA,NA,NA,"1978-MD-0089"
+"Club Mitchell","","100 E. Pratt","Baltimore","MD","(D),(G),(P)","Bars/Clubs",1970,NA,-76.6128397,39.2871714,"Google Verified Location",NA,NA,NA,"1970-MD-0090"
+"Club Mitchell","","1003 E. Pratt","Baltimore","MD","(P),(G),(D),(*)","Bars/Clubs",1975,NA,-76.6012464,39.2878684,"Google Verified Location",NA,NA,NA,"1975-MD-0091"
+"Club Mitchell","(Also C-AH)","1103 E. Pratt","Baltimore","MD","(G),(R),(*),(D),(PT),(C),(AH)","Bars/Clubs,Restaurant",1979,NA,-76.6005399,39.2883197,"Google Verified Location",NA,NA,NA,"1979-MD-0092"
+"Club Mitchell","","100 E. Pratt","Baltimore","MD","(G),(P),(D)","Bars/Clubs",1972,NA,-76.6128397,39.2871714,"Google Verified Location",NA,NA,NA,"1972-MD-0093"
+"Club Mitchell ","","1000 E. Pratt St.","Baltimore","MD","(G),(P),(D),(*)","Bars/Clubs",1974,NA,-76.601532,39.2879353,"Google Verified Location",NA,NA,NA,"1974-MD-0094"
+"Club Nine Hundred","","900 Monument","Baltimore","MD","(M),(B),(G),(RT),(D)","Bars/Clubs",1975,NA,-76.6055729,39.2980768,"Google Verified Location",NA,NA,NA,"1975-MD-0095"
+"Club Nine Hundred","","900 E. Monument","Baltimore","MD","(*)","Bars/Clubs",1969,NA,-76.6055729,39.2980768,"Google Verified Location",NA,NA,NA,"1969-MD-0096"
+"Club Nine Hundred","","900 E. Monument","Baltimore","MD","(*),(D)","Bars/Clubs",1970,NA,-76.6055729,39.2980768,"Google Verified Location",NA,NA,NA,"1970-MD-0097"
+"Club Nine Hundred","","900 E. Monument","Baltimore","MD","(D),(*)","Bars/Clubs",1971,NA,-76.6055729,39.2980768,"Google Verified Location",NA,NA,NA,"1971-MD-0098"
+"Club Nine- Hundred","","900 Monument ","Baltimore","MD","(M),(B),(G),(RT),(D),(*)","Bars/Clubs",1974,NA,-76.6055729,39.2980768,"Google Verified Location",NA,NA,NA,"1974-MD-0099"
+"Connie's Hideaway Lounge","","2308 Boston St.","Baltimore","MD","(M),(G),(D)","Bars/Clubs",1978,NA,-76.5842286,39.2832008,"Google Verified Location",NA,NA,NA,"1978-MD-0100"
+"Cyrano's","($2.00 admission)","710 N. Howard St.","Baltimore","MD","(YC),(D),(*)","Bars/Clubs",1972,NA,-76.6203544,39.2977892,"Google Verified Location",NA,NA,NA,"1972-MD-0101"
+"Daisy's Anchor Bar","Inquire Locally","","Ocean City","MD","(M),(RT)","Bars/Clubs",1979,"",-75.084906,38.336503,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0102"
+"Daisy's Anchor Bar","Inquire locally","","Ocean City","MD","(M),(RT)","Bars/Clubs",1978,"",-75.084906,38.336503,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0103"
+"Daisy's Anchor Bat","Inquire Locally","","Ocean City","MD","(M),(RT)","Bars/Clubs",1980,"",-75.084906,38.336503,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0104"
+"Diamond Back Room","Lord Baltmore Hotel","","Baltimore","MD","(M),(PE)","Bars/Clubs,Hotel",1965,"",-76.616314,39.289639,"Verified Location",NA,NA,NA,"1965-MD-0105"
+"Downtown Club","","1101 Cathedral","Baltimore","MD","(YC),(HIP),(D),(*)","Bars/Clubs",1972,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1972-MD-0106"
+"Drinkery","","Park & Reid Sts.","Baltimore","MD","(*)","Bars/Clubs",1975,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-MD-0107"
+"Drinkery","","Park & Reid Sts.","Baltimore","MD","","Bars/Clubs",1974,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-MD-0108"
+"Drinkery","(Best days)","Park & Reid Sts.","Baltimore","MD","(M)","Bars/Clubs",1977,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-MD-0109"
+"Drinkery","(Disco)","Park & Reid Sts.","Baltimore","MD","(M),(D)","Bars/Clubs",1980,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0110"
+"Eager St. Saloon","(Adjoins Hippo- opens 4pm) at Charles","1 W. Eager","Baltimore","MD","(YC),(D),(PT),(*)","Bars/Clubs",1980,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1980-MD-0111"
+"Eager St. Saloon","(Adjoins 'Hippo""- opens 4 p.m.) at Charles","1 W. Eager","Baltimore","MD","(YC),(D),(PT),(*)","Bars/Clubs",1978,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1978-MD-0112"
+"Eager St. Saloon","(Adjoins Hippo- opens 4 p.m.) at Charles","1 W. Eager","Baltimore","MD","(YC),(D),(PT),(*)","Bars/Clubs",1979,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1979-MD-0113"
+"Eagle's Cafe","","65 N. Mechanic","Cumberland","MD","(M)","Restaurant",1973,NA,-78.763712,39.6524452,"Google Verified Location",NA,NA,NA,"1973-MD-0114"
+"Eagle's Cafe","","65 N. Mechanic","Cumberland","MD","(M)","Restaurant",1974,NA,-78.763712,39.6524452,"Google Verified Location",NA,NA,NA,"1974-MD-0115"
+"Eagle's Cafe","","65 N. Mechanic","Cumberland","MD","(M)","Restaurant",1975,NA,-78.763712,39.6524452,"Google Verified Location",NA,NA,NA,"1975-MD-0116"
+"Eagles Cafe","","65 N. Mechanic","Cumberland","MD","(M)","Restaurant",1972,NA,-78.763712,39.6524452,"Google Verified Location",NA,NA,NA,"1972-MD-0117"
+"Eddie's","(Water is an alley between Redwood & Lombard)","Water & Light Sts","Baltimore","MD","(*)","Bars/Clubs",1968,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1968-MD-0118"
+"Eddie's","(Water is an alley bet. Redwood & Lombard)","Water & Light","Baltimore","MD","(P),(D),(*)","Bars/Clubs",1973,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1973-MD-0119"
+"Eddie's","(side st entr)","947 W. Baltimore","Baltimore","MD","","Bars/Clubs",1965,NA,-76.6336135,39.2885877,"Google Verified Location",NA,NA,NA,"1965-MD-0120"
+"Eddie's","","Water & Light Sts.","Baltimore","MD","","Bars/Clubs",1966,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1966-MD-0121"
+"Eddie's","(Water is an alley bet. Redwood & Lombard","Water & Light","Baltimore","MD","(P),(D),(*)","Bars/Clubs",1972,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1972-MD-0122"
+"Eddie's","(Water is an alley betw. Redwood & Lombard)","Water & Light","Baltimore","MD","(P),(D)","Bars/Clubs",1974,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1974-MD-0123"
+"Eddie's","(Water is an alley bet. Redwood & Lombard)","Water & Light Sts","Baltimore","MD","(RT),(*)","Bars/Clubs",1969,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1969-MD-0124"
+"Eddie's","(Water is an alley bet. Redwood & Lombard)","","Baltimore","MD","(D),(RT),(*)","Bars/Clubs",1971,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1971-MD-0125"
+"Eddie's","(Water is an alley bet. Redwood & Lombard)","Water & Light","Baltimore","MD","(D),(RT),(*)","Bars/Clubs",1970,"",-76.613666,39.288071,"Verified Location",NA,NA,NA,"1970-MD-0126"
+"Elmer's","","Pratt & Light","Baltimore","MD","(M),(RT),(SM)","Bars/Clubs",1969,"",-76.612124,39.28659,"Verified Location",NA,NA,NA,"1969-MD-0127"
+"Elmer's","","Pratt & Light","Baltimore","MD","(M),(RT),(SM)","Bars/Clubs",1970,"",-76.612124,39.28659,"Verified Location",NA,NA,NA,"1970-MD-0128"
+"Fager's Island","Inquire locally","","Ocean City","MD","(M),(R)","Restaurant",1979,"",-75.070657,38.382978,"Verified Location",NA,NA,NA,"1979-MD-0129"
+"Fager's Island","Inquire Locally","","Ocean City","MD","(M),(R)","Restaurant",1980,"",-75.070657,38.382978,"Verified Location",NA,NA,NA,"1980-MD-0130"
+"Fager's Island","Inquire locally","","Ocean City","MD","(M),(R)","Restaurant",1978,"",-75.070657,38.382978,"Verified Location",NA,NA,NA,"1978-MD-0131"
+"Fay's Mistake","","2218 Boston","Baltimore","MD","(M),(G),(RT)","Bars/Clubs",1974,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1974-MD-0132"
+"Fay's Mistake","","2218 Boston","Baltimore","MD","(M),(G),(RT)","Bars/Clubs",1975,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1975-MD-0133"
+"Fay's Mistake","","2218 Boston","Baltimore","MD","(M),(RT),(G)","Bars/Clubs",1976,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1976-MD-0134"
+"Fay's Mistake","","2218 Boston St.","Baltimore","MD","(G)","Bars/Clubs",1973,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1973-MD-0135"
+"Fayette News Center","","205 W. Fayette","Baltimore","MD","(AYOR)","Business",1978,NA,-76.6182332,39.2903704,"Google Verified Location",NA,NA,NA,"1978-MD-0136"
+"Flamboyan","(The Flam)","Lombard & Eutaw","Baltimore","MD","(G)","Bars/Clubs",1969,"",-76.620811,39.287523,"Verified Location",NA,NA,NA,"1969-MD-0137"
+"Frank & Ron's","(Some G)","Thames Street","Baltimore","MD","(M),(YC),(G)","Bars/Clubs",1977,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-MD-0138"
+"Frank's","","Boston & Aliceanna","Baltimore","MD","","Bars/Clubs",1974,"",-76.585761,39.283861,"Verified Location",NA,NA,NA,"1974-MD-0139"
+"Frankie & Johnnie's","(Some G) ","2218 Boston","Baltimore","MD","(M),(RT),(G)","Bars/Clubs",1977,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1977-MD-0140"
+"Frankie & Ronnie's","(Some G)","2218 Boston St.","Baltimore","MD","(M),(YC),(G),(D)","Bars/Clubs",1978,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1978-MD-0141"
+"Frankie & Ronnie's","(Some L)","2218 Boston St.","Baltimore","MD","(M),(YC),(L),(D)","Bars/Clubs",1980,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1980-MD-0142"
+"Frankie & Ronnie's","(Some G)","2218 Boston St.","Baltimore","MD","(M),(YC),(D),(PT),(G)","Bars/Clubs",1979,NA,-76.5850064,39.283682,"Google Verified Location",NA,NA,NA,"1979-MD-0143"
+"Gallery","","1735 Maryland","Baltimore","MD","(W),(SM),(*)","Bars/Clubs",1975,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1975-MD-0144"
+"Gallery","[also (SM) in back room called 'Shipmates']","1735 Maryland","Baltimore","MD","(W),(*),(SM)","Bars/Clubs",1976,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1976-MD-0145"
+"Gallery","& Shipmates Disco Room","1735 Maryland","Baltimore","MD","(*),(SM),(W),(R)","Restaurant",1979,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1979-MD-0146"
+"Gallery","& Shipmates Disco Room","1735 Maryland","Baltimore","MD","(SM),(*),(W),(R)","Bars/Clubs,Restaurant",1980,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1980-MD-0147"
+"Gallery ","& Shipmate's Disco Room","1735 Maryland","Baltimore","MD","(R),(W),(SM),(*)","Restaurant",1978,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1978-MD-0148"
+"Gallery ","(Some W, SM)","1735 Maryland","Baltimore","MD","(R),(W),(SM),(*)","Bars/Clubs,Restaurant",1977,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1977-MD-0149"
+"Gay Nineties","","41 N. Protomoc St.","Hagerstown","MD","(*)","Bars/Clubs",1975,NA,-77.7197451,39.6431403,"Google Verified Location",NA,NA,NA,"1975-MD-0150"
+"Gay Nineties","","41 N. Protomoc St.","Hagerstown","MD","(*)","Bars/Clubs",1974,NA,-77.7197451,39.6431403,"Google Verified Location",NA,NA,NA,"1974-MD-0151"
+"Gay Nineties ","","41 N. Potomoc St.","Hagerstown","MD","","Bars/Clubs",1973,NA,-77.7197451,39.6431403,"Google Verified Location",NA,NA,NA,"1973-MD-0152"
+"Gold Key Club","5th & Chesapeake","","North Beach","MD","(YC),(D),(S),(*)","Bars/Clubs",1978,"",-76.53278,38.707158,"Verified Location",NA,NA,NA,"1978-MD-0153"
+"Gold Key Club","5th & Chesapeake Streets","","North Beach","MD","(YC),(D),(S),(*)","Bars/Clubs",1977,"",-76.53278,38.707158,"Verified Location",NA,NA,NA,"1977-MD-0154"
+"Gold Key Club","(WE*) 5th & Chesapeake","","North Beach","MD","(YC),(D),(S),(WE),(*)","Bars/Clubs",1979,"",-76.53278,38.707158,"Verified Location",NA,NA,NA,"1979-MD-0155"
+"Golden Key","on the beach","","North Beach","MD","(D),(S),(YC),(*)","Bars/Clubs",1972,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1972-MD-0156"
+"Golden Key","on the beach","","North Beach","MD","(D)","Bars/Clubs",1970,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1970-MD-0157"
+"Golden Key","On the beach","","North Beach","MD","(YC),(D),(S),(*)","Bars/Clubs",1974,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-MD-0158"
+"Golden Key","(on the beach)","","North Beach","MD","(*)","Bars/Clubs",1966,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1966-MD-0159"
+"Golden Key","on the beach","","North Beach","MD","(YC),(D),(S),(*)","Bars/Clubs",1973,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-MD-0160"
+"Golden Key","On the Beach","","North Beach","MD","(D)","Bars/Clubs",1969,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-MD-0161"
+"Golden Key","On the Beach","","North Beach","MD","(YC),(D),(S),(*)","Bars/Clubs",1976,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-MD-0162"
+"Golden Key","On the beach","","North Beach","MD","","Bars/Clubs",1968,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1968-MD-0163"
+"Golden Key","On The Beach","","North Beach","MD","(YC),(D),(S),(*)","Bars/Clubs",1975,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-MD-0164"
+"Golden Key","on the beach","","North Beach","MD","(D),(S),(*)","Bars/Clubs",1971,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1971-MD-0165"
+"Golden King","On the Beach (summers & weekends)","","North Beach","MD","(*)","Bars/Clubs",1965,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1965-MD-0166"
+"Hippo","(Unisex) (Far Out! Don't miss it. Enter thry Body Shop)","Charles and Eager Sts.","Baltimore","MD","(HIP),(YC),(D),(*)","Bars/Clubs",1975,"",-76.61589,39.301007,"Verified Location",NA,NA,NA,"1975-MD-0167"
+"Hippo","(Unisex) ($3 min. at front door, or enter free from 'Body Shop'. Far out! Don't miss it!)","Charles & Eager Sts.","Baltimore","MD","(M),(HIP),(YC),(D),(R),(*)","Restaurant,Bars/Clubs",1974,"",-76.61589,39.301007,"Verified Location",NA,NA,NA,"1974-MD-0168"
+"Hippopotamus","(Unisex)(Disco) at Charles","1 W. Eager","Baltimore","MD","(*),(M),(HIP),(YC),(D),(PT)","Bars/Clubs",1978,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1978-MD-0169"
+"Hippopotamus","(Unisex)(Disco) (Wednesday night is B) at Charles","1 West Eager","Baltimore","MD","(M),(HIP),(YC),(D),(PT),(B)","Bars/Clubs",1977,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1977-MD-0170"
+"Hippopotamus","(Unisex)(Disco) at Charles ","1 W. Eager ","Baltimore","MD","(*),(HIP),(YC),(D),(PT)","Bars/Clubs",1979,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1979-MD-0171"
+"Hippopotamus","(Disco) (Unisex)at Charles","1 W. Eager","Baltimore","MD","(*),(HIP),(YC),(D),(PT)","Bars/Clubs",1980,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1980-MD-0172"
+"Hippoptamus","(Unisex)(Disco) at Charles","1 W. Eager","Baltimore","MD","(M),(HIP),(YC),(D),(B),(*)","Bars/Clubs",1976,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1976-MD-0173"
+"Horse You Came In ON","","1626 Thames","Baltimore","MD","(M),(YC),(D),(R)","Restaurant",1976,NA,-76.5941298,39.2815385,"Google Verified Location",NA,NA,NA,"1976-MD-0174"
+"Horse You Came In On","","1626 Thames","Baltimore","MD","(HIP),(YC),(D),(R)","Restaurant",1974,NA,-76.5941298,39.2815385,"Google Verified Location",NA,NA,NA,"1974-MD-0175"
+"Horse You Came In On","","1626 Thames","Baltimore","MD","(HIP),(YC),(D),(R)","Restaurant",1975,NA,-76.5941298,39.2815385,"Google Verified Location",NA,NA,NA,"1975-MD-0176"
+"Horse you Came In On","","1626 Thames Street","Baltimore","MD","(M),(YC),(D),(R)","Bars/Clubs,Restaurant",1977,NA,-76.5941298,39.2815385,"Google Verified Location",NA,NA,NA,"1977-MD-0177"
+"Howard Bar","","715 Howard St.","Baltimore","MD","(B),(M),(RT)","Bars/Clubs",1975,NA,-76.6197451,39.2982162,"Google Verified Location",NA,NA,NA,"1975-MD-0178"
+"Howard Bar","","715 Howard St.","Baltimore","MD","(B),(M),(RT)","Bars/Clubs",1974,NA,-76.6197451,39.2982162,"Google Verified Location",NA,NA,NA,"1974-MD-0179"
+"Howard Bar","","715 Howard St.","Baltimore","MD","(B),(RT)","Bars/Clubs",1976,NA,-76.6197451,39.2982162,"Google Verified Location",NA,NA,NA,"1976-MD-0180"
+"Howard St. Book Store","","700 Howard St.","Baltimore","MD","","Book Store",1974,NA,-76.6202767,39.2974671,"Google Verified Location",NA,NA,NA,"1974-MD-0181"
+"Jack's La Sauna","(baths- massage) Marylander Apts.- lower level arcade","3501 St. Paul","Baltimore","MD","","Baths",1976,NA,-76.6157291,39.3304334,"Google Verified Location",NA,NA,NA,"1976-MD-0182"
+"Jack's La Sauna Health Spa","(Sauna & massage) 267-6565","","Baltimore","MD","","Baths",1979,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0183"
+"Jack's La Sauna Health Spa","Sauna & massage- 467-6565","","Baltimore","MD","","Baths",1978,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0184"
+"Jack's La Sauna Health Spa","(Sauna & Massage) 467-6565","","Baltimore","MD","","Baths",1980,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0185"
+"Jay Bee's Saloon","(E. Baltimore)","2204 Fleet St.","Baltimore","MD","(RT)","Bars/Clubs",1978,NA,-76.5855388,39.2850652,"Google Verified Location",NA,NA,NA,"1978-MD-0186"
+"Key Hole","","Monument & Castle","Baltimore","MD","","Bars/Clubs",1977,"",-76.588694,39.298601,"Verified Location",NA,NA,NA,"1977-MD-0187"
+"Laura's","","502 N. Howard St.","Baltimore","MD","(D)","Bars/Clubs",1979,NA,-76.6200392,39.2951166,"Google Verified Location",NA,NA,NA,"1979-MD-0188"
+"Ledbetter's","","Broadway and Thames","Baltimore","MD","(HIP),(M),(YC)","Bars/Clubs",1975,"",-76.592877,39.281831,"Verified Location",NA,NA,NA,"1975-MD-0189"
+"Ledbetter's","","Broadway & Thames","Baltimore","MD","(HIP),(M),(YC)","Bars/Clubs",1974,"",-76.592877,39.281831,"Verified Location",NA,NA,NA,"1974-MD-0190"
+"Ledbetter's","","Broadway & Thames","Baltimore","MD","(HIP),(M),(YC)","Bars/Clubs",1976,"",-76.592877,39.281831,"Verified Location",NA,NA,NA,"1976-MD-0191"
+"Ledbetter's","","Broadway & Thames","Baltimore","MD","(M),(HIP),(YC)","Bars/Clubs",1973,"",-76.592877,39.281831,"Verified Location",NA,NA,NA,"1973-MD-0192"
+"Ledbetter's","","Broadway & Thames","Baltimore","MD","(HIP),(M),(YC)","Bars/Clubs",1977,"",-76.592877,39.281831,"Verified Location",NA,NA,NA,"1977-MD-0193"
+"Lena's","","Franklin & Paca","Baltimore","MD","(B)","Bars/Clubs",1972,"",-76.62264,39.294836,"Verified Location",NA,NA,NA,"1972-MD-0194"
+"Lena's","","Franklin & Paca","Baltimore","MD","","Bars/Clubs",1971,"",-76.62264,39.294836,"Verified Location",NA,NA,NA,"1971-MD-0195"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1972,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1972-MD-0196"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1976,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1976-MD-0197"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1970,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1970-MD-0198"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1971,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1971-MD-0199"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1975,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1975-MD-0200"
+"Leon's","","870 Park Avenue","Baltimore","MD","(*)","Bars/Clubs",1977,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1977-MD-0201"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1974,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1974-MD-0202"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1980,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1980-MD-0203"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1979,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1979-MD-0204"
+"Leon's","(Some OC)","870 Park Ave.","Baltimore","MD","(OC),(*)","Bars/Clubs",1978,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1978-MD-0205"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1966,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1966-MD-0206"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1968,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1968-MD-0207"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1969,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1969-MD-0208"
+"Leon's","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1965,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1965-MD-0209"
+"Leon's ","","870 Park Ave.","Baltimore","MD","(*)","Bars/Clubs",1973,NA,-76.6189891,39.3015442,"Google Verified Location",NA,NA,NA,"1973-MD-0210"
+"Lights, Camera, Action","(""Drags"")","1700 block on S. Charles","Baltimore","MD","(S),(RT)","Bars/Clubs",1977,"",-76.613937,39.270319,"Verified Location",NA,NA,NA,"1977-MD-0211"
+"Lights, Camera, Action","(Disco) ('Drags')","1642 Light St.","Baltimore","MD","(D),(S),(RT)","Bars/Clubs",1978,NA,-76.6117352,39.2707219,"Google Verified Location",NA,NA,NA,"1978-MD-0212"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1973,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1973-MD-0213"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1970,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1970-MD-0214"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1965,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1965-MD-0215"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1968,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1968-MD-0216"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1977,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1977-MD-0217"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1978,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1978-MD-0218"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1976,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1976-MD-0219"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1969,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1969-MD-0220"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1966,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1966-MD-0221"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1979,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1979-MD-0222"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1980,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1980-MD-0223"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1972,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1972-MD-0224"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1971,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1971-MD-0225"
+"Little Campus","","63 Maryland","Annapolis","MD","(M)","Bars/Clubs",1974,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1974-MD-0226"
+"Little Campus","","63 Maryland ","Annapolis","MD","(M)","Bars/Clubs",1975,NA,-76.4897218,38.9796937,"Google Verified Location",NA,NA,NA,"1975-MD-0227"
+"Lord Baltimore Hotel Discoteque Room","Lord Baltimore Hotel","","Baltimore","MD","(M),(PE)","Bars/Clubs,Hotel",1966,"",-76.616314,39.289639,"Verified Location",NA,NA,NA,"1966-MD-0228"
+"Lynn's","","774 Washington","Baltimore","MD","","Bars/Clubs",1980,NA,-76.6121893,39.2903848,"Google Verified Location",NA,NA,NA,"1980-MD-0229"
+"M.C.C.","","2233 St. Paul St.","Baltimore","MD","(MCC)","Church",1980,NA,-76.6149136,39.3152395,"Google Verified Location",NA,NA,NA,"1980-MD-0230"
+"M.C.C.","","2233 St. Paul St.","Baltimore","MD","(MCC)","Church",1979,NA,-76.6149136,39.3152395,"Google Verified Location",NA,NA,NA,"1979-MD-0231"
+"M.C.C.","","2233 St. Paul St.","Baltimore","MD","(MCC)","Church",1978,NA,-76.6149136,39.3152395,"Google Verified Location",NA,NA,NA,"1978-MD-0232"
+"Marmaduke's","7th Ave. & 3rd St.","","Freeport","MD","(M)","Bars/Clubs",1978,"City designation likely a typo for ""Eastport""",-76.481318,38.972222,"Verified Location",NA,NA,NA,"1978-MD-0233"
+"Marmaduke's","7th Ave. & 3rd St.","","Freeport","MD","(M)","Bars/Clubs",1979,"City designation likely a typo for ""Eastport""",-76.481318,38.972222,"Verified Location",NA,NA,NA,"1979-MD-0234"
+"Marmaduke's","7th Avenue & 3rd Street","","Eastport","MD","(M)","Bars/Clubs",1977,"",-76.481499,38.972208,"Verified Location",NA,NA,NA,"1977-MD-0235"
+"Marmaduke's","7th Ave. & 3rd St.","","Freeport","MD","(M)","Bars/Clubs",1980,"City designation likely a typo for ""Eastport""",-76.481318,38.972222,"Verified Location",NA,NA,NA,"1980-MD-0236"
+"Marmaduke's","7th Ave. & 3rd St.","","Eastport","MD","(M)","Bars/Clubs",1976,"",-76.481499,38.972208,"Verified Location",NA,NA,NA,"1976-MD-0237"
+"Marmaduke's","7th Ave. & 3rd St.","","Eastport","MD","(M)","Bars/Clubs",1975,"",-76.481499,38.972208,"Verified Location",NA,NA,NA,"1975-MD-0238"
+"Martick's","","Tyson & Mulberry","Baltimore","MD","(M)","Bars/Clubs",1965,"",-76.619027,39.29497,"Verified Location",NA,NA,NA,"1965-MD-0239"
+"Martick's","(arty)","Tyson & Mulberry","Baltimore","MD","(M)","Bars/Clubs",1968,"",-76.619027,39.29497,"Verified Location",NA,NA,NA,"1968-MD-0240"
+"Martick's","(artsy)","Tyson & Mulberry","Baltimore","MD","(M)","Bars/Clubs",1966,"",-76.619027,39.29497,"Verified Location",NA,NA,NA,"1966-MD-0241"
+"Mary's","","1101 Cathedral","Baltimore","MD","(YC),(D),(*)","Bars/Clubs",1973,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1973-MD-0242"
+"Mary's","(Downtown Club)","1101 Cathedral","Baltimore","MD","(YC),(D),(*)","Bars/Clubs",1974,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1974-MD-0243"
+"Mary's Club","(Some YC, B) (Disco)","1101 Cathedral","Baltimore","MD","(*),(YC),(B),(D)","Bars/Clubs",1979,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1979-MD-0244"
+"Mary's Club","(Disco)","1101 Cathedral","Baltimore","MD","(*),(YC),(D)","Bars/Clubs",1980,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1980-MD-0245"
+"Mary's Club","(Disco)","1101 Cathedral","Baltimore","MD","(HIP),(YC),(D),(*)","Bars/Clubs",1977,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1977-MD-0246"
+"Mary's Club","(Disco)","1101 Cathedral","Baltimore","MD","(YC),(D),(*)","Bars/Clubs",1978,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1978-MD-0247"
+"Mary's Downtown Club","(Some G) (DIsco)","1101 Cathedral","Baltimore","MD","(HIP),(YC),(G),(B),(D),(*)","Bars/Clubs",1976,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1976-MD-0248"
+"Mary's Downtown Club","(Weekends*)","1101 Cathedral","Baltimore","MD","(YC),(D),(*)","Bars/Clubs",1975,NA,-76.6178248,39.302445,"Google Verified Location",NA,NA,NA,"1975-MD-0249"
+"Maryland Bar","","1417 Maryland Ave.","Baltimore","MD","(YC)","Bars/Clubs",1972,NA,-76.6175848,39.3060114,"Google Verified Location",NA,NA,NA,"1972-MD-0250"
+"Maryland Bar","","1417 Maryland Ave.","Baltimore","MD","(YC)","Bars/Clubs",1971,NA,-76.6175848,39.3060114,"Google Verified Location",NA,NA,NA,"1971-MD-0251"
+"Maryland Bar","","1417 Maryland Ave.","Baltimore","MD","(M),(YC)","Bars/Clubs",1973,NA,-76.6175848,39.3060114,"Google Verified Location",NA,NA,NA,"1973-MD-0252"
+"Maryland Bar","1400 blk Maryland Ave.","","Baltimore","MD","(YC),(*)","Bars/Clubs",1970,"",-76.617542,39.305375,"Verified Location",NA,NA,NA,"1970-MD-0253"
+"Maryland Inn","Church Circle and Maine","","Annapolis","MD","(M),(HIP),(YC)","Bars/Clubs",1975,"",-76.492334,38.978339,"Verified Location",NA,NA,NA,"1975-MD-0254"
+"Maryland Inn","Church Circle & Main","","Annapolis","MD","(M),(R),(HIP),(YC)","Bars/Clubs,Restaurant",1980,"",-76.492334,38.978339,"Verified Location",NA,NA,NA,"1980-MD-0255"
+"Maryland Inn","Church Circle & Main","","Annapolis","MD","(M),(R),(HIP),(YC)","Restaurant",1979,"",-76.492334,38.978339,"Verified Location",NA,NA,NA,"1979-MD-0256"
+"Maryland Inn","Church Circle & Main","","Annapolis","MD","(M),(HIP),(YC)","Bars/Clubs",1974,"",-76.492334,38.978339,"Verified Location",NA,NA,NA,"1974-MD-0257"
+"Maryland Inn","Chirch Circle & Main","","Annapolis","MD","(R),(M),(HIP),(YC)","Restaurant",1977,"",-76.492334,38.978339,"Verified Location",NA,NA,NA,"1977-MD-0258"
+"Maryland Inn","Church Circle & Main","","Annapolis","MD","(M),(R),(HIP),(YC)","Restaurant",1978,"",-76.492334,38.978339,"Verified Location",NA,NA,NA,"1978-MD-0259"
+"Maryland Inn","Church Circle and Main","","Annapolis","MD","(R),(M),(HIP),(YC)","Bars/Clubs,Restaurant",1976,"",-76.492334,38.978339,"Verified Location",NA,NA,NA,"1976-MD-0260"
+"Masquerade","","2308 Boston St. ","Baltimore","MD","(L),(PT),(D)","Bars/Clubs",1980,NA,-76.5842286,39.2832008,"Google Verified Location",NA,NA,NA,"1980-MD-0261"
+"Mt. Vernon Sq.","'Meat Rack'","","Baltimore","MD","Cruisy Area,(AYOR)","Cruising Areas",1978,"",-76.613833,39.299319,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0262"
+"Mt. Vernon Square","'Meat Rack'","","Baltimore","MD","(AYOR),Cruisy Area","Cruising Areas",1979,"",-76.613833,39.299319,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0263"
+"Mt. Vernon Square","'Meat Rack'","","Baltimore","MD","Cruisy Area,(AYOR)","Cruising Areas",1980,"",-76.613833,39.299319,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0264"
+"Nellie's","(Sign says Nelson Baker's)","Maryland & Lafayette","Baltimore","MD","","Bars/Clubs",1968,"",-76.617832,39.309747,"Verified Location",NA,NA,NA,"1968-MD-0265"
+"Nellie's","","Maryland & LaFayette","Baltimore","MD","","Bars/Clubs",1969,"",-76.617832,39.309747,"Verified Location",NA,NA,NA,"1969-MD-0266"
+"Nite Owl","(after hours)","710 N. Howard St.","Baltimore","MD","(YC),(D),(C),(R),(*)","Restaurant",1973,NA,-76.6203544,39.2977892,"Google Verified Location",NA,NA,NA,"1973-MD-0267"
+"O'Henry's","Inquire Locally","","Baltimore","MD","(M),(HIP),(YC)","Bars/Clubs",1974,"",-76.62162,39.343026,"Verified Location",NA,NA,NA,"1974-MD-0268"
+"O'Henry's","","Center, bet. Charles & St. Paul","Baltimore","MD","(M),(HIP),(YC)","Bars/Clubs",1975,"",-76.62162,39.343026,"Verified Location",NA,NA,NA,"1975-MD-0269"
+"One West","(also called ""The Body Shop""- adjoins ""The HIppo) at Charles","1 W. Eager","Baltimore","MD","(YC),(D),(PT),(*)","Bars/Clubs",1977,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1977-MD-0270"
+"One West","at Charles (Adjoins the 'Hippo')","1 W. Eager","Baltimore","MD","(YC),(D),(*)","Bars/Clubs",1976,NA,-76.6163574,39.3008418,"Google Verified Location",NA,NA,NA,"1976-MD-0271"
+"Open House","","29th & Howard","Baltimore","MD","(M),(R),(C),(AH)","Restaurant",1976,"",-76.620074,39.323093,"Verified Location",NA,NA,NA,"1976-MD-0272"
+"Open House","","29th & Howard","Baltimore","MD","(M),(AYOR),(C),(AH)","Restaurant",1977,"",-76.620074,39.323093,"Verified Location",NA,NA,NA,"1977-MD-0273"
+"Open House","","29th & Howard","Baltimore","MD","(M),(R),(C),(AH)","Bars/Clubs,Restaurant",1980,"",-76.620074,39.323093,"Verified Location",NA,NA,NA,"1980-MD-0274"
+"Open House","","29th & Howard","Baltimore","MD","(M),(R),(C),(AH)","Restaurant",1978,"",-76.620074,39.323093,"Verified Location",NA,NA,NA,"1978-MD-0275"
+"Open House","","29th & Howard","Baltimore","MD","(M),(R),(C),(AH)","Restaurant",1979,"",-76.620074,39.323093,"Verified Location",NA,NA,NA,"1979-MD-0276"
+"Open House","","29th & Howard","Baltimore","MD","(M),(R),(C),(AH)","Restaurant",1975,"",-76.620074,39.323093,"Verified Location",NA,NA,NA,"1975-MD-0277"
+"Owl's Nest","(after hours)","105 E. Madison","Baltimore","MD","(C),(R)","Restaurant",1974,NA,-76.6135256,39.2986747,"Google Verified Location",NA,NA,NA,"1974-MD-0278"
+"Paca House","","Paca near Saratoga","Baltimore","MD","(B)","Bars/Clubs",1972,"",-76.622497,39.292775,"Verified Location",NA,NA,NA,"1972-MD-0279"
+"Paca House","","Paca near Saratoga","Baltimore","MD","(B)","Bars/Clubs",1973,"",-76.622497,39.292775,"Verified Location",NA,NA,NA,"1973-MD-0280"
+"Park Ave.","","N. of Monument Square","Baltimore","MD","Cruisy Area","Cruising Areas",1980,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0281"
+"Park Ave.","","N. of Monument St.","Baltimore","MD","Cruisy Area","Cruising Areas",1973,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-MD-0282"
+"Park Ave.","","N. of Monument Square","Baltimore","MD","Cruisy Area","Cruising Areas",1976,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-MD-0283"
+"Park Ave.","","N. of Monument St.","Baltimore","MD","Cruisy Area","Cruising Areas",1975,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-MD-0284"
+"Park Ave.","","N. of Monument Square","Baltimore","MD","Cruisy Area","Cruising Areas",1979,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0285"
+"Park Ave.","","N. of Monument St.","Baltimore","MD","Cruisy Area","Cruising Areas",1974,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-MD-0286"
+"Park Ave.","","N. of Monument Square","Baltimore","MD","Cruisy Area","Cruising Areas",1978,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0287"
+"Park Avenue","","North of Monument Square","Baltimore","MD","(AYOR),Cruisy Area","Cruising Areas",1977,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-MD-0288"
+"Parker's","(6 a.m. to 2 a.m.)","704 No. Howard","Baltimore","MD","(B)","Bars/Clubs",1978,NA,-76.6201738,39.2976088,"Google Verified Location",NA,NA,NA,"1978-MD-0289"
+"Parker's","('Hustlers')","704 N Howard","Baltimore","MD","(B),(RT)","Bars/Clubs",1980,NA,-76.6201738,39.2976088,"Google Verified Location",NA,NA,NA,"1980-MD-0290"
+"Parker's ","('Hustlers')","704 N. Howard","Baltimore","MD","(B),(RT)","Bars/Clubs",1979,NA,-76.6201738,39.2976088,"Google Verified Location",NA,NA,NA,"1979-MD-0291"
+"Patterson Park","at Eastern Ave.","at Eastern Ave.","Baltimore","MD","(RT),Cruisy Area","Cruising Areas",1980,"",-76.579999,39.286191,"Verified Location",NA,NA,NA,"1980-MD-0292"
+"Patterson Park","(HOT)","at Eastern Ave.","Baltimore","MD","Cruisy Area,(RT),(HOT)","Cruising Areas",1977,"",-76.579999,39.286191,"Verified Location",NA,NA,NA,"1977-MD-0293"
+"Patterson Park","at Eastern Ave.","at Eastern Ave.","Baltimore","MD","Cruisy Area","Cruising Areas",1975,"",-76.579999,39.286191,"Verified Location",NA,NA,NA,"1975-MD-0294"
+"Patterson Park","(HOT)","at Eastern Ave.","Baltimore","MD","Cruisy Area,(RT),(HOT)","Cruising Areas",1976,"",-76.579999,39.286191,"Verified Location",NA,NA,NA,"1976-MD-0295"
+"Patterson Park","(HOT)","at Eastern Ave.","Baltimore","MD","Cruisy Area,(RT),(HOT)","Cruising Areas",1979,"",-76.579999,39.286191,"Verified Location",NA,NA,NA,"1979-MD-0296"
+"Patterson Park","(HOT)","at Eastern Ave.","Baltimore","MD","Cruisy Area,(RT),(HOT)","Cruising Areas",1978,"",-76.579999,39.286191,"Verified Location",NA,NA,NA,"1978-MD-0297"
+"Peabody Book Store","(This is a bar)","921 Charles Street","Baltimore","MD","(M),(HIP),(YC)","Bars/Clubs",1977,NA,-76.6142727,39.2784225,"Google Verified Location",NA,NA,NA,"1977-MD-0298"
+"Peabody Book Store","(bar)","921 Charles St.","Baltimore","MD","(M),(HIP),(YC)","Bars/Clubs",1975,NA,-76.6158047,39.299935,"Google Verified Location",NA,NA,NA,"1975-MD-0299"
+"Peabody Book Store","(a bar)","921 Charles St.","Baltimore","MD","(M),(HIP),(YC)","Bars/Clubs",1976,NA,-76.6158047,39.299935,"Google Verified Location",NA,NA,NA,"1976-MD-0300"
+"Pepper HIll","","217 N. Gay ","Baltimore","MD","(*)","Bars/Clubs",1965,NA,-76.608732,39.2924611,"Google Verified Location",NA,NA,NA,"1965-MD-0301"
+"Pepper Hill","","213 N. Gay St.","Baltimore","MD","(*)","Bars/Clubs",1966,NA,-76.6087794,39.292388,"Google Verified Location",NA,NA,NA,"1966-MD-0302"
+"Pepper Hill","","213 N. Gat St.","Baltimore","MD","(G),(D),(*)","Bars/Clubs",1969,NA,-76.6087794,39.292388,"Google Verified Location",NA,NA,NA,"1969-MD-0303"
+"Pepper Hill","","213 N. Gay St.","Baltimore","MD","(*)","Bars/Clubs",1968,NA,-76.6087794,39.292388,"Google Verified Location",NA,NA,NA,"1968-MD-0304"
+"Port of Annapolis Bar","","186 Main St.","Annapolis","MD","","Bars/Clubs",1974,NA,-76.490422,38.978155,"Google Verified Location",NA,NA,NA,"1974-MD-0305"
+"Port of Annapolis Bar","","186 Main St.","Annapolis","MD","(M)","Bars/Clubs",1973,NA,-76.490422,38.978155,"Google Verified Location",NA,NA,NA,"1973-MD-0306"
+"Port of Annapolis Pub","","186 Main St.","Annapolis","MD","(M)","Bars/Clubs",1977,NA,-76.490422,38.978155,"Google Verified Location",NA,NA,NA,"1977-MD-0307"
+"Port of Annapolis Pub","","186 Main St.","Annapolis","MD","(M)","Bars/Clubs",1975,NA,-76.490422,38.978155,"Google Verified Location",NA,NA,NA,"1975-MD-0308"
+"Port of Annapolis Pub","","186 Main St.","Annapolis","MD","(M)","Bars/Clubs",1976,NA,-76.490422,38.978155,"Google Verified Location",NA,NA,NA,"1976-MD-0309"
+"Private Affair","","2001 Eastern","Baltimore","MD","","Bars/Clubs",1980,NA,-76.5886125,39.2856009,"Google Verified Location",NA,NA,NA,"1980-MD-0310"
+"Red Coach","","211 King St.","Annapolis","MD","(M)","Bars/Clubs",1966,NA,-76.487435,38.980395,"Google Verified Location",NA,NA,NA,"1966-MD-0311"
+"Red Coach","","211 George St.","Annapolis","MD","(M)","Bars/Clubs",1969,NA,-76.4889538,38.9798836,"Google Verified Location",NA,NA,NA,"1969-MD-0312"
+"Red Coach","","211 King George","Annapolis","MD","(M)","Bars/Clubs",1965,NA,-76.487435,38.980395,"Google Verified Location",NA,NA,NA,"1965-MD-0313"
+"Red Coach","","211 King St.","Annapolis","MD","(M)","Bars/Clubs",1968,NA,-76.487435,38.980395,"Google Verified Location",NA,NA,NA,"1968-MD-0314"
+"Red Coach","","211 George St.","Annapolis","MD","(M)","Bars/Clubs",1970,NA,-76.4889538,38.9798836,"Google Verified Location",NA,NA,NA,"1970-MD-0315"
+"Red Coach","","211 George St.","Annapolis","MD","(M)","Bars/Clubs",1972,NA,-76.4889538,38.9798836,"Google Verified Location",NA,NA,NA,"1972-MD-0316"
+"Red Coach","","211 George St.","Annapolis","MD","(M)","Bars/Clubs",1971,NA,-76.4889538,38.9798836,"Google Verified Location",NA,NA,NA,"1971-MD-0317"
+"Regency of Baltimore Baths","","17 E. Franklin St.","Baltimore","MD","(P)","Baths",1972,NA,-76.614442,39.2949086,"Google Verified Location",NA,NA,NA,"1972-MD-0318"
+"Rest Stop & woods behind (Known locally as 'Ruth Ann's) I-95 Northbound","","","Burtonsville","MD","Cruisy Area","Cruising Areas",1980,"",-76.932475,39.111219,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0319"
+"Rest Stop & woods behind (Known locally as 'Ruth Ann's) I-95 Northbound","","","Burtonsville","MD","Cruisy Area","Cruising Areas",1979,"",-76.932475,39.111219,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0320"
+"Rest Stop & Woods behind I-95 Northbound","","","Burtonsville","MD","Cruisy Area","Cruising Areas",1978,"",-76.932475,39.111219,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0321"
+"Roosevelt Hotel Bar","(may be closing)","312 W. Camden","Baltimore","MD","(G),(*)","Bars/Clubs,Hotel",1973,NA,-76.6193743,39.2852721,"Google Verified Location",NA,NA,NA,"1973-MD-0322"
+"Roosevelt Hotel Bar","On the Boardwalk","","Ocean City","MD","(M)","Bars/Clubs,Hotel",1975,"Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/",-75.084868,38.331962,"Verified Location",NA,NA,NA,"1975-MD-0323"
+"Roosevelt Hotel Bar","On the Boardwalk","","Ocean City","MD","(M)","Bars/Clubs,Hotel",1976,"Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/",-75.084868,38.331962,"Verified Location",NA,NA,NA,"1976-MD-0324"
+"Roosevelt Hotel Bar","","312 W. Camden","Baltimore","MD","(M),(G),(RT)","Bars/Clubs,Hotel",1968,NA,-76.6193743,39.2852721,"Google Verified Location",NA,NA,NA,"1968-MD-0325"
+"Roosevelt Hotel Bar","on the Boardwalk","","Ocean City","MD","(M)","Bars/Clubs,Hotel",1973,"Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/",-75.084868,38.331962,"Verified Location",NA,NA,NA,"1973-MD-0326"
+"Roosevelt Hotel Bar","on the Boardwalk","","Ocean City","MD","(M)","Hotel,Bars/Clubs",1972,"Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/",-75.084868,38.331962,"Verified Location",NA,NA,NA,"1972-MD-0327"
+"Roosevelt Hotel Bar","","312 W. Camden","Baltimore","MD","(G),(*)","Bars/Clubs,Hotel",1972,NA,-76.6193743,39.2852721,"Google Verified Location",NA,NA,NA,"1972-MD-0328"
+"Roosevelt Hotel Bar","","312 W. Camden","Baltimore","MD","(M),(RT),(G)","Bars/Clubs,Hotel",1966,NA,-76.6193743,39.2852721,"Google Verified Location",NA,NA,NA,"1966-MD-0329"
+"Roosevelt Hotel Bar","","312 W. Camden","Baltimore","MD","(G),(M),(RT)","Bars/Clubs,Hotel",1969,NA,-76.6193743,39.2852721,"Google Verified Location",NA,NA,NA,"1969-MD-0330"
+"Roosevelt Hotel Bar","On the boardwalk","","Ocean City","MD","(M)","Bars/Clubs,Hotel",1974,"Caught fire during renovations in March 1970. See https://ocrideau.com/ocean-city-md-hotel-about-us/",-75.084868,38.331962,"Verified Location",NA,NA,NA,"1974-MD-0331"
+"Rose's","on the beach","","North Beach","MD","(D)","Bars/Clubs",1972,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1972-MD-0332"
+"Rose's","On the Beach","","North Beach","MD","(D),(S),(*)","Bars/Clubs",1969,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-MD-0333"
+"Rose's","on the beach","","North Beach","MD","(D),(S),(*)","Bars/Clubs",1970,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1970-MD-0334"
+"Rose's","on the beach","","North Beach","MD","(D),(S)","Bars/Clubs",1971,"",-76.531067,38.707341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1971-MD-0335"
+"Sadie's","","Broadway & Bond","Baltimore","MD","(G)","Bars/Clubs",1974,"",-76.594526,39.28552,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-MD-0336"
+"Sadie's","","Broadway and Bond","Baltimore","MD","(G)","Bars/Clubs",1975,"",-76.594526,39.28552,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-MD-0337"
+"Sanitary European Steam Baths","","1425 E. Baltimore","Baltimore","MD","","Baths",1971,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1971-MD-0338"
+"Sanitary European Steam Baths","","1425 E. Baltimore","Baltimore","MD","","Baths",1969,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1969-MD-0339"
+"Sanitary European Steam Baths","","1425  E. Baltimore","Baltimore","MD","","Baths",1970,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1970-MD-0340"
+"Sanitary European Turkish Baths","","1425 E. Baltimore","Baltimore","MD","","Baths",1975,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1975-MD-0341"
+"Sanitary European Turkish Baths","","1425 E. Baltimore","Baltimore","MD","(RT)","Baths",1976,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1976-MD-0342"
+"Sanitary European Turkish Baths","","1425 E. Baltimore","Baltimore","MD","(OC),(RT)","Baths",1977,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1977-MD-0343"
+"Sanitary European Turkish Baths","","1425 E. Baltimore","Baltimore","MD","","Baths",1974,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1974-MD-0344"
+"Sappho's","(Disco)","100 Albemarle","Baltimore","MD","(G),(D)","Bars/Clubs",1979,NA,-76.6039212,39.2884704,"Google Verified Location",NA,NA,NA,"1979-MD-0345"
+"Sappho's","(Disco- WE)","100 Albemarle","Baltimore","MD","(G),(D),(WE),(*)","Bars/Clubs",1978,NA,-76.6039212,39.2884704,"Google Verified Location",NA,NA,NA,"1978-MD-0346"
+"Satelite","(Many G)","1901 Aliceanna","Baltimore","MD","(G),(D),(*)","Bars/Clubs",1977,NA,-76.5897871,39.2835112,"Google Verified Location",NA,NA,NA,"1977-MD-0347"
+"Satelite","","1901 Aliceanna","Baltimore","MD","(G)","Bars/Clubs",1972,NA,-76.5897871,39.2835112,"Google Verified Location",NA,NA,NA,"1972-MD-0348"
+"Satelite","","1901 Aliceanna","Baltimore","MD","(G)","Bars/Clubs",1973,NA,-76.5897871,39.2835112,"Google Verified Location",NA,NA,NA,"1973-MD-0349"
+"Satelite","","1901 Aliceanna","Baltimore","MD","","Bars/Clubs",1971,NA,-76.5897871,39.2835112,"Google Verified Location",NA,NA,NA,"1971-MD-0350"
+"Satelite","","1901 Aliceanna","Baltimore","MD","(G),(D),(*)","Bars/Clubs",1975,NA,-76.5897871,39.2835112,"Google Verified Location",NA,NA,NA,"1975-MD-0351"
+"Satelite","","","Baltimore","MD","(G)","Bars/Clubs",1969,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-MD-0352"
+"Satelite","","1901 Aliceanna","Baltimore","MD","(G),(D),(*)","Bars/Clubs",1976,NA,-76.5897871,39.2835112,"Google Verified Location",NA,NA,NA,"1976-MD-0353"
+"Satelite","","1901 Aliceanna","Baltimore","MD","(G),(D),(*)","Bars/Clubs",1974,NA,-76.5897871,39.2835112,"Google Verified Location",NA,NA,NA,"1974-MD-0354"
+"Senator","","612 N. Howard St.","Baltimore","MD","(RT),(*)","Bars/Clubs",1975,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1975-MD-0355"
+"Senator","(back room- side entrance)","612 N. Howard","Baltimore","MD","","Bars/Clubs",1971,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1971-MD-0356"
+"Senator","(Best on Sunday afternoons)","612 North Howard Street","Baltimore","MD","(RT),(*)","Bars/Clubs",1977,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1977-MD-0357"
+"Senator","(back room- use side entrance)","612 N. Howard","Baltimore","MD","","Bars/Clubs",1968,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1968-MD-0358"
+"Senator","(Best Sunday afternoons)","612 N. Howard St.","Baltimore","MD","(RT),(*)","Bars/Clubs",1976,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1976-MD-0359"
+"Senator","","612 N. Howard St.","Baltimore","MD","(M),(*)","Bars/Clubs",1974,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1974-MD-0360"
+"Senator","","612 N. Howard","Baltimore","MD","(M),(RT),(*)","Bars/Clubs",1972,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1972-MD-0361"
+"Senator","(back room- side entrance)","612 N. Howard","Baltimore","MD","","Bars/Clubs",1970,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1970-MD-0362"
+"Senator","","612 N. Howard","Baltimore","MD","(M),(*)","Bars/Clubs",1973,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1973-MD-0363"
+"Senator","(back room- use side entrance)","612 N. Howard","Baltimore","MD","","Bars/Clubs",1969,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1969-MD-0364"
+"Senator ","(back room enter fr Monument) at Monument St.","612 N. Howard","Baltimore","MD","","Bars/Clubs",1966,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1966-MD-0365"
+"Senator Bar","(Some OC) (Good Sundays)","612 N. Howard","Baltimore","MD","(*),(E),(OC)","Bars/Clubs",1980,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1980-MD-0366"
+"Senator Bar","(Some OC) (Good Sundays)","612 N. Howard","Baltimore","MD","(*),(E),(OC)","Bars/Clubs",1979,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1979-MD-0367"
+"Senator Bar","(Best Sun.)","612 No. Howard St.","Baltimore","MD","(E),(OC),(*)","Bars/Clubs",1978,NA,-76.6202656,39.2972148,"Google Verified Location",NA,NA,NA,"1978-MD-0368"
+"Sherrie's Place","","So. Broadway","Baltimore","MD","(G)","Bars/Clubs",1978,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0369"
+"Shipmates","(See Gallery)","","Baltimore","MD","(SM)","Bars/Clubs",1976,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-MD-0370"
+"Shot Tower","","4 N. High St.","Baltimore","MD","(M),(RT),(B),(G)","Bars/Clubs",1974,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1974-MD-0371"
+"Shot Tower","","4 N. High St.","Baltimore","MD","(M),(B),(G),(RT)","Bars/Clubs",1975,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1975-MD-0372"
+"Shot Tower","","4 N. High St.","Baltimore","MD","(M),(B),(G),(RT)","Bars/Clubs",1976,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1976-MD-0373"
+"Shot Tower","","4 N. High St.","Baltimore","MD","(M),(B),(G),(RT)","Bars/Clubs",1977,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1977-MD-0374"
+"Shot Tower","","4 N. High St.","Baltimore","MD","(G),(M),(B),(RT)","Bars/Clubs",1973,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1973-MD-0375"
+"Shot Tower Bar","(Some G)","4 N. High St.","Baltimore","MD","(G)","Bars/Clubs",1979,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1979-MD-0376"
+"Shot Tower Bar","(Some G)","4 No. High St.","Baltimore","MD","(G)","Bars/Clubs",1978,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1978-MD-0377"
+"Shot Tower Bar","(Some L)","4 N. High St.","Baltimore","MD","(L)","Bars/Clubs",1980,NA,-76.6045234,39.2904544,"Google Verified Location",NA,NA,NA,"1980-MD-0378"
+"Snug's","","100 E. Pratt","Baltimore","MD","(D),(P)","Bars/Clubs",1968,NA,-76.6128397,39.2871714,"Google Verified Location",NA,NA,NA,"1968-MD-0379"
+"Snugs","","100 E. Pratt","Baltimore","MD","(G),(D),(P)","Bars/Clubs",1965,NA,-76.6128397,39.2871714,"Google Verified Location",NA,NA,NA,"1965-MD-0380"
+"Stallion Inn","(Some YC, RT)","2318 Fleet St.","Baltimore","MD","(PT),(D),(YC),(RT)","Bars/Clubs",1978,NA,-76.583657,39.2850985,"Google Verified Location",NA,NA,NA,"1978-MD-0381"
+"Stu's Male Model & Escort Service","Tel: 235-STU'S","","Baltimore","MD","","Business",1979,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0382"
+"Stu's Male Model & Escort Service","(By appt.) Tel: 235-7887","","Baltimore","MD","","Business",1978,"",-76.612189,39.290385,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0383"
+"Studio","(Some SM) (Adjoins Gallery)","1735 Maryland Ave.","Baltimore","MD","(R),(SM),(*)","Restaurant",1978,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1978-MD-0384"
+"Studio","(Some SM, W) (Adjoins Gallery)","1735 Maryland Ave.","Baltimore","MD","(*),(R),(SM),(W)","Bars/Clubs,Restaurant",1980,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1980-MD-0385"
+"Studio","(Some SM, W) (Adjoins Gallery)","1735 Maryland Ave.","Baltimore","MD","(*),(R),(SM),(W)","Restaurant",1979,NA,-76.6176464,39.3096234,"Google Verified Location",NA,NA,NA,"1979-MD-0386"
+"Sung's","","100 E. Pratt","Baltimore","MD","(D),(P)","Bars/Clubs",1966,NA,-76.6128397,39.2871714,"Google Verified Location",NA,NA,NA,"1966-MD-0387"
+"Sweet Lips Disco","","Hanover & Ostend","Baltimore","MD","","Bars/Clubs",1980,"",-76.615405,39.274695,"Verified Location",NA,NA,NA,"1980-MD-0388"
+"The Dock","","","Annapolis","MD","Cruisy Area","Cruising Areas",1973,"",-76.492183,38.978445,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-MD-0389"
+"Townson Books","","526 Tork Rd.","Towson","MD","(*)","Book Store",1980,NA,-76.6022188,39.4011503,"Google Verified Location",NA,NA,NA,"1980-MD-0390"
+"Towson Books","","516 York Rd.","Towson","MD","(*)","Book Store",1979,NA,-76.6017813,39.4011275,"Google Verified Location",NA,NA,NA,"1979-MD-0391"
+"Towson Books","","516 York Rd.","Baltimore","MD","","Book Store",1978,NA,-76.6017813,39.4011275,"Google Verified Location",NA,NA,NA,"1978-MD-0392"
+"Turf","","226 W. Fayette","Baltimore","MD","(M),(RT)","Bars/Clubs",1965,NA,-76.6190907,39.2906696,"Google Verified Location",NA,NA,NA,"1965-MD-0393"
+"Turkish Baths","(Some OC, B)","1425 E. Baltimore","Baltimore","MD","(OC),(B),(*)","Baths",1979,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1979-MD-0394"
+"Turkish Baths","(Some B)","1425 E. Baltimore","Baltimore","MD","(OC),(B),(*)","Baths",1978,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1978-MD-0395"
+"Turkish Baths","(Some OC, B)","1425 E. Baltimore","Baltimore","MD","(OC),(B)","Baths",1980,NA,-76.5977944,39.2912747,"Google Verified Location",NA,NA,NA,"1980-MD-0396"
+"Twenty-Two Club","","2200 E. Fayette","Baltimore","MD","(B)","Bars/Clubs",1969,NA,-76.5862427,39.2944163,"Google Verified Location",NA,NA,NA,"1969-MD-0397"
+"Tycon Place","(can enter thru back of Leon's also)","Chase & Park","Baltimore","MD","(YC),(*)","Bars/Clubs",1973,"",-76.618768,39.302232,"Verified Location",NA,NA,NA,"1973-MD-0398"
+"Tyson Place","(Can enter through rear of ""Leon's"")","227 W. Chase Street","Baltimore","MD","(M),(R)","Restaurant",1977,NA,-76.6191881,39.3016308,"Google Verified Location",NA,NA,NA,"1977-MD-0399"
+"Tyson Place","(Can enter thru rear of Leon's)","227 W. Chase St.","Baltimore","MD","(M),(R)","Restaurant",1980,NA,-76.6191881,39.3016308,"Google Verified Location",NA,NA,NA,"1980-MD-0400"
+"Tyson Place","(Can enter thru rear of Leon's)","227 W. Chase St.","Baltimore","MD","(M),(R)","Restaurant",1978,NA,-76.6191881,39.3016308,"Google Verified Location",NA,NA,NA,"1978-MD-0401"
+"Tyson Place","(Can enter thru rear of Leon's)","227 W. Chase St.","Baltimore","MD","(M),(R)","Restaurant",1979,NA,-76.6191881,39.3016308,"Google Verified Location",NA,NA,NA,"1979-MD-0402"
+"U. of Md. - Student Union Bldg. Basement T-Room","","","College Park","MD","Cruisy Area","Cruising Areas",1980,"",-76.942554,38.986918,"Verified Location",NA,NA,NA,"1980-MD-0403"
+"U. of Md. - Student Union Bldg. Basement T-Room","","","College Park","MD","Cruisy Area","Cruising Areas",1978,"",-76.942554,38.986918,"Verified Location",NA,NA,NA,"1978-MD-0404"
+"U. of Md. - Student Union Bldg. Basement T-Room","","","College Park","MD","Cruisy Area","Cruising Areas",1979,"",-76.942554,38.986918,"Verified Location",NA,NA,NA,"1979-MD-0405"
+"Union St.","nr. Holiday Inn","","Cumberland","MD","Cruisy Area","Cruising Areas",1980,"",-78.762518,39.652865,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MD-0406"
+"Union St.","nr. Holiday Inn","","Cumberland","MD","Cruisy Area","Cruising Areas",1979,"",-78.762518,39.652865,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MD-0407"
+"Union St.","nr. Holiday Inn","","Cumberland","MD","Cruisy Area","Cruising Areas",1978,"",-78.762518,39.652865,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MD-0408"
+"Union St. near Holiday Inn","","","Cumberland","MD","Cruisy Area","Cruising Areas",1976,"",-78.762518,39.652865,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-MD-0409"
+"Union Street","near Holiday Inn","","Cumberland","MD","Cruisy Area","Cruising Areas",1977,"",-78.762518,39.652865,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-MD-0410"
+"Westwood","(Some W)(Best late- Cl. 1 am)","8233 Georgia Ave.","Silver Lake","MD","(M),(R),(W)","Restaurant",1980,NA,-77.0262093,38.9926626,"Google Verified Location",NA,NA,NA,"1980-MD-0411"
+"White Coffee Pot","(after hours)","Howard & Franklin","Baltimore","MD","(M),(R),(C)","Restaurant",1973,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1973-MD-0412"
+"White Coffee Pot","Howard & Franklin","Howard & Franklin","Baltimore","MD","(C)","Restaurant",1966,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1966-MD-0413"
+"White Coffee Pot","(after hours)","Howard & Franklin","Baltimore","MD","(C)","Restaurant",1971,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1971-MD-0414"
+"White Coffee Pot","(after hours)","Howard & Franklin","Baltimore","MD","(M),(R),(C)","Restaurant",1974,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1974-MD-0415"
+"White Coffee Pot","(after hours)","Howard & Franklin","Baltimore","MD","(C)","Restaurant",1972,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1972-MD-0416"
+"White Coffee Pot","(after hours)","Howard & Franklin","Baltimore","MD","(C)","Restaurant",1969,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1969-MD-0417"
+"White Coffee Pot","Howard & Franklin","Howard & Franklin","Baltimore","MD","(C)","Restaurant",1968,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1968-MD-0418"
+"White Cofffe Pot","(after hours)","Howard & Franklin","Baltimore","MD","","Restaurant",1970,"",-76.619773,39.29494,"Verified Location",NA,NA,NA,"1970-MD-0419"
+"Wyman Park","","","Baltimore","MD","Cruisy Area,(AYOR)","Cruising Areas",1978,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1978-MD-0420"
+"Wyman Park","","","Baltimore","MD","(AYOR),Cruisy Area","Cruising Areas",1980,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1980-MD-0421"
+"Wyman Park","","","Baltimore","MD","(AYOR),Cruisy Area","Cruising Areas",1979,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1979-MD-0422"
+"Wyman Park","","","Baltimore","MD","Cruisy Area,(AYOR)","Cruising Areas",1977,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1977-MD-0423"
+"Wymann Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1973,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1973-MD-0424"
+"Wymann Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1974,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1974-MD-0425"
+"Wymann Park","","","Baltimore","MD","Cruisy Area","Cruising Areas",1975,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1975-MD-0426"
+"Wymann Park","(caution)","","Baltimore","MD","Cruisy Area","Cruising Areas",1976,"Wyman Park (neighborhood). General Google Coordinates Used.",-76.627553,39.33087,"Verified Location",NA,NA,NA,"1976-MD-0427"
+"Y.M.C.A.","","24 W. Franklin","Baltimore","MD","","Hotel",1976,NA,-76.6165858,39.2954574,"Google Verified Location",NA,NA,NA,"1976-MD-0428"
+"Y.M.C.A.","","24 W. Franklin","Baltimore","MD","(M),(H)","Hotel",1980,NA,-76.6165858,39.2954574,"Google Verified Location",NA,NA,NA,"1980-MD-0429"
+"Y.M.C.A.","","24 W. Franklin","Baltimore","MD","(M),(H)","Hotel",1979,NA,-76.6165858,39.2954574,"Google Verified Location",NA,NA,NA,"1979-MD-0430"
+"Y.M.C.A.","","24 W. Franklin","Baltimore","MD","(H),(M)","Hotel",1974,NA,-76.6165858,39.2954574,"Google Verified Location",NA,NA,NA,"1974-MD-0431"
+"Y.M.C.A.","","24 W. Franklin","Baltimore","MD","(M),(H)","Hotel",1977,NA,-76.6165858,39.2954574,"Google Verified Location",NA,NA,NA,"1977-MD-0432"
+"Y.M.C.A.","","24 W. Franklin","Baltimore","MD","(M),(H)","Hotel",1978,NA,-76.6165858,39.2954574,"Google Verified Location",NA,NA,NA,"1978-MD-0433"
+"Y.M.C.H.","","24 W. Franklin","Baltimore","MD","(M),(H)","Hotel",1975,NA,-76.6165858,39.2954574,"Google Verified Location",NA,NA,NA,"1975-MD-0434"
+"Zodiac","(was closed- may be re-opening)","632 S. Bond St.","Baltimore","MD","","Bars/Clubs",1974,NA,-76.5954768,39.2837771,"Google Verified Location",NA,NA,NA,"1974-MD-0435"
+"Zodiac","","632 S. Bond","Baltimore","MD","","Bars/Clubs",1977,NA,-76.5954768,39.2837771,"Google Verified Location",NA,NA,NA,"1977-MD-0436"
+"Zodiac","","632 S. Bond St.","Baltimore","MD","(G),(S)","Bars/Clubs",1973,NA,-76.5954768,39.2837771,"Google Verified Location",NA,NA,NA,"1973-MD-0437"
+"Zodiac","","632 S. Bond","Baltimore","MD","","Bars/Clubs",1976,NA,-76.5954768,39.2837771,"Google Verified Location",NA,NA,NA,"1976-MD-0438"
+"Zodiac","","632 S. Bond","Baltimore","MD","","Bars/Clubs",1975,NA,-76.5954768,39.2837771,"Google Verified Location",NA,NA,NA,"1975-MD-0439"
+"Zodiac Club","","2001 Eastern","Baltimore","MD","","Bars/Clubs",1978,NA,-76.5886125,39.2856009,"Google Verified Location",NA,NA,NA,"1978-MD-0440"
+"Zodiac Club","(May be changing name)","2001 Eastern","Baltimore","MD","","Bars/Clubs",1979,NA,-76.5886125,39.2856009,"Google Verified Location",NA,NA,NA,"1979-MD-0441"

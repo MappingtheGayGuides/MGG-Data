@@ -1,56 +1,56 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-956,SD035,'Hitch-hikers' on Minnesota Ave,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1980,NA,-96.728333,43.547303,Location could not be verified. General city or location coordinates used.
-961,SD040,'Hitch-hikers' on Minnesota Ave,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1979,NA,-96.728333,43.547303,Location could not be verified. General city or location coordinates used.
-964,SD043,'Hitch-hikers' on Minnesota Ave.,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1978,NA,-96.728333,43.547303,Location could not be verified. General city or location coordinates used.
-965,SD044,Ahab's Imports,Brookings Mall,,Brookings,SD,"Cruisy Area,(HIP),(YC)",Cruising Areas,1978,NA,-96.769318,44.295127,Verified Location
-958,SD037,Ahab's Imports -Brookings Mall,,,Brookings,SD,Cruisy Area,Cruising Areas,1979,NA,-96.769318,44.295127,Verified Location
-975,SD054,Bull & Lion,Sheraton-Cataract Hotel,Phillips at 9th St.,Sioux Falls,SD,"(M),(R),(PE)","Restaurant,Hotel",1972,NA,-96.726828,43.547312,Verified Location
-970,SD049,Bull & Lion,Cataract Hotel,9th St & Phillips,Sioux Falls,SD,"(M),(R),(PE)","Restaurant,Hotel",1971,NA,-96.726828,43.547312,Verified Location
-923,SD002,Diamond Belle - Peek-A-Rama,(Books),416 6th St,Rapid City,SD,(M),Book Store,1980,NA,-103.2264728,44.0819928,Google Verified Location
-929,SD008,Diamond Belle - Peek-A-Rama,(Books),416 6th St,Rapid City,SD,(M),Book Store,1979,NA,-103.2264728,44.0819928,Google Verified Location
-932,SD011,Earl's Lounge,"(Pizzas) (Bar, liquor, & party store)",300 N. Main,Sioux Falls,SD,"(*),(M),(R)",Restaurant,1979,NA,-96.7279082,43.5501093,Google Verified Location
-943,SD022,Embers,,2424 W. Main,Rapid City,SD,(M),Bars/Clubs,1975,NA,-103.2601254,44.0826166,Google Verified Location
-946,SD025,Embers,,2424 W. Main,Rapid City,SD,(M),Bars/Clubs,1974,NA,-103.2601254,44.0826166,Google Verified Location
-928,SD007,Get It Together ,(Social club - Tues. night meetings - side door),629 13th Ave,Brookings,SD,,Organizations,1979,NA,-96.783804,44.312628,Google Verified Location
-933,SD012,Get It Together ,(Social club - Tues. night meetings - side door),629 13th Ave,Brookings,SD,,Organizations,1978,NA,-96.783804,44.312628,Google Verified Location
-922,SD001,Get It Together ,(Social club - Tues. night meetings - side door),629 13th Ave,Brookings,SD,,Organizations,1980,NA,-96.783804,44.312628,Google Verified Location
-947,SD026,Happy Hour ,,303 S. Phillips Ave.,Sioux Falls,SD,(M),Bars/Clubs,1974,NA,-96.7270893,43.5444307,Google Verified Location
-944,SD023,Happy Hour ,,303 S. Phillips Ave.,Sioux Falls,SD,(M),Bars/Clubs,1975,NA,-96.7270893,43.5444307,Google Verified Location
-926,SD005,Heritage Book Store,,309 N. Dakota,Sioux Falls,SD,(M),Bars/Clubs,1980,NA,-96.7302479,43.5503205,Google Verified Location
-963,SD042,Hitchhikers on Minnesota Ave,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1976,NA,-96.728333,43.547303,Location could not be verified. General city or location coordinates used.
-966,SD045,Hitchhikers on Minnesota Ave,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1977,NA,-96.728333,43.547303,Location could not be verified. General city or location coordinates used.
-967,SD046,Hitchhikers on Minnesota Ave,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1975,NA,-96.728333,43.547303,Location could not be verified. General city or location coordinates used.
-957,SD036,Holiday Inn & Sheraton Bars,,,Aberdeen,SD,Cruisy Area,Cruising Areas,1979,NA,-98.486483,45.464699,Location could not be verified. General city or location coordinates used.
-950,SD029,Holiday Inn & Sheraton Bars,,,Aberdeen,SD,Cruisy Area,Cruising Areas,1980,NA,-98.486483,45.464699,Location could not be verified. General city or location coordinates used.
-952,SD031,Holiday Inn T-Room,,,Pierre,SD,Cruisy Area,"Cruising Areas,Hotel",1980,NA,-100.353752,44.366788,Location could not be verified. General city or location coordinates used.
-959,SD038,Holiday Inn T-Room,,,Pierre,SD,Cruisy Area,"Cruising Areas,Hotel",1979,NA,-100.353752,44.366788,Location could not be verified. General city or location coordinates used.
-972,SD051,Kings Inn,Best Western Motel,Inquire Locally,Pierre,SD,(M),"Hotel,Bars/Clubs",1980,NA,-100.353752,44.366788,Location could not be verified. General city or location coordinates used.
-973,SD052,Kings Inn,Best Western Motel,Inquire Locally,Pierre,SD,(M),"Hotel,Bars/Clubs",1979,NA,-100.353752,44.366788,Location could not be verified. General city or location coordinates used.
-937,SD016,Landmark,,600 St. Joseph St.,Rapid City,SD,"(RT),(M)",Bars/Clubs,1977,NA,-103.2272751,44.0800153,Google Verified Location
-934,SD013,Landmark,,600 St. Joseph St.,Rapid City,SD,"(RT),(M)",Bars/Clubs,1978,NA,-103.2272751,44.0800153,Google Verified Location
-924,SD003,Landmark,,600 St. Joseph St.,Rapid City,SD,"(M),(RT)",Bars/Clubs,1980,NA,-103.2272751,44.0800153,Google Verified Location
-930,SD009,Landmark,,600 St. Joseph St.,Rapid City,SD,"(M),(RT)",Bars/Clubs,1979,NA,-103.2272751,44.0800153,Google Verified Location
-940,SD019,Landmark,,600 St. Joseph St.,Rapid City,SD,"(RT),(M)",Bars/Clubs,1976,NA,-103.2272751,44.0800153,Google Verified Location
-971,SD050,Living Room,Empire Plaza,41st & I-20,Sioux Falls,SD,(M),Bars/Clubs,1979,NA,-96.774087,43.509364,Verified Location
-976,SD055,Living Room,,Sioux Empire Plaza,Sioux Falls,SD,"(M),(*)",Bars/Clubs,1978,NA,-96.774087,43.509364,Verified Location
-953,SD032,Main & St. Joe Sts. - betwn. 6th & 8th,,,Rapid City,SD,Cruisy Area,Cruising Areas,1980,NA,-103.228955,44.080841,Verified Location
-962,SD041,Main & St. Joe Sts. - betwn. 6th & 8th,,,Rapid City,SD,Cruisy Area,Cruising Areas,1979,NA,-103.228955,44.080841,Verified Location
-927,SD006,Mocambo,(Disco),305 N. Main,Sioux Falls,SD,"(M),(YC),(D)",Bars/Clubs,1980,NA,-96.7289415,43.5500484,Google Verified Location
-941,SD020,Roman's Rendezvous,(best bet in area),200 St. Joseph St.,Rapid City,SD,(M),Bars/Clubs,1976,NA,-103.2198423,44.0787927,Google Verified Location
-938,SD017,Roman's Rendezvous,(best bet in area),200 St. Joseph St.,Rapid City,SD,(M),Bars/Clubs,1977,NA,-103.2198423,44.0787927,Google Verified Location
-935,SD014,Roman's Rendezvous,(best bet in area),200 St. Joseph St.,Rapid City,SD,(M),Bars/Clubs,1978,NA,-103.2198423,44.0787927,Google Verified Location
-969,SD048,Safari Lounge,Staurolite Inn,"1 3/4 mi. E. at Jct. 14, I-29",Brookings,SD,(M),"Hotel,Bars/Clubs",1979,NA,-96.76203,44.312356,Verified Location
-968,SD047,Safari Lounge,Staurolite Inn,"1 3/4 mi. E. at Jct. 14, I-29",Brookings,SD,(M),"Hotel,Bars/Clubs",1980,NA,-96.76203,44.312356,Verified Location
-954,SD033,Sherman Park,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1980,NA,-96.764121,43.541912,Verified Location
-960,SD039,Sherman Park,,,Sioux Falls,SD,Cruisy Area,Cruising Areas,1979,NA,-96.764121,43.541912,Verified Location
-974,SD053,Sioux Empire Gay Coalition,,"P.O. Box 220, Sioux Falls, 57101",Sioux Falls,SD,,Organizations,1980,NA,-96.728333,43.547303,Location could not be verified. General city or location coordinates used.
-925,SD004,Sound Studio,(Disco),1438 Mount View Rd,Rapid City,SD,"(M),(D),(YC)",Bars/Clubs,1980,NA,-103.2516743,44.0756546,Google Verified Location
-931,SD010,Sound Studio,(Disco),1438 Mount View Rd,Rapid City,SD,"(M),(D),(YC)",Bars/Clubs,1979,NA,-103.2516743,44.0756546,Google Verified Location
-945,SD024,Station Break Lounge,,519 S. Phillips Ave.,Sioux Falls,SD,(M),Bars/Clubs,1975,NA,-96.7269904,43.5419948,Google Verified Location
-948,SD027,Twin Bar & Lounge,,221 N. Main St.,Sioux Falls,SD,(M),Bars/Clubs,1972,NA,-96.7283169,43.548843,Google Verified Location
-949,SD028,Twin Bar & Lounge,,221 N. Main St.,Sioux Falls,SD,(M),Bars/Clubs,1971,NA,-96.7283169,43.548843,Google Verified Location
-936,SD015,V.I.P Lounge,,303 So. Phillips Ave,Sioux Falls,SD,(M),Bars/Clubs,1978,NA,-96.7270893,43.5444307,Google Verified Location
-939,SD018,V.I.P Lounge,,303 So. Phillips Ave,Sioux Falls,SD,(M),Bars/Clubs,1977,NA,-96.7270893,43.5444307,Google Verified Location
-942,SD021,V.I.P Lounge,,303 S Phillips Ave,Sioux Falls,SD,(M),Bars/Clubs,1976,NA,-96.7270893,43.5444307,Google Verified Location
-955,SD034,Ward Hotel - basememnt T-Room,,,Aberdeen,SD,Cruisy Area,Cruising Areas,1979,NA,-98.488341,45.463937,Verified Location
-951,SD030,Ward Hotel - basememnt T-Room,,,Aberdeen,SD,Cruisy Area,Cruising Areas,1980,NA,-98.488341,45.463937,Verified Location
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"'Hitch-hikers' on Minnesota Ave","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1980,NA,-96.728333,43.547303,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-SD-0001"
+"'Hitch-hikers' on Minnesota Ave","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1979,NA,-96.728333,43.547303,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-SD-0002"
+"'Hitch-hikers' on Minnesota Ave.","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1978,NA,-96.728333,43.547303,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-SD-0003"
+"Ahab's Imports","Brookings Mall","","Brookings","SD","Cruisy Area,(HIP),(YC)","Cruising Areas",1978,NA,-96.769318,44.295127,"Verified Location",NA,NA,NA,"1978-SD-0004"
+"Ahab's Imports -Brookings Mall","","","Brookings","SD","Cruisy Area","Cruising Areas",1979,NA,-96.769318,44.295127,"Verified Location",NA,NA,NA,"1979-SD-0005"
+"Bull & Lion","Sheraton-Cataract Hotel","Phillips at 9th St.","Sioux Falls","SD","(M),(R),(PE)","Restaurant,Hotel",1972,NA,-96.726828,43.547312,"Verified Location",NA,NA,NA,"1972-SD-0006"
+"Bull & Lion","Cataract Hotel","9th St & Phillips","Sioux Falls","SD","(M),(R),(PE)","Restaurant,Hotel",1971,NA,-96.726828,43.547312,"Verified Location",NA,NA,NA,"1971-SD-0007"
+"Diamond Belle - Peek-A-Rama","(Books)","416 6th St","Rapid City","SD","(M)","Book Store",1980,NA,-103.2264728,44.0819928,"Google Verified Location",NA,NA,NA,"1980-SD-0008"
+"Diamond Belle - Peek-A-Rama","(Books)","416 6th St","Rapid City","SD","(M)","Book Store",1979,NA,-103.2264728,44.0819928,"Google Verified Location",NA,NA,NA,"1979-SD-0009"
+"Earl's Lounge","(Pizzas) (Bar, liquor, & party store)","300 N. Main","Sioux Falls","SD","(*),(M),(R)","Restaurant",1979,NA,-96.7279082,43.5501093,"Google Verified Location",NA,NA,NA,"1979-SD-0010"
+"Embers","","2424 W. Main","Rapid City","SD","(M)","Bars/Clubs",1975,NA,-103.2601254,44.0826166,"Google Verified Location",NA,NA,NA,"1975-SD-0011"
+"Embers","","2424 W. Main","Rapid City","SD","(M)","Bars/Clubs",1974,NA,-103.2601254,44.0826166,"Google Verified Location",NA,NA,NA,"1974-SD-0012"
+"Get It Together ","(Social club - Tues. night meetings - side door)","629 13th Ave","Brookings","SD","","Organizations",1979,NA,-96.783804,44.312628,"Google Verified Location",NA,NA,NA,"1979-SD-0013"
+"Get It Together ","(Social club - Tues. night meetings - side door)","629 13th Ave","Brookings","SD","","Organizations",1978,NA,-96.783804,44.312628,"Google Verified Location",NA,NA,NA,"1978-SD-0014"
+"Get It Together ","(Social club - Tues. night meetings - side door)","629 13th Ave","Brookings","SD","","Organizations",1980,NA,-96.783804,44.312628,"Google Verified Location",NA,NA,NA,"1980-SD-0015"
+"Happy Hour ","","303 S. Phillips Ave.","Sioux Falls","SD","(M)","Bars/Clubs",1974,NA,-96.7270893,43.5444307,"Google Verified Location",NA,NA,NA,"1974-SD-0016"
+"Happy Hour ","","303 S. Phillips Ave.","Sioux Falls","SD","(M)","Bars/Clubs",1975,NA,-96.7270893,43.5444307,"Google Verified Location",NA,NA,NA,"1975-SD-0017"
+"Heritage Book Store","","309 N. Dakota","Sioux Falls","SD","(M)","Bars/Clubs",1980,NA,-96.7302479,43.5503205,"Google Verified Location",NA,NA,NA,"1980-SD-0018"
+"Hitchhikers on Minnesota Ave","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1976,NA,-96.728333,43.547303,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-SD-0019"
+"Hitchhikers on Minnesota Ave","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1977,NA,-96.728333,43.547303,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-SD-0020"
+"Hitchhikers on Minnesota Ave","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1975,NA,-96.728333,43.547303,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-SD-0021"
+"Holiday Inn & Sheraton Bars","","","Aberdeen","SD","Cruisy Area","Cruising Areas",1979,NA,-98.486483,45.464699,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-SD-0022"
+"Holiday Inn & Sheraton Bars","","","Aberdeen","SD","Cruisy Area","Cruising Areas",1980,NA,-98.486483,45.464699,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-SD-0023"
+"Holiday Inn T-Room","","","Pierre","SD","Cruisy Area","Cruising Areas,Hotel",1980,NA,-100.353752,44.366788,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-SD-0024"
+"Holiday Inn T-Room","","","Pierre","SD","Cruisy Area","Cruising Areas,Hotel",1979,NA,-100.353752,44.366788,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-SD-0025"
+"Kings Inn","Best Western Motel","Inquire Locally","Pierre","SD","(M)","Hotel,Bars/Clubs",1980,NA,-100.353752,44.366788,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-SD-0026"
+"Kings Inn","Best Western Motel","Inquire Locally","Pierre","SD","(M)","Hotel,Bars/Clubs",1979,NA,-100.353752,44.366788,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-SD-0027"
+"Landmark","","600 St. Joseph St.","Rapid City","SD","(RT),(M)","Bars/Clubs",1977,NA,-103.2272751,44.0800153,"Google Verified Location",NA,NA,NA,"1977-SD-0028"
+"Landmark","","600 St. Joseph St.","Rapid City","SD","(RT),(M)","Bars/Clubs",1978,NA,-103.2272751,44.0800153,"Google Verified Location",NA,NA,NA,"1978-SD-0029"
+"Landmark","","600 St. Joseph St.","Rapid City","SD","(M),(RT)","Bars/Clubs",1980,NA,-103.2272751,44.0800153,"Google Verified Location",NA,NA,NA,"1980-SD-0030"
+"Landmark","","600 St. Joseph St.","Rapid City","SD","(M),(RT)","Bars/Clubs",1979,NA,-103.2272751,44.0800153,"Google Verified Location",NA,NA,NA,"1979-SD-0031"
+"Landmark","","600 St. Joseph St.","Rapid City","SD","(RT),(M)","Bars/Clubs",1976,NA,-103.2272751,44.0800153,"Google Verified Location",NA,NA,NA,"1976-SD-0032"
+"Living Room","Empire Plaza","41st & I-20","Sioux Falls","SD","(M)","Bars/Clubs",1979,NA,-96.774087,43.509364,"Verified Location",NA,NA,NA,"1979-SD-0033"
+"Living Room","","Sioux Empire Plaza","Sioux Falls","SD","(M),(*)","Bars/Clubs",1978,NA,-96.774087,43.509364,"Verified Location",NA,NA,NA,"1978-SD-0034"
+"Main & St. Joe Sts. - betwn. 6th & 8th","","","Rapid City","SD","Cruisy Area","Cruising Areas",1980,NA,-103.228955,44.080841,"Verified Location",NA,NA,NA,"1980-SD-0035"
+"Main & St. Joe Sts. - betwn. 6th & 8th","","","Rapid City","SD","Cruisy Area","Cruising Areas",1979,NA,-103.228955,44.080841,"Verified Location",NA,NA,NA,"1979-SD-0036"
+"Mocambo","(Disco)","305 N. Main","Sioux Falls","SD","(M),(YC),(D)","Bars/Clubs",1980,NA,-96.7289415,43.5500484,"Google Verified Location",NA,NA,NA,"1980-SD-0037"
+"Roman's Rendezvous","(best bet in area)","200 St. Joseph St.","Rapid City","SD","(M)","Bars/Clubs",1976,NA,-103.2198423,44.0787927,"Google Verified Location",NA,NA,NA,"1976-SD-0038"
+"Roman's Rendezvous","(best bet in area)","200 St. Joseph St.","Rapid City","SD","(M)","Bars/Clubs",1977,NA,-103.2198423,44.0787927,"Google Verified Location",NA,NA,NA,"1977-SD-0039"
+"Roman's Rendezvous","(best bet in area)","200 St. Joseph St.","Rapid City","SD","(M)","Bars/Clubs",1978,NA,-103.2198423,44.0787927,"Google Verified Location",NA,NA,NA,"1978-SD-0040"
+"Safari Lounge","Staurolite Inn","1 3/4 mi. E. at Jct. 14, I-29","Brookings","SD","(M)","Hotel,Bars/Clubs",1979,NA,-96.76203,44.312356,"Verified Location",NA,NA,NA,"1979-SD-0041"
+"Safari Lounge","Staurolite Inn","1 3/4 mi. E. at Jct. 14, I-29","Brookings","SD","(M)","Hotel,Bars/Clubs",1980,NA,-96.76203,44.312356,"Verified Location",NA,NA,NA,"1980-SD-0042"
+"Sherman Park","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1980,NA,-96.764121,43.541912,"Verified Location",NA,NA,NA,"1980-SD-0043"
+"Sherman Park","","","Sioux Falls","SD","Cruisy Area","Cruising Areas",1979,NA,-96.764121,43.541912,"Verified Location",NA,NA,NA,"1979-SD-0044"
+"Sioux Empire Gay Coalition","","P.O. Box 220, Sioux Falls, 57101","Sioux Falls","SD","","Organizations",1980,NA,-96.728333,43.547303,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-SD-0045"
+"Sound Studio","(Disco)","1438 Mount View Rd","Rapid City","SD","(M),(D),(YC)","Bars/Clubs",1980,NA,-103.2516743,44.0756546,"Google Verified Location",NA,NA,NA,"1980-SD-0046"
+"Sound Studio","(Disco)","1438 Mount View Rd","Rapid City","SD","(M),(D),(YC)","Bars/Clubs",1979,NA,-103.2516743,44.0756546,"Google Verified Location",NA,NA,NA,"1979-SD-0047"
+"Station Break Lounge","","519 S. Phillips Ave.","Sioux Falls","SD","(M)","Bars/Clubs",1975,NA,-96.7269904,43.5419948,"Google Verified Location",NA,NA,NA,"1975-SD-0048"
+"Twin Bar & Lounge","","221 N. Main St.","Sioux Falls","SD","(M)","Bars/Clubs",1972,NA,-96.7283169,43.548843,"Google Verified Location",NA,NA,NA,"1972-SD-0049"
+"Twin Bar & Lounge","","221 N. Main St.","Sioux Falls","SD","(M)","Bars/Clubs",1971,NA,-96.7283169,43.548843,"Google Verified Location",NA,NA,NA,"1971-SD-0050"
+"V.I.P Lounge","","303 So. Phillips Ave","Sioux Falls","SD","(M)","Bars/Clubs",1978,NA,-96.7270893,43.5444307,"Google Verified Location",NA,NA,NA,"1978-SD-0051"
+"V.I.P Lounge","","303 So. Phillips Ave","Sioux Falls","SD","(M)","Bars/Clubs",1977,NA,-96.7270893,43.5444307,"Google Verified Location",NA,NA,NA,"1977-SD-0052"
+"V.I.P Lounge","","303 S Phillips Ave","Sioux Falls","SD","(M)","Bars/Clubs",1976,NA,-96.7270893,43.5444307,"Google Verified Location",NA,NA,NA,"1976-SD-0053"
+"Ward Hotel - basememnt T-Room","","","Aberdeen","SD","Cruisy Area","Cruising Areas",1979,NA,-98.488341,45.463937,"Verified Location",NA,NA,NA,"1979-SD-0054"
+"Ward Hotel - basememnt T-Room","","","Aberdeen","SD","Cruisy Area","Cruising Areas",1980,NA,-98.488341,45.463937,"Verified Location",NA,NA,NA,"1980-SD-0055"

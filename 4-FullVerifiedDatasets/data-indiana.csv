@@ -1,620 +1,620 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-18246,IN133,'Homo Heights',,"W. Wayne St, nr. Webster",Ft. Wayne,IN,Cruisy Area,Cruising Areas,1978,,-85.147022,41.077059,Location could not be verified. General city or location coordinates used.
-18201,IN278,'Rest Area',,"10 mi. S. on Ind. 36, just off Ind. 3",Muncie,IN,Cruisy Area,Cruising Areas,1976,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-18165,IN321,'Rest Area',,3 mi. N.F. on U.S 40,Knightstown,IN,Cruisy Area,Cruising Areas,1975,,-85.526363,39.795601,Location could not be verified. General city or location coordinates used.
-18164,IN270,'Rest Area',,3 mi. N.E. on U.S. 40,Knightstown,IN,Cruisy Area,Cruising Areas,1976,,-85.526363,39.795601,Location could not be verified. General city or location coordinates used.
-17801,IN284,'Rest area',,2 mi. W. on U.S. 30,Valparaiso,IN,Cruisy Area,Cruising Areas,1976,,-87.061141,41.473095,Location could not be verified. General city or location coordinates used.
-17814,IN274,'Rest Stop',,3 mi. N. on Ind. 43,Lafayette,IN,Cruisy Area,Cruising Areas,1976,,-86.875287,40.416702,Location could not be verified. General city or location coordinates used.
-18163,IN214,'Rest Stop',,3 miles N.E. on U.S 40,Knightstown,IN,Cruisy Area,Cruising Areas,1977,,-85.526363,39.795601,Location could not be verified. General city or location coordinates used.
-18197,IN046,'Rest Stop',,"10 mi. S. on Ind. 36, just off Ind. 3",Muncie,IN,Cruisy Area,Cruising Areas,1980,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-18162,IN160,'Rest Stop',,3 mi. N.E. on US 40,Knightstown,IN,Cruisy Area,Cruising Areas,1978,,-85.526363,39.795601,Location could not be verified. General city or location coordinates used.
-18161,IN042,'Rest Stop',,3 mi. N.E on US 40,Knightstown,IN,Cruisy Area,Cruising Areas,1980,,-85.526363,39.795601,Location could not be verified. General city or location coordinates used.
-18198,IN107,'Rest Stop',,"10 mi. S. on Ind. 36, just off Ind.3",Muncie,IN,Cruisy Area,Cruising Areas,1979,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-18199,IN166,'Rest Stop',,"10 mi. So. on Ind.36, just off Ind. 3.",Muncie,IN,Cruisy Area,Cruising Areas,1978,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-18200,IN220,'Rest Stop',,"10 miles south on Indiana 36, just off Indiana 3",Muncie,IN,Cruisy Area,Cruising Areas,1977,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-17804,IN433,'Rest stop',,2 mi. W.  on U.S. Hwy. 30,Valparaiso,IN,Cruisy Area,Cruising Areas,1973,,-87.061141,41.473095,Location could not be verified. General city or location coordinates used.
-18146,IN079,Adult Book Store,,2424 E. Washington,Indianapolis,IN,(M),Book Store,1979,NA,-86.1205904,39.7684163,Google Verified Location
-18155,IN111,Adult Book Stores,,County Line Rd. at US 20 & US 20 at Osceola,South Bend,IN,Cruisy Area,"Book Store,Cruising Areas",1979,,-86.075836,41.665049,Location could not be verified. General city or location coordinates used.
-18154,IN051,Adult Book Stores,,County Line Rd. at US 20 & US 20 at Osceola,South Bend,IN,Cruisy Area,"Cruising Areas,Book Store",1980,,-86.075836,41.665049,Location could not be verified. General city or location coordinates used.
-17868,IN316,Airport,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1975,,-86.272208,39.736523,Location could not be verified. General city or location coordinates used.
-17869,IN368,Airport,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1974,,-86.272208,39.736523,Location could not be verified. General city or location coordinates used.
-17866,IN207,Airport,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1977,,-86.272208,39.736523,Location could not be verified. General city or location coordinates used.
-17865,IN152,Airport,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1978,,-86.272208,39.736523,Location could not be verified. General city or location coordinates used.
-17867,IN264,Airport,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1976,,-86.272208,39.736523,Location could not be verified. General city or location coordinates used.
-17864,IN095,Airport,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,,-86.272208,39.736523,Location could not be verified. General city or location coordinates used.
-17863,IN038,Airport,,,Indianapolis,IN,"(AYOR),Cruisy Area",Cruising Areas,1980,,-86.272208,39.736523,Location could not be verified. General city or location coordinates used.
-18181,IN486,Alcazar,,117 W. Main,Muncie,IN,(M),Bars/Clubs,1971,NA,-85.3873712,40.1933946,Google Verified Location
-18177,IN323,Alcazar,,117 W. Main,Muncie,IN,"(D),(S),(*)",Bars/Clubs,1975,NA,-85.3873712,40.1933946,Google Verified Location
-18178,IN376,Alcazar,,117 W Main,Muncie,IN,"(D),(S),(*)",Bars/Clubs,1974,NA,-85.3873712,40.1933946,Google Verified Location
-18183,IN538,Alcazar,,117 W. Main,Muncie,IN,"(M),(*)",Bars/Clubs,1969,NA,-85.3873712,40.1933946,Google Verified Location
-18184,IN566,Alcazar,,117 W. Main,Muncie,IN,"(M),(*)",Bars/Clubs,1968,NA,-85.3873712,40.1933946,Google Verified Location
-18186,IN611,Alcazar,,117 W. Main,Muncie,IN,"(M),(*)",Bars/Clubs,1965,NA,-85.3873712,40.1933946,Google Verified Location
-18182,IN514,Alcazar,,117 W. Main,Muncie,IN,"(M),(*)",Bars/Clubs,1970,NA,-85.3873712,40.1933946,Google Verified Location
-18179,IN425,Alcazar,,117 W. Main,Muncie,IN,(*),Bars/Clubs,1973,NA,-85.3873712,40.1933946,Google Verified Location
-18180,IN459,Alcazar,,117 W. Main,Muncie,IN,(*),Bars/Clubs,1972,NA,-85.3873712,40.1933946,Google Verified Location
-18185,IN586,Alcazar,,117 W. Main,Muncie,IN,"(M),(*)",Bars/Clubs,1966,NA,-85.3873712,40.1933946,Google Verified Location
-18076,IN502,Alp's,,20 N. Delaware,Indianapolis,IN,(*),Bars/Clubs,1970,NA,-86.1546977,39.7675873,Google Verified Location
-18074,IN445,Alp's,,20 N. Delaware,Indianapolis,IN,(*),Bars/Clubs,1972,NA,-86.1546977,39.7675873,Google Verified Location
-18077,IN529,Alp's,,20 N. Delaware,Indianapolis,IN,(*),Bars/Clubs,1969,NA,-86.1546977,39.7675873,Google Verified Location
-18079,IN580,Alp's,,20 N. Delaware,Indianapolis,IN,(*),Bars/Clubs,1966,NA,-86.1546977,39.7675873,Google Verified Location
-18078,IN556,Alp's,,20 N. Delaware,Indianapolis,IN,(*),Bars/Clubs,1968,NA,-86.1546977,39.7675873,Google Verified Location
-18080,IN602,Alp's,,20 N. Delaware,Indianapolis,IN,(*),Bars/Clubs,1965,NA,-86.1546977,39.7675873,Google Verified Location
-18075,IN475,Alp's,,20 N. Delaware,Indianapolis,IN,(*),Baths,1971,NA,-86.1546977,39.7675873,Google Verified Location
-18071,IN300,Alps,(go-go boys weekends),20 N. Delaware,Indianapolis,IN,"(WE),(*)",Bars/Clubs,1975,NA,-86.1546977,39.7675873,Google Verified Location
-18072,IN349,Alps,"(popular weekends with nude go go boys, but how long they will go go in Indianapolis is highly speculative)",20 N. Delaware,Indianapolis,IN,,Bars/Clubs,1974,NA,-86.1546977,39.7675873,Google Verified Location
-18073,IN401,Alps,,20 N. Delaware,Indianapolis,IN,(*),Bars/Clubs,1973,NA,-86.1546977,39.7675873,Google Verified Location
-18026,IN265,American Legion Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1976,,-86.156793,39.777298,Verified Location
-18027,IN317,American Legion Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1975,,-86.156793,39.777298,Verified Location
-18023,IN096,American Legion Park,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,,-86.156793,39.777298,Verified Location
-18029,IN417,American Legion Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1973,,-86.156793,39.777298,Verified Location
-18025,IN208,American Legion Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1977,,-86.156793,39.777298,Verified Location
-18028,IN369,American Legion Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1974,,-86.156793,39.777298,Verified Location
-18024,IN153,American Legion Park,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1978,,-86.156793,39.777298,Verified Location
-18022,IN039,American Legion Park,,,Indianapolis,IN,"(AYOR),Cruisy Area",Cruising Areas,1980,,-86.156793,39.777298,Verified Location
-18128,IN138,Around the Clock,,901 N. Massachusetts,Indianapolis,IN,,Bars/Clubs,1978,NA,-86.1481035,39.7797265,Google Verified Location
-17872,IN350,Art Theatre,('Peep Show),5760 W. Washington,Indianapolis,IN,(M),Theatre,1974,NA,-86.258954,39.75049,Google Verified Location
-17789,IN553,Bamboo,,579 Massachusetts,Gary,IN,(M),Bars/Clubs,1968,NA,-87.3354974,41.6003395,Google Verified Location
-17787,IN500,Bamboo,,579 Massachusetts,Gary,IN,(M),Bars/Clubs,1970,NA,-87.3354974,41.6003395,Google Verified Location
-17791,IN596,Bamboo,,579 Massachusetts,Gary,IN,(M),Bars/Clubs,1965,NA,-87.3354974,41.6003395,Google Verified Location
-17788,IN527,Bamboo,,579 Massachusetts,Gary,IN,(M),Bars/Clubs,1969,NA,-87.3354974,41.6003395,Google Verified Location
-17790,IN577,Bamboo,,579 Massachusetts,Gary,IN,(M),Bars/Clubs,1966,NA,-87.3354974,41.6003395,Google Verified Location
-17786,IN473,Bamboo,,579 Massachusetts,Gary,IN,(M),Bars/Clubs,1971,NA,-87.3354974,41.6003395,Google Verified Location
-17852,IN002,Bear's Place,,1316 E. 3rd St.,Bloomington,IN,"(M),(HIP),(YC)",Bars/Clubs,1980,NA,-86.5168064,39.1640878,Google Verified Location
-17856,IN229,Bear's Place,,1316 E. 3rd,Bloomington,IN,"(M),(RT)",Bars/Clubs,1976,NA,-86.5168064,39.1640878,Google Verified Location
-17854,IN120,Bear's Place,,1316 E. 3rd St.,Bloomington,IN,"(M),(HIP),(YC)",Bars/Clubs,1978,NA,-86.5168064,39.1640878,Google Verified Location
-17855,IN176,Bear's Place,,1316 E. 3rd Street,Bloomington,IN,"(M),(HIP),(YC)",Bars/Clubs,1977,NA,-86.5168064,39.1640878,Google Verified Location
-17853,IN061,Bear's Place,,1316 E. 3rd St.,Bloomington,IN,"(M),(HIP),(YC)",Bars/Clubs,1979,NA,-86.5168064,39.1640878,Google Verified Location
-18118,IN301,Betty K's,,1808 N. Central,Indianapolis,IN,"(G),(D),(S),(*)",Bars/Clubs,1975,NA,-86.149896,39.791268,Google Verified Location
-18123,IN503,Betty K's,,1808 N. Central,Indianapolis,IN,(*),Bars/Clubs,1970,NA,-86.149896,39.791268,Google Verified Location
-18125,IN557,Betty K's,,1808 N. Central,Indianapolis,IN,"(D),(S),(*)",Bars/Clubs,1968,NA,-86.149896,39.791268,Google Verified Location
-18122,IN476,Betty K's,,1808 N. Central,Indianapolis,IN,"(D),(S),(*)",Bars/Clubs,1971,NA,-86.149896,39.791268,Google Verified Location
-18117,IN246,Betty K's,,1808 N. Central,Indianapolis,IN,"(G),(D),(S),(*)",Bars/Clubs,1976,NA,-86.149896,39.791268,Google Verified Location
-18121,IN446,Betty K's,,1808 N. Central,Indianapolis,IN,"(D),(S),(*)",Bars/Clubs,1972,NA,-86.149896,39.791268,Google Verified Location
-18120,IN402,Betty K's,((S) Thurs-Fri-Sat),1808 N. Central,Indianapolis,IN,"(G),(D),(S)",Bars/Clubs,1973,NA,-86.149896,39.791268,Google Verified Location
-18126,IN581,Betty K's,,1808 N. Central,Indianapolis,IN,(D),Bars/Clubs,1966,NA,-86.149896,39.791268,Google Verified Location
-18119,IN351,Betty K's,(TH-F-S),1808 N. Central,Indianapolis,IN,"(G),(D)",Bars/Clubs,1974,NA,-86.149896,39.791268,Google Verified Location
-18124,IN530,Betty K's,,1808 N. Central,Indianapolis,IN,"(D),(S),(*)",Bars/Clubs,1969,NA,-86.149896,39.791268,Google Verified Location
-18127,IN603,Betty K's,,1808 N. Central,Indianapolis,IN,"(S),(*)",Bars/Clubs,1965,NA,-86.149896,39.791268,Google Verified Location
-18116,IN193,Betty K's,(touristy),1808 N. Central,Indianapolis,IN,"(M),(B),(S)",Bars/Clubs,1977,NA,-86.149896,39.791268,Google Verified Location
-18114,IN080,Betty K's Meat Rack,,1808 N. Central,Indianapolis,IN,"(M),(B),(S)",Bars/Clubs,1979,NA,-86.149896,39.791268,Google Verified Location
-18105,IN604,Betty's,,508 Alabama,Indianapolis,IN,(G),Bars/Clubs,1965,NA,-86.1523768,39.7741141,Google Verified Location
-18104,IN597,Betty's,,508 Alabama,Indianapolis,IN,(G),Bars/Clubs,1966,NA,-86.1523768,39.7741141,Google Verified Location
-17839,IN007,Birthplace of the fabulous Tish,,,Bloomington,IN,"Cruisy Area,(RT)",Cruising Areas,1980,Not sure what type is,-86.526386,39.165325,Location could not be verified. General city or location coordinates used.
-17831,IN008,Block,around Monroe Public Library,,Bloomington,IN,Cruisy Area,Cruising Areas,1980,,-86.53048,39.166705,Verified Location
-17834,IN179,Block around Monroe Public Library,,,Bloomington,IN,Cruisy Area,Cruising Areas,1977,,-86.53048,39.166705,Verified Location
-17833,IN122,Block around Monroe Public Library,,,Bloomington,IN,Cruisy Area,Cruising Areas,1978,,-86.53048,39.166705,Verified Location
-17832,IN063,Block around Monroe Public Library,,,Bloomington,IN,Cruisy Area,Cruising Areas,1979,,-86.53048,39.166705,Verified Location
-17719,IN574,Blue Bar,,8 N. 5th St.,Evansville,IN,(*),Bars/Clubs,1966,NA,-87.570518,37.9722386,Google Verified Location
-17717,IN523,Blue Bar,(maybe closing soon),8 N. 5th St.,Evansville,IN,,Bars/Clubs,1969,NA,-87.570518,37.9722386,Google Verified Location
-17716,IN496,Blue Bar,,8 N. 5th St.,Evansville,IN,(S),Bars/Clubs,1970,NA,-87.570518,37.9722386,Google Verified Location
-17718,IN549,Blue Bar,(maybe closing soon),8 N. 5th St.,Evansville,IN,,Bars/Clubs,1968,NA,-87.570518,37.9722386,Google Verified Location
-17720,IN593,Blue Bar,,8 N. 5th St.,Evansville,IN,"(M),(S)",Bars/Clubs,1965,NA,-87.570518,37.9722386,Google Verified Location
-17876,IN489,Blue note,,126 N. Main St.,South Bend,IN,"(M),(*)",Bars/Clubs,1971,NA,-86.251492,41.6773787,Google Verified Location
-17881,IN614,Blue note,,126 N. Main St.,South Bend,IN,(M),Bars/Clubs,1965,NA,-86.251492,41.6773787,Google Verified Location
-17879,IN569,Blue note,,126 N. Main St.,South Bend,IN,(M),Bars/Clubs,1968,NA,-86.251492,41.6773787,Google Verified Location
-17880,IN589,Blue note,,126 N. Main St.,South Bend,IN,(M),Bars/Clubs,1966,NA,-86.251492,41.6773787,Google Verified Location
-17877,IN517,Blue note,,126 N. Main St.,South Bend,IN,(M),Bars/Clubs,1970,NA,-86.251492,41.6773787,Google Verified Location
-17878,IN541,Blue note,,126 N. Main St.,South Bend,IN,(M),Bars/Clubs,1969,NA,-86.251492,41.6773787,Google Verified Location
-17941,IN025,Body Works,(Baths),303 N. Senate Ave.,Indianapolis,IN,(*),Baths,1980,NA,-86.1629079,39.7717089,Google Verified Location
-17942,IN081,Body Works,(Baths),303 N. Senate Ave.,Indianapolis,IN,(*),Baths,1979,NA,-86.1629079,39.7717089,Google Verified Location
-18219,IN070,Brick Bar,(Sleazy) (G in back room),1814 W. Main,Ft. Wayne,IN,"(M),(G)",Bars/Clubs,1979,NA,-85.1659973,41.0787496,Google Verified Location
-18220,IN129,Brick Bar,(G in back room),1814 W. Main ,Ft. Wayne,IN,"(M),(G)",Bars/Clubs,1978,NA,-85.1659973,41.0787496,Google Verified Location
-17727,IN389,Campus,Evansville St. Univ.,,Evansville,IN,Cruisy Area,Cruising Areas,1973,,-87.531864,37.973317,Verified Location
-17723,IN183,Campus,Evansville State University,,Evansville,IN,Cruisy Area,Cruising Areas,1977,,-87.531864,37.973317,Verified Location
-17726,IN337,Campus,"Evansville State Univ,",,Evansville,IN,Cruisy Area,Cruising Areas,1974,,-87.531864,37.973317,Verified Location
-17724,IN234,Campus,Evansville State U.,,Evansville,IN,Cruisy Area,"Cruising Areas,Organizations",1976,,-87.531864,37.973317,Verified Location
-17725,IN291,Campus,Evansville State Univ,,Evansville,IN,Cruisy Area,Cruising Areas,1975,,-87.531864,37.973317,Verified Location
-18070,IN247,Cannon Ball,(best late),20 N. Delaware,Indianapolis,IN,"(M),(R)",Restaurant,1976,NA,-86.1546977,39.7675873,Google Verified Location
-18135,IN248,Cardinal,Bus Depot,936 Virginia Ave.,Indianapolis,IN,"(M),(B),(RT)",Bars/Clubs,1976,NA,-86.1418859,39.7543726,Google Verified Location
-18136,IN302,Cardinal,Bus Depot,936 Virginia Ave.,Indianapolis,IN,"(M),(B),(RT)",Bars/Clubs,1975,NA,-86.1418859,39.7543726,Google Verified Location
-18140,IN477,Cardinal,Bus Depot,936 Virginia Ave.,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1971,NA,-86.1418859,39.7543726,Google Verified Location
-18141,IN504,Cardinal,Bus Depot,936 Virginia Ave.,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1970,NA,-86.1418859,39.7543726,Google Verified Location
-18132,IN082,Cardinal,Bus Depot,936 Virginia Ave,Indianapolis,IN,"(M),(B),(RT)",Bars/Clubs,1979,NA,-86.1418859,39.7543726,Google Verified Location
-18137,IN352,Cardinal,,936 Virginia Ave.,Indianapolis,IN,"(M),(B),(RT)",Bars/Clubs,1974,NA,-86.1418859,39.7543726,Google Verified Location
-18139,IN447,Cardinal,,936 Virginia Ave,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1972,NA,-86.1418859,39.7543726,Google Verified Location
-18133,IN139,Cardinal,Bus Depot,936 Virginia Ave.,Indianapolis,IN,"(M),(B),(RT)",Bars/Clubs,1978,NA,-86.1418859,39.7543726,Google Verified Location
-18138,IN403,Cardinal,Bus Depot,936 Virginia Ave.,Indianapolis,IN,"(M),(B),(RT)",Bars/Clubs,1973,NA,-86.1418859,39.7543726,Google Verified Location
-18134,IN194,Cardinal,Bus Depot,936 Virginia Avenue,Indianapolis,IN,"(M),(B),(RT)",Bars/Clubs,1977,NA,-86.1418859,39.7543726,Google Verified Location
-18173,IN324,Carriage Hosue,,247 Kilgore,Muncie,IN,,Bars/Clubs,1975,NA,-85.3982715,40.1903556,Google Verified Location
-18174,IN377,Carriage House,,247 Kilgore,Muncie,IN,,Bars/Clubs,1974,NA,-85.3982715,40.1903556,Google Verified Location
-18169,IN105,Carriage House,,247 Kilgore,Muncie,IN,"(M),(R)",Restaurant,1979,NA,-85.3982715,40.1903556,Google Verified Location
-18171,IN236,Carriage House,,247 Kilgore,Muncie,IN,,Bars/Clubs,1977,NA,-85.3982715,40.1903556,Google Verified Location
-18172,IN275,Carriage House,,247 Kilgore,Muncie,IN,,Bars/Clubs,1976,NA,-85.3982715,40.1903556,Google Verified Location
-18176,IN460,Carriage House,,247 Kilgore,Muncie,IN,,Bars/Clubs,1972,NA,-85.3982715,40.1903556,Google Verified Location
-18175,IN426,Carriage House,,247 Kilgore,Muncie,IN,,Bars/Clubs,1973,NA,-85.3982715,40.1903556,Google Verified Location
-18170,IN163,Carriage House,,247 Kilgore,Muncie,IN,,Bars/Clubs,1978,NA,-85.3982715,40.1903556,Google Verified Location
-18168,IN044,Carriage House,,247 Kilgore,Muncie,IN,"(M),(R)",Restaurant,1980,NA,-85.3982715,40.1903556,Google Verified Location
-18069,IN195,Civil War Tavern,,20 N. Delaware,Indianapolis,IN,(M),Bars/Clubs,1977,NA,-86.1546977,39.7675873,Google Verified Location
-17968,IN582,Claypool Hotel Bar,,14 N Illinois,Indianapolis,IN,"(M),(PE)","Hotel,Bars/Clubs",1966,NA,-86.1600466,39.7677235,Google Verified Location
-17967,IN558,Claypool Hotel Bar,,14 N Illinois,Indianapolis,IN,"(M),(PE)","Hotel,Bars/Clubs",1968,NA,-86.1600466,39.7677235,Google Verified Location
-17969,IN605,Claypool Hotel Bar,,14 N Illinois,Indianapolis,IN,"(M),(PE)","Hotel,Bars/Clubs",1965,NA,-86.1600466,39.7677235,Google Verified Location
-17966,IN531,Claypool Hotel Bar,,14 N Illinois,Indianapolis,IN,"(M),(PE)","Hotel,Bars/Clubs",1969,NA,-86.1600466,39.7677235,Google Verified Location
-18098,IN532,Club,,508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1969,NA,-86.1535342,39.7598684,Google Verified Location
-18097,IN505,Club,,508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1970,NA,-86.1535342,39.7598684,Google Verified Location
-18096,IN478,Club,,508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1971,NA,-86.1535342,39.7598684,Google Verified Location
-18099,IN559,Club,,508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1968,NA,-86.1535342,39.7598684,Google Verified Location
-17738,IN474,Club Baths,,532 Fayette St.,Hammond,IN,,Baths,1971,NA,-87.516259,41.616293,Google Verified Location
-17730,IN024,Club Fayette Baths,(Scruffy),532 Fayette St.,Hammond,IN,(AYOR),Baths,1980,NA,-87.516259,41.616293,Google Verified Location
-17736,IN400,Club Fayette Baths,,532 Fayette St.,Hammond,IN,,Baths,1973,NA,-87.516259,41.616293,Google Verified Location
-17734,IN245,Club Fayette Baths,,532 Fayette St.,Hammond,IN,(*),Baths,1976,NA,-87.516259,41.616293,Google Verified Location
-17731,IN078,Club Fayette Baths,,532 Fayette St.,Hammond,IN,,Baths,1979,NA,-87.516259,41.616293,Google Verified Location
-17732,IN137,Club Fayette Baths,,532 Fayette St.,Hammond,IN,(*),Baths,1978,NA,-87.516259,41.616293,Google Verified Location
-17735,IN348,Club Fayette Baths,(will be moving to new location),532 Fayette St.,Hammond,IN,(*),Baths,1974,NA,-87.516259,41.616293,Google Verified Location
-17737,IN444,Club Fayette Baths,,532 Fayette St.,Hammond,IN,,Baths,1972,NA,-87.516259,41.616293,Google Verified Location
-17733,IN192,Club Fayette Baths,,532 Fayette St.,Hammond,IN,(*),Baths,1977,NA,-87.516259,41.616293,Google Verified Location
-17742,IN617,Club Idaho,,719 Hulman,Terre Haute,IN,,Bars/Clubs,1965,NA,-87.4061086,39.4479975,Google Verified Location
-17741,IN592,Club Idaho,,719 Hulman,Terre Haute,IN,,Bars/Clubs,1966,NA,-87.4061086,39.4479975,Google Verified Location
-18003,IN404,Club Indianapolis,May be opening summer of '720Inquire Locally,,Indianapolis,IN,,Baths,1973,,-86.158068,39.768403,Location could not be verified. General city or location coordinates used.
-17965,IN353,Club Indianapolis,,341 N. Capitol,Indianapolis,IN,(*),Bars/Clubs,1974,NA,-86.1606445,39.7716165,Google Verified Location
-17961,IN140,Club Indianapolis,,341 No. Capitol,Indianapolis,IN,(*),Bars/Clubs,1978,NA,-86.1606445,39.7716165,Google Verified Location
-17963,IN249,Club Indianapolis Baths,,341 N. Capitol,Indianapolis,IN,(*),Baths,1976,NA,-86.1606445,39.7716165,Google Verified Location
-17962,IN196,Club Indianapolis Baths,,341 N. Capitol,Indianapolis,IN,(*),Baths,1977,NA,-86.1606445,39.7716165,Google Verified Location
-17959,IN026,Club Indianapolis Baths,,341 N. Capitol,Indianapolis,IN,,Baths,1980,NA,-86.1606445,39.7716165,Google Verified Location
-17964,IN303,Club Indianapolis Baths,,341 N. Capitol,Indianapolis,IN,(*),Baths,1975,NA,-86.1606445,39.7716165,Google Verified Location
-17960,IN083,Club Indianapolis Baths,(Recently remodeled),341 N. Capitol,Indianapolis,IN,(*),Baths,1979,NA,-86.1606445,39.7716165,Google Verified Location
-18102,IN533,Darlo's,,417 S. Alabama,Indianapolis,IN,"(RT),(G)",Bars/Clubs,1969,NA,-86.1528985,39.760491,Google Verified Location
-18092,IN304,Darlo's,(Some G),508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1975,NA,-86.1535342,39.7598684,Google Verified Location
-18103,IN560,Darlo's,,417 S. Alabama,Indianapolis,IN,"(RT),(G)",Bars/Clubs,1968,NA,-86.1528985,39.760491,Google Verified Location
-18101,IN507,Darlo's,,417 S. Alabama,Indianapolis,IN,(*),Bars/Clubs,1970,NA,-86.1528985,39.760491,Google Verified Location
-18100,IN479,Darlo's,,417 (?) or 508 S. Alabama,Indianapolis,IN,"(YC),(D)",Bars/Clubs,1971,,-86.153534,39.759868,Verified Location
-18091,IN250,Darlo's,,508 S. Alabama,Indianapolis,IN,"(G),(*)",Bars/Clubs,1976,NA,-86.1535342,39.7598684,Google Verified Location
-18093,IN354,Darlo's,(some G),508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1974,NA,-86.1535342,39.7598684,Google Verified Location
-18094,IN405,Darlo's Club,,508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1973,NA,-86.1535342,39.7598684,Google Verified Location
-18095,IN448,Darlo's Club,,508 S. Alabama,Indianapolis,IN,(G),Bars/Clubs,1972,NA,-86.1535342,39.7598684,Google Verified Location
-17925,IN305,Deja Vu,(weekends*),1322 W. Washington,Indianapolis,IN,"(HIP),(YC),(D),(WE),(*)",Bars/Clubs,1975,NA,-86.1852894,39.7677363,Google Verified Location
-17926,IN355,Deja Vu,(weekends*),1322 W. Washington,Indianapolis,IN,"(HIP),(YC),(D),(WE),(*)",Bars/Clubs,1974,NA,-86.1852894,39.7677363,Google Verified Location
-17927,IN406,Deja Vu,,1322 W. Washington,Indianapolis,IN,"(HIP),(YC),(D),(*)",Bars/Clubs,1973,NA,-86.1852894,39.7677363,Google Verified Location
-17923,IN197,Deja Vu,(Disco) (Tuesday is 'topless' night),1322 W. Washington,Indianapolis,IN,"(HIP),(YC),(D),(*)",Bars/Clubs,1977,NA,-86.1852894,39.7677363,Google Verified Location
-17924,IN251,Deja Vu,(Disco) (Mon. is 'topless night),1322 W. Washington,Indianapolis,IN,"(HIP),(YC),(D),(*)",Bars/Clubs,1976,NA,-86.1852894,39.7677363,Google Verified Location
-18215,IN539,Delaware Hotel,(piano bar only),206 S. Mulberry,Muncie,IN,,"Hotel,Bars/Clubs",1969,NA,-85.3851518,40.1926277,Google Verified Location
-18217,IN587,Delaware Hotel,(piano bar only),206 S. Mulberry,Muncie,IN,,"Bars/Clubs,Hotel",1966,NA,-85.3851518,40.1926277,Google Verified Location
-18213,IN487,Delaware Hotel,(piano bar only),206 S. Mulberry,Muncie,IN,,"Hotel,Bars/Clubs",1971,NA,-85.3851518,40.1926277,Google Verified Location
-18214,IN515,Delaware Hotel,(piano bar only),206 S. Mulberry,Muncie,IN,,"Bars/Clubs,Hotel",1970,NA,-85.3851518,40.1926277,Google Verified Location
-18218,IN612,Delaware Hotel,(piano bar),206 S. Mulberry,Muncie,IN,(M),"Bars/Clubs,Hotel",1965,NA,-85.3851518,40.1926277,Google Verified Location
-18216,IN567,Delaware Hotel,(piano bar only),206 S. Mulberry,Muncie,IN,,"Hotel,Bars/Clubs",1968,NA,-85.3851518,40.1926277,Google Verified Location
-17906,IN252,Denny's,,4901 - 38th St.,Indianapolis,IN,"(M),(R),(C),(AH)",Restaurant,1976,NA,-86.2424578,39.8238525,Google Verified Location
-17904,IN141,Denny's,,4901 38th St.,Indianapolis,IN,"(M),(R),(C),(AH)",Restaurant,1978,NA,-86.2424578,39.8238525,Google Verified Location
-17905,IN198,Denny's,,4901 38th St,Indianapolis,IN,"(M),(R),(C),(AH)",Restaurant,1977,NA,-86.2424578,39.8238525,Google Verified Location
-17903,IN084,Denny's,,4901 38th St.,Indianapolis,IN,"(M),(C),(AH),(R)",Restaurant,1979,NA,-86.2424578,39.8238525,Google Verified Location
-17902,IN027,Denny's ,,4901 38th St.,Indianapolis,IN,"(M),(R),(C),(AH)",Restaurant,1980,NA,-86.2424578,39.8238525,Google Verified Location
-18049,IN407,Dobb's House,(after hours),6th & Pennsylvania,Indianapolis,IN,"(M),(R),(C)","Bars/Clubs,Restaurant",1973,,-86.155819,39.778985,Verified Location
-18047,IN306,Dobbs House,(HOT),9th & Pennsylvania,Indianapolis,IN,"(M),(R),(C),(AH),(HOT)",Restaurant,1975,,-86.155819,39.778985,Verified Location
-18048,IN356,Dobbs House,(after hours),9th & Pennsylvania,Indianapolis,IN,"(M),(R),(C),(AH)",Restaurant,1974,,-86.155819,39.778985,Verified Location
-17827,IN003,Doc Johnson,('Books n things),14th & College,Bloomington,IN,(M),Book Store,1980,,-86.534754,39.175964,Verified Location
-17901,IN429,Downtowner,,411 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1973,NA,-86.2445568,41.6750826,Google Verified Location
-17897,IN221,Downtowner,,411 E. Jefferson,South Bend,IN,"(D),(R),(*)",Restaurant,1977,NA,-86.2445568,41.6750826,Google Verified Location
-17898,IN279,Downtowner,,411 E. Jefferson,South Bend,IN,"(R),(*)",Restaurant,1976,NA,-86.2445568,41.6750826,Google Verified Location
-17900,IN380,Downtowner,,411 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1974,NA,-86.2445568,41.6750826,Google Verified Location
-17899,IN327,Downtowner,,411 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1975,NA,-86.2445568,41.6750826,Google Verified Location
-18157,IN085,E. Washington Book Mart,,5444 E. Washington,Indianapolis,IN,(M),Book Store,1979,NA,-86.0742823,39.7711198,Google Verified Location
-18156,IN028,E. Washington Book Mart,,5444 E. Washington,Indianapolis,IN,(M),Book Store,1980,NA,-86.0742823,39.7711198,Google Verified Location
-17929,IN418,End of Fall Creek Blvd.,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1973,,-86.170411,39.798338,Location could not be verified. General city or location coordinates used.
-18230,IN071,Erotica House,(Book store),930 Broadway,Ft. Wayne,IN,,Book Store,1979,NA,-85.148301,41.0760096,Google Verified Location
-18229,IN017,Erotica House,(Book Store),930 Broadway,Ft. Wayne,IN,,Book Store,1980,NA,-85.148301,41.0760096,Google Verified Location
-17685,IN066,Evansville Book Mart,,201 S. Fulton Ave.,Evansville,IN,,Book Store,1979,NA,-87.581077,37.975675,Google Verified Location
-17684,IN012,Evansville Book Mart,,201 S. Fulton Ave,Evansville,IN,,Book Store,1980,NA,-87.581077,37.975675,Google Verified Location
-17930,IN253,Expo,('Tim's) (go-go boys),305 W. Washington,Indianapolis,IN,"(YC),(E)",Bars/Clubs,1976,NA,-86.1638498,39.766935,Google Verified Location
-17931,IN307,Expo,,305 W. Washington,Indianapolis,IN,"(YC),(E),(*)",Bars/Clubs,1975,NA,-86.1638498,39.766935,Google Verified Location
-18131,IN154,Fall Creek Parkway,,from  56th to Interstate (HOT),Indianapolis,IN,"Cruisy Area,(AYOR)",Cruising Areas,1978,,-86.143671,39.813767,Location could not be verified. General city or location coordinates used.
-18130,IN097,Fall Creek Parkway,,from 56th to Interstate (HOT),Indianapolis,IN,"Cruisy Area,(AYOR)",Cruising Areas,1979,,-86.143671,39.813767,Location could not be verified. General city or location coordinates used.
-18129,IN040,Fall Creek Parkway,,from 56th to Interstate,Indianapolis,IN,"(AYOR),Cruisy Area",Cruising Areas,1980,,-86.143671,39.813767,Location could not be verified. General city or location coordinates used.
-18274,IN393,Famous Barr,(Maybe opening 6/72),Main St. at Barr St.,Ft. Wayne,IN,,Bars/Clubs,1973,,-85.136889,41.080862,Verified Location
-17946,IN199,Famous Door,,252 N. Capitol,Indianapolis,IN,"(S),(D),(*)",Bars/Clubs,1977,NA,-86.1616351,39.7707774,Google Verified Location
-17953,IN508,Famous Door,,252 N. Capital,Indianapolis,IN,"(S),(*)",Bars/Clubs,1970,NA,-86.1616351,39.7707774,Google Verified Location
-17951,IN449,Famous Door,,252 N. Capitol,Indianapolis,IN,"(S),(*)",Bars/Clubs,1972,NA,-86.1616351,39.7707774,Google Verified Location
-17947,IN254,Famous Door,,252 N. Capitol,Indianapolis,IN,"(S),(D),(*)",Bars/Clubs,1976,NA,-86.1616351,39.7707774,Google Verified Location
-17948,IN308,Famous Door,,252 N. Capitol,Indianapolis,IN,"(S),(D),(*)",Bars/Clubs,1975,NA,-86.1616351,39.7707774,Google Verified Location
-17945,IN142,Famous Door,,252 No. Capitol,Indianapolis,IN,"(S),(D),(*)",Bars/Clubs,1978,NA,-86.1616351,39.7707774,Google Verified Location
-17944,IN086,Famous Door,(Many G) (Wed-Sat only*),252 N. Capitol,Indianapolis,IN,"(M),(S),(G),(*)",Bars/Clubs,1979,NA,-86.1616351,39.7707774,Google Verified Location
-17952,IN480,Famous Door,,252 N. Capital,Indianapolis,IN,"(S),(*)",Bars/Clubs,1971,NA,-86.1616351,39.7707774,Google Verified Location
-17943,IN029,Famous Door,(Wed.-Sat only) (Some L),252 N. Capitol,Indianapolis,IN,"(M),(S),(L),(*)",Bars/Clubs,1980,NA,-86.1616351,39.7707774,Google Verified Location
-17949,IN357,Famous Door,,252 N. Capitol,Indianapolis,IN,"(D),(S),(*)",Bars/Clubs,1974,NA,-86.1616351,39.7707774,Google Verified Location
-17950,IN408,Famous Door,,252 N. Capitol,Indianapolis,IN,"(S),(*)",Bars/Clubs,1973,NA,-86.1616351,39.7707774,Google Verified Location
-17800,IN437,Farmer's Inn,,R.R.2,Brazil,IN,(M),Hotel,1972,,-87.125015,39.523652,Location could not be verified. General city or location coordinates used.
-17739,IN501,Fayette Health Spa Baths,,532 Fayette St.,Hammond,IN,,Baths,1970,NA,-87.516259,41.616293,Google Verified Location
-18158,IN358,Festival Theatre,,5507 E. Washington,Indianapolis,IN,,Theatre,1974,NA,-86.0732741,39.7704533,Google Verified Location
-18113,IN030,Fourth World,(Many L) (Disco) (Game room) ,1808 N. Central,Indianapolis,IN,"(L),(D),(PT),(*)",Bars/Clubs,1980,NA,-86.149896,39.791268,Google Verified Location
-17976,IN209,Fox Theatre,,240 N. Illinois Street,Indianapolis,IN,Cruisy Area,"Cruising Areas,Theatre",1977,,-86.160035,39.770618,Verified Location
-17978,IN318,Fox Theatre,,240 N. Illinois Street,Indianapolis,IN,Cruisy Area,"Cruising Areas,Theatre",1975,,-86.160035,39.770618,Verified Location
-17977,IN266,Fox Theatre,,240 N. Illinois Street,Indianapolis,IN,Cruisy Area,"Cruising Areas,Theatre",1976,,-86.160035,39.770618,Verified Location
-17979,IN370,Fox Theatre,,240 N. Illinois Street,Indianapolis,IN,Cruisy Area,"Cruising Areas,Theatre",1974,,-86.160035,39.770618,Verified Location
-17974,IN098,Fox Theatre,(HOT),240 N. Illinois Street,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)","Cruising Areas,Theatre",1979,,-86.160035,39.770618,Verified Location
-17975,IN155,Fox Theatre,(HOT),240 N. Illinois Street,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)","Cruising Areas,Theatre",1978,,-86.160035,39.770618,Verified Location
-17980,IN419,Fox Theatre,,240 N. Illinois Street,Indianapolis,IN,Cruisy Area,"Cruising Areas,Theatre",1973,,-86.160035,39.770618,Verified Location
-17691,IN468,Fox's Den,,502 N.W. 4th St.,Evansville,IN,"(YC),(M),(*)",Bars/Clubs,1971,NA,-87.5746704,37.9761473,Google Verified Location
-18143,IN271,Gay 90's,,Inquire Locally,Kokomo,IN,,Bars/Clubs,1976,,-86.133603,40.486427,Location could not be verified. General city or location coordinates used.
-18142,IN215,Gay 90's,,Inquire Locally,Kokomo,IN,,Bars/Clubs,1977,,-86.133603,40.486427,Location could not be verified. General city or location coordinates used.
-17729,IN228,George Rogers Clark Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1977,NA,-87.5286325,38.677269,Google Verified Location
-18289,IN175,George Rogers Clark Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1978,,-87.536709,38.677998,Verified Location
-18288,IN118,George Rogers Clark Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1979,,-87.536709,38.677998,Verified Location
-18287,IN060,George Rogers Clark Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1980,,-87.536709,38.677998,Verified Location
-18293,IN434,George Rogers Clark Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1973,,-87.536709,38.677998,Verified Location
-18290,IN285,George Rogers Clark Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1976,,-87.536709,38.677998,Verified Location
-18291,IN331,George Rogers Clark Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1975,,-87.536709,38.677998,Verified Location
-18292,IN384,George Rogers Memorial Park,,,Vincennes,IN,Cruisy Area,Cruising Areas,1974,,-87.536709,38.677998,Verified Location
-18148,IN156,Glendale Shopping Center,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1978,,-86.119534,39.866162,Verified Location
-18153,IN420,Glendale Shopping Center,,62nd & Keystone,Indianapolis,IN,Cruisy Area,Cruising Areas,1973,,-86.119534,39.866162,Verified Location
-18147,IN099,Glendale Shopping Center,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,,-86.119534,39.866162,Verified Location
-18149,IN210,Glendale Shopping Center,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1977,,-86.119534,39.866162,Verified Location
-18151,IN267,Glendale Shopping Center,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1976,,-86.119534,39.866162,Verified Location
-18150,IN235,Glendale Shopping Center,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1975,,-86.119534,39.866162,Verified Location
-18152,IN371,Glendale Shopping Center,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1974,,-86.119534,39.866162,Verified Location
-17918,IN450,Golden Horn,,3402 W. Washington,Indianapolis,IN,"(YC),(D),(*)",Bars/Clubs,1972,NA,-86.2157869,39.7637015,Google Verified Location
-17917,IN409,Golden Horn Pub,(some-time called 'The Pub' or 'the Horn',3420 W. Washington,Indianapolis,IN,"(YC),(D),(*)",Bars/Clubs,1973,NA,-86.2164489,39.7634801,Google Verified Location
-17916,IN359,Golden Horn Pub,(sometimes called 'The Pub' or 'The Horn'),3420 W. Washington,Indianapolis,IN,"(YC),(D)",Bars/Clubs,1974,NA,-86.2164489,39.7634801,Google Verified Location
-17970,IN481,Golden Nugget,(also called Freddy's),226 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1971,NA,-86.1600369,39.7705899,Google Verified Location
-17971,IN509,Golden Nugget,(also called Freddy's),226 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1970,NA,-86.1600369,39.7705899,Google Verified Location
-17972,IN534,Golden Nugget,(also called Freda's),226 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1969,NA,-86.1600369,39.7705899,Google Verified Location
-17973,IN561,Golden Nugget,(also called Freda's),226 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1968,NA,-86.1600369,39.7705899,Google Verified Location
-18033,IN031,Gravel Girtie's,(R & Bar) (Cruisy) (Open 11am-3am) ,2301 N. Meridian,Indianapolis,IN,"(R),(D),(*)","Restaurant,Bars/Clubs,Cruising Areas",1980,NA,-86.1566753,39.7993415,Google Verified Location
-18016,IN255,Grog Shop,(open Sundays) Stouffer's Indianapolis Inn,2820 N. Meridian ,Indianapolis,IN,"(M),(R)",Restaurant,1976,NA,-86.1573312,39.8076166,Google Verified Location
-18017,IN309,Grog Shop,Stouffer's Indianapolis Inn,2820 N. Meridian ,Indianapolis,IN,(M),Bars/Clubs,1975,NA,-86.1573312,39.8076166,Google Verified Location
-18019,IN410,Grogshop,Stouffer's Indianapolis Inn,2820 N. Meridian,Indianapolis,IN,(M),"Bars/Clubs,Hotel",1973,NA,-86.1573312,39.8076166,Google Verified Location
-18018,IN360,Grogshop,Stouffer's Indianapolis Inn,2820 N. Meridian,Indianapolis,IN,(M),Bars/Clubs,1974,NA,-86.1573312,39.8076166,Google Verified Location
-17721,IN289,Happy Hour,,Franklin Street,Evansville,IN,(S),Bars/Clubs,1975,,-87.547691,37.97991,Location could not be verified. General city or location coordinates used.
-17722,IN335,Happy Hour,,Franklin St.,Evansville,IN,(S),Bars/Clubs,1974,,-87.547691,37.97991,Location could not be verified. General city or location coordinates used.
-18240,IN471,Henry's,,536 Main St.,Ft. Wayne,IN,(*),Bars/Clubs,1971,NA,-85.14743,41.079291,Google Verified Location
-18232,IN072,Henry's,('Hustlers),536 Main St,Ft. Wayne,IN,"(M),(RT)",Bars/Clubs,1979,NA,-85.14743,41.079291,Google Verified Location
-18242,IN525,Henry's,,536 Main St.,Ft. Wayne,IN,,Bars/Clubs,1969,NA,-85.14743,41.079291,Google Verified Location
-18241,IN498,Henry's,,536 Main St.,Ft. Wayne,IN,(*),Bars/Clubs,1970,NA,-85.14743,41.079291,Google Verified Location
-18245,IN594,Henry's,,536 Main St.,Ft. Wayne,IN,,Bars/Clubs,1965,NA,-85.14743,41.079291,Google Verified Location
-18236,IN295,Henry's,,536 Main Street,Ft. Wayne,IN,(M),Bars/Clubs,1975,NA,-85.14743,41.079291,Google Verified Location
-18239,IN440,Henry's,,536 Main St.,Ft. Wayne,IN,(*),Bars/Clubs,1972,NA,-85.14743,41.079291,Google Verified Location
-18231,IN018,Henry's,('Hustlers'),536 Main St.,Ft. Wayne,IN,"(M),(RT)",Bars/Clubs,1980,NA,-85.14743,41.079291,Google Verified Location
-18233,IN130,Henry's,(Cruisy),536 Main St.,Ft. Wayne,IN,(*),"Bars/Clubs,Cruising Areas",1978,NA,-85.14743,41.079291,Google Verified Location
-18235,IN240,Henry's,,536 Main St.,Ft. Wayne,IN,(M),Bars/Clubs,1976,NA,-85.14743,41.079291,Google Verified Location
-18238,IN394,Henry's,,536 Main St.,Ft. Wayne,IN,(M),Bars/Clubs,1973,NA,-85.14743,41.079291,Google Verified Location
-18244,IN575,Henry's,,536 Main St.,Ft. Wayne,IN,,Bars/Clubs,1966,NA,-85.14743,41.079291,Google Verified Location
-18243,IN551,Henry's,,536 Main St.,Ft. Wayne,IN,,Bars/Clubs,1968,NA,-85.14743,41.079291,Google Verified Location
-18234,IN187,Henry's ,,536 Main Street,Ft. Wayne,IN,(M),Bars/Clubs,1977,NA,-85.14743,41.079291,Google Verified Location
-18237,IN341,Henry's ,,536 Main St.,Ft. Wayne,IN,(M),Bars/Clubs,1974,NA,-85.14743,41.079291,Google Verified Location
-17850,IN467,Hideaway,,327 S. Woodlawn ,Bloomington,IN,"(C),(R),(M)",Restaurant,1971,NA,-86.5226243,39.1634142,Google Verified Location
-17851,IN494,Hideaway,,327 S. Woodlawn ,Bloomington,IN,"(C),(R),(M)",Restaurant,1970,NA,-86.5226243,39.1634142,Google Verified Location
-17849,IN435,Hideaway,,327 S. Woodlawn,Bloomington,IN,"(M),(R),(C)",Restaurant,1972,NA,-86.5226243,39.1634142,Google Verified Location
-17937,IN319,Holiday Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1975,,-86.163494,39.870893,Verified Location
-17934,IN157,Holiday Park,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1978,,-86.163494,39.870893,Verified Location
-17935,IN211,Holiday Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1977,,-86.163494,39.870893,Verified Location
-17940,IN456,Holiday Park,,64th & Spring Mill Rd.,Indianapolis,IN,Cruisy Area,Cruising Areas,1972,,-86.163494,39.870893,Verified Location
-17933,IN100,Holiday Park,(HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,,-86.163494,39.870893,Verified Location
-17932,IN041,Holiday Park,,,Indianapolis,IN,"(AYOR),Cruisy Area",Cruising Areas,1980,,-86.163494,39.870893,Verified Location
-17939,IN421,Holiday Park,,64th & Spring Mill Rd.,Indianapolis,IN,Cruisy Area,Cruising Areas,1973,,-86.163494,39.870893,Verified Location
-17938,IN372,Holiday Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1974,,-86.163494,39.870893,Verified Location
-17936,IN268,Holiday Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1976,,-86.163494,39.870893,Verified Location
-17986,IN256,Holland,(afternoons),117 N. Illinous,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1976,NA,-86.1594024,39.7689557,Google Verified Location
-17990,IN451,Holland,,117 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1972,NA,-86.1594024,39.7689557,Google Verified Location
-17984,IN143,Holland's,(Afternoons),117 No. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1978,NA,-86.1594024,39.7689557,Google Verified Location
-17985,IN200,Holland's,(Afternoons),117 N. Illinois ,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1977,NA,-86.1594024,39.7689557,Google Verified Location
-17991,IN482,Holland's,,117 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1971,NA,-86.1594024,39.7689557,Google Verified Location
-17992,IN510,Holland's,,117 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1970,NA,-86.1594024,39.7689557,Google Verified Location
-17989,IN411,Holland's,,117 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1973,NA,-86.1594024,39.7689557,Google Verified Location
-17988,IN361,Holland's ,(afternoons),117 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1974,NA,-86.1594024,39.7689557,Google Verified Location
-17987,IN310,Holland's ,(Afternoons),117 N. Illinois,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1975,NA,-86.1594024,39.7689557,Google Verified Location
-18261,IN472,Hotel Anthony,(piano bar only),128 W. Berry St.,Ft. Wayne,IN,(M),"Bars/Clubs,Hotel",1971,NA,-85.140827,41.0793945,Google Verified Location
-18262,IN499,Hotel Anthony,(piano bar only),128 W. Berry St.,Ft. Wayne,IN,"(M),(PE)","Hotel,Bars/Clubs",1970,NA,-85.140827,41.0793945,Google Verified Location
-18259,IN395,Hotel Anthony,,128 W. Barry,Ft. Wayne,IN,(M),"Hotel,Bars/Clubs",1973,NA,-85.140827,41.0793945,Google Verified Location
-18258,IN342,Hotel Anthony,,128 W. Barry,Ft. Wayne,IN,(M),"Hotel,Bars/Clubs",1974,NA,-85.140827,41.0793945,Google Verified Location
-18260,IN441,Hotel Anthony,,128 W. Barry,Ft. Wayne,IN,(M),"Hotel,Bars/Clubs",1972,NA,-85.140827,41.0793945,Google Verified Location
-17695,IN524,Hotel McCurdy Bar,,101 S.E. 1st St.,Evansville,IN,,"Bars/Clubs,Hotel",1969,NA,-87.5738402,37.9686353,Google Verified Location
-17692,IN438,Hotel McCurdy Bar,,101 S.E. 1st St.,Evansville,IN,(M),"Hotel,Bars/Clubs",1972,NA,-87.5738402,37.9686353,Google Verified Location
-17693,IN469,Hotel McCurdy Bar,,101 S.E. 1st St.,Evansville,IN,(M),"Hotel,Bars/Clubs",1971,NA,-87.5738402,37.9686353,Google Verified Location
-17696,IN550,Hotel McCurdy Bar,,101 S.E. 1st St.,Evansville,IN,,"Bars/Clubs,Hotel",1968,NA,-87.5738402,37.9686353,Google Verified Location
-17694,IN497,Hotel McCurdy Bar,,101 S.E. 1st St.,Evansville,IN,,"Hotel,Bars/Clubs",1970,NA,-87.5738402,37.9686353,Google Verified Location
-17828,IN004,Hour House,(Open 24 hrs),,Bloomington,IN,"(M),(R)",Restaurant,1980,,-86.533952,39.169164,Verified Location
-17995,IN452,Huddle,(after hours),2034 N. Meridian,Indianapolis,IN,"(M),(R),(C),(AH)",Restaurant,1972,NA,-86.1581318,39.7941891,Google Verified Location
-17996,IN483,Huddle,(after hours),2034 N. Meridian,Indianapolis,IN,"(R),(M),(C)",Restaurant,1971,NA,-86.1581318,39.7941891,Google Verified Location
-17998,IN535,Huddle Restaurant,(after hours),2034 N. Meridian,Indianapolis,IN,"(M),(C)",Restaurant,1969,NA,-86.1581318,39.7941891,Google Verified Location
-18001,IN606,Huddle Restaurant,,2034 N. Meridian,Indianapolis,IN,(C),Restaurant,1965,NA,-86.1581318,39.7941891,Google Verified Location
-17999,IN562,Huddle Restaurant,(after hours),2034 N. Meridian,Indianapolis,IN,"(M),(C)",Restaurant,1968,NA,-86.1581318,39.7941891,Google Verified Location
-17997,IN511,Huddle Restaurant,(after hours),2034 N. Meridian,Indianapolis,IN,"(M),(C)",Restaurant,1970,NA,-86.1581318,39.7941891,Google Verified Location
-18000,IN583,Huddle Restaurant,,2034 N. Meridian,Indianapolis,IN,(C),Restaurant,1966,NA,-86.1581318,39.7941891,Google Verified Location
-18042,IN032,Hunt,(3 floors 'super bar'-ground flood 'Lodge') (Cruisy) & 'Chase' upstairs (Disco),107 S. Pennsylvania,Indianapolis,IN,"(W),(YC),(D),(PT),(*)","Bars/Clubs,Cruising Areas",1980,NA,-86.1559797,39.7653892,Google Verified Location
-18046,IN257,Hunt,(2 floors) (Disco),141 S. Pennsylvania,Indianapolis,IN,"(YC),(D),(*)",Bars/Clubs,1976,NA,-86.1558317,39.7639958,Google Verified Location
-18045,IN201,Hunt,(3 floors 'super bar' Ground floor 'The lodge' is (W) (YC) (Cruisy) 'The Chase' upstairs has (YC) (DISCO) (D) (PT) & games),107 S. Pennsylvania,Indianapolis,IN,"(W),(YC),(D),(PT)","Bars/Clubs,Cruising Areas",1977,NA,-86.1559797,39.7653892,Google Verified Location
-18044,IN144,Hunt,(3 floors 'super bar'-Ground floor 'Lodge' (Cruisy) -'Chase' upstairs (Disco),107 So. Pennsylvania,Indianapolis,IN,"(*),(W),(YC),(D),(PT)","Bars/Clubs,Cruising Areas",1978,NA,-86.1559797,39.7653892,Google Verified Location
-18043,IN087,Hunt,(3 floors 'super bar'-ground floor 'Lodge' (Cruisy) & 'Chase'  upstairs (Disco),107 S. Pennsylvania ,Indianapolis,IN,"(W),(YC),(D),(PT)","Bars/Clubs,Cruising Areas",1979,NA,-86.1559797,39.7653892,Google Verified Location
-17871,IN167,Image ,(go go boys),1000 Lincoln Way,South Bend,IN,(D),Bars/Clubs,1978,NA,-86.2635999,41.682319,Google Verified Location
-17956,IN311,Indiana New Book Store,,137 W. Washington,Indianapolis,IN,,Book Store,1975,NA,-86.1609905,39.7665755,Google Verified Location
-17958,IN412,Indiana News Book Store,,137 W. Washington,Indianapolis,IN,,Book Store,1973,NA,-86.1609905,39.7665755,Google Verified Location
-17957,IN362,Indiana News Book Store ,,137 W. Washington,Indianapolis,IN,,Book Store,1974,NA,-86.1609905,39.7665755,Google Verified Location
-18031,IN158,Indianapolis Public Library,surrounding block-especially in back (HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)","Cruising Areas,Organizations",1978,2/1/2021 updated to include missing HOT amenity.,-86.156761,39.778168,Verified Location
-18030,IN101,Indianapolis Public Library,,v,Indianapolis,IN,"Cruisy Area,(AYOR)","Cruising Areas,Organizations",1979,,-86.156761,39.778168,Verified Location
-18032,IN212,Indianapolis Public library,Surrounding Block-especially in back,,Indianapolis,IN,Cruisy Area,"Cruising Areas,Organizations",1977,,-86.156761,39.778168,Verified Location
-18068,IN033,J. Pierpont's,,148 E. Market St. ,Indianapolis,IN,"(M),(R)",Restaurant,1980,NA,-86.1549456,39.7687109,Google Verified Location
-18036,IN145,J.D.'s,'The Ruins' (Recently enlarged),1218 No. Pennsylvania,Indianapolis,IN,"(R),(D),(*)",Restaurant,1978,NA,-86.1560592,39.7837148,Google Verified Location
-18037,IN202,J.D.'s,"""The Ruins""",1218 N. Pennsylvania,Indianapolis,IN,"(R),(D),(*)",Restaurant,1977,NA,-86.1560592,39.7837148,Google Verified Location
-18040,IN363,J.D.'s,'The Ruins',1218 N. Pennsylvania,Indianapolis,IN,"(R),(D),(*)",Restaurant,1974,NA,-86.1560592,39.7837148,Google Verified Location
-18038,IN258,J.D.'s,'The Ruins',1218 N. Pennsylvania,Indianapolis,IN,"(R),(D),(*)",Restaurant,1976,NA,-86.1560592,39.7837148,Google Verified Location
-18041,IN413,J.D.'s,'The Ruins',1202 N. Pennsylvania,Indianapolis,IN,(R),Restaurant,1973,NA,-86.1560393,39.7834932,Google Verified Location
-18039,IN312,J.D's,'The Ruins',1218 N. Pennsylvania,Indianapolis,IN,"(R),(D),(YC),(*)","Restaurant,Bars/Clubs",1975,NA,-86.1560592,39.7837148,Google Verified Location
-17752,IN173,Jack's Poplar Bar,"(Some B,RT)",1430 Poplar,Terre Haute,IN,"(M),(B),(RT)",Bars/Clubs,1978,NA,-87.3943971,39.4631858,Google Verified Location
-17750,IN057,Jack's Poplar Bar,"(Some B, RT)",1430 Poplar ,Terre Haute,IN,"(M),(B),(RT)",Bars/Clubs,1980,NA,-87.3943971,39.4631858,Google Verified Location
-17751,IN117,Jack's Poplar Bar,"(Some B,RT)",1430 Poplar,Terre Haute,IN,"(M),(B),(RT)",Bars/Clubs,1979,NA,-87.3943971,39.4631858,Google Verified Location
-17754,IN282,Jack's Poplar St. Bar,,1430 Poplar,Terre Haute,IN,"(M),(B),(RT)",Bars/Clubs,1976,NA,-87.3943971,39.4631858,Google Verified Location
-17753,IN226,Jack's Poplar Street Bar,,1430 Poplar ,Terre Haute,IN,"(M),(B),(RT)",Bars/Clubs,1977,NA,-87.3943971,39.4631858,Google Verified Location
-18021,IN088,Jackie's Lounge,(Sundays*),1545 N. Meridian,Indianapolis,IN,"(R),(E),(*)","Bars/Clubs,Restaurant",1979,NA,-86.1569734,39.788124,Google Verified Location
-17890,IN570,Jolly Spot,,210 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1968,NA,-86.2499655,41.6747328,Google Verified Location
-17887,IN490,Jolly Spot,,210 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1971,NA,-86.2499655,41.6747328,Google Verified Location
-17886,IN462,Jolly Spot,,210 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1972,NA,-86.2499655,41.6747328,Google Verified Location
-17892,IN615,Jolly Spot,,210 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1965,NA,-86.2499655,41.6747328,Google Verified Location
-17888,IN518,Jolly Spot,,210 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1970,NA,-86.2499655,41.6747328,Google Verified Location
-17889,IN542,Jolly Spot,,210 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1969,NA,-86.2499655,41.6747328,Google Verified Location
-17891,IN590,Jolly Spot,,210 E. Jefferson,South Bend,IN,(*),Bars/Clubs,1966,NA,-86.2499655,41.6747328,Google Verified Location
-18015,IN607,King Cole,,7 N Meridian,Indianapolis,IN,"(M),(PE)",Bars/Clubs,1965,NA,-86.1578708,39.7674066,Google Verified Location
-18014,IN598,King Cole,,7 N Meridian,Indianapolis,IN,"(M),(PE)",Bars/Clubs,1966,NA,-86.1578708,39.7674066,Google Verified Location
-18013,IN414,King Cole,(lunch & cocktail hour only),7 N. Meridian,Indianapolis,IN,"(M),(PE),(R)",Restaurant,1973,NA,-86.1578708,39.7674066,Google Verified Location
-18012,IN364,King Cole,(Lunch & cocktail hour only),7 N. Meridian,Indianapolis,IN,"(M),(PE),(R)",Restaurant,1974,NA,-86.1578708,39.7674066,Google Verified Location
-18277,IN009,Kirkwood Ave,,,Bloomington,IN,Cruisy Area,Cruising Areas,1980,,-86.526378,39.166542,Verified Location
-18278,IN064,Kirkwood Ave,,,Bloomington,IN,Cruisy Area,Cruising Areas,1979,,-86.526378,39.166542,Verified Location
-18284,IN386,Kirkwood Ave,,,Bloomington,IN,Cruisy Area,Cruising Areas,1973,,-86.526378,39.166542,Verified Location
-18280,IN180,Kirkwood Ave,,,Bloomington,IN,Cruisy Area,Cruising Areas,1977,,-86.526378,39.166542,Verified Location
-18279,IN123,Kirkwood Ave.,,,Bloomington,IN,Cruisy Area,Cruising Areas,1978,,-86.526378,39.166542,Verified Location
-18283,IN333,Kirkwood Ave.,,,Bloomington,IN,Cruisy Area,Cruising Areas,1974,,-86.526378,39.166542,Verified Location
-18281,IN231,Kirkwood Ave.,,,Bloomington,IN,Cruisy Area,Cruising Areas,1976,,-86.526378,39.166542,Verified Location
-18282,IN287,Kirkwood Avenue,,,Bloomington,IN,Cruisy Area,Cruising Areas,1975,,-86.526378,39.166542,Verified Location
-17826,IN177,Kirkwood Bar,,212 Kirkwood Avenue,Bloomington,IN,"(M),(G),(RT),(D)",Bars/Clubs,1977,NA,-86.5355502,39.1668773,Google Verified Location
-17825,IN121,Kirkwood Bar,"(Some G,RT) ",212 Kirkwood Ave.,Bloomington,IN,"(M),(G),(RT),(D)",Bars/Clubs,1978,NA,-86.5355502,39.1668773,Google Verified Location
-17824,IN062,Kirkwood Bar,(Some G),212 Kirkwood Ave.,Bloomington,IN,"(M),(G),(RT),(D)",Bars/Clubs,1979,NA,-86.5355502,39.1668773,Google Verified Location
-17811,IN273,Knickerbocker,(W. Lafayette),5th between Main & Columbia,Lafayette,IN,"(M),(YC)",Bars/Clubs,1976,,-86.89185,40.418692,Verified Location
-17808,IN103,Knickerbocker,,5th St. Betw. Main & Columbia (W. Lafayette),Lafayette,IN,"(M),(YC)",Bars/Clubs,1979,,-86.89185,40.418692,Verified Location
-17810,IN217,Knickerbocker,,5th street between Main & Columbia (W. Lafayette,Lafayette,IN,"(M),(YC)",Bars/Clubs,1977,,-86.89185,40.418692,Verified Location
-17807,IN043,Knickerbocker,5th St. betw Main & Columbia (W. Lafayette),,Lafayette,IN,"(M),(YC)",Bars/Clubs,1980,NA,-86.89185,40.418692,Verified Location
-17809,IN161,Knickerbocker,,5th betw. Main & Columbia (W. Lafayette),Lafayette,IN,"(M),(YC)",Bars/Clubs,1978,,-86.89185,40.418692,Verified Location
-17993,IN453,Knife & Fork,(after hours),Illinois Ave.,Indianapolis,IN,"(M),(R),(C)",Restaurant,1972,,-86.159094,39.813747,Location could not be verified. General city or location coordinates used.
-17830,IN005,Library Adult Books,,7th & Washington,Bloomington,IN,,Book Store,1980,,-86.532227,39.168617,Verified Location
-18110,IN512,Linday Bath's,,450 Massachusetts,Indianapolis,IN,,Baths,1970,NA,-86.1513386,39.773567,Google Verified Location
-18106,IN584,Linday Bath's,,400 blck Massachusetts,Indianapolis,IN,,Baths,1966,,-86.152154,39.772771,Verified Location
-18111,IN536,Linday Bath's,,450 Massachusetts,Indianapolis,IN,,Baths,1969,NA,-86.1513386,39.773567,Google Verified Location
-18107,IN608,Linday Bath's,,400 blck Massachusetts,Indianapolis,IN,,Baths,1965,,-86.152154,39.772771,Verified Location
-18109,IN484,Linday Bath's,,450 Massachusetts,Indianapolis,IN,,Baths,1971,NA,-86.1513386,39.773567,Google Verified Location
-18112,IN563,Linday Bath's,,450 Massachusetts,Indianapolis,IN,,Baths,1968,NA,-86.1513386,39.773567,Google Verified Location
-18108,IN454,Lindsay Baths,,450 Massachusetts,Indianapolis,IN,,Baths,1972,NA,-86.1513386,39.773567,Google Verified Location
-17857,IN047,Little Denmark Book Store,,3002 Western Ave,South Bend,IN,(*),Book Store,1980,NA,-86.2913515,41.6717862,Google Verified Location
-18083,IN089,M.C.C.,,1940 N. Delaware,Indianapolis,IN,,Church,1979,NA,-86.1540915,39.793713,Google Verified Location
-18223,IN131,M.C.C.,,W. Main St.,Ft. Wayne,IN,,Church,1978,,-85.156802,41.078663,Location could not be verified. General city or location coordinates used.
-18084,IN148,M.C.C.,,1940 No. Delaware,Indianapolis,IN,,Church,1978,NA,-86.1540915,39.793713,Google Verified Location
-18082,IN034,M.C.C.,(May be moving),1940 N. Delaware,Indianapolis,IN,,Church,1980,NA,-86.1540915,39.793713,Google Verified Location
-18085,IN203,M.C.C.,,1940 N. Delaware,Indianapolis,IN,,Church,1977,NA,-86.1540915,39.793713,Google Verified Location
-18086,IN259,M.C.C.,,1940 N. Delaware,Indianapolis,IN,,Church,1976,NA,-86.1540915,39.793713,Google Verified Location
-18081,IN146,Ma Belle's,(Disco) (Cruisy) ,20 No. Delaware,Indianapolis,IN,"(D),(*)","Bars/Clubs,Cruising Areas",1978,NA,-86.1544823,39.7664031,Google Verified Location
-18145,IN272,Main Bar & Grill,,310 N. Main St.,Kokomo,IN,(M),Bars/Clubs,1976,NA,-86.1312413,40.488683,Google Verified Location
-18144,IN216,Main Bar & Grill,,310 N. Main Street,Kokomo,IN,(M),"Bars/Clubs,Restaurant",1977,NA,-86.1312413,40.488683,Google Verified Location
-17705,IN067,Main St.,,,Evansville,IN,Cruisy Area,Cruising Areas,1979,,-87.571724,37.971258,Verified Location
-17711,IN390,Main St.,,,Evansville,IN,Cruisy Area,Cruising Areas,1973,,-87.571724,37.971258,Verified Location
-17704,IN014,Main St.,,,Evansville,IN,Cruisy Area,Cruising Areas,1980,,-87.571724,37.971258,Verified Location
-18227,IN345,Main St.,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1974,,-85.156802,41.078663,Verified Location
-17710,IN338,Main St.,,,Evansville,IN,Cruisy Area,Cruising Areas,1974,,-87.571724,37.971258,Verified Location
-17708,IN237,Main Street,,,Evansville,IN,Cruisy Area,Cruising Areas,1976,,-87.571724,37.971258,Verified Location
-18224,IN189,Main Street,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1977,,-85.156802,41.078663,Verified Location
-18228,IN397,Main Street,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1973,,-85.156802,41.078663,Verified Location
-17709,IN292,Main Street,,,Evansville,IN,Cruisy Area,Cruising Areas,1975,,-87.571724,37.971258,Verified Location
-18225,IN242,Main Street,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1976,,-85.156802,41.078663,Verified Location
-18226,IN297,Main Street,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1975,,-85.156802,41.078663,Verified Location
-17707,IN184,Main Street,,,Evansville,IN,Cruisy Area,Cruising Areas,1977,,-87.571724,37.971258,Verified Location
-17706,IN126,Main Street,,,Evansville,IN,Cruisy Area,Cruising Areas,1978,,-87.571724,37.971258,Verified Location
-18205,IN427,Mark III,,100 block S. Walnut St.,Muncie,IN,(*),Bars/Clubs,1973,,-85.386308,40.193411,Verified Location
-18210,IN218,Mark III,,107 E. Main Street,Muncie,IN,(*),Bars/Clubs,1977,NA,-85.3861737,40.1934037,Google Verified Location
-18212,IN325,Mark III,,107 E. Main St.,Muncie,IN,(*),Bars/Clubs,1975,NA,-85.3861737,40.1934037,Google Verified Location
-18208,IN106,Mark III,(Disco),107 E. Main St.,Muncie,IN,"(YC),(D)",Bars/Clubs,1979,NA,-85.3861737,40.1934037,Google Verified Location
-18209,IN164,Mark III,,107 E. Main St.,Muncie,IN,(*),Bars/Clubs,1978,NA,-85.3861737,40.1934037,Google Verified Location
-18193,IN378,Mark III,,111 S. Walnut St.,Muncie,IN,(*),Bars/Clubs,1974,NA,-85.3867611,40.193267,Google Verified Location
-18211,IN276,Mark III,,107 E. Main St.,Muncie,IN,(*),Bars/Clubs,1976,NA,-85.3861737,40.1934037,Google Verified Location
-18207,IN045,Mark III,(Disco),107 E. Main St.,Muncie,IN,"(YC),(D)",Bars/Clubs,1980,NA,-85.3861737,40.1934037,Google Verified Location
-18206,IN461,Mark III,,"100 block, S. Walnut St.",Muncie,IN,(*),Bars/Clubs,1972,,-85.386308,40.193411,Verified Location
-17799,IN442,Marquette Park & Millers Beach,,,Gary,IN,Cruisy Area,Cruising Areas,1972,,-87.261111,41.616667,Verified Location
-18115,IN147,Meat Rack,"(Some B,M)",1808 No. Central,Indianapolis,IN,"(B),(M)",Bars/Clubs,1978,NA,-86.149896,39.791268,Google Verified Location
-17769,IN463,Meg's,,1801 Wabash,Terre Haute,IN,(G),Bars/Clubs,1972,NA,-87.3893097,39.468985,Google Verified Location
-17775,IN616,Meg's,,1801 Wabash,Terre Haute,IN,"(G),(*)",Bars/Clubs,1965,NA,-87.3893097,39.468985,Google Verified Location
-17770,IN491,Meg's,,1801 Wabash,Terre Haute,IN,,Bars/Clubs,1971,NA,-87.3893097,39.468985,Google Verified Location
-17768,IN430,Meg's,,1801 Wabash,Terre Haute,IN,"(M),(G)",Bars/Clubs,1973,NA,-87.3893097,39.468985,Google Verified Location
-17764,IN227,Meg's,(Some G),1801 Wabash,Terre Haute,IN,"(G),(*)",Bars/Clubs,1977,NA,-87.3893097,39.468985,Google Verified Location
-17773,IN571,Meg's,,1801 Wabash,Terre Haute,IN,,Bars/Clubs,1968,NA,-87.3893097,39.468985,Google Verified Location
-17767,IN381,Meg's,(Some G),1801 Wabash,Terre Haute,IN,"(*),(G)",Bars/Clubs,1974,NA,-87.3893097,39.468985,Google Verified Location
-17766,IN328,Meg's,(Some G),1801 Wabash,Terre Haute,IN,"(*),(G)",Bars/Clubs,1975,NA,-87.3893097,39.468985,Google Verified Location
-17765,IN283,Meg's,(Some G),1801 Wabash,Terre Haute,IN,"(*),(G)",Bars/Clubs,1976,NA,-87.3893097,39.468985,Google Verified Location
-17772,IN543,Meg's,,1801 Wabash,Terre Haute,IN,,Bars/Clubs,1969,NA,-87.3893097,39.468985,Google Verified Location
-17771,IN519,Meg's,,1801 Wabash,Terre Haute,IN,,Bars/Clubs,1970,NA,-87.3893097,39.468985,Google Verified Location
-17763,IN174,Meg's,(Some G),1801 Wabash,Terre Haute,IN,"(*),(G)",Bars/Clubs,1978,NA,-87.3893097,39.468985,Google Verified Location
-17774,IN591,Meg's,,1801 Wabash,Terre Haute,IN,(G),Bars/Clubs,1966,NA,-87.3893097,39.468985,Google Verified Location
-17740,IN618,Mena Cafe,(will be torn down after October 1965),Division St,Evansville,IN,(*),Restaurant,1965,NA,-87.4974835,37.9767897,Google Verified Location
-17682,IN391,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1973,,-87.606021,37.99634,Verified Location
-17676,IN068,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1979,,-87.606021,37.99634,Verified Location
-17681,IN339,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1974,,-87.606021,37.99634,Verified Location
-17680,IN293,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1975,,-87.606021,37.99634,Verified Location
-17675,IN015,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1980,,-87.606021,37.99634,Verified Location
-17679,IN238,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1976,,-87.606021,37.99634,Verified Location
-17678,IN185,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1977,,-87.606021,37.99634,Verified Location
-17677,IN127,Mesker Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1978,,-87.606021,37.99634,Verified Location
-17870,IN222,Michiana M.C.C.,,1527 Kemble Avenue,South Bend,IN,,Church,1977,NA,-86.2638463,41.6579651,Google Verified Location
-17893,IN048,Michigan St. Theatre & Book Store,('Wild back room'),1316 S. Michigan,South Bend,IN,,"Theatre,Book Store",1980,NA,-86.2496374,41.6603865,Google Verified Location
-18010,IN422,Monument Circle,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1973,,-86.158018,39.76909,Verified Location
-18004,IN102,Monument Circle,('Hustlers') (HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1979,,-86.158018,39.76909,Verified Location
-18008,IN320,Monument Circle,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1975,,-86.158018,39.76909,Verified Location
-18006,IN213,Monument Circle,(hot),,Indianapolis,IN,"Cruisy Area,(HOT)",Cruising Areas,1977,,-86.158018,39.76909,Verified Location
-18007,IN269,Monument Circle,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1976,,-86.158018,39.76909,Verified Location
-18011,IN457,Monument Circle,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1972,,-86.158018,39.76909,Verified Location
-18005,IN159,Monument Circle,(Hustlers) (HOT),,Indianapolis,IN,"Cruisy Area,(AYOR),(HOT)",Cruising Areas,1978,,-86.158018,39.76909,Verified Location
-18009,IN373,Monument Circle,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1974,,-86.158018,39.76909,Verified Location
-17686,IN125,My Way,"(S-Wed,Fri,Sat)",201 Fulton Ave.,Evansville,IN,"(D),(PT)",Bars/Clubs,1978,NA,-87.581077,37.975675,Google Verified Location
-17829,IN178,New Horizons,(We-only),118 W. 3rd St.,Bloomington,IN,"(YC),(D),(C),(E),(WE),(*)",Organizations,1977,NA,-86.533719,39.1647181,Google Verified Location
-17835,IN230,Nick's English Hut,,405 E. Kirkwood,Bloomington,IN,"(M),(HIP),(YC),(*)",Bars/Clubs,1976,NA,-86.5295135,39.16682,Google Verified Location
-17837,IN332,Nick's English Hut,,405 E. Kirkwood Ave.,Bloomington,IN,"(M),(HIP),(YC),(*)",Bars/Clubs,1974,NA,-86.5295135,39.16682,Google Verified Location
-17836,IN286,Nick's English Hut,,405 E. Kirkwood Ave.,Bloomington,IN,"(M),(HIP),(YC),(*)",Bars/Clubs,1975,NA,-86.5295135,39.16682,Google Verified Location
-17838,IN385,Nick's English Hut ,,405 E. Kirkwood Ave.,Bloomington,IN,"(M),(HIP),(YC),(*)",Bars/Clubs,1973,NA,-86.5295135,39.16682,Google Verified Location
-17874,IN052,North Village Mall,T-Rooms,,South Bend,IN,Cruisy Area,Cruising Areas,1980,,-86.25169,41.729656,Verified Location
-17875,IN112,North Village Mall,T-rooms,,South Bend,IN,Cruisy Area,Cruising Areas,1979,,-86.25169,41.729656,Verified Location
-17908,IN113,Notre Dame U.,"Library, Downstairs, T-Room",,South Bend,IN,Cruisy Area,Cruising Areas,1979,,-86.232865,41.702816,Verified Location
-17907,IN053,Notre Dame U.,"Library, downstairs T-Room",,South Bend,IN,Cruisy Area,"Cruising Areas,Organizations",1980,,-86.232865,41.702816,Verified Location
-17909,IN170,Notre Dame U.,,,South Bend,IN,Cruisy Area,"Cruising Areas,Organizations",1978,,-86.232865,41.702816,Verified Location
-17823,IN006,Omni,"(Some M, L, YC) (Disco) (Best ever in Bloomington)",214 Kirkwood,Bloomington,IN,"(M),(L),(YC),(D),(*)",Bars/Clubs,1980,NA,-86.5356883,39.1668611,Google Verified Location
-17994,IN090,One Ten Club,,17 Jackson Place,Indianapolis,IN,"(G),(R),(*)",Restaurant,1979,NA,-86.1589287,39.7633767,Google Verified Location
-17806,IN001,Outpost,,Merivale Rd.,Beverly Shores,IN,"(M),(R)",Restaurant,1980,,-86.975155,41.690787,Location could not be verified. General city or location coordinates used.
-17689,IN336,Pal's Steak House,(Some G),429 S. Fulton,Evansville,IN,"(YC),(D),(G),(*)",Bars/Clubs,1974,NA,-87.5808459,37.9769288,Google Verified Location
-17687,IN233,Pal's Steak House,(sometimes open-sometimes closed,429 S. Fulton,Evansville,IN,,Restaurant,1976,NA,-87.5808459,37.9769288,Google Verified Location
-17690,IN388,Pal's Steak House,(some (G)),429 S. Fulton St.,Evansville,IN,"(YC),(D),(G),(*)","Bars/Clubs,Restaurant",1973,NA,-87.5808459,37.9769288,Google Verified Location
-17688,IN290,Pal's Steak House,(Some G),429 So. Fulton,Evansville,IN,"(YC),(D),(G),(*)",Restaurant,1975,NA,-87.5808459,37.9769288,Google Verified Location
-17928,IN108,Paradise Books,,Mishawaka & Main,Mishawaka,IN,,Book Store,1979,,-86.181319,41.666217,Verified Location
-18188,IN516,Pastime,,513 S. Walnut,Muncie,IN,(M),Bars/Clubs,1970,NA,-85.3869093,40.1901678,Google Verified Location
-18190,IN568,Pastime,,513 S. Walnut,Muncie,IN,(M),Bars/Clubs,1968,NA,-85.3869093,40.1901678,Google Verified Location
-18192,IN613,Pastime,,513 S. Walnut,Muncie,IN,(M),Bars/Clubs,1965,NA,-85.3869093,40.1901678,Google Verified Location
-18189,IN540,Pastime,,513 S. Walnut,Muncie,IN,(M),Bars/Clubs,1969,NA,-85.3869093,40.1901678,Google Verified Location
-18191,IN588,Pastime,,513 S. Walnut,Muncie,IN,(M),Bars/Clubs,1966,NA,-85.3869093,40.1901678,Google Verified Location
-18187,IN488,Pastime,,513 S. Walnut,Muncie,IN,(M),Bars/Clubs,1971,NA,-85.3869093,40.1901678,Google Verified Location
-18276,IN134,Pearl & Berry Sts.,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1978,,-85.141974,41.078611,Location could not be verified. General city or location coordinates used.
-18247,IN075,Pearl St.,,from Harrison to Ewing,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1979,,-85.144793,41.080146,Verified Location
-18272,IN021,Pearl St. ,From Harrison to Ewing,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1980,NA,-85.1393513,41.079273,Google Verified Location
-18160,IN609,Ponderosa,,Washington St,Indianapolis,IN,,Bars/Clubs,1965,,-86.056174,39.771523,Location could not be verified. General city or location coordinates used.
-18159,IN599,Ponderosa,,Washington St,Indianapolis,IN,,Bars/Clubs,1966,,-86.056174,39.771523,Location could not be verified. General city or location coordinates used.
-17759,IN492,Poplar St. Bar,,1430 Poplar,Terre Haute,IN,"(M),(*)",Bars/Clubs,1971,NA,-87.3943971,39.4631858,Google Verified Location
-17761,IN544,Poplar St. Bar,,1430 Poplar,Terre Haute,IN,"(M),(*)",Bars/Clubs,1969,NA,-87.3943971,39.4631858,Google Verified Location
-17755,IN329,Poplar St. Bar,(Jack's) (Some B),1430 Poplar,Terre Haute,IN,"(M),(RT),(B),(*)",Bars/Clubs,1975,NA,-87.3943971,39.4631858,Google Verified Location
-17757,IN431,Poplar St. Bar,,1430 Poplar,Terre Haute,IN,"(B),(M),(RT)",Bars/Clubs,1973,NA,-87.3943971,39.4631858,Google Verified Location
-17762,IN572,Poplar St. Bar,,1430 Poplar,Terre Haute,IN,"(M),(*)",Bars/Clubs,1968,NA,-87.3943971,39.4631858,Google Verified Location
-17756,IN382,Poplar St. Bar,(Jack's),1430 Poplar,Terre Haute,IN,"(M),(B),(RT),(*)",Bars/Clubs,1974,NA,-87.3943971,39.4631858,Google Verified Location
-17758,IN464,Poplar St. Bar,,1430 Poplar,Terre Haute,IN,"(M),(*)",Bars/Clubs,1972,NA,-87.3943971,39.4631858,Google Verified Location
-17760,IN520,Poplar St. Bar,,1430 Poplar,Terre Haute,IN,"(M),(*)",Bars/Clubs,1970,NA,-87.3943971,39.4631858,Google Verified Location
-17912,IN054,Potawatami Park,,,South Bend,IN,Cruisy Area,Cruising Areas,1980,,-86.219502,41.668323,Verified Location
-17913,IN114,Potawatami Park,,,South Bend,IN,Cruisy Area,Cruising Areas,1979,,-86.219502,41.668323,Verified Location
-17914,IN171,Potawatami Park,,,South Bend,IN,Cruisy Area,Cruising Areas,1978,,-86.219502,41.668323,Verified Location
-17915,IN224,Potawatami Park,,,South Bend,IN,Cruisy Area,Cruising Areas,1977,,-86.219502,41.668323,Verified Location
-17715,IN182,Raymon's,(Inquire Locally),,Evansville,IN,,Bars/Clubs,1977,,-87.57109,37.971559,Location could not be verified. General city or location coordinates used.
-17802,IN330,Rest Area,,2 mi on W. on U.S. 30,Valparaiso,IN,Cruisy Area,Cruising Areas,1975,,-87.061141,41.473095,Location could not be verified. General city or location coordinates used.
-17815,IN322,Rest Area,,3 mi N. on Ind. 43,Lafayette,IN,Cruisy Area,Cruising Areas,1975,,-86.875287,40.416702,Location could not be verified. General city or location coordinates used.
-18202,IN326,Rest Area,,"10 mi. S. on Ind. 36, just off Ind.3",Muncie,IN,Cruisy Area,Cruising Areas,1975,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-17817,IN424,Rest area,,3 mi N. on Ind. 43,Lafayette,IN,Cruisy Area,Cruising Areas,1973,,-86.875287,40.416702,Location could not be verified. General city or location coordinates used.
-18204,IN428,Rest area,,"10 mi. S. on Ind. 36, just off Ind. 3",Muncie,IN,Cruisy Area,Cruising Areas,1973,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-18167,IN423,Rest area,,3 mi. N.E. on U.S. 40,Knightstown,IN,Cruisy Area,Cruising Areas,1973,,-85.526363,39.795601,Location could not be verified. General city or location coordinates used.
-17816,IN375,Rest area,,3 mi N. on Ind. 43,Lafayette,IN,Cruisy Area,Cruising Areas,1974,,-86.875287,40.416702,Location could not be verified. General city or location coordinates used.
-18203,IN379,Rest area,,"10 mi. S. on Ind. 36, just off Ind. 3",Muncie,IN,Cruisy Area,Cruising Areas,1974,,-85.38636,40.193377,Location could not be verified. General city or location coordinates used.
-18166,IN374,Rest area,,3 mi N.E. on US 40,Knightstown,IN,Cruisy Area,Cruising Areas,1974,,-85.526363,39.795601,Location could not be verified. General city or location coordinates used.
-17803,IN383,Rest stop,,2 mi. W. on US Hwy. 30,Valparaiso,IN,Cruisy Area,Cruising Areas,1974,,-87.061141,41.473095,Location could not be verified. General city or location coordinates used.
-17840,IN010,Rock Quarries,'Skinny dipping',,Bloomington,IN,Cruisy Area,Cruising Areas,1980,,-86.524461,39.08462,Location could not be verified. General city or location coordinates used.
-17776,IN528,Ron-Da-Voo,,520 Washington,Gary,IN,(M),Bars/Clubs,1969,NA,-87.338592,41.6014482,Google Verified Location
-17778,IN578,Ron-Da-Voo,,520 Washington,Gary,IN,(M),Bars/Clubs,1966,NA,-87.338592,41.6014482,Google Verified Location
-17777,IN554,Ron-Da-Voo,,520 Washington,Gary,IN,(M),Bars/Clubs,1968,NA,-87.338592,41.6014482,Google Verified Location
-17779,IN600,Ron-Da-Voo,,520 Washington,Gary,IN,(M),Bars/Clubs,1965,NA,-87.338592,41.6014482,Google Verified Location
-17822,IN548,Royal Oaks,,223 W. 6th St.,Bloomington,IN,,Bars/Clubs,1968,NA,-86.535925,39.1673552,Google Verified Location
-17818,IN436,Royal Oaks,,223 W. 6th St.,Bloomington,IN,"(M),(R),(C)",Restaurant,1972,NA,-86.535925,39.1673552,Google Verified Location
-17819,IN495,Royal Oaks,,223 W. 6th St.,Bloomington,IN,(M),Bars/Clubs,1970,NA,-86.535925,39.1673552,Google Verified Location
-17820,IN506,Royal Oaks,,223 W. 6th St.,Bloomington,IN,(M),Bars/Clubs,1971,NA,-86.535925,39.1673552,Google Verified Location
-17821,IN522,Royal Oaks,,223 W. 6th St.,Bloomington,IN,,Bars/Clubs,1969,NA,-86.535925,39.1673552,Google Verified Location
-17911,IN115,Scottsdale Shopping Center,T-Rooms,,South Bend,IN,Cruisy Area,Cruising Areas,1979,,-86.23013,41.626909,Verified Location
-17910,IN055,Scottsdale Shopping Center,T-Rooms,,South Bend,IN,Cruisy Area,Cruising Areas,1980,,-86.23013,41.626909,Verified Location
-17860,IN168,Sea Horse,(Some G)(No neon sign-opp. A &P),1902 Western Ave,South Bend,IN,"(G),(D),(S),(*)",Bars/Clubs,1978,NA,-86.2779495,41.6718207,Google Verified Location
-17859,IN109,Sea Horse,(Many G) (No sign-opp. A&P),1902 Western Ave.,South Bend,IN,"(G),(D),(S),(*)",Bars/Clubs,1979,NA,-86.2779495,41.6718207,Google Verified Location
-17858,IN049,Sea Horse,(Many L) (No sign-opp. A & P),1902 Western Ave.,South Bend,IN,"(L),(D),(S)",Bars/Clubs,1980,NA,-86.2779495,41.6718207,Google Verified Location
-17861,IN223,Sea Horse,(Some G) (No neon sign-opposite A&P),1902 Western Avenue,South Bend,IN,"(YC),(D),(S),(*),(G)",Bars/Clubs,1977,NA,-86.2779495,41.6718207,Google Verified Location
-17862,IN280,Seahorse,,456 S. Brookfield,South Bend,IN,"(YC),(D),(S),(*)",Bars/Clubs,1976,NA,-86.2774979,41.6704086,Google Verified Location
-17812,IN104,Sheridan Inn Resort,"(Bar, pool, & sauna)",821 Lake Shore,Michigan City,IN,"(R),(H)","Restaurant,Hotel",1979,NA,-86.8872805,41.7303718,Google Verified Location
-17813,IN162,Sheridan Inn Resort,"(Bar,pool & sauna)",821 Lake shore,Michigan City,IN,"(H),(R)","Hotel,Restaurant",1978,NA,-86.8872805,41.7303718,Google Verified Location
-17982,IN313,St. Elmo Steak House,,127 S. Illinois,Indianapolis,IN,"(M),(R)",Restaurant,1975,NA,-86.1598029,39.7648475,Google Verified Location
-17983,IN365,St. Elmo Steak House,,127 S. Illinois,Indianapolis,IN,"(M),(R)",Restaurant,1974,NA,-86.1598029,39.7648475,Google Verified Location
-17981,IN260,St. Elmo's Steak House,,127 S. Illinois,Indianapolis,IN,"(M),(R)",Restaurant,1976,NA,-86.1598029,39.7648475,Google Verified Location
-17894,IN050,St. Joe Water Works,(Disco) (basement cruise bar),411 E. Jefferson,South Bend,IN,"(YC),(R),(PT),(D)","Restaurant,Bars/Clubs",1980,NA,-86.2445568,41.6750826,Google Verified Location
-17895,IN110,St. Joe Water Works,(Disco) (basement cruise bar),411 E. Jefferson,South Bend,IN,"(*),(YC),(R),(PT),(D)","Bars/Clubs,Restaurant",1979,NA,-86.2445568,41.6750826,Google Verified Location
-17896,IN169,St.Joe. Water Works,(Basement cruise bar),411 E. Jefferson,South Bend,IN,"(*),(YC),(D),(R),(PT)","Restaurant,Bars/Clubs",1978,NA,-86.2445568,41.6750826,Google Verified Location
-18053,IN261,Steak 'n' Egg,(HOT),9th & Pennsylvania,Indianapolis,IN,"(M),(R),(C),(AH),(HOT)",Restaurant,1976,,-86.155812,39.779174,Verified Location
-18050,IN091,Steak 'n' Eggs,(HOT),9th & Pennsylvania,Indianapolis,IN,"(M),(R),(AH),(HOT)",Restaurant,1979,,-86.155812,39.779174,Verified Location
-18052,IN204,Steak 'n' Eggs,(Hot),9th & Pennsylvania,Indianapolis,IN,"(M),(R),(C),(AH),(HOT)",Restaurant,1977,,-86.155812,39.779174,Verified Location
-18051,IN149,Steak 'n' eggs,(HOT),9th & Pennsylvania,Indianapolis,IN,"(M),(R),(AH),(HOT)",Restaurant,1978,,-86.155812,39.779174,Verified Location
-17848,IN387,Student Union,Indiana Univ.,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1973,,-86.523707,39.167703,Verified Location
-17847,IN334,Student Union,Indiana Univ.,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1974,,-86.523707,39.167703,Verified Location
-17845,IN232,Student Union,Indiana U.,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1976,,-86.523707,39.167703,Verified Location
-17844,IN181,Student Union Bldg.,University of Indiana,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1977,,-86.523707,39.167703,Verified Location
-17846,IN288,"Student Union, Indiana U.",,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1975,,-86.523707,39.167703,Verified Location
-17683,IN013,Studio Art Theatre,,W. Franklin St.,Evansville,IN,,Theatre,1980,,-87.596296,37.980842,Verified Location
-17700,IN239,Sunset Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1976,,-87.572026,37.96045,Verified Location
-17703,IN392,Sunset Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1973,,-87.572026,37.96045,Verified Location
-17699,IN186,Sunset Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1977,,-87.572026,37.96045,Verified Location
-17701,IN294,Sunset Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1975,,-87.572026,37.96045,Verified Location
-17702,IN340,Sunset Park,,,Evansville,IN,Cruisy Area,Cruising Areas,1974,,-87.572026,37.96045,Verified Location
-18256,IN019,Swingers World Book Store,,224 W. Main St.,Ft. Wayne,IN,(*),Book Store,1980,NA,-85.1423905,41.0802351,Google Verified Location
-18257,IN073,Swingers World Book Store,,224 W. Main St.,Ft. Wayne,IN,,Book Store,1979,NA,-85.1423905,41.0802351,Google Verified Location
-18273,IN022,Swinney Park,(days),,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1980,NA,-85.1393513,41.079273,Google Verified Location
-18221,IN076,Swinney Park,(Days),,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1979,,-85.162008,41.074159,Verified Location
-18222,IN135,Swinny Oark,(Days),,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1978,,-85.162008,41.074159,Verified Location
-17746,IN521,T's Lounge,,801 Wabash,Terre Haute,IN,(M),Bars/Clubs,1970,NA,-87.4053724,39.466292,Google Verified Location
-17747,IN545,T's Lounge,,801 Wabash,Terre Haute,IN,(M),Bars/Clubs,1969,NA,-87.4053724,39.466292,Google Verified Location
-17748,IN573,T's Lounge,,801 Wabash,Terre Haute,IN,(M),Bars/Clubs,1968,NA,-87.4053724,39.466292,Google Verified Location
-17744,IN465,T's Lounge,,801 Wabash,Terre Haute,IN,(M),Bars/Clubs,1972,NA,-87.4053724,39.466292,Google Verified Location
-17743,IN432,T's Lounge,,801 Wabash,Terre Haute,IN,(M),Bars/Clubs,1973,NA,-87.4053724,39.466292,Google Verified Location
-17745,IN493,T's Lounge,,801 Wabash,Terre Haute,IN,(M),Bars/Clubs,1971,NA,-87.4053724,39.466292,Google Verified Location
-18087,IN035,The Club,('Darlo's) ,508 S. Alabama,Indianapolis,IN,"(RT),(L),(PT),(B)",Bars/Clubs,1980,NA,-86.1535342,39.7598684,Google Verified Location
-18089,IN150,The Club,('Darlos') ,508 So. Alabama,Indianapolis,IN,"(G),(PT)",Bars/Clubs,1978,NA,-86.1535342,39.7598684,Google Verified Location
-18090,IN205,The Club,(Darlo's),508 S. Alabama,Indianapolis,IN,"(G),(PT),(*)",Bars/Clubs,1977,NA,-86.1535342,39.7598684,Google Verified Location
-18088,IN092,The Club,('Darlos),508 S. Alabama,Indianapolis,IN,"(RT),(G),(PT)",Bars/Clubs,1979,NA,-86.1535342,39.7598684,Google Verified Location
-17713,IN069,The Levee,,,Evansville,IN,Cruisy Area,Cruising Areas,1979,,-87.571712,37.958178,Location could not be verified. General city or location coordinates used.
-17714,IN128,The Levee,,,Evansville,IN,Cruisy Area,Cruising Areas,1978,,-87.571712,37.958178,Location could not be verified. General city or location coordinates used.
-17712,IN016,The Levee,,,Evansville,IN,Cruisy Area,Cruising Areas,1980,,-87.571712,37.958178,Location could not be verified. General city or location coordinates used.
-18035,IN093,The Ruins,(Cruisy) (Enter thru 'active' parking lot in rear),1218 N. Pennsylvania,Indianapolis,IN,"(*),(R),(D)","Cruising Areas,Restaurant",1979,NA,-86.1560592,39.7837148,Google Verified Location
-18034,IN036,The Ruins,(Cruisy) (Enter thru 'active' parking lot in rear) ,1218 N. Pennsylvania,Indianapolis,IN,"(R),(D),(*)","Restaurant,Bars/Clubs,Cruising Areas",1980,NA,-86.1560592,39.7837148,Google Verified Location
-18275,IN343,Tom's Tavern,(Some G),2003 Maumee Ave.,Ft. Wayne,IN,(G),Bars/Clubs,1974,NA,-85.1117508,41.075712,Google Verified Location
-17698,IN619,Town Room,Hotel Vendome,24 NW 3rd St,Evansville,IN,(PE),"Hotel,Bars/Clubs",1965,NA,-87.5729549,37.9714466,Google Verified Location
-17697,IN439,Towne Room,Hotel Anthony ,24 N.W. 3rd St.,Evansville,IN,"(YC),(D),(*)","Bars/Clubs,Hotel",1972,NA,-87.5729549,37.9714466,Google Verified Location
-17785,IN601,Tremont Bar,,8 mi E on U.S. 12,Gary,IN,(*),Bars/Clubs,1965,,-87.337152,41.60204,Location could not be verified. General city or location coordinates used.
-17782,IN546,Tremont Bar,,8 mi E on U.S. 12,Gary,IN,(*),Bars/Clubs,1969,,-87.337152,41.60204,Location could not be verified. General city or location coordinates used.
-17783,IN555,Tremont Bar,,8 mi E on U.S. 12,Gary,IN,(*),Bars/Clubs,1968,,-87.337152,41.60204,Location could not be verified. General city or location coordinates used.
-17784,IN579,Tremont Bar,,8 mi E on U.S. 12,Gary,IN,(*),Bars/Clubs,1966,,-87.337152,41.60204,Location could not be verified. General city or location coordinates used.
-18255,IN396,TuLis'a Theatre Bar,(some (G)-(R) upstairs),226 W. Main St.,Ft. Wayne,IN,"(YC),(D),(*),(G),(R)","Bars/Clubs,Restaurant,Theatre",1973,NA,-85.142439,41.080228,Google Verified Location
-18252,IN241,TuLisa's Theatre Bar,,226 W. Main St.,Ft. Wayne,IN,"(YC),(S),(R),(*)","Restaurant,Bars/Clubs,Theatre",1976,NA,-85.142439,41.080228,Google Verified Location
-18254,IN344,TuLisa's Theatre Bar,,226 W. Main St.,Ft. Wayne,IN,"(YC),(D),(R),(*)","Restaurant,Theatre,Bars/Clubs",1974,NA,-85.142439,41.080228,Google Verified Location
-18253,IN296,TuLisa's Theatre Bar,,226 W. Main St.,Ft. Wayne,IN,"(YC),(S),(R),(*)","Restaurant,Bars/Clubs,Theatre",1975,NA,-85.142439,41.080228,Google Verified Location
-17843,IN124,U. of Indiana,Student Union Bldg-T-Rooms,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1978,,-86.523707,39.167703,Verified Location
-17841,IN011,U. of Indiana,Student Union Bldg. T-Rooms,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1980,,-86.523707,39.167703,Verified Location
-17842,IN065,U. of Indiana,Student Union Bldg-T-Rooms,,Bloomington,IN,Cruisy Area,"Cruising Areas,Organizations",1979,,-86.523707,39.167703,Verified Location
-17781,IN443,U.S. 20 'rest stop',,3 miles E. of Gary,Gary,IN,Cruisy Area,Cruising Areas,1972,,-87.337152,41.60204,Location could not be verified. General city or location coordinates used.
-17805,IN466,U.S. Hwy. 30 'rest stop',,2 miles W. of Valparaiso,Valparaiso,IN,Cruisy Area,Cruising Areas,1972,,-87.061141,41.473095,Location could not be verified. General city or location coordinates used.
-18020,IN458,University Park,,,Indianapolis,IN,Cruisy Area,Cruising Areas,1972,,-86.157012,39.771979,Verified Location
-18248,IN020,Up the Street,('Tops' in area) (Disco) (Showbar),226 W. Main St.,Ft. Wayne,IN,"(HIP),(YC),(D),(R)",Restaurant,1980,NA,-85.142439,41.080228,Google Verified Location
-18251,IN188,Up the Street,(Disco),226 W. Main Street,Ft. Wayne,IN,"(YC),(D),(R),(S)",Restaurant,1977,NA,-85.142439,41.080228,Google Verified Location
-18250,IN132,Up the Street,(Disco),226 W. Main St.,Ft. Wayne,IN,"(YC),(D),(R),(*)",Restaurant,1978,NA,-85.142439,41.080228,Google Verified Location
-18249,IN074,Up the Street,('Tops' in area) (Disco),226 W. Main St.,Ft. Wayne,IN,"(HIP),(YC),(D),(R)","Restaurant,Bars/Clubs",1979,NA,-85.142439,41.080228,Google Verified Location
-17749,IN059,Utopian Club,(Some L),635 N. 10th St.,Terre Haute,IN,(L),Bars/Clubs,1980,NA,-87.4020716,39.475181,Google Verified Location
-18266,IN595,Van Orman Hotel,(piano bar),128 W. Berry St.,Ft. Wayne,IN,"(M),(PE)","Bars/Clubs,Hotel",1965,NA,-85.140827,41.0793945,Google Verified Location
-18263,IN526,Van Orman Hotel,(piano bar only),128 W. Berry St.,Ft. Wayne,IN,"(M),(PE)","Hotel,Bars/Clubs",1969,NA,-85.140827,41.0793945,Google Verified Location
-18265,IN576,Van Orman Hotel,(piano bar only),128 W. Berry St.,Ft. Wayne,IN,"(M),(PE)","Bars/Clubs,Hotel",1966,NA,-85.140827,41.0793945,Google Verified Location
-18264,IN552,Van Orman Hotel,(piano bar only),128 W. Berry St.,Ft. Wayne,IN,"(M),(PE)","Bars/Clubs,Hotel",1968,NA,-85.140827,41.0793945,Google Verified Location
-18057,IN262,Varisity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,(M),Bars/Clubs,1976,NA,-86.1555027,39.7878746,Google Verified Location
-18064,IN537,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,"(M),(*)",Bars/Clubs,1969,NA,-86.1555027,39.7878746,Google Verified Location
-18055,IN151,Varsity Lounge,,1517 No. Pennsylvania,Indianapolis,IN,(M),Bars/Clubs,1978,NA,-86.1555027,39.7878746,Google Verified Location
-18065,IN564,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,(*),Bars/Clubs,1968,NA,-86.1555027,39.7878746,Google Verified Location
-18066,IN585,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,(*),Bars/Clubs,1966,NA,-86.1555027,39.7878746,Google Verified Location
-18054,IN094,Varsity Lounge,(R-days) (Some OC) (Nights*),1517 N. Pennsylvania ,Indianapolis,IN,"(M),(R),(OC),(*)",Restaurant,1979,NA,-86.1555027,39.7878746,Google Verified Location
-18067,IN610,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,"(*),(M)",Bars/Clubs,1965,NA,-86.1555027,39.7878746,Google Verified Location
-18063,IN513,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,"(M),(RT)",Bars/Clubs,1970,NA,-86.1555027,39.7878746,Google Verified Location
-18062,IN485,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,"(M),(*)",Bars/Clubs,1971,NA,-86.1555027,39.7878746,Google Verified Location
-18059,IN366,Varsity Lounge,(friendly night crew but avoid 'closety' day bartender),1517 N. Pennsylvania,Indianapolis,IN,,Bars/Clubs,1974,NA,-86.1555027,39.7878746,Google Verified Location
-18056,IN206,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,(M),Bars/Clubs,1977,NA,-86.1555027,39.7878746,Google Verified Location
-18002,IN037,Varsity Lounge,(R-days) (Some OC) (Nights*),,Indianapolis,IN,"(*),(M),(R),(OC)","Restaurant,Bars/Clubs",1980,NA,-86.158068,39.768403,Google Verified Location
-18058,IN314,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,(M),Bars/Clubs,1975,NA,-86.1555027,39.7878746,Google Verified Location
-18060,IN415,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,(*),Bars/Clubs,1973,NA,-86.1555027,39.7878746,Google Verified Location
-18061,IN455,Varsity Lounge,,1517 N. Pennsylvania,Indianapolis,IN,(*),Bars/Clubs,1972,NA,-86.1555027,39.7878746,Google Verified Location
-17885,IN281,Vicinity of Bus Depot,,,South Bend,IN,Cruisy Area,Cruising Areas,1976,,-86.251214,41.668932,Verified Location
-17882,IN056,Vicinity of Bus Depot,,,South Bend,IN,Cruisy Area,Cruising Areas,1980,,-86.251214,41.668932,Verified Location
-17884,IN172,Vicinity of Bus Depot,,,South Bend,IN,Cruisy Area,Cruising Areas,1978,,-86.251214,41.668932,Verified Location
-17883,IN116,Vicinity of Bus Depot,,,South Bend,IN,Cruisy Area,Cruising Areas,1979,,-86.251214,41.668932,Verified Location
-17873,IN225,Vicinity Park,,,South Bend,IN,Cruisy Area,Cruising Areas,1977,,-86.25199,41.676355,Location could not be verified. General city or location coordinates used.
-17792,IN077,W. section,,of Marquette Park & Miller Beach,Gary,IN,Cruisy Area,Cruising Areas,1979,,-87.261111,41.616667,Verified Location
-17793,IN136,W. Section of Marquette Park & Miller Beach,,,Gary,IN,Cruisy Area,Cruising Areas,1978,,-87.261111,41.616667,Verified Location
-17780,IN023,W. section of Marquette Park & Miller Beach,,,Gary,IN,Cruisy Area,Cruising Areas,1980,NA,-87.3371523,41.6020403,Google Verified Location
-17920,IN315,Waffle House,(AH weekends),2621 W. 16th St.,Indianapolis,IN,"(R),(M),(C),(AH),(WE)",Restaurant,1975,NA,-86.2047709,39.7876442,Google Verified Location
-17922,IN416,Waffle House,(after hours),2621 W. 16th St.,Indianapolis,IN,"(M),(YC),(R),(C)",Restaurant,1973,NA,-86.2047709,39.7876442,Google Verified Location
-17919,IN263,Waffle House,,2621 W. 16th St.,Indianapolis,IN,"(M),(R),(C),(AH),(WE)",Restaurant,1976,NA,-86.2047709,39.7876442,Google Verified Location
-17921,IN367,Waffle House,(after hours),2621 W. 16th St.,Indianapolis,IN,"(M),(R),(C),(AH)",Restaurant,1974,NA,-86.2047709,39.7876442,Google Verified Location
-18194,IN165,Way II,,110 W. Howard,Muncie,IN,"(M),(RT)",Bars/Clubs,1978,NA,-85.3866049,40.1904565,Google Verified Location
-18195,IN219,Way II,,110 W. Howard,Muncie,IN,"(M),(RT)",Bars/Clubs,1977,NA,-85.3866049,40.1904565,Google Verified Location
-18196,IN277,Way II,,110 W. Howard,Muncie,IN,"(M),(RT)",Bars/Clubs,1976,NA,-85.3866049,40.1904565,Google Verified Location
-18270,IN346,Webster St.,,betw. Pearl & Berry,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1974,,-85.139957,41.055103,Location could not be verified. General city or location coordinates used.
-18269,IN298,Webster St.,between Pearl & Berry,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1975,,-85.139957,41.055103,Location could not be verified. General city or location coordinates used.
-18271,IN398,Webster St. bet. Pearl & Berry,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1973,,-85.139957,41.055103,Location could not be verified. General city or location coordinates used.
-18268,IN243,"Webster St., betw. Pearl & Berry",,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1976,,-85.139957,41.055103,Location could not be verified. General city or location coordinates used.
-18267,IN190,Webster Street between Pearl & Berry,,,Ft. Wayne,IN,Cruisy Area,Cruising Areas,1977,,-85.139957,41.055103,Location could not be verified. General city or location coordinates used.
-17794,IN191,West section of Marquette Park & Miller beach,,,Gary,IN,Cruisy Area,Cruising Areas,1977,,-87.261111,41.616667,Verified Location
-17795,IN244,West section of Marquette Park & Miller's Beach,,,Gary,IN,Cruisy Area,Cruising Areas,1976,,-87.261111,41.616667,Verified Location
-17797,IN347,West Section of Marquette Park & Millers Beach,,,Gary,IN,Cruisy Area,Cruising Areas,1974,,-87.261111,41.616667,Verified Location
-17796,IN299,West section of Marquette Park & Millers Beach,,,Gary,IN,Cruisy Area,Cruising Areas,1975,,-87.261111,41.616667,Verified Location
-17798,IN399,West section of Marquette Pk. & Millers Beach,,,Gary,IN,Cruisy Area,Cruising Areas,1973,,-87.261111,41.616667,Verified Location
-17728,IN470,Wooden Indian,On campus-Inquire locally,,Evansville,IN,(YC),Bars/Clubs,1971,,-87.531864,37.973317,Location could not be verified. General city or location coordinates used.
-18286,IN119,Woodside Road Park,,10 mi. S. on Hwy 41,Terre Haute,IN,Cruisy Area,Cruising Areas,1979,,-87.413909,39.466703,Location could not be verified. General city or location coordinates used.
-18285,IN058,Woodside Road Park,,10 mi. S. on Hwy 41,Terre Haute,IN,Cruisy Area,Cruising Areas,1980,,-87.413909,39.466703,Location could not be verified. General city or location coordinates used.
-17954,IN547,Zanzibar,,233 N Capitol,Indianapolis,IN,"(RT),(M)",Bars/Clubs,1969,NA,-86.1614427,39.7704808,Google Verified Location
-17955,IN565,Zanzibar,,233 N Capitol,Indianapolis,IN,"(RT),(M)",Bars/Clubs,1968,NA,-86.1614427,39.7704808,Google Verified Location
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"'Homo Heights'","","W. Wayne St, nr. Webster","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1978,"",-85.147022,41.077059,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0001"
+"'Rest Area'","","10 mi. S. on Ind. 36, just off Ind. 3","Muncie","IN","Cruisy Area","Cruising Areas",1976,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-IN-0002"
+"'Rest Area'","","3 mi. N.F. on U.S 40","Knightstown","IN","Cruisy Area","Cruising Areas",1975,"",-85.526363,39.795601,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-IN-0003"
+"'Rest Area'","","3 mi. N.E. on U.S. 40","Knightstown","IN","Cruisy Area","Cruising Areas",1976,"",-85.526363,39.795601,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-IN-0004"
+"'Rest area'","","2 mi. W. on U.S. 30","Valparaiso","IN","Cruisy Area","Cruising Areas",1976,"",-87.061141,41.473095,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-IN-0005"
+"'Rest Stop'","","3 mi. N. on Ind. 43","Lafayette","IN","Cruisy Area","Cruising Areas",1976,"",-86.875287,40.416702,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-IN-0006"
+"'Rest Stop'","","3 miles N.E. on U.S 40","Knightstown","IN","Cruisy Area","Cruising Areas",1977,"",-85.526363,39.795601,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-IN-0007"
+"'Rest Stop'","","10 mi. S. on Ind. 36, just off Ind. 3","Muncie","IN","Cruisy Area","Cruising Areas",1980,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0008"
+"'Rest Stop'","","3 mi. N.E. on US 40","Knightstown","IN","Cruisy Area","Cruising Areas",1978,"",-85.526363,39.795601,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0009"
+"'Rest Stop'","","3 mi. N.E on US 40","Knightstown","IN","Cruisy Area","Cruising Areas",1980,"",-85.526363,39.795601,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0010"
+"'Rest Stop'","","10 mi. S. on Ind. 36, just off Ind.3","Muncie","IN","Cruisy Area","Cruising Areas",1979,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-IN-0011"
+"'Rest Stop'","","10 mi. So. on Ind.36, just off Ind. 3.","Muncie","IN","Cruisy Area","Cruising Areas",1978,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0012"
+"'Rest Stop'","","10 miles south on Indiana 36, just off Indiana 3","Muncie","IN","Cruisy Area","Cruising Areas",1977,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-IN-0013"
+"'Rest stop'","","2 mi. W.  on U.S. Hwy. 30","Valparaiso","IN","Cruisy Area","Cruising Areas",1973,"",-87.061141,41.473095,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-IN-0014"
+"Adult Book Store","","2424 E. Washington","Indianapolis","IN","(M)","Book Store",1979,NA,-86.1205904,39.7684163,"Google Verified Location",NA,NA,NA,"1979-IN-0015"
+"Adult Book Stores","","County Line Rd. at US 20 & US 20 at Osceola","South Bend","IN","Cruisy Area","Book Store,Cruising Areas",1979,"",-86.075836,41.665049,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-IN-0016"
+"Adult Book Stores","","County Line Rd. at US 20 & US 20 at Osceola","South Bend","IN","Cruisy Area","Cruising Areas,Book Store",1980,"",-86.075836,41.665049,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0017"
+"Airport","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1975,"",-86.272208,39.736523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-IN-0018"
+"Airport","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1974,"",-86.272208,39.736523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-IN-0019"
+"Airport","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1977,"",-86.272208,39.736523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-IN-0020"
+"Airport","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1978,"",-86.272208,39.736523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0021"
+"Airport","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1976,"",-86.272208,39.736523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-IN-0022"
+"Airport","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1979,"",-86.272208,39.736523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-IN-0023"
+"Airport","","","Indianapolis","IN","(AYOR),Cruisy Area","Cruising Areas",1980,"",-86.272208,39.736523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0024"
+"Alcazar","","117 W. Main","Muncie","IN","(M)","Bars/Clubs",1971,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1971-IN-0025"
+"Alcazar","","117 W. Main","Muncie","IN","(D),(S),(*)","Bars/Clubs",1975,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1975-IN-0026"
+"Alcazar","","117 W Main","Muncie","IN","(D),(S),(*)","Bars/Clubs",1974,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1974-IN-0027"
+"Alcazar","","117 W. Main","Muncie","IN","(M),(*)","Bars/Clubs",1969,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1969-IN-0028"
+"Alcazar","","117 W. Main","Muncie","IN","(M),(*)","Bars/Clubs",1968,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1968-IN-0029"
+"Alcazar","","117 W. Main","Muncie","IN","(M),(*)","Bars/Clubs",1965,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1965-IN-0030"
+"Alcazar","","117 W. Main","Muncie","IN","(M),(*)","Bars/Clubs",1970,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1970-IN-0031"
+"Alcazar","","117 W. Main","Muncie","IN","(*)","Bars/Clubs",1973,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1973-IN-0032"
+"Alcazar","","117 W. Main","Muncie","IN","(*)","Bars/Clubs",1972,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1972-IN-0033"
+"Alcazar","","117 W. Main","Muncie","IN","(M),(*)","Bars/Clubs",1966,NA,-85.3873712,40.1933946,"Google Verified Location",NA,NA,NA,"1966-IN-0034"
+"Alp's","","20 N. Delaware","Indianapolis","IN","(*)","Bars/Clubs",1970,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1970-IN-0035"
+"Alp's","","20 N. Delaware","Indianapolis","IN","(*)","Bars/Clubs",1972,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1972-IN-0036"
+"Alp's","","20 N. Delaware","Indianapolis","IN","(*)","Bars/Clubs",1969,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1969-IN-0037"
+"Alp's","","20 N. Delaware","Indianapolis","IN","(*)","Bars/Clubs",1966,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1966-IN-0038"
+"Alp's","","20 N. Delaware","Indianapolis","IN","(*)","Bars/Clubs",1968,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1968-IN-0039"
+"Alp's","","20 N. Delaware","Indianapolis","IN","(*)","Bars/Clubs",1965,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1965-IN-0040"
+"Alp's","","20 N. Delaware","Indianapolis","IN","(*)","Baths",1971,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1971-IN-0041"
+"Alps","(go-go boys weekends)","20 N. Delaware","Indianapolis","IN","(WE),(*)","Bars/Clubs",1975,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1975-IN-0042"
+"Alps","(popular weekends with nude go go boys, but how long they will go go in Indianapolis is highly speculative)","20 N. Delaware","Indianapolis","IN","","Bars/Clubs",1974,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1974-IN-0043"
+"Alps","","20 N. Delaware","Indianapolis","IN","(*)","Bars/Clubs",1973,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1973-IN-0044"
+"American Legion Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1976,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1976-IN-0045"
+"American Legion Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1975,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1975-IN-0046"
+"American Legion Park","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1979,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1979-IN-0047"
+"American Legion Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1973,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1973-IN-0048"
+"American Legion Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1977,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1977-IN-0049"
+"American Legion Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1974,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1974-IN-0050"
+"American Legion Park","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1978,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1978-IN-0051"
+"American Legion Park","","","Indianapolis","IN","(AYOR),Cruisy Area","Cruising Areas",1980,"",-86.156793,39.777298,"Verified Location",NA,NA,NA,"1980-IN-0052"
+"Around the Clock","","901 N. Massachusetts","Indianapolis","IN","","Bars/Clubs",1978,NA,-86.1481035,39.7797265,"Google Verified Location",NA,NA,NA,"1978-IN-0053"
+"Art Theatre","('Peep Show)","5760 W. Washington","Indianapolis","IN","(M)","Theatre",1974,NA,-86.258954,39.75049,"Google Verified Location",NA,NA,NA,"1974-IN-0054"
+"Bamboo","","579 Massachusetts","Gary","IN","(M)","Bars/Clubs",1968,NA,-87.3354974,41.6003395,"Google Verified Location",NA,NA,NA,"1968-IN-0055"
+"Bamboo","","579 Massachusetts","Gary","IN","(M)","Bars/Clubs",1970,NA,-87.3354974,41.6003395,"Google Verified Location",NA,NA,NA,"1970-IN-0056"
+"Bamboo","","579 Massachusetts","Gary","IN","(M)","Bars/Clubs",1965,NA,-87.3354974,41.6003395,"Google Verified Location",NA,NA,NA,"1965-IN-0057"
+"Bamboo","","579 Massachusetts","Gary","IN","(M)","Bars/Clubs",1969,NA,-87.3354974,41.6003395,"Google Verified Location",NA,NA,NA,"1969-IN-0058"
+"Bamboo","","579 Massachusetts","Gary","IN","(M)","Bars/Clubs",1966,NA,-87.3354974,41.6003395,"Google Verified Location",NA,NA,NA,"1966-IN-0059"
+"Bamboo","","579 Massachusetts","Gary","IN","(M)","Bars/Clubs",1971,NA,-87.3354974,41.6003395,"Google Verified Location",NA,NA,NA,"1971-IN-0060"
+"Bear's Place","","1316 E. 3rd St.","Bloomington","IN","(M),(HIP),(YC)","Bars/Clubs",1980,NA,-86.5168064,39.1640878,"Google Verified Location",NA,NA,NA,"1980-IN-0061"
+"Bear's Place","","1316 E. 3rd","Bloomington","IN","(M),(RT)","Bars/Clubs",1976,NA,-86.5168064,39.1640878,"Google Verified Location",NA,NA,NA,"1976-IN-0062"
+"Bear's Place","","1316 E. 3rd St.","Bloomington","IN","(M),(HIP),(YC)","Bars/Clubs",1978,NA,-86.5168064,39.1640878,"Google Verified Location",NA,NA,NA,"1978-IN-0063"
+"Bear's Place","","1316 E. 3rd Street","Bloomington","IN","(M),(HIP),(YC)","Bars/Clubs",1977,NA,-86.5168064,39.1640878,"Google Verified Location",NA,NA,NA,"1977-IN-0064"
+"Bear's Place","","1316 E. 3rd St.","Bloomington","IN","(M),(HIP),(YC)","Bars/Clubs",1979,NA,-86.5168064,39.1640878,"Google Verified Location",NA,NA,NA,"1979-IN-0065"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(G),(D),(S),(*)","Bars/Clubs",1975,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1975-IN-0066"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(*)","Bars/Clubs",1970,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1970-IN-0067"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(D),(S),(*)","Bars/Clubs",1968,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1968-IN-0068"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(D),(S),(*)","Bars/Clubs",1971,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1971-IN-0069"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(G),(D),(S),(*)","Bars/Clubs",1976,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1976-IN-0070"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(D),(S),(*)","Bars/Clubs",1972,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1972-IN-0071"
+"Betty K's","((S) Thurs-Fri-Sat)","1808 N. Central","Indianapolis","IN","(G),(D),(S)","Bars/Clubs",1973,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1973-IN-0072"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(D)","Bars/Clubs",1966,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1966-IN-0073"
+"Betty K's","(TH-F-S)","1808 N. Central","Indianapolis","IN","(G),(D)","Bars/Clubs",1974,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1974-IN-0074"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(D),(S),(*)","Bars/Clubs",1969,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1969-IN-0075"
+"Betty K's","","1808 N. Central","Indianapolis","IN","(S),(*)","Bars/Clubs",1965,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1965-IN-0076"
+"Betty K's","(touristy)","1808 N. Central","Indianapolis","IN","(M),(B),(S)","Bars/Clubs",1977,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1977-IN-0077"
+"Betty K's Meat Rack","","1808 N. Central","Indianapolis","IN","(M),(B),(S)","Bars/Clubs",1979,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1979-IN-0078"
+"Betty's","","508 Alabama","Indianapolis","IN","(G)","Bars/Clubs",1965,NA,-86.1523768,39.7741141,"Google Verified Location",NA,NA,NA,"1965-IN-0079"
+"Betty's","","508 Alabama","Indianapolis","IN","(G)","Bars/Clubs",1966,NA,-86.1523768,39.7741141,"Google Verified Location",NA,NA,NA,"1966-IN-0080"
+"Birthplace of the fabulous Tish","","","Bloomington","IN","Cruisy Area,(RT)","Cruising Areas",1980,"Not sure what type is",-86.526386,39.165325,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0081"
+"Block","around Monroe Public Library","","Bloomington","IN","Cruisy Area","Cruising Areas",1980,"",-86.53048,39.166705,"Verified Location",NA,NA,NA,"1980-IN-0082"
+"Block around Monroe Public Library","","","Bloomington","IN","Cruisy Area","Cruising Areas",1977,"",-86.53048,39.166705,"Verified Location",NA,NA,NA,"1977-IN-0083"
+"Block around Monroe Public Library","","","Bloomington","IN","Cruisy Area","Cruising Areas",1978,"",-86.53048,39.166705,"Verified Location",NA,NA,NA,"1978-IN-0084"
+"Block around Monroe Public Library","","","Bloomington","IN","Cruisy Area","Cruising Areas",1979,"",-86.53048,39.166705,"Verified Location",NA,NA,NA,"1979-IN-0085"
+"Blue Bar","","8 N. 5th St.","Evansville","IN","(*)","Bars/Clubs",1966,NA,-87.570518,37.9722386,"Google Verified Location",NA,NA,NA,"1966-IN-0086"
+"Blue Bar","(maybe closing soon)","8 N. 5th St.","Evansville","IN","","Bars/Clubs",1969,NA,-87.570518,37.9722386,"Google Verified Location",NA,NA,NA,"1969-IN-0087"
+"Blue Bar","","8 N. 5th St.","Evansville","IN","(S)","Bars/Clubs",1970,NA,-87.570518,37.9722386,"Google Verified Location",NA,NA,NA,"1970-IN-0088"
+"Blue Bar","(maybe closing soon)","8 N. 5th St.","Evansville","IN","","Bars/Clubs",1968,NA,-87.570518,37.9722386,"Google Verified Location",NA,NA,NA,"1968-IN-0089"
+"Blue Bar","","8 N. 5th St.","Evansville","IN","(M),(S)","Bars/Clubs",1965,NA,-87.570518,37.9722386,"Google Verified Location",NA,NA,NA,"1965-IN-0090"
+"Blue note","","126 N. Main St.","South Bend","IN","(M),(*)","Bars/Clubs",1971,NA,-86.251492,41.6773787,"Google Verified Location",NA,NA,NA,"1971-IN-0091"
+"Blue note","","126 N. Main St.","South Bend","IN","(M)","Bars/Clubs",1965,NA,-86.251492,41.6773787,"Google Verified Location",NA,NA,NA,"1965-IN-0092"
+"Blue note","","126 N. Main St.","South Bend","IN","(M)","Bars/Clubs",1968,NA,-86.251492,41.6773787,"Google Verified Location",NA,NA,NA,"1968-IN-0093"
+"Blue note","","126 N. Main St.","South Bend","IN","(M)","Bars/Clubs",1966,NA,-86.251492,41.6773787,"Google Verified Location",NA,NA,NA,"1966-IN-0094"
+"Blue note","","126 N. Main St.","South Bend","IN","(M)","Bars/Clubs",1970,NA,-86.251492,41.6773787,"Google Verified Location",NA,NA,NA,"1970-IN-0095"
+"Blue note","","126 N. Main St.","South Bend","IN","(M)","Bars/Clubs",1969,NA,-86.251492,41.6773787,"Google Verified Location",NA,NA,NA,"1969-IN-0096"
+"Body Works","(Baths)","303 N. Senate Ave.","Indianapolis","IN","(*)","Baths",1980,NA,-86.1629079,39.7717089,"Google Verified Location",NA,NA,NA,"1980-IN-0097"
+"Body Works","(Baths)","303 N. Senate Ave.","Indianapolis","IN","(*)","Baths",1979,NA,-86.1629079,39.7717089,"Google Verified Location",NA,NA,NA,"1979-IN-0098"
+"Brick Bar","(Sleazy) (G in back room)","1814 W. Main","Ft. Wayne","IN","(M),(G)","Bars/Clubs",1979,NA,-85.1659973,41.0787496,"Google Verified Location",NA,NA,NA,"1979-IN-0099"
+"Brick Bar","(G in back room)","1814 W. Main ","Ft. Wayne","IN","(M),(G)","Bars/Clubs",1978,NA,-85.1659973,41.0787496,"Google Verified Location",NA,NA,NA,"1978-IN-0100"
+"Campus","Evansville St. Univ.","","Evansville","IN","Cruisy Area","Cruising Areas",1973,"",-87.531864,37.973317,"Verified Location",NA,NA,NA,"1973-IN-0101"
+"Campus","Evansville State University","","Evansville","IN","Cruisy Area","Cruising Areas",1977,"",-87.531864,37.973317,"Verified Location",NA,NA,NA,"1977-IN-0102"
+"Campus","Evansville State Univ,","","Evansville","IN","Cruisy Area","Cruising Areas",1974,"",-87.531864,37.973317,"Verified Location",NA,NA,NA,"1974-IN-0103"
+"Campus","Evansville State U.","","Evansville","IN","Cruisy Area","Cruising Areas,Organizations",1976,"",-87.531864,37.973317,"Verified Location",NA,NA,NA,"1976-IN-0104"
+"Campus","Evansville State Univ","","Evansville","IN","Cruisy Area","Cruising Areas",1975,"",-87.531864,37.973317,"Verified Location",NA,NA,NA,"1975-IN-0105"
+"Cannon Ball","(best late)","20 N. Delaware","Indianapolis","IN","(M),(R)","Restaurant",1976,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1976-IN-0106"
+"Cardinal","Bus Depot","936 Virginia Ave.","Indianapolis","IN","(M),(B),(RT)","Bars/Clubs",1976,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1976-IN-0107"
+"Cardinal","Bus Depot","936 Virginia Ave.","Indianapolis","IN","(M),(B),(RT)","Bars/Clubs",1975,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1975-IN-0108"
+"Cardinal","Bus Depot","936 Virginia Ave.","Indianapolis","IN","(M),(RT)","Bars/Clubs",1971,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1971-IN-0109"
+"Cardinal","Bus Depot","936 Virginia Ave.","Indianapolis","IN","(M),(RT)","Bars/Clubs",1970,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1970-IN-0110"
+"Cardinal","Bus Depot","936 Virginia Ave","Indianapolis","IN","(M),(B),(RT)","Bars/Clubs",1979,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1979-IN-0111"
+"Cardinal","","936 Virginia Ave.","Indianapolis","IN","(M),(B),(RT)","Bars/Clubs",1974,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1974-IN-0112"
+"Cardinal","","936 Virginia Ave","Indianapolis","IN","(M),(RT)","Bars/Clubs",1972,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1972-IN-0113"
+"Cardinal","Bus Depot","936 Virginia Ave.","Indianapolis","IN","(M),(B),(RT)","Bars/Clubs",1978,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1978-IN-0114"
+"Cardinal","Bus Depot","936 Virginia Ave.","Indianapolis","IN","(M),(B),(RT)","Bars/Clubs",1973,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1973-IN-0115"
+"Cardinal","Bus Depot","936 Virginia Avenue","Indianapolis","IN","(M),(B),(RT)","Bars/Clubs",1977,NA,-86.1418859,39.7543726,"Google Verified Location",NA,NA,NA,"1977-IN-0116"
+"Carriage Hosue","","247 Kilgore","Muncie","IN","","Bars/Clubs",1975,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1975-IN-0117"
+"Carriage House","","247 Kilgore","Muncie","IN","","Bars/Clubs",1974,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1974-IN-0118"
+"Carriage House","","247 Kilgore","Muncie","IN","(M),(R)","Restaurant",1979,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1979-IN-0119"
+"Carriage House","","247 Kilgore","Muncie","IN","","Bars/Clubs",1977,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1977-IN-0120"
+"Carriage House","","247 Kilgore","Muncie","IN","","Bars/Clubs",1976,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1976-IN-0121"
+"Carriage House","","247 Kilgore","Muncie","IN","","Bars/Clubs",1972,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1972-IN-0122"
+"Carriage House","","247 Kilgore","Muncie","IN","","Bars/Clubs",1973,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1973-IN-0123"
+"Carriage House","","247 Kilgore","Muncie","IN","","Bars/Clubs",1978,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1978-IN-0124"
+"Carriage House","","247 Kilgore","Muncie","IN","(M),(R)","Restaurant",1980,NA,-85.3982715,40.1903556,"Google Verified Location",NA,NA,NA,"1980-IN-0125"
+"Civil War Tavern","","20 N. Delaware","Indianapolis","IN","(M)","Bars/Clubs",1977,NA,-86.1546977,39.7675873,"Google Verified Location",NA,NA,NA,"1977-IN-0126"
+"Claypool Hotel Bar","","14 N Illinois","Indianapolis","IN","(M),(PE)","Hotel,Bars/Clubs",1966,NA,-86.1600466,39.7677235,"Google Verified Location",NA,NA,NA,"1966-IN-0127"
+"Claypool Hotel Bar","","14 N Illinois","Indianapolis","IN","(M),(PE)","Hotel,Bars/Clubs",1968,NA,-86.1600466,39.7677235,"Google Verified Location",NA,NA,NA,"1968-IN-0128"
+"Claypool Hotel Bar","","14 N Illinois","Indianapolis","IN","(M),(PE)","Hotel,Bars/Clubs",1965,NA,-86.1600466,39.7677235,"Google Verified Location",NA,NA,NA,"1965-IN-0129"
+"Claypool Hotel Bar","","14 N Illinois","Indianapolis","IN","(M),(PE)","Hotel,Bars/Clubs",1969,NA,-86.1600466,39.7677235,"Google Verified Location",NA,NA,NA,"1969-IN-0130"
+"Club","","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1969,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1969-IN-0131"
+"Club","","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1970,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1970-IN-0132"
+"Club","","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1971,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1971-IN-0133"
+"Club","","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1968,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1968-IN-0134"
+"Club Baths","","532 Fayette St.","Hammond","IN","","Baths",1971,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1971-IN-0135"
+"Club Fayette Baths","(Scruffy)","532 Fayette St.","Hammond","IN","(AYOR)","Baths",1980,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1980-IN-0136"
+"Club Fayette Baths","","532 Fayette St.","Hammond","IN","","Baths",1973,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1973-IN-0137"
+"Club Fayette Baths","","532 Fayette St.","Hammond","IN","(*)","Baths",1976,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1976-IN-0138"
+"Club Fayette Baths","","532 Fayette St.","Hammond","IN","","Baths",1979,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1979-IN-0139"
+"Club Fayette Baths","","532 Fayette St.","Hammond","IN","(*)","Baths",1978,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1978-IN-0140"
+"Club Fayette Baths","(will be moving to new location)","532 Fayette St.","Hammond","IN","(*)","Baths",1974,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1974-IN-0141"
+"Club Fayette Baths","","532 Fayette St.","Hammond","IN","","Baths",1972,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1972-IN-0142"
+"Club Fayette Baths","","532 Fayette St.","Hammond","IN","(*)","Baths",1977,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1977-IN-0143"
+"Club Idaho","","719 Hulman","Terre Haute","IN","","Bars/Clubs",1965,NA,-87.4061086,39.4479975,"Google Verified Location",NA,NA,NA,"1965-IN-0144"
+"Club Idaho","","719 Hulman","Terre Haute","IN","","Bars/Clubs",1966,NA,-87.4061086,39.4479975,"Google Verified Location",NA,NA,NA,"1966-IN-0145"
+"Club Indianapolis","May be opening summer of '720Inquire Locally","","Indianapolis","IN","","Baths",1973,"",-86.158068,39.768403,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-IN-0146"
+"Club Indianapolis","","341 N. Capitol","Indianapolis","IN","(*)","Bars/Clubs",1974,NA,-86.1606445,39.7716165,"Google Verified Location",NA,NA,NA,"1974-IN-0147"
+"Club Indianapolis","","341 No. Capitol","Indianapolis","IN","(*)","Bars/Clubs",1978,NA,-86.1606445,39.7716165,"Google Verified Location",NA,NA,NA,"1978-IN-0148"
+"Club Indianapolis Baths","","341 N. Capitol","Indianapolis","IN","(*)","Baths",1976,NA,-86.1606445,39.7716165,"Google Verified Location",NA,NA,NA,"1976-IN-0149"
+"Club Indianapolis Baths","","341 N. Capitol","Indianapolis","IN","(*)","Baths",1977,NA,-86.1606445,39.7716165,"Google Verified Location",NA,NA,NA,"1977-IN-0150"
+"Club Indianapolis Baths","","341 N. Capitol","Indianapolis","IN","","Baths",1980,NA,-86.1606445,39.7716165,"Google Verified Location",NA,NA,NA,"1980-IN-0151"
+"Club Indianapolis Baths","","341 N. Capitol","Indianapolis","IN","(*)","Baths",1975,NA,-86.1606445,39.7716165,"Google Verified Location",NA,NA,NA,"1975-IN-0152"
+"Club Indianapolis Baths","(Recently remodeled)","341 N. Capitol","Indianapolis","IN","(*)","Baths",1979,NA,-86.1606445,39.7716165,"Google Verified Location",NA,NA,NA,"1979-IN-0153"
+"Darlo's","","417 S. Alabama","Indianapolis","IN","(RT),(G)","Bars/Clubs",1969,NA,-86.1528985,39.760491,"Google Verified Location",NA,NA,NA,"1969-IN-0154"
+"Darlo's","(Some G)","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1975,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1975-IN-0155"
+"Darlo's","","417 S. Alabama","Indianapolis","IN","(RT),(G)","Bars/Clubs",1968,NA,-86.1528985,39.760491,"Google Verified Location",NA,NA,NA,"1968-IN-0156"
+"Darlo's","","417 S. Alabama","Indianapolis","IN","(*)","Bars/Clubs",1970,NA,-86.1528985,39.760491,"Google Verified Location",NA,NA,NA,"1970-IN-0157"
+"Darlo's","","417 (?) or 508 S. Alabama","Indianapolis","IN","(YC),(D)","Bars/Clubs",1971,"",-86.153534,39.759868,"Verified Location",NA,NA,NA,"1971-IN-0158"
+"Darlo's","","508 S. Alabama","Indianapolis","IN","(G),(*)","Bars/Clubs",1976,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1976-IN-0159"
+"Darlo's","(some G)","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1974,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1974-IN-0160"
+"Darlo's Club","","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1973,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1973-IN-0161"
+"Darlo's Club","","508 S. Alabama","Indianapolis","IN","(G)","Bars/Clubs",1972,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1972-IN-0162"
+"Deja Vu","(weekends*)","1322 W. Washington","Indianapolis","IN","(HIP),(YC),(D),(WE),(*)","Bars/Clubs",1975,NA,-86.1852894,39.7677363,"Google Verified Location",NA,NA,NA,"1975-IN-0163"
+"Deja Vu","(weekends*)","1322 W. Washington","Indianapolis","IN","(HIP),(YC),(D),(WE),(*)","Bars/Clubs",1974,NA,-86.1852894,39.7677363,"Google Verified Location",NA,NA,NA,"1974-IN-0164"
+"Deja Vu","","1322 W. Washington","Indianapolis","IN","(HIP),(YC),(D),(*)","Bars/Clubs",1973,NA,-86.1852894,39.7677363,"Google Verified Location",NA,NA,NA,"1973-IN-0165"
+"Deja Vu","(Disco) (Tuesday is 'topless' night)","1322 W. Washington","Indianapolis","IN","(HIP),(YC),(D),(*)","Bars/Clubs",1977,NA,-86.1852894,39.7677363,"Google Verified Location",NA,NA,NA,"1977-IN-0166"
+"Deja Vu","(Disco) (Mon. is 'topless night)","1322 W. Washington","Indianapolis","IN","(HIP),(YC),(D),(*)","Bars/Clubs",1976,NA,-86.1852894,39.7677363,"Google Verified Location",NA,NA,NA,"1976-IN-0167"
+"Delaware Hotel","(piano bar only)","206 S. Mulberry","Muncie","IN","","Hotel,Bars/Clubs",1969,NA,-85.3851518,40.1926277,"Google Verified Location",NA,NA,NA,"1969-IN-0168"
+"Delaware Hotel","(piano bar only)","206 S. Mulberry","Muncie","IN","","Bars/Clubs,Hotel",1966,NA,-85.3851518,40.1926277,"Google Verified Location",NA,NA,NA,"1966-IN-0169"
+"Delaware Hotel","(piano bar only)","206 S. Mulberry","Muncie","IN","","Hotel,Bars/Clubs",1971,NA,-85.3851518,40.1926277,"Google Verified Location",NA,NA,NA,"1971-IN-0170"
+"Delaware Hotel","(piano bar only)","206 S. Mulberry","Muncie","IN","","Bars/Clubs,Hotel",1970,NA,-85.3851518,40.1926277,"Google Verified Location",NA,NA,NA,"1970-IN-0171"
+"Delaware Hotel","(piano bar)","206 S. Mulberry","Muncie","IN","(M)","Bars/Clubs,Hotel",1965,NA,-85.3851518,40.1926277,"Google Verified Location",NA,NA,NA,"1965-IN-0172"
+"Delaware Hotel","(piano bar only)","206 S. Mulberry","Muncie","IN","","Hotel,Bars/Clubs",1968,NA,-85.3851518,40.1926277,"Google Verified Location",NA,NA,NA,"1968-IN-0173"
+"Denny's","","4901 - 38th St.","Indianapolis","IN","(M),(R),(C),(AH)","Restaurant",1976,NA,-86.2424578,39.8238525,"Google Verified Location",NA,NA,NA,"1976-IN-0174"
+"Denny's","","4901 38th St.","Indianapolis","IN","(M),(R),(C),(AH)","Restaurant",1978,NA,-86.2424578,39.8238525,"Google Verified Location",NA,NA,NA,"1978-IN-0175"
+"Denny's","","4901 38th St","Indianapolis","IN","(M),(R),(C),(AH)","Restaurant",1977,NA,-86.2424578,39.8238525,"Google Verified Location",NA,NA,NA,"1977-IN-0176"
+"Denny's","","4901 38th St.","Indianapolis","IN","(M),(C),(AH),(R)","Restaurant",1979,NA,-86.2424578,39.8238525,"Google Verified Location",NA,NA,NA,"1979-IN-0177"
+"Denny's ","","4901 38th St.","Indianapolis","IN","(M),(R),(C),(AH)","Restaurant",1980,NA,-86.2424578,39.8238525,"Google Verified Location",NA,NA,NA,"1980-IN-0178"
+"Dobb's House","(after hours)","6th & Pennsylvania","Indianapolis","IN","(M),(R),(C)","Bars/Clubs,Restaurant",1973,"",-86.155819,39.778985,"Verified Location",NA,NA,NA,"1973-IN-0179"
+"Dobbs House","(HOT)","9th & Pennsylvania","Indianapolis","IN","(M),(R),(C),(AH),(HOT)","Restaurant",1975,"",-86.155819,39.778985,"Verified Location",NA,NA,NA,"1975-IN-0180"
+"Dobbs House","(after hours)","9th & Pennsylvania","Indianapolis","IN","(M),(R),(C),(AH)","Restaurant",1974,"",-86.155819,39.778985,"Verified Location",NA,NA,NA,"1974-IN-0181"
+"Doc Johnson","('Books n things)","14th & College","Bloomington","IN","(M)","Book Store",1980,"",-86.534754,39.175964,"Verified Location",NA,NA,NA,"1980-IN-0182"
+"Downtowner","","411 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1973,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1973-IN-0183"
+"Downtowner","","411 E. Jefferson","South Bend","IN","(D),(R),(*)","Restaurant",1977,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1977-IN-0184"
+"Downtowner","","411 E. Jefferson","South Bend","IN","(R),(*)","Restaurant",1976,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1976-IN-0185"
+"Downtowner","","411 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1974,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1974-IN-0186"
+"Downtowner","","411 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1975,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1975-IN-0187"
+"E. Washington Book Mart","","5444 E. Washington","Indianapolis","IN","(M)","Book Store",1979,NA,-86.0742823,39.7711198,"Google Verified Location",NA,NA,NA,"1979-IN-0188"
+"E. Washington Book Mart","","5444 E. Washington","Indianapolis","IN","(M)","Book Store",1980,NA,-86.0742823,39.7711198,"Google Verified Location",NA,NA,NA,"1980-IN-0189"
+"End of Fall Creek Blvd.","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1973,"",-86.170411,39.798338,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-IN-0190"
+"Erotica House","(Book store)","930 Broadway","Ft. Wayne","IN","","Book Store",1979,NA,-85.148301,41.0760096,"Google Verified Location",NA,NA,NA,"1979-IN-0191"
+"Erotica House","(Book Store)","930 Broadway","Ft. Wayne","IN","","Book Store",1980,NA,-85.148301,41.0760096,"Google Verified Location",NA,NA,NA,"1980-IN-0192"
+"Evansville Book Mart","","201 S. Fulton Ave.","Evansville","IN","","Book Store",1979,NA,-87.581077,37.975675,"Google Verified Location",NA,NA,NA,"1979-IN-0193"
+"Evansville Book Mart","","201 S. Fulton Ave","Evansville","IN","","Book Store",1980,NA,-87.581077,37.975675,"Google Verified Location",NA,NA,NA,"1980-IN-0194"
+"Expo","('Tim's) (go-go boys)","305 W. Washington","Indianapolis","IN","(YC),(E)","Bars/Clubs",1976,NA,-86.1638498,39.766935,"Google Verified Location",NA,NA,NA,"1976-IN-0195"
+"Expo","","305 W. Washington","Indianapolis","IN","(YC),(E),(*)","Bars/Clubs",1975,NA,-86.1638498,39.766935,"Google Verified Location",NA,NA,NA,"1975-IN-0196"
+"Fall Creek Parkway","","from  56th to Interstate (HOT)","Indianapolis","IN","Cruisy Area,(AYOR)","Cruising Areas",1978,"",-86.143671,39.813767,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0197"
+"Fall Creek Parkway","","from 56th to Interstate (HOT)","Indianapolis","IN","Cruisy Area,(AYOR)","Cruising Areas",1979,"",-86.143671,39.813767,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-IN-0198"
+"Fall Creek Parkway","","from 56th to Interstate","Indianapolis","IN","(AYOR),Cruisy Area","Cruising Areas",1980,"",-86.143671,39.813767,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0199"
+"Famous Barr","(Maybe opening 6/72)","Main St. at Barr St.","Ft. Wayne","IN","","Bars/Clubs",1973,"",-85.136889,41.080862,"Verified Location",NA,NA,NA,"1973-IN-0200"
+"Famous Door","","252 N. Capitol","Indianapolis","IN","(S),(D),(*)","Bars/Clubs",1977,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1977-IN-0201"
+"Famous Door","","252 N. Capital","Indianapolis","IN","(S),(*)","Bars/Clubs",1970,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1970-IN-0202"
+"Famous Door","","252 N. Capitol","Indianapolis","IN","(S),(*)","Bars/Clubs",1972,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1972-IN-0203"
+"Famous Door","","252 N. Capitol","Indianapolis","IN","(S),(D),(*)","Bars/Clubs",1976,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1976-IN-0204"
+"Famous Door","","252 N. Capitol","Indianapolis","IN","(S),(D),(*)","Bars/Clubs",1975,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1975-IN-0205"
+"Famous Door","","252 No. Capitol","Indianapolis","IN","(S),(D),(*)","Bars/Clubs",1978,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1978-IN-0206"
+"Famous Door","(Many G) (Wed-Sat only*)","252 N. Capitol","Indianapolis","IN","(M),(S),(G),(*)","Bars/Clubs",1979,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1979-IN-0207"
+"Famous Door","","252 N. Capital","Indianapolis","IN","(S),(*)","Bars/Clubs",1971,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1971-IN-0208"
+"Famous Door","(Wed.-Sat only) (Some L)","252 N. Capitol","Indianapolis","IN","(M),(S),(L),(*)","Bars/Clubs",1980,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1980-IN-0209"
+"Famous Door","","252 N. Capitol","Indianapolis","IN","(D),(S),(*)","Bars/Clubs",1974,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1974-IN-0210"
+"Famous Door","","252 N. Capitol","Indianapolis","IN","(S),(*)","Bars/Clubs",1973,NA,-86.1616351,39.7707774,"Google Verified Location",NA,NA,NA,"1973-IN-0211"
+"Farmer's Inn","","R.R.2","Brazil","IN","(M)","Hotel",1972,"",-87.125015,39.523652,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1972-IN-0212"
+"Fayette Health Spa Baths","","532 Fayette St.","Hammond","IN","","Baths",1970,NA,-87.516259,41.616293,"Google Verified Location",NA,NA,NA,"1970-IN-0213"
+"Festival Theatre","","5507 E. Washington","Indianapolis","IN","","Theatre",1974,NA,-86.0732741,39.7704533,"Google Verified Location",NA,NA,NA,"1974-IN-0214"
+"Fourth World","(Many L) (Disco) (Game room) ","1808 N. Central","Indianapolis","IN","(L),(D),(PT),(*)","Bars/Clubs",1980,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1980-IN-0215"
+"Fox Theatre","","240 N. Illinois Street","Indianapolis","IN","Cruisy Area","Cruising Areas,Theatre",1977,"",-86.160035,39.770618,"Verified Location",NA,NA,NA,"1977-IN-0216"
+"Fox Theatre","","240 N. Illinois Street","Indianapolis","IN","Cruisy Area","Cruising Areas,Theatre",1975,"",-86.160035,39.770618,"Verified Location",NA,NA,NA,"1975-IN-0217"
+"Fox Theatre","","240 N. Illinois Street","Indianapolis","IN","Cruisy Area","Cruising Areas,Theatre",1976,"",-86.160035,39.770618,"Verified Location",NA,NA,NA,"1976-IN-0218"
+"Fox Theatre","","240 N. Illinois Street","Indianapolis","IN","Cruisy Area","Cruising Areas,Theatre",1974,"",-86.160035,39.770618,"Verified Location",NA,NA,NA,"1974-IN-0219"
+"Fox Theatre","(HOT)","240 N. Illinois Street","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas,Theatre",1979,"",-86.160035,39.770618,"Verified Location",NA,NA,NA,"1979-IN-0220"
+"Fox Theatre","(HOT)","240 N. Illinois Street","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas,Theatre",1978,"",-86.160035,39.770618,"Verified Location",NA,NA,NA,"1978-IN-0221"
+"Fox Theatre","","240 N. Illinois Street","Indianapolis","IN","Cruisy Area","Cruising Areas,Theatre",1973,"",-86.160035,39.770618,"Verified Location",NA,NA,NA,"1973-IN-0222"
+"Fox's Den","","502 N.W. 4th St.","Evansville","IN","(YC),(M),(*)","Bars/Clubs",1971,NA,-87.5746704,37.9761473,"Google Verified Location",NA,NA,NA,"1971-IN-0223"
+"Gay 90's","","Inquire Locally","Kokomo","IN","","Bars/Clubs",1976,"",-86.133603,40.486427,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-IN-0224"
+"Gay 90's","","Inquire Locally","Kokomo","IN","","Bars/Clubs",1977,"",-86.133603,40.486427,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-IN-0225"
+"George Rogers Clark Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1977,NA,-87.5286325,38.677269,"Google Verified Location",NA,NA,NA,"1977-IN-0226"
+"George Rogers Clark Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1978,"",-87.536709,38.677998,"Verified Location",NA,NA,NA,"1978-IN-0227"
+"George Rogers Clark Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1979,"",-87.536709,38.677998,"Verified Location",NA,NA,NA,"1979-IN-0228"
+"George Rogers Clark Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1980,"",-87.536709,38.677998,"Verified Location",NA,NA,NA,"1980-IN-0229"
+"George Rogers Clark Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1973,"",-87.536709,38.677998,"Verified Location",NA,NA,NA,"1973-IN-0230"
+"George Rogers Clark Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1976,"",-87.536709,38.677998,"Verified Location",NA,NA,NA,"1976-IN-0231"
+"George Rogers Clark Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1975,"",-87.536709,38.677998,"Verified Location",NA,NA,NA,"1975-IN-0232"
+"George Rogers Memorial Park","","","Vincennes","IN","Cruisy Area","Cruising Areas",1974,"",-87.536709,38.677998,"Verified Location",NA,NA,NA,"1974-IN-0233"
+"Glendale Shopping Center","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1978,"",-86.119534,39.866162,"Verified Location",NA,NA,NA,"1978-IN-0234"
+"Glendale Shopping Center","","62nd & Keystone","Indianapolis","IN","Cruisy Area","Cruising Areas",1973,"",-86.119534,39.866162,"Verified Location",NA,NA,NA,"1973-IN-0235"
+"Glendale Shopping Center","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1979,"",-86.119534,39.866162,"Verified Location",NA,NA,NA,"1979-IN-0236"
+"Glendale Shopping Center","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1977,"",-86.119534,39.866162,"Verified Location",NA,NA,NA,"1977-IN-0237"
+"Glendale Shopping Center","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1976,"",-86.119534,39.866162,"Verified Location",NA,NA,NA,"1976-IN-0238"
+"Glendale Shopping Center","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1975,"",-86.119534,39.866162,"Verified Location",NA,NA,NA,"1975-IN-0239"
+"Glendale Shopping Center","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1974,"",-86.119534,39.866162,"Verified Location",NA,NA,NA,"1974-IN-0240"
+"Golden Horn","","3402 W. Washington","Indianapolis","IN","(YC),(D),(*)","Bars/Clubs",1972,NA,-86.2157869,39.7637015,"Google Verified Location",NA,NA,NA,"1972-IN-0241"
+"Golden Horn Pub","(some-time called 'The Pub' or 'the Horn'","3420 W. Washington","Indianapolis","IN","(YC),(D),(*)","Bars/Clubs",1973,NA,-86.2164489,39.7634801,"Google Verified Location",NA,NA,NA,"1973-IN-0242"
+"Golden Horn Pub","(sometimes called 'The Pub' or 'The Horn')","3420 W. Washington","Indianapolis","IN","(YC),(D)","Bars/Clubs",1974,NA,-86.2164489,39.7634801,"Google Verified Location",NA,NA,NA,"1974-IN-0243"
+"Golden Nugget","(also called Freddy's)","226 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1971,NA,-86.1600369,39.7705899,"Google Verified Location",NA,NA,NA,"1971-IN-0244"
+"Golden Nugget","(also called Freddy's)","226 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1970,NA,-86.1600369,39.7705899,"Google Verified Location",NA,NA,NA,"1970-IN-0245"
+"Golden Nugget","(also called Freda's)","226 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1969,NA,-86.1600369,39.7705899,"Google Verified Location",NA,NA,NA,"1969-IN-0246"
+"Golden Nugget","(also called Freda's)","226 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1968,NA,-86.1600369,39.7705899,"Google Verified Location",NA,NA,NA,"1968-IN-0247"
+"Gravel Girtie's","(R & Bar) (Cruisy) (Open 11am-3am) ","2301 N. Meridian","Indianapolis","IN","(R),(D),(*)","Restaurant,Bars/Clubs,Cruising Areas",1980,NA,-86.1566753,39.7993415,"Google Verified Location",NA,NA,NA,"1980-IN-0248"
+"Grog Shop","(open Sundays) Stouffer's Indianapolis Inn","2820 N. Meridian ","Indianapolis","IN","(M),(R)","Restaurant",1976,NA,-86.1573312,39.8076166,"Google Verified Location",NA,NA,NA,"1976-IN-0249"
+"Grog Shop","Stouffer's Indianapolis Inn","2820 N. Meridian ","Indianapolis","IN","(M)","Bars/Clubs",1975,NA,-86.1573312,39.8076166,"Google Verified Location",NA,NA,NA,"1975-IN-0250"
+"Grogshop","Stouffer's Indianapolis Inn","2820 N. Meridian","Indianapolis","IN","(M)","Bars/Clubs,Hotel",1973,NA,-86.1573312,39.8076166,"Google Verified Location",NA,NA,NA,"1973-IN-0251"
+"Grogshop","Stouffer's Indianapolis Inn","2820 N. Meridian","Indianapolis","IN","(M)","Bars/Clubs",1974,NA,-86.1573312,39.8076166,"Google Verified Location",NA,NA,NA,"1974-IN-0252"
+"Happy Hour","","Franklin Street","Evansville","IN","(S)","Bars/Clubs",1975,"",-87.547691,37.97991,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-IN-0253"
+"Happy Hour","","Franklin St.","Evansville","IN","(S)","Bars/Clubs",1974,"",-87.547691,37.97991,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-IN-0254"
+"Henry's","","536 Main St.","Ft. Wayne","IN","(*)","Bars/Clubs",1971,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1971-IN-0255"
+"Henry's","('Hustlers)","536 Main St","Ft. Wayne","IN","(M),(RT)","Bars/Clubs",1979,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1979-IN-0256"
+"Henry's","","536 Main St.","Ft. Wayne","IN","","Bars/Clubs",1969,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1969-IN-0257"
+"Henry's","","536 Main St.","Ft. Wayne","IN","(*)","Bars/Clubs",1970,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1970-IN-0258"
+"Henry's","","536 Main St.","Ft. Wayne","IN","","Bars/Clubs",1965,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1965-IN-0259"
+"Henry's","","536 Main Street","Ft. Wayne","IN","(M)","Bars/Clubs",1975,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1975-IN-0260"
+"Henry's","","536 Main St.","Ft. Wayne","IN","(*)","Bars/Clubs",1972,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1972-IN-0261"
+"Henry's","('Hustlers')","536 Main St.","Ft. Wayne","IN","(M),(RT)","Bars/Clubs",1980,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1980-IN-0262"
+"Henry's","(Cruisy)","536 Main St.","Ft. Wayne","IN","(*)","Bars/Clubs,Cruising Areas",1978,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1978-IN-0263"
+"Henry's","","536 Main St.","Ft. Wayne","IN","(M)","Bars/Clubs",1976,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1976-IN-0264"
+"Henry's","","536 Main St.","Ft. Wayne","IN","(M)","Bars/Clubs",1973,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1973-IN-0265"
+"Henry's","","536 Main St.","Ft. Wayne","IN","","Bars/Clubs",1966,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1966-IN-0266"
+"Henry's","","536 Main St.","Ft. Wayne","IN","","Bars/Clubs",1968,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1968-IN-0267"
+"Henry's ","","536 Main Street","Ft. Wayne","IN","(M)","Bars/Clubs",1977,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1977-IN-0268"
+"Henry's ","","536 Main St.","Ft. Wayne","IN","(M)","Bars/Clubs",1974,NA,-85.14743,41.079291,"Google Verified Location",NA,NA,NA,"1974-IN-0269"
+"Hideaway","","327 S. Woodlawn ","Bloomington","IN","(C),(R),(M)","Restaurant",1971,NA,-86.5226243,39.1634142,"Google Verified Location",NA,NA,NA,"1971-IN-0270"
+"Hideaway","","327 S. Woodlawn ","Bloomington","IN","(C),(R),(M)","Restaurant",1970,NA,-86.5226243,39.1634142,"Google Verified Location",NA,NA,NA,"1970-IN-0271"
+"Hideaway","","327 S. Woodlawn","Bloomington","IN","(M),(R),(C)","Restaurant",1972,NA,-86.5226243,39.1634142,"Google Verified Location",NA,NA,NA,"1972-IN-0272"
+"Holiday Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1975,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1975-IN-0273"
+"Holiday Park","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1978,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1978-IN-0274"
+"Holiday Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1977,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1977-IN-0275"
+"Holiday Park","","64th & Spring Mill Rd.","Indianapolis","IN","Cruisy Area","Cruising Areas",1972,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1972-IN-0276"
+"Holiday Park","(HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1979,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1979-IN-0277"
+"Holiday Park","","","Indianapolis","IN","(AYOR),Cruisy Area","Cruising Areas",1980,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1980-IN-0278"
+"Holiday Park","","64th & Spring Mill Rd.","Indianapolis","IN","Cruisy Area","Cruising Areas",1973,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1973-IN-0279"
+"Holiday Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1974,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1974-IN-0280"
+"Holiday Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1976,"",-86.163494,39.870893,"Verified Location",NA,NA,NA,"1976-IN-0281"
+"Holland","(afternoons)","117 N. Illinous","Indianapolis","IN","(M),(RT)","Bars/Clubs",1976,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1976-IN-0282"
+"Holland","","117 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1972,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1972-IN-0283"
+"Holland's","(Afternoons)","117 No. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1978,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1978-IN-0284"
+"Holland's","(Afternoons)","117 N. Illinois ","Indianapolis","IN","(M),(RT)","Bars/Clubs",1977,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1977-IN-0285"
+"Holland's","","117 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1971,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1971-IN-0286"
+"Holland's","","117 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1970,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1970-IN-0287"
+"Holland's","","117 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1973,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1973-IN-0288"
+"Holland's ","(afternoons)","117 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1974,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1974-IN-0289"
+"Holland's ","(Afternoons)","117 N. Illinois","Indianapolis","IN","(M),(RT)","Bars/Clubs",1975,NA,-86.1594024,39.7689557,"Google Verified Location",NA,NA,NA,"1975-IN-0290"
+"Hotel Anthony","(piano bar only)","128 W. Berry St.","Ft. Wayne","IN","(M)","Bars/Clubs,Hotel",1971,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1971-IN-0291"
+"Hotel Anthony","(piano bar only)","128 W. Berry St.","Ft. Wayne","IN","(M),(PE)","Hotel,Bars/Clubs",1970,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1970-IN-0292"
+"Hotel Anthony","","128 W. Barry","Ft. Wayne","IN","(M)","Hotel,Bars/Clubs",1973,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1973-IN-0293"
+"Hotel Anthony","","128 W. Barry","Ft. Wayne","IN","(M)","Hotel,Bars/Clubs",1974,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1974-IN-0294"
+"Hotel Anthony","","128 W. Barry","Ft. Wayne","IN","(M)","Hotel,Bars/Clubs",1972,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1972-IN-0295"
+"Hotel McCurdy Bar","","101 S.E. 1st St.","Evansville","IN","","Bars/Clubs,Hotel",1969,NA,-87.5738402,37.9686353,"Google Verified Location",NA,NA,NA,"1969-IN-0296"
+"Hotel McCurdy Bar","","101 S.E. 1st St.","Evansville","IN","(M)","Hotel,Bars/Clubs",1972,NA,-87.5738402,37.9686353,"Google Verified Location",NA,NA,NA,"1972-IN-0297"
+"Hotel McCurdy Bar","","101 S.E. 1st St.","Evansville","IN","(M)","Hotel,Bars/Clubs",1971,NA,-87.5738402,37.9686353,"Google Verified Location",NA,NA,NA,"1971-IN-0298"
+"Hotel McCurdy Bar","","101 S.E. 1st St.","Evansville","IN","","Bars/Clubs,Hotel",1968,NA,-87.5738402,37.9686353,"Google Verified Location",NA,NA,NA,"1968-IN-0299"
+"Hotel McCurdy Bar","","101 S.E. 1st St.","Evansville","IN","","Hotel,Bars/Clubs",1970,NA,-87.5738402,37.9686353,"Google Verified Location",NA,NA,NA,"1970-IN-0300"
+"Hour House","(Open 24 hrs)","","Bloomington","IN","(M),(R)","Restaurant",1980,"",-86.533952,39.169164,"Verified Location",NA,NA,NA,"1980-IN-0301"
+"Huddle","(after hours)","2034 N. Meridian","Indianapolis","IN","(M),(R),(C),(AH)","Restaurant",1972,NA,-86.1581318,39.7941891,"Google Verified Location",NA,NA,NA,"1972-IN-0302"
+"Huddle","(after hours)","2034 N. Meridian","Indianapolis","IN","(R),(M),(C)","Restaurant",1971,NA,-86.1581318,39.7941891,"Google Verified Location",NA,NA,NA,"1971-IN-0303"
+"Huddle Restaurant","(after hours)","2034 N. Meridian","Indianapolis","IN","(M),(C)","Restaurant",1969,NA,-86.1581318,39.7941891,"Google Verified Location",NA,NA,NA,"1969-IN-0304"
+"Huddle Restaurant","","2034 N. Meridian","Indianapolis","IN","(C)","Restaurant",1965,NA,-86.1581318,39.7941891,"Google Verified Location",NA,NA,NA,"1965-IN-0305"
+"Huddle Restaurant","(after hours)","2034 N. Meridian","Indianapolis","IN","(M),(C)","Restaurant",1968,NA,-86.1581318,39.7941891,"Google Verified Location",NA,NA,NA,"1968-IN-0306"
+"Huddle Restaurant","(after hours)","2034 N. Meridian","Indianapolis","IN","(M),(C)","Restaurant",1970,NA,-86.1581318,39.7941891,"Google Verified Location",NA,NA,NA,"1970-IN-0307"
+"Huddle Restaurant","","2034 N. Meridian","Indianapolis","IN","(C)","Restaurant",1966,NA,-86.1581318,39.7941891,"Google Verified Location",NA,NA,NA,"1966-IN-0308"
+"Hunt","(3 floors 'super bar'-ground flood 'Lodge') (Cruisy) & 'Chase' upstairs (Disco)","107 S. Pennsylvania","Indianapolis","IN","(W),(YC),(D),(PT),(*)","Bars/Clubs,Cruising Areas",1980,NA,-86.1559797,39.7653892,"Google Verified Location",NA,NA,NA,"1980-IN-0309"
+"Hunt","(2 floors) (Disco)","141 S. Pennsylvania","Indianapolis","IN","(YC),(D),(*)","Bars/Clubs",1976,NA,-86.1558317,39.7639958,"Google Verified Location",NA,NA,NA,"1976-IN-0310"
+"Hunt","(3 floors 'super bar' Ground floor 'The lodge' is (W) (YC) (Cruisy) 'The Chase' upstairs has (YC) (DISCO) (D) (PT) & games)","107 S. Pennsylvania","Indianapolis","IN","(W),(YC),(D),(PT)","Bars/Clubs,Cruising Areas",1977,NA,-86.1559797,39.7653892,"Google Verified Location",NA,NA,NA,"1977-IN-0311"
+"Hunt","(3 floors 'super bar'-Ground floor 'Lodge' (Cruisy) -'Chase' upstairs (Disco)","107 So. Pennsylvania","Indianapolis","IN","(*),(W),(YC),(D),(PT)","Bars/Clubs,Cruising Areas",1978,NA,-86.1559797,39.7653892,"Google Verified Location",NA,NA,NA,"1978-IN-0312"
+"Hunt","(3 floors 'super bar'-ground floor 'Lodge' (Cruisy) & 'Chase'  upstairs (Disco)","107 S. Pennsylvania ","Indianapolis","IN","(W),(YC),(D),(PT)","Bars/Clubs,Cruising Areas",1979,NA,-86.1559797,39.7653892,"Google Verified Location",NA,NA,NA,"1979-IN-0313"
+"Image ","(go go boys)","1000 Lincoln Way","South Bend","IN","(D)","Bars/Clubs",1978,NA,-86.2635999,41.682319,"Google Verified Location",NA,NA,NA,"1978-IN-0314"
+"Indiana New Book Store","","137 W. Washington","Indianapolis","IN","","Book Store",1975,NA,-86.1609905,39.7665755,"Google Verified Location",NA,NA,NA,"1975-IN-0315"
+"Indiana News Book Store","","137 W. Washington","Indianapolis","IN","","Book Store",1973,NA,-86.1609905,39.7665755,"Google Verified Location",NA,NA,NA,"1973-IN-0316"
+"Indiana News Book Store ","","137 W. Washington","Indianapolis","IN","","Book Store",1974,NA,-86.1609905,39.7665755,"Google Verified Location",NA,NA,NA,"1974-IN-0317"
+"Indianapolis Public Library","surrounding block-especially in back (HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas,Organizations",1978,"2/1/2021 updated to include missing HOT amenity.",-86.156761,39.778168,"Verified Location",NA,NA,NA,"1978-IN-0318"
+"Indianapolis Public Library","","v","Indianapolis","IN","Cruisy Area,(AYOR)","Cruising Areas,Organizations",1979,"",-86.156761,39.778168,"Verified Location",NA,NA,NA,"1979-IN-0319"
+"Indianapolis Public library","Surrounding Block-especially in back","","Indianapolis","IN","Cruisy Area","Cruising Areas,Organizations",1977,"",-86.156761,39.778168,"Verified Location",NA,NA,NA,"1977-IN-0320"
+"J. Pierpont's","","148 E. Market St. ","Indianapolis","IN","(M),(R)","Restaurant",1980,NA,-86.1549456,39.7687109,"Google Verified Location",NA,NA,NA,"1980-IN-0321"
+"J.D.'s","'The Ruins' (Recently enlarged)","1218 No. Pennsylvania","Indianapolis","IN","(R),(D),(*)","Restaurant",1978,NA,-86.1560592,39.7837148,"Google Verified Location",NA,NA,NA,"1978-IN-0322"
+"J.D.'s","""The Ruins""","1218 N. Pennsylvania","Indianapolis","IN","(R),(D),(*)","Restaurant",1977,NA,-86.1560592,39.7837148,"Google Verified Location",NA,NA,NA,"1977-IN-0323"
+"J.D.'s","'The Ruins'","1218 N. Pennsylvania","Indianapolis","IN","(R),(D),(*)","Restaurant",1974,NA,-86.1560592,39.7837148,"Google Verified Location",NA,NA,NA,"1974-IN-0324"
+"J.D.'s","'The Ruins'","1218 N. Pennsylvania","Indianapolis","IN","(R),(D),(*)","Restaurant",1976,NA,-86.1560592,39.7837148,"Google Verified Location",NA,NA,NA,"1976-IN-0325"
+"J.D.'s","'The Ruins'","1202 N. Pennsylvania","Indianapolis","IN","(R)","Restaurant",1973,NA,-86.1560393,39.7834932,"Google Verified Location",NA,NA,NA,"1973-IN-0326"
+"J.D's","'The Ruins'","1218 N. Pennsylvania","Indianapolis","IN","(R),(D),(YC),(*)","Restaurant,Bars/Clubs",1975,NA,-86.1560592,39.7837148,"Google Verified Location",NA,NA,NA,"1975-IN-0327"
+"Jack's Poplar Bar","(Some B,RT)","1430 Poplar","Terre Haute","IN","(M),(B),(RT)","Bars/Clubs",1978,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1978-IN-0328"
+"Jack's Poplar Bar","(Some B, RT)","1430 Poplar ","Terre Haute","IN","(M),(B),(RT)","Bars/Clubs",1980,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1980-IN-0329"
+"Jack's Poplar Bar","(Some B,RT)","1430 Poplar","Terre Haute","IN","(M),(B),(RT)","Bars/Clubs",1979,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1979-IN-0330"
+"Jack's Poplar St. Bar","","1430 Poplar","Terre Haute","IN","(M),(B),(RT)","Bars/Clubs",1976,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1976-IN-0331"
+"Jack's Poplar Street Bar","","1430 Poplar ","Terre Haute","IN","(M),(B),(RT)","Bars/Clubs",1977,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1977-IN-0332"
+"Jackie's Lounge","(Sundays*)","1545 N. Meridian","Indianapolis","IN","(R),(E),(*)","Bars/Clubs,Restaurant",1979,NA,-86.1569734,39.788124,"Google Verified Location",NA,NA,NA,"1979-IN-0333"
+"Jolly Spot","","210 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1968,NA,-86.2499655,41.6747328,"Google Verified Location",NA,NA,NA,"1968-IN-0334"
+"Jolly Spot","","210 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1971,NA,-86.2499655,41.6747328,"Google Verified Location",NA,NA,NA,"1971-IN-0335"
+"Jolly Spot","","210 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1972,NA,-86.2499655,41.6747328,"Google Verified Location",NA,NA,NA,"1972-IN-0336"
+"Jolly Spot","","210 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1965,NA,-86.2499655,41.6747328,"Google Verified Location",NA,NA,NA,"1965-IN-0337"
+"Jolly Spot","","210 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1970,NA,-86.2499655,41.6747328,"Google Verified Location",NA,NA,NA,"1970-IN-0338"
+"Jolly Spot","","210 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1969,NA,-86.2499655,41.6747328,"Google Verified Location",NA,NA,NA,"1969-IN-0339"
+"Jolly Spot","","210 E. Jefferson","South Bend","IN","(*)","Bars/Clubs",1966,NA,-86.2499655,41.6747328,"Google Verified Location",NA,NA,NA,"1966-IN-0340"
+"King Cole","","7 N Meridian","Indianapolis","IN","(M),(PE)","Bars/Clubs",1965,NA,-86.1578708,39.7674066,"Google Verified Location",NA,NA,NA,"1965-IN-0341"
+"King Cole","","7 N Meridian","Indianapolis","IN","(M),(PE)","Bars/Clubs",1966,NA,-86.1578708,39.7674066,"Google Verified Location",NA,NA,NA,"1966-IN-0342"
+"King Cole","(lunch & cocktail hour only)","7 N. Meridian","Indianapolis","IN","(M),(PE),(R)","Restaurant",1973,NA,-86.1578708,39.7674066,"Google Verified Location",NA,NA,NA,"1973-IN-0343"
+"King Cole","(Lunch & cocktail hour only)","7 N. Meridian","Indianapolis","IN","(M),(PE),(R)","Restaurant",1974,NA,-86.1578708,39.7674066,"Google Verified Location",NA,NA,NA,"1974-IN-0344"
+"Kirkwood Ave","","","Bloomington","IN","Cruisy Area","Cruising Areas",1980,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1980-IN-0345"
+"Kirkwood Ave","","","Bloomington","IN","Cruisy Area","Cruising Areas",1979,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1979-IN-0346"
+"Kirkwood Ave","","","Bloomington","IN","Cruisy Area","Cruising Areas",1973,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1973-IN-0347"
+"Kirkwood Ave","","","Bloomington","IN","Cruisy Area","Cruising Areas",1977,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1977-IN-0348"
+"Kirkwood Ave.","","","Bloomington","IN","Cruisy Area","Cruising Areas",1978,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1978-IN-0349"
+"Kirkwood Ave.","","","Bloomington","IN","Cruisy Area","Cruising Areas",1974,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1974-IN-0350"
+"Kirkwood Ave.","","","Bloomington","IN","Cruisy Area","Cruising Areas",1976,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1976-IN-0351"
+"Kirkwood Avenue","","","Bloomington","IN","Cruisy Area","Cruising Areas",1975,"",-86.526378,39.166542,"Verified Location",NA,NA,NA,"1975-IN-0352"
+"Kirkwood Bar","","212 Kirkwood Avenue","Bloomington","IN","(M),(G),(RT),(D)","Bars/Clubs",1977,NA,-86.5355502,39.1668773,"Google Verified Location",NA,NA,NA,"1977-IN-0353"
+"Kirkwood Bar","(Some G,RT) ","212 Kirkwood Ave.","Bloomington","IN","(M),(G),(RT),(D)","Bars/Clubs",1978,NA,-86.5355502,39.1668773,"Google Verified Location",NA,NA,NA,"1978-IN-0354"
+"Kirkwood Bar","(Some G)","212 Kirkwood Ave.","Bloomington","IN","(M),(G),(RT),(D)","Bars/Clubs",1979,NA,-86.5355502,39.1668773,"Google Verified Location",NA,NA,NA,"1979-IN-0355"
+"Knickerbocker","(W. Lafayette)","5th between Main & Columbia","Lafayette","IN","(M),(YC)","Bars/Clubs",1976,"",-86.89185,40.418692,"Verified Location",NA,NA,NA,"1976-IN-0356"
+"Knickerbocker","","5th St. Betw. Main & Columbia (W. Lafayette)","Lafayette","IN","(M),(YC)","Bars/Clubs",1979,"",-86.89185,40.418692,"Verified Location",NA,NA,NA,"1979-IN-0357"
+"Knickerbocker","","5th street between Main & Columbia (W. Lafayette","Lafayette","IN","(M),(YC)","Bars/Clubs",1977,"",-86.89185,40.418692,"Verified Location",NA,NA,NA,"1977-IN-0358"
+"Knickerbocker","5th St. betw Main & Columbia (W. Lafayette)","","Lafayette","IN","(M),(YC)","Bars/Clubs",1980,NA,-86.89185,40.418692,"Verified Location",NA,NA,NA,"1980-IN-0359"
+"Knickerbocker","","5th betw. Main & Columbia (W. Lafayette)","Lafayette","IN","(M),(YC)","Bars/Clubs",1978,"",-86.89185,40.418692,"Verified Location",NA,NA,NA,"1978-IN-0360"
+"Knife & Fork","(after hours)","Illinois Ave.","Indianapolis","IN","(M),(R),(C)","Restaurant",1972,"",-86.159094,39.813747,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1972-IN-0361"
+"Library Adult Books","","7th & Washington","Bloomington","IN","","Book Store",1980,"",-86.532227,39.168617,"Verified Location",NA,NA,NA,"1980-IN-0362"
+"Linday Bath's","","450 Massachusetts","Indianapolis","IN","","Baths",1970,NA,-86.1513386,39.773567,"Google Verified Location",NA,NA,NA,"1970-IN-0363"
+"Linday Bath's","","400 blck Massachusetts","Indianapolis","IN","","Baths",1966,"",-86.152154,39.772771,"Verified Location",NA,NA,NA,"1966-IN-0364"
+"Linday Bath's","","450 Massachusetts","Indianapolis","IN","","Baths",1969,NA,-86.1513386,39.773567,"Google Verified Location",NA,NA,NA,"1969-IN-0365"
+"Linday Bath's","","400 blck Massachusetts","Indianapolis","IN","","Baths",1965,"",-86.152154,39.772771,"Verified Location",NA,NA,NA,"1965-IN-0366"
+"Linday Bath's","","450 Massachusetts","Indianapolis","IN","","Baths",1971,NA,-86.1513386,39.773567,"Google Verified Location",NA,NA,NA,"1971-IN-0367"
+"Linday Bath's","","450 Massachusetts","Indianapolis","IN","","Baths",1968,NA,-86.1513386,39.773567,"Google Verified Location",NA,NA,NA,"1968-IN-0368"
+"Lindsay Baths","","450 Massachusetts","Indianapolis","IN","","Baths",1972,NA,-86.1513386,39.773567,"Google Verified Location",NA,NA,NA,"1972-IN-0369"
+"Little Denmark Book Store","","3002 Western Ave","South Bend","IN","(*)","Book Store",1980,NA,-86.2913515,41.6717862,"Google Verified Location",NA,NA,NA,"1980-IN-0370"
+"M.C.C.","","1940 N. Delaware","Indianapolis","IN","","Church",1979,NA,-86.1540915,39.793713,"Google Verified Location",NA,NA,NA,"1979-IN-0371"
+"M.C.C.","","W. Main St.","Ft. Wayne","IN","","Church",1978,"",-85.156802,41.078663,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0372"
+"M.C.C.","","1940 No. Delaware","Indianapolis","IN","","Church",1978,NA,-86.1540915,39.793713,"Google Verified Location",NA,NA,NA,"1978-IN-0373"
+"M.C.C.","(May be moving)","1940 N. Delaware","Indianapolis","IN","","Church",1980,NA,-86.1540915,39.793713,"Google Verified Location",NA,NA,NA,"1980-IN-0374"
+"M.C.C.","","1940 N. Delaware","Indianapolis","IN","","Church",1977,NA,-86.1540915,39.793713,"Google Verified Location",NA,NA,NA,"1977-IN-0375"
+"M.C.C.","","1940 N. Delaware","Indianapolis","IN","","Church",1976,NA,-86.1540915,39.793713,"Google Verified Location",NA,NA,NA,"1976-IN-0376"
+"Ma Belle's","(Disco) (Cruisy) ","20 No. Delaware","Indianapolis","IN","(D),(*)","Bars/Clubs,Cruising Areas",1978,NA,-86.1544823,39.7664031,"Google Verified Location",NA,NA,NA,"1978-IN-0377"
+"Main Bar & Grill","","310 N. Main St.","Kokomo","IN","(M)","Bars/Clubs",1976,NA,-86.1312413,40.488683,"Google Verified Location",NA,NA,NA,"1976-IN-0378"
+"Main Bar & Grill","","310 N. Main Street","Kokomo","IN","(M)","Bars/Clubs,Restaurant",1977,NA,-86.1312413,40.488683,"Google Verified Location",NA,NA,NA,"1977-IN-0379"
+"Main St.","","","Evansville","IN","Cruisy Area","Cruising Areas",1979,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1979-IN-0380"
+"Main St.","","","Evansville","IN","Cruisy Area","Cruising Areas",1973,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1973-IN-0381"
+"Main St.","","","Evansville","IN","Cruisy Area","Cruising Areas",1980,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1980-IN-0382"
+"Main St.","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1974,"",-85.156802,41.078663,"Verified Location",NA,NA,NA,"1974-IN-0383"
+"Main St.","","","Evansville","IN","Cruisy Area","Cruising Areas",1974,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1974-IN-0384"
+"Main Street","","","Evansville","IN","Cruisy Area","Cruising Areas",1976,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1976-IN-0385"
+"Main Street","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1977,"",-85.156802,41.078663,"Verified Location",NA,NA,NA,"1977-IN-0386"
+"Main Street","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1973,"",-85.156802,41.078663,"Verified Location",NA,NA,NA,"1973-IN-0387"
+"Main Street","","","Evansville","IN","Cruisy Area","Cruising Areas",1975,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1975-IN-0388"
+"Main Street","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1976,"",-85.156802,41.078663,"Verified Location",NA,NA,NA,"1976-IN-0389"
+"Main Street","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1975,"",-85.156802,41.078663,"Verified Location",NA,NA,NA,"1975-IN-0390"
+"Main Street","","","Evansville","IN","Cruisy Area","Cruising Areas",1977,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1977-IN-0391"
+"Main Street","","","Evansville","IN","Cruisy Area","Cruising Areas",1978,"",-87.571724,37.971258,"Verified Location",NA,NA,NA,"1978-IN-0392"
+"Mark III","","100 block S. Walnut St.","Muncie","IN","(*)","Bars/Clubs",1973,"",-85.386308,40.193411,"Verified Location",NA,NA,NA,"1973-IN-0393"
+"Mark III","","107 E. Main Street","Muncie","IN","(*)","Bars/Clubs",1977,NA,-85.3861737,40.1934037,"Google Verified Location",NA,NA,NA,"1977-IN-0394"
+"Mark III","","107 E. Main St.","Muncie","IN","(*)","Bars/Clubs",1975,NA,-85.3861737,40.1934037,"Google Verified Location",NA,NA,NA,"1975-IN-0395"
+"Mark III","(Disco)","107 E. Main St.","Muncie","IN","(YC),(D)","Bars/Clubs",1979,NA,-85.3861737,40.1934037,"Google Verified Location",NA,NA,NA,"1979-IN-0396"
+"Mark III","","107 E. Main St.","Muncie","IN","(*)","Bars/Clubs",1978,NA,-85.3861737,40.1934037,"Google Verified Location",NA,NA,NA,"1978-IN-0397"
+"Mark III","","111 S. Walnut St.","Muncie","IN","(*)","Bars/Clubs",1974,NA,-85.3867611,40.193267,"Google Verified Location",NA,NA,NA,"1974-IN-0398"
+"Mark III","","107 E. Main St.","Muncie","IN","(*)","Bars/Clubs",1976,NA,-85.3861737,40.1934037,"Google Verified Location",NA,NA,NA,"1976-IN-0399"
+"Mark III","(Disco)","107 E. Main St.","Muncie","IN","(YC),(D)","Bars/Clubs",1980,NA,-85.3861737,40.1934037,"Google Verified Location",NA,NA,NA,"1980-IN-0400"
+"Mark III","","100 block, S. Walnut St.","Muncie","IN","(*)","Bars/Clubs",1972,"",-85.386308,40.193411,"Verified Location",NA,NA,NA,"1972-IN-0401"
+"Marquette Park & Millers Beach","","","Gary","IN","Cruisy Area","Cruising Areas",1972,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1972-IN-0402"
+"Meat Rack","(Some B,M)","1808 No. Central","Indianapolis","IN","(B),(M)","Bars/Clubs",1978,NA,-86.149896,39.791268,"Google Verified Location",NA,NA,NA,"1978-IN-0403"
+"Meg's","","1801 Wabash","Terre Haute","IN","(G)","Bars/Clubs",1972,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1972-IN-0404"
+"Meg's","","1801 Wabash","Terre Haute","IN","(G),(*)","Bars/Clubs",1965,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1965-IN-0405"
+"Meg's","","1801 Wabash","Terre Haute","IN","","Bars/Clubs",1971,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1971-IN-0406"
+"Meg's","","1801 Wabash","Terre Haute","IN","(M),(G)","Bars/Clubs",1973,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1973-IN-0407"
+"Meg's","(Some G)","1801 Wabash","Terre Haute","IN","(G),(*)","Bars/Clubs",1977,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1977-IN-0408"
+"Meg's","","1801 Wabash","Terre Haute","IN","","Bars/Clubs",1968,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1968-IN-0409"
+"Meg's","(Some G)","1801 Wabash","Terre Haute","IN","(*),(G)","Bars/Clubs",1974,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1974-IN-0410"
+"Meg's","(Some G)","1801 Wabash","Terre Haute","IN","(*),(G)","Bars/Clubs",1975,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1975-IN-0411"
+"Meg's","(Some G)","1801 Wabash","Terre Haute","IN","(*),(G)","Bars/Clubs",1976,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1976-IN-0412"
+"Meg's","","1801 Wabash","Terre Haute","IN","","Bars/Clubs",1969,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1969-IN-0413"
+"Meg's","","1801 Wabash","Terre Haute","IN","","Bars/Clubs",1970,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1970-IN-0414"
+"Meg's","(Some G)","1801 Wabash","Terre Haute","IN","(*),(G)","Bars/Clubs",1978,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1978-IN-0415"
+"Meg's","","1801 Wabash","Terre Haute","IN","(G)","Bars/Clubs",1966,NA,-87.3893097,39.468985,"Google Verified Location",NA,NA,NA,"1966-IN-0416"
+"Mena Cafe","(will be torn down after October 1965)","Division St","Evansville","IN","(*)","Restaurant",1965,NA,-87.4974835,37.9767897,"Google Verified Location",NA,NA,NA,"1965-IN-0417"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1973,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1973-IN-0418"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1979,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1979-IN-0419"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1974,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1974-IN-0420"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1975,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1975-IN-0421"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1980,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1980-IN-0422"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1976,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1976-IN-0423"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1977,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1977-IN-0424"
+"Mesker Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1978,"",-87.606021,37.99634,"Verified Location",NA,NA,NA,"1978-IN-0425"
+"Michiana M.C.C.","","1527 Kemble Avenue","South Bend","IN","","Church",1977,NA,-86.2638463,41.6579651,"Google Verified Location",NA,NA,NA,"1977-IN-0426"
+"Michigan St. Theatre & Book Store","('Wild back room')","1316 S. Michigan","South Bend","IN","","Theatre,Book Store",1980,NA,-86.2496374,41.6603865,"Google Verified Location",NA,NA,NA,"1980-IN-0427"
+"Monument Circle","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1973,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1973-IN-0428"
+"Monument Circle","('Hustlers') (HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1979,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1979-IN-0429"
+"Monument Circle","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1975,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1975-IN-0430"
+"Monument Circle","(hot)","","Indianapolis","IN","Cruisy Area,(HOT)","Cruising Areas",1977,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1977-IN-0431"
+"Monument Circle","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1976,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1976-IN-0432"
+"Monument Circle","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1972,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1972-IN-0433"
+"Monument Circle","(Hustlers) (HOT)","","Indianapolis","IN","Cruisy Area,(AYOR),(HOT)","Cruising Areas",1978,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1978-IN-0434"
+"Monument Circle","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1974,"",-86.158018,39.76909,"Verified Location",NA,NA,NA,"1974-IN-0435"
+"My Way","(S-Wed,Fri,Sat)","201 Fulton Ave.","Evansville","IN","(D),(PT)","Bars/Clubs",1978,NA,-87.581077,37.975675,"Google Verified Location",NA,NA,NA,"1978-IN-0436"
+"New Horizons","(We-only)","118 W. 3rd St.","Bloomington","IN","(YC),(D),(C),(E),(WE),(*)","Organizations",1977,NA,-86.533719,39.1647181,"Google Verified Location",NA,NA,NA,"1977-IN-0437"
+"Nick's English Hut","","405 E. Kirkwood","Bloomington","IN","(M),(HIP),(YC),(*)","Bars/Clubs",1976,NA,-86.5295135,39.16682,"Google Verified Location",NA,NA,NA,"1976-IN-0438"
+"Nick's English Hut","","405 E. Kirkwood Ave.","Bloomington","IN","(M),(HIP),(YC),(*)","Bars/Clubs",1974,NA,-86.5295135,39.16682,"Google Verified Location",NA,NA,NA,"1974-IN-0439"
+"Nick's English Hut","","405 E. Kirkwood Ave.","Bloomington","IN","(M),(HIP),(YC),(*)","Bars/Clubs",1975,NA,-86.5295135,39.16682,"Google Verified Location",NA,NA,NA,"1975-IN-0440"
+"Nick's English Hut ","","405 E. Kirkwood Ave.","Bloomington","IN","(M),(HIP),(YC),(*)","Bars/Clubs",1973,NA,-86.5295135,39.16682,"Google Verified Location",NA,NA,NA,"1973-IN-0441"
+"North Village Mall","T-Rooms","","South Bend","IN","Cruisy Area","Cruising Areas",1980,"",-86.25169,41.729656,"Verified Location",NA,NA,NA,"1980-IN-0442"
+"North Village Mall","T-rooms","","South Bend","IN","Cruisy Area","Cruising Areas",1979,"",-86.25169,41.729656,"Verified Location",NA,NA,NA,"1979-IN-0443"
+"Notre Dame U.","Library, Downstairs, T-Room","","South Bend","IN","Cruisy Area","Cruising Areas",1979,"",-86.232865,41.702816,"Verified Location",NA,NA,NA,"1979-IN-0444"
+"Notre Dame U.","Library, downstairs T-Room","","South Bend","IN","Cruisy Area","Cruising Areas,Organizations",1980,"",-86.232865,41.702816,"Verified Location",NA,NA,NA,"1980-IN-0445"
+"Notre Dame U.","","","South Bend","IN","Cruisy Area","Cruising Areas,Organizations",1978,"",-86.232865,41.702816,"Verified Location",NA,NA,NA,"1978-IN-0446"
+"Omni","(Some M, L, YC) (Disco) (Best ever in Bloomington)","214 Kirkwood","Bloomington","IN","(M),(L),(YC),(D),(*)","Bars/Clubs",1980,NA,-86.5356883,39.1668611,"Google Verified Location",NA,NA,NA,"1980-IN-0447"
+"One Ten Club","","17 Jackson Place","Indianapolis","IN","(G),(R),(*)","Restaurant",1979,NA,-86.1589287,39.7633767,"Google Verified Location",NA,NA,NA,"1979-IN-0448"
+"Outpost","","Merivale Rd.","Beverly Shores","IN","(M),(R)","Restaurant",1980,"",-86.975155,41.690787,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0449"
+"Pal's Steak House","(Some G)","429 S. Fulton","Evansville","IN","(YC),(D),(G),(*)","Bars/Clubs",1974,NA,-87.5808459,37.9769288,"Google Verified Location",NA,NA,NA,"1974-IN-0450"
+"Pal's Steak House","(sometimes open-sometimes closed","429 S. Fulton","Evansville","IN","","Restaurant",1976,NA,-87.5808459,37.9769288,"Google Verified Location",NA,NA,NA,"1976-IN-0451"
+"Pal's Steak House","(some (G))","429 S. Fulton St.","Evansville","IN","(YC),(D),(G),(*)","Bars/Clubs,Restaurant",1973,NA,-87.5808459,37.9769288,"Google Verified Location",NA,NA,NA,"1973-IN-0452"
+"Pal's Steak House","(Some G)","429 So. Fulton","Evansville","IN","(YC),(D),(G),(*)","Restaurant",1975,NA,-87.5808459,37.9769288,"Google Verified Location",NA,NA,NA,"1975-IN-0453"
+"Paradise Books","","Mishawaka & Main","Mishawaka","IN","","Book Store",1979,"",-86.181319,41.666217,"Verified Location",NA,NA,NA,"1979-IN-0454"
+"Pastime","","513 S. Walnut","Muncie","IN","(M)","Bars/Clubs",1970,NA,-85.3869093,40.1901678,"Google Verified Location",NA,NA,NA,"1970-IN-0455"
+"Pastime","","513 S. Walnut","Muncie","IN","(M)","Bars/Clubs",1968,NA,-85.3869093,40.1901678,"Google Verified Location",NA,NA,NA,"1968-IN-0456"
+"Pastime","","513 S. Walnut","Muncie","IN","(M)","Bars/Clubs",1965,NA,-85.3869093,40.1901678,"Google Verified Location",NA,NA,NA,"1965-IN-0457"
+"Pastime","","513 S. Walnut","Muncie","IN","(M)","Bars/Clubs",1969,NA,-85.3869093,40.1901678,"Google Verified Location",NA,NA,NA,"1969-IN-0458"
+"Pastime","","513 S. Walnut","Muncie","IN","(M)","Bars/Clubs",1966,NA,-85.3869093,40.1901678,"Google Verified Location",NA,NA,NA,"1966-IN-0459"
+"Pastime","","513 S. Walnut","Muncie","IN","(M)","Bars/Clubs",1971,NA,-85.3869093,40.1901678,"Google Verified Location",NA,NA,NA,"1971-IN-0460"
+"Pearl & Berry Sts.","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1978,"",-85.141974,41.078611,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0461"
+"Pearl St.","","from Harrison to Ewing","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1979,"",-85.144793,41.080146,"Verified Location",NA,NA,NA,"1979-IN-0462"
+"Pearl St. ","From Harrison to Ewing","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1980,NA,-85.1393513,41.079273,"Google Verified Location",NA,NA,NA,"1980-IN-0463"
+"Ponderosa","","Washington St","Indianapolis","IN","","Bars/Clubs",1965,"",-86.056174,39.771523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1965-IN-0464"
+"Ponderosa","","Washington St","Indianapolis","IN","","Bars/Clubs",1966,"",-86.056174,39.771523,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1966-IN-0465"
+"Poplar St. Bar","","1430 Poplar","Terre Haute","IN","(M),(*)","Bars/Clubs",1971,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1971-IN-0466"
+"Poplar St. Bar","","1430 Poplar","Terre Haute","IN","(M),(*)","Bars/Clubs",1969,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1969-IN-0467"
+"Poplar St. Bar","(Jack's) (Some B)","1430 Poplar","Terre Haute","IN","(M),(RT),(B),(*)","Bars/Clubs",1975,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1975-IN-0468"
+"Poplar St. Bar","","1430 Poplar","Terre Haute","IN","(B),(M),(RT)","Bars/Clubs",1973,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1973-IN-0469"
+"Poplar St. Bar","","1430 Poplar","Terre Haute","IN","(M),(*)","Bars/Clubs",1968,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1968-IN-0470"
+"Poplar St. Bar","(Jack's)","1430 Poplar","Terre Haute","IN","(M),(B),(RT),(*)","Bars/Clubs",1974,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1974-IN-0471"
+"Poplar St. Bar","","1430 Poplar","Terre Haute","IN","(M),(*)","Bars/Clubs",1972,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1972-IN-0472"
+"Poplar St. Bar","","1430 Poplar","Terre Haute","IN","(M),(*)","Bars/Clubs",1970,NA,-87.3943971,39.4631858,"Google Verified Location",NA,NA,NA,"1970-IN-0473"
+"Potawatami Park","","","South Bend","IN","Cruisy Area","Cruising Areas",1980,"",-86.219502,41.668323,"Verified Location",NA,NA,NA,"1980-IN-0474"
+"Potawatami Park","","","South Bend","IN","Cruisy Area","Cruising Areas",1979,"",-86.219502,41.668323,"Verified Location",NA,NA,NA,"1979-IN-0475"
+"Potawatami Park","","","South Bend","IN","Cruisy Area","Cruising Areas",1978,"",-86.219502,41.668323,"Verified Location",NA,NA,NA,"1978-IN-0476"
+"Potawatami Park","","","South Bend","IN","Cruisy Area","Cruising Areas",1977,"",-86.219502,41.668323,"Verified Location",NA,NA,NA,"1977-IN-0477"
+"Raymon's","(Inquire Locally)","","Evansville","IN","","Bars/Clubs",1977,"",-87.57109,37.971559,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-IN-0478"
+"Rest Area","","2 mi on W. on U.S. 30","Valparaiso","IN","Cruisy Area","Cruising Areas",1975,"",-87.061141,41.473095,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-IN-0479"
+"Rest Area","","3 mi N. on Ind. 43","Lafayette","IN","Cruisy Area","Cruising Areas",1975,"",-86.875287,40.416702,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-IN-0480"
+"Rest Area","","10 mi. S. on Ind. 36, just off Ind.3","Muncie","IN","Cruisy Area","Cruising Areas",1975,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-IN-0481"
+"Rest area","","3 mi N. on Ind. 43","Lafayette","IN","Cruisy Area","Cruising Areas",1973,"",-86.875287,40.416702,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-IN-0482"
+"Rest area","","10 mi. S. on Ind. 36, just off Ind. 3","Muncie","IN","Cruisy Area","Cruising Areas",1973,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-IN-0483"
+"Rest area","","3 mi. N.E. on U.S. 40","Knightstown","IN","Cruisy Area","Cruising Areas",1973,"",-85.526363,39.795601,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-IN-0484"
+"Rest area","","3 mi N. on Ind. 43","Lafayette","IN","Cruisy Area","Cruising Areas",1974,"",-86.875287,40.416702,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-IN-0485"
+"Rest area","","10 mi. S. on Ind. 36, just off Ind. 3","Muncie","IN","Cruisy Area","Cruising Areas",1974,"",-85.38636,40.193377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-IN-0486"
+"Rest area","","3 mi N.E. on US 40","Knightstown","IN","Cruisy Area","Cruising Areas",1974,"",-85.526363,39.795601,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-IN-0487"
+"Rest stop","","2 mi. W. on US Hwy. 30","Valparaiso","IN","Cruisy Area","Cruising Areas",1974,"",-87.061141,41.473095,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-IN-0488"
+"Rock Quarries","'Skinny dipping'","","Bloomington","IN","Cruisy Area","Cruising Areas",1980,"",-86.524461,39.08462,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0489"
+"Ron-Da-Voo","","520 Washington","Gary","IN","(M)","Bars/Clubs",1969,NA,-87.338592,41.6014482,"Google Verified Location",NA,NA,NA,"1969-IN-0490"
+"Ron-Da-Voo","","520 Washington","Gary","IN","(M)","Bars/Clubs",1966,NA,-87.338592,41.6014482,"Google Verified Location",NA,NA,NA,"1966-IN-0491"
+"Ron-Da-Voo","","520 Washington","Gary","IN","(M)","Bars/Clubs",1968,NA,-87.338592,41.6014482,"Google Verified Location",NA,NA,NA,"1968-IN-0492"
+"Ron-Da-Voo","","520 Washington","Gary","IN","(M)","Bars/Clubs",1965,NA,-87.338592,41.6014482,"Google Verified Location",NA,NA,NA,"1965-IN-0493"
+"Royal Oaks","","223 W. 6th St.","Bloomington","IN","","Bars/Clubs",1968,NA,-86.535925,39.1673552,"Google Verified Location",NA,NA,NA,"1968-IN-0494"
+"Royal Oaks","","223 W. 6th St.","Bloomington","IN","(M),(R),(C)","Restaurant",1972,NA,-86.535925,39.1673552,"Google Verified Location",NA,NA,NA,"1972-IN-0495"
+"Royal Oaks","","223 W. 6th St.","Bloomington","IN","(M)","Bars/Clubs",1970,NA,-86.535925,39.1673552,"Google Verified Location",NA,NA,NA,"1970-IN-0496"
+"Royal Oaks","","223 W. 6th St.","Bloomington","IN","(M)","Bars/Clubs",1971,NA,-86.535925,39.1673552,"Google Verified Location",NA,NA,NA,"1971-IN-0497"
+"Royal Oaks","","223 W. 6th St.","Bloomington","IN","","Bars/Clubs",1969,NA,-86.535925,39.1673552,"Google Verified Location",NA,NA,NA,"1969-IN-0498"
+"Scottsdale Shopping Center","T-Rooms","","South Bend","IN","Cruisy Area","Cruising Areas",1979,"",-86.23013,41.626909,"Verified Location",NA,NA,NA,"1979-IN-0499"
+"Scottsdale Shopping Center","T-Rooms","","South Bend","IN","Cruisy Area","Cruising Areas",1980,"",-86.23013,41.626909,"Verified Location",NA,NA,NA,"1980-IN-0500"
+"Sea Horse","(Some G)(No neon sign-opp. A &P)","1902 Western Ave","South Bend","IN","(G),(D),(S),(*)","Bars/Clubs",1978,NA,-86.2779495,41.6718207,"Google Verified Location",NA,NA,NA,"1978-IN-0501"
+"Sea Horse","(Many G) (No sign-opp. A&P)","1902 Western Ave.","South Bend","IN","(G),(D),(S),(*)","Bars/Clubs",1979,NA,-86.2779495,41.6718207,"Google Verified Location",NA,NA,NA,"1979-IN-0502"
+"Sea Horse","(Many L) (No sign-opp. A & P)","1902 Western Ave.","South Bend","IN","(L),(D),(S)","Bars/Clubs",1980,NA,-86.2779495,41.6718207,"Google Verified Location",NA,NA,NA,"1980-IN-0503"
+"Sea Horse","(Some G) (No neon sign-opposite A&P)","1902 Western Avenue","South Bend","IN","(YC),(D),(S),(*),(G)","Bars/Clubs",1977,NA,-86.2779495,41.6718207,"Google Verified Location",NA,NA,NA,"1977-IN-0504"
+"Seahorse","","456 S. Brookfield","South Bend","IN","(YC),(D),(S),(*)","Bars/Clubs",1976,NA,-86.2774979,41.6704086,"Google Verified Location",NA,NA,NA,"1976-IN-0505"
+"Sheridan Inn Resort","(Bar, pool, & sauna)","821 Lake Shore","Michigan City","IN","(R),(H)","Restaurant,Hotel",1979,NA,-86.8872805,41.7303718,"Google Verified Location",NA,NA,NA,"1979-IN-0506"
+"Sheridan Inn Resort","(Bar,pool & sauna)","821 Lake shore","Michigan City","IN","(H),(R)","Hotel,Restaurant",1978,NA,-86.8872805,41.7303718,"Google Verified Location",NA,NA,NA,"1978-IN-0507"
+"St. Elmo Steak House","","127 S. Illinois","Indianapolis","IN","(M),(R)","Restaurant",1975,NA,-86.1598029,39.7648475,"Google Verified Location",NA,NA,NA,"1975-IN-0508"
+"St. Elmo Steak House","","127 S. Illinois","Indianapolis","IN","(M),(R)","Restaurant",1974,NA,-86.1598029,39.7648475,"Google Verified Location",NA,NA,NA,"1974-IN-0509"
+"St. Elmo's Steak House","","127 S. Illinois","Indianapolis","IN","(M),(R)","Restaurant",1976,NA,-86.1598029,39.7648475,"Google Verified Location",NA,NA,NA,"1976-IN-0510"
+"St. Joe Water Works","(Disco) (basement cruise bar)","411 E. Jefferson","South Bend","IN","(YC),(R),(PT),(D)","Restaurant,Bars/Clubs",1980,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1980-IN-0511"
+"St. Joe Water Works","(Disco) (basement cruise bar)","411 E. Jefferson","South Bend","IN","(*),(YC),(R),(PT),(D)","Bars/Clubs,Restaurant",1979,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1979-IN-0512"
+"St.Joe. Water Works","(Basement cruise bar)","411 E. Jefferson","South Bend","IN","(*),(YC),(D),(R),(PT)","Restaurant,Bars/Clubs",1978,NA,-86.2445568,41.6750826,"Google Verified Location",NA,NA,NA,"1978-IN-0513"
+"Steak 'n' Egg","(HOT)","9th & Pennsylvania","Indianapolis","IN","(M),(R),(C),(AH),(HOT)","Restaurant",1976,"",-86.155812,39.779174,"Verified Location",NA,NA,NA,"1976-IN-0514"
+"Steak 'n' Eggs","(HOT)","9th & Pennsylvania","Indianapolis","IN","(M),(R),(AH),(HOT)","Restaurant",1979,"",-86.155812,39.779174,"Verified Location",NA,NA,NA,"1979-IN-0515"
+"Steak 'n' Eggs","(Hot)","9th & Pennsylvania","Indianapolis","IN","(M),(R),(C),(AH),(HOT)","Restaurant",1977,"",-86.155812,39.779174,"Verified Location",NA,NA,NA,"1977-IN-0516"
+"Steak 'n' eggs","(HOT)","9th & Pennsylvania","Indianapolis","IN","(M),(R),(AH),(HOT)","Restaurant",1978,"",-86.155812,39.779174,"Verified Location",NA,NA,NA,"1978-IN-0517"
+"Student Union","Indiana Univ.","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1973,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1973-IN-0518"
+"Student Union","Indiana Univ.","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1974,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1974-IN-0519"
+"Student Union","Indiana U.","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1976,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1976-IN-0520"
+"Student Union Bldg.","University of Indiana","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1977,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1977-IN-0521"
+"Student Union, Indiana U.","","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1975,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1975-IN-0522"
+"Studio Art Theatre","","W. Franklin St.","Evansville","IN","","Theatre",1980,"",-87.596296,37.980842,"Verified Location",NA,NA,NA,"1980-IN-0523"
+"Sunset Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1976,"",-87.572026,37.96045,"Verified Location",NA,NA,NA,"1976-IN-0524"
+"Sunset Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1973,"",-87.572026,37.96045,"Verified Location",NA,NA,NA,"1973-IN-0525"
+"Sunset Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1977,"",-87.572026,37.96045,"Verified Location",NA,NA,NA,"1977-IN-0526"
+"Sunset Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1975,"",-87.572026,37.96045,"Verified Location",NA,NA,NA,"1975-IN-0527"
+"Sunset Park","","","Evansville","IN","Cruisy Area","Cruising Areas",1974,"",-87.572026,37.96045,"Verified Location",NA,NA,NA,"1974-IN-0528"
+"Swingers World Book Store","","224 W. Main St.","Ft. Wayne","IN","(*)","Book Store",1980,NA,-85.1423905,41.0802351,"Google Verified Location",NA,NA,NA,"1980-IN-0529"
+"Swingers World Book Store","","224 W. Main St.","Ft. Wayne","IN","","Book Store",1979,NA,-85.1423905,41.0802351,"Google Verified Location",NA,NA,NA,"1979-IN-0530"
+"Swinney Park","(days)","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1980,NA,-85.1393513,41.079273,"Google Verified Location",NA,NA,NA,"1980-IN-0531"
+"Swinney Park","(Days)","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1979,"",-85.162008,41.074159,"Verified Location",NA,NA,NA,"1979-IN-0532"
+"Swinny Oark","(Days)","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1978,"",-85.162008,41.074159,"Verified Location",NA,NA,NA,"1978-IN-0533"
+"T's Lounge","","801 Wabash","Terre Haute","IN","(M)","Bars/Clubs",1970,NA,-87.4053724,39.466292,"Google Verified Location",NA,NA,NA,"1970-IN-0534"
+"T's Lounge","","801 Wabash","Terre Haute","IN","(M)","Bars/Clubs",1969,NA,-87.4053724,39.466292,"Google Verified Location",NA,NA,NA,"1969-IN-0535"
+"T's Lounge","","801 Wabash","Terre Haute","IN","(M)","Bars/Clubs",1968,NA,-87.4053724,39.466292,"Google Verified Location",NA,NA,NA,"1968-IN-0536"
+"T's Lounge","","801 Wabash","Terre Haute","IN","(M)","Bars/Clubs",1972,NA,-87.4053724,39.466292,"Google Verified Location",NA,NA,NA,"1972-IN-0537"
+"T's Lounge","","801 Wabash","Terre Haute","IN","(M)","Bars/Clubs",1973,NA,-87.4053724,39.466292,"Google Verified Location",NA,NA,NA,"1973-IN-0538"
+"T's Lounge","","801 Wabash","Terre Haute","IN","(M)","Bars/Clubs",1971,NA,-87.4053724,39.466292,"Google Verified Location",NA,NA,NA,"1971-IN-0539"
+"The Club","('Darlo's) ","508 S. Alabama","Indianapolis","IN","(RT),(L),(PT),(B)","Bars/Clubs",1980,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1980-IN-0540"
+"The Club","('Darlos') ","508 So. Alabama","Indianapolis","IN","(G),(PT)","Bars/Clubs",1978,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1978-IN-0541"
+"The Club","(Darlo's)","508 S. Alabama","Indianapolis","IN","(G),(PT),(*)","Bars/Clubs",1977,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1977-IN-0542"
+"The Club","('Darlos)","508 S. Alabama","Indianapolis","IN","(RT),(G),(PT)","Bars/Clubs",1979,NA,-86.1535342,39.7598684,"Google Verified Location",NA,NA,NA,"1979-IN-0543"
+"The Levee","","","Evansville","IN","Cruisy Area","Cruising Areas",1979,"",-87.571712,37.958178,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-IN-0544"
+"The Levee","","","Evansville","IN","Cruisy Area","Cruising Areas",1978,"",-87.571712,37.958178,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-IN-0545"
+"The Levee","","","Evansville","IN","Cruisy Area","Cruising Areas",1980,"",-87.571712,37.958178,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0546"
+"The Ruins","(Cruisy) (Enter thru 'active' parking lot in rear)","1218 N. Pennsylvania","Indianapolis","IN","(*),(R),(D)","Cruising Areas,Restaurant",1979,NA,-86.1560592,39.7837148,"Google Verified Location",NA,NA,NA,"1979-IN-0547"
+"The Ruins","(Cruisy) (Enter thru 'active' parking lot in rear) ","1218 N. Pennsylvania","Indianapolis","IN","(R),(D),(*)","Restaurant,Bars/Clubs,Cruising Areas",1980,NA,-86.1560592,39.7837148,"Google Verified Location",NA,NA,NA,"1980-IN-0548"
+"Tom's Tavern","(Some G)","2003 Maumee Ave.","Ft. Wayne","IN","(G)","Bars/Clubs",1974,NA,-85.1117508,41.075712,"Google Verified Location",NA,NA,NA,"1974-IN-0549"
+"Town Room","Hotel Vendome","24 NW 3rd St","Evansville","IN","(PE)","Hotel,Bars/Clubs",1965,NA,-87.5729549,37.9714466,"Google Verified Location",NA,NA,NA,"1965-IN-0550"
+"Towne Room","Hotel Anthony ","24 N.W. 3rd St.","Evansville","IN","(YC),(D),(*)","Bars/Clubs,Hotel",1972,NA,-87.5729549,37.9714466,"Google Verified Location",NA,NA,NA,"1972-IN-0551"
+"Tremont Bar","","8 mi E on U.S. 12","Gary","IN","(*)","Bars/Clubs",1965,"",-87.337152,41.60204,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1965-IN-0552"
+"Tremont Bar","","8 mi E on U.S. 12","Gary","IN","(*)","Bars/Clubs",1969,"",-87.337152,41.60204,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-IN-0553"
+"Tremont Bar","","8 mi E on U.S. 12","Gary","IN","(*)","Bars/Clubs",1968,"",-87.337152,41.60204,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1968-IN-0554"
+"Tremont Bar","","8 mi E on U.S. 12","Gary","IN","(*)","Bars/Clubs",1966,"",-87.337152,41.60204,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1966-IN-0555"
+"TuLis'a Theatre Bar","(some (G)-(R) upstairs)","226 W. Main St.","Ft. Wayne","IN","(YC),(D),(*),(G),(R)","Bars/Clubs,Restaurant,Theatre",1973,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1973-IN-0556"
+"TuLisa's Theatre Bar","","226 W. Main St.","Ft. Wayne","IN","(YC),(S),(R),(*)","Restaurant,Bars/Clubs,Theatre",1976,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1976-IN-0557"
+"TuLisa's Theatre Bar","","226 W. Main St.","Ft. Wayne","IN","(YC),(D),(R),(*)","Restaurant,Theatre,Bars/Clubs",1974,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1974-IN-0558"
+"TuLisa's Theatre Bar","","226 W. Main St.","Ft. Wayne","IN","(YC),(S),(R),(*)","Restaurant,Bars/Clubs,Theatre",1975,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1975-IN-0559"
+"U. of Indiana","Student Union Bldg-T-Rooms","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1978,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1978-IN-0560"
+"U. of Indiana","Student Union Bldg. T-Rooms","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1980,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1980-IN-0561"
+"U. of Indiana","Student Union Bldg-T-Rooms","","Bloomington","IN","Cruisy Area","Cruising Areas,Organizations",1979,"",-86.523707,39.167703,"Verified Location",NA,NA,NA,"1979-IN-0562"
+"U.S. 20 'rest stop'","","3 miles E. of Gary","Gary","IN","Cruisy Area","Cruising Areas",1972,"",-87.337152,41.60204,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1972-IN-0563"
+"U.S. Hwy. 30 'rest stop'","","2 miles W. of Valparaiso","Valparaiso","IN","Cruisy Area","Cruising Areas",1972,"",-87.061141,41.473095,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1972-IN-0564"
+"University Park","","","Indianapolis","IN","Cruisy Area","Cruising Areas",1972,"",-86.157012,39.771979,"Verified Location",NA,NA,NA,"1972-IN-0565"
+"Up the Street","('Tops' in area) (Disco) (Showbar)","226 W. Main St.","Ft. Wayne","IN","(HIP),(YC),(D),(R)","Restaurant",1980,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1980-IN-0566"
+"Up the Street","(Disco)","226 W. Main Street","Ft. Wayne","IN","(YC),(D),(R),(S)","Restaurant",1977,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1977-IN-0567"
+"Up the Street","(Disco)","226 W. Main St.","Ft. Wayne","IN","(YC),(D),(R),(*)","Restaurant",1978,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1978-IN-0568"
+"Up the Street","('Tops' in area) (Disco)","226 W. Main St.","Ft. Wayne","IN","(HIP),(YC),(D),(R)","Restaurant,Bars/Clubs",1979,NA,-85.142439,41.080228,"Google Verified Location",NA,NA,NA,"1979-IN-0569"
+"Utopian Club","(Some L)","635 N. 10th St.","Terre Haute","IN","(L)","Bars/Clubs",1980,NA,-87.4020716,39.475181,"Google Verified Location",NA,NA,NA,"1980-IN-0570"
+"Van Orman Hotel","(piano bar)","128 W. Berry St.","Ft. Wayne","IN","(M),(PE)","Bars/Clubs,Hotel",1965,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1965-IN-0571"
+"Van Orman Hotel","(piano bar only)","128 W. Berry St.","Ft. Wayne","IN","(M),(PE)","Hotel,Bars/Clubs",1969,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1969-IN-0572"
+"Van Orman Hotel","(piano bar only)","128 W. Berry St.","Ft. Wayne","IN","(M),(PE)","Bars/Clubs,Hotel",1966,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1966-IN-0573"
+"Van Orman Hotel","(piano bar only)","128 W. Berry St.","Ft. Wayne","IN","(M),(PE)","Bars/Clubs,Hotel",1968,NA,-85.140827,41.0793945,"Google Verified Location",NA,NA,NA,"1968-IN-0574"
+"Varisity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(M)","Bars/Clubs",1976,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1976-IN-0575"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(M),(*)","Bars/Clubs",1969,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1969-IN-0576"
+"Varsity Lounge","","1517 No. Pennsylvania","Indianapolis","IN","(M)","Bars/Clubs",1978,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1978-IN-0577"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(*)","Bars/Clubs",1968,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1968-IN-0578"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(*)","Bars/Clubs",1966,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1966-IN-0579"
+"Varsity Lounge","(R-days) (Some OC) (Nights*)","1517 N. Pennsylvania ","Indianapolis","IN","(M),(R),(OC),(*)","Restaurant",1979,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1979-IN-0580"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(*),(M)","Bars/Clubs",1965,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1965-IN-0581"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(M),(RT)","Bars/Clubs",1970,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1970-IN-0582"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(M),(*)","Bars/Clubs",1971,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1971-IN-0583"
+"Varsity Lounge","(friendly night crew but avoid 'closety' day bartender)","1517 N. Pennsylvania","Indianapolis","IN","","Bars/Clubs",1974,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1974-IN-0584"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(M)","Bars/Clubs",1977,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1977-IN-0585"
+"Varsity Lounge","(R-days) (Some OC) (Nights*)","","Indianapolis","IN","(*),(M),(R),(OC)","Restaurant,Bars/Clubs",1980,NA,-86.158068,39.768403,"Google Verified Location",NA,NA,NA,"1980-IN-0586"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(M)","Bars/Clubs",1975,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1975-IN-0587"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(*)","Bars/Clubs",1973,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1973-IN-0588"
+"Varsity Lounge","","1517 N. Pennsylvania","Indianapolis","IN","(*)","Bars/Clubs",1972,NA,-86.1555027,39.7878746,"Google Verified Location",NA,NA,NA,"1972-IN-0589"
+"Vicinity of Bus Depot","","","South Bend","IN","Cruisy Area","Cruising Areas",1976,"",-86.251214,41.668932,"Verified Location",NA,NA,NA,"1976-IN-0590"
+"Vicinity of Bus Depot","","","South Bend","IN","Cruisy Area","Cruising Areas",1980,"",-86.251214,41.668932,"Verified Location",NA,NA,NA,"1980-IN-0591"
+"Vicinity of Bus Depot","","","South Bend","IN","Cruisy Area","Cruising Areas",1978,"",-86.251214,41.668932,"Verified Location",NA,NA,NA,"1978-IN-0592"
+"Vicinity of Bus Depot","","","South Bend","IN","Cruisy Area","Cruising Areas",1979,"",-86.251214,41.668932,"Verified Location",NA,NA,NA,"1979-IN-0593"
+"Vicinity Park","","","South Bend","IN","Cruisy Area","Cruising Areas",1977,"",-86.25199,41.676355,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-IN-0594"
+"W. section","","of Marquette Park & Miller Beach","Gary","IN","Cruisy Area","Cruising Areas",1979,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1979-IN-0595"
+"W. Section of Marquette Park & Miller Beach","","","Gary","IN","Cruisy Area","Cruising Areas",1978,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1978-IN-0596"
+"W. section of Marquette Park & Miller Beach","","","Gary","IN","Cruisy Area","Cruising Areas",1980,NA,-87.3371523,41.6020403,"Google Verified Location",NA,NA,NA,"1980-IN-0597"
+"Waffle House","(AH weekends)","2621 W. 16th St.","Indianapolis","IN","(R),(M),(C),(AH),(WE)","Restaurant",1975,NA,-86.2047709,39.7876442,"Google Verified Location",NA,NA,NA,"1975-IN-0598"
+"Waffle House","(after hours)","2621 W. 16th St.","Indianapolis","IN","(M),(YC),(R),(C)","Restaurant",1973,NA,-86.2047709,39.7876442,"Google Verified Location",NA,NA,NA,"1973-IN-0599"
+"Waffle House","","2621 W. 16th St.","Indianapolis","IN","(M),(R),(C),(AH),(WE)","Restaurant",1976,NA,-86.2047709,39.7876442,"Google Verified Location",NA,NA,NA,"1976-IN-0600"
+"Waffle House","(after hours)","2621 W. 16th St.","Indianapolis","IN","(M),(R),(C),(AH)","Restaurant",1974,NA,-86.2047709,39.7876442,"Google Verified Location",NA,NA,NA,"1974-IN-0601"
+"Way II","","110 W. Howard","Muncie","IN","(M),(RT)","Bars/Clubs",1978,NA,-85.3866049,40.1904565,"Google Verified Location",NA,NA,NA,"1978-IN-0602"
+"Way II","","110 W. Howard","Muncie","IN","(M),(RT)","Bars/Clubs",1977,NA,-85.3866049,40.1904565,"Google Verified Location",NA,NA,NA,"1977-IN-0603"
+"Way II","","110 W. Howard","Muncie","IN","(M),(RT)","Bars/Clubs",1976,NA,-85.3866049,40.1904565,"Google Verified Location",NA,NA,NA,"1976-IN-0604"
+"Webster St.","","betw. Pearl & Berry","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1974,"",-85.139957,41.055103,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-IN-0605"
+"Webster St.","between Pearl & Berry","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1975,"",-85.139957,41.055103,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-IN-0606"
+"Webster St. bet. Pearl & Berry","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1973,"",-85.139957,41.055103,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-IN-0607"
+"Webster St., betw. Pearl & Berry","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1976,"",-85.139957,41.055103,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-IN-0608"
+"Webster Street between Pearl & Berry","","","Ft. Wayne","IN","Cruisy Area","Cruising Areas",1977,"",-85.139957,41.055103,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-IN-0609"
+"West section of Marquette Park & Miller beach","","","Gary","IN","Cruisy Area","Cruising Areas",1977,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1977-IN-0610"
+"West section of Marquette Park & Miller's Beach","","","Gary","IN","Cruisy Area","Cruising Areas",1976,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1976-IN-0611"
+"West Section of Marquette Park & Millers Beach","","","Gary","IN","Cruisy Area","Cruising Areas",1974,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1974-IN-0612"
+"West section of Marquette Park & Millers Beach","","","Gary","IN","Cruisy Area","Cruising Areas",1975,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1975-IN-0613"
+"West section of Marquette Pk. & Millers Beach","","","Gary","IN","Cruisy Area","Cruising Areas",1973,"",-87.261111,41.616667,"Verified Location",NA,NA,NA,"1973-IN-0614"
+"Wooden Indian","On campus-Inquire locally","","Evansville","IN","(YC)","Bars/Clubs",1971,"",-87.531864,37.973317,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1971-IN-0615"
+"Woodside Road Park","","10 mi. S. on Hwy 41","Terre Haute","IN","Cruisy Area","Cruising Areas",1979,"",-87.413909,39.466703,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-IN-0616"
+"Woodside Road Park","","10 mi. S. on Hwy 41","Terre Haute","IN","Cruisy Area","Cruising Areas",1980,"",-87.413909,39.466703,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-IN-0617"
+"Zanzibar","","233 N Capitol","Indianapolis","IN","(RT),(M)","Bars/Clubs",1969,NA,-86.1614427,39.7704808,"Google Verified Location",NA,NA,NA,"1969-IN-0618"
+"Zanzibar","","233 N Capitol","Indianapolis","IN","(RT),(M)","Bars/Clubs",1968,NA,-86.1614427,39.7704808,"Google Verified Location",NA,NA,NA,"1968-IN-0619"

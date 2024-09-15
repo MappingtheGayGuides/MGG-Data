@@ -1,133 +1,133 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-555,NH079,'Rest Stop' on I-81,,,Charlestown,NH,Cruisy Area,Cruising Areas,1980,NA,-72.424512,43.238628,Location could not be verified. General city or location coordinates used.
-538,NH062,3241 Club Baths,(upstairs above the Saimore),3241 Lafayette Rd.,Portsmouth,NH,(*),Baths,1973,NA,-70.7962246,43.0232094,Google Verified Location
-528,NH052,Akropolis,(upstairs - above Big Daddy's),77 Daniel St.,Portsmouth,NH,"(P),(D),(YC),(*)",Bars/Clubs,1974,NA,-70.7559911,43.0772645,Google Verified Location
-535,NH059,Akropolis,(above Fran's Rio),77 Daniel St.,Portsmouth,NH,"(G),(D),(P)",Bars/Clubs,1973,NA,-70.7559911,43.0772645,Google Verified Location
-477,NH001,Appletree Book Store,,24 Warren St. ,Concord,NH,(M),Book Store,1980,NA,-71.5369704,43.2050509,Google Verified Location
-590,NH114,Arabian Lounge,,Exit 21 off I-89,West Lebanon,NH,"(M),(R)","Bars/Clubs,Restaurant",1980,NA,-72.310606,43.644651,Location could not be verified. General city or location coordinates used.
-592,NH116,Arabian Lounge,,Exit 21 off I-89,West Lebanon,NH,"(M),(R)","Bars/Clubs,Restaurant",1978,NA,-72.310606,43.644651,Location could not be verified. General city or location coordinates used.
-593,NH117,Arabian Lounge,,Exit 21 off I-89,West Lebanon,NH,"(M),(R)","Bars/Clubs,Restaurant",1977,NA,-72.310606,43.644651,Location could not be verified. General city or location coordinates used.
-591,NH115,Arabian Lounge,,Exit 21 off I-89,West Lebanon,NH,"(M),(R)","Bars/Clubs,Restaurant",1979,NA,-72.310606,43.644651,Location could not be verified. General city or location coordinates used.
-606,NH130,Athletic Room,,Merrimack St.,Manchester,NH,"(P),(D),(E)",Bars/Clubs,1976,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-556,NH080,Block around Carpenter Hotel,,,Manchester,NH,Cruisy Area,Cruising Areas,1980,NA,-71.464216,42.989677,Verified Location
-557,NH081,Brick Yard Mtn. Inn Rte 3 - Weiss Beach,,,Laconia,NH,,Bars/Clubs,1980,NA,-71.470351,43.527855,Location could not be verified. General city or location coordinates used.
-603,NH127,Cafe Muse & Capt. Quig's Bar,,Main St.,North Conway,NH,(M),Bars/Clubs,1980,NA,-71.128404,44.053681,Location could not be verified. General city or location coordinates used.
-497,NH021,Chateau Lounge,,201 Hanover St.,Manchester,NH,"(M),(OC),(R)",Restaurant,1977,NA,-71.4584101,42.9907413,Google Verified Location
-482,NH006,Chateau Lounge,,201 Hanover St.,Manchester,NH,"(M),(R),(OC)",Restaurant,1979,NA,-71.4584101,42.9907413,Google Verified Location
-488,NH012,Chateau Lounge,,201 Hanover St.,Manchester,NH,"(M),(OC)",Restaurant,1978,NA,-71.4584101,42.9907413,Google Verified Location
-531,NH055,Chateau Restaurant Lounge,,201 Hanover St.,Manchester,NH,"(M),(*)",Restaurant,1973,NA,-71.4584101,42.9907413,Google Verified Location
-539,NH063,Chateau Restaurant Lounge,,201 Hanover St.,Manchester,NH,"(M),(*)",Restaurant,1972,NA,-71.4584101,42.9907413,Google Verified Location
-525,NH049,Chateau Restaurant Lounge,,201 Hanover St.,Manchester,NH,(M),Restaurant,1974,NA,-71.4584101,42.9907413,Google Verified Location
-516,NH040,Chateau Restaurant Lounge,,201 Hanover St.,Manchester,NH,(M),Restaurant,1975,NA,-71.4584101,42.9907413,Google Verified Location
-507,NH031,Chateau Restaurant Lounge,,201 Hanover St.,Manchester,NH,"(M),(OC),(R)",Restaurant,1976,NA,-71.4584101,42.9907413,Google Verified Location
-558,NH082,Dartmouth College - Baker Library,,,Hanover,NH,Cruisy Area,Cruising Areas,1980,NA,-72.288693,43.704441,Verified Location
-571,NH095,Dartmouth College - Hopkins Center,,,Hanover,NH,Cruisy Area,Cruising Areas,1977,NA,-72.288693,43.704441,Verified Location
-559,NH083,Dartmouth College - Hopkins Center,,,Hanover,NH,Cruisy Area,Cruising Areas,1980,NA,-72.288693,43.704441,Verified Location
-565,NH089,Dartmouth College - Hopkins Center,,,Hanover,NH,Cruisy Area,Cruising Areas,1979,NA,-72.288693,43.704441,Verified Location
-568,NH092,Dartmouth College - Hopkins Center,,,Hanover,NH,Cruisy Area,Cruising Areas,1978,NA,-72.288693,43.704441,Verified Location
-532,NH056,Del's ,,128 Maple,Manchester,NH,(G),Bars/Clubs,1973,NA,-71.4531502,42.9771698,Google Verified Location
-540,NH064,Del's ,,128 Maple,Manchester,NH,(G),Bars/Clubs,1972,NA,-71.4531502,42.9771698,Google Verified Location
-605,NH129,Elbo Room,,Maple St.,Manchester,NH,(D),Bars/Clubs,1974,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-604,NH128,Elbo Room,,Maple St.,Manchester,NH,(D),Bars/Clubs,1975,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-483,NH007,Elbow Room,,201 Merrimack,Manchester,NH,"(P),(YC)",Bars/Clubs,1979,NA,-71.4577881,42.9891115,Google Verified Location
-489,NH013,Elbow Room,,201 Merrimack,Manchester,NH,"(P),(YC)",Bars/Clubs,1978,NA,-71.4577881,42.9891115,Google Verified Location
-498,NH022,Elbow Room,,201 Merrimack,Manchester,NH,"(P),(YC),(R)",Restaurant,1977,NA,-71.4577881,42.9891115,Google Verified Location
-508,NH032,Four Eighty Eight Club,(Disco) ('Queen City Club'),484 Chestnut St.,Manchester,NH,"(P),(D),(E),(S),(*)",Bars/Clubs,1976,NA,-71.4608269,42.994018,Google Verified Location
-479,NH003,Four-Eighty-Four Club,('Queen City') (Some L) (Disco),484 Chestnut,Manchester,NH,"(*),(P),(L),(D)",Bars/Clubs,1980,NA,-71.4608269,42.994018,Google Verified Location
-484,NH008,Four-Eighty-Four Club,('Queen City') (Disco),484 Chestnut St. ,Manchester,NH,"(P),(YC),(D)",Bars/Clubs,1979,NA,-71.4608269,42.994018,Google Verified Location
-490,NH014,Four-Eighty-Four Club,('Queen City') (Disco),484 Chestnut St. ,Manchester,NH,"(*),(P),(YC),(D),(S)",Bars/Clubs,1978,NA,-71.4608269,42.994018,Google Verified Location
-499,NH023,Four-Eighty-Four Club,('Queen City') (Disco),484 Chestnut St. ,Manchester,NH,"(P),(YC),(D),(E),(S)",Bars/Clubs,1977,NA,-71.4608269,42.994018,Google Verified Location
-518,NH042,Four-Eighty-Four-Club,,484 Chestnut St.,Manchester,NH,"(P),(D),(*)",Bars/Clubs,1975,NA,-71.4608269,42.994018,Google Verified Location
-576,NH100,Goniff Inn,"Box 31, Sunapee, NH 03782",,Sunapee,NH,(H),Hotel,1977,NA,-72.087863,43.387575,Location could not be verified. General city or location coordinates used.
-589,NH113,Goniff Inn,,"Box 31, Sunapee, N.H. 03782",Sunapee,NH,(H),Hotel,1976,NA,-72.087863,43.387575,Location could not be verified. General city or location coordinates used.
-560,NH084,Hampton Beach - Summers,,,Hampton,NH,,Bars/Clubs,1980,NA,-70.813482,42.91131,Location could not be verified. General city or location coordinates used.
-581,NH105,Hilton Park - Dover Point Rd.,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1976,NA,-70.827825,43.121069,Verified Location
-584,NH108,Hilton Park - Dover Point Rd.,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1975,NA,-70.827825,43.121069,Verified Location
-563,NH087,Hilton Park - Dover Point Rd.,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1980,NA,-70.827825,43.121069,Verified Location
-572,NH096,Hilton Park - Dover Point Rd.,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1978,NA,-70.827825,43.121069,Verified Location
-569,NH093,Hilton Park - Dover Point Rd.,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1979,NA,-70.827825,43.121069,Verified Location
-577,NH101,Hilton Park - Dover Point Rd.,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1977,NA,-70.827825,43.121069,Verified Location
-582,NH106,Hopkins Center - Dartmouth College,,,Hanover,NH,Cruisy Area,Cruising Areas,1975,NA,-72.288693,43.704441,Verified Location
-579,NH103,Hopkins Center - Dartmouth College,,,Hanover,NH,Cruisy Area,Cruising Areas,1976,NA,-72.288693,43.704441,Verified Location
-588,NH112,Hopkins Center - Dartmouth College,,,Hanover,NH,Cruisy Area,Cruising Areas,1973,NA,-72.288693,43.704441,Verified Location
-585,NH109,Hopkins Center - Dartmouth College,,,Hanover,NH,Cruisy Area,Cruising Areas,1974,NA,-72.288693,43.704441,Verified Location
-550,NH074,Kearsarge Hotel Bar,,104 Congress,Portsmouth,NH,,"Bars/Clubs,Hotel",1970,NA,-70.7596382,43.0759798,Google Verified Location
-536,NH060,Kearsarge Hotel Bar,,104 Congress,Portsmouth,NH,(M),"Hotel,Bars/Clubs",1973,NA,-70.7596382,43.0759798,Google Verified Location
-552,NH076,Kearsarge Hotel Bar,,104 Congress,Portsmouth,NH,,"Hotel,Bars/Clubs",1969,NA,-70.7596382,43.0759798,Google Verified Location
-543,NH067,Kearsarge Hotel Bar,,104 Congress,Portsmouth,NH,(M),"Hotel,Bars/Clubs",1972,NA,-70.7596382,43.0759798,Google Verified Location
-554,NH078,Kearsarge Hotel Bar,,104 Congress,Portsmouth,NH,,"Hotel,Bars/Clubs",1968,NA,-70.7596382,43.0759798,Google Verified Location
-546,NH070,Kearsarge Hotel Bar,,104 Congress,Portsmouth,NH,(M),"Hotel,Bars/Clubs",1971,NA,-70.7596382,43.0759798,Google Verified Location
-521,NH045,Kearsarge Hotel Lounge,,104 Congress,Portsmouth,NH,(M),"Hotel,Bars/Clubs",1975,NA,-70.7596382,43.0759798,Google Verified Location
-502,NH026,Kearsarge Hotel Lounge,,104 Congress,Portsmouth,NH,"(M),(OC)","Hotel,Bars/Clubs",1977,NA,-70.7596382,43.0759798,Google Verified Location
-511,NH035,Kearsarge Hotel Lounge,,104 Congress,Portsmouth,NH,"(M),(OC)",Bars/Clubs,1976,NA,-70.7596382,43.0759798,Google Verified Location
-529,NH053,Kearsarge Hotel Lounge,,104 Congress,Portsmouth,NH,(M),"Hotel,Bars/Clubs",1974,NA,-70.7596382,43.0759798,Google Verified Location
-562,NH086,Main & W. Hollis,,,Nashua,NH,Cruisy Area,Cruising Areas,1980,NA,-71.463937,42.757866,Verified Location
-578,NH102,Main & W. Hollis,,,Nashua,NH,Cruisy Area,Cruising Areas,1976,NA,-71.463937,42.757866,Verified Location
-566,NH090,Main & W. Hollis,,,Nashua,NH,Cruisy Area,Cruising Areas,1979,NA,-71.463937,42.757866,Verified Location
-583,NH107,Main & W. Hollis,,,Nashua,NH,Cruisy Area,Cruising Areas,1975,NA,-71.463937,42.757866,Verified Location
-574,NH098,Main & W. Hollis,,,Nashua,NH,Cruisy Area,Cruising Areas,1977,NA,-71.463937,42.757866,Verified Location
-570,NH094,Main & W. Hollis,,,Nashua,NH,Cruisy Area,Cruising Areas,1978,NA,-71.463937,42.757866,Verified Location
-587,NH111,Main & W. Hollis St.,,,Nashua,NH,Cruisy Area,Cruising Areas,1974,NA,-71.463937,42.757866,Verified Location
-561,NH085,Manchester Civic Club,(Disco) (Some L),,Manchester,NH,"(P),(D),(L),(*)",Bars/Clubs,1980,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-512,NH036,Odd Shop,(Books & 'toys'),109 Daniel St.,Portsmouth,NH,,Book Store,1976,NA,-70.7554999,43.0775988,Google Verified Location
-503,NH027,Odd Shop,"(books, toys, etc)",109 Daniel St.,Portsmouth,NH,(*),Book Store,1977,NA,-70.7554999,43.0775988,Google Verified Location
-493,NH017,Odd Shop,"(Books, etc)",136 Lafayette Rd,North Hampton,NH,(*),Book Store,1978,NA,-70.8269734,42.9871186,Google Verified Location
-564,NH088,Piece Island - Dock Area,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1980,NA,-70.742555,43.074656,Verified Location
-573,NH097,Pierce Island - Dock Area,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1978,NA,-70.742555,43.074656,Verified Location
-575,NH099,Pierce Island - Dock Area,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1977,NA,-70.742555,43.074656,Verified Location
-567,NH091,Pierce Island - Dock Area,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1979,NA,-70.742555,43.074656,Verified Location
-537,NH061,Sagamore Club,,3241 Lafayette Rd.,Portsmouth,NH,"(YC),(D),(P),(*)",Bars/Clubs,1973,NA,-70.7962246,43.0232094,Google Verified Location
-544,NH068,Sagamore Club,(above Fran's 'Rio'),77 Daniel St. ,Portsmouth,NH,"(P),(D),(*)",Bars/Clubs,1972,NA,-70.7559911,43.0772645,Google Verified Location
-602,NH126,Sagimore,,Inquire locally,Portsmouth,NH,"(*),(P),(D)",Bars/Clubs,1968,NA,-70.762553,43.071755,Location could not be verified. General city or location coordinates used.
-600,NH124,Sagimore,,Inquire locally,Portsmouth,NH,"(*),(P),(D)",Bars/Clubs,1970,NA,-70.762553,43.071755,Location could not be verified. General city or location coordinates used.
-601,NH125,Sagimore,,Inquire locally,Portsmouth,NH,"(*),(P),(D)",Bars/Clubs,1969,NA,-70.762553,43.071755,Location could not be verified. General city or location coordinates used.
-547,NH071,Sagimore,(Above Fran's 'Rio'),77 Daniel St. ,Portsmouth,NH,"(P),(D),(*)",Bars/Clubs,1971,NA,-70.7559911,43.0772645,Google Verified Location
-513,NH037,Seaport Club,(upstairs - above Big Daddy's),77 Daniel St.,Portsmouth,NH,"(P),(D),(YC),(*)",Bars/Clubs,1976,NA,-70.7559911,43.0772645,Google Verified Location
-522,NH046,Seaport Club,(upstairs - above Big Daddy's),77 Daniel St.,Portsmouth,NH,"(P),(D),(YC),(*)",Bars/Clubs,1975,NA,-70.7559911,43.0772645,Google Verified Location
-607,NH131,Seaport Club,(Disco - D- WE),"Rte 1 Bypass - E. side, just S. of rotary",Portsmouth,NH,"(P),(YC),(D),(WE),(*)",Bars/Clubs,1979,NA,-70.762553,43.071755,Location could not be verified. General city or location coordinates used.
-504,NH028,Seaport Club,('where its happening in N.H.) (Upstairs -- above Big Daddy's - (P) (YC) (Disco-WE)(D) on 2nd floor - (R) on third),77 Daniel St.,Portsmouth,NH,"(P),(YC),(WE),(D),(R)","Bars/Clubs,Restaurant",1977,NA,-70.7559911,43.0772645,Google Verified Location
-608,NH132,Seaport Club,(Disco),"Rte. 1 Bypass - E. side, just S. of rotary",Portsmouth,NH,"(P),(YC),(D),(WE),(*)",Bars/Clubs,1980,NA,-70.762553,43.071755,Location could not be verified. General city or location coordinates used.
-494,NH018,Seaport Club,"('Tops' in state - upstairs, above Big Daddy's) (Disco - D - WE) (R) on 3rd floor",77 Daniel St.,Portsmouth,NH,"(*),(P),(YC),(D),(WE)",Bars/Clubs,1978,NA,-70.7559911,43.0772645,Google Verified Location
-519,NH043,Sheraton-Carpenter Hotel,,323 Franklin St.,Manchester,NH,(M),"Hotel,Bars/Clubs",1975,NA,-71.4638405,42.9897015,Google Verified Location
-491,NH015,Sheraton-Carpenter Hotel Bar,,323 Franklin St.,Manchester,NH,(M),"Bars/Clubs,Hotel",1978,NA,-71.4638405,42.9897015,Google Verified Location
-509,NH033,Sheraton-Carpenter Hotel Bar,,323 Franklin St.,Manchester,NH,"(M),(PE)","Hotel,Bars/Clubs",1976,NA,-71.4638405,42.9897015,Google Verified Location
-500,NH024,Sheraton-Carpenter Hotel Bar,,323 Franklin St.,Manchester,NH,(M),Bars/Clubs,1977,NA,-71.4638405,42.9897015,Google Verified Location
-541,NH065,Sheraton-Carpenter Hotel Lounge,,323 Franklin St.,Manchester,NH,(M),"Bars/Clubs,Hotel",1972,NA,-71.4638405,42.9897015,Google Verified Location
-526,NH050,Sheraton-Carpenter Hotel Lounge,,323 Franklin St.,Manchester,NH,(M),Bars/Clubs,1974,NA,-71.4638405,42.9897015,Google Verified Location
-533,NH057,Sheraton-Carpenter Hotel Lounge,,323 Franklin St.,Manchester,NH,(M),"Hotel,Bars/Clubs",1973,NA,-71.4638405,42.9897015,Google Verified Location
-580,NH104,Strawberry Bank Point - Dock Area,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1976,NA,-70.762553,43.071755,Location could not be verified. General city or location coordinates used.
-586,NH110,Strawberry Bank Point - Dock Area,,,Portsmouth,NH,Cruisy Area,Cruising Areas,1975,NA,-70.762553,43.071755,Location could not be verified. General city or location coordinates used.
-517,NH041,Three-Two-Forty-One Club,,3241 Lafayette Rd.,Portsmouth,NH,"(YC),(D),(P),(*)",Bars/Clubs,1972,NA,-70.7962246,43.0232094,Google Verified Location
-548,NH072,Three-Two-Forty-One Club,(Old Rt. 1),3241 Lafayette Rd ,Portsmouth,NH,"(YC),(D),(P),(*)",Bars/Clubs,1971,NA,-70.7962246,43.0232094,Google Verified Location
-514,NH038,Tom's Pizza,,5 Allen St.,Hanover,NH,(M),Restaurant,1975,NA,-72.2903417,43.7017035,Google Verified Location
-480,NH004,Tom's Pizza,,5 Allen St.,Hanover,NH,(M),Restaurant,1979,NA,-72.2903417,43.7017035,Google Verified Location
-486,NH010,Tom's Pizza,,5 Allen St.,Hanover,NH,(M),Bars/Clubs,1978,NA,-72.2903417,43.7017035,Google Verified Location
-505,NH029,Tom's Pizza,,5 Allen St.,Hanover,NH,(M),Bars/Clubs,1976,NA,-72.2903417,43.7017035,Google Verified Location
-495,NH019,Tom's Pizza,,5 Allen St.,Hanover,NH,(M),Bars/Clubs,1977,NA,-72.2903417,43.7017035,Google Verified Location
-487,NH011,Tony's Cafe,,16 High St ,Lebanon,NH,(M),Bars/Clubs,1978,NA,-72.255845,43.6426022,Google Verified Location
-481,NH005,Tony's Cafe,,16 High St ,Lebanon,NH,(M),Restaurant,1979,NA,-72.255845,43.6426022,Google Verified Location
-478,NH002,Tony's Cafe,,16 High St.,Lebanon,NH,(M),Restaurant,1980,NA,-72.255845,43.6426022,Google Verified Location
-506,NH030,Tony's Cafe,,16 High St ,Lebanon,NH,(M),Restaurant,1976,NA,-72.255845,43.6426022,Google Verified Location
-515,NH039,Tony's Cafe,,16 High St ,Lebanon,NH,(M),Restaurant,1975,NA,-72.255845,43.6426022,Google Verified Location
-524,NH048,Tony's Cafe,,16 High St.,Lebanon,NH,,Restaurant,1974,NA,-72.255845,43.6426022,Google Verified Location
-496,NH020,Tony's Cafe,,16 High St ,Lebanon,NH,(M),Restaurant,1977,NA,-72.255845,43.6426022,Google Verified Location
-523,NH047,Tony's Pizza,,5 Allen St.,Hanover,NH,,Restaurant,1974,NA,-72.2903417,43.7017035,Google Verified Location
-530,NH054,Tony's Pizza #5,,5 Allen St.,Hanover,NH,,Restaurant,1973,NA,-72.2903417,43.7017035,Google Verified Location
-527,NH051,Tudor Cafe,,361 Pine St.,Manchester,NH,(*),Restaurant,1974,NA,-71.4592863,42.9906413,Google Verified Location
-510,NH034,Tudor Cafe,,361 Pine St.,Manchester,NH,(*),Restaurant,1976,NA,-71.4592863,42.9906413,Google Verified Location
-485,NH009,Tudor Cafe,,361 Pine St.,Manchester,NH,(*),Restaurant,1979,NA,-71.4592863,42.9906413,Google Verified Location
-492,NH016,Tudor Cafe,,361 Pine St.,Manchester,NH,(*),Bars/Clubs,1978,NA,-71.4592863,42.9906413,Google Verified Location
-501,NH025,Tudor Cafe,,361 Pine St.,Manchester,NH,(*),Bars/Clubs,1977,NA,-71.4592863,42.9906413,Google Verified Location
-520,NH044,Tudor Cafe,,361 Pine St.,Manchester,NH,(*),Restaurant,1975,NA,-71.4592863,42.9906413,Google Verified Location
-598,NH122,White Cliffs,,Inquire locally,Laconia,NH,,Bars/Clubs,1974,NA,-71.470351,43.527855,Location could not be verified. General city or location coordinates used.
-599,NH123,White Cliffs,,Inquire locally,Laconia,NH,,Bars/Clubs,1973,NA,-71.470351,43.527855,Location could not be verified. General city or location coordinates used.
-595,NH119,Wyn's Cafe,,Inquire Locally,Manchester,NH,,Restaurant,1970,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-594,NH118,Wyn's Cafe,,Inquire Locally,Manchester,NH,,Restaurant,1971,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-597,NH121,Wyn's Cafe,,Inquire Locally,Manchester,NH,,Bars/Clubs,1968,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-596,NH120,Wyn's Cafe,,Inquire Locally,Manchester,NH,,Bars/Clubs,1969,NA,-71.454789,42.99564,Location could not be verified. General city or location coordinates used.
-534,NH058,Yvette's,,657 Chestnut,Manchester,NH,"(M),(RT),(*)",Bars/Clubs,1973,NA,-71.4617999,43.0014049,Google Verified Location
-551,NH075,Yvette's,,657 Chestnut,Manchester,NH,,Bars/Clubs,1969,NA,-71.4617999,43.0014049,Google Verified Location
-542,NH066,Yvette's,,657 Chestnut,Manchester,NH,"(M),(RT),(*)",Bars/Clubs,1972,NA,-71.4617999,43.0014049,Google Verified Location
-549,NH073,Yvette's,,657 Chestnut,Manchester,NH,,Bars/Clubs,1970,NA,-71.4617999,43.0014049,Google Verified Location
-553,NH077,Yvette's,,657 Chestnut,Manchester,NH,,Bars/Clubs,1968,NA,-71.4617999,43.0014049,Google Verified Location
-545,NH069,Yvette's,,657 Chestnut,Manchester,NH,,Bars/Clubs,1971,NA,-71.4617999,43.0014049,Google Verified Location
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"'Rest Stop' on I-81","","","Charlestown","NH","Cruisy Area","Cruising Areas",1980,NA,-72.424512,43.238628,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-NH-0001"
+"3241 Club Baths","(upstairs above the Saimore)","3241 Lafayette Rd.","Portsmouth","NH","(*)","Baths",1973,NA,-70.7962246,43.0232094,"Google Verified Location",NA,NA,NA,"1973-NH-0002"
+"Akropolis","(upstairs - above Big Daddy's)","77 Daniel St.","Portsmouth","NH","(P),(D),(YC),(*)","Bars/Clubs",1974,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1974-NH-0003"
+"Akropolis","(above Fran's Rio)","77 Daniel St.","Portsmouth","NH","(G),(D),(P)","Bars/Clubs",1973,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1973-NH-0004"
+"Appletree Book Store","","24 Warren St. ","Concord","NH","(M)","Book Store",1980,NA,-71.5369704,43.2050509,"Google Verified Location",NA,NA,NA,"1980-NH-0005"
+"Arabian Lounge","","Exit 21 off I-89","West Lebanon","NH","(M),(R)","Bars/Clubs,Restaurant",1980,NA,-72.310606,43.644651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-NH-0006"
+"Arabian Lounge","","Exit 21 off I-89","West Lebanon","NH","(M),(R)","Bars/Clubs,Restaurant",1978,NA,-72.310606,43.644651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-NH-0007"
+"Arabian Lounge","","Exit 21 off I-89","West Lebanon","NH","(M),(R)","Bars/Clubs,Restaurant",1977,NA,-72.310606,43.644651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-NH-0008"
+"Arabian Lounge","","Exit 21 off I-89","West Lebanon","NH","(M),(R)","Bars/Clubs,Restaurant",1979,NA,-72.310606,43.644651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-NH-0009"
+"Athletic Room","","Merrimack St.","Manchester","NH","(P),(D),(E)","Bars/Clubs",1976,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-NH-0010"
+"Block around Carpenter Hotel","","","Manchester","NH","Cruisy Area","Cruising Areas",1980,NA,-71.464216,42.989677,"Verified Location",NA,NA,NA,"1980-NH-0011"
+"Brick Yard Mtn. Inn Rte 3 - Weiss Beach","","","Laconia","NH","","Bars/Clubs",1980,NA,-71.470351,43.527855,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-NH-0012"
+"Cafe Muse & Capt. Quig's Bar","","Main St.","North Conway","NH","(M)","Bars/Clubs",1980,NA,-71.128404,44.053681,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-NH-0013"
+"Chateau Lounge","","201 Hanover St.","Manchester","NH","(M),(OC),(R)","Restaurant",1977,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1977-NH-0014"
+"Chateau Lounge","","201 Hanover St.","Manchester","NH","(M),(R),(OC)","Restaurant",1979,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1979-NH-0015"
+"Chateau Lounge","","201 Hanover St.","Manchester","NH","(M),(OC)","Restaurant",1978,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1978-NH-0016"
+"Chateau Restaurant Lounge","","201 Hanover St.","Manchester","NH","(M),(*)","Restaurant",1973,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1973-NH-0017"
+"Chateau Restaurant Lounge","","201 Hanover St.","Manchester","NH","(M),(*)","Restaurant",1972,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1972-NH-0018"
+"Chateau Restaurant Lounge","","201 Hanover St.","Manchester","NH","(M)","Restaurant",1974,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1974-NH-0019"
+"Chateau Restaurant Lounge","","201 Hanover St.","Manchester","NH","(M)","Restaurant",1975,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1975-NH-0020"
+"Chateau Restaurant Lounge","","201 Hanover St.","Manchester","NH","(M),(OC),(R)","Restaurant",1976,NA,-71.4584101,42.9907413,"Google Verified Location",NA,NA,NA,"1976-NH-0021"
+"Dartmouth College - Baker Library","","","Hanover","NH","Cruisy Area","Cruising Areas",1980,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1980-NH-0022"
+"Dartmouth College - Hopkins Center","","","Hanover","NH","Cruisy Area","Cruising Areas",1977,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1977-NH-0023"
+"Dartmouth College - Hopkins Center","","","Hanover","NH","Cruisy Area","Cruising Areas",1980,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1980-NH-0024"
+"Dartmouth College - Hopkins Center","","","Hanover","NH","Cruisy Area","Cruising Areas",1979,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1979-NH-0025"
+"Dartmouth College - Hopkins Center","","","Hanover","NH","Cruisy Area","Cruising Areas",1978,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1978-NH-0026"
+"Del's ","","128 Maple","Manchester","NH","(G)","Bars/Clubs",1973,NA,-71.4531502,42.9771698,"Google Verified Location",NA,NA,NA,"1973-NH-0027"
+"Del's ","","128 Maple","Manchester","NH","(G)","Bars/Clubs",1972,NA,-71.4531502,42.9771698,"Google Verified Location",NA,NA,NA,"1972-NH-0028"
+"Elbo Room","","Maple St.","Manchester","NH","(D)","Bars/Clubs",1974,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-NH-0029"
+"Elbo Room","","Maple St.","Manchester","NH","(D)","Bars/Clubs",1975,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-NH-0030"
+"Elbow Room","","201 Merrimack","Manchester","NH","(P),(YC)","Bars/Clubs",1979,NA,-71.4577881,42.9891115,"Google Verified Location",NA,NA,NA,"1979-NH-0031"
+"Elbow Room","","201 Merrimack","Manchester","NH","(P),(YC)","Bars/Clubs",1978,NA,-71.4577881,42.9891115,"Google Verified Location",NA,NA,NA,"1978-NH-0032"
+"Elbow Room","","201 Merrimack","Manchester","NH","(P),(YC),(R)","Restaurant",1977,NA,-71.4577881,42.9891115,"Google Verified Location",NA,NA,NA,"1977-NH-0033"
+"Four Eighty Eight Club","(Disco) ('Queen City Club')","484 Chestnut St.","Manchester","NH","(P),(D),(E),(S),(*)","Bars/Clubs",1976,NA,-71.4608269,42.994018,"Google Verified Location",NA,NA,NA,"1976-NH-0034"
+"Four-Eighty-Four Club","('Queen City') (Some L) (Disco)","484 Chestnut","Manchester","NH","(*),(P),(L),(D)","Bars/Clubs",1980,NA,-71.4608269,42.994018,"Google Verified Location",NA,NA,NA,"1980-NH-0035"
+"Four-Eighty-Four Club","('Queen City') (Disco)","484 Chestnut St. ","Manchester","NH","(P),(YC),(D)","Bars/Clubs",1979,NA,-71.4608269,42.994018,"Google Verified Location",NA,NA,NA,"1979-NH-0036"
+"Four-Eighty-Four Club","('Queen City') (Disco)","484 Chestnut St. ","Manchester","NH","(*),(P),(YC),(D),(S)","Bars/Clubs",1978,NA,-71.4608269,42.994018,"Google Verified Location",NA,NA,NA,"1978-NH-0037"
+"Four-Eighty-Four Club","('Queen City') (Disco)","484 Chestnut St. ","Manchester","NH","(P),(YC),(D),(E),(S)","Bars/Clubs",1977,NA,-71.4608269,42.994018,"Google Verified Location",NA,NA,NA,"1977-NH-0038"
+"Four-Eighty-Four-Club","","484 Chestnut St.","Manchester","NH","(P),(D),(*)","Bars/Clubs",1975,NA,-71.4608269,42.994018,"Google Verified Location",NA,NA,NA,"1975-NH-0039"
+"Goniff Inn","Box 31, Sunapee, NH 03782","","Sunapee","NH","(H)","Hotel",1977,NA,-72.087863,43.387575,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-NH-0040"
+"Goniff Inn","","Box 31, Sunapee, N.H. 03782","Sunapee","NH","(H)","Hotel",1976,NA,-72.087863,43.387575,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-NH-0041"
+"Hampton Beach - Summers","","","Hampton","NH","","Bars/Clubs",1980,NA,-70.813482,42.91131,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-NH-0042"
+"Hilton Park - Dover Point Rd.","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1976,NA,-70.827825,43.121069,"Verified Location",NA,NA,NA,"1976-NH-0043"
+"Hilton Park - Dover Point Rd.","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1975,NA,-70.827825,43.121069,"Verified Location",NA,NA,NA,"1975-NH-0044"
+"Hilton Park - Dover Point Rd.","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1980,NA,-70.827825,43.121069,"Verified Location",NA,NA,NA,"1980-NH-0045"
+"Hilton Park - Dover Point Rd.","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1978,NA,-70.827825,43.121069,"Verified Location",NA,NA,NA,"1978-NH-0046"
+"Hilton Park - Dover Point Rd.","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1979,NA,-70.827825,43.121069,"Verified Location",NA,NA,NA,"1979-NH-0047"
+"Hilton Park - Dover Point Rd.","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1977,NA,-70.827825,43.121069,"Verified Location",NA,NA,NA,"1977-NH-0048"
+"Hopkins Center - Dartmouth College","","","Hanover","NH","Cruisy Area","Cruising Areas",1975,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1975-NH-0049"
+"Hopkins Center - Dartmouth College","","","Hanover","NH","Cruisy Area","Cruising Areas",1976,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1976-NH-0050"
+"Hopkins Center - Dartmouth College","","","Hanover","NH","Cruisy Area","Cruising Areas",1973,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1973-NH-0051"
+"Hopkins Center - Dartmouth College","","","Hanover","NH","Cruisy Area","Cruising Areas",1974,NA,-72.288693,43.704441,"Verified Location",NA,NA,NA,"1974-NH-0052"
+"Kearsarge Hotel Bar","","104 Congress","Portsmouth","NH","","Bars/Clubs,Hotel",1970,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1970-NH-0053"
+"Kearsarge Hotel Bar","","104 Congress","Portsmouth","NH","(M)","Hotel,Bars/Clubs",1973,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1973-NH-0054"
+"Kearsarge Hotel Bar","","104 Congress","Portsmouth","NH","","Hotel,Bars/Clubs",1969,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1969-NH-0055"
+"Kearsarge Hotel Bar","","104 Congress","Portsmouth","NH","(M)","Hotel,Bars/Clubs",1972,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1972-NH-0056"
+"Kearsarge Hotel Bar","","104 Congress","Portsmouth","NH","","Hotel,Bars/Clubs",1968,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1968-NH-0057"
+"Kearsarge Hotel Bar","","104 Congress","Portsmouth","NH","(M)","Hotel,Bars/Clubs",1971,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1971-NH-0058"
+"Kearsarge Hotel Lounge","","104 Congress","Portsmouth","NH","(M)","Hotel,Bars/Clubs",1975,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1975-NH-0059"
+"Kearsarge Hotel Lounge","","104 Congress","Portsmouth","NH","(M),(OC)","Hotel,Bars/Clubs",1977,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1977-NH-0060"
+"Kearsarge Hotel Lounge","","104 Congress","Portsmouth","NH","(M),(OC)","Bars/Clubs",1976,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1976-NH-0061"
+"Kearsarge Hotel Lounge","","104 Congress","Portsmouth","NH","(M)","Hotel,Bars/Clubs",1974,NA,-70.7596382,43.0759798,"Google Verified Location",NA,NA,NA,"1974-NH-0062"
+"Main & W. Hollis","","","Nashua","NH","Cruisy Area","Cruising Areas",1980,NA,-71.463937,42.757866,"Verified Location",NA,NA,NA,"1980-NH-0063"
+"Main & W. Hollis","","","Nashua","NH","Cruisy Area","Cruising Areas",1976,NA,-71.463937,42.757866,"Verified Location",NA,NA,NA,"1976-NH-0064"
+"Main & W. Hollis","","","Nashua","NH","Cruisy Area","Cruising Areas",1979,NA,-71.463937,42.757866,"Verified Location",NA,NA,NA,"1979-NH-0065"
+"Main & W. Hollis","","","Nashua","NH","Cruisy Area","Cruising Areas",1975,NA,-71.463937,42.757866,"Verified Location",NA,NA,NA,"1975-NH-0066"
+"Main & W. Hollis","","","Nashua","NH","Cruisy Area","Cruising Areas",1977,NA,-71.463937,42.757866,"Verified Location",NA,NA,NA,"1977-NH-0067"
+"Main & W. Hollis","","","Nashua","NH","Cruisy Area","Cruising Areas",1978,NA,-71.463937,42.757866,"Verified Location",NA,NA,NA,"1978-NH-0068"
+"Main & W. Hollis St.","","","Nashua","NH","Cruisy Area","Cruising Areas",1974,NA,-71.463937,42.757866,"Verified Location",NA,NA,NA,"1974-NH-0069"
+"Manchester Civic Club","(Disco) (Some L)","","Manchester","NH","(P),(D),(L),(*)","Bars/Clubs",1980,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-NH-0070"
+"Odd Shop","(Books & 'toys')","109 Daniel St.","Portsmouth","NH","","Book Store",1976,NA,-70.7554999,43.0775988,"Google Verified Location",NA,NA,NA,"1976-NH-0071"
+"Odd Shop","(books, toys, etc)","109 Daniel St.","Portsmouth","NH","(*)","Book Store",1977,NA,-70.7554999,43.0775988,"Google Verified Location",NA,NA,NA,"1977-NH-0072"
+"Odd Shop","(Books, etc)","136 Lafayette Rd","North Hampton","NH","(*)","Book Store",1978,NA,-70.8269734,42.9871186,"Google Verified Location",NA,NA,NA,"1978-NH-0073"
+"Piece Island - Dock Area","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1980,NA,-70.742555,43.074656,"Verified Location",NA,NA,NA,"1980-NH-0074"
+"Pierce Island - Dock Area","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1978,NA,-70.742555,43.074656,"Verified Location",NA,NA,NA,"1978-NH-0075"
+"Pierce Island - Dock Area","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1977,NA,-70.742555,43.074656,"Verified Location",NA,NA,NA,"1977-NH-0076"
+"Pierce Island - Dock Area","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1979,NA,-70.742555,43.074656,"Verified Location",NA,NA,NA,"1979-NH-0077"
+"Sagamore Club","","3241 Lafayette Rd.","Portsmouth","NH","(YC),(D),(P),(*)","Bars/Clubs",1973,NA,-70.7962246,43.0232094,"Google Verified Location",NA,NA,NA,"1973-NH-0078"
+"Sagamore Club","(above Fran's 'Rio')","77 Daniel St. ","Portsmouth","NH","(P),(D),(*)","Bars/Clubs",1972,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1972-NH-0079"
+"Sagimore","","Inquire locally","Portsmouth","NH","(*),(P),(D)","Bars/Clubs",1968,NA,-70.762553,43.071755,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1968-NH-0080"
+"Sagimore","","Inquire locally","Portsmouth","NH","(*),(P),(D)","Bars/Clubs",1970,NA,-70.762553,43.071755,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1970-NH-0081"
+"Sagimore","","Inquire locally","Portsmouth","NH","(*),(P),(D)","Bars/Clubs",1969,NA,-70.762553,43.071755,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-NH-0082"
+"Sagimore","(Above Fran's 'Rio')","77 Daniel St. ","Portsmouth","NH","(P),(D),(*)","Bars/Clubs",1971,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1971-NH-0083"
+"Seaport Club","(upstairs - above Big Daddy's)","77 Daniel St.","Portsmouth","NH","(P),(D),(YC),(*)","Bars/Clubs",1976,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1976-NH-0084"
+"Seaport Club","(upstairs - above Big Daddy's)","77 Daniel St.","Portsmouth","NH","(P),(D),(YC),(*)","Bars/Clubs",1975,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1975-NH-0085"
+"Seaport Club","(Disco - D- WE)","Rte 1 Bypass - E. side, just S. of rotary","Portsmouth","NH","(P),(YC),(D),(WE),(*)","Bars/Clubs",1979,NA,-70.762553,43.071755,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-NH-0086"
+"Seaport Club","('where its happening in N.H.) (Upstairs -- above Big Daddy's - (P) (YC) (Disco-WE)(D) on 2nd floor - (R) on third)","77 Daniel St.","Portsmouth","NH","(P),(YC),(WE),(D),(R)","Bars/Clubs,Restaurant",1977,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1977-NH-0087"
+"Seaport Club","(Disco)","Rte. 1 Bypass - E. side, just S. of rotary","Portsmouth","NH","(P),(YC),(D),(WE),(*)","Bars/Clubs",1980,NA,-70.762553,43.071755,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-NH-0088"
+"Seaport Club","('Tops' in state - upstairs, above Big Daddy's) (Disco - D - WE) (R) on 3rd floor","77 Daniel St.","Portsmouth","NH","(*),(P),(YC),(D),(WE)","Bars/Clubs",1978,NA,-70.7559911,43.0772645,"Google Verified Location",NA,NA,NA,"1978-NH-0089"
+"Sheraton-Carpenter Hotel","","323 Franklin St.","Manchester","NH","(M)","Hotel,Bars/Clubs",1975,NA,-71.4638405,42.9897015,"Google Verified Location",NA,NA,NA,"1975-NH-0090"
+"Sheraton-Carpenter Hotel Bar","","323 Franklin St.","Manchester","NH","(M)","Bars/Clubs,Hotel",1978,NA,-71.4638405,42.9897015,"Google Verified Location",NA,NA,NA,"1978-NH-0091"
+"Sheraton-Carpenter Hotel Bar","","323 Franklin St.","Manchester","NH","(M),(PE)","Hotel,Bars/Clubs",1976,NA,-71.4638405,42.9897015,"Google Verified Location",NA,NA,NA,"1976-NH-0092"
+"Sheraton-Carpenter Hotel Bar","","323 Franklin St.","Manchester","NH","(M)","Bars/Clubs",1977,NA,-71.4638405,42.9897015,"Google Verified Location",NA,NA,NA,"1977-NH-0093"
+"Sheraton-Carpenter Hotel Lounge","","323 Franklin St.","Manchester","NH","(M)","Bars/Clubs,Hotel",1972,NA,-71.4638405,42.9897015,"Google Verified Location",NA,NA,NA,"1972-NH-0094"
+"Sheraton-Carpenter Hotel Lounge","","323 Franklin St.","Manchester","NH","(M)","Bars/Clubs",1974,NA,-71.4638405,42.9897015,"Google Verified Location",NA,NA,NA,"1974-NH-0095"
+"Sheraton-Carpenter Hotel Lounge","","323 Franklin St.","Manchester","NH","(M)","Hotel,Bars/Clubs",1973,NA,-71.4638405,42.9897015,"Google Verified Location",NA,NA,NA,"1973-NH-0096"
+"Strawberry Bank Point - Dock Area","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1976,NA,-70.762553,43.071755,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-NH-0097"
+"Strawberry Bank Point - Dock Area","","","Portsmouth","NH","Cruisy Area","Cruising Areas",1975,NA,-70.762553,43.071755,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-NH-0098"
+"Three-Two-Forty-One Club","","3241 Lafayette Rd.","Portsmouth","NH","(YC),(D),(P),(*)","Bars/Clubs",1972,NA,-70.7962246,43.0232094,"Google Verified Location",NA,NA,NA,"1972-NH-0099"
+"Three-Two-Forty-One Club","(Old Rt. 1)","3241 Lafayette Rd ","Portsmouth","NH","(YC),(D),(P),(*)","Bars/Clubs",1971,NA,-70.7962246,43.0232094,"Google Verified Location",NA,NA,NA,"1971-NH-0100"
+"Tom's Pizza","","5 Allen St.","Hanover","NH","(M)","Restaurant",1975,NA,-72.2903417,43.7017035,"Google Verified Location",NA,NA,NA,"1975-NH-0101"
+"Tom's Pizza","","5 Allen St.","Hanover","NH","(M)","Restaurant",1979,NA,-72.2903417,43.7017035,"Google Verified Location",NA,NA,NA,"1979-NH-0102"
+"Tom's Pizza","","5 Allen St.","Hanover","NH","(M)","Bars/Clubs",1978,NA,-72.2903417,43.7017035,"Google Verified Location",NA,NA,NA,"1978-NH-0103"
+"Tom's Pizza","","5 Allen St.","Hanover","NH","(M)","Bars/Clubs",1976,NA,-72.2903417,43.7017035,"Google Verified Location",NA,NA,NA,"1976-NH-0104"
+"Tom's Pizza","","5 Allen St.","Hanover","NH","(M)","Bars/Clubs",1977,NA,-72.2903417,43.7017035,"Google Verified Location",NA,NA,NA,"1977-NH-0105"
+"Tony's Cafe","","16 High St ","Lebanon","NH","(M)","Bars/Clubs",1978,NA,-72.255845,43.6426022,"Google Verified Location",NA,NA,NA,"1978-NH-0106"
+"Tony's Cafe","","16 High St ","Lebanon","NH","(M)","Restaurant",1979,NA,-72.255845,43.6426022,"Google Verified Location",NA,NA,NA,"1979-NH-0107"
+"Tony's Cafe","","16 High St.","Lebanon","NH","(M)","Restaurant",1980,NA,-72.255845,43.6426022,"Google Verified Location",NA,NA,NA,"1980-NH-0108"
+"Tony's Cafe","","16 High St ","Lebanon","NH","(M)","Restaurant",1976,NA,-72.255845,43.6426022,"Google Verified Location",NA,NA,NA,"1976-NH-0109"
+"Tony's Cafe","","16 High St ","Lebanon","NH","(M)","Restaurant",1975,NA,-72.255845,43.6426022,"Google Verified Location",NA,NA,NA,"1975-NH-0110"
+"Tony's Cafe","","16 High St.","Lebanon","NH","","Restaurant",1974,NA,-72.255845,43.6426022,"Google Verified Location",NA,NA,NA,"1974-NH-0111"
+"Tony's Cafe","","16 High St ","Lebanon","NH","(M)","Restaurant",1977,NA,-72.255845,43.6426022,"Google Verified Location",NA,NA,NA,"1977-NH-0112"
+"Tony's Pizza","","5 Allen St.","Hanover","NH","","Restaurant",1974,NA,-72.2903417,43.7017035,"Google Verified Location",NA,NA,NA,"1974-NH-0113"
+"Tony's Pizza #5","","5 Allen St.","Hanover","NH","","Restaurant",1973,NA,-72.2903417,43.7017035,"Google Verified Location",NA,NA,NA,"1973-NH-0114"
+"Tudor Cafe","","361 Pine St.","Manchester","NH","(*)","Restaurant",1974,NA,-71.4592863,42.9906413,"Google Verified Location",NA,NA,NA,"1974-NH-0115"
+"Tudor Cafe","","361 Pine St.","Manchester","NH","(*)","Restaurant",1976,NA,-71.4592863,42.9906413,"Google Verified Location",NA,NA,NA,"1976-NH-0116"
+"Tudor Cafe","","361 Pine St.","Manchester","NH","(*)","Restaurant",1979,NA,-71.4592863,42.9906413,"Google Verified Location",NA,NA,NA,"1979-NH-0117"
+"Tudor Cafe","","361 Pine St.","Manchester","NH","(*)","Bars/Clubs",1978,NA,-71.4592863,42.9906413,"Google Verified Location",NA,NA,NA,"1978-NH-0118"
+"Tudor Cafe","","361 Pine St.","Manchester","NH","(*)","Bars/Clubs",1977,NA,-71.4592863,42.9906413,"Google Verified Location",NA,NA,NA,"1977-NH-0119"
+"Tudor Cafe","","361 Pine St.","Manchester","NH","(*)","Restaurant",1975,NA,-71.4592863,42.9906413,"Google Verified Location",NA,NA,NA,"1975-NH-0120"
+"White Cliffs","","Inquire locally","Laconia","NH","","Bars/Clubs",1974,NA,-71.470351,43.527855,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1974-NH-0121"
+"White Cliffs","","Inquire locally","Laconia","NH","","Bars/Clubs",1973,NA,-71.470351,43.527855,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-NH-0122"
+"Wyn's Cafe","","Inquire Locally","Manchester","NH","","Restaurant",1970,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1970-NH-0123"
+"Wyn's Cafe","","Inquire Locally","Manchester","NH","","Restaurant",1971,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1971-NH-0124"
+"Wyn's Cafe","","Inquire Locally","Manchester","NH","","Bars/Clubs",1968,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1968-NH-0125"
+"Wyn's Cafe","","Inquire Locally","Manchester","NH","","Bars/Clubs",1969,NA,-71.454789,42.99564,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-NH-0126"
+"Yvette's","","657 Chestnut","Manchester","NH","(M),(RT),(*)","Bars/Clubs",1973,NA,-71.4617999,43.0014049,"Google Verified Location",NA,NA,NA,"1973-NH-0127"
+"Yvette's","","657 Chestnut","Manchester","NH","","Bars/Clubs",1969,NA,-71.4617999,43.0014049,"Google Verified Location",NA,NA,NA,"1969-NH-0128"
+"Yvette's","","657 Chestnut","Manchester","NH","(M),(RT),(*)","Bars/Clubs",1972,NA,-71.4617999,43.0014049,"Google Verified Location",NA,NA,NA,"1972-NH-0129"
+"Yvette's","","657 Chestnut","Manchester","NH","","Bars/Clubs",1970,NA,-71.4617999,43.0014049,"Google Verified Location",NA,NA,NA,"1970-NH-0130"
+"Yvette's","","657 Chestnut","Manchester","NH","","Bars/Clubs",1968,NA,-71.4617999,43.0014049,"Google Verified Location",NA,NA,NA,"1968-NH-0131"
+"Yvette's","","657 Chestnut","Manchester","NH","","Bars/Clubs",1971,NA,-71.4617999,43.0014049,"Google Verified Location",NA,NA,NA,"1971-NH-0132"

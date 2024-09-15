@@ -1,482 +1,482 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-7587,AZ444,'Hitch-hikers' on 4th Ave. & Hwy. 8,,,Yuma,AZ,Cruisy Area,Cruising Areas,1978,,-114.624535,32.731581,Verified Location
-7589,AZ447,'Hitch-hikers' on 4th Ave. & Hwy. 8,,,Yuma,AZ,Cruisy Area,Cruising Areas,1980,,-114.624535,32.731581,Verified Location
-7588,AZ448,'Hitch-hikers' on 4th Ave. & Hwy. 8,,,Yuma,AZ,Cruisy Area,Cruising Areas,1979,,-114.624535,32.731581,Verified Location
-7591,AZ445,'Hitch-hikers' on 4th Avenue & Hwy. 8,,,Yuma,AZ,Cruisy Area,Cruising Areas,1977,,-114.624535,32.731581,Verified Location
-7590,AZ450,'Hitch-hikers' on 4th Avenue & Hwy. 8,,,Yuma,AZ,Cruisy Area,Cruising Areas,1976,,-114.624535,32.731581,Verified Location
-7594,AZ342,'Hitch-Hikers' on E. Speedway,,,Tucson,AZ,Cruisy Area,Cruising Areas,1979,,-110.840906,32.235665,Verified Location
-7595,AZ343,'Hitch-Hikers' on E. Speedway,,,Tucson,AZ,Cruisy Area,Cruising Areas,1980,,-110.840906,32.235665,Verified Location
-7592,AZ352,'Hitch-Hikers' on E. Speedway,,,Tucson,AZ,Cruisy Area,Cruising Areas,1976,,-110.840906,32.235665,Verified Location
-7593,AZ364,'Hitch-Hikers' on E. Speedway,,,Tucson,AZ,Cruisy Area,Cruising Areas,1978,,-110.840906,32.235665,Verified Location
-7596,AZ358,'Hitch-Hikers' on East Speedway,,,Tucson,AZ,Cruisy Area,Cruising Areas,1977,,-110.840906,32.235665,Verified Location
-7598,AZ187,'Hitch-hikers' on Van Buren,betw. 3rd Ave & 3rd Street,,Phoenix,AZ,Cruisy Area,Cruising Areas,1977,,-112.077996,33.451347,Verified Location
-7599,AZ188,'Hitch-hikers' on Van Buren,betw. 3rd Ave & 3rd St.,,Phoenix,AZ,Cruisy Area,Cruising Areas,1978,,-112.077996,33.451347,Verified Location
-7600,AZ189,'Hitch-hikers' on Van Buren,betw. 3rd Ave & 3rd St.,,Phoenix,AZ,Cruisy Area,Cruising Areas,1979,,-112.077996,33.451347,Verified Location
-7601,AZ192,'Hitch-hikers' on Van Buren,betw. 3rd Ave & 3rd St.,,Phoenix,AZ,Cruisy Area,Cruising Areas,1980,,-112.077996,33.451347,Verified Location
-7597,AZ196,'Hitch-hikers' on Van Buren,betw. 3rd Ave & 3rd Street,,Phoenix,AZ,Cruisy Area,Cruising Areas,1976,,-112.077996,33.451347,Verified Location
-7603,AZ403,A. S. U.,Student Union-Library & Old Gym T-Rooms,,Tempe,AZ,Cruisy Area,Cruising Areas,1980,,-111.928053,33.42424,Verified Location
-7602,AZ404,A. S. U.,Student Union-Library & Old Gym T-Rooms,,Tempe,AZ,Cruisy Area,Cruising Areas,1979,,-111.928053,33.42424,Verified Location
-7604,AZ407,A.S.U.,"Student Union, Library, & old Gym T-Rooms",,Tempe,AZ,Cruisy Area,"Cruising Areas,Organizations",1978,,-111.928053,33.42424,Verified Location
-7606,AZ019,Act III,,3331 N. 24th St. E,Phoenix,AZ,"(P),(D),(YC)",Bars/Clubs,1970,,-112.0298551,33.4870908,Google Verified Location
-7607,AZ107,Act III,,3331 N. 24th St. E,Phoenix,AZ,"(P),(D),(YC)",Bars/Clubs,1969,,-112.0298551,33.4870908,Google Verified Location
-7605,AZ283,Act III,(after hours)* ,1048 N. Main St.,Tucson,AZ,"(C),(*),(P),(D)",Bars/Clubs,1971,,-110.977633,32.2352692,Google Verified Location
-7608,AZ373,AGN,"(Newspaper) P.O Box 5002 Tucson, AZ 85703",,Tucson,AZ,,Organizations,1980,P.O Box and a little unsure of type,-110.974711,32.222607,Location could not be verified. General city or location coordinates used.
-7609,AZ164,Arizona Escort Services,(602-279-9069),,Phoenix,AZ,,Business,1980,,-112.074037,33.448377,Location could not be verified. General city or location coordinates used.
-7610,AZ325,B & M Adult Books,,1904 So. Craycroft,Tucson,AZ,,Book Store,1978,,-110.8754227,32.1994213,Google Verified Location
-7611,AZ081,Back Door,($1.00 adm. weekends after hours) (Behind Western Escape #2),2101 E. McDowell Rd.,Phoenix,AZ,"(P),(YC),(G),(S),(C),(*)",Bars/Clubs,1973,,-112.0363023,33.4652309,Google Verified Location
-7612,AZ312,Back Door ,(Bookstore & adjacent baths) (Tues*) ,3309 E. Michigan,Tucson,AZ,(*),"Baths,Book Store",1978,,-110.921814,32.170871,Google Verified Location
-7613,AZ324,Back Door Book Store,,3309 E. Michigan,Tucson,AZ,,Book Store,1977,,-110.921814,32.170871,Google Verified Location
-7614,AZ310,Back Door Club Baths,(Looks promising) (Adjacent to above Book Store),3309 East Michigan,Tucson,AZ,,Baths,1977,,-110.921814,32.170871,Google Verified Location
-7615,AZ311,Back Door Club Baths & Book Store,(Tues*) ,3309 E. Michigan,Tucson,AZ,(*),"Baths,Book Store",1979,,-110.921814,32.170871,Google Verified Location
-7617,AZ378,Back Pocket,(Behind Joshua Tree) (Lunches too),,Tucson,AZ,(R),Restaurant,1980,,-110.961409,32.260772,Verified Location
-7616,AZ382,Back Pocket,(see Joshua Tree),,Tucson,AZ,,Restaurant,1979,,-110.961409,32.260772,Verified Location
-7619,AZ385,Back Pocket ,"(Game Room) (Sunday-barbeque-5-7 p.m- a ""must""- adjacent to The Stonewall)",2921 N. 1st Ave.,Tucson,AZ,"(YC),(PT),(*)","Restaurant,Bars/Clubs",1977,,-110.9614089,32.2607716,Google Verified Location
-7618,AZ386,Back Pocket ,(Sunday barbeque-ad- joins Joshua Tree,2921 N. 1st Ave.,Tucson,AZ,"(YC),(PT),(*)","Restaurant,Bars/Clubs",1978,,-110.9614089,32.2607716,Google Verified Location
-7620,AZ224,Bali Hi,,1515 Grande Avenue,Phoenix,AZ,"(M),(R),(C),(AH)",Restaurant,1977,,-112.0923955,33.4591536,Google Verified Location
-7621,AZ105,Band Box,,4516 N. 19th Ave. ,Phoenix,AZ,"(M),(S)",Bars/Clubs,1980,,-112.1005076,33.5029875,Google Verified Location
-7624,AZ148,Barney's Book Store,,1321 E. McDowell,Phoenix,AZ,(M),Book Store,1976,,-112.0533202,33.4655443,Google Verified Location
-7622,AZ156,Barney's Book Store,,1321 E. McDowell,Phoenix,AZ,(M),Book Store,1978,,-112.0533202,33.4655443,Google Verified Location
-7623,AZ159,Barney's Book Store,,1321 E. McDowell,Phoenix,AZ,(M),Book Store,1977,,-112.0533202,33.4655443,Google Verified Location
-7625,AZ162,Best. Dist. Co.,"(Adult toys & novelties) P.O. Box 1392 Phoenix, AZ 85001",,Phoenix,AZ,,Business,1980,P.O Box,-112.074037,33.448377,Location could not be verified. General city or location coordinates used.
-7627,AZ431,Birdcage Lounge,,Downtown Yuma Mall,Yuma,AZ,"(M),(YC),(E),(HIP)",Bars/Clubs,1977,,-114.617525,32.723533,Verified Location
-7626,AZ433,Birdcage Lounge,,Downtown Yuma Mall,Yuma,AZ,"(M),(YC),(E),(HIP)",Bars/Clubs,1976,,-114.617525,32.723533,Verified Location
-7630,AZ434,Birdcage Lounge,,Downtown Yuma Mall,Yuma,AZ,"(M),(YC),(E)",Bars/Clubs,1980,,-114.617525,32.723533,Verified Location
-7629,AZ435,Birdcage Lounge,,Downtown Yuma Mall,Yuma,AZ,"(M),(YC),(E)",Bars/Clubs,1979,,-114.617525,32.723533,Verified Location
-7628,AZ436,Birdcage Lounge,,Downtown Yuma Mall,Yuma,AZ,"(M),(YC),(E)",Bars/Clubs,1978,,-114.617525,32.723533,Verified Location
-7631,AZ077,Black & White,,7100 N. 7th St.,Phoenix,AZ,"(G),(D)",Bars/Clubs,1979,,-112.0654829,33.5403113,Google Verified Location
-7632,AZ258,Black Door,,345 E. Toole St.,Tucson,AZ,(M),Bars/Clubs,1971,,-110.9676616,32.2232929,Google Verified Location
-7634,AZ260,Black Door,,345 E. Toole St.,Tucson,AZ,(M),Bars/Clubs,1969,,-110.9676616,32.2232929,Google Verified Location
-7636,AZ286,Black Door,(nr Congress Hotel),,Tucson,AZ,,Bars/Clubs,1966,,-110.9747108,32.2226066,Google Verified Location
-7633,AZ289,Black Door,,345 E. Toole St.,Tucson,AZ,(M),Bars/Clubs,1970,,-110.9676616,32.2232929,Google Verified Location
-7635,AZ291,Black Door,,345 E. Toole St.,Tucson,AZ,,Bars/Clubs,1968,,-110.9676616,32.2232929,Google Verified Location
-7638,AZ255,Black Door ,,345 E. Toole,Tucson,AZ,"(M),(RT)",Bars/Clubs,1974,,-110.9676616,32.2232929,Google Verified Location
-7639,AZ273,Black Door ,,345 E. Toole,Tucson,AZ,"(M),(RT)",Bars/Clubs,1973,,-110.9676616,32.2232929,Google Verified Location
-7637,AZ279,Black Door ,,345 E. Toole,Tucson,AZ,"(M),(RT)",Bars/Clubs,1975,,-110.9676616,32.2232929,Google Verified Location
-7640,AZ237,Blue Jeans ,(24 hr. R) & Cocktail Lounge,4620 E. McDowell Rd. ,Phoenix,AZ,(R),"Restaurant,Bars/Clubs",1979,,-111.9813595,33.4659213,Google Verified Location
-7641,AZ144,Book Cellar,(Books),2103 W.  Camelback Rd.,Phoenix,AZ,,Book Store,1980,,-112.1044816,33.5093936,Google Verified Location
-7644,AZ316,Book Cellar,(Books),2205 N. Stone,Tucson,AZ,(M),Book Store,1979,,-110.9721175,32.2484443,Google Verified Location
-7646,AZ147,Book Cellar,,2103 W.  Camelback Rd.,Phoenix,AZ,,Book Store,1977,,-112.1044816,33.5093936,Google Verified Location
-7645,AZ151,Book Cellar,,2103 W.  Camelback Rd.,Phoenix,AZ,,Book Store,1978,,-112.1044816,33.5093936,Google Verified Location
-7643,AZ155,Book Cellar,(Books),2103 W.  Camelback Rd.,Phoenix,AZ,,Book Store,1979,,-112.1044816,33.5093936,Google Verified Location
-7642,AZ326,Book Cellar,(Books),2205 N. Stone,Tucson,AZ,(M),Book Store,1980,,-110.9721175,32.2484443,Google Verified Location
-7647,AZ322,Bookland,(Books),3244 E. Speedway,Tucson,AZ,(M),Book Store,1979,,-110.9237097,32.2357998,Google Verified Location
-7648,AZ327,Books Brothers,,3244 E. Speedway,Tucson,AZ,,Book Store,1980,,-110.9237097,32.2357998,Google Verified Location
-7649,AZ229,Brookshire,,McDowell at N. 16th ,Phoenix,AZ,"(M),(R),(C),(AH)",Restaurant,1978,,-112.0476875,33.4657742,Google Verified Location
-7651,AZ230,Brookshire,,McDowell at North 16th,Phoenix,AZ,"(M),(R),(C),(AH)",Restaurant,1977,,-112.093437,33.46583,Verified Location
-7650,AZ232,Brookshire,,McDowell at North 16th,Phoenix,AZ,"(M),(R),(C),(AH)",Restaurant,1976,,-112.093437,33.46583,Verified Location
-7652,AZ067,Bud's Central Lounge,,33 S. Central,Phoenix,AZ,"(M),(RT)",Bars/Clubs,1970,,-112.0738245,33.4476018,Google Verified Location
-7653,AZ463,Bull Pen Lounge,,25 E. 16th St,Douglas,AZ,(M),Bars/Clubs,1978,,-109.5483462,31.3506154,Google Verified Location
-7655,AZ321,Caesar's Book Store,('Wild back room' -best early evenings) ,2540 N. Miracle Mile,Tucson,AZ,(*),Book Store,1979,,-111.0000831,32.2608476,Google Verified Location
-7654,AZ323,Caesar's Book Store,(Wild back room best early evenings) ,2540 N. Miracle Mile,Tucson,AZ,(*),Book Store,1980,,-111.0000831,32.2608476,Google Verified Location
-7656,AZ103,Captain's Table,,5538 N. 7th St. E,Phoenix,AZ,,Bars/Clubs,1965,,-112.0654578,33.5179079,Google Verified Location
-7659,AZ045,Captains Table,,5538 N. 7th St. E,Phoenix,AZ,,Bars/Clubs,1966,,-112.0654578,33.5179079,Google Verified Location
-7657,AZ092,Captains Table,,5338 N. 7th St. E,Phoenix,AZ,,Bars/Clubs,1969,,-112.0654794,33.5151432,Google Verified Location
-7658,AZ116,Captains Table,,5538 N. 7th St. E,Phoenix,AZ,,Bars/Clubs,1968,,-112.0654578,33.5179079,Google Verified Location
-7662,AZ036,Casa de Roma,,4331 N. 16th St.,Phoenix,AZ,"(YC),(D),(*)",Bars/Clubs,1974,,-112.047249,33.4994441,Google Verified Location
-7663,AZ123,Casa de Roma,(Sun. brunch),4331 N. 16th St.,Phoenix,AZ,"(*),(YC),(D)","Bars/Clubs,Restaurant",1978,,-112.047249,33.4994441,Google Verified Location
-7664,AZ124,Casa de Roma,(S-WE),4331 N. 16th St.,Phoenix,AZ,"(YC),(D),(S),(WE),(*)","Bars/Clubs,Restaurant",1977,,-112.047249,33.4994441,Google Verified Location
-7660,AZ074,Casa de Roma,,4331 N. 16th St.,Phoenix,AZ,"(S),(D),(*)",Bars/Clubs,1979,,-112.047249,33.4994441,Google Verified Location
-7661,AZ096,Casa de Roma,,4331 N. 16th St.,Phoenix,AZ,"(YC),(D),(S),(*)",Bars/Clubs,1975,,-112.047249,33.4994441,Google Verified Location
-7665,AZ130,Casa de Roma,,4331 N. 16th St.,Phoenix,AZ,"(YC),(D),(S),(*)","Bars/Clubs,Restaurant",1976,,-112.047249,33.4994441,Google Verified Location
-7666,AZ075,Casa Roma,,4331 N. 16th St.,Phoenix,AZ,"(YC),(D),(*)",Bars/Clubs,1973,,-112.047249,33.4994441,Google Verified Location
-7668,AZ340,Catalina Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1974,,-110.96641,32.23361,Verified Location
-7671,AZ344,Catalina Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1977,,-110.96641,32.23361,Verified Location
-7673,AZ346,Catalina Park,(HOT),,Tucson,AZ,"Cruisy Area,(HOT)",Cruising Areas,1979,,-110.96641,32.23361,Verified Location
-7667,AZ347,Catalina Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1973,,-110.96641,32.23361,Verified Location
-7674,AZ350,Catalina Park,,,Tucson,AZ,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-110.96641,32.23361,Verified Location
-7669,AZ355,Catalina Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1975,,-110.96641,32.23361,Verified Location
-7672,AZ361,Catalina Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1978,,-110.96641,32.23361,Verified Location
-7670,AZ363,Catalina Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1976,,-110.96641,32.23361,Verified Location
-7675,AZ400,Changing Hands,"Woman's Place (Books, etc.)",9. E. 5th St.,Tempe,AZ,,Book Store,1978,,-111.9395399,33.4253948,Google Verified Location
-7676,AZ021,Club 3331,,3331 N 24th St.,Phoenix,AZ,,Bars/Clubs,1968,,-112.0298551,33.4870908,Google Verified Location
-7677,AZ140,Club Maroc,(Plans to open in spring of '75. Temporary facilities at 2222 E. Indian School Rd. Inquire Locally.),,Phoenix,AZ,"(P),(PE),(R),(D)","Baths,Restaurant",1976,,-112.074037,33.448377,Location could not be verified. General city or location coordinates used.
-7678,AZ133,Club Phoenix Baths,,1517 S. Black Canyon Rd.,Phoenix,AZ,"(P),(*)",Baths,1980,,-112.1072993,33.4337231,Google Verified Location
-7681,AZ134,Club Phoenix Baths,,1517 So. Black Canyon Rd.,Phoenix,AZ,"(P),(*)",Baths,1977,,-112.1072993,33.4337231,Google Verified Location
-7684,AZ135,Club Phoenix Baths,,1517 S. Black Canyon Rd.,Phoenix,AZ,,Baths,1974,,-112.1072993,33.4337231,Google Verified Location
-7683,AZ136,Club Phoenix Baths,,1517 S. Black Canyon Rd.,Phoenix,AZ,(*),Baths,1975,,-112.1072993,33.4337231,Google Verified Location
-7680,AZ137,Club Phoenix Baths,,1517 So. Black Canyon Rd.,Phoenix,AZ,"(P),(*)",Baths,1978,,-112.1072993,33.4337231,Google Verified Location
-7682,AZ138,Club Phoenix Baths,,1517 S. Black Canyon Rd.,Phoenix,AZ,(*),Baths,1976,,-112.1072993,33.4337231,Google Verified Location
-7679,AZ139,Club Phoenix Baths,,1517 S. Black Canyon Rd.,Phoenix,AZ,"(P),(*)",Baths,1979,,-112.1072993,33.4337231,Google Verified Location
-7686,AZ259,Congress,,311 E. Congress,Tucson,AZ,"(M),(OC),(RT)",Bars/Clubs,1979,,-110.9668233,32.222337,Google Verified Location
-7685,AZ274,Congress,,311 E. Congress,Tucson,AZ,"(M),(OC),(RT)",Bars/Clubs,1980,,-110.9668233,32.222337,Google Verified Location
-7687,AZ288,Congress Bar,,311 E. Congress,Tucson,AZ,(OC),Bars/Clubs,1978,,-110.9668233,32.222337,Google Verified Location
-7695,AZ292,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,,"Bars/Clubs,Hotel",1970,,-110.9668233,32.222337,Google Verified Location
-7691,AZ293,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,,"Bars/Clubs,Hotel",1974,,-110.9668233,32.222337,Google Verified Location
-7690,AZ294,Congress Hotel Bar,(Latins),311 E. Congress,Tucson,AZ,(RT),"Bars/Clubs,Hotel",1975,,-110.9668233,32.222337,Google Verified Location
-7688,AZ295,Congress Hotel Bar,(Latins),311 E. Congress,Tucson,AZ,(RT),"Bars/Clubs,Hotel",1977,,-110.9668233,32.222337,Google Verified Location
-7692,AZ296,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,,"Bars/Clubs,Hotel",1973,,-110.9668233,32.222337,Google Verified Location
-7689,AZ297,Congress Hotel Bar,(Latins),311 E. Congress,Tucson,AZ,(RT),"Bars/Clubs,Hotel",1976,,-110.9668233,32.222337,Google Verified Location
-7699,AZ298,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,,"Bars/Clubs,Hotel",1965,,-110.9668233,32.222337,Google Verified Location
-7694,AZ299,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,(M),"Bars/Clubs,Hotel",1971,,-110.9668233,32.222337,Google Verified Location
-7697,AZ300,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,(M),"Bars/Clubs,Hotel",1968,,-110.9668233,32.222337,Google Verified Location
-7693,AZ301,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,(M),"Bars/Clubs,Hotel",1972,,-110.9668233,32.222337,Google Verified Location
-7696,AZ302,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,,"Bars/Clubs,Hotel",1969,,-110.9668233,32.222337,Google Verified Location
-7698,AZ303,Congress Hotel Bar,,311 E. Congress,Tucson,AZ,,"Bars/Clubs,Hotel",1966,,-110.9668233,32.222337,Google Verified Location
-7703,AZ200,Connection,(Cruisy) (Bare chest nights),4211 N. 7th St. ,Phoenix,AZ,"(W),(SM),(PT),(*),(D)","Cruising Areas,Bars/Clubs",1978,,-112.0648,33.4969979,Google Verified Location
-7701,AZ201,Connection,"(Cruisy) (Some W, SM, FFA) (Newly enlarged) (Bare chest nights) ",4211 N. 7th St. ,Phoenix,AZ,"(*),(W),(SM),(FFA)","Cruising Areas,Bars/Clubs",1980,,-112.0648,33.4969979,Google Verified Location
-7702,AZ202,Connection,"(Cruisy) (Some W, SM, FFA) (Bare chest nights) ('wild john')",4211 N. 7th St. ,Phoenix,AZ,"(*),(W),(SM),(FFA)","Cruising Areas,Bars/Clubs",1979,,-112.0648,33.4969979,Google Verified Location
-7700,AZ114,Connection,,4211 N. 7th St. ,Phoenix,AZ,(W),Bars/Clubs,1977,,-112.0648,33.4969979,Google Verified Location
-7705,AZ062,Copper Penney,,Rose Lane N. 7th St. E.,Phoenix,AZ,"(G),(D)",Bars/Clubs,1968,,-112.065024,33.527382,Verified Location
-7704,AZ070,Copper Penney,,Rose Lane at N. 7th St. E.,Phoenix,AZ,"(G),(D)",Bars/Clubs,1966,,-112.065024,33.527382,Verified Location
-7709,AZ060,Copper Penney ,,Rose Lane N. 7th St. E.,Phoenix,AZ,"(G),(D)",Bars/Clubs,1969,,-112.0650245,33.5273823,Google Verified Location
-7706,AZ089,Copper Penney ,,Rose Lane N. 7th St.,Phoenix,AZ,"(G),(D)",Bars/Clubs,1972,,-112.0650245,33.5273823,Google Verified Location
-7708,AZ106,Copper Penney ,,Rose Lane N. 7th St. E.,Phoenix,AZ,"(G),(D)",Bars/Clubs,1970,,-112.0650245,33.5273823,Google Verified Location
-7707,AZ110,Copper Penney ,,Rose Lane N. 7th St.,Phoenix,AZ,"(G),(D),(*)",Bars/Clubs,1971,,-112.0650245,33.5273823,Google Verified Location
-7710,AZ369,Curve Inn Motel,(X-rated movies) ,435 W. Miracle Mile Strip,Tucson,AZ,"(M),(H)",Hotel,1979,Not sure impact of x rated movies in desc.,-110.979226,32.26047,Google Verified Location
-7711,AZ278,Dale's Graduate,"(Some W, SM, FFA, OC, YC, Latins-'tops' during cocktail hour) ",23 W. University Blvd.,Tucson,AZ,"(PT),(*),(W),(SM),(FFA),(OC),(YC)",Bars/Clubs,1980,,-110.9724985,32.231604,Google Verified Location
-7712,AZ287,Dale's Graduate,"(Some W, SM, FFA, OC, YC, Latins-'tops' during cocktail hour) ",23 W. University Blvd.,Tucson,AZ,"(PT),(*),(W),(SM),(FFA),(OC),(YC)",Bars/Clubs,1979,,-110.9724985,32.231604,Google Verified Location
-7713,AZ277,Dale's Place,(Formerly The Graduate Tues. night beer busts),23 W. University Blvd.,Tucson,AZ,"(W),(D),(*)",Bars/Clubs,1978,,-110.9724985,32.231604,Google Verified Location
-7715,AZ339,De Anza Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1977,,-110.971028,32.235065,Verified Location
-7716,AZ351,De Anza Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1978,,-110.971028,32.235065,Verified Location
-7714,AZ356,De Anza Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1976,,-110.971028,32.235065,Verified Location
-7718,AZ360,De Anza Park,,,Tucson,AZ,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-110.971028,32.235065,Verified Location
-7717,AZ362,De Anza Park,(HOT),,Tucson,AZ,"Cruisy Area,(HOT)",Cruising Areas,1979,,-110.971028,32.235065,Verified Location
-7721,AZ223,Denny's,,5000 N. 7th St. ,Phoenix,AZ,"(M),(R),(C),(AH),(*)",Restaurant,1978,,-112.0650194,33.5092328,Google Verified Location
-7719,AZ226,Denny's,(AH*),5000 N. 7th St. ,Phoenix,AZ,"(M),(R),(C),(AH),(*)",Restaurant,1980,,-112.0650194,33.5092328,Google Verified Location
-7720,AZ228,Denny's,(AH*),5000 N. 7th St. ,Phoenix,AZ,"(M),(R),(C),(AH),(*)",Restaurant,1979,,-112.0650194,33.5092328,Google Verified Location
-7722,AZ236,Denny's,at Camelback,5000 N. 7th St. ,Phoenix,AZ,"(M),(R),(C),(AH),(*)",Restaurant,1977,,-112.0650194,33.5092328,Google Verified Location
-7723,AZ207,Desert Pool Motel,,2922 E. Van Buren,Phoenix,AZ,"(M),(H)",Hotel,1980,,-112.0181314,33.4515707,Google Verified Location
-7724,AZ210,Desert Pool Motel,,2922 E. Van Buren,Phoenix,AZ,"(M),(H),(*)",Hotel,1979,,-112.0181314,33.4515707,Google Verified Location
-7725,AZ208,Desert Pool Motel & Sauna,,2922 E. Van Buren,Phoenix,AZ,"(M),(H),(*)",Hotel,1978,,-112.0181314,33.4515707,Google Verified Location
-7740,AZ120,Diamond Lil's ,,3025 N. 24th St. E,Phoenix,AZ,"(*),(R)","Bars/Clubs,Restaurant",1965,,-112.0297986,33.4833131,Google Verified Location
-7730,AZ029,Diamond Lil's ,(D.L's)  (go-go boys),3025 N. 24th St. ,Phoenix,AZ,(*),Bars/Clubs,1976,,-112.0297986,33.4833131,Google Verified Location
-7729,AZ033,Diamond Lil's ,(D.L's)  (go-go boys),3025 N. 24th St. ,Phoenix,AZ,"(*),(S)",Bars/Clubs,1977,,-112.0297986,33.4833131,Google Verified Location
-7727,AZ047,Diamond Lil's ,(D.L's)  (Some G),3025 N. 24th St. ,Phoenix,AZ,"(*),(S),(G)",Bars/Clubs,1979,,-112.0297986,33.4833131,Google Verified Location
-7726,AZ049,Diamond Lil's ,(D.L's) ,3024 N. 24th St. ,Phoenix,AZ,"(*),(S)",Bars/Clubs,1980,,-112.0306137,33.4826826,Google Verified Location
-7736,AZ059,Diamond Lil's ,,3025 N. 24th St. E,Phoenix,AZ,(*),Bars/Clubs,1970,,-112.0297986,33.4833131,Google Verified Location
-7733,AZ068,Diamond Lil's ,,3025 N. 24th St. ,Phoenix,AZ,"(*),(D)",Bars/Clubs,1973,,-112.0297986,33.4833131,Google Verified Location
-7738,AZ069,Diamond Lil's ,,3025 N. 24th St. E,Phoenix,AZ,(*),Bars/Clubs,1968,,-112.0297986,33.4833131,Google Verified Location
-7731,AZ087,Diamond Lil's ,(also called 'D.L's') ,3025 N. 24th St. ,Phoenix,AZ,"(*),(D)",Bars/Clubs,1975,,-112.0297986,33.4833131,Google Verified Location
-7735,AZ090,Diamond Lil's ,,3025 N. 24th St. ,Phoenix,AZ,(*),Bars/Clubs,1971,,-112.0297986,33.4833131,Google Verified Location
-7739,AZ097,Diamond Lil's ,,3025 N. 24th St. E,Phoenix,AZ,(*),Bars/Clubs,1966,,-112.0297986,33.4833131,Google Verified Location
-7728,AZ099,Diamond Lil's ,(D.L's)  (go-go boys),3025 N. 24th St. ,Phoenix,AZ,"(*),(S)",Bars/Clubs,1978,,-112.0297986,33.4833131,Google Verified Location
-7737,AZ100,Diamond Lil's ,,3025 N. 24th St. E,Phoenix,AZ,(*),Bars/Clubs,1969,,-112.0297986,33.4833131,Google Verified Location
-7734,AZ111,Diamond Lil's ,,3025 N. 24th St. ,Phoenix,AZ,"(D),(YC),(*)",Bars/Clubs,1972,,-112.0297986,33.4833131,Google Verified Location
-7732,AZ112,Diamond Lil's ,(also called 'D.L's') ,3025 N. 24th St. ,Phoenix,AZ,"(*),(D),(YC)",Bars/Clubs,1974,,-112.0297986,33.4833131,Google Verified Location
-7741,AZ314,Downtowner ,(Books) ,120 E. Congress,Tucson,AZ,(M),Book Store,1979,,-110.969213,32.2218664,Google Verified Location
-7744,AZ410,Dr Munchie's ,,234 W. University Dr. ,Tempe,AZ,"(M),(YC),(R)",Restaurant,1978,,-111.9429903,33.4224257,Google Verified Location
-7742,AZ412,Dr Munchie's ,,234 W. University Dr. ,Tempe,AZ,"(M),(YC),(R)",Restaurant,1980,,-111.9429903,33.4224257,Google Verified Location
-7743,AZ413,Dr Munchie's ,,234 W. University Dr. ,Tempe,AZ,"(M),(YC),(R)",Restaurant,1979,,-111.9429903,33.4224257,Google Verified Location
-7747,AZ425,Dr. Munchie's,,4333 Brown ,Scottsdale,AZ,"(M),(R)",Restaurant,1978,,-111.9258689,33.4995725,Google Verified Location
-7745,AZ426,Dr. Munchie's,,4333 Brown ,Scottsdale,AZ,"(M),(R)",Restaurant,1980,,-111.9258689,33.4995725,Google Verified Location
-7746,AZ427,Dr. Munchie's,,4333 Brown ,Scottsdale,AZ,"(M),(R)",Restaurant,1979,,-111.9258689,33.4995725,Google Verified Location
-7748,AZ066,El Corillo ,,4331 N. 16th St. E. ,Phoenix,AZ,,Bars/Clubs,1970,,-112.047249,33.4994441,Google Verified Location
-7749,AZ086,El Corillo ,,4331 N. 16th St. E. ,Phoenix,AZ,,Bars/Clubs,1969,,-112.047249,33.4994441,Google Verified Location
-7754,AZ175,Encanto Park,(HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1979,,-112.089163,33.47628,Verified Location
-7751,AZ182,Encanto Park,(HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1976,,-112.089163,33.47628,Verified Location
-7753,AZ191,Encanto Park,(HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1978,,-112.089163,33.47628,Verified Location
-7750,AZ195,Encanto Park,(HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1975,,-112.089163,33.47628,Verified Location
-7755,AZ198,Encanto Park,,,Phoenix,AZ,"Cruisy Area,(AYOR)",Cruising Areas,1980,,-112.089163,33.47628,Verified Location
-7752,AZ199,Encanto Park,(hot),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1977,,-112.089163,33.47628,Verified Location
-7756,AZ214,Erotica Motel & Book Store,,5200 E. Van Buren,Phoenix,AZ,(M),"Hotel,Book Store",1980,,-111.9694944,33.451018,Google Verified Location
-7757,AZ215,Erotica Motel & Book Store,,5200 E. Van Buren,Phoenix,AZ,,"Hotel,Book Store",1979,,-111.9694944,33.451018,Google Verified Location
-7758,AZ216,Erotica Motel & Book Store,,5200 E. Van Buren,Phoenix,AZ,,"Hotel,Book Store",1978,,-111.9694944,33.451018,Google Verified Location
-7761,AZ245,Esquire,,225 E. Congress,Tucson,AZ,"(M),(RT)",Bars/Clubs,1970,,-110.9678391,32.2220514,Google Verified Location
-7759,AZ246,Esquire,,225 E. Congress,Tucson,AZ,"(M),(RT)",Bars/Clubs,1972,,-110.9678391,32.2220514,Google Verified Location
-7762,AZ282,Esquire,,225 E. Congress,Tucson,AZ,"(M),(RT)",Bars/Clubs,1969,,-110.9678391,32.2220514,Google Verified Location
-7760,AZ285,Esquire,,225 E. Congress,Tucson,AZ,"(M),(RT)",Bars/Clubs,1971,,-110.9678391,32.2220514,Google Verified Location
-7763,AZ254,Esquire ,,225 E. Congress,Tucson,AZ,"(M),(RT)",Bars/Clubs,1978,,-110.9678391,32.2220514,Google Verified Location
-7764,AZ027,Forum,,4132 E. McDowell Rd.,Phoenix,AZ,"(YC),(D)",Bars/Clubs,1977,,-111.9919091,33.4661066,Google Verified Location
-7767,AZ125,Forum,(Disco) ,4132 E. McDowell Rd.,Phoenix,AZ,"(*),(YC),(D)","Bars/Clubs,Restaurant",1978,,-111.9919091,33.4661066,Google Verified Location
-7765,AZ126,Forum,(2 bars) (Disco)  (Sun. afternoon buffet),4132 E. McDowell Rd.,Phoenix,AZ,"(*),(YC),(D)","Bars/Clubs,Restaurant",1980,,-111.9919091,33.4661066,Google Verified Location
-7766,AZ127,Forum,(2 bars) (Disco)  (Sun. afternoon buffet),4132 E. McDowell Rd.,Phoenix,AZ,"(*),(YC),(D)","Bars/Clubs,Restaurant",1979,,-111.9919091,33.4661066,Google Verified Location
-7768,AZ408,Free Spirit,"(Social) P.O. Box 117, Tempe 85281",,Tempe,AZ,,Organizations,1978,PO BOX,-111.940005,33.42551,Location could not be verified. General city or location coordinates used.
-7769,AZ266,Front Runner,(Mixed bag-many G) (WE*),2222 N. Stone,Tucson,AZ,"(S),(D),(G)",Bars/Clubs,1979,,-110.9716483,32.2487455,Google Verified Location
-7770,AZ088,Fullmoon,(Disco) ,3108 E. McDowell Rd.,Phoenix,AZ,"(L),(D)",Bars/Clubs,1980,,-112.0154798,33.4660821,Google Verified Location
-7771,AZ317,Fun Tyme Adult Books ,,349 E. Toole Ave. ,Tucson,AZ,,Book Store,1980,,-110.9670398,32.2229604,Google Verified Location
-7772,AZ217,G.A.L.A,(Tel:602-254-3300) P.O. Box 2361,,Phoenix,AZ,,Organizations,1978,,-112.074037,33.448377,Location could not be verified. General city or location coordinates used.
-7773,AZ401,Glad Coffeehouse,,1414 S. McAllister,Tempe,AZ,,Business,1974,,-111.9306812,33.4129498,Google Verified Location
-7775,AZ379,Gonella's ,,1201 N. Stone Ave.,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1975,,-110.9715193,32.2373633,Google Verified Location
-7774,AZ381,Gonella's ,,1201 N. Stone Ave.,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1977,,-110.9715193,32.2373633,Google Verified Location
-7778,AZ252,Graduate,,23 W. University Blvd.,Tucson,AZ,"(W),(D),(*)",Bars/Clubs,1975,,-110.9724985,32.231604,Google Verified Location
-7781,AZ262,Graduate,(3rd St.),23 W. University Blvd.,Tucson,AZ,"(D),(*)",Bars/Clubs,1972,,-110.9724985,32.231604,Google Verified Location
-7777,AZ269,Graduate,,23 W University Blvd.,Tucson,AZ,"(W),(D),(*)",Bars/Clubs,1976,,-110.9724985,32.231604,Google Verified Location
-7780,AZ270,Graduate,(3rd St.),23 W. University Blvd.,Tucson,AZ,"(D),(*)",Bars/Clubs,1973,,-110.9724985,32.231604,Google Verified Location
-7779,AZ271,Graduate,,23 W. University Blvd.,Tucson,AZ,,Bars/Clubs,1974,,-110.9724985,32.231604,Google Verified Location
-7782,AZ275,Graduate,(3rd St.),23 W. University Blvd.,Tucson,AZ,"(D),(*)",Bars/Clubs,1971,,-110.9724985,32.231604,Google Verified Location
-7776,AZ290,Graduate,(Formerly The Graduate Tues. night beer busts,23 West University Blvd.,Tucson,AZ,"(W),(D),(*)",Bars/Clubs,1977,,-110.9724985,32.231604,Google Verified Location
-7783,AZ025,Grapevine,,N 7th St E,Phoenix,AZ,(G),Bars/Clubs,1965,,-112.065131,33.579345,Location could not be verified. General city or location coordinates used.
-7786,AZ174,Greyhound Park,Sundays are cruisy at Park 'n' Swap,,Phoenix,AZ,Cruisy Area,Cruising Areas,1980,,-111.995404,33.448021,Verified Location
-7784,AZ178,Greyhound Park,,,Phoenix,AZ,Cruisy Area,Cruising Areas,1978,,-111.995404,33.448021,Verified Location
-7785,AZ183,Greyhound Park,Sundays are cruisy at Park 'n' Swap,,Phoenix,AZ,Cruisy Area,Cruising Areas,1979,,-111.995404,33.448021,Verified Location
-7790,AZ038,Habit ,,7100 N. 7th Street,Phoenix,AZ,"(G),(D)",Bars/Clubs,1974,,-112.0654829,33.5403113,Google Verified Location
-7788,AZ046,Habit ,,7100 North 7th Street,Phoenix,AZ,"(G),(D),(*)",Bars/Clubs,1976,,-112.0654829,33.5403113,Google Verified Location
-7791,AZ063,Habit ,,7051 N. 7th Street,Phoenix,AZ,"(G),(D),(P)",Bars/Clubs,1973,,-112.0648233,33.540203,Google Verified Location
-7787,AZ109,Habit ,,7100 North 7th Street,Phoenix,AZ,"(G),(D),(*)",Bars/Clubs,1977,,-112.0654829,33.5403113,Google Verified Location
-7789,AZ117,Habit ,,7100 N. 7th Street,Phoenix,AZ,"(G),(D)",Bars/Clubs,1975,,-112.0654829,33.5403113,Google Verified Location
-7793,AZ307,Hairy Tiz,(Picking up nicely-may be adding adj. baths) ,342 E. Toole Ave,Tucson,AZ,,Bars/Clubs,1979,,-110.9670398,32.2229604,Google Verified Location
-7794,AZ308,Hairy Tiz,(Looks promising),342 E. Toole Ave,Tucson,AZ,,Baths,1978,,-110.9670398,32.2229604,Google Verified Location
-7792,AZ309,Hairy Tiz,(Picking up nicely-may be adding adj. baths) ,342 E. Toole Ave,Tucson,AZ,,Bars/Clubs,1980,,-110.9670398,32.2229604,Google Verified Location
-7795,AZ035,Happy Garden,,1008 E. Camelback Road,Phoenix,AZ,"(G),(D),(*)",Bars/Clubs,1975,,-112.0602356,33.5095014,Google Verified Location
-7797,AZ209,Hatcher Inn,,1101 W. Hatcher Rd.,Phoenix,AZ,,Hotel,1970,,-112.087249,33.5709696,Google Verified Location
-7796,AZ211,Hatcher Inn,,1101 W. Hatcher Rd.,Phoenix,AZ,,Hotel,1971,,-112.087249,33.5709696,Google Verified Location
-7798,AZ041,Hedda's,(Disco) (Should be mindblowing when this opens in the spring of '74),3839 N. 16th Street,Phoenix,AZ,"(YC),(D),(*)",Bars/Clubs,1975,,-112.0471713,33.49219,Google Verified Location
-7799,AZ058,Hide Out,,1622 Grand Avenue,Phoenix,AZ,"(W),(SM),(*)",Bars/Clubs,1975,,-112.0941036,33.461229,Google Verified Location
-7800,AZ076,Hide Out,(new-looks promising),3426 W. Buckeye Rd.,Phoenix,AZ,"(W),(SM)",Bars/Clubs,1974,,-112.1335787,33.4372107,Google Verified Location
-7803,AZ348,Himmel Park,Avoid parking lot,,Tucson,AZ,Cruisy Area,Cruising Areas,1980,,-110.93315,32.233876,Verified Location
-7801,AZ354,Himmel Park,Avoid parking lot,,Tucson,AZ,Cruisy Area,Cruising Areas,1978,,-110.93315,32.233876,Verified Location
-7802,AZ357,Himmel Park,Avoid parking lot,,Tucson,AZ,"Cruisy Area,(AYOR)",Cruising Areas,1979,,-110.93315,32.233876,Verified Location
-7804,AZ365,Himmel Park,,,Tucson,AZ,Cruisy Area,Cruising Areas,1976,,-110.93315,32.233876,Verified Location
-7805,AZ349,Himmel Park on East Speedway,Do not use parking lot,,Tucson,AZ,Cruisy Area,Cruising Areas,1977,,-110.93315,32.233876,Verified Location
-7807,AZ020,His Co. Disco,(2 bars-PT-Game room) (Disco) (Enter thru parking lot in rear),3839 N. 16th St.,Phoenix,AZ,"(*),(PT),(YC),(D)",Bars/Clubs,1979,,-112.0471713,33.49219,Google Verified Location
-7806,AZ093,His Co. Disco,(2 bars-PT-Game room) (Disco) (Enter thru parking lot in rear),3839 N. 16th St.,Phoenix,AZ,"(*),(PT),(YC),(D)",Bars/Clubs,1980,,-112.0471713,33.49219,Google Verified Location
-7808,AZ341,Hitch-Hikers on E. Speedway & elsewhere,,,Tucson,AZ,Cruisy Area,Cruising Areas,1974,,-110.840906,32.235665,Verified Location
-7809,AZ345,Hitch-Hikers on E. Speedway & elsewhere,,,Tucson,AZ,Cruisy Area,Cruising Areas,1975,,-110.840906,32.235665,Verified Location
-7810,AZ353,Hitchhikers on E. Speedway,,,Tucson,AZ,Cruisy Area,Cruising Areas,1973,,-110.840906,32.235665,Verified Location
-7811,AZ082,Incognito Lounge,(Some L) ,2424 E. Thomas Rd.,Phoenix,AZ,"(L),(D)",Bars/Clubs,1980,,-112.028937,33.4805802,Google Verified Location
-7812,AZ446,J.F.K. Park,,,Yuma,AZ,Cruisy Area,Cruising Areas,1980,,-114.60857,32.686673,Verified Location
-7813,AZ452,Jack in the Box,(Chicken),,Yuma,AZ,"Cruisy Area,(R)","Cruising Areas,Restaurant",1980,,-114.627692,32.692651,Location could not be verified. General city or location coordinates used.
-7815,AZ225,Jay's Coffee Shop,,1 Central Ave,Phoenix,AZ,"(M),(RT),(C),(R)",Restaurant,1975,,-112.0732068,33.4486628,Google Verified Location
-7816,AZ235,Jay's Coffee Shop,,1 Central Ave,Phoenix,AZ,"(M),(C),(R)",Restaurant,1974,,-112.0732068,33.4486628,Google Verified Location
-7814,AZ165,Jay's Coffee Shop,(occasionally interesting) ,1 Central Ave,Phoenix,AZ,"(M),(RT),(C),(AH)",Business,1976,,-112.0732068,33.4486628,Google Verified Location
-7818,AZ251,Jekyll's ,Last Culture (Disco) ( Some G) ,1455 N. Miracle Mile,Tucson,AZ,"(*),(S),(D),(PT),(YC),(G)",Bars/Clubs,1979,,-110.9973286,32.2608521,Google Verified Location
-7817,AZ264,Jekyll's ,Last Culture (Disco) ( Some L) ,1455 N. Miracle Mile,Tucson,AZ,"(*),(L),(S),(D),(PT),(YC)",Bars/Clubs,1980,,-110.9973286,32.2608521,Google Verified Location
-7819,AZ305,Jekyll's & Hyde's,(Disco) (Mardi Gras carnival in Feb.),1455 N. Miracle Mile,Tucson,AZ,"(*),(YC),(D),(R),(PT)","Bars/Clubs,Restaurant",1978,,-110.9973286,32.2608521,Google Verified Location
-7820,AZ039,Jerky Jerry's,,1622 Grand Avenue,Phoenix,AZ,"(W),(SM)",Bars/Clubs,1977,,-112.0941036,33.461229,Google Verified Location
-7821,AZ380,Jerry's ,,1201 N. Stone Ave,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1978,,-110.9715193,32.2373633,Google Verified Location
-7823,AZ248,Jim's,,23. W 3rd St.,Tucson,AZ,(*),Bars/Clubs,1968,,-110.8612016,32.2315664,Google Verified Location
-7822,AZ263,Jim's,(Jim's moving late '68-make point to inquire locally as this is best),23. W. Third St.,Tucson,AZ,(*),Bars/Clubs,1969,,-110.8612016,32.2315664,Google Verified Location
-7824,AZ268,Jim's,,23. W 3rd St.,Tucson,AZ,(*),Bars/Clubs,1966,,-110.8612016,32.2315664,Google Verified Location
-7825,AZ231,Jim's Steak House,(after hrs only),E. McDowell Rd. & N. 21st St.,Phoenix,AZ,"(C),(YC),(*)",Restaurant,1971,,-112.035725,33.465736,Verified Location
-7826,AZ234,Jim's Steak House,(after hours only),E. McDowell Rd. N. 21st St.,Phoenix,AZ,"(C),(YC),(*)",Restaurant,1972,,-112.035725,33.465736,Verified Location
-7829,AZ247,Joshua Tree,"(Disco-D-Wed,. Fri. & Sat. nights only) ",2921 N. 1st Ave.,Tucson,AZ,"(*),(YC),(D)",Bars/Clubs,1978,,-110.9614089,32.2607716,Google Verified Location
-7827,AZ280,Joshua Tree,(Disco) (Open Wed. thru Sun.* ) Back Pocket (PT) in rear is open 7 nights ,2921 N. 1st Ave,Tucson,AZ,"(YC),(D),(*)",Bars/Clubs,1980,,-110.9614089,32.2607716,Google Verified Location
-7828,AZ284,Joshua Tree,"(Disco) (Open Wed., Fri. & Sat. only* ) Back Pocket (PT) in rear is open 7 nights ",2921 N. 1st Ave,Tucson,AZ,"(YC),(D),(*)",Bars/Clubs,1979,,-110.9614089,32.2607716,Google Verified Location
-7830,AZ250,Kamu's,,23. W. Third St.,Tucson,AZ,(*),Bars/Clubs,1970,,-110.8612016,32.2315664,Google Verified Location
-7833,AZ031,Kay's Happy Landing,,4405 S. Central ,Phoenix,AZ,(M),Bars/Clubs,1966,,-112.0728982,33.40627,Google Verified Location
-7834,AZ050,Kay's Happy Landing,,4405 S. Central ,Phoenix,AZ,,Bars/Clubs,1965,,-112.0728982,33.40627,Google Verified Location
-7831,AZ057,Kay's Happy Landing,,4405 S. Central ,Phoenix,AZ,(M),Bars/Clubs,1969,,-112.0728982,33.40627,Google Verified Location
-7832,AZ102,Kay's Happy Landing,,4405 S. Central ,Phoenix,AZ,(M),Bars/Clubs,1968,,-112.0728982,33.40627,Google Verified Location
-7835,AZ233,La Strada,(Italian),3509 North Central,Phoenix,AZ,"(M),(R)",Restaurant,1977,,-112.073395,33.4892202,Google Verified Location
-7836,AZ227,La Strada Italian,,3509 N. Central,Phoenix,AZ,(R),Restaurant,1976,,-112.073395,33.4892202,Google Verified Location
-7837,AZ249,Later On,(after hours) Del Norte Shopping Center on Prince Road,,Tucson,AZ,"(M),(YC)",Bars/Clubs,1972,,-110.988265,32.272065,Verified Location
-7838,AZ079,Le Casablanca,,4331 N. 16th St. ,Phoenix,AZ,"(S),(D),(*)",Bars/Clubs,1980,,-112.047249,33.4994441,Google Verified Location
-7839,AZ146,Le Sex Shoppe,"(Books, etc) ",6 W.  Washington,Phoenix,AZ,,Book Store,1978,,-112.0738718,33.4482125,Google Verified Location
-7840,AZ389,Library basement,U. of No. Arizona,,Flagstaff,AZ,Cruisy Area,Cruising Areas,1976,,-111.657642,35.18981,Verified Location
-7841,AZ388,Library Basement T-Room,University of North Arizona,,Flagstaff,AZ,Cruisy Area,Cruising Areas,1977,,-111.657642,35.18981,Verified Location
-7842,AZ318,Little Caesar's Book Store,('wild back room' best early evenings) ,2500 N. Miracle Mile,Tucson,AZ,(*),Book Store,1978,,-111.0000831,32.2608476,Google Verified Location
-7843,AZ319,Little Caesar's Book Store,"(""wild back room"") ",2500 N. Miracle Mile,Tucson,AZ,,Book Store,1977,,-111.0000831,32.2608476,Google Verified Location
-7844,AZ398,Lola's,,11 E. 5th St.,Tempe,AZ,(M),Bars/Clubs,1975,,-111.9392819,33.4255018,Google Verified Location
-7846,AZ167,M.C.C.,,1426 E. Maricopa Fwy.,Phoenix,AZ,(MCC),Church,1978,,-112.0545055,33.4275715,Google Verified Location
-7847,AZ168,M.C.C.,,1426 E. Maricopa Freeway,Phoenix,AZ,(MCC),Church,1977,,-112.0545055,33.4275715,Google Verified Location
-7850,AZ169,M.C.C.,(Burned),,Phoenix,AZ,(MCC),Church,1979,,-112.065131,33.579345,Location could not be verified. General city or location coordinates used.
-7845,AZ330,M.C.C.,Truth Chapel,920 N. 1st Ave.,Tucson,AZ,,Church,1979,,-110.9606761,32.2337303,Google Verified Location
-7848,AZ170,M.C.C.,,1426 E. Maricopa Freeway,Phoenix,AZ,(MCC),Church,1976,,-112.0545055,33.4275715,Google Verified Location
-7849,AZ171,M.C.C.,,1426 E. Maricopa Freeway,Phoenix,AZ,(MCC),Church,1975,,-112.0545055,33.4275715,Google Verified Location
-7852,AZ370,MacArthur Hotel ,(Don't expect the Ritz),345 E. Toole Ave,Tucson,AZ,(M),Hotel,1979,,-110.9676616,32.2232929,Google Verified Location
-7851,AZ372,MacArthur Hotel ,(Don't expect the Ritz),345 E. Toole Ave,Tucson,AZ,(M),Hotel,1980,,-110.9676616,32.2232929,Google Verified Location
-7854,AZ080,Maggie's,(formerly Hedda's) (Disco),3839 N. 16th Street,Phoenix,AZ,"(YC),(D),(*)",Bars/Clubs,1976,,-112.0471713,33.49219,Google Verified Location
-7853,AZ115,Maggie's,"(Disco) (enter through parking lot in rear) (Tuesday ""beer bust"")",3839 North 16th Street,Phoenix,AZ,"(YC),(D),(PT),(*)",Bars/Clubs,1977,,-112.0471713,33.49219,Google Verified Location
-7855,AZ042,Manny's,,1724 E. McDowell Rd.,Phoenix,AZ,,Bars/Clubs,1970,,-112.0445398,33.4660592,Google Verified Location
-7856,AZ118,Manny's Den,,1724 E. McDowell Rd.,Phoenix,AZ,"(S),(*)","Bars/Clubs,Business",1971,,-112.0445398,33.4660592,Google Verified Location
-7857,AZ177,Metro Center,Shopping Complex-nr. ice rink,,Phoenix,AZ,Cruisy Area,Cruising Areas,1979,,-112.121702,33.575048,Verified Location
-7858,AZ180,Metro Center,,,Phoenix,AZ,Cruisy Area,Cruising Areas,1980,,-112.121702,33.575048,Verified Location
-7859,AZ172,Metropolitan Community Church,,1426 E. Maricopa Freeway,Phoenix,AZ,(MCC),Church,1974,,-112.0545055,33.4275715,Google Verified Location
-7860,AZ173,Metropolitan Community Church,,1426 E. Maricopa Freeway,Phoenix,AZ,(MCC),Church,1973,,-112.0545055,33.4275715,Google Verified Location
-7862,AZ044,Mi Casa Su Casa,,4331 N. 16th St. ,Phoenix,AZ,"(D),(YC),(*)",Bars/Clubs,1971,,-112.047249,33.4994441,Google Verified Location
-7861,AZ048,Mi Casa Su Casa,,4331 N. 16th St. ,Phoenix,AZ,"(D),(YC),(*)",Bars/Clubs,1972,,-112.047249,33.4994441,Google Verified Location
-7863,AZ464,Mickey's Lounge,,400 S. Haskell,Wilcox,AZ,(M),Bars/Clubs,1980,,-109.8350935,32.2492631,Google Verified Location
-7864,AZ465,Mickey's Lounge,,400 S. Haskell,Wilcox,AZ,(M),Bars/Clubs,1979,,-109.8350935,32.2492631,Google Verified Location
-7865,AZ466,Mickey's Lounge,Sands Motel,400 S. Haskell Ave.,Wilcox,AZ,(M),"Bars/Clubs,Hotel",1978,,-109.8350935,32.2492631,Google Verified Location
-7866,AZ409,Minder-Benders,,715 S. Hayden,Tempe,AZ,"(M),(YC),(R)",Restaurant,1980,,-111.9090844,33.455458,Google Verified Location
-7867,AZ411,Minder-Benders,,715 S. Hayden Rd.,Tempe,AZ,"(M),(YC),(R)",Restaurant,1979,,-111.9090844,33.455458,Google Verified Location
-7868,AZ072,Miss Matty's Attic,(Disco),3241 E. Shea,Phoenix,AZ,"(M),(D)",Bars/Clubs,1979,,-112.0115409,33.5819174,Google Verified Location
-7869,AZ150,Mojave Books,,1838 Grand Ave,Phoenix,AZ,,Book Store,1979,,-112.099079,33.4655022,Google Verified Location
-7870,AZ108,Moon's Truck,(Some G) (Disco) (Enter through parking lot in rear) ( Tues. beer bust),3839 N. 16th St.,Phoenix,AZ,"(YC),(G),(D),(*)",Bars/Clubs,1978,,-112.0471713,33.49219,Google Verified Location
-7871,AZ026,Mr. Fatfingers,(WE*) (Mixed bag-Some OC-slow dancing),5749 N. 7th St.,Phoenix,AZ,"(WE),(*),(OC)",Bars/Clubs,1980,,-112.0646603,33.5217412,Google Verified Location
-7872,AZ113,Mr. Fatfingers,(WE*) (Mixed bag-Some OC-slow dancing),5749 N. 7th St.,Phoenix,AZ,"(WE),(*),(OC)",Bars/Clubs,1979,,-112.0646603,33.5217412,Google Verified Location
-7873,AZ056,Mr. Jim's,,155 W Camelback Rd,Phoenix,AZ,"(D),(*)",Bars/Clubs,1966,,-112.0770646,33.5089768,Google Verified Location
-7874,AZ054,Ms. Fathers,,2825 N. Central,Phoenix,AZ,"(M),(RT)",Bars/Clubs,1976,,-112.0732999,33.4797007,Google Verified Location
-7875,AZ392,Northern Arizona Univ. Library,Basement T-Room,,Flagstaff,AZ,Cruisy Area,"Cruising Areas,Organizations",1980,,-111.657642,35.18981,Verified Location
-7876,AZ119,Nu Towne Saloon,(Sun. brunch & barbeque; Mon. night beer bust) ,5002 E. Van Buren,Phoenix,AZ,"(W),(YC),(D),(*)","Bars/Clubs,Restaurant",1978,,-111.9739771,33.4513607,Google Verified Location
-7882,AZ203,Nu Towne Saloon,"(Cruisy) (Some W) (Patio with Sun. buffet, 'Mon. beer bust') ",5002 E. Van Buren,Phoenix,AZ,"(*),(W),(PT)","Cruising Areas,Bars/Clubs,Restaurant",1979,,-111.9739771,33.4513607,Google Verified Location
-7879,AZ121,Nu Towne Saloon,"(also (C) after hours, weekends and Sunday brunch)",5002 E. Van Buren,Phoenix,AZ,"(W),(YC),(D),(*),(C)","Bars/Clubs,Restaurant",1974,,-111.9739771,33.4513607,Google Verified Location
-7877,AZ122,Nu Towne Saloon,(Sun. brunch & barbeque),5002 E. Van Buren,Phoenix,AZ,"(W),(YC),(D),(*)","Bars/Clubs,Restaurant",1976,,-111.9739771,33.4513607,Google Verified Location
-7880,AZ132,Nu Towne Saloon,(Sunday brunch & barbeque; Monday night 'beer bust') (cruisy) ,5002 E. Van Buren,Phoenix,AZ,"(W),(YC),(D),(*)","Bars/Clubs,Restaurant,Cruising Areas",1977,,-111.9739771,33.4513607,Google Verified Location
-7881,AZ204,Nu Towne Saloon,"(Cruisy) (Some W) (Patio with Sun. buffet, 'Mon. beer bust') ",5002 E. Van Buren,Phoenix,AZ,"(*),(W),(PT)","Cruising Areas,Bars/Clubs,Restaurant",1980,,-111.9739771,33.4513607,Google Verified Location
-7878,AZ128,Nu Towne Saloon,('Flicks' also (C) after weekends & Sunday brunch),5002 E. Van Buren,Phoenix,AZ,"(W),(YC),(D),(*),(C)","Bars/Clubs,Restaurant",1975,,-111.9739771,33.4513607,Google Verified Location
-7883,AZ084,Number One ,,3331 N. 24th St,Phoenix,AZ,"(P),(D)",Bars/Clubs,1971,,-112.0298551,33.4870908,Google Verified Location
-7884,AZ040,NuTown Saloon,(some (G),5002 E. Van Buren,Phoenix,AZ,(G),Bars/Clubs,1973,,-111.9739771,33.4513607,Google Verified Location
-7888,AZ467,Oak Creek Owl,,1/2 mile S.  of 89A on Ariz. 179,Sedona,AZ,"(M),(R)",Restaurant,1979,,-111.76099,34.86974,Location could not be verified. General city or location coordinates used.
-7887,AZ468,Oak Creek Owl,,1/2 mile S.  of 89A on Ariz. 179,Sedona,AZ,"(M),(R)",Restaurant,1978,,-111.76099,34.86974,Location could not be verified. General city or location coordinates used.
-7889,AZ469,Oak Creek Owl,,1/2 mile S.  of 89A on Ariz. 179,Sedona,AZ,"(M),(R)",Restaurant,1980,,-111.76099,34.86974,Location could not be verified. General city or location coordinates used.
-7886,AZ470,Oak Creek Owl,,1/2 mile S.  of 89A on Arizona  179,Sedona,AZ,"(M),(R)",Restaurant,1977,,-111.76099,34.86974,Location could not be verified. General city or location coordinates used.
-7885,AZ471,Oak Creek Owl,,1/2 mile S.  of 89A on Arizona  179,Sedona,AZ,"(M),(R)",Restaurant,1976,,-111.76099,34.86974,Location could not be verified. General city or location coordinates used.
-7890,AZ157,Owl Book Store,,1838 Grand Ave,Phoenix,AZ,,Book Store,1980,,-112.099079,33.4655022,Google Verified Location
-7891,AZ265,P.S. ,"(Wed., Fri. & Sat. nights only-liquor, flicks, & 'wild back room')",2610 E. Ft. Lowell,Tucson,AZ,"(AH),(*),(D),(PT)",Bars/Clubs,1978,,-110.9327504,32.2646911,Google Verified Location
-7892,AZ276,P.S. ,"(AH*) (Liquor-""flicks""- very 'wild back room')",2610 E. Ft. Lowell,Tucson,AZ,"(AH),(*),(D),(PT)",Bars/Clubs,1977,,-110.9327504,32.2646911,Google Verified Location
-7893,AZ253,Palm Room,(New Jim's),Oracle Road,Tucson,AZ,(*),Bars/Clubs,1970,,-110.978074,32.279826,Location could not be verified. General city or location coordinates used.
-7901,AZ176,Papago Park,(HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1979,,-111.953395,33.453877,Verified Location
-7894,AZ179,Papago Park,in area north of Zoo,,Phoenix,AZ,Cruisy Area,Cruising Areas,1972,,-111.953395,33.453877,Verified Location
-7899,AZ181,Papago Park,Area north of Zoo (HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1977,,-111.953395,33.453877,Verified Location
-7900,AZ185,Papago Park,(HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1978,,-111.953395,33.453877,Verified Location
-7897,AZ186,Papago Park,in area north of Zoo (very HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1975,,-111.953395,33.453877,Verified Location
-7902,AZ190,Papago Park,,,Phoenix,AZ,"(AYOR),Cruisy Area",Cruising Areas,1980,,-111.953395,33.453877,Verified Location
-7895,AZ193,Papago Park,in area north of Zoo,,Phoenix,AZ,Cruisy Area,Cruising Areas,1973,,-111.953395,33.453877,Verified Location
-7898,AZ194,Papago Park,Area n. of Zoo (very HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1976,,-111.953395,33.453877,Verified Location
-7896,AZ197,Papago Park,in area n. of Zoo (very HOT),,Phoenix,AZ,"Cruisy Area,(HOT)",Cruising Areas,1974,,-111.953395,33.453877,Verified Location
-7904,AZ149,Paris Arizona Book store ,,315 E. Washington,Phoenix,AZ,,Book Store,1975,,-112.0564884,33.448175,Google Verified Location
-7903,AZ152,Paris Arizona Book store ,,315 E. Washington,Phoenix,AZ,(M),Book Store,1976,,-112.0564884,33.448175,Google Verified Location
-7905,AZ315,Paris Knights,(Books) ,3844 E. Grant Rd.,Tucson,AZ,(*),Book Store,1979,,-110.9109751,32.2503442,Google Verified Location
-7906,AZ359,Park Mall,,,Tucson,AZ,Cruisy Area,Cruising Areas,1977,,-110.865518,32.219844,Verified Location
-7908,AZ161,Parr of Arizona,(Clothing) ,3903 N. 16th St. ,Phoenix,AZ,,Business,1979,,-112.0472178,33.4925559,Google Verified Location
-7907,AZ163,Parr of Arizona,(Clothing) ,3903 N. 16th St. ,Phoenix,AZ,,Business,1980,,-112.0472178,33.4925559,Google Verified Location
-7909,AZ051,Pat's Place,,7051 N. 7th St.,Phoenix,AZ,(G),Bars/Clubs,1972,,-112.0648233,33.540203,Google Verified Location
-7910,AZ071,Pat's Place,,7051 N. 7th St.,Phoenix,AZ,(G),Bars/Clubs,1971,,-112.0648233,33.540203,Google Verified Location
-7911,AZ166,Phil's Coffee Shop,(Hustlers),1 Central Avenue,Phoenix,AZ,"(M),(RT),(C),(AH)",Business,1977,,-112.0732068,33.4486628,Google Verified Location
-7914,AZ145,Pleasure Palace Book Store,,1524 E. Van Buren,Phoenix,AZ,,Book Store,1978,,-112.047963,33.451619,Google Verified Location
-7912,AZ153,Pleasure Palace Book Store,,1524 E. Van Buren,Phoenix,AZ,,Book Store,1980,,-112.047963,33.451619,Google Verified Location
-7913,AZ154,Pleasure Palace Book Store,,1524 E. Van Buren,Phoenix,AZ,,Book Store,1979,,-112.047963,33.451619,Google Verified Location
-7915,AZ158,Pleasure Palace Book Store,,15211 East Van Buren,Phoenix,AZ,,Book Store,1977,,-112.0129056,33.4513059,Google Verified Location
-7916,AZ328,Pleasure World,(Books 'n' things-erotica ),"120 E. Congress, 3814 E. Speedway",Tucson,AZ,(*),Book Store,1980,2 addresses,-110.911105,32.235572,Verified Location
-7917,AZ222,Ponderosa Steak House,,1400 N. Black Canyon Rd.,Phoenix,AZ,"(M),(R),(C),(AH)",Restaurant,1978,,-112.1096372,33.4632755,Google Verified Location
-7918,AZ383,Ramada Inn,(AH*) ,404 N. Freeway,Tucson,AZ,"(M),(R),(C),(AH),(*)",Restaurant,1979,,-110.9805392,32.2250994,Google Verified Location
-7923,AZ024,Ramrod,(beer bust on Sundays 5-7p.m),395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(*)",Bars/Clubs,1976,,-112.1077602,33.4524633,Google Verified Location
-7926,AZ032,Ramrod,,395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(*)",Bars/Clubs,1973,,-112.1077602,33.4524633,Google Verified Location
-7920,AZ034,Ramrod,(Sun. beer bust),395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(PT)",Bars/Clubs,1979,,-112.1077602,33.4524633,Google Verified Location
-7925,AZ043,Ramrod,,395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(*)",Bars/Clubs,1974,,-112.1077602,33.4524633,Google Verified Location
-7921,AZ052,Ramrod,(Beer bust Sundays 5-8pm),395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(PT),(*)",Bars/Clubs,1978,,-112.1077602,33.4524633,Google Verified Location
-7919,AZ085,Ramrod,(Sun. beer bust),395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(PT)",Bars/Clubs,1980,,-112.1077602,33.4524633,Google Verified Location
-7922,AZ095,Ramrod,(Beer bust on Sundays 5-7pm),395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(PT),(*)",Bars/Clubs,1977,,-112.1077602,33.4524633,Google Verified Location
-7924,AZ101,Ramrod,(beer bust Sundays 5-7 pm),395 N. Black Canyon Rd. ,Phoenix,AZ,"(SM),(W),(*)",Bars/Clubs,1975,,-112.1077602,33.4524633,Google Verified Location
-7928,AZ476,Reed & Pioneer Parks,(HOT),,Mesa ,AZ,"Cruisy Area,(HOT)",Cruising Areas,1979,,-111.819674,33.416972,Verified Location
-7927,AZ477,Reed & Pioneer Parks,(HOT),,Mesa ,AZ,"Cruisy Area,(HOT)",Cruising Areas,1978,,-111.819674,33.416972,Verified Location
-7929,AZ478,Reed & Pioneer Parks,,,Mesa ,AZ,"(AYOR),Cruisy Area",Cruising Areas,1980,,-111.819674,33.416972,Verified Location
-7930,AZ184,Rest Stop,35 mi. S. on I-10 (Northbound),,Phoenix,AZ,Cruisy Area,Cruising Areas,1980,,-112.074037,33.448377,Location could not be verified. General city or location coordinates used.
-7931,AZ402,Rest Stop',Hwy 80 N.,,Tempe,AZ,"(AYOR),Cruisy Area",Cruising Areas,1980,,-111.940005,33.42551,Location could not be verified. General city or location coordinates used.
-7932,AZ028,River Bottom Lounge,,3611 S. 16th St.,Phoenix,AZ,"(C),(D)",Bars/Clubs,1970,,-112.0467392,33.4134456,Google Verified Location
-7933,AZ272,River R,(Disco),3686 E. Speedway,Tucson,AZ,"(HIP),(YC),(D),(*)",Bars/Clubs,1976,,-110.9135248,32.2358784,Google Verified Location
-7937,AZ442,Riverside Park,,,Yuma,AZ,Cruisy Area,Cruising Areas,1979,,-114.611635,32.72506,Verified Location
-7934,AZ443,Riverside Park,,,Yuma,AZ,Cruisy Area,Cruising Areas,1976,,-114.611635,32.72506,Verified Location
-7935,AZ449,Riverside Park,,,Yuma,AZ,Cruisy Area,Cruising Areas,1977,,-114.611635,32.72506,Verified Location
-7936,AZ451,Riverside Park,,,Yuma,AZ,Cruisy Area,Cruising Areas,1978,,-114.611635,32.72506,Verified Location
-7938,AZ405,Roadside Rest area,by Temple Bridge (caution),,Tempe,AZ,Cruisy Area,Cruising Areas,1974,,-111.941538,33.433171,Verified Location
-7939,AZ406,Roadside Rest area,by Temple Bridge (caution),,Tempe,AZ,Cruisy Area,Cruising Areas,1975,,-111.941538,33.433171,Verified Location
-7940,AZ371,Roman Inn,,31 No. 6th Ave,Tucson,AZ,(M),Hotel,1978,,-110.9687983,32.2224811,Google Verified Location
-7943,AZ458,Ruth's Coffee Shop,,38 W. 2nd St.,Yuma,AZ,"(M),(R)",Restaurant,1978,,-114.6189651,32.7242805,Google Verified Location
-7941,AZ459,Ruth's Coffee Shop,,38 W. 2nd St.,Yuma,AZ,"(M),(R)",Restaurant,1980,,-114.6189651,32.7242805,Google Verified Location
-7942,AZ460,Ruth's Coffee Shop,,38 W. 2nd St.,Yuma,AZ,"(M),(R)",Restaurant,1979,,-114.6189651,32.7242805,Google Verified Location
-7944,AZ461,Ruth's Coffee Shop,,38 W. 2nd St.,Yuma,AZ,"(M),(R),(C),(AH)",Restaurant,1977,,-114.6189651,32.7242805,Google Verified Location
-7945,AZ462,Ruth's Coffee Shop,,38 W. 2nd St.,Yuma,AZ,"(M),(R),(C),(AH)",Restaurant,1976,,-114.6189651,32.7242805,Google Verified Location
-7946,AZ064,S.S Jug,(Unisex),4101 E. Washington,Phoenix,AZ,"(YC),(D)",Bars/Clubs,1974,,-111.9926394,33.4477851,Google Verified Location
-7947,AZ384,Sambo's,(Across from Jekyll's),,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1980,,-110.997332,32.260884,Verified Location
-7948,AZ213,San Carlos Hotel Bar,San Carlos Hotel,202 S. Central,Phoenix,AZ,"(M),(RT)","Hotel,Bars/Clubs",1970,,-112.0740689,33.4460591,Google Verified Location
-7949,AZ304,Santa Rita Hotel Bar,,109 S Scott,Tucson,AZ,(M),"Bars/Clubs,Hotel",1965,,-110.9697115,32.2208324,Google Verified Location
-7950,AZ094,Seventy-One Hundred North,(The Habit),7100 N. 7th St.,Phoenix,AZ,"(G),(D),(*)",Bars/Clubs,1978,,-112.0654829,33.5403113,Google Verified Location
-7951,AZ420,Shack Book Store,,3024 N. Scottsdale Dr.,Scottsdale,AZ,(M),Book Store,1980,,-111.927471,33.4829715,Google Verified Location
-7955,AZ421,Shack Book Store,,3024 N. Scottsdale Dr.,Scottsdale,AZ,(M),Book Store,1976,,-111.927471,33.4829715,Google Verified Location
-7953,AZ422,Shack Book Store,,3024 N. Scottsdale Dr.,Scottsdale,AZ,(M),Book Store,1978,,-111.927471,33.4829715,Google Verified Location
-7954,AZ423,Shack Book Store,,3024 N. Scottsdale Dr.,Scottsdale,AZ,(M),Book Store,1977,,-111.927471,33.4829715,Google Verified Location
-7952,AZ424,Shack Book Store,,3024 N. Scottsdale Dr.,Scottsdale,AZ,(M),Book Store,1979,,-111.927471,33.4829715,Google Verified Location
-7956,AZ387,Shakey Drake's,,100 blk of San Francisco Street,Flagstaff,AZ,(M),Bars/Clubs,1976,,-111.648919,35.195423,Location could not be verified. General city or location coordinates used.
-7957,AZ243,Shanty,,4th Ave at 9th St.,Tucson,AZ,(M),Bars/Clubs,1976,,-110.965531,32.223855,Verified Location
-7958,AZ472,Side Door,,441 E. Main,Mesa ,AZ,"(M),(W)",Bars/Clubs,1978,,-111.8215017,33.4149851,Google Verified Location
-7960,AZ244,Sir James,,4241 N. Oracle Rd.,Tucson,AZ,"(YC),(D),(*)",Bars/Clubs,1973,,-110.9798594,32.2836866,Google Verified Location
-7959,AZ256,Sir James,,4241 N. Oracle Rd.,Tucson,AZ,"(D),(*)",Bars/Clubs,1974,,-110.9798594,32.2836866,Google Verified Location
-7961,AZ257,Sir James,,4241 N. Oracle Rd.,Tucson,AZ,"(YC),(D),(*)",Bars/Clubs,1972,,-110.9798594,32.2836866,Google Verified Location
-7962,AZ267,Sir James,,4241 N. Oracle Rd.,Tucson,AZ,"(YC),(D),(*)",Bars/Clubs,1971,,-110.9798594,32.2836866,Google Verified Location
-7963,AZ428,Sky Chief,(Bar only-WE),1530 E. 32nd,Yuma,AZ,(M),Bars/Clubs,1977,,-114.6062893,32.6699735,Google Verified Location
-7964,AZ429,Sky Chief,(Bar only-WE),1530 E. 32nd,Yuma,AZ,(M),Bars/Clubs,1976,,-114.6062893,32.6699735,Google Verified Location
-7966,AZ430,Sky Chief ,(Bar only-WE) ,1530 E. 32nd St.,Yuma,AZ,"(M),(WE)",Bars/Clubs,1979,,-114.6062893,32.6699735,Google Verified Location
-7965,AZ432,Sky Chief ,(Bar only-WE) ,1530 E. 32nd St.,Yuma,AZ,"(M),(WE)",Bars/Clubs,1980,,-114.6062893,32.6699735,Google Verified Location
-7968,AZ053,South Seas,,32 E. Monroe,Phoenix,AZ,,Bars/Clubs,1966,,-112.0727166,33.4507949,Google Verified Location
-7969,AZ091,South Seas,,32 E. Monroe,Phoenix,AZ,(*),Bars/Clubs,1965,,-112.0727166,33.4507949,Google Verified Location
-7967,AZ098,South Seas,,32 E. Monroe,Phoenix,AZ,,Bars/Clubs,1968,,-112.0727166,33.4507949,Google Verified Location
-7971,AZ313,Speedway Adult Books,,3660 E. Speedway,Tucson,AZ,,Book Store,1978,,-110.9142359,32.2356327,Google Verified Location
-7970,AZ320,Speedway Adult Books,,3660 E. Speedway,Tucson,AZ,(M),Book Store,1979,,-110.9142359,32.2356327,Google Verified Location
-7973,AZ037,Sportsmen ,,4622 N. 7th St.,Phoenix,AZ,(*),Bars/Clubs,1971,,-112.0653068,33.5044783,Google Verified Location
-7974,AZ055,Sportsmen ,,4622 N. 7th St.,Phoenix,AZ,(*),Bars/Clubs,1970,,-112.0653068,33.5044783,Google Verified Location
-7972,AZ061,Sportsmen , (Also (C) after hours next door),4622 N. 7th St.,Phoenix,AZ,"(*),(D),(C)",Bars/Clubs,1972,,-112.0653068,33.5044783,Google Verified Location
-7975,AZ022,Sportsmen Lounge,(Disco) (C-AH-WE*),4622 N. 7th St.,Phoenix,AZ,"(D),(PT),(C),(AH),(WE),(*)",Bars/Clubs,1980,,-112.0653068,33.5044783,Google Verified Location
-7976,AZ023,Sportsmen Lounge,(Disco) (C-AH-WE*) (Some G),4622 N. 7th St.,Phoenix,AZ,"(D),(PT),(C),(AH),(WE),(*),(G)",Bars/Clubs,1979,,-112.0653068,33.5044783,Google Verified Location
-7980,AZ030,Sportsmen Lounge, (Also coffee after hours next door),4622 N. 7th St.,Phoenix,AZ,"(*),(HIP),(YC),(D)",Bars/Clubs,1973,,-112.0653068,33.5044783,Google Verified Location
-7977,AZ065,Sportsmen Lounge,(Disco) (also C-AH),4622 N. 7th St.,Phoenix,AZ,"(D),(PT),(C),(AH)",Bars/Clubs,1978,,-112.0653068,33.5044783,Google Verified Location
-7979,AZ078,Sportsmen Lounge,(Disco) (Also (C) (AH) enter through rear parking lot),4622 N. 7th St.,Phoenix,AZ,"(*),(D),(C),(AH),(HIP),(RT)",Bars/Clubs,1976,,-112.0653068,33.5044783,Google Verified Location
-7978,AZ083,Sportsmen Lounge,(Disco) (Some B) (Also C-AH),4622 North. 7th St.,Phoenix,AZ,"(*),(D),(B),(C),(AH)",Bars/Clubs,1977,,-112.0653068,33.5044783,Google Verified Location
-7982,AZ129,Sportsmen Lounge, (Also (C) (R) after hours next door at the 'Other Side' ,4622 N. 7th St.,Phoenix,AZ,"(*),(HIP),(YC),(D),(C),(R)","Bars/Clubs,Restaurant",1974,,-112.0653068,33.5044783,Google Verified Location
-7981,AZ131,Sportsmen Lounge,(Disco) (Also (C) (R) after hours - Enter through parking lot in rear),4622 N. 7th St.,Phoenix,AZ,"(*),(HIP),(YC),(D),(C),(R)","Bars/Clubs,Restaurant",1975,,-112.0653068,33.5044783,Google Verified Location
-7984,AZ479,St. Elmo's,,36 Brewery Gulch Ave.,Bisbee,AZ,"(M),(HIP),(YC)",Bars/Clubs,1979,,-109.9133553,31.4485845,Google Verified Location
-7985,AZ480,St. Elmo's,,36 Brewery Gulch Ave.,Bisbee,AZ,"(M),(HIP),(YC)",Bars/Clubs,1978,,-109.9133553,31.4485845,Google Verified Location
-7983,AZ481,St. Elmo's,,36 Brewery Gulch Ave.,Bisbee,AZ,"(M),(HIP),(YC)",Bars/Clubs,1980,,-109.9133553,31.4485845,Google Verified Location
-7989,AZ456,Stardust Motel Lounge,,2350 S. 4th St. ,Yuma,AZ,"(M),(E),(R)","Hotel,Restaurant",1977,,-114.6256313,32.685289,Google Verified Location
-7988,AZ453,Stardust Motel Lounge,,2350 S. 4th St. ,Yuma,AZ,"(M),(E)",Hotel,1978,,-114.6256313,32.685289,Google Verified Location
-7987,AZ454,Stardust Motel Lounge,,2350 S. 4th St. ,Yuma,AZ,"(M),(E)",Hotel,1979,,-114.6256313,32.685289,Google Verified Location
-7990,AZ457,Stardust Motel Lounge,,2350 S. 4th St. ,Yuma,AZ,"(M),(E),(R)","Hotel,Restaurant",1976,,-114.6256313,32.685289,Google Verified Location
-7986,AZ455,Stardust Motel Lounge,,2350 S. 4th St. ,Yuma,AZ,"(M),(E)",Hotel,1980,,-114.6256313,32.685289,Google Verified Location
-7991,AZ242,Stonewall,"(Disco) (Wednesday-Friday- and Saturday only-adjoins ""The Back Pocket"" ",2921 N. 1st Avenue,Tucson,AZ,"(*),(YC),(D)",Bars/Clubs,1977,,-110.9614089,32.2607716,Google Verified Location
-7992,AZ261,Stonewall,(Disco) ,2921 N. 1st Avenue,Tucson,AZ,"(HIP),(YC),(D),(*)",Bars/Clubs,1976,,-110.9614089,32.2607716,Google Verified Location
-7994,AZ306,Stonewall,(Disco) May be opening patio (R) in back,2921 N. 1st Avenue,Tucson,AZ,"(HIP),(YC),(D),(*),(R)","Bars/Clubs,Restaurant",1975,,-110.9614089,32.2607716,Google Verified Location
-7993,AZ281,Stonewall,,2921 N. 1st Avenue,Tucson,AZ,"(YC),(D),(*)",Bars/Clubs,1974,,-110.9614089,32.2607716,Google Verified Location
-7995,AZ073,Sugar Shack,(Some G) ,4211 N. 7th St.,Phoenix,AZ,"(G),(D)",Bars/Clubs,1976,,-112.0648,33.4969979,Google Verified Location
-7996,AZ104,Sugar Shack,,4211 N. 7th St.,Phoenix,AZ,,Bars/Clubs,1975,,-112.0648,33.4969979,Google Verified Location
-7998,AZ205,Swim & Sea Athletic Club,"(Men only, swim pool, sauna) (Cruisy) Desert Pool Motel",2922 E. Van Buren,Phoenix,AZ,(*),"Cruising Areas,Organizations,Hotel",1979,,-112.0181314,33.4515707,Google Verified Location
-7999,AZ218,Swim & Sea Athletic Club,(Men only)Desert Pool Motel,2922 E. Van Buren,Phoenix,AZ,(*),"Organizations,Hotel",1978,,-112.0181314,33.4515707,Google Verified Location
-7997,AZ206,Swim & Sea Athletic Club,"(Men only, swim pool, sauna) (Cruisy) Desert Pool Motel",2922 E. Van Buren,Phoenix,AZ,(*),"Cruising Areas,Organizations,Hotel",1980,,-112.0181314,33.4515707,Google Verified Location
-8002,AZ004,Talk of the Town,(Some G),3701 N. 16th St. ,Phoenix,AZ,"(*),(G)",Bars/Clubs,1978,,-112.0473122,33.4905365,Google Verified Location
-8001,AZ011,Talk of the Town,(Disco),3701 N. 16th St. ,Phoenix,AZ,"(D),(*),(G)",Bars/Clubs,1979,,-112.0473122,33.4905365,Google Verified Location
-8000,AZ012,Talk of the Town,(Disco) ,3701 N. 16th St. ,Phoenix,AZ,"(L),(D),(*)",Bars/Clubs,1980,,-112.0473122,33.4905365,Google Verified Location
-8003,AZ239,The Ranch,(approx 40 mi. NE of Phoenix,,Lower Lake Pleasant,AZ,(H),Hotel,1968,,-112.27299,33.839982,Location could not be verified. General city or location coordinates used.
-8004,AZ240,The Ranch,(approx 40 Mi. N.E. of Phoenix,,Lower Lake Pleasant,AZ,(H),Hotel,1969,,-112.27299,33.839982,Location could not be verified. General city or location coordinates used.
-8005,AZ018,Three-O-Seven,,222 E. Roosevelt at N. 3rd St.,Phoenix,AZ,"(RT),(*)",Bars/Clubs,1974,,-112.070155,33.458785,Verified Location
-8013,AZ002,Three-O-Seven Club,,222 E. Roosevelt at N. 3rd St.,Phoenix,AZ,"(OC),(*)",Bars/Clubs,1977,,-112.070155,33.458785,Verified Location
-8012,AZ003,Three-O-Seven Club,,222 E. Roosevelt at N. 3rd St.,Phoenix,AZ,"(OC),(*)",Bars/Clubs,1976,,-112.070155,33.458785,Verified Location
-8010,AZ005,Three-O-Seven Club,,E. Roosevelt at N. 3rd St.,Phoenix,AZ,"(RT),(*)",Bars/Clubs,1973,,-112.070155,33.458785,Verified Location
-8006,AZ009,Three-O-Seven Club,,E. Roosevelt at N. 3rd St.,Phoenix,AZ,(RT),Bars/Clubs,1969,,-112.070155,33.458785,Verified Location
-8008,AZ013,Three-O-Seven Club,,E. Roosevelt & N. 3rd St.,Phoenix,AZ,(*),Bars/Clubs,1971,,-112.070155,33.458785,Verified Location
-8011,AZ014,Three-O-Seven Club,,222 E. Roosevelt at N. 3rd St.,Phoenix,AZ,"(RT),(*)",Bars/Clubs,1975,,-112.070155,33.458785,Verified Location
-8009,AZ016,Three-O-Seven Club,,E. Roosevelt & N. 3rd St.,Phoenix,AZ,(*),Bars/Clubs,1972,,-112.070155,33.458785,Verified Location
-8007,AZ017,Three-O-Seven Club,,E. Roosevelt 3rd St.,Phoenix,AZ,(*),Bars/Clubs,1970,,-112.070155,33.458785,Verified Location
-8015,AZ007,Three-O-Seven Lounge,,222 E. Roosevelt N. 3rd St.,Phoenix,AZ,"(OC),(PT)",Bars/Clubs,1979,,-112.068901,33.4588546,Google Verified Location
-8014,AZ008,Three-O-Seven Lounge,,222 E. Roosevelt N. 3rd St.,Phoenix,AZ,"(OC),(PT)",Bars/Clubs,1980,,-112.068901,33.4588546,Google Verified Location
-8016,AZ010,Three-O-Seven Lounge,(Some OC),222 E. Roosevelt at N. 3rd St.,Phoenix,AZ,"(OC),(PT),(*)",Bars/Clubs,1978,,-112.070155,33.458785,Verified Location
-8018,AZ001,Tool Shed,(also (C) after hrs.) ,3558 Grand Ave.,Phoenix,AZ,"(D),(C)",Bars/Clubs,1971,,-112.1356655,33.4964881,Google Verified Location
-8017,AZ015,Tool Shed,,3558 Grand Ave,Phoenix,AZ,"(D),(M)",Bars/Clubs,1972,,-112.1356655,33.4964881,Google Verified Location
-8019,AZ366,Toole Box,(Cruisy maze & 'wild back room') (Enter thru lobby of MacArthur Hotel) ,347 E. Toole Ave,Tucson,AZ,"(P),(AH),(BYOB),(*)","Cruising Areas,Bars/Clubs,Hotel",1980,,-110.9676647,32.2232719,Google Verified Location
-8020,AZ367,Toole Box,(Cruisy maze & 'wild back room') (Enter thru lobby of MacArthur Hotel) ,347 E. Toole Ave,Tucson,AZ,"(P),(AH),(BYOB),(*)","Cruising Areas,Bars/Clubs,Hotel",1979,,-110.9676647,32.2232719,Google Verified Location
-8021,AZ473,Tri-City Mall,,,Mesa ,AZ,Cruisy Area,Cruising Areas,1978,,-111.873996,33.414851,Verified Location
-8022,AZ474,Tri-City Mall,,,Mesa ,AZ,Cruisy Area,Cruising Areas,1979,,-111.873996,33.414851,Verified Location
-8023,AZ475,Tri-City Mall,,,Mesa ,AZ,Cruisy Area,Cruising Areas,1980,,-111.873996,33.414851,Verified Location
-8024,AZ241,Triangle Bar,(Some G),1413 E. Factory Avenue ,Tucson,AZ,"(M),(G)",Bars/Clubs,1975,,-110.9268955,32.2213099,Google Verified Location
-8025,AZ329,Truth Chapel ,,2640 N. Dodge,Tucson,AZ,(MCC),Church,1980,,-110.9137966,32.2550097,Google Verified Location
-8026,AZ333,U. of Ariz.,Economics Bldg-1st floor T-Room,,Tucson,AZ,Cruisy Area,Cruising Areas,1978,,-110.950109,32.231885,Verified Location
-8028,AZ368,U. of Arizona,Econ. Bldg-1st floor T-Room,,Tucson,AZ,Cruisy Area,"Cruising Areas,Organizations",1979,,-110.950109,32.231885,Verified Location
-8029,AZ337,U. of Arizona,Econ. Bldg-1st floor T-Room,,Tucson,AZ,Cruisy Area,Cruising Areas,1980,,-110.950109,32.231885,Verified Location
-8027,AZ338,U. of Arizona,Economics Bldg-1st floor T-Room,,Tucson,AZ,Cruisy Area,Cruising Areas,1976,,-110.950109,32.231885,Verified Location
-8030,AZ390,U. of N. Arizona,Basement T-Room,,Flagstaff,AZ,Cruisy Area,"Cruising Areas,Organizations",1978,,-111.653968,35.18044,Verified Location
-8031,AZ391,U. of N. Arizona,Basement T-Room,,Flagstaff,AZ,Cruisy Area,"Cruising Areas,Organizations",1979,,-111.653968,35.18044,Verified Location
-8032,AZ142,Uncle Ted's Bookstore,,1800 E. McDowell Rd.,Phoenix,AZ,,Book Store,1978,,-112.0433394,33.465779,Google Verified Location
-8033,AZ160,Uncle Ted's Bookstore,(Cruisy),1800 E. McDowell Rd.,Phoenix,AZ,(*),"Book Store,Cruising Areas",1977,,-112.0433394,33.465779,Google Verified Location
-8037,AZ393,Union 76 Truck Stop,,,Toltec,AZ,Cruisy Area,Cruising Areas,1980,,-111.617776,32.773731,Location could not be verified. General city or location coordinates used.
-8036,AZ394,Union 76 Truck Stop,,,Toltec,AZ,Cruisy Area,Cruising Areas,1979,,-111.617776,32.773731,Location could not be verified. General city or location coordinates used.
-8034,AZ395,Union 76 Truck Stop,,,Toltec,AZ,Cruisy Area,Cruising Areas,1977,,-111.617776,32.773731,Location could not be verified. General city or location coordinates used.
-8035,AZ396,Union 76 Truck Stop,,,Toltec,AZ,Cruisy Area,Cruising Areas,1978,,-111.617776,32.773731,Location could not be verified. General city or location coordinates used.
-8038,AZ331,University of Arizona,Economics Bldg-1st floor T-Room,,Tucson,AZ,Cruisy Area,Cruising Areas,1977,,-110.950109,32.231885,Verified Location
-8040,AZ219,Unlimited,,2320 N. 32nd at Oak,Phoenix,AZ,"(G),(R),(*)",Restaurant,1979,,-112.013194,33.473851,Verified Location
-8039,AZ221,Unlimited,,2320 N. 32nd at Oak,Phoenix,AZ,"(G),(*)",Restaurant,1978,,-112.013194,33.473851,Verified Location
-8041,AZ220,Unlimited ,,2320 N. 32nd Oak,Phoenix,AZ,"(R),(L)",Restaurant,1980,,-112.0132072,33.4738447,Google Verified Location
-8042,AZ399,Varisty Inn,,801. E. Apache,Tempe,AZ,"(M),(YC)","Bars/Clubs,Hotel",1974,,-111.9271674,33.4144523,Google Verified Location
-8043,AZ397,Varisty Lounge,,801. E. Apache,Tempe,AZ,"(M),(YC)",Bars/Clubs,1975,,-111.9271674,33.4144523,Google Verified Location
-8047,AZ416,Venus Book Store,(Cruisy),4715 W. Glendale,Glendale,AZ,(*),"Book Store,Cruising Areas",1979,,-112.1607596,33.538086,Google Verified Location
-8048,AZ417,Venus Book Store,(Cruisy),4715 W. Glendale,Glendale,AZ,(*),"Book Store,Cruising Areas",1978,,-112.1607596,33.538086,Google Verified Location
-8044,AZ414,Venus Book Store,,4715 W. Glendale,Glendale,AZ,,Book Store,1977,,-112.1607596,33.538086,Google Verified Location
-8046,AZ418,Venus Book Store,(Cruisy),4715 W. Glendale,Glendale,AZ,(*),"Book Store,Cruising Areas",1980,,-112.1607596,33.538086,Google Verified Location
-8045,AZ415,Venus Book Store,,4715 W. Glendale,Glendale,AZ,,Book Store,1976,,-112.1607596,33.538086,Google Verified Location
-8050,AZ374,Village,,1500 N. Miracle Mile,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1977,,-110.9974423,32.2612915,Google Verified Location
-8049,AZ377,Village,,1500 N. Miracle Mile,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1978,,-110.9974423,32.2612915,Google Verified Location
-8051,AZ375,Village Inn,,1500 N. Miracle Mile,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1976,,-110.9974423,32.2612915,Google Verified Location
-8052,AZ376,Village Inn,,1500 N. Miracle Mile,Tucson,AZ,"(M),(R),(C),(AH)",Restaurant,1975,,-110.9974423,32.2612915,Google Verified Location
-8053,AZ419,Walden's Book Store,,Camelview Plaza Mall,Scottsdale,AZ,,Book Store,1978,,-111.929319,33.502792,Verified Location
-8055,AZ332,Walgreen's,Stone & Congress,,Tucson,AZ,Cruisy Area,Cruising Areas,1979,,-110.971264,32.221874,Verified Location
-8054,AZ334,Walgreen's,Stone & Congress,,Tucson,AZ,Cruisy Area,Cruising Areas,1977,,-110.971264,32.221874,Verified Location
-8056,AZ336,Walgreen's,Stone & Congress,,Tucson,AZ,Cruisy Area,Cruising Areas,1980,,-110.971264,32.221874,Verified Location
-8057,AZ335,Walgren's,Stone & Congress,,Tucson,AZ,Cruisy Area,Cruising Areas,1978,"Misspelled in entry in book, Walgreens",-110.971264,32.221874,Verified Location
-8058,AZ212,Westward Ho Hotel Bar,,618 N Central Av,Phoenix,AZ,(M),"Hotel,Bars/Clubs",1965,,-112.0740651,33.455161,Google Verified Location
-8059,AZ238,Wherehouse Theatre,,1832 Grand Ave,Phoenix,AZ,,Theatre,1980,,-112.0988903,33.4649573,Google Verified Location
-8060,AZ006,Wild Willie's,,1622 Grand Ave.,Phoenix,AZ,"(W),(SM),(*)",Bars/Clubs,1976,,-112.0941036,33.461229,Google Verified Location
-8061,AZ141,Woman's Place,"(Books, etc.)",32nd & Oak,Phoenix,AZ,,Book Store,1979,,-112.012932,33.473114,Verified Location
-8062,AZ143,Woman's Place,"(Books, etc.)",32nd & Oak,Phoenix,AZ,,Book Store,1980,,-112.012932,33.473114,Verified Location
-8066,AZ437,Yuma Downtown Mall,,,Yuma,AZ,Cruisy Area,Cruising Areas,1979,,-114.627692,32.692651,Location could not be verified. General city or location coordinates used.
-8064,AZ438,Yuma Downtown Mall,,,Yuma,AZ,Cruisy Area,Cruising Areas,1977,,-114.627692,32.692651,Location could not be verified. General city or location coordinates used.
-8065,AZ439,Yuma Downtown Mall,,,Yuma,AZ,Cruisy Area,Cruising Areas,1978,,-114.627692,32.692651,Location could not be verified. General city or location coordinates used.
-8067,AZ440,Yuma Downtown Mall,,,Yuma,AZ,Cruisy Area,Cruising Areas,1980,,-114.627692,32.692651,Location could not be verified. General city or location coordinates used.
-8063,AZ441,Yuma Downtown Mall,,,Yuma,AZ,Cruisy Area,Cruising Areas,1976,,-114.627692,32.692651,Location could not be verified. General city or location coordinates used.
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"'Hitch-hikers' on 4th Ave. & Hwy. 8","","","Yuma","AZ","Cruisy Area","Cruising Areas",1978,"",-114.624535,32.731581,"Verified Location",NA,NA,NA,"1978-AZ-0001"
+"'Hitch-hikers' on 4th Ave. & Hwy. 8","","","Yuma","AZ","Cruisy Area","Cruising Areas",1980,"",-114.624535,32.731581,"Verified Location",NA,NA,NA,"1980-AZ-0002"
+"'Hitch-hikers' on 4th Ave. & Hwy. 8","","","Yuma","AZ","Cruisy Area","Cruising Areas",1979,"",-114.624535,32.731581,"Verified Location",NA,NA,NA,"1979-AZ-0003"
+"'Hitch-hikers' on 4th Avenue & Hwy. 8","","","Yuma","AZ","Cruisy Area","Cruising Areas",1977,"",-114.624535,32.731581,"Verified Location",NA,NA,NA,"1977-AZ-0004"
+"'Hitch-hikers' on 4th Avenue & Hwy. 8","","","Yuma","AZ","Cruisy Area","Cruising Areas",1976,"",-114.624535,32.731581,"Verified Location",NA,NA,NA,"1976-AZ-0005"
+"'Hitch-Hikers' on E. Speedway","","","Tucson","AZ","Cruisy Area","Cruising Areas",1979,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1979-AZ-0006"
+"'Hitch-Hikers' on E. Speedway","","","Tucson","AZ","Cruisy Area","Cruising Areas",1980,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1980-AZ-0007"
+"'Hitch-Hikers' on E. Speedway","","","Tucson","AZ","Cruisy Area","Cruising Areas",1976,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1976-AZ-0008"
+"'Hitch-Hikers' on E. Speedway","","","Tucson","AZ","Cruisy Area","Cruising Areas",1978,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1978-AZ-0009"
+"'Hitch-Hikers' on East Speedway","","","Tucson","AZ","Cruisy Area","Cruising Areas",1977,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1977-AZ-0010"
+"'Hitch-hikers' on Van Buren","betw. 3rd Ave & 3rd Street","","Phoenix","AZ","Cruisy Area","Cruising Areas",1977,"",-112.077996,33.451347,"Verified Location",NA,NA,NA,"1977-AZ-0011"
+"'Hitch-hikers' on Van Buren","betw. 3rd Ave & 3rd St.","","Phoenix","AZ","Cruisy Area","Cruising Areas",1978,"",-112.077996,33.451347,"Verified Location",NA,NA,NA,"1978-AZ-0012"
+"'Hitch-hikers' on Van Buren","betw. 3rd Ave & 3rd St.","","Phoenix","AZ","Cruisy Area","Cruising Areas",1979,"",-112.077996,33.451347,"Verified Location",NA,NA,NA,"1979-AZ-0013"
+"'Hitch-hikers' on Van Buren","betw. 3rd Ave & 3rd St.","","Phoenix","AZ","Cruisy Area","Cruising Areas",1980,"",-112.077996,33.451347,"Verified Location",NA,NA,NA,"1980-AZ-0014"
+"'Hitch-hikers' on Van Buren","betw. 3rd Ave & 3rd Street","","Phoenix","AZ","Cruisy Area","Cruising Areas",1976,"",-112.077996,33.451347,"Verified Location",NA,NA,NA,"1976-AZ-0015"
+"A. S. U.","Student Union-Library & Old Gym T-Rooms","","Tempe","AZ","Cruisy Area","Cruising Areas",1980,"",-111.928053,33.42424,"Verified Location",NA,NA,NA,"1980-AZ-0016"
+"A. S. U.","Student Union-Library & Old Gym T-Rooms","","Tempe","AZ","Cruisy Area","Cruising Areas",1979,"",-111.928053,33.42424,"Verified Location",NA,NA,NA,"1979-AZ-0017"
+"A.S.U.","Student Union, Library, & old Gym T-Rooms","","Tempe","AZ","Cruisy Area","Cruising Areas,Organizations",1978,"",-111.928053,33.42424,"Verified Location",NA,NA,NA,"1978-AZ-0018"
+"Act III","","3331 N. 24th St. E","Phoenix","AZ","(P),(D),(YC)","Bars/Clubs",1970,"",-112.0298551,33.4870908,"Google Verified Location",NA,NA,NA,"1970-AZ-0019"
+"Act III","","3331 N. 24th St. E","Phoenix","AZ","(P),(D),(YC)","Bars/Clubs",1969,"",-112.0298551,33.4870908,"Google Verified Location",NA,NA,NA,"1969-AZ-0020"
+"Act III","(after hours)* ","1048 N. Main St.","Tucson","AZ","(C),(*),(P),(D)","Bars/Clubs",1971,"",-110.977633,32.2352692,"Google Verified Location",NA,NA,NA,"1971-AZ-0021"
+"AGN","(Newspaper) P.O Box 5002 Tucson, AZ 85703","","Tucson","AZ","","Organizations",1980,"P.O Box and a little unsure of type",-110.974711,32.222607,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0022"
+"Arizona Escort Services","(602-279-9069)","","Phoenix","AZ","","Business",1980,"",-112.074037,33.448377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0023"
+"B & M Adult Books","","1904 So. Craycroft","Tucson","AZ","","Book Store",1978,"",-110.8754227,32.1994213,"Google Verified Location",NA,NA,NA,"1978-AZ-0024"
+"Back Door","($1.00 adm. weekends after hours) (Behind Western Escape #2)","2101 E. McDowell Rd.","Phoenix","AZ","(P),(YC),(G),(S),(C),(*)","Bars/Clubs",1973,"",-112.0363023,33.4652309,"Google Verified Location",NA,NA,NA,"1973-AZ-0025"
+"Back Door ","(Bookstore & adjacent baths) (Tues*) ","3309 E. Michigan","Tucson","AZ","(*)","Baths,Book Store",1978,"",-110.921814,32.170871,"Google Verified Location",NA,NA,NA,"1978-AZ-0026"
+"Back Door Book Store","","3309 E. Michigan","Tucson","AZ","","Book Store",1977,"",-110.921814,32.170871,"Google Verified Location",NA,NA,NA,"1977-AZ-0027"
+"Back Door Club Baths","(Looks promising) (Adjacent to above Book Store)","3309 East Michigan","Tucson","AZ","","Baths",1977,"",-110.921814,32.170871,"Google Verified Location",NA,NA,NA,"1977-AZ-0028"
+"Back Door Club Baths & Book Store","(Tues*) ","3309 E. Michigan","Tucson","AZ","(*)","Baths,Book Store",1979,"",-110.921814,32.170871,"Google Verified Location",NA,NA,NA,"1979-AZ-0029"
+"Back Pocket","(Behind Joshua Tree) (Lunches too)","","Tucson","AZ","(R)","Restaurant",1980,"",-110.961409,32.260772,"Verified Location",NA,NA,NA,"1980-AZ-0030"
+"Back Pocket","(see Joshua Tree)","","Tucson","AZ","","Restaurant",1979,"",-110.961409,32.260772,"Verified Location",NA,NA,NA,"1979-AZ-0031"
+"Back Pocket ","(Game Room) (Sunday-barbeque-5-7 p.m- a ""must""- adjacent to The Stonewall)","2921 N. 1st Ave.","Tucson","AZ","(YC),(PT),(*)","Restaurant,Bars/Clubs",1977,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1977-AZ-0032"
+"Back Pocket ","(Sunday barbeque-ad- joins Joshua Tree","2921 N. 1st Ave.","Tucson","AZ","(YC),(PT),(*)","Restaurant,Bars/Clubs",1978,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1978-AZ-0033"
+"Bali Hi","","1515 Grande Avenue","Phoenix","AZ","(M),(R),(C),(AH)","Restaurant",1977,"",-112.0923955,33.4591536,"Google Verified Location",NA,NA,NA,"1977-AZ-0034"
+"Band Box","","4516 N. 19th Ave. ","Phoenix","AZ","(M),(S)","Bars/Clubs",1980,"",-112.1005076,33.5029875,"Google Verified Location",NA,NA,NA,"1980-AZ-0035"
+"Barney's Book Store","","1321 E. McDowell","Phoenix","AZ","(M)","Book Store",1976,"",-112.0533202,33.4655443,"Google Verified Location",NA,NA,NA,"1976-AZ-0036"
+"Barney's Book Store","","1321 E. McDowell","Phoenix","AZ","(M)","Book Store",1978,"",-112.0533202,33.4655443,"Google Verified Location",NA,NA,NA,"1978-AZ-0037"
+"Barney's Book Store","","1321 E. McDowell","Phoenix","AZ","(M)","Book Store",1977,"",-112.0533202,33.4655443,"Google Verified Location",NA,NA,NA,"1977-AZ-0038"
+"Best. Dist. Co.","(Adult toys & novelties) P.O. Box 1392 Phoenix, AZ 85001","","Phoenix","AZ","","Business",1980,"P.O Box",-112.074037,33.448377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0039"
+"Birdcage Lounge","","Downtown Yuma Mall","Yuma","AZ","(M),(YC),(E),(HIP)","Bars/Clubs",1977,"",-114.617525,32.723533,"Verified Location",NA,NA,NA,"1977-AZ-0040"
+"Birdcage Lounge","","Downtown Yuma Mall","Yuma","AZ","(M),(YC),(E),(HIP)","Bars/Clubs",1976,"",-114.617525,32.723533,"Verified Location",NA,NA,NA,"1976-AZ-0041"
+"Birdcage Lounge","","Downtown Yuma Mall","Yuma","AZ","(M),(YC),(E)","Bars/Clubs",1980,"",-114.617525,32.723533,"Verified Location",NA,NA,NA,"1980-AZ-0042"
+"Birdcage Lounge","","Downtown Yuma Mall","Yuma","AZ","(M),(YC),(E)","Bars/Clubs",1979,"",-114.617525,32.723533,"Verified Location",NA,NA,NA,"1979-AZ-0043"
+"Birdcage Lounge","","Downtown Yuma Mall","Yuma","AZ","(M),(YC),(E)","Bars/Clubs",1978,"",-114.617525,32.723533,"Verified Location",NA,NA,NA,"1978-AZ-0044"
+"Black & White","","7100 N. 7th St.","Phoenix","AZ","(G),(D)","Bars/Clubs",1979,"",-112.0654829,33.5403113,"Google Verified Location",NA,NA,NA,"1979-AZ-0045"
+"Black Door","","345 E. Toole St.","Tucson","AZ","(M)","Bars/Clubs",1971,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1971-AZ-0046"
+"Black Door","","345 E. Toole St.","Tucson","AZ","(M)","Bars/Clubs",1969,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1969-AZ-0047"
+"Black Door","(nr Congress Hotel)","","Tucson","AZ","","Bars/Clubs",1966,"",-110.9747108,32.2226066,"Google Verified Location",NA,NA,NA,"1966-AZ-0048"
+"Black Door","","345 E. Toole St.","Tucson","AZ","(M)","Bars/Clubs",1970,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1970-AZ-0049"
+"Black Door","","345 E. Toole St.","Tucson","AZ","","Bars/Clubs",1968,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1968-AZ-0050"
+"Black Door ","","345 E. Toole","Tucson","AZ","(M),(RT)","Bars/Clubs",1974,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1974-AZ-0051"
+"Black Door ","","345 E. Toole","Tucson","AZ","(M),(RT)","Bars/Clubs",1973,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1973-AZ-0052"
+"Black Door ","","345 E. Toole","Tucson","AZ","(M),(RT)","Bars/Clubs",1975,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1975-AZ-0053"
+"Blue Jeans ","(24 hr. R) & Cocktail Lounge","4620 E. McDowell Rd. ","Phoenix","AZ","(R)","Restaurant,Bars/Clubs",1979,"",-111.9813595,33.4659213,"Google Verified Location",NA,NA,NA,"1979-AZ-0054"
+"Book Cellar","(Books)","2103 W.  Camelback Rd.","Phoenix","AZ","","Book Store",1980,"",-112.1044816,33.5093936,"Google Verified Location",NA,NA,NA,"1980-AZ-0055"
+"Book Cellar","(Books)","2205 N. Stone","Tucson","AZ","(M)","Book Store",1979,"",-110.9721175,32.2484443,"Google Verified Location",NA,NA,NA,"1979-AZ-0056"
+"Book Cellar","","2103 W.  Camelback Rd.","Phoenix","AZ","","Book Store",1977,"",-112.1044816,33.5093936,"Google Verified Location",NA,NA,NA,"1977-AZ-0057"
+"Book Cellar","","2103 W.  Camelback Rd.","Phoenix","AZ","","Book Store",1978,"",-112.1044816,33.5093936,"Google Verified Location",NA,NA,NA,"1978-AZ-0058"
+"Book Cellar","(Books)","2103 W.  Camelback Rd.","Phoenix","AZ","","Book Store",1979,"",-112.1044816,33.5093936,"Google Verified Location",NA,NA,NA,"1979-AZ-0059"
+"Book Cellar","(Books)","2205 N. Stone","Tucson","AZ","(M)","Book Store",1980,"",-110.9721175,32.2484443,"Google Verified Location",NA,NA,NA,"1980-AZ-0060"
+"Bookland","(Books)","3244 E. Speedway","Tucson","AZ","(M)","Book Store",1979,"",-110.9237097,32.2357998,"Google Verified Location",NA,NA,NA,"1979-AZ-0061"
+"Books Brothers","","3244 E. Speedway","Tucson","AZ","","Book Store",1980,"",-110.9237097,32.2357998,"Google Verified Location",NA,NA,NA,"1980-AZ-0062"
+"Brookshire","","McDowell at N. 16th ","Phoenix","AZ","(M),(R),(C),(AH)","Restaurant",1978,"",-112.0476875,33.4657742,"Google Verified Location",NA,NA,NA,"1978-AZ-0063"
+"Brookshire","","McDowell at North 16th","Phoenix","AZ","(M),(R),(C),(AH)","Restaurant",1977,"",-112.093437,33.46583,"Verified Location",NA,NA,NA,"1977-AZ-0064"
+"Brookshire","","McDowell at North 16th","Phoenix","AZ","(M),(R),(C),(AH)","Restaurant",1976,"",-112.093437,33.46583,"Verified Location",NA,NA,NA,"1976-AZ-0065"
+"Bud's Central Lounge","","33 S. Central","Phoenix","AZ","(M),(RT)","Bars/Clubs",1970,"",-112.0738245,33.4476018,"Google Verified Location",NA,NA,NA,"1970-AZ-0066"
+"Bull Pen Lounge","","25 E. 16th St","Douglas","AZ","(M)","Bars/Clubs",1978,"",-109.5483462,31.3506154,"Google Verified Location",NA,NA,NA,"1978-AZ-0067"
+"Caesar's Book Store","('Wild back room' -best early evenings) ","2540 N. Miracle Mile","Tucson","AZ","(*)","Book Store",1979,"",-111.0000831,32.2608476,"Google Verified Location",NA,NA,NA,"1979-AZ-0068"
+"Caesar's Book Store","(Wild back room best early evenings) ","2540 N. Miracle Mile","Tucson","AZ","(*)","Book Store",1980,"",-111.0000831,32.2608476,"Google Verified Location",NA,NA,NA,"1980-AZ-0069"
+"Captain's Table","","5538 N. 7th St. E","Phoenix","AZ","","Bars/Clubs",1965,"",-112.0654578,33.5179079,"Google Verified Location",NA,NA,NA,"1965-AZ-0070"
+"Captains Table","","5538 N. 7th St. E","Phoenix","AZ","","Bars/Clubs",1966,"",-112.0654578,33.5179079,"Google Verified Location",NA,NA,NA,"1966-AZ-0071"
+"Captains Table","","5338 N. 7th St. E","Phoenix","AZ","","Bars/Clubs",1969,"",-112.0654794,33.5151432,"Google Verified Location",NA,NA,NA,"1969-AZ-0072"
+"Captains Table","","5538 N. 7th St. E","Phoenix","AZ","","Bars/Clubs",1968,"",-112.0654578,33.5179079,"Google Verified Location",NA,NA,NA,"1968-AZ-0073"
+"Casa de Roma","","4331 N. 16th St.","Phoenix","AZ","(YC),(D),(*)","Bars/Clubs",1974,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1974-AZ-0074"
+"Casa de Roma","(Sun. brunch)","4331 N. 16th St.","Phoenix","AZ","(*),(YC),(D)","Bars/Clubs,Restaurant",1978,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1978-AZ-0075"
+"Casa de Roma","(S-WE)","4331 N. 16th St.","Phoenix","AZ","(YC),(D),(S),(WE),(*)","Bars/Clubs,Restaurant",1977,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1977-AZ-0076"
+"Casa de Roma","","4331 N. 16th St.","Phoenix","AZ","(S),(D),(*)","Bars/Clubs",1979,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1979-AZ-0077"
+"Casa de Roma","","4331 N. 16th St.","Phoenix","AZ","(YC),(D),(S),(*)","Bars/Clubs",1975,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1975-AZ-0078"
+"Casa de Roma","","4331 N. 16th St.","Phoenix","AZ","(YC),(D),(S),(*)","Bars/Clubs,Restaurant",1976,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1976-AZ-0079"
+"Casa Roma","","4331 N. 16th St.","Phoenix","AZ","(YC),(D),(*)","Bars/Clubs",1973,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1973-AZ-0080"
+"Catalina Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1974,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1974-AZ-0081"
+"Catalina Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1977,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1977-AZ-0082"
+"Catalina Park","(HOT)","","Tucson","AZ","Cruisy Area,(HOT)","Cruising Areas",1979,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1979-AZ-0083"
+"Catalina Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1973,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1973-AZ-0084"
+"Catalina Park","","","Tucson","AZ","Cruisy Area,(AYOR)","Cruising Areas",1980,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1980-AZ-0085"
+"Catalina Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1975,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1975-AZ-0086"
+"Catalina Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1978,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1978-AZ-0087"
+"Catalina Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1976,"",-110.96641,32.23361,"Verified Location",NA,NA,NA,"1976-AZ-0088"
+"Changing Hands","Woman's Place (Books, etc.)","9. E. 5th St.","Tempe","AZ","","Book Store",1978,"",-111.9395399,33.4253948,"Google Verified Location",NA,NA,NA,"1978-AZ-0089"
+"Club 3331","","3331 N 24th St.","Phoenix","AZ","","Bars/Clubs",1968,"",-112.0298551,33.4870908,"Google Verified Location",NA,NA,NA,"1968-AZ-0090"
+"Club Maroc","(Plans to open in spring of '75. Temporary facilities at 2222 E. Indian School Rd. Inquire Locally.)","","Phoenix","AZ","(P),(PE),(R),(D)","Baths,Restaurant",1976,"",-112.074037,33.448377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-AZ-0091"
+"Club Phoenix Baths","","1517 S. Black Canyon Rd.","Phoenix","AZ","(P),(*)","Baths",1980,"",-112.1072993,33.4337231,"Google Verified Location",NA,NA,NA,"1980-AZ-0092"
+"Club Phoenix Baths","","1517 So. Black Canyon Rd.","Phoenix","AZ","(P),(*)","Baths",1977,"",-112.1072993,33.4337231,"Google Verified Location",NA,NA,NA,"1977-AZ-0093"
+"Club Phoenix Baths","","1517 S. Black Canyon Rd.","Phoenix","AZ","","Baths",1974,"",-112.1072993,33.4337231,"Google Verified Location",NA,NA,NA,"1974-AZ-0094"
+"Club Phoenix Baths","","1517 S. Black Canyon Rd.","Phoenix","AZ","(*)","Baths",1975,"",-112.1072993,33.4337231,"Google Verified Location",NA,NA,NA,"1975-AZ-0095"
+"Club Phoenix Baths","","1517 So. Black Canyon Rd.","Phoenix","AZ","(P),(*)","Baths",1978,"",-112.1072993,33.4337231,"Google Verified Location",NA,NA,NA,"1978-AZ-0096"
+"Club Phoenix Baths","","1517 S. Black Canyon Rd.","Phoenix","AZ","(*)","Baths",1976,"",-112.1072993,33.4337231,"Google Verified Location",NA,NA,NA,"1976-AZ-0097"
+"Club Phoenix Baths","","1517 S. Black Canyon Rd.","Phoenix","AZ","(P),(*)","Baths",1979,"",-112.1072993,33.4337231,"Google Verified Location",NA,NA,NA,"1979-AZ-0098"
+"Congress","","311 E. Congress","Tucson","AZ","(M),(OC),(RT)","Bars/Clubs",1979,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1979-AZ-0099"
+"Congress","","311 E. Congress","Tucson","AZ","(M),(OC),(RT)","Bars/Clubs",1980,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1980-AZ-0100"
+"Congress Bar","","311 E. Congress","Tucson","AZ","(OC)","Bars/Clubs",1978,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1978-AZ-0101"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","","Bars/Clubs,Hotel",1970,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1970-AZ-0102"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","","Bars/Clubs,Hotel",1974,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1974-AZ-0103"
+"Congress Hotel Bar","(Latins)","311 E. Congress","Tucson","AZ","(RT)","Bars/Clubs,Hotel",1975,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1975-AZ-0104"
+"Congress Hotel Bar","(Latins)","311 E. Congress","Tucson","AZ","(RT)","Bars/Clubs,Hotel",1977,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1977-AZ-0105"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","","Bars/Clubs,Hotel",1973,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1973-AZ-0106"
+"Congress Hotel Bar","(Latins)","311 E. Congress","Tucson","AZ","(RT)","Bars/Clubs,Hotel",1976,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1976-AZ-0107"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","","Bars/Clubs,Hotel",1965,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1965-AZ-0108"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","(M)","Bars/Clubs,Hotel",1971,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1971-AZ-0109"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","(M)","Bars/Clubs,Hotel",1968,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1968-AZ-0110"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","(M)","Bars/Clubs,Hotel",1972,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1972-AZ-0111"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","","Bars/Clubs,Hotel",1969,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1969-AZ-0112"
+"Congress Hotel Bar","","311 E. Congress","Tucson","AZ","","Bars/Clubs,Hotel",1966,"",-110.9668233,32.222337,"Google Verified Location",NA,NA,NA,"1966-AZ-0113"
+"Connection","(Cruisy) (Bare chest nights)","4211 N. 7th St. ","Phoenix","AZ","(W),(SM),(PT),(*),(D)","Cruising Areas,Bars/Clubs",1978,"",-112.0648,33.4969979,"Google Verified Location",NA,NA,NA,"1978-AZ-0114"
+"Connection","(Cruisy) (Some W, SM, FFA) (Newly enlarged) (Bare chest nights) ","4211 N. 7th St. ","Phoenix","AZ","(*),(W),(SM),(FFA)","Cruising Areas,Bars/Clubs",1980,"",-112.0648,33.4969979,"Google Verified Location",NA,NA,NA,"1980-AZ-0115"
+"Connection","(Cruisy) (Some W, SM, FFA) (Bare chest nights) ('wild john')","4211 N. 7th St. ","Phoenix","AZ","(*),(W),(SM),(FFA)","Cruising Areas,Bars/Clubs",1979,"",-112.0648,33.4969979,"Google Verified Location",NA,NA,NA,"1979-AZ-0116"
+"Connection","","4211 N. 7th St. ","Phoenix","AZ","(W)","Bars/Clubs",1977,"",-112.0648,33.4969979,"Google Verified Location",NA,NA,NA,"1977-AZ-0117"
+"Copper Penney","","Rose Lane N. 7th St. E.","Phoenix","AZ","(G),(D)","Bars/Clubs",1968,"",-112.065024,33.527382,"Verified Location",NA,NA,NA,"1968-AZ-0118"
+"Copper Penney","","Rose Lane at N. 7th St. E.","Phoenix","AZ","(G),(D)","Bars/Clubs",1966,"",-112.065024,33.527382,"Verified Location",NA,NA,NA,"1966-AZ-0119"
+"Copper Penney ","","Rose Lane N. 7th St. E.","Phoenix","AZ","(G),(D)","Bars/Clubs",1969,"",-112.0650245,33.5273823,"Google Verified Location",NA,NA,NA,"1969-AZ-0120"
+"Copper Penney ","","Rose Lane N. 7th St.","Phoenix","AZ","(G),(D)","Bars/Clubs",1972,"",-112.0650245,33.5273823,"Google Verified Location",NA,NA,NA,"1972-AZ-0121"
+"Copper Penney ","","Rose Lane N. 7th St. E.","Phoenix","AZ","(G),(D)","Bars/Clubs",1970,"",-112.0650245,33.5273823,"Google Verified Location",NA,NA,NA,"1970-AZ-0122"
+"Copper Penney ","","Rose Lane N. 7th St.","Phoenix","AZ","(G),(D),(*)","Bars/Clubs",1971,"",-112.0650245,33.5273823,"Google Verified Location",NA,NA,NA,"1971-AZ-0123"
+"Curve Inn Motel","(X-rated movies) ","435 W. Miracle Mile Strip","Tucson","AZ","(M),(H)","Hotel",1979,"Not sure impact of x rated movies in desc.",-110.979226,32.26047,"Google Verified Location",NA,NA,NA,"1979-AZ-0124"
+"Dale's Graduate","(Some W, SM, FFA, OC, YC, Latins-'tops' during cocktail hour) ","23 W. University Blvd.","Tucson","AZ","(PT),(*),(W),(SM),(FFA),(OC),(YC)","Bars/Clubs",1980,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1980-AZ-0125"
+"Dale's Graduate","(Some W, SM, FFA, OC, YC, Latins-'tops' during cocktail hour) ","23 W. University Blvd.","Tucson","AZ","(PT),(*),(W),(SM),(FFA),(OC),(YC)","Bars/Clubs",1979,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1979-AZ-0126"
+"Dale's Place","(Formerly The Graduate Tues. night beer busts)","23 W. University Blvd.","Tucson","AZ","(W),(D),(*)","Bars/Clubs",1978,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1978-AZ-0127"
+"De Anza Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1977,"",-110.971028,32.235065,"Verified Location",NA,NA,NA,"1977-AZ-0128"
+"De Anza Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1978,"",-110.971028,32.235065,"Verified Location",NA,NA,NA,"1978-AZ-0129"
+"De Anza Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1976,"",-110.971028,32.235065,"Verified Location",NA,NA,NA,"1976-AZ-0130"
+"De Anza Park","","","Tucson","AZ","Cruisy Area,(AYOR)","Cruising Areas",1980,"",-110.971028,32.235065,"Verified Location",NA,NA,NA,"1980-AZ-0131"
+"De Anza Park","(HOT)","","Tucson","AZ","Cruisy Area,(HOT)","Cruising Areas",1979,"",-110.971028,32.235065,"Verified Location",NA,NA,NA,"1979-AZ-0132"
+"Denny's","","5000 N. 7th St. ","Phoenix","AZ","(M),(R),(C),(AH),(*)","Restaurant",1978,"",-112.0650194,33.5092328,"Google Verified Location",NA,NA,NA,"1978-AZ-0133"
+"Denny's","(AH*)","5000 N. 7th St. ","Phoenix","AZ","(M),(R),(C),(AH),(*)","Restaurant",1980,"",-112.0650194,33.5092328,"Google Verified Location",NA,NA,NA,"1980-AZ-0134"
+"Denny's","(AH*)","5000 N. 7th St. ","Phoenix","AZ","(M),(R),(C),(AH),(*)","Restaurant",1979,"",-112.0650194,33.5092328,"Google Verified Location",NA,NA,NA,"1979-AZ-0135"
+"Denny's","at Camelback","5000 N. 7th St. ","Phoenix","AZ","(M),(R),(C),(AH),(*)","Restaurant",1977,"",-112.0650194,33.5092328,"Google Verified Location",NA,NA,NA,"1977-AZ-0136"
+"Desert Pool Motel","","2922 E. Van Buren","Phoenix","AZ","(M),(H)","Hotel",1980,"",-112.0181314,33.4515707,"Google Verified Location",NA,NA,NA,"1980-AZ-0137"
+"Desert Pool Motel","","2922 E. Van Buren","Phoenix","AZ","(M),(H),(*)","Hotel",1979,"",-112.0181314,33.4515707,"Google Verified Location",NA,NA,NA,"1979-AZ-0138"
+"Desert Pool Motel & Sauna","","2922 E. Van Buren","Phoenix","AZ","(M),(H),(*)","Hotel",1978,"",-112.0181314,33.4515707,"Google Verified Location",NA,NA,NA,"1978-AZ-0139"
+"Diamond Lil's ","","3025 N. 24th St. E","Phoenix","AZ","(*),(R)","Bars/Clubs,Restaurant",1965,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1965-AZ-0140"
+"Diamond Lil's ","(D.L's)  (go-go boys)","3025 N. 24th St. ","Phoenix","AZ","(*)","Bars/Clubs",1976,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1976-AZ-0141"
+"Diamond Lil's ","(D.L's)  (go-go boys)","3025 N. 24th St. ","Phoenix","AZ","(*),(S)","Bars/Clubs",1977,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1977-AZ-0142"
+"Diamond Lil's ","(D.L's)  (Some G)","3025 N. 24th St. ","Phoenix","AZ","(*),(S),(G)","Bars/Clubs",1979,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1979-AZ-0143"
+"Diamond Lil's ","(D.L's) ","3024 N. 24th St. ","Phoenix","AZ","(*),(S)","Bars/Clubs",1980,"",-112.0306137,33.4826826,"Google Verified Location",NA,NA,NA,"1980-AZ-0144"
+"Diamond Lil's ","","3025 N. 24th St. E","Phoenix","AZ","(*)","Bars/Clubs",1970,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1970-AZ-0145"
+"Diamond Lil's ","","3025 N. 24th St. ","Phoenix","AZ","(*),(D)","Bars/Clubs",1973,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1973-AZ-0146"
+"Diamond Lil's ","","3025 N. 24th St. E","Phoenix","AZ","(*)","Bars/Clubs",1968,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1968-AZ-0147"
+"Diamond Lil's ","(also called 'D.L's') ","3025 N. 24th St. ","Phoenix","AZ","(*),(D)","Bars/Clubs",1975,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1975-AZ-0148"
+"Diamond Lil's ","","3025 N. 24th St. ","Phoenix","AZ","(*)","Bars/Clubs",1971,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1971-AZ-0149"
+"Diamond Lil's ","","3025 N. 24th St. E","Phoenix","AZ","(*)","Bars/Clubs",1966,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1966-AZ-0150"
+"Diamond Lil's ","(D.L's)  (go-go boys)","3025 N. 24th St. ","Phoenix","AZ","(*),(S)","Bars/Clubs",1978,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1978-AZ-0151"
+"Diamond Lil's ","","3025 N. 24th St. E","Phoenix","AZ","(*)","Bars/Clubs",1969,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1969-AZ-0152"
+"Diamond Lil's ","","3025 N. 24th St. ","Phoenix","AZ","(D),(YC),(*)","Bars/Clubs",1972,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1972-AZ-0153"
+"Diamond Lil's ","(also called 'D.L's') ","3025 N. 24th St. ","Phoenix","AZ","(*),(D),(YC)","Bars/Clubs",1974,"",-112.0297986,33.4833131,"Google Verified Location",NA,NA,NA,"1974-AZ-0154"
+"Downtowner ","(Books) ","120 E. Congress","Tucson","AZ","(M)","Book Store",1979,"",-110.969213,32.2218664,"Google Verified Location",NA,NA,NA,"1979-AZ-0155"
+"Dr Munchie's ","","234 W. University Dr. ","Tempe","AZ","(M),(YC),(R)","Restaurant",1978,"",-111.9429903,33.4224257,"Google Verified Location",NA,NA,NA,"1978-AZ-0156"
+"Dr Munchie's ","","234 W. University Dr. ","Tempe","AZ","(M),(YC),(R)","Restaurant",1980,"",-111.9429903,33.4224257,"Google Verified Location",NA,NA,NA,"1980-AZ-0157"
+"Dr Munchie's ","","234 W. University Dr. ","Tempe","AZ","(M),(YC),(R)","Restaurant",1979,"",-111.9429903,33.4224257,"Google Verified Location",NA,NA,NA,"1979-AZ-0158"
+"Dr. Munchie's","","4333 Brown ","Scottsdale","AZ","(M),(R)","Restaurant",1978,"",-111.9258689,33.4995725,"Google Verified Location",NA,NA,NA,"1978-AZ-0159"
+"Dr. Munchie's","","4333 Brown ","Scottsdale","AZ","(M),(R)","Restaurant",1980,"",-111.9258689,33.4995725,"Google Verified Location",NA,NA,NA,"1980-AZ-0160"
+"Dr. Munchie's","","4333 Brown ","Scottsdale","AZ","(M),(R)","Restaurant",1979,"",-111.9258689,33.4995725,"Google Verified Location",NA,NA,NA,"1979-AZ-0161"
+"El Corillo ","","4331 N. 16th St. E. ","Phoenix","AZ","","Bars/Clubs",1970,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1970-AZ-0162"
+"El Corillo ","","4331 N. 16th St. E. ","Phoenix","AZ","","Bars/Clubs",1969,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1969-AZ-0163"
+"Encanto Park","(HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1979,"",-112.089163,33.47628,"Verified Location",NA,NA,NA,"1979-AZ-0164"
+"Encanto Park","(HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1976,"",-112.089163,33.47628,"Verified Location",NA,NA,NA,"1976-AZ-0165"
+"Encanto Park","(HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1978,"",-112.089163,33.47628,"Verified Location",NA,NA,NA,"1978-AZ-0166"
+"Encanto Park","(HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1975,"",-112.089163,33.47628,"Verified Location",NA,NA,NA,"1975-AZ-0167"
+"Encanto Park","","","Phoenix","AZ","Cruisy Area,(AYOR)","Cruising Areas",1980,"",-112.089163,33.47628,"Verified Location",NA,NA,NA,"1980-AZ-0168"
+"Encanto Park","(hot)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1977,"",-112.089163,33.47628,"Verified Location",NA,NA,NA,"1977-AZ-0169"
+"Erotica Motel & Book Store","","5200 E. Van Buren","Phoenix","AZ","(M)","Hotel,Book Store",1980,"",-111.9694944,33.451018,"Google Verified Location",NA,NA,NA,"1980-AZ-0170"
+"Erotica Motel & Book Store","","5200 E. Van Buren","Phoenix","AZ","","Hotel,Book Store",1979,"",-111.9694944,33.451018,"Google Verified Location",NA,NA,NA,"1979-AZ-0171"
+"Erotica Motel & Book Store","","5200 E. Van Buren","Phoenix","AZ","","Hotel,Book Store",1978,"",-111.9694944,33.451018,"Google Verified Location",NA,NA,NA,"1978-AZ-0172"
+"Esquire","","225 E. Congress","Tucson","AZ","(M),(RT)","Bars/Clubs",1970,"",-110.9678391,32.2220514,"Google Verified Location",NA,NA,NA,"1970-AZ-0173"
+"Esquire","","225 E. Congress","Tucson","AZ","(M),(RT)","Bars/Clubs",1972,"",-110.9678391,32.2220514,"Google Verified Location",NA,NA,NA,"1972-AZ-0174"
+"Esquire","","225 E. Congress","Tucson","AZ","(M),(RT)","Bars/Clubs",1969,"",-110.9678391,32.2220514,"Google Verified Location",NA,NA,NA,"1969-AZ-0175"
+"Esquire","","225 E. Congress","Tucson","AZ","(M),(RT)","Bars/Clubs",1971,"",-110.9678391,32.2220514,"Google Verified Location",NA,NA,NA,"1971-AZ-0176"
+"Esquire ","","225 E. Congress","Tucson","AZ","(M),(RT)","Bars/Clubs",1978,"",-110.9678391,32.2220514,"Google Verified Location",NA,NA,NA,"1978-AZ-0177"
+"Forum","","4132 E. McDowell Rd.","Phoenix","AZ","(YC),(D)","Bars/Clubs",1977,"",-111.9919091,33.4661066,"Google Verified Location",NA,NA,NA,"1977-AZ-0178"
+"Forum","(Disco) ","4132 E. McDowell Rd.","Phoenix","AZ","(*),(YC),(D)","Bars/Clubs,Restaurant",1978,"",-111.9919091,33.4661066,"Google Verified Location",NA,NA,NA,"1978-AZ-0179"
+"Forum","(2 bars) (Disco)  (Sun. afternoon buffet)","4132 E. McDowell Rd.","Phoenix","AZ","(*),(YC),(D)","Bars/Clubs,Restaurant",1980,"",-111.9919091,33.4661066,"Google Verified Location",NA,NA,NA,"1980-AZ-0180"
+"Forum","(2 bars) (Disco)  (Sun. afternoon buffet)","4132 E. McDowell Rd.","Phoenix","AZ","(*),(YC),(D)","Bars/Clubs,Restaurant",1979,"",-111.9919091,33.4661066,"Google Verified Location",NA,NA,NA,"1979-AZ-0181"
+"Free Spirit","(Social) P.O. Box 117, Tempe 85281","","Tempe","AZ","","Organizations",1978,"PO BOX",-111.940005,33.42551,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-AZ-0182"
+"Front Runner","(Mixed bag-many G) (WE*)","2222 N. Stone","Tucson","AZ","(S),(D),(G)","Bars/Clubs",1979,"",-110.9716483,32.2487455,"Google Verified Location",NA,NA,NA,"1979-AZ-0183"
+"Fullmoon","(Disco) ","3108 E. McDowell Rd.","Phoenix","AZ","(L),(D)","Bars/Clubs",1980,"",-112.0154798,33.4660821,"Google Verified Location",NA,NA,NA,"1980-AZ-0184"
+"Fun Tyme Adult Books ","","349 E. Toole Ave. ","Tucson","AZ","","Book Store",1980,"",-110.9670398,32.2229604,"Google Verified Location",NA,NA,NA,"1980-AZ-0185"
+"G.A.L.A","(Tel:602-254-3300) P.O. Box 2361","","Phoenix","AZ","","Organizations",1978,"",-112.074037,33.448377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-AZ-0186"
+"Glad Coffeehouse","","1414 S. McAllister","Tempe","AZ","","Business",1974,"",-111.9306812,33.4129498,"Google Verified Location",NA,NA,NA,"1974-AZ-0187"
+"Gonella's ","","1201 N. Stone Ave.","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1975,"",-110.9715193,32.2373633,"Google Verified Location",NA,NA,NA,"1975-AZ-0188"
+"Gonella's ","","1201 N. Stone Ave.","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1977,"",-110.9715193,32.2373633,"Google Verified Location",NA,NA,NA,"1977-AZ-0189"
+"Graduate","","23 W. University Blvd.","Tucson","AZ","(W),(D),(*)","Bars/Clubs",1975,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1975-AZ-0190"
+"Graduate","(3rd St.)","23 W. University Blvd.","Tucson","AZ","(D),(*)","Bars/Clubs",1972,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1972-AZ-0191"
+"Graduate","","23 W University Blvd.","Tucson","AZ","(W),(D),(*)","Bars/Clubs",1976,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1976-AZ-0192"
+"Graduate","(3rd St.)","23 W. University Blvd.","Tucson","AZ","(D),(*)","Bars/Clubs",1973,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1973-AZ-0193"
+"Graduate","","23 W. University Blvd.","Tucson","AZ","","Bars/Clubs",1974,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1974-AZ-0194"
+"Graduate","(3rd St.)","23 W. University Blvd.","Tucson","AZ","(D),(*)","Bars/Clubs",1971,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1971-AZ-0195"
+"Graduate","(Formerly The Graduate Tues. night beer busts","23 West University Blvd.","Tucson","AZ","(W),(D),(*)","Bars/Clubs",1977,"",-110.9724985,32.231604,"Google Verified Location",NA,NA,NA,"1977-AZ-0196"
+"Grapevine","","N 7th St E","Phoenix","AZ","(G)","Bars/Clubs",1965,"",-112.065131,33.579345,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1965-AZ-0197"
+"Greyhound Park","Sundays are cruisy at Park 'n' Swap","","Phoenix","AZ","Cruisy Area","Cruising Areas",1980,"",-111.995404,33.448021,"Verified Location",NA,NA,NA,"1980-AZ-0198"
+"Greyhound Park","","","Phoenix","AZ","Cruisy Area","Cruising Areas",1978,"",-111.995404,33.448021,"Verified Location",NA,NA,NA,"1978-AZ-0199"
+"Greyhound Park","Sundays are cruisy at Park 'n' Swap","","Phoenix","AZ","Cruisy Area","Cruising Areas",1979,"",-111.995404,33.448021,"Verified Location",NA,NA,NA,"1979-AZ-0200"
+"Habit ","","7100 N. 7th Street","Phoenix","AZ","(G),(D)","Bars/Clubs",1974,"",-112.0654829,33.5403113,"Google Verified Location",NA,NA,NA,"1974-AZ-0201"
+"Habit ","","7100 North 7th Street","Phoenix","AZ","(G),(D),(*)","Bars/Clubs",1976,"",-112.0654829,33.5403113,"Google Verified Location",NA,NA,NA,"1976-AZ-0202"
+"Habit ","","7051 N. 7th Street","Phoenix","AZ","(G),(D),(P)","Bars/Clubs",1973,"",-112.0648233,33.540203,"Google Verified Location",NA,NA,NA,"1973-AZ-0203"
+"Habit ","","7100 North 7th Street","Phoenix","AZ","(G),(D),(*)","Bars/Clubs",1977,"",-112.0654829,33.5403113,"Google Verified Location",NA,NA,NA,"1977-AZ-0204"
+"Habit ","","7100 N. 7th Street","Phoenix","AZ","(G),(D)","Bars/Clubs",1975,"",-112.0654829,33.5403113,"Google Verified Location",NA,NA,NA,"1975-AZ-0205"
+"Hairy Tiz","(Picking up nicely-may be adding adj. baths) ","342 E. Toole Ave","Tucson","AZ","","Bars/Clubs",1979,"",-110.9670398,32.2229604,"Google Verified Location",NA,NA,NA,"1979-AZ-0206"
+"Hairy Tiz","(Looks promising)","342 E. Toole Ave","Tucson","AZ","","Baths",1978,"",-110.9670398,32.2229604,"Google Verified Location",NA,NA,NA,"1978-AZ-0207"
+"Hairy Tiz","(Picking up nicely-may be adding adj. baths) ","342 E. Toole Ave","Tucson","AZ","","Bars/Clubs",1980,"",-110.9670398,32.2229604,"Google Verified Location",NA,NA,NA,"1980-AZ-0208"
+"Happy Garden","","1008 E. Camelback Road","Phoenix","AZ","(G),(D),(*)","Bars/Clubs",1975,"",-112.0602356,33.5095014,"Google Verified Location",NA,NA,NA,"1975-AZ-0209"
+"Hatcher Inn","","1101 W. Hatcher Rd.","Phoenix","AZ","","Hotel",1970,"",-112.087249,33.5709696,"Google Verified Location",NA,NA,NA,"1970-AZ-0210"
+"Hatcher Inn","","1101 W. Hatcher Rd.","Phoenix","AZ","","Hotel",1971,"",-112.087249,33.5709696,"Google Verified Location",NA,NA,NA,"1971-AZ-0211"
+"Hedda's","(Disco) (Should be mindblowing when this opens in the spring of '74)","3839 N. 16th Street","Phoenix","AZ","(YC),(D),(*)","Bars/Clubs",1975,"",-112.0471713,33.49219,"Google Verified Location",NA,NA,NA,"1975-AZ-0212"
+"Hide Out","","1622 Grand Avenue","Phoenix","AZ","(W),(SM),(*)","Bars/Clubs",1975,"",-112.0941036,33.461229,"Google Verified Location",NA,NA,NA,"1975-AZ-0213"
+"Hide Out","(new-looks promising)","3426 W. Buckeye Rd.","Phoenix","AZ","(W),(SM)","Bars/Clubs",1974,"",-112.1335787,33.4372107,"Google Verified Location",NA,NA,NA,"1974-AZ-0214"
+"Himmel Park","Avoid parking lot","","Tucson","AZ","Cruisy Area","Cruising Areas",1980,"",-110.93315,32.233876,"Verified Location",NA,NA,NA,"1980-AZ-0215"
+"Himmel Park","Avoid parking lot","","Tucson","AZ","Cruisy Area","Cruising Areas",1978,"",-110.93315,32.233876,"Verified Location",NA,NA,NA,"1978-AZ-0216"
+"Himmel Park","Avoid parking lot","","Tucson","AZ","Cruisy Area,(AYOR)","Cruising Areas",1979,"",-110.93315,32.233876,"Verified Location",NA,NA,NA,"1979-AZ-0217"
+"Himmel Park","","","Tucson","AZ","Cruisy Area","Cruising Areas",1976,"",-110.93315,32.233876,"Verified Location",NA,NA,NA,"1976-AZ-0218"
+"Himmel Park on East Speedway","Do not use parking lot","","Tucson","AZ","Cruisy Area","Cruising Areas",1977,"",-110.93315,32.233876,"Verified Location",NA,NA,NA,"1977-AZ-0219"
+"His Co. Disco","(2 bars-PT-Game room) (Disco) (Enter thru parking lot in rear)","3839 N. 16th St.","Phoenix","AZ","(*),(PT),(YC),(D)","Bars/Clubs",1979,"",-112.0471713,33.49219,"Google Verified Location",NA,NA,NA,"1979-AZ-0220"
+"His Co. Disco","(2 bars-PT-Game room) (Disco) (Enter thru parking lot in rear)","3839 N. 16th St.","Phoenix","AZ","(*),(PT),(YC),(D)","Bars/Clubs",1980,"",-112.0471713,33.49219,"Google Verified Location",NA,NA,NA,"1980-AZ-0221"
+"Hitch-Hikers on E. Speedway & elsewhere","","","Tucson","AZ","Cruisy Area","Cruising Areas",1974,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1974-AZ-0222"
+"Hitch-Hikers on E. Speedway & elsewhere","","","Tucson","AZ","Cruisy Area","Cruising Areas",1975,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1975-AZ-0223"
+"Hitchhikers on E. Speedway","","","Tucson","AZ","Cruisy Area","Cruising Areas",1973,"",-110.840906,32.235665,"Verified Location",NA,NA,NA,"1973-AZ-0224"
+"Incognito Lounge","(Some L) ","2424 E. Thomas Rd.","Phoenix","AZ","(L),(D)","Bars/Clubs",1980,"",-112.028937,33.4805802,"Google Verified Location",NA,NA,NA,"1980-AZ-0225"
+"J.F.K. Park","","","Yuma","AZ","Cruisy Area","Cruising Areas",1980,"",-114.60857,32.686673,"Verified Location",NA,NA,NA,"1980-AZ-0226"
+"Jack in the Box","(Chicken)","","Yuma","AZ","Cruisy Area,(R)","Cruising Areas,Restaurant",1980,"",-114.627692,32.692651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0227"
+"Jay's Coffee Shop","","1 Central Ave","Phoenix","AZ","(M),(RT),(C),(R)","Restaurant",1975,"",-112.0732068,33.4486628,"Google Verified Location",NA,NA,NA,"1975-AZ-0228"
+"Jay's Coffee Shop","","1 Central Ave","Phoenix","AZ","(M),(C),(R)","Restaurant",1974,"",-112.0732068,33.4486628,"Google Verified Location",NA,NA,NA,"1974-AZ-0229"
+"Jay's Coffee Shop","(occasionally interesting) ","1 Central Ave","Phoenix","AZ","(M),(RT),(C),(AH)","Business",1976,"",-112.0732068,33.4486628,"Google Verified Location",NA,NA,NA,"1976-AZ-0230"
+"Jekyll's ","Last Culture (Disco) ( Some G) ","1455 N. Miracle Mile","Tucson","AZ","(*),(S),(D),(PT),(YC),(G)","Bars/Clubs",1979,"",-110.9973286,32.2608521,"Google Verified Location",NA,NA,NA,"1979-AZ-0231"
+"Jekyll's ","Last Culture (Disco) ( Some L) ","1455 N. Miracle Mile","Tucson","AZ","(*),(L),(S),(D),(PT),(YC)","Bars/Clubs",1980,"",-110.9973286,32.2608521,"Google Verified Location",NA,NA,NA,"1980-AZ-0232"
+"Jekyll's & Hyde's","(Disco) (Mardi Gras carnival in Feb.)","1455 N. Miracle Mile","Tucson","AZ","(*),(YC),(D),(R),(PT)","Bars/Clubs,Restaurant",1978,"",-110.9973286,32.2608521,"Google Verified Location",NA,NA,NA,"1978-AZ-0233"
+"Jerky Jerry's","","1622 Grand Avenue","Phoenix","AZ","(W),(SM)","Bars/Clubs",1977,"",-112.0941036,33.461229,"Google Verified Location",NA,NA,NA,"1977-AZ-0234"
+"Jerry's ","","1201 N. Stone Ave","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1978,"",-110.9715193,32.2373633,"Google Verified Location",NA,NA,NA,"1978-AZ-0235"
+"Jim's","","23. W 3rd St.","Tucson","AZ","(*)","Bars/Clubs",1968,"",-110.8612016,32.2315664,"Google Verified Location",NA,NA,NA,"1968-AZ-0236"
+"Jim's","(Jim's moving late '68-make point to inquire locally as this is best)","23. W. Third St.","Tucson","AZ","(*)","Bars/Clubs",1969,"",-110.8612016,32.2315664,"Google Verified Location",NA,NA,NA,"1969-AZ-0237"
+"Jim's","","23. W 3rd St.","Tucson","AZ","(*)","Bars/Clubs",1966,"",-110.8612016,32.2315664,"Google Verified Location",NA,NA,NA,"1966-AZ-0238"
+"Jim's Steak House","(after hrs only)","E. McDowell Rd. & N. 21st St.","Phoenix","AZ","(C),(YC),(*)","Restaurant",1971,"",-112.035725,33.465736,"Verified Location",NA,NA,NA,"1971-AZ-0239"
+"Jim's Steak House","(after hours only)","E. McDowell Rd. N. 21st St.","Phoenix","AZ","(C),(YC),(*)","Restaurant",1972,"",-112.035725,33.465736,"Verified Location",NA,NA,NA,"1972-AZ-0240"
+"Joshua Tree","(Disco-D-Wed,. Fri. & Sat. nights only) ","2921 N. 1st Ave.","Tucson","AZ","(*),(YC),(D)","Bars/Clubs",1978,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1978-AZ-0241"
+"Joshua Tree","(Disco) (Open Wed. thru Sun.* ) Back Pocket (PT) in rear is open 7 nights ","2921 N. 1st Ave","Tucson","AZ","(YC),(D),(*)","Bars/Clubs",1980,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1980-AZ-0242"
+"Joshua Tree","(Disco) (Open Wed., Fri. & Sat. only* ) Back Pocket (PT) in rear is open 7 nights ","2921 N. 1st Ave","Tucson","AZ","(YC),(D),(*)","Bars/Clubs",1979,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1979-AZ-0243"
+"Kamu's","","23. W. Third St.","Tucson","AZ","(*)","Bars/Clubs",1970,"",-110.8612016,32.2315664,"Google Verified Location",NA,NA,NA,"1970-AZ-0244"
+"Kay's Happy Landing","","4405 S. Central ","Phoenix","AZ","(M)","Bars/Clubs",1966,"",-112.0728982,33.40627,"Google Verified Location",NA,NA,NA,"1966-AZ-0245"
+"Kay's Happy Landing","","4405 S. Central ","Phoenix","AZ","","Bars/Clubs",1965,"",-112.0728982,33.40627,"Google Verified Location",NA,NA,NA,"1965-AZ-0246"
+"Kay's Happy Landing","","4405 S. Central ","Phoenix","AZ","(M)","Bars/Clubs",1969,"",-112.0728982,33.40627,"Google Verified Location",NA,NA,NA,"1969-AZ-0247"
+"Kay's Happy Landing","","4405 S. Central ","Phoenix","AZ","(M)","Bars/Clubs",1968,"",-112.0728982,33.40627,"Google Verified Location",NA,NA,NA,"1968-AZ-0248"
+"La Strada","(Italian)","3509 North Central","Phoenix","AZ","(M),(R)","Restaurant",1977,"",-112.073395,33.4892202,"Google Verified Location",NA,NA,NA,"1977-AZ-0249"
+"La Strada Italian","","3509 N. Central","Phoenix","AZ","(R)","Restaurant",1976,"",-112.073395,33.4892202,"Google Verified Location",NA,NA,NA,"1976-AZ-0250"
+"Later On","(after hours) Del Norte Shopping Center on Prince Road","","Tucson","AZ","(M),(YC)","Bars/Clubs",1972,"",-110.988265,32.272065,"Verified Location",NA,NA,NA,"1972-AZ-0251"
+"Le Casablanca","","4331 N. 16th St. ","Phoenix","AZ","(S),(D),(*)","Bars/Clubs",1980,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1980-AZ-0252"
+"Le Sex Shoppe","(Books, etc) ","6 W.  Washington","Phoenix","AZ","","Book Store",1978,"",-112.0738718,33.4482125,"Google Verified Location",NA,NA,NA,"1978-AZ-0253"
+"Library basement","U. of No. Arizona","","Flagstaff","AZ","Cruisy Area","Cruising Areas",1976,"",-111.657642,35.18981,"Verified Location",NA,NA,NA,"1976-AZ-0254"
+"Library Basement T-Room","University of North Arizona","","Flagstaff","AZ","Cruisy Area","Cruising Areas",1977,"",-111.657642,35.18981,"Verified Location",NA,NA,NA,"1977-AZ-0255"
+"Little Caesar's Book Store","('wild back room' best early evenings) ","2500 N. Miracle Mile","Tucson","AZ","(*)","Book Store",1978,"",-111.0000831,32.2608476,"Google Verified Location",NA,NA,NA,"1978-AZ-0256"
+"Little Caesar's Book Store","(""wild back room"") ","2500 N. Miracle Mile","Tucson","AZ","","Book Store",1977,"",-111.0000831,32.2608476,"Google Verified Location",NA,NA,NA,"1977-AZ-0257"
+"Lola's","","11 E. 5th St.","Tempe","AZ","(M)","Bars/Clubs",1975,"",-111.9392819,33.4255018,"Google Verified Location",NA,NA,NA,"1975-AZ-0258"
+"M.C.C.","","1426 E. Maricopa Fwy.","Phoenix","AZ","(MCC)","Church",1978,"",-112.0545055,33.4275715,"Google Verified Location",NA,NA,NA,"1978-AZ-0259"
+"M.C.C.","","1426 E. Maricopa Freeway","Phoenix","AZ","(MCC)","Church",1977,"",-112.0545055,33.4275715,"Google Verified Location",NA,NA,NA,"1977-AZ-0260"
+"M.C.C.","(Burned)","","Phoenix","AZ","(MCC)","Church",1979,"",-112.065131,33.579345,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-AZ-0261"
+"M.C.C.","Truth Chapel","920 N. 1st Ave.","Tucson","AZ","","Church",1979,"",-110.9606761,32.2337303,"Google Verified Location",NA,NA,NA,"1979-AZ-0262"
+"M.C.C.","","1426 E. Maricopa Freeway","Phoenix","AZ","(MCC)","Church",1976,"",-112.0545055,33.4275715,"Google Verified Location",NA,NA,NA,"1976-AZ-0263"
+"M.C.C.","","1426 E. Maricopa Freeway","Phoenix","AZ","(MCC)","Church",1975,"",-112.0545055,33.4275715,"Google Verified Location",NA,NA,NA,"1975-AZ-0264"
+"MacArthur Hotel ","(Don't expect the Ritz)","345 E. Toole Ave","Tucson","AZ","(M)","Hotel",1979,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1979-AZ-0265"
+"MacArthur Hotel ","(Don't expect the Ritz)","345 E. Toole Ave","Tucson","AZ","(M)","Hotel",1980,"",-110.9676616,32.2232929,"Google Verified Location",NA,NA,NA,"1980-AZ-0266"
+"Maggie's","(formerly Hedda's) (Disco)","3839 N. 16th Street","Phoenix","AZ","(YC),(D),(*)","Bars/Clubs",1976,"",-112.0471713,33.49219,"Google Verified Location",NA,NA,NA,"1976-AZ-0267"
+"Maggie's","(Disco) (enter through parking lot in rear) (Tuesday ""beer bust"")","3839 North 16th Street","Phoenix","AZ","(YC),(D),(PT),(*)","Bars/Clubs",1977,"",-112.0471713,33.49219,"Google Verified Location",NA,NA,NA,"1977-AZ-0268"
+"Manny's","","1724 E. McDowell Rd.","Phoenix","AZ","","Bars/Clubs",1970,"",-112.0445398,33.4660592,"Google Verified Location",NA,NA,NA,"1970-AZ-0269"
+"Manny's Den","","1724 E. McDowell Rd.","Phoenix","AZ","(S),(*)","Bars/Clubs,Business",1971,"",-112.0445398,33.4660592,"Google Verified Location",NA,NA,NA,"1971-AZ-0270"
+"Metro Center","Shopping Complex-nr. ice rink","","Phoenix","AZ","Cruisy Area","Cruising Areas",1979,"",-112.121702,33.575048,"Verified Location",NA,NA,NA,"1979-AZ-0271"
+"Metro Center","","","Phoenix","AZ","Cruisy Area","Cruising Areas",1980,"",-112.121702,33.575048,"Verified Location",NA,NA,NA,"1980-AZ-0272"
+"Metropolitan Community Church","","1426 E. Maricopa Freeway","Phoenix","AZ","(MCC)","Church",1974,"",-112.0545055,33.4275715,"Google Verified Location",NA,NA,NA,"1974-AZ-0273"
+"Metropolitan Community Church","","1426 E. Maricopa Freeway","Phoenix","AZ","(MCC)","Church",1973,"",-112.0545055,33.4275715,"Google Verified Location",NA,NA,NA,"1973-AZ-0274"
+"Mi Casa Su Casa","","4331 N. 16th St. ","Phoenix","AZ","(D),(YC),(*)","Bars/Clubs",1971,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1971-AZ-0275"
+"Mi Casa Su Casa","","4331 N. 16th St. ","Phoenix","AZ","(D),(YC),(*)","Bars/Clubs",1972,"",-112.047249,33.4994441,"Google Verified Location",NA,NA,NA,"1972-AZ-0276"
+"Mickey's Lounge","","400 S. Haskell","Wilcox","AZ","(M)","Bars/Clubs",1980,"",-109.8350935,32.2492631,"Google Verified Location",NA,NA,NA,"1980-AZ-0277"
+"Mickey's Lounge","","400 S. Haskell","Wilcox","AZ","(M)","Bars/Clubs",1979,"",-109.8350935,32.2492631,"Google Verified Location",NA,NA,NA,"1979-AZ-0278"
+"Mickey's Lounge","Sands Motel","400 S. Haskell Ave.","Wilcox","AZ","(M)","Bars/Clubs,Hotel",1978,"",-109.8350935,32.2492631,"Google Verified Location",NA,NA,NA,"1978-AZ-0279"
+"Minder-Benders","","715 S. Hayden","Tempe","AZ","(M),(YC),(R)","Restaurant",1980,"",-111.9090844,33.455458,"Google Verified Location",NA,NA,NA,"1980-AZ-0280"
+"Minder-Benders","","715 S. Hayden Rd.","Tempe","AZ","(M),(YC),(R)","Restaurant",1979,"",-111.9090844,33.455458,"Google Verified Location",NA,NA,NA,"1979-AZ-0281"
+"Miss Matty's Attic","(Disco)","3241 E. Shea","Phoenix","AZ","(M),(D)","Bars/Clubs",1979,"",-112.0115409,33.5819174,"Google Verified Location",NA,NA,NA,"1979-AZ-0282"
+"Mojave Books","","1838 Grand Ave","Phoenix","AZ","","Book Store",1979,"",-112.099079,33.4655022,"Google Verified Location",NA,NA,NA,"1979-AZ-0283"
+"Moon's Truck","(Some G) (Disco) (Enter through parking lot in rear) ( Tues. beer bust)","3839 N. 16th St.","Phoenix","AZ","(YC),(G),(D),(*)","Bars/Clubs",1978,"",-112.0471713,33.49219,"Google Verified Location",NA,NA,NA,"1978-AZ-0284"
+"Mr. Fatfingers","(WE*) (Mixed bag-Some OC-slow dancing)","5749 N. 7th St.","Phoenix","AZ","(WE),(*),(OC)","Bars/Clubs",1980,"",-112.0646603,33.5217412,"Google Verified Location",NA,NA,NA,"1980-AZ-0285"
+"Mr. Fatfingers","(WE*) (Mixed bag-Some OC-slow dancing)","5749 N. 7th St.","Phoenix","AZ","(WE),(*),(OC)","Bars/Clubs",1979,"",-112.0646603,33.5217412,"Google Verified Location",NA,NA,NA,"1979-AZ-0286"
+"Mr. Jim's","","155 W Camelback Rd","Phoenix","AZ","(D),(*)","Bars/Clubs",1966,"",-112.0770646,33.5089768,"Google Verified Location",NA,NA,NA,"1966-AZ-0287"
+"Ms. Fathers","","2825 N. Central","Phoenix","AZ","(M),(RT)","Bars/Clubs",1976,"",-112.0732999,33.4797007,"Google Verified Location",NA,NA,NA,"1976-AZ-0288"
+"Northern Arizona Univ. Library","Basement T-Room","","Flagstaff","AZ","Cruisy Area","Cruising Areas,Organizations",1980,"",-111.657642,35.18981,"Verified Location",NA,NA,NA,"1980-AZ-0289"
+"Nu Towne Saloon","(Sun. brunch & barbeque; Mon. night beer bust) ","5002 E. Van Buren","Phoenix","AZ","(W),(YC),(D),(*)","Bars/Clubs,Restaurant",1978,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1978-AZ-0290"
+"Nu Towne Saloon","(Cruisy) (Some W) (Patio with Sun. buffet, 'Mon. beer bust') ","5002 E. Van Buren","Phoenix","AZ","(*),(W),(PT)","Cruising Areas,Bars/Clubs,Restaurant",1979,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1979-AZ-0291"
+"Nu Towne Saloon","(also (C) after hours, weekends and Sunday brunch)","5002 E. Van Buren","Phoenix","AZ","(W),(YC),(D),(*),(C)","Bars/Clubs,Restaurant",1974,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1974-AZ-0292"
+"Nu Towne Saloon","(Sun. brunch & barbeque)","5002 E. Van Buren","Phoenix","AZ","(W),(YC),(D),(*)","Bars/Clubs,Restaurant",1976,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1976-AZ-0293"
+"Nu Towne Saloon","(Sunday brunch & barbeque; Monday night 'beer bust') (cruisy) ","5002 E. Van Buren","Phoenix","AZ","(W),(YC),(D),(*)","Bars/Clubs,Restaurant,Cruising Areas",1977,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1977-AZ-0294"
+"Nu Towne Saloon","(Cruisy) (Some W) (Patio with Sun. buffet, 'Mon. beer bust') ","5002 E. Van Buren","Phoenix","AZ","(*),(W),(PT)","Cruising Areas,Bars/Clubs,Restaurant",1980,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1980-AZ-0295"
+"Nu Towne Saloon","('Flicks' also (C) after weekends & Sunday brunch)","5002 E. Van Buren","Phoenix","AZ","(W),(YC),(D),(*),(C)","Bars/Clubs,Restaurant",1975,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1975-AZ-0296"
+"Number One ","","3331 N. 24th St","Phoenix","AZ","(P),(D)","Bars/Clubs",1971,"",-112.0298551,33.4870908,"Google Verified Location",NA,NA,NA,"1971-AZ-0297"
+"NuTown Saloon","(some (G)","5002 E. Van Buren","Phoenix","AZ","(G)","Bars/Clubs",1973,"",-111.9739771,33.4513607,"Google Verified Location",NA,NA,NA,"1973-AZ-0298"
+"Oak Creek Owl","","1/2 mile S.  of 89A on Ariz. 179","Sedona","AZ","(M),(R)","Restaurant",1979,"",-111.76099,34.86974,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-AZ-0299"
+"Oak Creek Owl","","1/2 mile S.  of 89A on Ariz. 179","Sedona","AZ","(M),(R)","Restaurant",1978,"",-111.76099,34.86974,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-AZ-0300"
+"Oak Creek Owl","","1/2 mile S.  of 89A on Ariz. 179","Sedona","AZ","(M),(R)","Restaurant",1980,"",-111.76099,34.86974,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0301"
+"Oak Creek Owl","","1/2 mile S.  of 89A on Arizona  179","Sedona","AZ","(M),(R)","Restaurant",1977,"",-111.76099,34.86974,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-AZ-0302"
+"Oak Creek Owl","","1/2 mile S.  of 89A on Arizona  179","Sedona","AZ","(M),(R)","Restaurant",1976,"",-111.76099,34.86974,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-AZ-0303"
+"Owl Book Store","","1838 Grand Ave","Phoenix","AZ","","Book Store",1980,"",-112.099079,33.4655022,"Google Verified Location",NA,NA,NA,"1980-AZ-0304"
+"P.S. ","(Wed., Fri. & Sat. nights only-liquor, flicks, & 'wild back room')","2610 E. Ft. Lowell","Tucson","AZ","(AH),(*),(D),(PT)","Bars/Clubs",1978,"",-110.9327504,32.2646911,"Google Verified Location",NA,NA,NA,"1978-AZ-0305"
+"P.S. ","(AH*) (Liquor-""flicks""- very 'wild back room')","2610 E. Ft. Lowell","Tucson","AZ","(AH),(*),(D),(PT)","Bars/Clubs",1977,"",-110.9327504,32.2646911,"Google Verified Location",NA,NA,NA,"1977-AZ-0306"
+"Palm Room","(New Jim's)","Oracle Road","Tucson","AZ","(*)","Bars/Clubs",1970,"",-110.978074,32.279826,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1970-AZ-0307"
+"Papago Park","(HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1979,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1979-AZ-0308"
+"Papago Park","in area north of Zoo","","Phoenix","AZ","Cruisy Area","Cruising Areas",1972,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1972-AZ-0309"
+"Papago Park","Area north of Zoo (HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1977,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1977-AZ-0310"
+"Papago Park","(HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1978,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1978-AZ-0311"
+"Papago Park","in area north of Zoo (very HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1975,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1975-AZ-0312"
+"Papago Park","","","Phoenix","AZ","(AYOR),Cruisy Area","Cruising Areas",1980,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1980-AZ-0313"
+"Papago Park","in area north of Zoo","","Phoenix","AZ","Cruisy Area","Cruising Areas",1973,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1973-AZ-0314"
+"Papago Park","Area n. of Zoo (very HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1976,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1976-AZ-0315"
+"Papago Park","in area n. of Zoo (very HOT)","","Phoenix","AZ","Cruisy Area,(HOT)","Cruising Areas",1974,"",-111.953395,33.453877,"Verified Location",NA,NA,NA,"1974-AZ-0316"
+"Paris Arizona Book store ","","315 E. Washington","Phoenix","AZ","","Book Store",1975,"",-112.0564884,33.448175,"Google Verified Location",NA,NA,NA,"1975-AZ-0317"
+"Paris Arizona Book store ","","315 E. Washington","Phoenix","AZ","(M)","Book Store",1976,"",-112.0564884,33.448175,"Google Verified Location",NA,NA,NA,"1976-AZ-0318"
+"Paris Knights","(Books) ","3844 E. Grant Rd.","Tucson","AZ","(*)","Book Store",1979,"",-110.9109751,32.2503442,"Google Verified Location",NA,NA,NA,"1979-AZ-0319"
+"Park Mall","","","Tucson","AZ","Cruisy Area","Cruising Areas",1977,"",-110.865518,32.219844,"Verified Location",NA,NA,NA,"1977-AZ-0320"
+"Parr of Arizona","(Clothing) ","3903 N. 16th St. ","Phoenix","AZ","","Business",1979,"",-112.0472178,33.4925559,"Google Verified Location",NA,NA,NA,"1979-AZ-0321"
+"Parr of Arizona","(Clothing) ","3903 N. 16th St. ","Phoenix","AZ","","Business",1980,"",-112.0472178,33.4925559,"Google Verified Location",NA,NA,NA,"1980-AZ-0322"
+"Pat's Place","","7051 N. 7th St.","Phoenix","AZ","(G)","Bars/Clubs",1972,"",-112.0648233,33.540203,"Google Verified Location",NA,NA,NA,"1972-AZ-0323"
+"Pat's Place","","7051 N. 7th St.","Phoenix","AZ","(G)","Bars/Clubs",1971,"",-112.0648233,33.540203,"Google Verified Location",NA,NA,NA,"1971-AZ-0324"
+"Phil's Coffee Shop","(Hustlers)","1 Central Avenue","Phoenix","AZ","(M),(RT),(C),(AH)","Business",1977,"",-112.0732068,33.4486628,"Google Verified Location",NA,NA,NA,"1977-AZ-0325"
+"Pleasure Palace Book Store","","1524 E. Van Buren","Phoenix","AZ","","Book Store",1978,"",-112.047963,33.451619,"Google Verified Location",NA,NA,NA,"1978-AZ-0326"
+"Pleasure Palace Book Store","","1524 E. Van Buren","Phoenix","AZ","","Book Store",1980,"",-112.047963,33.451619,"Google Verified Location",NA,NA,NA,"1980-AZ-0327"
+"Pleasure Palace Book Store","","1524 E. Van Buren","Phoenix","AZ","","Book Store",1979,"",-112.047963,33.451619,"Google Verified Location",NA,NA,NA,"1979-AZ-0328"
+"Pleasure Palace Book Store","","15211 East Van Buren","Phoenix","AZ","","Book Store",1977,"",-112.0129056,33.4513059,"Google Verified Location",NA,NA,NA,"1977-AZ-0329"
+"Pleasure World","(Books 'n' things-erotica )","120 E. Congress, 3814 E. Speedway","Tucson","AZ","(*)","Book Store",1980,"2 addresses",-110.911105,32.235572,"Verified Location",NA,NA,NA,"1980-AZ-0330"
+"Ponderosa Steak House","","1400 N. Black Canyon Rd.","Phoenix","AZ","(M),(R),(C),(AH)","Restaurant",1978,"",-112.1096372,33.4632755,"Google Verified Location",NA,NA,NA,"1978-AZ-0331"
+"Ramada Inn","(AH*) ","404 N. Freeway","Tucson","AZ","(M),(R),(C),(AH),(*)","Restaurant",1979,"",-110.9805392,32.2250994,"Google Verified Location",NA,NA,NA,"1979-AZ-0332"
+"Ramrod","(beer bust on Sundays 5-7p.m)","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(*)","Bars/Clubs",1976,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1976-AZ-0333"
+"Ramrod","","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(*)","Bars/Clubs",1973,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1973-AZ-0334"
+"Ramrod","(Sun. beer bust)","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(PT)","Bars/Clubs",1979,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1979-AZ-0335"
+"Ramrod","","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(*)","Bars/Clubs",1974,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1974-AZ-0336"
+"Ramrod","(Beer bust Sundays 5-8pm)","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(PT),(*)","Bars/Clubs",1978,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1978-AZ-0337"
+"Ramrod","(Sun. beer bust)","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(PT)","Bars/Clubs",1980,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1980-AZ-0338"
+"Ramrod","(Beer bust on Sundays 5-7pm)","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(PT),(*)","Bars/Clubs",1977,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1977-AZ-0339"
+"Ramrod","(beer bust Sundays 5-7 pm)","395 N. Black Canyon Rd. ","Phoenix","AZ","(SM),(W),(*)","Bars/Clubs",1975,"",-112.1077602,33.4524633,"Google Verified Location",NA,NA,NA,"1975-AZ-0340"
+"Reed & Pioneer Parks","(HOT)","","Mesa ","AZ","Cruisy Area,(HOT)","Cruising Areas",1979,"",-111.819674,33.416972,"Verified Location",NA,NA,NA,"1979-AZ-0341"
+"Reed & Pioneer Parks","(HOT)","","Mesa ","AZ","Cruisy Area,(HOT)","Cruising Areas",1978,"",-111.819674,33.416972,"Verified Location",NA,NA,NA,"1978-AZ-0342"
+"Reed & Pioneer Parks","","","Mesa ","AZ","(AYOR),Cruisy Area","Cruising Areas",1980,"",-111.819674,33.416972,"Verified Location",NA,NA,NA,"1980-AZ-0343"
+"Rest Stop","35 mi. S. on I-10 (Northbound)","","Phoenix","AZ","Cruisy Area","Cruising Areas",1980,"",-112.074037,33.448377,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0344"
+"Rest Stop'","Hwy 80 N.","","Tempe","AZ","(AYOR),Cruisy Area","Cruising Areas",1980,"",-111.940005,33.42551,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0345"
+"River Bottom Lounge","","3611 S. 16th St.","Phoenix","AZ","(C),(D)","Bars/Clubs",1970,"",-112.0467392,33.4134456,"Google Verified Location",NA,NA,NA,"1970-AZ-0346"
+"River R","(Disco)","3686 E. Speedway","Tucson","AZ","(HIP),(YC),(D),(*)","Bars/Clubs",1976,"",-110.9135248,32.2358784,"Google Verified Location",NA,NA,NA,"1976-AZ-0347"
+"Riverside Park","","","Yuma","AZ","Cruisy Area","Cruising Areas",1979,"",-114.611635,32.72506,"Verified Location",NA,NA,NA,"1979-AZ-0348"
+"Riverside Park","","","Yuma","AZ","Cruisy Area","Cruising Areas",1976,"",-114.611635,32.72506,"Verified Location",NA,NA,NA,"1976-AZ-0349"
+"Riverside Park","","","Yuma","AZ","Cruisy Area","Cruising Areas",1977,"",-114.611635,32.72506,"Verified Location",NA,NA,NA,"1977-AZ-0350"
+"Riverside Park","","","Yuma","AZ","Cruisy Area","Cruising Areas",1978,"",-114.611635,32.72506,"Verified Location",NA,NA,NA,"1978-AZ-0351"
+"Roadside Rest area","by Temple Bridge (caution)","","Tempe","AZ","Cruisy Area","Cruising Areas",1974,"",-111.941538,33.433171,"Verified Location",NA,NA,NA,"1974-AZ-0352"
+"Roadside Rest area","by Temple Bridge (caution)","","Tempe","AZ","Cruisy Area","Cruising Areas",1975,"",-111.941538,33.433171,"Verified Location",NA,NA,NA,"1975-AZ-0353"
+"Roman Inn","","31 No. 6th Ave","Tucson","AZ","(M)","Hotel",1978,"",-110.9687983,32.2224811,"Google Verified Location",NA,NA,NA,"1978-AZ-0354"
+"Ruth's Coffee Shop","","38 W. 2nd St.","Yuma","AZ","(M),(R)","Restaurant",1978,"",-114.6189651,32.7242805,"Google Verified Location",NA,NA,NA,"1978-AZ-0355"
+"Ruth's Coffee Shop","","38 W. 2nd St.","Yuma","AZ","(M),(R)","Restaurant",1980,"",-114.6189651,32.7242805,"Google Verified Location",NA,NA,NA,"1980-AZ-0356"
+"Ruth's Coffee Shop","","38 W. 2nd St.","Yuma","AZ","(M),(R)","Restaurant",1979,"",-114.6189651,32.7242805,"Google Verified Location",NA,NA,NA,"1979-AZ-0357"
+"Ruth's Coffee Shop","","38 W. 2nd St.","Yuma","AZ","(M),(R),(C),(AH)","Restaurant",1977,"",-114.6189651,32.7242805,"Google Verified Location",NA,NA,NA,"1977-AZ-0358"
+"Ruth's Coffee Shop","","38 W. 2nd St.","Yuma","AZ","(M),(R),(C),(AH)","Restaurant",1976,"",-114.6189651,32.7242805,"Google Verified Location",NA,NA,NA,"1976-AZ-0359"
+"S.S Jug","(Unisex)","4101 E. Washington","Phoenix","AZ","(YC),(D)","Bars/Clubs",1974,"",-111.9926394,33.4477851,"Google Verified Location",NA,NA,NA,"1974-AZ-0360"
+"Sambo's","(Across from Jekyll's)","","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1980,"",-110.997332,32.260884,"Verified Location",NA,NA,NA,"1980-AZ-0361"
+"San Carlos Hotel Bar","San Carlos Hotel","202 S. Central","Phoenix","AZ","(M),(RT)","Hotel,Bars/Clubs",1970,"",-112.0740689,33.4460591,"Google Verified Location",NA,NA,NA,"1970-AZ-0362"
+"Santa Rita Hotel Bar","","109 S Scott","Tucson","AZ","(M)","Bars/Clubs,Hotel",1965,"",-110.9697115,32.2208324,"Google Verified Location",NA,NA,NA,"1965-AZ-0363"
+"Seventy-One Hundred North","(The Habit)","7100 N. 7th St.","Phoenix","AZ","(G),(D),(*)","Bars/Clubs",1978,"",-112.0654829,33.5403113,"Google Verified Location",NA,NA,NA,"1978-AZ-0364"
+"Shack Book Store","","3024 N. Scottsdale Dr.","Scottsdale","AZ","(M)","Book Store",1980,"",-111.927471,33.4829715,"Google Verified Location",NA,NA,NA,"1980-AZ-0365"
+"Shack Book Store","","3024 N. Scottsdale Dr.","Scottsdale","AZ","(M)","Book Store",1976,"",-111.927471,33.4829715,"Google Verified Location",NA,NA,NA,"1976-AZ-0366"
+"Shack Book Store","","3024 N. Scottsdale Dr.","Scottsdale","AZ","(M)","Book Store",1978,"",-111.927471,33.4829715,"Google Verified Location",NA,NA,NA,"1978-AZ-0367"
+"Shack Book Store","","3024 N. Scottsdale Dr.","Scottsdale","AZ","(M)","Book Store",1977,"",-111.927471,33.4829715,"Google Verified Location",NA,NA,NA,"1977-AZ-0368"
+"Shack Book Store","","3024 N. Scottsdale Dr.","Scottsdale","AZ","(M)","Book Store",1979,"",-111.927471,33.4829715,"Google Verified Location",NA,NA,NA,"1979-AZ-0369"
+"Shakey Drake's","","100 blk of San Francisco Street","Flagstaff","AZ","(M)","Bars/Clubs",1976,"",-111.648919,35.195423,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-AZ-0370"
+"Shanty","","4th Ave at 9th St.","Tucson","AZ","(M)","Bars/Clubs",1976,"",-110.965531,32.223855,"Verified Location",NA,NA,NA,"1976-AZ-0371"
+"Side Door","","441 E. Main","Mesa ","AZ","(M),(W)","Bars/Clubs",1978,"",-111.8215017,33.4149851,"Google Verified Location",NA,NA,NA,"1978-AZ-0372"
+"Sir James","","4241 N. Oracle Rd.","Tucson","AZ","(YC),(D),(*)","Bars/Clubs",1973,"",-110.9798594,32.2836866,"Google Verified Location",NA,NA,NA,"1973-AZ-0373"
+"Sir James","","4241 N. Oracle Rd.","Tucson","AZ","(D),(*)","Bars/Clubs",1974,"",-110.9798594,32.2836866,"Google Verified Location",NA,NA,NA,"1974-AZ-0374"
+"Sir James","","4241 N. Oracle Rd.","Tucson","AZ","(YC),(D),(*)","Bars/Clubs",1972,"",-110.9798594,32.2836866,"Google Verified Location",NA,NA,NA,"1972-AZ-0375"
+"Sir James","","4241 N. Oracle Rd.","Tucson","AZ","(YC),(D),(*)","Bars/Clubs",1971,"",-110.9798594,32.2836866,"Google Verified Location",NA,NA,NA,"1971-AZ-0376"
+"Sky Chief","(Bar only-WE)","1530 E. 32nd","Yuma","AZ","(M)","Bars/Clubs",1977,"",-114.6062893,32.6699735,"Google Verified Location",NA,NA,NA,"1977-AZ-0377"
+"Sky Chief","(Bar only-WE)","1530 E. 32nd","Yuma","AZ","(M)","Bars/Clubs",1976,"",-114.6062893,32.6699735,"Google Verified Location",NA,NA,NA,"1976-AZ-0378"
+"Sky Chief ","(Bar only-WE) ","1530 E. 32nd St.","Yuma","AZ","(M),(WE)","Bars/Clubs",1979,"",-114.6062893,32.6699735,"Google Verified Location",NA,NA,NA,"1979-AZ-0379"
+"Sky Chief ","(Bar only-WE) ","1530 E. 32nd St.","Yuma","AZ","(M),(WE)","Bars/Clubs",1980,"",-114.6062893,32.6699735,"Google Verified Location",NA,NA,NA,"1980-AZ-0380"
+"South Seas","","32 E. Monroe","Phoenix","AZ","","Bars/Clubs",1966,"",-112.0727166,33.4507949,"Google Verified Location",NA,NA,NA,"1966-AZ-0381"
+"South Seas","","32 E. Monroe","Phoenix","AZ","(*)","Bars/Clubs",1965,"",-112.0727166,33.4507949,"Google Verified Location",NA,NA,NA,"1965-AZ-0382"
+"South Seas","","32 E. Monroe","Phoenix","AZ","","Bars/Clubs",1968,"",-112.0727166,33.4507949,"Google Verified Location",NA,NA,NA,"1968-AZ-0383"
+"Speedway Adult Books","","3660 E. Speedway","Tucson","AZ","","Book Store",1978,"",-110.9142359,32.2356327,"Google Verified Location",NA,NA,NA,"1978-AZ-0384"
+"Speedway Adult Books","","3660 E. Speedway","Tucson","AZ","(M)","Book Store",1979,"",-110.9142359,32.2356327,"Google Verified Location",NA,NA,NA,"1979-AZ-0385"
+"Sportsmen ","","4622 N. 7th St.","Phoenix","AZ","(*)","Bars/Clubs",1971,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1971-AZ-0386"
+"Sportsmen ","","4622 N. 7th St.","Phoenix","AZ","(*)","Bars/Clubs",1970,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1970-AZ-0387"
+"Sportsmen "," (Also (C) after hours next door)","4622 N. 7th St.","Phoenix","AZ","(*),(D),(C)","Bars/Clubs",1972,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1972-AZ-0388"
+"Sportsmen Lounge","(Disco) (C-AH-WE*)","4622 N. 7th St.","Phoenix","AZ","(D),(PT),(C),(AH),(WE),(*)","Bars/Clubs",1980,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1980-AZ-0389"
+"Sportsmen Lounge","(Disco) (C-AH-WE*) (Some G)","4622 N. 7th St.","Phoenix","AZ","(D),(PT),(C),(AH),(WE),(*),(G)","Bars/Clubs",1979,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1979-AZ-0390"
+"Sportsmen Lounge"," (Also coffee after hours next door)","4622 N. 7th St.","Phoenix","AZ","(*),(HIP),(YC),(D)","Bars/Clubs",1973,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1973-AZ-0391"
+"Sportsmen Lounge","(Disco) (also C-AH)","4622 N. 7th St.","Phoenix","AZ","(D),(PT),(C),(AH)","Bars/Clubs",1978,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1978-AZ-0392"
+"Sportsmen Lounge","(Disco) (Also (C) (AH) enter through rear parking lot)","4622 N. 7th St.","Phoenix","AZ","(*),(D),(C),(AH),(HIP),(RT)","Bars/Clubs",1976,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1976-AZ-0393"
+"Sportsmen Lounge","(Disco) (Some B) (Also C-AH)","4622 North. 7th St.","Phoenix","AZ","(*),(D),(B),(C),(AH)","Bars/Clubs",1977,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1977-AZ-0394"
+"Sportsmen Lounge"," (Also (C) (R) after hours next door at the 'Other Side' ","4622 N. 7th St.","Phoenix","AZ","(*),(HIP),(YC),(D),(C),(R)","Bars/Clubs,Restaurant",1974,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1974-AZ-0395"
+"Sportsmen Lounge","(Disco) (Also (C) (R) after hours - Enter through parking lot in rear)","4622 N. 7th St.","Phoenix","AZ","(*),(HIP),(YC),(D),(C),(R)","Bars/Clubs,Restaurant",1975,"",-112.0653068,33.5044783,"Google Verified Location",NA,NA,NA,"1975-AZ-0396"
+"St. Elmo's","","36 Brewery Gulch Ave.","Bisbee","AZ","(M),(HIP),(YC)","Bars/Clubs",1979,"",-109.9133553,31.4485845,"Google Verified Location",NA,NA,NA,"1979-AZ-0397"
+"St. Elmo's","","36 Brewery Gulch Ave.","Bisbee","AZ","(M),(HIP),(YC)","Bars/Clubs",1978,"",-109.9133553,31.4485845,"Google Verified Location",NA,NA,NA,"1978-AZ-0398"
+"St. Elmo's","","36 Brewery Gulch Ave.","Bisbee","AZ","(M),(HIP),(YC)","Bars/Clubs",1980,"",-109.9133553,31.4485845,"Google Verified Location",NA,NA,NA,"1980-AZ-0399"
+"Stardust Motel Lounge","","2350 S. 4th St. ","Yuma","AZ","(M),(E),(R)","Hotel,Restaurant",1977,"",-114.6256313,32.685289,"Google Verified Location",NA,NA,NA,"1977-AZ-0400"
+"Stardust Motel Lounge","","2350 S. 4th St. ","Yuma","AZ","(M),(E)","Hotel",1978,"",-114.6256313,32.685289,"Google Verified Location",NA,NA,NA,"1978-AZ-0401"
+"Stardust Motel Lounge","","2350 S. 4th St. ","Yuma","AZ","(M),(E)","Hotel",1979,"",-114.6256313,32.685289,"Google Verified Location",NA,NA,NA,"1979-AZ-0402"
+"Stardust Motel Lounge","","2350 S. 4th St. ","Yuma","AZ","(M),(E),(R)","Hotel,Restaurant",1976,"",-114.6256313,32.685289,"Google Verified Location",NA,NA,NA,"1976-AZ-0403"
+"Stardust Motel Lounge","","2350 S. 4th St. ","Yuma","AZ","(M),(E)","Hotel",1980,"",-114.6256313,32.685289,"Google Verified Location",NA,NA,NA,"1980-AZ-0404"
+"Stonewall","(Disco) (Wednesday-Friday- and Saturday only-adjoins ""The Back Pocket"" ","2921 N. 1st Avenue","Tucson","AZ","(*),(YC),(D)","Bars/Clubs",1977,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1977-AZ-0405"
+"Stonewall","(Disco) ","2921 N. 1st Avenue","Tucson","AZ","(HIP),(YC),(D),(*)","Bars/Clubs",1976,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1976-AZ-0406"
+"Stonewall","(Disco) May be opening patio (R) in back","2921 N. 1st Avenue","Tucson","AZ","(HIP),(YC),(D),(*),(R)","Bars/Clubs,Restaurant",1975,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1975-AZ-0407"
+"Stonewall","","2921 N. 1st Avenue","Tucson","AZ","(YC),(D),(*)","Bars/Clubs",1974,"",-110.9614089,32.2607716,"Google Verified Location",NA,NA,NA,"1974-AZ-0408"
+"Sugar Shack","(Some G) ","4211 N. 7th St.","Phoenix","AZ","(G),(D)","Bars/Clubs",1976,"",-112.0648,33.4969979,"Google Verified Location",NA,NA,NA,"1976-AZ-0409"
+"Sugar Shack","","4211 N. 7th St.","Phoenix","AZ","","Bars/Clubs",1975,"",-112.0648,33.4969979,"Google Verified Location",NA,NA,NA,"1975-AZ-0410"
+"Swim & Sea Athletic Club","(Men only, swim pool, sauna) (Cruisy) Desert Pool Motel","2922 E. Van Buren","Phoenix","AZ","(*)","Cruising Areas,Organizations,Hotel",1979,"",-112.0181314,33.4515707,"Google Verified Location",NA,NA,NA,"1979-AZ-0411"
+"Swim & Sea Athletic Club","(Men only)Desert Pool Motel","2922 E. Van Buren","Phoenix","AZ","(*)","Organizations,Hotel",1978,"",-112.0181314,33.4515707,"Google Verified Location",NA,NA,NA,"1978-AZ-0412"
+"Swim & Sea Athletic Club","(Men only, swim pool, sauna) (Cruisy) Desert Pool Motel","2922 E. Van Buren","Phoenix","AZ","(*)","Cruising Areas,Organizations,Hotel",1980,"",-112.0181314,33.4515707,"Google Verified Location",NA,NA,NA,"1980-AZ-0413"
+"Talk of the Town","(Some G)","3701 N. 16th St. ","Phoenix","AZ","(*),(G)","Bars/Clubs",1978,"",-112.0473122,33.4905365,"Google Verified Location",NA,NA,NA,"1978-AZ-0414"
+"Talk of the Town","(Disco)","3701 N. 16th St. ","Phoenix","AZ","(D),(*),(G)","Bars/Clubs",1979,"",-112.0473122,33.4905365,"Google Verified Location",NA,NA,NA,"1979-AZ-0415"
+"Talk of the Town","(Disco) ","3701 N. 16th St. ","Phoenix","AZ","(L),(D),(*)","Bars/Clubs",1980,"",-112.0473122,33.4905365,"Google Verified Location",NA,NA,NA,"1980-AZ-0416"
+"The Ranch","(approx 40 mi. NE of Phoenix","","Lower Lake Pleasant","AZ","(H)","Hotel",1968,"",-112.27299,33.839982,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1968-AZ-0417"
+"The Ranch","(approx 40 Mi. N.E. of Phoenix","","Lower Lake Pleasant","AZ","(H)","Hotel",1969,"",-112.27299,33.839982,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-AZ-0418"
+"Three-O-Seven","","222 E. Roosevelt at N. 3rd St.","Phoenix","AZ","(RT),(*)","Bars/Clubs",1974,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1974-AZ-0419"
+"Three-O-Seven Club","","222 E. Roosevelt at N. 3rd St.","Phoenix","AZ","(OC),(*)","Bars/Clubs",1977,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1977-AZ-0420"
+"Three-O-Seven Club","","222 E. Roosevelt at N. 3rd St.","Phoenix","AZ","(OC),(*)","Bars/Clubs",1976,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1976-AZ-0421"
+"Three-O-Seven Club","","E. Roosevelt at N. 3rd St.","Phoenix","AZ","(RT),(*)","Bars/Clubs",1973,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1973-AZ-0422"
+"Three-O-Seven Club","","E. Roosevelt at N. 3rd St.","Phoenix","AZ","(RT)","Bars/Clubs",1969,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1969-AZ-0423"
+"Three-O-Seven Club","","E. Roosevelt & N. 3rd St.","Phoenix","AZ","(*)","Bars/Clubs",1971,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1971-AZ-0424"
+"Three-O-Seven Club","","222 E. Roosevelt at N. 3rd St.","Phoenix","AZ","(RT),(*)","Bars/Clubs",1975,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1975-AZ-0425"
+"Three-O-Seven Club","","E. Roosevelt & N. 3rd St.","Phoenix","AZ","(*)","Bars/Clubs",1972,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1972-AZ-0426"
+"Three-O-Seven Club","","E. Roosevelt 3rd St.","Phoenix","AZ","(*)","Bars/Clubs",1970,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1970-AZ-0427"
+"Three-O-Seven Lounge","","222 E. Roosevelt N. 3rd St.","Phoenix","AZ","(OC),(PT)","Bars/Clubs",1979,"",-112.068901,33.4588546,"Google Verified Location",NA,NA,NA,"1979-AZ-0428"
+"Three-O-Seven Lounge","","222 E. Roosevelt N. 3rd St.","Phoenix","AZ","(OC),(PT)","Bars/Clubs",1980,"",-112.068901,33.4588546,"Google Verified Location",NA,NA,NA,"1980-AZ-0429"
+"Three-O-Seven Lounge","(Some OC)","222 E. Roosevelt at N. 3rd St.","Phoenix","AZ","(OC),(PT),(*)","Bars/Clubs",1978,"",-112.070155,33.458785,"Verified Location",NA,NA,NA,"1978-AZ-0430"
+"Tool Shed","(also (C) after hrs.) ","3558 Grand Ave.","Phoenix","AZ","(D),(C)","Bars/Clubs",1971,"",-112.1356655,33.4964881,"Google Verified Location",NA,NA,NA,"1971-AZ-0431"
+"Tool Shed","","3558 Grand Ave","Phoenix","AZ","(D),(M)","Bars/Clubs",1972,"",-112.1356655,33.4964881,"Google Verified Location",NA,NA,NA,"1972-AZ-0432"
+"Toole Box","(Cruisy maze & 'wild back room') (Enter thru lobby of MacArthur Hotel) ","347 E. Toole Ave","Tucson","AZ","(P),(AH),(BYOB),(*)","Cruising Areas,Bars/Clubs,Hotel",1980,"",-110.9676647,32.2232719,"Google Verified Location",NA,NA,NA,"1980-AZ-0433"
+"Toole Box","(Cruisy maze & 'wild back room') (Enter thru lobby of MacArthur Hotel) ","347 E. Toole Ave","Tucson","AZ","(P),(AH),(BYOB),(*)","Cruising Areas,Bars/Clubs,Hotel",1979,"",-110.9676647,32.2232719,"Google Verified Location",NA,NA,NA,"1979-AZ-0434"
+"Tri-City Mall","","","Mesa ","AZ","Cruisy Area","Cruising Areas",1978,"",-111.873996,33.414851,"Verified Location",NA,NA,NA,"1978-AZ-0435"
+"Tri-City Mall","","","Mesa ","AZ","Cruisy Area","Cruising Areas",1979,"",-111.873996,33.414851,"Verified Location",NA,NA,NA,"1979-AZ-0436"
+"Tri-City Mall","","","Mesa ","AZ","Cruisy Area","Cruising Areas",1980,"",-111.873996,33.414851,"Verified Location",NA,NA,NA,"1980-AZ-0437"
+"Triangle Bar","(Some G)","1413 E. Factory Avenue ","Tucson","AZ","(M),(G)","Bars/Clubs",1975,"",-110.9268955,32.2213099,"Google Verified Location",NA,NA,NA,"1975-AZ-0438"
+"Truth Chapel ","","2640 N. Dodge","Tucson","AZ","(MCC)","Church",1980,"",-110.9137966,32.2550097,"Google Verified Location",NA,NA,NA,"1980-AZ-0439"
+"U. of Ariz.","Economics Bldg-1st floor T-Room","","Tucson","AZ","Cruisy Area","Cruising Areas",1978,"",-110.950109,32.231885,"Verified Location",NA,NA,NA,"1978-AZ-0440"
+"U. of Arizona","Econ. Bldg-1st floor T-Room","","Tucson","AZ","Cruisy Area","Cruising Areas,Organizations",1979,"",-110.950109,32.231885,"Verified Location",NA,NA,NA,"1979-AZ-0441"
+"U. of Arizona","Econ. Bldg-1st floor T-Room","","Tucson","AZ","Cruisy Area","Cruising Areas",1980,"",-110.950109,32.231885,"Verified Location",NA,NA,NA,"1980-AZ-0442"
+"U. of Arizona","Economics Bldg-1st floor T-Room","","Tucson","AZ","Cruisy Area","Cruising Areas",1976,"",-110.950109,32.231885,"Verified Location",NA,NA,NA,"1976-AZ-0443"
+"U. of N. Arizona","Basement T-Room","","Flagstaff","AZ","Cruisy Area","Cruising Areas,Organizations",1978,"",-111.653968,35.18044,"Verified Location",NA,NA,NA,"1978-AZ-0444"
+"U. of N. Arizona","Basement T-Room","","Flagstaff","AZ","Cruisy Area","Cruising Areas,Organizations",1979,"",-111.653968,35.18044,"Verified Location",NA,NA,NA,"1979-AZ-0445"
+"Uncle Ted's Bookstore","","1800 E. McDowell Rd.","Phoenix","AZ","","Book Store",1978,"",-112.0433394,33.465779,"Google Verified Location",NA,NA,NA,"1978-AZ-0446"
+"Uncle Ted's Bookstore","(Cruisy)","1800 E. McDowell Rd.","Phoenix","AZ","(*)","Book Store,Cruising Areas",1977,"",-112.0433394,33.465779,"Google Verified Location",NA,NA,NA,"1977-AZ-0447"
+"Union 76 Truck Stop","","","Toltec","AZ","Cruisy Area","Cruising Areas",1980,"",-111.617776,32.773731,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0448"
+"Union 76 Truck Stop","","","Toltec","AZ","Cruisy Area","Cruising Areas",1979,"",-111.617776,32.773731,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-AZ-0449"
+"Union 76 Truck Stop","","","Toltec","AZ","Cruisy Area","Cruising Areas",1977,"",-111.617776,32.773731,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-AZ-0450"
+"Union 76 Truck Stop","","","Toltec","AZ","Cruisy Area","Cruising Areas",1978,"",-111.617776,32.773731,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-AZ-0451"
+"University of Arizona","Economics Bldg-1st floor T-Room","","Tucson","AZ","Cruisy Area","Cruising Areas",1977,"",-110.950109,32.231885,"Verified Location",NA,NA,NA,"1977-AZ-0452"
+"Unlimited","","2320 N. 32nd at Oak","Phoenix","AZ","(G),(R),(*)","Restaurant",1979,"",-112.013194,33.473851,"Verified Location",NA,NA,NA,"1979-AZ-0453"
+"Unlimited","","2320 N. 32nd at Oak","Phoenix","AZ","(G),(*)","Restaurant",1978,"",-112.013194,33.473851,"Verified Location",NA,NA,NA,"1978-AZ-0454"
+"Unlimited ","","2320 N. 32nd Oak","Phoenix","AZ","(R),(L)","Restaurant",1980,"",-112.0132072,33.4738447,"Google Verified Location",NA,NA,NA,"1980-AZ-0455"
+"Varisty Inn","","801. E. Apache","Tempe","AZ","(M),(YC)","Bars/Clubs,Hotel",1974,"",-111.9271674,33.4144523,"Google Verified Location",NA,NA,NA,"1974-AZ-0456"
+"Varisty Lounge","","801. E. Apache","Tempe","AZ","(M),(YC)","Bars/Clubs",1975,"",-111.9271674,33.4144523,"Google Verified Location",NA,NA,NA,"1975-AZ-0457"
+"Venus Book Store","(Cruisy)","4715 W. Glendale","Glendale","AZ","(*)","Book Store,Cruising Areas",1979,"",-112.1607596,33.538086,"Google Verified Location",NA,NA,NA,"1979-AZ-0458"
+"Venus Book Store","(Cruisy)","4715 W. Glendale","Glendale","AZ","(*)","Book Store,Cruising Areas",1978,"",-112.1607596,33.538086,"Google Verified Location",NA,NA,NA,"1978-AZ-0459"
+"Venus Book Store","","4715 W. Glendale","Glendale","AZ","","Book Store",1977,"",-112.1607596,33.538086,"Google Verified Location",NA,NA,NA,"1977-AZ-0460"
+"Venus Book Store","(Cruisy)","4715 W. Glendale","Glendale","AZ","(*)","Book Store,Cruising Areas",1980,"",-112.1607596,33.538086,"Google Verified Location",NA,NA,NA,"1980-AZ-0461"
+"Venus Book Store","","4715 W. Glendale","Glendale","AZ","","Book Store",1976,"",-112.1607596,33.538086,"Google Verified Location",NA,NA,NA,"1976-AZ-0462"
+"Village","","1500 N. Miracle Mile","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1977,"",-110.9974423,32.2612915,"Google Verified Location",NA,NA,NA,"1977-AZ-0463"
+"Village","","1500 N. Miracle Mile","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1978,"",-110.9974423,32.2612915,"Google Verified Location",NA,NA,NA,"1978-AZ-0464"
+"Village Inn","","1500 N. Miracle Mile","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1976,"",-110.9974423,32.2612915,"Google Verified Location",NA,NA,NA,"1976-AZ-0465"
+"Village Inn","","1500 N. Miracle Mile","Tucson","AZ","(M),(R),(C),(AH)","Restaurant",1975,"",-110.9974423,32.2612915,"Google Verified Location",NA,NA,NA,"1975-AZ-0466"
+"Walden's Book Store","","Camelview Plaza Mall","Scottsdale","AZ","","Book Store",1978,"",-111.929319,33.502792,"Verified Location",NA,NA,NA,"1978-AZ-0467"
+"Walgreen's","Stone & Congress","","Tucson","AZ","Cruisy Area","Cruising Areas",1979,"",-110.971264,32.221874,"Verified Location",NA,NA,NA,"1979-AZ-0468"
+"Walgreen's","Stone & Congress","","Tucson","AZ","Cruisy Area","Cruising Areas",1977,"",-110.971264,32.221874,"Verified Location",NA,NA,NA,"1977-AZ-0469"
+"Walgreen's","Stone & Congress","","Tucson","AZ","Cruisy Area","Cruising Areas",1980,"",-110.971264,32.221874,"Verified Location",NA,NA,NA,"1980-AZ-0470"
+"Walgren's","Stone & Congress","","Tucson","AZ","Cruisy Area","Cruising Areas",1978,"Misspelled in entry in book, Walgreens",-110.971264,32.221874,"Verified Location",NA,NA,NA,"1978-AZ-0471"
+"Westward Ho Hotel Bar","","618 N Central Av","Phoenix","AZ","(M)","Hotel,Bars/Clubs",1965,"",-112.0740651,33.455161,"Google Verified Location",NA,NA,NA,"1965-AZ-0472"
+"Wherehouse Theatre","","1832 Grand Ave","Phoenix","AZ","","Theatre",1980,"",-112.0988903,33.4649573,"Google Verified Location",NA,NA,NA,"1980-AZ-0473"
+"Wild Willie's","","1622 Grand Ave.","Phoenix","AZ","(W),(SM),(*)","Bars/Clubs",1976,"",-112.0941036,33.461229,"Google Verified Location",NA,NA,NA,"1976-AZ-0474"
+"Woman's Place","(Books, etc.)","32nd & Oak","Phoenix","AZ","","Book Store",1979,"",-112.012932,33.473114,"Verified Location",NA,NA,NA,"1979-AZ-0475"
+"Woman's Place","(Books, etc.)","32nd & Oak","Phoenix","AZ","","Book Store",1980,"",-112.012932,33.473114,"Verified Location",NA,NA,NA,"1980-AZ-0476"
+"Yuma Downtown Mall","","","Yuma","AZ","Cruisy Area","Cruising Areas",1979,"",-114.627692,32.692651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-AZ-0477"
+"Yuma Downtown Mall","","","Yuma","AZ","Cruisy Area","Cruising Areas",1977,"",-114.627692,32.692651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-AZ-0478"
+"Yuma Downtown Mall","","","Yuma","AZ","Cruisy Area","Cruising Areas",1978,"",-114.627692,32.692651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-AZ-0479"
+"Yuma Downtown Mall","","","Yuma","AZ","Cruisy Area","Cruising Areas",1980,"",-114.627692,32.692651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-AZ-0480"
+"Yuma Downtown Mall","","","Yuma","AZ","Cruisy Area","Cruising Areas",1976,"",-114.627692,32.692651,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-AZ-0481"

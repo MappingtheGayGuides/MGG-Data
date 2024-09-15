@@ -1,321 +1,321 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-14878,CT277,'Rest Stop' on Rt. 6,nr. Stealy Tool Co.,,Bristol,CT,,Cruising Areas,1980,,-72.94927,41.671765,Location could not be verified. General city or location coordinates used.
-14917,CT316,'Rest Stop' on Rte. 15,,Wilbur Cross Pwky E.,Orange,CT,,Cruising Areas,1980,,-73.047377,41.281021,Location could not be verified. General city or location coordinates used.
-14841,CT240,'Rest Stops' on I-95,"nr. Darien, Milford, & Fairfield",,Bridgeport,CT,,Cruising Areas,1979,,-73.189438,41.179226,Location could not be verified. General city or location coordinates used.
-14877,CT276,'Rest Stops' on I-95,"nr. Darien, Milford, & Fairfield",,Bridgeport,CT,,Cruising Areas,1980,,-73.189438,41.179226,Location could not be verified. General city or location coordinates used.
-14748,CT147,'The Dikes',East-West service road off I-91 No.,,Hartford,CT,,Cruising Areas,1978,NA,-72.6733723,41.7658043,Google Verified Location
-14895,CT294,'The Dikes',East-West Service Rd. off I-91 N.,,Hartford,CT,,Cruising Areas,1980,,-72.667475,41.763964,Location could not be verified. General city or location coordinates used.
-14896,CT295,'The Glens',"'Rest Stop' on Rte. 15, 1 mi. S. of Jct. I-91",,Meriden,CT,(AYOR),Cruising Areas,1980,,-72.807043,41.538154,Location could not be verified. General city or location coordinates used.
-14874,CT273,"'Truck Stop' on I-95, exit 18",,,Westport,CT,,Cruising Areas,1979,,-73.358639,41.164325,Verified Location
-14838,CT237,"'Truck Stop' on I-95, exit 18",,,Westport,CT,,Cruising Areas,1978,,-73.358639,41.164325,Verified Location
-14853,CT252,"""The Dikes""",East-West Service Rd. off I-91 N.,,Hartford,CT,,Cruising Areas,1979,,-72.667475,41.763964,Location could not be verified. General city or location coordinates used.
-14854,CT253,"""The Glens""","'Rest stop' on Rte. 15, 1 mi. S of Jct. I-91",,Meriden,CT,(AYOR),Cruising Areas,1979,,-72.807043,41.538154,Location could not be verified. General city or location coordinates used.
-14855,CT254,After Dark ,(Disco),20 Chestnut St. ,New Britain,CT,"(YC),(D),(*)",Bars/Clubs,1979,NA,-72.7806001,41.6659901,Google Verified Location
-14915,CT314,Answer Cafe ,(Some L)( 4 mi. W. on US 7),235 Dansbury Rd. ,New Milford,CT,"(*),(R),(D),(L),(PT)",Restaurant,1980,NA,-73.4209278,41.5439632,Google Verified Location
-14832,CT231,Answer Cafe ,(4 mi. W. on US 7),235 Danbury Rd. ,New Milford,CT,"(R),(D),(G),(PT),(WE),(*)",Restaurant,1978,NA,-73.4209278,41.5439632,Google Verified Location
-14871,CT270,Answer Cafe ,(Some G)(4 mi. W. on US 7),235 Dansbury Rd. ,New Milford,CT,"(*),(R),(D),(G),(PT)",Restaurant,1979,NA,-73.4209278,41.5439632,Google Verified Location
-14749,CT148,Arthur's Place ,,334 Whalley Ave. ,New Haven,CT,"(YC),(B),(D)",Bars/Clubs,1978,NA,-72.9441149,41.3169229,Google Verified Location
-14641,CT040,Asylum Ave.,,,Hartford,CT,,Cruising Areas,1974,,-72.700655,41.772385,Verified Location
-14815,CT214,Asylum Ave.,,,Hartford,CT,,Cruising Areas,1975,,-72.700655,41.772385,Verified Location
-14697,CT096,Asylum Avenue,,,Hartford,CT,,Cruising Areas,1976,,-72.700655,41.772385,Verified Location
-14721,CT120,Asylum Avenue,,,Hartford,CT,,Cruising Areas,1977,,-72.700655,41.772385,Verified Location
-14628,CT027,Asylum St.,,,Hartford,CT,,Cruising Areas,1972,,-72.700655,41.772385,Verified Location
-14782,CT181,Asylum St.,,,Hartford,CT,,Cruising Areas,1973,,-72.700655,41.772385,Verified Location
-14691,CT090,Attic ,(Unisex)(Upstairs),495 1/2 Farmington,Hartford,CT,"(D),(AH)",Bars/Clubs,1976,NA,-72.6876004,41.7680811,Google Verified Location
-14881,CT280,Banana Disco ,(Unisex) ,145 Service Rd. ,Hartford,CT,"(*),(YC),(D)",Bars/Clubs,1980,NA,-72.6574036,41.7902321,Google Verified Location
-14843,CT242,Banana Disco ,(Unisex),145 Service Rd. ,Hartford,CT,"(*),(YC),(D)",Bars/Clubs,1979,NA,-72.6574036,41.7902321,Google Verified Location
-14833,CT232,Bell II,(Disco),440 West Port Ave. ,Norwalk,CT,"(YC),(D),(*)",Bars/Clubs,1978,NA,-73.3889004,41.1259581,Google Verified Location
-14710,CT109,Black Rock ,,2931 Fairfield Avenue ,Bridgeport,CT,"(R),(OC),(G)",Restaurant,1977,NA,-73.2275664,41.156396,Google Verified Location
-14735,CT134,Black Rock ,,2931 Fairfield Ave. ,Bridgeport,CT,"(R),(OC),(G)",Restaurant,1978,NA,-73.2275664,41.156396,Google Verified Location
-14839,CT238,Black Rock ,,2931 Fairfield Ave. ,Bridgeport,CT,"(G),(OC),(R)",Restaurant,1979,NA,-73.2275664,41.156396,Google Verified Location
-14652,CT051,Black Rock ,,2931 Fairfield Ave. ,Bridgeport,CT,"(R),(OC),(G)","Bars/Clubs,Restaurant",1976,NA,-73.2275664,41.156396,Google Verified Location
-14875,CT274,Black Rock ,,2931 Fairfield Ave.,Bridgeport,CT,"(L),(OC),(R)",Restaurant,1980,NA,-73.2275664,41.156396,Google Verified Location
-14645,CT044,Brass Rail ,,141 Main St. ,Danbury,CT,(*),Bars/Clubs,1975,NA,-73.449955,41.3926826,Google Verified Location
-14655,CT054,Brass Rail ,,141 Main St. ,Danbury,CT,(*),Bars/Clubs,1976,NA,-73.449955,41.3926826,Google Verified Location
-14898,CT297,Burritt Hotel Bar & T-Room,,W. Main & Washington,New Britain,CT,,Cruising Areas,1980,,-72.783418,41.667435,Verified Location
-14892,CT291,Bushnall Park,,,Hartford,CT,,Cruising Areas,1980,,-72.679236,41.765134,Verified Location
-14647,CT046,Cafe Lib ,,132 New Park Ave. ,Hartford,CT,(G),Bars/Clubs,1975,NA,-72.7084785,41.7529835,Google Verified Location
-14738,CT137,Cafe Lib ,,132 New Park Ave. ,Hartford,CT,(G),Bars/Clubs,1978,NA,-72.7084785,41.7529835,Google Verified Location
-14692,CT091,Cafe Lib ,(Some G),132 New Park Ave. ,Hartford,CT,(G),Bars/Clubs,1976,NA,-72.7084785,41.7529835,Google Verified Location
-14714,CT113,Cafe Lib ,,132 New Park Aven,Hartford,CT,(G),Bars/Clubs,1977,NA,-72.7084785,41.7529835,Google Verified Location
-14736,CT135,Casbah ,(Drags),1277 No. Main St. ,Bridgeport,CT,"(M),(RT),(B),(WE),(*)",Bars/Clubs,1978,NA,-73.1808077,41.1920675,Google Verified Location
-14876,CT275,Casbah ,('Drags'),1277 N. Main St. ,Bridgeport,CT,"(M),(RT),(B)",Bars/Clubs,1980,NA,-73.1808077,41.1920675,Google Verified Location
-14840,CT239,Casbah ,('Drags'),1277 N. Main St. ,Bridgeport,CT,"(M),(RT),(B)",Bars/Clubs,1979,NA,-73.1808077,41.1920675,Google Verified Location
-14680,CT079,Casbar,,1277 N. Main St. ,Bridgeport,CT,,Bars/Clubs,1970,NA,-73.1808077,41.1920675,Google Verified Location
-14608,CT007,Casbar,,1277 N. Main St. ,Bridgeport,CT,,Bars/Clubs,1966,NA,-73.1808077,41.1920675,Google Verified Location
-14672,CT071,Casbar,,1277 N. Main St. ,Bridgeport,CT,,Bars/Clubs,1969,NA,-73.1808077,41.1920675,Google Verified Location
-14765,CT164,Casbar,,1277 N. Main St. ,Bridgeport,CT,(M),Bars/Clubs,1972,NA,-73.1808077,41.1920675,Google Verified Location
-14687,CT086,Casbar,,1277 N. Main St. ,Bridgeport,CT,(M),Bars/Clubs,1971,NA,-73.1808077,41.1920675,Google Verified Location
-14662,CT061,Casbar,,1277 N. Main St. ,Bridgeport,CT,,Bars/Clubs,1968,NA,-73.1808077,41.1920675,Google Verified Location
-14792,CT191,Casbar,,1277 N. Main St. ,Bridgeport,CT,(M),Bars/Clubs,1974,NA,-73.1808077,41.1920675,Google Verified Location
-14779,CT178,Casbar,,1277 N. Main St. ,Bridgeport,CT,(M),Bars/Clubs,1973,NA,-73.1808077,41.1920675,Google Verified Location
-14807,CT206,Casbar,,1277 N. Main St. ,Bridgeport,CT,(M),Bars/Clubs,1975,NA,-73.1808077,41.1920675,Google Verified Location
-14653,CT052,Casbar ,,1277 N. Main St. ,Bridgeport,CT,(*),Bars/Clubs,1976,NA,-73.1808077,41.1920675,Google Verified Location
-14711,CT110,Casbar ,(Drags),1277 North Main Street ,Bridgeport,CT,"(M),(RT),(B),(WE),(*)",Bars/Clubs,1977,NA,-73.1808077,41.1920675,Google Verified Location
-14670,CT069,Cedarbrook Inn,,U.S. Hwy. 1,Westport,CT,,Bars/Clubs,1968,Considered the oldest gay bar in the US when it closed in 2010,-73.333531,41.138583,Verified Location
-14607,CT006,Cedarbrook Inn,,U.S. Hwy. 1,Westport,CT,(G),Bars/Clubs,1965,Considered the oldest gay bar in the US when it closed in 2010,-73.333531,41.138583,Verified Location
-14661,CT060,Cedarbrook Inn,,U.S. Hwy. 1,Westport,CT,,Bars/Clubs,1966,Considered the oldest gay bar in the US when it closed in 2010,-73.333531,41.138583,Verified Location
-14679,CT078,Cedarbrook Inn,,U.S. Hwy. 1,Westport,CT,,Bars/Clubs,1969,Considered the oldest gay bar in the US when it closed in 2010,-73.333531,41.138583,Verified Location
-14778,CT177,Cedarbrook Inn ,,919 E. State St. ,Westport,CT,,Bars/Clubs,1972,NA,-73.3379802,41.1379196,Google Verified Location
-14764,CT163,Cedarbrook Inn ,,919 E. State St. ,Westport,CT,,Bars/Clubs,1971,NA,-73.3379802,41.1379196,Google Verified Location
-14791,CT190,Cedarbrook Inn ,,919 E. State St. ,Westport,CT,,Bars/Clubs,1973,NA,-73.3379802,41.1379196,Google Verified Location
-14806,CT205,Cedarbrook Inn ,,919 E. State St. ,Westport,CT,(G),Bars/Clubs,1974,NA,-73.3379802,41.1379196,Google Verified Location
-14620,CT019,Cedarbrook Inn ,,919 E. State St. ,Westport,CT,,Bars/Clubs,1970,NA,-73.3379802,41.1379196,Google Verified Location
-14826,CT225,Cedarbrook Inn ,,919 E. State St. ,Westport,CT,(G),Bars/Clubs,1975,NA,-73.3379802,41.1379196,Google Verified Location
-14909,CT308,Chapel St. from York to Ark,,,New Haven,CT,,Cruising Areas,1980,,-72.931605,41.30848,Verified Location
-14864,CT263,Chapel St. from York to Ark,,,New Haven,CT,,Cruising Areas,1979,,-72.931605,41.30848,Verified Location
-14706,CT105,Chapel St. from York to Park Sts.,,,New Haven,CT,,Cruising Areas,1976,,-72.931605,41.30848,Verified Location
-14828,CT227,Chapel St. from York to Penn,,,New Haven,CT,,Cruising Areas,1978,,-72.931605,41.30848,Verified Location
-14729,CT128,Chapel Street from York to Park Street,,,New Haven,CT,,Cruising Areas,1977,,-72.931605,41.30848,Verified Location
-14882,CT281,Chez Est,(Some OC)(Cruisy)(Good cocktail hour),238 Columbus Blvd. ,Hartford,CT,"(*),(OC),Cruisy Area","Bars/Clubs,Cruising Areas",1980,NA,-72.6694693,41.7642353,Google Verified Location
-14715,CT114,Chez Est,(looks promising),238 Columbus Boulevard ,Hartford,CT,(OC),Bars/Clubs,1977,NA,-72.6694693,41.7642353,Google Verified Location
-14739,CT138,Chez Est. ,(Some OC)(Cruisy),238 Columbus Blvd. ,Hartford,CT,"(E),(OC),(*),Cruisy Area","Bars/Clubs,Cruising Areas",1978,NA,-72.6694693,41.7642353,Google Verified Location
-14844,CT243,Chez Est. ,(Some OC)(Cruisy),238 Columbus Blvd. ,Hartford,CT,"(*),(E),(OC),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-72.6694693,41.7642353,Google Verified Location
-14693,CT092,Civic Book Store ,,240 Trumbull St. ,Hartford,CT,,Book Store,1976,NA,-72.6750253,41.7680109,Google Verified Location
-14614,CT013,Club 1492 ,,1492 Columbus Rd.,Hartford,CT,"(*),(YC)",Bars/Clubs,1970,NA,-72.6698147,41.764322,Google Verified Location
-14834,CT233,Club Cafe,"(Some G,D)",W. Main St.,Waterbury,CT,"(YC),(G),(D),(*)",Bars/Clubs,1978,,-73.054917,41.556965,Location could not be verified. General city or location coordinates used.
-14918,CT317,Club Cafe ,,384 W. Main St. ,Waterbury,CT,"(*),(D)",Bars/Clubs,1980,NA,-73.0473,41.558052,Google Verified Location
-14883,CT282,Club Hartford Baths ,(E. Hartford),1169 Main St. ,Hartford,CT,(*),Baths,1980,NA,-72.6748214,41.7707614,Google Verified Location
-14716,CT115,Club Hartford Baths ,(East Hartford),1169 Main Street,Hartford,CT,,Baths,1977,NA,-72.6748214,41.7707614,Google Verified Location
-14845,CT244,Club Hartford Baths ,(E. Hartford),1169 Main St. ,Hartford,CT,(*),Baths,1979,NA,-72.6748214,41.7707614,Google Verified Location
-14740,CT139,Club Hartford Baths ,(E. Hartford),1169 Main St. ,Hartford,CT,(*),Baths,1978,NA,-72.6748214,41.7707614,Google Verified Location
-14899,CT298,Club New Haven,"(CBC Baths- may be opening soon, inquire locally)",,New Haven,CT,,Baths,1980,,-72.927883,41.308274,Location could not be verified. General city or location coordinates used.
-14893,CT292,Consititution Plaza,,,Hartford,CT,,Cruising Areas,1980,,-72.67035,41.766818,Verified Location
-14746,CT145,Consititution Plaza,,,Hartford,CT,,Cruising Areas,1978,NA,-72.6733723,41.7658043,Google Verified Location
-14722,CT121,Consititution Plaza,,,Hartford,CT,,Cruising Areas,1977,,-72.67035,41.766818,Verified Location
-14816,CT215,Consitiution Park,,,Hartford,CT,,Cruising Areas,1975,,-72.67035,41.766818,Verified Location
-14642,CT041,Consitiution Park,,,Hartford,CT,,Cruising Areas,1974,,-72.67035,41.766818,Verified Location
-14851,CT250,Constitution Plaza,,,Hartford,CT,,Cruising Areas,1979,,-72.67035,41.766818,Verified Location
-14783,CT182,Constitution Plaza,,,Hartford,CT,,Cruising Areas,1973,,-72.67035,41.766818,Verified Location
-14698,CT097,Constitution Plaza,,,Hartford,CT,,Cruising Areas,1976,,-72.67035,41.766818,Verified Location
-14629,CT028,Constitution Plaza,,,Hartford,CT,,Cruising Areas,1972,,-72.67035,41.766818,Verified Location
-14867,CT266,Corral ,(Disco),727 Bank St. ,New London,CT,"(YC),(D),(*)",Bars/Clubs,1979,NA,-72.1052812,41.349469,Google Verified Location
-14625,CT024,Corral ,,727 Bank St. ,New London,CT,"(YC),(D),(*)",Bars/Clubs,1971,NA,-72.1052812,41.349469,Google Verified Location
-14830,CT229,Corral ,(disco),727 Bank St. ,New London,CT,"(YC),(D),(*)",Bars/Clubs,1978,NA,-72.1052812,41.349469,Google Verified Location
-14730,CT129,Corral ,(also H),727 Bank Street ,New London,CT,"(YC),(D),(*),(H)","Hotel,Bars/Clubs",1977,NA,-72.1052812,41.349469,Google Verified Location
-14822,CT221,Corral ,,727 Bank St. ,New London,CT,"(YC),(D),(*)",Bars/Clubs,1975,NA,-72.1052812,41.349469,Google Verified Location
-14774,CT173,Corral ,,727 Bank St. ,New London,CT,"(YC),(D),(*)",Bars/Clubs,1972,NA,-72.1052812,41.349469,Google Verified Location
-14707,CT106,Corral ,(Also H),727 Bank St. ,New London,CT,"(YC),(D),(*),(H)",Bars/Clubs,1976,NA,-72.1052812,41.349469,Google Verified Location
-14788,CT187,Corral ,,727 Bank St. ,New London,CT,"(YC),(D),(*)",Bars/Clubs,1973,NA,-72.1052812,41.349469,Google Verified Location
-14803,CT202,Corral ,,727 Bank St. ,New London,CT,"(YC),(D),(*)",Bars/Clubs,1974,NA,-72.1052812,41.349469,Google Verified Location
-14856,CT255,Dungeon ,('Les Oubliettes')(Disco)(Cruisy),130 Crown St. at Church ,New Haven,CT,"(*),(YC),(D),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-72.9265396,41.3045258,Google Verified Location
-14750,CT149,Dungeon ,(Disco),39 Crown St. at Church ,New Haven,CT,"(D),(YC),(*)",Bars/Clubs,1978,NA,-72.9248443,41.3041489,Google Verified Location
-14884,CT283,Evergreen Cafe ,(Disco),49 Webster St. ,Hartford,CT,"(L),(D),(*)",Bars/Clubs,1980,NA,-72.6834122,41.7448002,Google Verified Location
-14741,CT140,Finocchio's East ,(Very M)(Unisex)(Disco)(W. Hartford),161 Dexter Ave. ,Hartford,CT,"(M),(YC),(D),(S)",Bars/Clubs,1978,NA,-72.7161265,41.7328742,Google Verified Location
-14717,CT116,Finocchio's East ,(Disco)(Some G)(W. Hartford),161 Dexter Avenue ,Hartford,CT,"(M),(D),(S),(R),(G),(*)",Restaurant,1977,NA,-72.7161265,41.7328742,Google Verified Location
-14766,CT165,Fourteen-Ninety-Two East ,,238 Columbus Blvd. ,Hartford,CT,"(YC),(*)",Bars/Clubs,1972,NA,-72.6694693,41.7642353,Google Verified Location
-14621,CT020,Fourteen-Ninety-Two East ,,238 Columbus Blvd. ,Hartford,CT,"(YC),(*)",Bars/Clubs,1971,NA,-72.6694693,41.7642353,Google Verified Location
-14780,CT179,Fourteen-Ninety-Two East ,,238 Columbus Blvd. ,Hartford,CT,"(YC),(*)",Bars/Clubs,1973,NA,-72.6694693,41.7642353,Google Verified Location
-14831,CT230,Frank's Place ,,9 Tilley at Bank St. ,New London,CT,,Bars/Clubs,1978,NA,-72.0972273,41.3517465,Google Verified Location
-14912,CT311,Frank's Place ,,9 Tilley St. at Bank ,New London,CT,(OC),Bars/Clubs,1980,NA,-72.0975453,41.3510285,Google Verified Location
-14731,CT130,Frank's Place ,(Open 11am- good days),9 Tilley at Bank Street ,New London,CT,,Bars/Clubs,1977,NA,-72.0972273,41.3517465,Google Verified Location
-14868,CT267,Frank's Place ,,9 Tilley at Bank St. ,New London,CT,(OC),Bars/Clubs,1979,NA,-72.0972273,41.3517465,Google Verified Location
-14894,CT293,Garden St.,nr. Asylum St.,,Hartford,CT,"(AYOR),(*)",Cruising Areas,1980,,-72.684129,41.768159,Verified Location
-14852,CT251,Garden St.,(HOT),,Hartford,CT,(HOT),Cruising Areas,1979,2/1/2021 updated to include missing HOT amenity.,-72.684129,41.768159,Verified Location
-14747,CT146,Garden St. ,(HOT),,Hartford,CT,(HOT),Cruising Areas,1978,2/1/2021 updated to include missing HOT amenity.,-72.6733723,41.7658043,Google Verified Location
-14626,CT025,Gas Light,inquire locally,,Waterbury,CT,,Bars/Clubs,1971,,-73.040385,41.553126,Verified Location
-14777,CT176,Gas Light,,42 Grand St.,Waterbury,CT,"(D),(*)",Bars/Clubs,1972,,-73.040385,41.553126,Verified Location
-14916,CT315,Gay Alliance Switchboard,(203) 889-7530,,Norwich,CT,,Bars/Clubs,1980,,-72.07591,41.524265,Location could not be verified. General city or location coordinates used.
-14846,CT245,Gay Switchboard,(2030 522-5575,,Hartford,CT,,Bars/Clubs,1979,,-72.673372,41.765804,Location could not be verified. General city or location coordinates used.
-14885,CT284,Gay Switchboard,(203) 522-5575,,Hartford,CT,,Bars/Clubs,1980,,-72.673372,41.765804,Location could not be verified. General city or location coordinates used.
-14809,CT208,Glen Acres ,(Springdale),44 Poplar Rd. ,Glenbrook,CT,(M),Bars/Clubs,1975,NA,-73.518478,41.07925,Google Verified Location
-14638,CT037,Glen Acres ,(Springdale),44 Poplar Rd. ,Glenbrook,CT,(M),Bars/Clubs,1974,NA,-73.518478,41.07925,Google Verified Location
-14823,CT222,Harbor ,,157 Bank St. ,New London,CT,(M),Bars/Clubs,1975,NA,-72.0958423,41.3524759,Google Verified Location
-14789,CT188,Harbor ,,157 Bank St. ,New London,CT,(M),Bars/Clubs,1973,NA,-72.0958423,41.3524759,Google Verified Location
-14677,CT076,Harbor ,,157 Bank St. ,New London,CT,,Bars/Clubs,1969,NA,-72.0958423,41.3524759,Google Verified Location
-14605,CT004,Harbor ,,157 Bank St. ,New London,CT,,Bars/Clubs,1965,NA,-72.0958423,41.3524759,Google Verified Location
-14762,CT161,Harbor ,,157 Bank St. ,New London,CT,(M),Bars/Clubs,1971,NA,-72.0958423,41.3524759,Google Verified Location
-14685,CT084,Harbor ,,157 Bank St. ,New London,CT,,Bars/Clubs,1970,NA,-72.0958423,41.3524759,Google Verified Location
-14804,CT203,Harbor ,,157 Bank St. ,New London,CT,(M),Bars/Clubs,1974,NA,-72.0958423,41.3524759,Google Verified Location
-14659,CT058,Harbor ,,157 Bank St. ,New London,CT,,Bars/Clubs,1966,NA,-72.0958423,41.3524759,Google Verified Location
-14775,CT174,Harbor ,,157 Bank St. ,New London,CT,(M),Bars/Clubs,1972,NA,-72.0958423,41.3524759,Google Verified Location
-14667,CT066,Harbor ,,157 Bank St. ,New London,CT,,Bars/Clubs,1968,NA,-72.0958423,41.3524759,Google Verified Location
-14767,CT166,Hofbrauhaus,(also (R) next door),376 Asylum ,Hartford,CT,(*),Bars/Clubs,1972,NA,-72.6801336,41.7678288,Google Verified Location
-14673,CT072,Hofbrauhaus,,376 Asylum ,Hartford,CT,(M),Bars/Clubs,1969,NA,-72.6801336,41.7678288,Google Verified Location
-14657,CT056,Hofbrauhaus,,376 Asylum ,Hartford,CT,"(M),(*)",Bars/Clubs,1966,NA,-72.6801336,41.7678288,Google Verified Location
-14681,CT080,Hofbrauhaus,,376 Asylum ,Hartford,CT,(M),Bars/Clubs,1970,NA,-72.6801336,41.7678288,Google Verified Location
-14663,CT062,Hofbrauhaus,,376 Asylum ,Hartford,CT,(M),Bars/Clubs,1968,NA,-72.6801336,41.7678288,Google Verified Location
-14688,CT087,Hofbrauhaus,,376 Asylum ,Hartford,CT,(*),Bars/Clubs,1971,NA,-72.6801336,41.7678288,Google Verified Location
-14602,CT001,Hofbrauhaus,,376 Asylum ,Hartford,CT,"(M),(*)",Bars/Clubs,1965,NA,-72.6801336,41.7678288,Google Verified Location
-14880,CT279,Homestead Inn,,44 Field Pt. Rd. ,Greenwich,CT,"(M),(R),(H)","Restaurant,Hotel",1980,NA,-73.628584,41.0265386,Google Verified Location
-14737,CT136,Homestead Inn,,44 Field Pt. Rd. ,Greenwich,CT,"(M),(R),(H)","Restaurant,Hotel",1978,NA,-73.628584,41.0265386,Google Verified Location
-14713,CT112,Homestead Inn ,,44 Field Pt. Rd. ,Greenwich,CT,"(M),(R),(H)","Restaurant,Hotel",1977,NA,-73.628584,41.0265386,Google Verified Location
-14842,CT241,Homestead Inn ,,44 Field Pt. Rd. ,Greenwich,CT,"(M),(R),(H)","Restaurant,Hotel",1979,NA,-73.628584,41.0265386,Google Verified Location
-14646,CT045,Homestead Inn ,,44 Field Pt. Rd. ,Greenwich,CT,"(M),(R),(H)","Restaurant,Hotel",1975,NA,-73.628584,41.0265386,Google Verified Location
-14656,CT055,Homestead Inn ,,44 Field Pt. Rd. ,Greenwich,CT,"(M),(R),(H)","Restaurant,Hotel",1976,NA,-73.628584,41.0265386,Google Verified Location
-14857,CT256,Howard Johnson's,Long Wharf,400 Sargent Dr. ,New Haven,CT,"(M),(R),(C),(AH),(WE)",Restaurant,1979,NA,-72.9201837,41.2945068,Google Verified Location
-14751,CT150,Howard Johnson's ,Long Wharf,400 Sargent Dr. ,New Haven,CT,"(M),(R),(C),(AH)",Restaurant,1978,NA,-72.9201837,41.2945068,Google Verified Location
-14900,CT299,Howard Johnson's ,Long Wharf,400 Sargent Dr. ,New Haven,CT,"(M),(R),(C),(AH),(WE)",Restaurant,1980,NA,-72.9201837,41.2945068,Google Verified Location
-14910,CT309,Howard Johnson's Truck Stops on I-95,(all thru Conn.),,New Haven,CT,,Cruising Areas,1980,,-72.930326,41.284533,Location could not be verified. General city or location coordinates used.
-14865,CT264,Howard Johnson's Truck Stops on I-95,(all thru Conn.),,New Haven,CT,,Cruising Areas,1979,,-72.930326,41.284533,Location could not be verified. General city or location coordinates used.
-14648,CT047,Hungry Charlie's ,,300 York ,New Haven,CT,"(HIP),(M),(YC),(R)",Restaurant,1975,NA,-72.9301386,41.3117776,Google Verified Location
-14699,CT098,Hungry Charlie's ,,300 York ,New Haven,CT,"(HIP),(M),(YC),(R)",Restaurant,1976,NA,-72.9301386,41.3117776,Google Verified Location
-14824,CT223,Hygenic Lounge ,,79 Bank St. ,New London,CT,,Bars/Clubs,1975,NA,-72.0947047,41.3531069,Google Verified Location
-14805,CT204,Hygenic Lounge ,,79 Bank St. ,New London,CT,,Bars/Clubs,1974,NA,-72.0947047,41.3531069,Google Verified Location
-14668,CT067,Hygenic Lounge ,,79 Bank St. ,New London,CT,(*),Bars/Clubs,1968,NA,-72.0947047,41.3531069,Google Verified Location
-14763,CT162,Hygenic Lounge ,,79 Bank St. ,New London,CT,,Bars/Clubs,1971,NA,-72.0947047,41.3531069,Google Verified Location
-14776,CT175,Hygenic Lounge ,,79 Bank St. ,New London,CT,,Bars/Clubs,1972,NA,-72.0947047,41.3531069,Google Verified Location
-14790,CT189,Hygenic Lounge ,,79 Bank St. ,New London,CT,,Bars/Clubs,1973,NA,-72.0947047,41.3531069,Google Verified Location
-14678,CT077,Hygenic Lounge ,,79 Bank St. ,New London,CT,(*),Bars/Clubs,1969,NA,-72.0947047,41.3531069,Google Verified Location
-14606,CT005,Hygenic Lounge ,,79 Bank St. ,New London,CT,(*),Bars/Clubs,1965,NA,-72.0947047,41.3531069,Google Verified Location
-14660,CT059,Hygenic Lounge ,,79 Bank St. ,New London,CT,(*),Bars/Clubs,1966,NA,-72.0947047,41.3531069,Google Verified Location
-14686,CT085,Hygenic Lounge ,,79 Bank St. ,New London,CT,(*),Bars/Clubs,1970,NA,-72.0947047,41.3531069,Google Verified Location
-14700,CT099,Jacko Sullivan's ,,1166 Chapel St. ,New Haven,CT,"(M),(YC)",Bars/Clubs,1976,NA,-72.9332069,41.3085692,Google Verified Location
-14723,CT122,Jacko Sullivan's ,,1166 Chapel Street ,New Haven,CT,"(M),(YC)",Bars/Clubs,1977,NA,-72.9332069,41.3085692,Google Verified Location
-14633,CT032,Jacko Sullivans ,,1166 Chapel St. ,New Haven,CT,"(M),(YC)",Bars/Clubs,1973,NA,-72.9332069,41.3085692,Google Verified Location
-14797,CT196,Jacko Sullivans ,,1166 Chapel St. ,New Haven,CT,"(M),(YC)",Bars/Clubs,1974,NA,-72.9332069,41.3085692,Google Verified Location
-14817,CT216,Jacko Sullivans ,,1166 Chapel St. ,New Haven,CT,"(M),(YC)",Bars/Clubs,1975,NA,-72.9332069,41.3085692,Google Verified Location
-14617,CT016,Krenz's ,,544 Main ,Middletown,CT,"(YC),(M)",Bars/Clubs,1970,NA,-72.6513132,41.5635727,Google Verified Location
-14759,CT158,Krenz's ,,544 Main ,Middletown,CT,"(YC),(M)",Bars/Clubs,1971,NA,-72.6513132,41.5635727,Google Verified Location
-14835,CT234,Library Park,,,Waterbury,CT,,Cruising Areas,1978,,-73.045324,41.554031,Verified Location
-14630,CT029,Lil's ,,245 Bank St. ,Waterbury,CT,(M),Bars/Clubs,1972,NA,-73.0416839,41.5527219,Google Verified Location
-14619,CT018,Lil's ,,245 Bank St. ,Waterbury,CT,(M),Bars/Clubs,1970,NA,-73.0416839,41.5527219,Google Verified Location
-14631,CT030,Loft,(after hours)(weekends) Across from Cinerama Theatre,Farmington Ave.,Hartford,CT,"(C),(R),(YC),(HIP)",Restaurant,1973,,-72.700112,41.767697,Location could not be verified. General city or location coordinates used.
-14793,CT192,Loft ,(after hours)(weekends- adm. charge)(Unisex),495 1/2 Farmington Ave. ,Hartford,CT,"(C),(R),(YC),(HIP),(B),(D),(*)",Restaurant,1974,NA,-72.6876004,41.7680811,Google Verified Location
-14810,CT209,Loft ,(Unisex),495 1/2 Farmington Ave. ,Hartford,CT,"(C),(R),(YC),(HIP),(B),(D),(*),(S)",Restaurant,1975,NA,-72.6876004,41.7680811,Google Verified Location
-14651,CT050,Log Cabin,(burned- supposedly re-opening),Route 25,Newtown,CT,,Bars/Clubs,1975,,-73.303566,41.414112,Location could not be verified. General city or location coordinates used.
-14643,CT042,Log Cabin,(use back entrance),Rt. 25 ,Newtown,CT,,Bars/Clubs,1974,NA,-73.3079652,41.412262,Google Verified Location
-14829,CT228,Long Wharf 'Truck Stop',off I-95,,New Haven,CT,,Cruising Areas,1978,,-72.92134,41.296815,Location could not be verified. General city or location coordinates used.
-14866,CT265,Long Wharf Truck Stop off I-95,,,New Haven,CT,,Cruising Areas,1979,,-72.92134,41.296815,Location could not be verified. General city or location coordinates used.
-14911,CT310,Long Wharf Truck Stop off I-95,,,New Haven,CT,,Cruising Areas,1980,,-72.92134,41.296815,Location could not be verified. General city or location coordinates used.
-14886,CT285,M.C.C.,,1 Amity Pl. ,Hartford,CT,,Church,1980,NA,-72.7099341,41.7565939,Google Verified Location
-14901,CT300,M.C.C.,(2nd floor),425 College St. ,New Haven,CT,,Church,1980,NA,-72.9265643,41.3096282,Google Verified Location
-14847,CT246,M.C.C.,,1 Amity Pl. ,Hartford,CT,,Church,1979,NA,-72.7099341,41.7565939,Google Verified Location
-14694,CT093,M.C.C.,,1 Amity St. ,Hartford,CT,,Church,1976,NA,-72.7099341,41.7565939,Google Verified Location
-14742,CT141,M.C.C. ,,1 Amity St. ,Hartford,CT,,Church,1978,NA,-72.7099341,41.7565939,Google Verified Location
-14718,CT117,M.C.C. ,,1 Amity Street ,Hartford,CT,,Church,1977,NA,-72.7099341,41.7565939,Google Verified Location
-14634,CT033,Malone's Three Stines ,,255 Church St. ,New Haven,CT,"(M),(YC),(*)",Bars/Clubs,1973,NA,-72.9223759,41.309945,Google Verified Location
-14798,CT197,Malone's Three Stines ,,255 Church St. ,New Haven,CT,"(M),(YC),(*),(HIP)",Bars/Clubs,1974,NA,-72.9223759,41.309945,Google Verified Location
-14818,CT217,Malone's Three Stines ,,255 Church St. ,New Haven,CT,"(YC),(*),(HIP),(D)",Bars/Clubs,1975,NA,-72.9223759,41.309945,Google Verified Location
-14636,CT035,Melody Room,,242 Bank St. ,Waterbury,CT,(*),Bars/Clubs,1973,NA,-73.0416839,41.5527219,Google Verified Location
-14752,CT151,Neuter Rooster ,(Very M)(Disco),102 Hamilton St. ,New Haven,CT,"(M),(D)",Bars/Clubs,1978,NA,-72.9130659,41.3059012,Google Verified Location
-14724,CT123,Neuter Rooster ,(Disco),102 Hamilton St.,New Haven,CT,"(YC),(D),(*)",Bars/Clubs,1977,NA,-72.9130659,41.3059012,Google Verified Location
-14627,CT026,New Central ,,340 Main ,Hartford,CT,"(M),(RT)",Bars/Clubs,1972,NA,-72.6744692,41.7599454,Google Verified Location
-14887,CT286,Nick's Cafe House ,"(Some M, OC)",1943 Broad ,Hartford,CT,"(D),(M),(OC)",Bars/Clubs,1980,NA,-72.6875938,41.7392804,Google Verified Location
-14848,CT247,Nick's Cafe House ,,1943 Broad ,Hartford,CT,(D),Bars/Clubs,1979,NA,-72.6875938,41.7392804,Google Verified Location
-14743,CT142,Nick's Cafe House ,(Disco),1943 Broad ,Hartford,CT,"(R),(D)",Restaurant,1978,NA,-72.6875938,41.7392804,Google Verified Location
-14719,CT118,Nick's Cafe House ,(Disco) ,1943 Broad ,Hartford,CT,"(D),(*)",Bars/Clubs,1977,NA,-72.6875938,41.7392804,Google Verified Location
-14689,CT088,Nick's Steak House ,(Back room weekends only $2. admiss.),453 Franklin Ave. ,Hartford,CT,"(YC),(D),(*)",Bars/Clubs,1971,NA,-72.6755951,41.7368569,Google Verified Location
-14768,CT167,Nick's Steak House ,(Back room weekends only $2. admiss.),1943 Broad St. ,Hartford,CT,"(YC),(D),(*)",Bars/Clubs,1972,NA,-72.6875938,41.7392804,Google Verified Location
-14781,CT180,Nick's Steak House ,(weekends)(Backroom),1943 Broad St. ,Hartford,CT,"(YC),(D)",Bars/Clubs,1973,NA,-72.6875938,41.7392804,Google Verified Location
-14622,CT021,Nick's Steak House ,(Back room weekends only $2. admiss.),1943 Broad St. ,Hartford,CT,"(YC),(D),(*)",Bars/Clubs,1971,NA,-72.6875938,41.7392804,Google Verified Location
-14794,CT193,Nick's Steak House ,(Adm. charge back room weekends),1943 Broad St. ,Hartford,CT,"(YC),(D),(*)",Bars/Clubs,1974,NA,-72.6875938,41.7392804,Google Verified Location
-14811,CT210,Nick's Steak House ,(Adm. charge back room weekends),1943 Broad St. ,Hartford,CT,"(YC),(D),(*)",Bars/Clubs,1975,NA,-72.6875938,41.7392804,Google Verified Location
-14695,CT094,Nick's Steak House ,(Disco),1943 Broad St. ,Hartford,CT,"(YC),(D),(*)",Bars/Clubs,1976,NA,-72.6875938,41.7392804,Google Verified Location
-14858,CT257,Nobody's Fault ,(Unisex)(Looks promising)(Disco),334 Whalley Ave. ,New Haven,CT,"(YC),(D)",Bars/Clubs,1979,NA,-72.9441149,41.3169229,Google Verified Location
-14902,CT301,Nobody's Fault ,(Unisex)(Disco),334 Whalley Ave. ,New Haven,CT,"(YC),(D),(B)",Bars/Clubs,1980,NA,-72.9441149,41.3169229,Google Verified Location
-14897,CT296,Oasis,Inquire locally (Disco),,New Britain,CT,(D),Bars/Clubs,1980,,-72.779542,41.66121,Location could not be verified. General city or location coordinates used.
-14888,CT287,Olympus Book Store ,,288 Asylum ,Hartford,CT,,Book Store,1980,NA,-72.6784219,41.7675682,Google Verified Location
-14903,CT302,Olympus Books ,('wild back room'),166 York St. ,New Haven,CT,(*),Book Store,1980,NA,-72.9321605,41.3080807,Google Verified Location
-14859,CT258,Olympus Books ,('wild back room'),166 York St. ,New Haven,CT,,Book Store,1979,NA,-72.9321605,41.3080807,Google Verified Location
-14650,CT049,Park Street near Chapel,,,New Haven,CT,,Cruising Areas,1975,,-72.931605,41.30848,Verified Location
-14812,CT211,Park West ,(some G),1615 Park St. ,Hartford,CT,"(D),(G),(*)",Bars/Clubs,1975,NA,-72.7052738,41.7572817,Google Verified Location
-14639,CT038,Park West ,,1615 Park St. ,Hartford,CT,(D),Bars/Clubs,1974,NA,-72.7052738,41.7572817,Google Verified Location
-14770,CT169,Parkway,,1574 Chapel St. ,New Haven,CT,(M),Bars/Clubs,1972,NA,-72.9490555,41.3120663,Google Verified Location
-14623,CT022,Parkway,,1574 Chapel St. ,New Haven,CT,(M),Bars/Clubs,1971,NA,-72.9490555,41.3120663,Google Verified Location
-14799,CT198,Parkway ,($2 min on weekends),1574 Chapel St. ,New Haven,CT,"(HIP),(YC),(D),(*)",Bars/Clubs,1974,NA,-72.9490555,41.3120663,Google Verified Location
-14725,CT124,Parkway ,(Some G),1574 Chapel St. ,New Haven,CT,"(M),(RT),(G)",Bars/Clubs,1977,NA,-72.9490555,41.3120663,Google Verified Location
-14753,CT152,Parkway ,(Some G),1574 Chapel St. ,New Haven,CT,"(M),(RT),(G)",Bars/Clubs,1978,NA,-72.9490555,41.3120663,Google Verified Location
-14860,CT259,Parkway ,(Some G),1574 Chapel St. ,New Haven,CT,"(M),(RT),(G)",Bars/Clubs,1979,NA,-72.9490555,41.3120663,Google Verified Location
-14635,CT034,Parkway ,,1574 Chapel St. ,New Haven,CT,(M),Bars/Clubs,1973,NA,-72.9490555,41.3120663,Google Verified Location
-14819,CT218,Parkway ,($2 min on weekends),1574 Chapel St. ,New Haven,CT,"(HIP),(YC),(D),(*)",Bars/Clubs,1975,NA,-72.9490555,41.3120663,Google Verified Location
-14904,CT303,Parkway ,,1574 Chapel St. ,New Haven,CT,"(M),(RT)",Bars/Clubs,1980,NA,-72.9490555,41.3120663,Google Verified Location
-14701,CT100,Parkway ,(Some G),1574 Chapel St. ,New Haven,CT,"(M),(RT),(G)",Bars/Clubs,1976,NA,-72.9490555,41.3120663,Google Verified Location
-14754,CT153,Partner's ,,365 Crown St. ,New Haven,CT,"(*),(G),(D),(W),(YC),(HIP)",Bars/Clubs,1978,NA,-72.9340374,41.30801,Google Verified Location
-14726,CT125,Partner's ,,365 Crown St. ,New Haven,CT,"(G),(D),(W),(YC),(HIP),(*)",Bars/Clubs,1977,NA,-72.9340374,41.30801,Google Verified Location
-14702,CT101,Partners ,(This is where it's happening in New Haven- 3 floors- Basement is (G)(D) Main floor is (YC)(W) and Top Floor is (HIP)(YC)(D),365 Crown St. at Park,New Haven,CT,"(*),(G),(D),(YC),(W),(HIP)",Bars/Clubs,1976,NA,-72.9340374,41.30801,Google Verified Location
-14861,CT260,Partners ,(Disco),365 Crown St. ,New Haven,CT,"(*),(G),(D),(W),(YC),(HIP)",Bars/Clubs,1979,NA,-72.9340374,41.30801,Google Verified Location
-14905,CT304,Partners ,(Disco),365 Crown St. ,New Haven,CT,"(*),(L),(D),(W),(YC),(HIP)",Bars/Clubs,1980,NA,-72.9340374,41.30801,Google Verified Location
-14674,CT073,Peerless,,90 Main St. ,Hartford,CT,,Bars/Clubs,1969,NA,-72.6753112,41.7565709,Google Verified Location
-14690,CT089,Peerless,,90 Main St. ,Hartford,CT,,Bars/Clubs,1971,NA,-72.6753112,41.7565709,Google Verified Location
-14664,CT063,Peerless,,90 Main St. ,Hartford,CT,,Bars/Clubs,1968,NA,-72.6753112,41.7565709,Google Verified Location
-14682,CT081,Peerless,,90 Main St. ,Hartford,CT,,Bars/Clubs,1970,NA,-72.6753112,41.7565709,Google Verified Location
-14658,CT057,Peerless,,90 Main St. ,Hartford,CT,(*),Bars/Clubs,1966,NA,-72.6753112,41.7565709,Google Verified Location
-14603,CT002,Peerless,,90 Main St. ,Hartford,CT,(*),Bars/Clubs,1965,NA,-72.6753112,41.7565709,Google Verified Location
-14654,CT053,Penthouse ,(Some G),54 E. Washington ,Bridgeport,CT,"(YC),(D),(G),(*)",Bars/Clubs,1976,NA,-73.1917933,41.1853398,Google Verified Location
-14712,CT111,Penthouse ,,54 East Washington ,Bridgeport,CT,(M),Bars/Clubs,1977,NA,-73.1917933,41.1853398,Google Verified Location
-14637,CT036,Penthouse ,(Some G),54 E. Washington ,Bridgeport,CT,"(YC),(D),(G),(*)",Bars/Clubs,1974,NA,-73.1917933,41.1853398,Google Verified Location
-14808,CT207,Penthouse ,(Some G),54 E. Washington ,Bridgeport,CT,"(YC),(D),(G),(*)",Bars/Clubs,1975,NA,-73.1917933,41.1853398,Google Verified Location
-14755,CT154,Pleasure Books,,Park St.,New Haven,CT,,Book Store,1978,,-72.934208,41.30793,Location could not be verified. General city or location coordinates used.
-14703,CT102,Poor Lad's ,,204 Crown St. ,New Haven,CT,"(M),(PE),(R)",Restaurant,1976,NA,-72.9285928,41.3052765,Google Verified Location
-14624,CT023,Poor Lads,,204 Crown St. ,New Haven,CT,(M),Bars/Clubs,1971,NA,-72.9285928,41.3052765,Google Verified Location
-14771,CT170,Poor Lads,,204 Crown St. ,New Haven,CT,(M),Bars/Clubs,1972,NA,-72.9285928,41.3052765,Google Verified Location
-14800,CT199,Poor Lads,,204 Crown St. ,New Haven,CT,"(M),(PE)",Bars/Clubs,1974,NA,-72.9285928,41.3052765,Google Verified Location
-14785,CT184,Poor Lads,,204 Crown St. ,New Haven,CT,(M),Bars/Clubs,1973,NA,-72.9285928,41.3052765,Google Verified Location
-14820,CT219,Poor Lads,,204 Crown St. ,New Haven,CT,"(M),(PE)",Bars/Clubs,1975,NA,-72.9285928,41.3052765,Google Verified Location
-14756,CT155,Pub ,(Good cocktail hour),132 Chapel St. ,New Haven,CT,"(R),(OC),(*)",Restaurant,1978,NA,-72.8971666,41.3037439,Google Verified Location
-14906,CT305,Pub Cafe ,,168 York St. ,New Haven,CT,"Cruisy Area,(*)","Cruising Areas,Bars/Clubs",1980,NA,-72.932154,41.308158,Google Verified Location
-14862,CT261,Pub Cafe ,(Cruisy),168 York St. ,New Haven,CT,"(*),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-72.932154,41.308158,Google Verified Location
-14801,CT200,Pub Restaurant ,,1132 Chapel ,New Haven,CT,(*),Restaurant,1974,NA,-72.9319417,41.3083277,Google Verified Location
-14760,CT159,Pub Restaurant ,,1132 Chapel ,New Haven,CT,"(YC),(*)",Restaurant,1971,NA,-72.9319417,41.3083277,Google Verified Location
-14727,CT126,Pub Restaurant ,(great during cocktail hour),1132 Chapel St. ,New Haven,CT,"(R),(*)",Restaurant,1977,NA,-72.9319417,41.3083277,Google Verified Location
-14772,CT171,Pub Restaurant ,,1132 Chapel ,New Haven,CT,"(YC),(*)",Restaurant,1972,NA,-72.9319417,41.3083277,Google Verified Location
-14704,CT103,Pub Restaurant ,(best during cocktail hour),1132 Chapel St. ,New Haven,CT,"(*),(OC),(R)",Restaurant,1976,NA,-72.9319417,41.3083277,Google Verified Location
-14676,CT075,Pub Restaurant ,,1132 Chapel ,New Haven,CT,,Restaurant,1969,NA,-72.9319417,41.3083277,Google Verified Location
-14821,CT220,Pub Restaurant ,,1132 Chapel ,New Haven,CT,(*),Restaurant,1975,NA,-72.9319417,41.3083277,Google Verified Location
-14786,CT185,Pub Restaurant ,,1132 Chapel ,New Haven,CT,(*),Restaurant,1973,NA,-72.9319417,41.3083277,Google Verified Location
-14604,CT003,Pub Restaurant ,,1132 Chapel ,New Haven,CT,,Restaurant,1965,NA,-72.9319417,41.3083277,Google Verified Location
-14666,CT065,Pub Restaurant ,,1132 Chapel ,New Haven,CT,,Restaurant,1968,NA,-72.9319417,41.3083277,Google Verified Location
-14671,CT070,Pub Restaurant ,,1132 Chapel ,New Haven,CT,,Restaurant,1966,NA,-72.9319417,41.3083277,Google Verified Location
-14684,CT083,Pub Restaurant ,,1132 Chapel ,New Haven,CT,"(YC),(*)",Restaurant,1970,NA,-72.9319417,41.3083277,Google Verified Location
-14836,CT235,R.R. Station,,,Waterbury,CT,,Cruising Areas,1978,,-73.04705,41.554463,Verified Location
-14784,CT183,Red Garter ,,1388 E. Main ,Meriden,CT,"(YC),(M)",Bars/Clubs,1973,NA,-72.7561251,41.5260676,Google Verified Location
-14758,CT157,Red Garter ,,1388 E. Main ,Meriden,CT,"(YC),(M)",Bars/Clubs,1971,NA,-72.7561251,41.5260676,Google Verified Location
-14796,CT195,Red Garter ,,1388 E. Main ,Meriden,CT,"(YC),(M)",Bars/Clubs,1974,NA,-72.7561251,41.5260676,Google Verified Location
-14769,CT168,Red Garter ,,1388 E. Main ,Meriden,CT,"(YC),(M)",Bars/Clubs,1972,NA,-72.7561251,41.5260676,Google Verified Location
-14616,CT015,Red Garter ,,1388 E. Main ,Meriden,CT,"(YC),(M)",Bars/Clubs,1970,NA,-72.7561251,41.5260676,Google Verified Location
-14889,CT288,Rein's Deli ,Civic Center Shopping Center ,,Hartford,CT,"(M),(R),(C),(AH)",Restaurant,1980,NA,-72.6733723,41.7658043,Google Verified Location
-14907,CT306,Ricardo's Copa ,(Disco),130 Crown St. at Church,New Haven,CT,"(*),(YC),(D)",Bars/Clubs,1980,NA,-72.9265396,41.3045258,Google Verified Location
-14640,CT039,Riviera Lounge ,,238 Colombus Blvd. ,Hartford,CT,,Bars/Clubs,1974,NA,-72.6694693,41.7642353,Google Verified Location
-14813,CT212,Riviera Lounge ,,238 Colombus Blvd. ,Hartford,CT,,Bars/Clubs,1975,NA,-72.6694693,41.7642353,Google Verified Location
-14825,CT224,Road House Cafe,,1388 Thomaston Ave. at Chase,Waterbury,CT,"(M),(*)",Restaurant,1975,NA,-73.0551009,41.5617313,Google Verified Location
-14644,CT043,Road House Cafe,,1388 Thomaston Ave. at Chase,Waterbury,CT,"(M),(*)",Restaurant,1974,NA,-73.0551009,41.5617313,Google Verified Location
-14733,CT132,Road House Cafe ,,1388 Thomaston Ave. at Chase St.,Waterbury,CT,"(D),(*)",Bars/Clubs,1977,NA,-73.0483448,41.585005,Google Verified Location
-14708,CT107,Road House Cafe ,,1388 Thomaston Ave. at Chase,Waterbury,CT,"(D),(*)",Bars/Clubs,1976,NA,-73.0551009,41.5617313,Google Verified Location
-14611,CT010,Roaring 20's,,Church St.,Hartford,CT,(*),Bars/Clubs,1968,,-72.677757,41.76918,Location could not be verified. General city or location coordinates used.
-14757,CT156,Rockinghorse,,327 Asylum,Hartford,CT,"(M),(YC)",Bars/Clubs,1971,NA,-72.6788594,41.7673233,Google Verified Location
-14615,CT014,Rockinghorse,,327 Asylum,Hartford,CT,,Bars/Clubs,1970,NA,-72.6788594,41.7673233,Google Verified Location
-14744,CT143,Ryan's Deli,Civic Center Shopping Center,,Hartford,CT,"(M),(R),(C),(AH)",Restaurant,1978,,-72.67617,41.768289,Verified Location
-14849,CT248,Ryan's Deli ,Civic Center Shopping Center,,Hartford,CT,"(M),(R),(C),(AH)",Restaurant,1979,NA,-72.6733723,41.7658043,Google Verified Location
-14913,CT312,Salty Dog,(Disco),95 Pequot Ave. ,New London,CT,"(*),(YC),(D)",Bars/Clubs,1980,NA,-72.1000971,41.3390739,Google Verified Location
-14869,CT268,Salty Dog ,(Looks promising),95 Pequot Ave. ,New London,CT,"(M),(YC)",Bars/Clubs,1979,NA,-72.1000971,41.3390739,Google Verified Location
-14873,CT272,Sherwood Isle St. Park,"W. Beach- far end (summers) I-95, exit 18",,Westport,CT,,Cruising Areas,1979,,-73.332136,41.116614,Verified Location
-14921,CT320,Sherwood Isle St. Park,"E. Beach- far end (Summers) I-95, exit 18",,Westport,CT,,Cruising Areas,1980,,-73.332136,41.116614,Verified Location
-14908,CT307,Superbooks ,,1130 Chapel St. ,New Haven,CT,"(*),(M)",Bars/Clubs,1980,NA,-72.9318617,41.308374,Google Verified Location
-14728,CT127,Superbooks ,,1130 Chapel St. ,New Haven,CT,,Book Store,1977,NA,-72.9318617,41.308374,Google Verified Location
-14827,CT226,Superbooks ,,1130 Chapel St. ,New Haven,CT,,Book Store,1978,NA,-72.9318617,41.308374,Google Verified Location
-14863,CT262,Superbooks ,,1130 Chapel St. ,New Haven,CT,"(M),(*)",Book Store,1979,NA,-72.9318617,41.308374,Google Verified Location
-14761,CT160,Taft Hotel Bar ,,265 College ,New Haven,CT,(M),"Bars/Clubs,Hotel",1971,NA,-72.9287185,41.306837,Google Verified Location
-14787,CT186,Taft Hotel Bar ,,265 College ,New Haven,CT,(M),"Bars/Clubs,Hotel",1973,NA,-72.9287185,41.306837,Google Verified Location
-14773,CT172,Taft Hotel Bar ,,265 College ,New Haven,CT,(M),"Bars/Clubs,Hotel",1972,NA,-72.9287185,41.306837,Google Verified Location
-14802,CT201,Taft Hotel Bar ,,265 College ,New Haven,CT,(M),"Bars/Clubs,Hotel",1974,NA,-72.9287185,41.306837,Google Verified Location
-14618,CT017,Taft Hotel Bar ,,265 College ,New Haven,CT,(M),"Bars/Clubs,Hotel",1970,NA,-72.9287185,41.306837,Google Verified Location
-14665,CT064,The 1490 ,,1490 Congress St. ,Hartford,CT,,Bars/Clubs,1968,NA,-72.6760615,41.7537889,Google Verified Location
-14609,CT008,The 1490 ,,1490 Congress St. ,Hartford,CT,,Bars/Clubs,1966,NA,-72.6760615,41.7537889,Google Verified Location
-14675,CT074,The 1490 ,,1490 Congress St. ,Hartford,CT,,Bars/Clubs,1969,NA,-72.6760615,41.7537889,Google Verified Location
-14709,CT108,The Brook ,"(Exit 18, off I-91)",919 E. State St. ,Westport,CT,"(YC),(D),(*)",Bars/Clubs,1976,NA,-73.3379802,41.1379196,Google Verified Location
-14734,CT133,The Brook Cafe ,(Disco)(Don't miss if anywhere in the area- also (G)(D)(PT) in separate back room) (U.S. 1) Exit 18 off I-95,919 East State Street,Westport,CT,"(YC),(D),(*),(G),(PT)",Bars/Clubs,1977,NA,-73.3379802,41.1379196,Google Verified Location
-14872,CT271,The Brook Cafe ,(Disco)(Don't miss if anywhere in the area) (US 1) Exit 18 off I-95,919 Post Rd. E. ,Westport,CT,"(*),(YC),(D),(G),(PT)",Bars/Clubs,1979,NA,-73.3335309,41.1385827,Google Verified Location
-14837,CT236,The Brook Cafe ,(Disco)(Don't miss if anywhere in the area)(US 1) Exit 18 off I-95,919 E. State St. ,Westport,CT,"(YC),(D),(*),(G),(PT)",Bars/Clubs,1978,NA,-73.3379802,41.1379196,Google Verified Location
-14919,CT318,The Brook Cafe ,(Don't miss if anywhere in the area)(Sunday afternoon Tea Dance- Summers)(U.S. 1) Exit 18 off I-95,919 Post Rd. E. ,Westport,CT,"(*),(YC),(D),(L),(PT)",Bars/Clubs,1980,NA,-73.3335309,41.1385827,Google Verified Location
-14669,CT068,The Pines,,State Hwy 25,Newtown,CT,,Bars/Clubs,1968,,-73.303566,41.414112,Location could not be verified. General city or location coordinates used.
-14610,CT009,The Pines,,State Hwy 25,Newtown,CT,,Bars/Clubs,1966,,-73.303566,41.414112,Location could not be verified. General city or location coordinates used.
-14613,CT012,The Pines ,,State Hwy 25,Newtown,CT,,Bars/Clubs,1969,NA,-73.2936978,41.3964785,Google Verified Location
-14890,CT289,Tres Jolie ,(Looks promising),1615 Park Ave. ,Hartford,CT,(R),Restaurant,1980,NA,-72.6250369,41.7806683,Google Verified Location
-14683,CT082,Trumbull Bar & Grill,,Trumbull & Church,Hartford,CT,"(D),(*)",Bars/Clubs,1970,,-72.675381,41.768817,Verified Location
-14612,CT011,Trumbull Bar & Grill,(Maybe moving to Hotel Hartford on Church St.),Trumbull & Church,Hartford,CT,"(D),(*)",Bars/Clubs,1969,,-72.675381,41.768817,Verified Location
-14732,CT131,Uncle Mary's ,(Disco)(Some G)(Route 7) ,233 Main Ave,Norwalk,CT,"(D),(G),(*)",Bars/Clubs,1977,NA,-73.4238853,41.1315667,Google Verified Location
-14920,CT319,Vincent's Cafe ,,925 Post Road E. ,Westport,CT,"(L),(D),(PT)",Bars/Clubs,1980,NA,-73.3329661,41.138635,Google Verified Location
-14632,CT031,Warehouse ,,61 Woodbine at Capitol Ave. ,Hartford,CT,"(YC),(D),(*)",Bars/Clubs,1973,NA,-72.6957851,41.762816,Google Verified Location
-14795,CT194,Warehouse ,(Some G) ,61 Woodbine at Capitol Ave. ,Hartford,CT,"(YC),(D),(*),(G)",Bars/Clubs,1974,NA,-72.6957851,41.762816,Google Verified Location
-14696,CT095,Warehouse ,(Some G)($1.00 adm. WE),61 Woodbine at Capitol ,Hartford,CT,"(M),(YC),(D),(G),(*),(WE)",Bars/Clubs,1976,NA,-72.6683378,41.7818449,Google Verified Location
-14850,CT249,Warehouse ,(Unisex)(Disco)(Adm.),61 Woodbine at Capitol ,Hartford,CT,"(*),(M),(YC),(D),(PT),(AH),(WE)",Bars/Clubs,1979,NA,-72.6683378,41.7818449,Google Verified Location
-14745,CT144,Warehouse ,(Unisex)(Disco)(Adm.),61 Woodbine at Capitol ,Hartford,CT,"(M),(YC),(*),(D),(PT),(AH),(WE)",Bars/Clubs,1978,NA,-72.6683378,41.7818449,Google Verified Location
-14720,CT119,Warehouse ,(Unisex)(Disco)($1.00 adm WE),61 Woodbine at Capitol ,Hartford,CT,"(M),(YC),(D),(PT),(AH),(WE),(*)",Bars/Clubs,1977,NA,-72.6683378,41.7818449,Google Verified Location
-14891,CT290,Warehouse ,(Disco)(Adm.),61 Woodbine at Capitol ,Hartford,CT,"(*),(D),(YC),(W),(SM),(B)",Bars/Clubs,1980,NA,-72.6683378,41.7818449,Google Verified Location
-14814,CT213,Warehouse ,(Some G) ,61 Woodbine at Capitol Ave. ,Hartford,CT,"(YC),(D),(*),(G)",Bars/Clubs,1975,NA,-72.6957851,41.762816,Google Verified Location
-14879,CT278,West Farms Mall,,,Farmington,CT,,Cruising Areas,1980,,-72.763237,41.722862,Verified Location
-14649,CT048,Whole Thing,(Some B),1239 Chapel St. ,New Haven,CT,"(YC),(D),(HIP),(B),(*)",Bars/Clubs,1975,NA,-72.9355536,41.3095322,Google Verified Location
-14705,CT104,Whole Thing ,,1239 Chapel St. ,New Haven,CT,"(M),(B),(D),(S),(*)",Bars/Clubs,1976,NA,-72.9355536,41.3095322,Google Verified Location
-14870,CT269,Y.M.C.A,'Bunk Room' Downtown,,New London,CT,,Cruising Areas,1979,,-72.099521,41.355654,Location could not be verified. General city or location coordinates used.
-14914,CT313,Y.M.C.A. 'Bunk Room' Downtown,,,New London,CT,,Cruising Areas,1980,,-72.099521,41.355654,Location could not be verified. General city or location coordinates used.
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"'Rest Stop' on Rt. 6","nr. Stealy Tool Co.","","Bristol","CT","","Cruising Areas",1980,"",-72.94927,41.671765,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0001"
+"'Rest Stop' on Rte. 15","","Wilbur Cross Pwky E.","Orange","CT","","Cruising Areas",1980,"",-73.047377,41.281021,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0002"
+"'Rest Stops' on I-95","nr. Darien, Milford, & Fairfield","","Bridgeport","CT","","Cruising Areas",1979,"",-73.189438,41.179226,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-CT-0003"
+"'Rest Stops' on I-95","nr. Darien, Milford, & Fairfield","","Bridgeport","CT","","Cruising Areas",1980,"",-73.189438,41.179226,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0004"
+"'The Dikes'","East-West service road off I-91 No.","","Hartford","CT","","Cruising Areas",1978,NA,-72.6733723,41.7658043,"Google Verified Location",NA,NA,NA,"1978-CT-0005"
+"'The Dikes'","East-West Service Rd. off I-91 N.","","Hartford","CT","","Cruising Areas",1980,"",-72.667475,41.763964,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0006"
+"'The Glens'","'Rest Stop' on Rte. 15, 1 mi. S. of Jct. I-91","","Meriden","CT","(AYOR)","Cruising Areas",1980,"",-72.807043,41.538154,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0007"
+"'Truck Stop' on I-95, exit 18","","","Westport","CT","","Cruising Areas",1979,"",-73.358639,41.164325,"Verified Location",NA,NA,NA,"1979-CT-0008"
+"'Truck Stop' on I-95, exit 18","","","Westport","CT","","Cruising Areas",1978,"",-73.358639,41.164325,"Verified Location",NA,NA,NA,"1978-CT-0009"
+"""The Dikes""","East-West Service Rd. off I-91 N.","","Hartford","CT","","Cruising Areas",1979,"",-72.667475,41.763964,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-CT-0010"
+"""The Glens""","'Rest stop' on Rte. 15, 1 mi. S of Jct. I-91","","Meriden","CT","(AYOR)","Cruising Areas",1979,"",-72.807043,41.538154,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-CT-0011"
+"After Dark ","(Disco)","20 Chestnut St. ","New Britain","CT","(YC),(D),(*)","Bars/Clubs",1979,NA,-72.7806001,41.6659901,"Google Verified Location",NA,NA,NA,"1979-CT-0012"
+"Answer Cafe ","(Some L)( 4 mi. W. on US 7)","235 Dansbury Rd. ","New Milford","CT","(*),(R),(D),(L),(PT)","Restaurant",1980,NA,-73.4209278,41.5439632,"Google Verified Location",NA,NA,NA,"1980-CT-0013"
+"Answer Cafe ","(4 mi. W. on US 7)","235 Danbury Rd. ","New Milford","CT","(R),(D),(G),(PT),(WE),(*)","Restaurant",1978,NA,-73.4209278,41.5439632,"Google Verified Location",NA,NA,NA,"1978-CT-0014"
+"Answer Cafe ","(Some G)(4 mi. W. on US 7)","235 Dansbury Rd. ","New Milford","CT","(*),(R),(D),(G),(PT)","Restaurant",1979,NA,-73.4209278,41.5439632,"Google Verified Location",NA,NA,NA,"1979-CT-0015"
+"Arthur's Place ","","334 Whalley Ave. ","New Haven","CT","(YC),(B),(D)","Bars/Clubs",1978,NA,-72.9441149,41.3169229,"Google Verified Location",NA,NA,NA,"1978-CT-0016"
+"Asylum Ave.","","","Hartford","CT","","Cruising Areas",1974,"",-72.700655,41.772385,"Verified Location",NA,NA,NA,"1974-CT-0017"
+"Asylum Ave.","","","Hartford","CT","","Cruising Areas",1975,"",-72.700655,41.772385,"Verified Location",NA,NA,NA,"1975-CT-0018"
+"Asylum Avenue","","","Hartford","CT","","Cruising Areas",1976,"",-72.700655,41.772385,"Verified Location",NA,NA,NA,"1976-CT-0019"
+"Asylum Avenue","","","Hartford","CT","","Cruising Areas",1977,"",-72.700655,41.772385,"Verified Location",NA,NA,NA,"1977-CT-0020"
+"Asylum St.","","","Hartford","CT","","Cruising Areas",1972,"",-72.700655,41.772385,"Verified Location",NA,NA,NA,"1972-CT-0021"
+"Asylum St.","","","Hartford","CT","","Cruising Areas",1973,"",-72.700655,41.772385,"Verified Location",NA,NA,NA,"1973-CT-0022"
+"Attic ","(Unisex)(Upstairs)","495 1/2 Farmington","Hartford","CT","(D),(AH)","Bars/Clubs",1976,NA,-72.6876004,41.7680811,"Google Verified Location",NA,NA,NA,"1976-CT-0023"
+"Banana Disco ","(Unisex) ","145 Service Rd. ","Hartford","CT","(*),(YC),(D)","Bars/Clubs",1980,NA,-72.6574036,41.7902321,"Google Verified Location",NA,NA,NA,"1980-CT-0024"
+"Banana Disco ","(Unisex)","145 Service Rd. ","Hartford","CT","(*),(YC),(D)","Bars/Clubs",1979,NA,-72.6574036,41.7902321,"Google Verified Location",NA,NA,NA,"1979-CT-0025"
+"Bell II","(Disco)","440 West Port Ave. ","Norwalk","CT","(YC),(D),(*)","Bars/Clubs",1978,NA,-73.3889004,41.1259581,"Google Verified Location",NA,NA,NA,"1978-CT-0026"
+"Black Rock ","","2931 Fairfield Avenue ","Bridgeport","CT","(R),(OC),(G)","Restaurant",1977,NA,-73.2275664,41.156396,"Google Verified Location",NA,NA,NA,"1977-CT-0027"
+"Black Rock ","","2931 Fairfield Ave. ","Bridgeport","CT","(R),(OC),(G)","Restaurant",1978,NA,-73.2275664,41.156396,"Google Verified Location",NA,NA,NA,"1978-CT-0028"
+"Black Rock ","","2931 Fairfield Ave. ","Bridgeport","CT","(G),(OC),(R)","Restaurant",1979,NA,-73.2275664,41.156396,"Google Verified Location",NA,NA,NA,"1979-CT-0029"
+"Black Rock ","","2931 Fairfield Ave. ","Bridgeport","CT","(R),(OC),(G)","Bars/Clubs,Restaurant",1976,NA,-73.2275664,41.156396,"Google Verified Location",NA,NA,NA,"1976-CT-0030"
+"Black Rock ","","2931 Fairfield Ave.","Bridgeport","CT","(L),(OC),(R)","Restaurant",1980,NA,-73.2275664,41.156396,"Google Verified Location",NA,NA,NA,"1980-CT-0031"
+"Brass Rail ","","141 Main St. ","Danbury","CT","(*)","Bars/Clubs",1975,NA,-73.449955,41.3926826,"Google Verified Location",NA,NA,NA,"1975-CT-0032"
+"Brass Rail ","","141 Main St. ","Danbury","CT","(*)","Bars/Clubs",1976,NA,-73.449955,41.3926826,"Google Verified Location",NA,NA,NA,"1976-CT-0033"
+"Burritt Hotel Bar & T-Room","","W. Main & Washington","New Britain","CT","","Cruising Areas",1980,"",-72.783418,41.667435,"Verified Location",NA,NA,NA,"1980-CT-0034"
+"Bushnall Park","","","Hartford","CT","","Cruising Areas",1980,"",-72.679236,41.765134,"Verified Location",NA,NA,NA,"1980-CT-0035"
+"Cafe Lib ","","132 New Park Ave. ","Hartford","CT","(G)","Bars/Clubs",1975,NA,-72.7084785,41.7529835,"Google Verified Location",NA,NA,NA,"1975-CT-0036"
+"Cafe Lib ","","132 New Park Ave. ","Hartford","CT","(G)","Bars/Clubs",1978,NA,-72.7084785,41.7529835,"Google Verified Location",NA,NA,NA,"1978-CT-0037"
+"Cafe Lib ","(Some G)","132 New Park Ave. ","Hartford","CT","(G)","Bars/Clubs",1976,NA,-72.7084785,41.7529835,"Google Verified Location",NA,NA,NA,"1976-CT-0038"
+"Cafe Lib ","","132 New Park Aven","Hartford","CT","(G)","Bars/Clubs",1977,NA,-72.7084785,41.7529835,"Google Verified Location",NA,NA,NA,"1977-CT-0039"
+"Casbah ","(Drags)","1277 No. Main St. ","Bridgeport","CT","(M),(RT),(B),(WE),(*)","Bars/Clubs",1978,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1978-CT-0040"
+"Casbah ","('Drags')","1277 N. Main St. ","Bridgeport","CT","(M),(RT),(B)","Bars/Clubs",1980,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1980-CT-0041"
+"Casbah ","('Drags')","1277 N. Main St. ","Bridgeport","CT","(M),(RT),(B)","Bars/Clubs",1979,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1979-CT-0042"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","","Bars/Clubs",1970,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1970-CT-0043"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","","Bars/Clubs",1966,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1966-CT-0044"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","","Bars/Clubs",1969,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1969-CT-0045"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","(M)","Bars/Clubs",1972,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1972-CT-0046"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","(M)","Bars/Clubs",1971,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1971-CT-0047"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","","Bars/Clubs",1968,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1968-CT-0048"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","(M)","Bars/Clubs",1974,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1974-CT-0049"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","(M)","Bars/Clubs",1973,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1973-CT-0050"
+"Casbar","","1277 N. Main St. ","Bridgeport","CT","(M)","Bars/Clubs",1975,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1975-CT-0051"
+"Casbar ","","1277 N. Main St. ","Bridgeport","CT","(*)","Bars/Clubs",1976,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1976-CT-0052"
+"Casbar ","(Drags)","1277 North Main Street ","Bridgeport","CT","(M),(RT),(B),(WE),(*)","Bars/Clubs",1977,NA,-73.1808077,41.1920675,"Google Verified Location",NA,NA,NA,"1977-CT-0053"
+"Cedarbrook Inn","","U.S. Hwy. 1","Westport","CT","","Bars/Clubs",1968,"Considered the oldest gay bar in the US when it closed in 2010",-73.333531,41.138583,"Verified Location",NA,NA,NA,"1968-CT-0054"
+"Cedarbrook Inn","","U.S. Hwy. 1","Westport","CT","(G)","Bars/Clubs",1965,"Considered the oldest gay bar in the US when it closed in 2010",-73.333531,41.138583,"Verified Location",NA,NA,NA,"1965-CT-0055"
+"Cedarbrook Inn","","U.S. Hwy. 1","Westport","CT","","Bars/Clubs",1966,"Considered the oldest gay bar in the US when it closed in 2010",-73.333531,41.138583,"Verified Location",NA,NA,NA,"1966-CT-0056"
+"Cedarbrook Inn","","U.S. Hwy. 1","Westport","CT","","Bars/Clubs",1969,"Considered the oldest gay bar in the US when it closed in 2010",-73.333531,41.138583,"Verified Location",NA,NA,NA,"1969-CT-0057"
+"Cedarbrook Inn ","","919 E. State St. ","Westport","CT","","Bars/Clubs",1972,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1972-CT-0058"
+"Cedarbrook Inn ","","919 E. State St. ","Westport","CT","","Bars/Clubs",1971,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1971-CT-0059"
+"Cedarbrook Inn ","","919 E. State St. ","Westport","CT","","Bars/Clubs",1973,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1973-CT-0060"
+"Cedarbrook Inn ","","919 E. State St. ","Westport","CT","(G)","Bars/Clubs",1974,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1974-CT-0061"
+"Cedarbrook Inn ","","919 E. State St. ","Westport","CT","","Bars/Clubs",1970,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1970-CT-0062"
+"Cedarbrook Inn ","","919 E. State St. ","Westport","CT","(G)","Bars/Clubs",1975,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1975-CT-0063"
+"Chapel St. from York to Ark","","","New Haven","CT","","Cruising Areas",1980,"",-72.931605,41.30848,"Verified Location",NA,NA,NA,"1980-CT-0064"
+"Chapel St. from York to Ark","","","New Haven","CT","","Cruising Areas",1979,"",-72.931605,41.30848,"Verified Location",NA,NA,NA,"1979-CT-0065"
+"Chapel St. from York to Park Sts.","","","New Haven","CT","","Cruising Areas",1976,"",-72.931605,41.30848,"Verified Location",NA,NA,NA,"1976-CT-0066"
+"Chapel St. from York to Penn","","","New Haven","CT","","Cruising Areas",1978,"",-72.931605,41.30848,"Verified Location",NA,NA,NA,"1978-CT-0067"
+"Chapel Street from York to Park Street","","","New Haven","CT","","Cruising Areas",1977,"",-72.931605,41.30848,"Verified Location",NA,NA,NA,"1977-CT-0068"
+"Chez Est","(Some OC)(Cruisy)(Good cocktail hour)","238 Columbus Blvd. ","Hartford","CT","(*),(OC),Cruisy Area","Bars/Clubs,Cruising Areas",1980,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1980-CT-0069"
+"Chez Est","(looks promising)","238 Columbus Boulevard ","Hartford","CT","(OC)","Bars/Clubs",1977,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1977-CT-0070"
+"Chez Est. ","(Some OC)(Cruisy)","238 Columbus Blvd. ","Hartford","CT","(E),(OC),(*),Cruisy Area","Bars/Clubs,Cruising Areas",1978,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1978-CT-0071"
+"Chez Est. ","(Some OC)(Cruisy)","238 Columbus Blvd. ","Hartford","CT","(*),(E),(OC),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1979-CT-0072"
+"Civic Book Store ","","240 Trumbull St. ","Hartford","CT","","Book Store",1976,NA,-72.6750253,41.7680109,"Google Verified Location",NA,NA,NA,"1976-CT-0073"
+"Club 1492 ","","1492 Columbus Rd.","Hartford","CT","(*),(YC)","Bars/Clubs",1970,NA,-72.6698147,41.764322,"Google Verified Location",NA,NA,NA,"1970-CT-0074"
+"Club Cafe","(Some G,D)","W. Main St.","Waterbury","CT","(YC),(G),(D),(*)","Bars/Clubs",1978,"",-73.054917,41.556965,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-CT-0075"
+"Club Cafe ","","384 W. Main St. ","Waterbury","CT","(*),(D)","Bars/Clubs",1980,NA,-73.0473,41.558052,"Google Verified Location",NA,NA,NA,"1980-CT-0076"
+"Club Hartford Baths ","(E. Hartford)","1169 Main St. ","Hartford","CT","(*)","Baths",1980,NA,-72.6748214,41.7707614,"Google Verified Location",NA,NA,NA,"1980-CT-0077"
+"Club Hartford Baths ","(East Hartford)","1169 Main Street","Hartford","CT","","Baths",1977,NA,-72.6748214,41.7707614,"Google Verified Location",NA,NA,NA,"1977-CT-0078"
+"Club Hartford Baths ","(E. Hartford)","1169 Main St. ","Hartford","CT","(*)","Baths",1979,NA,-72.6748214,41.7707614,"Google Verified Location",NA,NA,NA,"1979-CT-0079"
+"Club Hartford Baths ","(E. Hartford)","1169 Main St. ","Hartford","CT","(*)","Baths",1978,NA,-72.6748214,41.7707614,"Google Verified Location",NA,NA,NA,"1978-CT-0080"
+"Club New Haven","(CBC Baths- may be opening soon, inquire locally)","","New Haven","CT","","Baths",1980,"",-72.927883,41.308274,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0081"
+"Consititution Plaza","","","Hartford","CT","","Cruising Areas",1980,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1980-CT-0082"
+"Consititution Plaza","","","Hartford","CT","","Cruising Areas",1978,NA,-72.6733723,41.7658043,"Google Verified Location",NA,NA,NA,"1978-CT-0083"
+"Consititution Plaza","","","Hartford","CT","","Cruising Areas",1977,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1977-CT-0084"
+"Consitiution Park","","","Hartford","CT","","Cruising Areas",1975,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1975-CT-0085"
+"Consitiution Park","","","Hartford","CT","","Cruising Areas",1974,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1974-CT-0086"
+"Constitution Plaza","","","Hartford","CT","","Cruising Areas",1979,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1979-CT-0087"
+"Constitution Plaza","","","Hartford","CT","","Cruising Areas",1973,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1973-CT-0088"
+"Constitution Plaza","","","Hartford","CT","","Cruising Areas",1976,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1976-CT-0089"
+"Constitution Plaza","","","Hartford","CT","","Cruising Areas",1972,"",-72.67035,41.766818,"Verified Location",NA,NA,NA,"1972-CT-0090"
+"Corral ","(Disco)","727 Bank St. ","New London","CT","(YC),(D),(*)","Bars/Clubs",1979,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1979-CT-0091"
+"Corral ","","727 Bank St. ","New London","CT","(YC),(D),(*)","Bars/Clubs",1971,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1971-CT-0092"
+"Corral ","(disco)","727 Bank St. ","New London","CT","(YC),(D),(*)","Bars/Clubs",1978,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1978-CT-0093"
+"Corral ","(also H)","727 Bank Street ","New London","CT","(YC),(D),(*),(H)","Hotel,Bars/Clubs",1977,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1977-CT-0094"
+"Corral ","","727 Bank St. ","New London","CT","(YC),(D),(*)","Bars/Clubs",1975,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1975-CT-0095"
+"Corral ","","727 Bank St. ","New London","CT","(YC),(D),(*)","Bars/Clubs",1972,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1972-CT-0096"
+"Corral ","(Also H)","727 Bank St. ","New London","CT","(YC),(D),(*),(H)","Bars/Clubs",1976,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1976-CT-0097"
+"Corral ","","727 Bank St. ","New London","CT","(YC),(D),(*)","Bars/Clubs",1973,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1973-CT-0098"
+"Corral ","","727 Bank St. ","New London","CT","(YC),(D),(*)","Bars/Clubs",1974,NA,-72.1052812,41.349469,"Google Verified Location",NA,NA,NA,"1974-CT-0099"
+"Dungeon ","('Les Oubliettes')(Disco)(Cruisy)","130 Crown St. at Church ","New Haven","CT","(*),(YC),(D),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-72.9265396,41.3045258,"Google Verified Location",NA,NA,NA,"1979-CT-0100"
+"Dungeon ","(Disco)","39 Crown St. at Church ","New Haven","CT","(D),(YC),(*)","Bars/Clubs",1978,NA,-72.9248443,41.3041489,"Google Verified Location",NA,NA,NA,"1978-CT-0101"
+"Evergreen Cafe ","(Disco)","49 Webster St. ","Hartford","CT","(L),(D),(*)","Bars/Clubs",1980,NA,-72.6834122,41.7448002,"Google Verified Location",NA,NA,NA,"1980-CT-0102"
+"Finocchio's East ","(Very M)(Unisex)(Disco)(W. Hartford)","161 Dexter Ave. ","Hartford","CT","(M),(YC),(D),(S)","Bars/Clubs",1978,NA,-72.7161265,41.7328742,"Google Verified Location",NA,NA,NA,"1978-CT-0103"
+"Finocchio's East ","(Disco)(Some G)(W. Hartford)","161 Dexter Avenue ","Hartford","CT","(M),(D),(S),(R),(G),(*)","Restaurant",1977,NA,-72.7161265,41.7328742,"Google Verified Location",NA,NA,NA,"1977-CT-0104"
+"Fourteen-Ninety-Two East ","","238 Columbus Blvd. ","Hartford","CT","(YC),(*)","Bars/Clubs",1972,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1972-CT-0105"
+"Fourteen-Ninety-Two East ","","238 Columbus Blvd. ","Hartford","CT","(YC),(*)","Bars/Clubs",1971,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1971-CT-0106"
+"Fourteen-Ninety-Two East ","","238 Columbus Blvd. ","Hartford","CT","(YC),(*)","Bars/Clubs",1973,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1973-CT-0107"
+"Frank's Place ","","9 Tilley at Bank St. ","New London","CT","","Bars/Clubs",1978,NA,-72.0972273,41.3517465,"Google Verified Location",NA,NA,NA,"1978-CT-0108"
+"Frank's Place ","","9 Tilley St. at Bank ","New London","CT","(OC)","Bars/Clubs",1980,NA,-72.0975453,41.3510285,"Google Verified Location",NA,NA,NA,"1980-CT-0109"
+"Frank's Place ","(Open 11am- good days)","9 Tilley at Bank Street ","New London","CT","","Bars/Clubs",1977,NA,-72.0972273,41.3517465,"Google Verified Location",NA,NA,NA,"1977-CT-0110"
+"Frank's Place ","","9 Tilley at Bank St. ","New London","CT","(OC)","Bars/Clubs",1979,NA,-72.0972273,41.3517465,"Google Verified Location",NA,NA,NA,"1979-CT-0111"
+"Garden St.","nr. Asylum St.","","Hartford","CT","(AYOR),(*)","Cruising Areas",1980,"",-72.684129,41.768159,"Verified Location",NA,NA,NA,"1980-CT-0112"
+"Garden St.","(HOT)","","Hartford","CT","(HOT)","Cruising Areas",1979,"2/1/2021 updated to include missing HOT amenity.",-72.684129,41.768159,"Verified Location",NA,NA,NA,"1979-CT-0113"
+"Garden St. ","(HOT)","","Hartford","CT","(HOT)","Cruising Areas",1978,"2/1/2021 updated to include missing HOT amenity.",-72.6733723,41.7658043,"Google Verified Location",NA,NA,NA,"1978-CT-0114"
+"Gas Light","inquire locally","","Waterbury","CT","","Bars/Clubs",1971,"",-73.040385,41.553126,"Verified Location",NA,NA,NA,"1971-CT-0115"
+"Gas Light","","42 Grand St.","Waterbury","CT","(D),(*)","Bars/Clubs",1972,"",-73.040385,41.553126,"Verified Location",NA,NA,NA,"1972-CT-0116"
+"Gay Alliance Switchboard","(203) 889-7530","","Norwich","CT","","Bars/Clubs",1980,"",-72.07591,41.524265,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0117"
+"Gay Switchboard","(2030 522-5575","","Hartford","CT","","Bars/Clubs",1979,"",-72.673372,41.765804,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-CT-0118"
+"Gay Switchboard","(203) 522-5575","","Hartford","CT","","Bars/Clubs",1980,"",-72.673372,41.765804,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0119"
+"Glen Acres ","(Springdale)","44 Poplar Rd. ","Glenbrook","CT","(M)","Bars/Clubs",1975,NA,-73.518478,41.07925,"Google Verified Location",NA,NA,NA,"1975-CT-0120"
+"Glen Acres ","(Springdale)","44 Poplar Rd. ","Glenbrook","CT","(M)","Bars/Clubs",1974,NA,-73.518478,41.07925,"Google Verified Location",NA,NA,NA,"1974-CT-0121"
+"Harbor ","","157 Bank St. ","New London","CT","(M)","Bars/Clubs",1975,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1975-CT-0122"
+"Harbor ","","157 Bank St. ","New London","CT","(M)","Bars/Clubs",1973,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1973-CT-0123"
+"Harbor ","","157 Bank St. ","New London","CT","","Bars/Clubs",1969,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1969-CT-0124"
+"Harbor ","","157 Bank St. ","New London","CT","","Bars/Clubs",1965,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1965-CT-0125"
+"Harbor ","","157 Bank St. ","New London","CT","(M)","Bars/Clubs",1971,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1971-CT-0126"
+"Harbor ","","157 Bank St. ","New London","CT","","Bars/Clubs",1970,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1970-CT-0127"
+"Harbor ","","157 Bank St. ","New London","CT","(M)","Bars/Clubs",1974,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1974-CT-0128"
+"Harbor ","","157 Bank St. ","New London","CT","","Bars/Clubs",1966,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1966-CT-0129"
+"Harbor ","","157 Bank St. ","New London","CT","(M)","Bars/Clubs",1972,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1972-CT-0130"
+"Harbor ","","157 Bank St. ","New London","CT","","Bars/Clubs",1968,NA,-72.0958423,41.3524759,"Google Verified Location",NA,NA,NA,"1968-CT-0131"
+"Hofbrauhaus","(also (R) next door)","376 Asylum ","Hartford","CT","(*)","Bars/Clubs",1972,NA,-72.6801336,41.7678288,"Google Verified Location",NA,NA,NA,"1972-CT-0132"
+"Hofbrauhaus","","376 Asylum ","Hartford","CT","(M)","Bars/Clubs",1969,NA,-72.6801336,41.7678288,"Google Verified Location",NA,NA,NA,"1969-CT-0133"
+"Hofbrauhaus","","376 Asylum ","Hartford","CT","(M),(*)","Bars/Clubs",1966,NA,-72.6801336,41.7678288,"Google Verified Location",NA,NA,NA,"1966-CT-0134"
+"Hofbrauhaus","","376 Asylum ","Hartford","CT","(M)","Bars/Clubs",1970,NA,-72.6801336,41.7678288,"Google Verified Location",NA,NA,NA,"1970-CT-0135"
+"Hofbrauhaus","","376 Asylum ","Hartford","CT","(M)","Bars/Clubs",1968,NA,-72.6801336,41.7678288,"Google Verified Location",NA,NA,NA,"1968-CT-0136"
+"Hofbrauhaus","","376 Asylum ","Hartford","CT","(*)","Bars/Clubs",1971,NA,-72.6801336,41.7678288,"Google Verified Location",NA,NA,NA,"1971-CT-0137"
+"Hofbrauhaus","","376 Asylum ","Hartford","CT","(M),(*)","Bars/Clubs",1965,NA,-72.6801336,41.7678288,"Google Verified Location",NA,NA,NA,"1965-CT-0138"
+"Homestead Inn","","44 Field Pt. Rd. ","Greenwich","CT","(M),(R),(H)","Restaurant,Hotel",1980,NA,-73.628584,41.0265386,"Google Verified Location",NA,NA,NA,"1980-CT-0139"
+"Homestead Inn","","44 Field Pt. Rd. ","Greenwich","CT","(M),(R),(H)","Restaurant,Hotel",1978,NA,-73.628584,41.0265386,"Google Verified Location",NA,NA,NA,"1978-CT-0140"
+"Homestead Inn ","","44 Field Pt. Rd. ","Greenwich","CT","(M),(R),(H)","Restaurant,Hotel",1977,NA,-73.628584,41.0265386,"Google Verified Location",NA,NA,NA,"1977-CT-0141"
+"Homestead Inn ","","44 Field Pt. Rd. ","Greenwich","CT","(M),(R),(H)","Restaurant,Hotel",1979,NA,-73.628584,41.0265386,"Google Verified Location",NA,NA,NA,"1979-CT-0142"
+"Homestead Inn ","","44 Field Pt. Rd. ","Greenwich","CT","(M),(R),(H)","Restaurant,Hotel",1975,NA,-73.628584,41.0265386,"Google Verified Location",NA,NA,NA,"1975-CT-0143"
+"Homestead Inn ","","44 Field Pt. Rd. ","Greenwich","CT","(M),(R),(H)","Restaurant,Hotel",1976,NA,-73.628584,41.0265386,"Google Verified Location",NA,NA,NA,"1976-CT-0144"
+"Howard Johnson's","Long Wharf","400 Sargent Dr. ","New Haven","CT","(M),(R),(C),(AH),(WE)","Restaurant",1979,NA,-72.9201837,41.2945068,"Google Verified Location",NA,NA,NA,"1979-CT-0145"
+"Howard Johnson's ","Long Wharf","400 Sargent Dr. ","New Haven","CT","(M),(R),(C),(AH)","Restaurant",1978,NA,-72.9201837,41.2945068,"Google Verified Location",NA,NA,NA,"1978-CT-0146"
+"Howard Johnson's ","Long Wharf","400 Sargent Dr. ","New Haven","CT","(M),(R),(C),(AH),(WE)","Restaurant",1980,NA,-72.9201837,41.2945068,"Google Verified Location",NA,NA,NA,"1980-CT-0147"
+"Howard Johnson's Truck Stops on I-95","(all thru Conn.)","","New Haven","CT","","Cruising Areas",1980,"",-72.930326,41.284533,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0148"
+"Howard Johnson's Truck Stops on I-95","(all thru Conn.)","","New Haven","CT","","Cruising Areas",1979,"",-72.930326,41.284533,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-CT-0149"
+"Hungry Charlie's ","","300 York ","New Haven","CT","(HIP),(M),(YC),(R)","Restaurant",1975,NA,-72.9301386,41.3117776,"Google Verified Location",NA,NA,NA,"1975-CT-0150"
+"Hungry Charlie's ","","300 York ","New Haven","CT","(HIP),(M),(YC),(R)","Restaurant",1976,NA,-72.9301386,41.3117776,"Google Verified Location",NA,NA,NA,"1976-CT-0151"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","","Bars/Clubs",1975,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1975-CT-0152"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","","Bars/Clubs",1974,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1974-CT-0153"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","(*)","Bars/Clubs",1968,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1968-CT-0154"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","","Bars/Clubs",1971,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1971-CT-0155"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","","Bars/Clubs",1972,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1972-CT-0156"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","","Bars/Clubs",1973,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1973-CT-0157"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","(*)","Bars/Clubs",1969,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1969-CT-0158"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","(*)","Bars/Clubs",1965,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1965-CT-0159"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","(*)","Bars/Clubs",1966,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1966-CT-0160"
+"Hygenic Lounge ","","79 Bank St. ","New London","CT","(*)","Bars/Clubs",1970,NA,-72.0947047,41.3531069,"Google Verified Location",NA,NA,NA,"1970-CT-0161"
+"Jacko Sullivan's ","","1166 Chapel St. ","New Haven","CT","(M),(YC)","Bars/Clubs",1976,NA,-72.9332069,41.3085692,"Google Verified Location",NA,NA,NA,"1976-CT-0162"
+"Jacko Sullivan's ","","1166 Chapel Street ","New Haven","CT","(M),(YC)","Bars/Clubs",1977,NA,-72.9332069,41.3085692,"Google Verified Location",NA,NA,NA,"1977-CT-0163"
+"Jacko Sullivans ","","1166 Chapel St. ","New Haven","CT","(M),(YC)","Bars/Clubs",1973,NA,-72.9332069,41.3085692,"Google Verified Location",NA,NA,NA,"1973-CT-0164"
+"Jacko Sullivans ","","1166 Chapel St. ","New Haven","CT","(M),(YC)","Bars/Clubs",1974,NA,-72.9332069,41.3085692,"Google Verified Location",NA,NA,NA,"1974-CT-0165"
+"Jacko Sullivans ","","1166 Chapel St. ","New Haven","CT","(M),(YC)","Bars/Clubs",1975,NA,-72.9332069,41.3085692,"Google Verified Location",NA,NA,NA,"1975-CT-0166"
+"Krenz's ","","544 Main ","Middletown","CT","(YC),(M)","Bars/Clubs",1970,NA,-72.6513132,41.5635727,"Google Verified Location",NA,NA,NA,"1970-CT-0167"
+"Krenz's ","","544 Main ","Middletown","CT","(YC),(M)","Bars/Clubs",1971,NA,-72.6513132,41.5635727,"Google Verified Location",NA,NA,NA,"1971-CT-0168"
+"Library Park","","","Waterbury","CT","","Cruising Areas",1978,"",-73.045324,41.554031,"Verified Location",NA,NA,NA,"1978-CT-0169"
+"Lil's ","","245 Bank St. ","Waterbury","CT","(M)","Bars/Clubs",1972,NA,-73.0416839,41.5527219,"Google Verified Location",NA,NA,NA,"1972-CT-0170"
+"Lil's ","","245 Bank St. ","Waterbury","CT","(M)","Bars/Clubs",1970,NA,-73.0416839,41.5527219,"Google Verified Location",NA,NA,NA,"1970-CT-0171"
+"Loft","(after hours)(weekends) Across from Cinerama Theatre","Farmington Ave.","Hartford","CT","(C),(R),(YC),(HIP)","Restaurant",1973,"",-72.700112,41.767697,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1973-CT-0172"
+"Loft ","(after hours)(weekends- adm. charge)(Unisex)","495 1/2 Farmington Ave. ","Hartford","CT","(C),(R),(YC),(HIP),(B),(D),(*)","Restaurant",1974,NA,-72.6876004,41.7680811,"Google Verified Location",NA,NA,NA,"1974-CT-0173"
+"Loft ","(Unisex)","495 1/2 Farmington Ave. ","Hartford","CT","(C),(R),(YC),(HIP),(B),(D),(*),(S)","Restaurant",1975,NA,-72.6876004,41.7680811,"Google Verified Location",NA,NA,NA,"1975-CT-0174"
+"Log Cabin","(burned- supposedly re-opening)","Route 25","Newtown","CT","","Bars/Clubs",1975,"",-73.303566,41.414112,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-CT-0175"
+"Log Cabin","(use back entrance)","Rt. 25 ","Newtown","CT","","Bars/Clubs",1974,NA,-73.3079652,41.412262,"Google Verified Location",NA,NA,NA,"1974-CT-0176"
+"Long Wharf 'Truck Stop'","off I-95","","New Haven","CT","","Cruising Areas",1978,"",-72.92134,41.296815,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-CT-0177"
+"Long Wharf Truck Stop off I-95","","","New Haven","CT","","Cruising Areas",1979,"",-72.92134,41.296815,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-CT-0178"
+"Long Wharf Truck Stop off I-95","","","New Haven","CT","","Cruising Areas",1980,"",-72.92134,41.296815,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0179"
+"M.C.C.","","1 Amity Pl. ","Hartford","CT","","Church",1980,NA,-72.7099341,41.7565939,"Google Verified Location",NA,NA,NA,"1980-CT-0180"
+"M.C.C.","(2nd floor)","425 College St. ","New Haven","CT","","Church",1980,NA,-72.9265643,41.3096282,"Google Verified Location",NA,NA,NA,"1980-CT-0181"
+"M.C.C.","","1 Amity Pl. ","Hartford","CT","","Church",1979,NA,-72.7099341,41.7565939,"Google Verified Location",NA,NA,NA,"1979-CT-0182"
+"M.C.C.","","1 Amity St. ","Hartford","CT","","Church",1976,NA,-72.7099341,41.7565939,"Google Verified Location",NA,NA,NA,"1976-CT-0183"
+"M.C.C. ","","1 Amity St. ","Hartford","CT","","Church",1978,NA,-72.7099341,41.7565939,"Google Verified Location",NA,NA,NA,"1978-CT-0184"
+"M.C.C. ","","1 Amity Street ","Hartford","CT","","Church",1977,NA,-72.7099341,41.7565939,"Google Verified Location",NA,NA,NA,"1977-CT-0185"
+"Malone's Three Stines ","","255 Church St. ","New Haven","CT","(M),(YC),(*)","Bars/Clubs",1973,NA,-72.9223759,41.309945,"Google Verified Location",NA,NA,NA,"1973-CT-0186"
+"Malone's Three Stines ","","255 Church St. ","New Haven","CT","(M),(YC),(*),(HIP)","Bars/Clubs",1974,NA,-72.9223759,41.309945,"Google Verified Location",NA,NA,NA,"1974-CT-0187"
+"Malone's Three Stines ","","255 Church St. ","New Haven","CT","(YC),(*),(HIP),(D)","Bars/Clubs",1975,NA,-72.9223759,41.309945,"Google Verified Location",NA,NA,NA,"1975-CT-0188"
+"Melody Room","","242 Bank St. ","Waterbury","CT","(*)","Bars/Clubs",1973,NA,-73.0416839,41.5527219,"Google Verified Location",NA,NA,NA,"1973-CT-0189"
+"Neuter Rooster ","(Very M)(Disco)","102 Hamilton St. ","New Haven","CT","(M),(D)","Bars/Clubs",1978,NA,-72.9130659,41.3059012,"Google Verified Location",NA,NA,NA,"1978-CT-0190"
+"Neuter Rooster ","(Disco)","102 Hamilton St.","New Haven","CT","(YC),(D),(*)","Bars/Clubs",1977,NA,-72.9130659,41.3059012,"Google Verified Location",NA,NA,NA,"1977-CT-0191"
+"New Central ","","340 Main ","Hartford","CT","(M),(RT)","Bars/Clubs",1972,NA,-72.6744692,41.7599454,"Google Verified Location",NA,NA,NA,"1972-CT-0192"
+"Nick's Cafe House ","(Some M, OC)","1943 Broad ","Hartford","CT","(D),(M),(OC)","Bars/Clubs",1980,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1980-CT-0193"
+"Nick's Cafe House ","","1943 Broad ","Hartford","CT","(D)","Bars/Clubs",1979,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1979-CT-0194"
+"Nick's Cafe House ","(Disco)","1943 Broad ","Hartford","CT","(R),(D)","Restaurant",1978,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1978-CT-0195"
+"Nick's Cafe House ","(Disco) ","1943 Broad ","Hartford","CT","(D),(*)","Bars/Clubs",1977,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1977-CT-0196"
+"Nick's Steak House ","(Back room weekends only $2. admiss.)","453 Franklin Ave. ","Hartford","CT","(YC),(D),(*)","Bars/Clubs",1971,NA,-72.6755951,41.7368569,"Google Verified Location",NA,NA,NA,"1971-CT-0197"
+"Nick's Steak House ","(Back room weekends only $2. admiss.)","1943 Broad St. ","Hartford","CT","(YC),(D),(*)","Bars/Clubs",1972,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1972-CT-0198"
+"Nick's Steak House ","(weekends)(Backroom)","1943 Broad St. ","Hartford","CT","(YC),(D)","Bars/Clubs",1973,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1973-CT-0199"
+"Nick's Steak House ","(Back room weekends only $2. admiss.)","1943 Broad St. ","Hartford","CT","(YC),(D),(*)","Bars/Clubs",1971,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1971-CT-0200"
+"Nick's Steak House ","(Adm. charge back room weekends)","1943 Broad St. ","Hartford","CT","(YC),(D),(*)","Bars/Clubs",1974,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1974-CT-0201"
+"Nick's Steak House ","(Adm. charge back room weekends)","1943 Broad St. ","Hartford","CT","(YC),(D),(*)","Bars/Clubs",1975,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1975-CT-0202"
+"Nick's Steak House ","(Disco)","1943 Broad St. ","Hartford","CT","(YC),(D),(*)","Bars/Clubs",1976,NA,-72.6875938,41.7392804,"Google Verified Location",NA,NA,NA,"1976-CT-0203"
+"Nobody's Fault ","(Unisex)(Looks promising)(Disco)","334 Whalley Ave. ","New Haven","CT","(YC),(D)","Bars/Clubs",1979,NA,-72.9441149,41.3169229,"Google Verified Location",NA,NA,NA,"1979-CT-0204"
+"Nobody's Fault ","(Unisex)(Disco)","334 Whalley Ave. ","New Haven","CT","(YC),(D),(B)","Bars/Clubs",1980,NA,-72.9441149,41.3169229,"Google Verified Location",NA,NA,NA,"1980-CT-0205"
+"Oasis","Inquire locally (Disco)","","New Britain","CT","(D)","Bars/Clubs",1980,"",-72.779542,41.66121,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0206"
+"Olympus Book Store ","","288 Asylum ","Hartford","CT","","Book Store",1980,NA,-72.6784219,41.7675682,"Google Verified Location",NA,NA,NA,"1980-CT-0207"
+"Olympus Books ","('wild back room')","166 York St. ","New Haven","CT","(*)","Book Store",1980,NA,-72.9321605,41.3080807,"Google Verified Location",NA,NA,NA,"1980-CT-0208"
+"Olympus Books ","('wild back room')","166 York St. ","New Haven","CT","","Book Store",1979,NA,-72.9321605,41.3080807,"Google Verified Location",NA,NA,NA,"1979-CT-0209"
+"Park Street near Chapel","","","New Haven","CT","","Cruising Areas",1975,"",-72.931605,41.30848,"Verified Location",NA,NA,NA,"1975-CT-0210"
+"Park West ","(some G)","1615 Park St. ","Hartford","CT","(D),(G),(*)","Bars/Clubs",1975,NA,-72.7052738,41.7572817,"Google Verified Location",NA,NA,NA,"1975-CT-0211"
+"Park West ","","1615 Park St. ","Hartford","CT","(D)","Bars/Clubs",1974,NA,-72.7052738,41.7572817,"Google Verified Location",NA,NA,NA,"1974-CT-0212"
+"Parkway","","1574 Chapel St. ","New Haven","CT","(M)","Bars/Clubs",1972,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1972-CT-0213"
+"Parkway","","1574 Chapel St. ","New Haven","CT","(M)","Bars/Clubs",1971,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1971-CT-0214"
+"Parkway ","($2 min on weekends)","1574 Chapel St. ","New Haven","CT","(HIP),(YC),(D),(*)","Bars/Clubs",1974,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1974-CT-0215"
+"Parkway ","(Some G)","1574 Chapel St. ","New Haven","CT","(M),(RT),(G)","Bars/Clubs",1977,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1977-CT-0216"
+"Parkway ","(Some G)","1574 Chapel St. ","New Haven","CT","(M),(RT),(G)","Bars/Clubs",1978,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1978-CT-0217"
+"Parkway ","(Some G)","1574 Chapel St. ","New Haven","CT","(M),(RT),(G)","Bars/Clubs",1979,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1979-CT-0218"
+"Parkway ","","1574 Chapel St. ","New Haven","CT","(M)","Bars/Clubs",1973,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1973-CT-0219"
+"Parkway ","($2 min on weekends)","1574 Chapel St. ","New Haven","CT","(HIP),(YC),(D),(*)","Bars/Clubs",1975,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1975-CT-0220"
+"Parkway ","","1574 Chapel St. ","New Haven","CT","(M),(RT)","Bars/Clubs",1980,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1980-CT-0221"
+"Parkway ","(Some G)","1574 Chapel St. ","New Haven","CT","(M),(RT),(G)","Bars/Clubs",1976,NA,-72.9490555,41.3120663,"Google Verified Location",NA,NA,NA,"1976-CT-0222"
+"Partner's ","","365 Crown St. ","New Haven","CT","(*),(G),(D),(W),(YC),(HIP)","Bars/Clubs",1978,NA,-72.9340374,41.30801,"Google Verified Location",NA,NA,NA,"1978-CT-0223"
+"Partner's ","","365 Crown St. ","New Haven","CT","(G),(D),(W),(YC),(HIP),(*)","Bars/Clubs",1977,NA,-72.9340374,41.30801,"Google Verified Location",NA,NA,NA,"1977-CT-0224"
+"Partners ","(This is where it's happening in New Haven- 3 floors- Basement is (G)(D) Main floor is (YC)(W) and Top Floor is (HIP)(YC)(D)","365 Crown St. at Park","New Haven","CT","(*),(G),(D),(YC),(W),(HIP)","Bars/Clubs",1976,NA,-72.9340374,41.30801,"Google Verified Location",NA,NA,NA,"1976-CT-0225"
+"Partners ","(Disco)","365 Crown St. ","New Haven","CT","(*),(G),(D),(W),(YC),(HIP)","Bars/Clubs",1979,NA,-72.9340374,41.30801,"Google Verified Location",NA,NA,NA,"1979-CT-0226"
+"Partners ","(Disco)","365 Crown St. ","New Haven","CT","(*),(L),(D),(W),(YC),(HIP)","Bars/Clubs",1980,NA,-72.9340374,41.30801,"Google Verified Location",NA,NA,NA,"1980-CT-0227"
+"Peerless","","90 Main St. ","Hartford","CT","","Bars/Clubs",1969,NA,-72.6753112,41.7565709,"Google Verified Location",NA,NA,NA,"1969-CT-0228"
+"Peerless","","90 Main St. ","Hartford","CT","","Bars/Clubs",1971,NA,-72.6753112,41.7565709,"Google Verified Location",NA,NA,NA,"1971-CT-0229"
+"Peerless","","90 Main St. ","Hartford","CT","","Bars/Clubs",1968,NA,-72.6753112,41.7565709,"Google Verified Location",NA,NA,NA,"1968-CT-0230"
+"Peerless","","90 Main St. ","Hartford","CT","","Bars/Clubs",1970,NA,-72.6753112,41.7565709,"Google Verified Location",NA,NA,NA,"1970-CT-0231"
+"Peerless","","90 Main St. ","Hartford","CT","(*)","Bars/Clubs",1966,NA,-72.6753112,41.7565709,"Google Verified Location",NA,NA,NA,"1966-CT-0232"
+"Peerless","","90 Main St. ","Hartford","CT","(*)","Bars/Clubs",1965,NA,-72.6753112,41.7565709,"Google Verified Location",NA,NA,NA,"1965-CT-0233"
+"Penthouse ","(Some G)","54 E. Washington ","Bridgeport","CT","(YC),(D),(G),(*)","Bars/Clubs",1976,NA,-73.1917933,41.1853398,"Google Verified Location",NA,NA,NA,"1976-CT-0234"
+"Penthouse ","","54 East Washington ","Bridgeport","CT","(M)","Bars/Clubs",1977,NA,-73.1917933,41.1853398,"Google Verified Location",NA,NA,NA,"1977-CT-0235"
+"Penthouse ","(Some G)","54 E. Washington ","Bridgeport","CT","(YC),(D),(G),(*)","Bars/Clubs",1974,NA,-73.1917933,41.1853398,"Google Verified Location",NA,NA,NA,"1974-CT-0236"
+"Penthouse ","(Some G)","54 E. Washington ","Bridgeport","CT","(YC),(D),(G),(*)","Bars/Clubs",1975,NA,-73.1917933,41.1853398,"Google Verified Location",NA,NA,NA,"1975-CT-0237"
+"Pleasure Books","","Park St.","New Haven","CT","","Book Store",1978,"",-72.934208,41.30793,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-CT-0238"
+"Poor Lad's ","","204 Crown St. ","New Haven","CT","(M),(PE),(R)","Restaurant",1976,NA,-72.9285928,41.3052765,"Google Verified Location",NA,NA,NA,"1976-CT-0239"
+"Poor Lads","","204 Crown St. ","New Haven","CT","(M)","Bars/Clubs",1971,NA,-72.9285928,41.3052765,"Google Verified Location",NA,NA,NA,"1971-CT-0240"
+"Poor Lads","","204 Crown St. ","New Haven","CT","(M)","Bars/Clubs",1972,NA,-72.9285928,41.3052765,"Google Verified Location",NA,NA,NA,"1972-CT-0241"
+"Poor Lads","","204 Crown St. ","New Haven","CT","(M),(PE)","Bars/Clubs",1974,NA,-72.9285928,41.3052765,"Google Verified Location",NA,NA,NA,"1974-CT-0242"
+"Poor Lads","","204 Crown St. ","New Haven","CT","(M)","Bars/Clubs",1973,NA,-72.9285928,41.3052765,"Google Verified Location",NA,NA,NA,"1973-CT-0243"
+"Poor Lads","","204 Crown St. ","New Haven","CT","(M),(PE)","Bars/Clubs",1975,NA,-72.9285928,41.3052765,"Google Verified Location",NA,NA,NA,"1975-CT-0244"
+"Pub ","(Good cocktail hour)","132 Chapel St. ","New Haven","CT","(R),(OC),(*)","Restaurant",1978,NA,-72.8971666,41.3037439,"Google Verified Location",NA,NA,NA,"1978-CT-0245"
+"Pub Cafe ","","168 York St. ","New Haven","CT","Cruisy Area,(*)","Cruising Areas,Bars/Clubs",1980,NA,-72.932154,41.308158,"Google Verified Location",NA,NA,NA,"1980-CT-0246"
+"Pub Cafe ","(Cruisy)","168 York St. ","New Haven","CT","(*),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-72.932154,41.308158,"Google Verified Location",NA,NA,NA,"1979-CT-0247"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","(*)","Restaurant",1974,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1974-CT-0248"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","(YC),(*)","Restaurant",1971,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1971-CT-0249"
+"Pub Restaurant ","(great during cocktail hour)","1132 Chapel St. ","New Haven","CT","(R),(*)","Restaurant",1977,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1977-CT-0250"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","(YC),(*)","Restaurant",1972,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1972-CT-0251"
+"Pub Restaurant ","(best during cocktail hour)","1132 Chapel St. ","New Haven","CT","(*),(OC),(R)","Restaurant",1976,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1976-CT-0252"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","","Restaurant",1969,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1969-CT-0253"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","(*)","Restaurant",1975,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1975-CT-0254"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","(*)","Restaurant",1973,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1973-CT-0255"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","","Restaurant",1965,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1965-CT-0256"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","","Restaurant",1968,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1968-CT-0257"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","","Restaurant",1966,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1966-CT-0258"
+"Pub Restaurant ","","1132 Chapel ","New Haven","CT","(YC),(*)","Restaurant",1970,NA,-72.9319417,41.3083277,"Google Verified Location",NA,NA,NA,"1970-CT-0259"
+"R.R. Station","","","Waterbury","CT","","Cruising Areas",1978,"",-73.04705,41.554463,"Verified Location",NA,NA,NA,"1978-CT-0260"
+"Red Garter ","","1388 E. Main ","Meriden","CT","(YC),(M)","Bars/Clubs",1973,NA,-72.7561251,41.5260676,"Google Verified Location",NA,NA,NA,"1973-CT-0261"
+"Red Garter ","","1388 E. Main ","Meriden","CT","(YC),(M)","Bars/Clubs",1971,NA,-72.7561251,41.5260676,"Google Verified Location",NA,NA,NA,"1971-CT-0262"
+"Red Garter ","","1388 E. Main ","Meriden","CT","(YC),(M)","Bars/Clubs",1974,NA,-72.7561251,41.5260676,"Google Verified Location",NA,NA,NA,"1974-CT-0263"
+"Red Garter ","","1388 E. Main ","Meriden","CT","(YC),(M)","Bars/Clubs",1972,NA,-72.7561251,41.5260676,"Google Verified Location",NA,NA,NA,"1972-CT-0264"
+"Red Garter ","","1388 E. Main ","Meriden","CT","(YC),(M)","Bars/Clubs",1970,NA,-72.7561251,41.5260676,"Google Verified Location",NA,NA,NA,"1970-CT-0265"
+"Rein's Deli ","Civic Center Shopping Center ","","Hartford","CT","(M),(R),(C),(AH)","Restaurant",1980,NA,-72.6733723,41.7658043,"Google Verified Location",NA,NA,NA,"1980-CT-0266"
+"Ricardo's Copa ","(Disco)","130 Crown St. at Church","New Haven","CT","(*),(YC),(D)","Bars/Clubs",1980,NA,-72.9265396,41.3045258,"Google Verified Location",NA,NA,NA,"1980-CT-0267"
+"Riviera Lounge ","","238 Colombus Blvd. ","Hartford","CT","","Bars/Clubs",1974,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1974-CT-0268"
+"Riviera Lounge ","","238 Colombus Blvd. ","Hartford","CT","","Bars/Clubs",1975,NA,-72.6694693,41.7642353,"Google Verified Location",NA,NA,NA,"1975-CT-0269"
+"Road House Cafe","","1388 Thomaston Ave. at Chase","Waterbury","CT","(M),(*)","Restaurant",1975,NA,-73.0551009,41.5617313,"Google Verified Location",NA,NA,NA,"1975-CT-0270"
+"Road House Cafe","","1388 Thomaston Ave. at Chase","Waterbury","CT","(M),(*)","Restaurant",1974,NA,-73.0551009,41.5617313,"Google Verified Location",NA,NA,NA,"1974-CT-0271"
+"Road House Cafe ","","1388 Thomaston Ave. at Chase St.","Waterbury","CT","(D),(*)","Bars/Clubs",1977,NA,-73.0483448,41.585005,"Google Verified Location",NA,NA,NA,"1977-CT-0272"
+"Road House Cafe ","","1388 Thomaston Ave. at Chase","Waterbury","CT","(D),(*)","Bars/Clubs",1976,NA,-73.0551009,41.5617313,"Google Verified Location",NA,NA,NA,"1976-CT-0273"
+"Roaring 20's","","Church St.","Hartford","CT","(*)","Bars/Clubs",1968,"",-72.677757,41.76918,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1968-CT-0274"
+"Rockinghorse","","327 Asylum","Hartford","CT","(M),(YC)","Bars/Clubs",1971,NA,-72.6788594,41.7673233,"Google Verified Location",NA,NA,NA,"1971-CT-0275"
+"Rockinghorse","","327 Asylum","Hartford","CT","","Bars/Clubs",1970,NA,-72.6788594,41.7673233,"Google Verified Location",NA,NA,NA,"1970-CT-0276"
+"Ryan's Deli","Civic Center Shopping Center","","Hartford","CT","(M),(R),(C),(AH)","Restaurant",1978,"",-72.67617,41.768289,"Verified Location",NA,NA,NA,"1978-CT-0277"
+"Ryan's Deli ","Civic Center Shopping Center","","Hartford","CT","(M),(R),(C),(AH)","Restaurant",1979,NA,-72.6733723,41.7658043,"Google Verified Location",NA,NA,NA,"1979-CT-0278"
+"Salty Dog","(Disco)","95 Pequot Ave. ","New London","CT","(*),(YC),(D)","Bars/Clubs",1980,NA,-72.1000971,41.3390739,"Google Verified Location",NA,NA,NA,"1980-CT-0279"
+"Salty Dog ","(Looks promising)","95 Pequot Ave. ","New London","CT","(M),(YC)","Bars/Clubs",1979,NA,-72.1000971,41.3390739,"Google Verified Location",NA,NA,NA,"1979-CT-0280"
+"Sherwood Isle St. Park","W. Beach- far end (summers) I-95, exit 18","","Westport","CT","","Cruising Areas",1979,"",-73.332136,41.116614,"Verified Location",NA,NA,NA,"1979-CT-0281"
+"Sherwood Isle St. Park","E. Beach- far end (Summers) I-95, exit 18","","Westport","CT","","Cruising Areas",1980,"",-73.332136,41.116614,"Verified Location",NA,NA,NA,"1980-CT-0282"
+"Superbooks ","","1130 Chapel St. ","New Haven","CT","(*),(M)","Bars/Clubs",1980,NA,-72.9318617,41.308374,"Google Verified Location",NA,NA,NA,"1980-CT-0283"
+"Superbooks ","","1130 Chapel St. ","New Haven","CT","","Book Store",1977,NA,-72.9318617,41.308374,"Google Verified Location",NA,NA,NA,"1977-CT-0284"
+"Superbooks ","","1130 Chapel St. ","New Haven","CT","","Book Store",1978,NA,-72.9318617,41.308374,"Google Verified Location",NA,NA,NA,"1978-CT-0285"
+"Superbooks ","","1130 Chapel St. ","New Haven","CT","(M),(*)","Book Store",1979,NA,-72.9318617,41.308374,"Google Verified Location",NA,NA,NA,"1979-CT-0286"
+"Taft Hotel Bar ","","265 College ","New Haven","CT","(M)","Bars/Clubs,Hotel",1971,NA,-72.9287185,41.306837,"Google Verified Location",NA,NA,NA,"1971-CT-0287"
+"Taft Hotel Bar ","","265 College ","New Haven","CT","(M)","Bars/Clubs,Hotel",1973,NA,-72.9287185,41.306837,"Google Verified Location",NA,NA,NA,"1973-CT-0288"
+"Taft Hotel Bar ","","265 College ","New Haven","CT","(M)","Bars/Clubs,Hotel",1972,NA,-72.9287185,41.306837,"Google Verified Location",NA,NA,NA,"1972-CT-0289"
+"Taft Hotel Bar ","","265 College ","New Haven","CT","(M)","Bars/Clubs,Hotel",1974,NA,-72.9287185,41.306837,"Google Verified Location",NA,NA,NA,"1974-CT-0290"
+"Taft Hotel Bar ","","265 College ","New Haven","CT","(M)","Bars/Clubs,Hotel",1970,NA,-72.9287185,41.306837,"Google Verified Location",NA,NA,NA,"1970-CT-0291"
+"The 1490 ","","1490 Congress St. ","Hartford","CT","","Bars/Clubs",1968,NA,-72.6760615,41.7537889,"Google Verified Location",NA,NA,NA,"1968-CT-0292"
+"The 1490 ","","1490 Congress St. ","Hartford","CT","","Bars/Clubs",1966,NA,-72.6760615,41.7537889,"Google Verified Location",NA,NA,NA,"1966-CT-0293"
+"The 1490 ","","1490 Congress St. ","Hartford","CT","","Bars/Clubs",1969,NA,-72.6760615,41.7537889,"Google Verified Location",NA,NA,NA,"1969-CT-0294"
+"The Brook ","(Exit 18, off I-91)","919 E. State St. ","Westport","CT","(YC),(D),(*)","Bars/Clubs",1976,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1976-CT-0295"
+"The Brook Cafe ","(Disco)(Don't miss if anywhere in the area- also (G)(D)(PT) in separate back room) (U.S. 1) Exit 18 off I-95","919 East State Street","Westport","CT","(YC),(D),(*),(G),(PT)","Bars/Clubs",1977,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1977-CT-0296"
+"The Brook Cafe ","(Disco)(Don't miss if anywhere in the area) (US 1) Exit 18 off I-95","919 Post Rd. E. ","Westport","CT","(*),(YC),(D),(G),(PT)","Bars/Clubs",1979,NA,-73.3335309,41.1385827,"Google Verified Location",NA,NA,NA,"1979-CT-0297"
+"The Brook Cafe ","(Disco)(Don't miss if anywhere in the area)(US 1) Exit 18 off I-95","919 E. State St. ","Westport","CT","(YC),(D),(*),(G),(PT)","Bars/Clubs",1978,NA,-73.3379802,41.1379196,"Google Verified Location",NA,NA,NA,"1978-CT-0298"
+"The Brook Cafe ","(Don't miss if anywhere in the area)(Sunday afternoon Tea Dance- Summers)(U.S. 1) Exit 18 off I-95","919 Post Rd. E. ","Westport","CT","(*),(YC),(D),(L),(PT)","Bars/Clubs",1980,NA,-73.3335309,41.1385827,"Google Verified Location",NA,NA,NA,"1980-CT-0299"
+"The Pines","","State Hwy 25","Newtown","CT","","Bars/Clubs",1968,"",-73.303566,41.414112,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1968-CT-0300"
+"The Pines","","State Hwy 25","Newtown","CT","","Bars/Clubs",1966,"",-73.303566,41.414112,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1966-CT-0301"
+"The Pines ","","State Hwy 25","Newtown","CT","","Bars/Clubs",1969,NA,-73.2936978,41.3964785,"Google Verified Location",NA,NA,NA,"1969-CT-0302"
+"Tres Jolie ","(Looks promising)","1615 Park Ave. ","Hartford","CT","(R)","Restaurant",1980,NA,-72.6250369,41.7806683,"Google Verified Location",NA,NA,NA,"1980-CT-0303"
+"Trumbull Bar & Grill","","Trumbull & Church","Hartford","CT","(D),(*)","Bars/Clubs",1970,"",-72.675381,41.768817,"Verified Location",NA,NA,NA,"1970-CT-0304"
+"Trumbull Bar & Grill","(Maybe moving to Hotel Hartford on Church St.)","Trumbull & Church","Hartford","CT","(D),(*)","Bars/Clubs",1969,"",-72.675381,41.768817,"Verified Location",NA,NA,NA,"1969-CT-0305"
+"Uncle Mary's ","(Disco)(Some G)(Route 7) ","233 Main Ave","Norwalk","CT","(D),(G),(*)","Bars/Clubs",1977,NA,-73.4238853,41.1315667,"Google Verified Location",NA,NA,NA,"1977-CT-0306"
+"Vincent's Cafe ","","925 Post Road E. ","Westport","CT","(L),(D),(PT)","Bars/Clubs",1980,NA,-73.3329661,41.138635,"Google Verified Location",NA,NA,NA,"1980-CT-0307"
+"Warehouse ","","61 Woodbine at Capitol Ave. ","Hartford","CT","(YC),(D),(*)","Bars/Clubs",1973,NA,-72.6957851,41.762816,"Google Verified Location",NA,NA,NA,"1973-CT-0308"
+"Warehouse ","(Some G) ","61 Woodbine at Capitol Ave. ","Hartford","CT","(YC),(D),(*),(G)","Bars/Clubs",1974,NA,-72.6957851,41.762816,"Google Verified Location",NA,NA,NA,"1974-CT-0309"
+"Warehouse ","(Some G)($1.00 adm. WE)","61 Woodbine at Capitol ","Hartford","CT","(M),(YC),(D),(G),(*),(WE)","Bars/Clubs",1976,NA,-72.6683378,41.7818449,"Google Verified Location",NA,NA,NA,"1976-CT-0310"
+"Warehouse ","(Unisex)(Disco)(Adm.)","61 Woodbine at Capitol ","Hartford","CT","(*),(M),(YC),(D),(PT),(AH),(WE)","Bars/Clubs",1979,NA,-72.6683378,41.7818449,"Google Verified Location",NA,NA,NA,"1979-CT-0311"
+"Warehouse ","(Unisex)(Disco)(Adm.)","61 Woodbine at Capitol ","Hartford","CT","(M),(YC),(*),(D),(PT),(AH),(WE)","Bars/Clubs",1978,NA,-72.6683378,41.7818449,"Google Verified Location",NA,NA,NA,"1978-CT-0312"
+"Warehouse ","(Unisex)(Disco)($1.00 adm WE)","61 Woodbine at Capitol ","Hartford","CT","(M),(YC),(D),(PT),(AH),(WE),(*)","Bars/Clubs",1977,NA,-72.6683378,41.7818449,"Google Verified Location",NA,NA,NA,"1977-CT-0313"
+"Warehouse ","(Disco)(Adm.)","61 Woodbine at Capitol ","Hartford","CT","(*),(D),(YC),(W),(SM),(B)","Bars/Clubs",1980,NA,-72.6683378,41.7818449,"Google Verified Location",NA,NA,NA,"1980-CT-0314"
+"Warehouse ","(Some G) ","61 Woodbine at Capitol Ave. ","Hartford","CT","(YC),(D),(*),(G)","Bars/Clubs",1975,NA,-72.6957851,41.762816,"Google Verified Location",NA,NA,NA,"1975-CT-0315"
+"West Farms Mall","","","Farmington","CT","","Cruising Areas",1980,"",-72.763237,41.722862,"Verified Location",NA,NA,NA,"1980-CT-0316"
+"Whole Thing","(Some B)","1239 Chapel St. ","New Haven","CT","(YC),(D),(HIP),(B),(*)","Bars/Clubs",1975,NA,-72.9355536,41.3095322,"Google Verified Location",NA,NA,NA,"1975-CT-0317"
+"Whole Thing ","","1239 Chapel St. ","New Haven","CT","(M),(B),(D),(S),(*)","Bars/Clubs",1976,NA,-72.9355536,41.3095322,"Google Verified Location",NA,NA,NA,"1976-CT-0318"
+"Y.M.C.A","'Bunk Room' Downtown","","New London","CT","","Cruising Areas",1979,"",-72.099521,41.355654,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-CT-0319"
+"Y.M.C.A. 'Bunk Room' Downtown","","","New London","CT","","Cruising Areas",1980,"",-72.099521,41.355654,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-CT-0320"

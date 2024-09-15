@@ -1,113 +1,113 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-276,MT091,Adult Bookstore on E. Main,,,Missoula,MT,Cruisy Area,"Cruising Areas,Book Store",1980,,-113.994031,46.872128,Verified Location
-263,MT078,Adult Shop,,3rd & Central,Great Falls,MT,Cruisy Area,Cruising Areas,1979,,-111.316696,47.507802,Verified Location
-278,MT093,Adult Shop,,3rd & Central,Great Falls,MT,Cruisy Area,"Cruising Areas,Business",1978,NA,-111.316696,47.507802,Verified Location
-273,MT088,Adult Shop,,3rd & Central,Great Falls,MT,Cruisy Area,Cruising Areas,1980,,-111.316696,47.507802,Verified Location
-285,MT100,Bronx Lounge,(cruisy),42 W. Broadway,Butte,MT,"(M),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-112.5370763,46.0133806,Google Verified Location
-269,MT084,Cockpit,,131 Moore,Billings,MT,"(M),(YC)",Bars/Clubs,1978,NA,-108.5415319,45.7669464,Google Verified Location
-284,MT099,Cockpit,,131 Moore,Billings,MT,"(M),(YC)",Bars/Clubs,1979,NA,-108.5415319,45.7669464,Google Verified Location
-245,MT060,Cockpit,,131 Moore,Billings,MT,"(M),(YC)",Bars/Clubs,1977,NA,-108.5415319,45.7669464,Google Verified Location
-241,MT056,Crown Room,,425 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1976,NA,-112.0369746,46.5912468,Google Verified Location
-260,MT075,Crown Room,,425 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1977,NA,-112.0369746,46.5912468,Google Verified Location
-231,MT046,Crown Room,,425 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1975,NA,-112.0369746,46.5912468,Google Verified Location
-251,MT066,Crystal Lounge,Northern Hotel (Downstairs Basement Bar),Broadway & 1st Ave N.,Billings,MT,,"Hotel,Bars/Clubs",1977,NA,-108.505746,45.782093,Verified Location
-223,MT038,Crystal Lounge,,Broadway & 1st Ave N.,Billings,MT,(M),Bars/Clubs,1975,,-108.505746,45.782093,Verified Location
-239,MT054,Crystal Lounge,,Broadway and 1st Ave No.,Billings,MT,"(M),(*)","Hotel,Bars/Clubs",1978,,-108.505746,45.782093,Verified Location
-249,MT064,Crystal Lounge,,Broadway & 1st Ave N.,Billings,MT,(M),"Bars/Clubs,Hotel",1979,,-108.505746,45.782093,Verified Location
-226,MT041,Crystal Lounge,,Broadway & 1st Ave. N.,Billings,MT,"(M),(*)",Bars/Clubs,1976,,-108.505746,45.782093,Verified Location
-221,MT036,Crystal Lounge,,Broadway at 1st Ave. N.,Billings,MT,"(M),(*)",Bars/Clubs,1974,,-108.505746,45.782093,Verified Location
-219,MT034,Dave's Health Club Baths,,(inquire locally),Billings,MT,,Baths,1971,,-108.50069,45.783286,Location could not be verified. General city or location coordinates used.
-270,MT085,Diamond S Ranch & Hot Springs - Spteambath can be interesting,,,Boulder,MT,"(M),(H)",Hotel,1980,See https://boulderhotsprings.com/about-the-inn/history-of-boulder-hot-springs/ for a history of the location,-112.095301,46.199742,Verified Location
-253,MT068,Diamond S. Ranch & Hot Springs,Steambath can be interesting,,Boulder,MT,"(M),(H)",Hotel,1979,See https://boulderhotsprings.com/about-the-inn/history-of-boulder-hot-springs/ for a history of the location,-112.095301,46.199742,Verified Location
-233,MT048,Flamingo,,600 N. Higgins,Missoula,MT,(M),Bars/Clubs,1975,NA,-113.9921749,46.8743158,Google Verified Location
-264,MT079,Flamingo,,600 N. Higgins,Missoula,MT,(M),Bars/Clubs,1977,NA,-113.9921749,46.8743158,Google Verified Location
-243,MT058,Flamingo,,600 N. Higgins,Missoula,MT,(M),Bars/Clubs,1976,NA,-113.9921749,46.8743158,Google Verified Location
-224,MT039,Flamingo,,600 N. Higgins ,Missoula,MT,(M),Bars/Clubs,1974,NA,-113.9921749,46.8743158,Google Verified Location
-291,MT106,Flamingo,,600 N. Higgins,Missoula,MT,(M),Bars/Clubs,1979,NA,-113.9921749,46.8743158,Google Verified Location
-282,MT097,Flamingo ,,600 N. Higgins,Missoula,MT,(M),Bars/Clubs,1978,NA,-113.9921749,46.8743158,Google Verified Location
-255,MT070,Forum Club,,204 1st Avenue South,Great Falls,MT,"(P),(D),(S),(G),(*),(PT)",Bars/Clubs,1977,NA,-111.3038742,47.5039029,Google Verified Location
-261,MT076,Gibson Park,,,Great Falls,MT,"(AYOR),Cruisy Area",Cruising Areas,1979,,-111.304544,47.51029,Verified Location
-274,MT089,Gibson Park,,,Great Falls,MT,Cruisy Area,Cruising Areas,1980,,-111.304544,47.51029,Verified Location
-242,MT057,Gibson Park,,,Great Falls,MT,"Cruisy Area,(AYOR)",Cruising Areas,1978,,-111.304544,47.51029,Verified Location
-247,MT062,Golden Galleon Lounge,Rainbow Hotel ,20 3rd Ave No. ,Great Falls,MT,"(M),(OC)","Bars/Clubs,Hotel",1978,NA,-111.305701,47.5086309,Google Verified Location
-225,MT040,Harrington's,,on Broadway nr. Bus Depot,Butte,MT,"(M),(YC)",Bars/Clubs,1975,,-112.534777,46.003823,Location could not be verified. General city or location coordinates used.
-228,MT043,Harrington's,,On Broadway nr. Bus Depot,Butte,MT,"(M),(YC)",Bars/Clubs,1976,,-112.534777,46.003823,Location could not be verified. General city or location coordinates used.
-236,MT051,Harrington's,,Broadway nr. Bus Depot,Butte,MT,(M),Bars/Clubs,1978,,-112.534777,46.003823,Location could not be verified. General city or location coordinates used.
-254,MT069,Harrington's,,On Broadway near Bus Depot,Butte,MT,"(M),(YC)",Bars/Clubs,1977,NA,-112.53901,46.0135203,Google Verified Location
-295,MT110,Harvey's Steam Baths,(best weekends),203 Central Ave.,Great Falls,MT,,Baths,1971,NA,-111.3040749,47.5055328,Google Verified Location
-194,MT009,Harvey's Steam Baths,,203 Central Ave,Great Falls,MT,,Baths,1968,NA,-111.3040749,47.5055328,Google Verified Location
-199,MT014,Harvey's Steam Baths,,203 Central Ave,Great Falls,MT,,Baths,1969,NA,-111.3040749,47.5055328,Google Verified Location
-204,MT019,Harvey's Steam Baths,(best weekends),203 Central Ave,Great Falls,MT,,Baths,1970,NA,-111.3040749,47.5055328,Google Verified Location
-288,MT103,Import Depot,,"Old Milwaukee Rd, R.R. Depot",Great Falls,MT,"(R),(M),(YC),(D)","Restaurant,Bars/Clubs",1979,NA,-114.4750146,47.0028193,Google Verified Location
-267,MT082,Import Depot,,Old Milwaukee Road,Great Falls,MT,"(M),(YC),(R),(D)","Restaurant,Bars/Clubs",1980,,-111.308691,47.507084,Verified Location
-256,MT071,Import Depot,,Old Milwaukee Road R.R. Depot,Great Falls,MT,"(M),(YC),(R),(D)",Restaurant,1979,,-111.308691,47.507084,Verified Location
-246,MT061,Intermountain Bus Depot,,,Great Falls,MT,Cruisy Area,Cruising Areas,1978,,-111.300771,47.505285,Location could not be verified. General city or location coordinates used.
-237,MT052,Jack's Sauna Baths,(WE*),18 N. 27th,Billings,MT,"(WE),(*)",Baths,1976,NA,-108.5038439,45.7819721,Google Verified Location
-216,MT031,Jack's Sauna Baths,,18 N. 27,Billings,MT,,Baths,1974,NA,-108.5038439,45.7819721,Google Verified Location
-227,MT042,Jack's Sauna Baths,(good weekends*),18 N. 27,Billings,MT,(*),Baths,1975,NA,-108.5038439,45.7819721,Google Verified Location
-287,MT102,Marquis Club,"(Some W, YC, G) (Disco)",204 1st Ave,Great Falls,MT,"(W),(YC),(G),(*),(D),(S)",Bars/Clubs,1979,NA,-111.3041458,47.5064242,Google Verified Location
-293,MT108,Midway Nite Club,,209 N. 14th,Billings,MT,(M),Bars/Clubs,1971,NA,-108.4894808,45.7918716,Google Verified Location
-196,MT011,Midway Nite Club,,209 N. 14th,Billings,MT,(M),Bars/Clubs,1969,NA,-108.4894808,45.7918716,Google Verified Location
-201,MT016,Midway Nite Club,,209 N. 14th,Billings,MT,(M),Bars/Clubs,1970,NA,-108.4894808,45.7918716,Google Verified Location
-191,MT006,Midway Nite Club,,209 N. 14th,Billings,MT,(M),Bars/Clubs,1968,NA,-108.4894808,45.7918716,Google Verified Location
-217,MT032,Northern Hotel Bar,,28th & 1st Ave,Billings,MT,"(M),(PE)","Bars/Clubs,Hotel",1966,,-108.505746,45.782093,Verified Location
-238,MT053,Northern Hotel Bar,,Broadway & 1st Ave No.,Billings,MT,(M),"Hotel,Bars/Clubs",1978,,-108.505746,45.782093,Verified Location
-252,MT067,Northern Hotel Bar,,Broadway & 1st Ave N.,Billings,MT,(M),"Bars/Clubs,Hotel",1979,,-108.505746,45.782093,Verified Location
-189,MT004,Ocean Bar,,71 E. Park Plaza,Butte,MT,,Bars/Clubs,1966,NA,-112.5340398,46.0132278,Google Verified Location
-198,MT013,Ocean Bar,,71 E. Park Plaza,Butte,MT,(M),Bars/Clubs,1969,NA,-112.5340398,46.0132278,Google Verified Location
-203,MT018,Ocean Bar,,71 E. Park Plaza,Butte,MT,(M),Bars/Clubs,1970,NA,-112.5340398,46.0132278,Google Verified Location
-193,MT008,Ocean Bar,,71 E. Park Plaza,Butte,MT,(M),Bars/Clubs,1968,NA,-112.5340398,46.0132278,Google Verified Location
-195,MT010,Park Hotel Bar,,100 Central Ave,Great Falls,MT,(M),"Hotel,Bars/Clubs",1968,NA,-111.3056364,47.5049743,Google Verified Location
-190,MT005,Park Hotel Bar,,100 Central,Great Falls,MT,(M),"Bars/Clubs,Hotel",1966,NA,-111.3056364,47.5049743,Google Verified Location
-188,MT003,Park Hotel Bar,,100 Central,Great Falls,MT,(M),"Hotel,Bars/Clubs",1965,NA,-111.3056364,47.5049743,Google Verified Location
-296,MT111,Park Hotel Bar,,100 Central Ave,Great Falls,MT,(M),"Bars/Clubs,Hotel",1971,NA,-111.3056364,47.5049743,Google Verified Location
-200,MT015,Park Hotel Bar,,100 Central,Great Falls,MT,(M),"Hotel,Bars/Clubs",1969,NA,-111.3056364,47.5049743,Google Verified Location
-205,MT020,Park Hotel Bar,,100 Central Ave,Great Falls,MT,(M),"Hotel,Bars/Clubs",1970,NA,-111.3056364,47.5049743,Google Verified Location
-272,MT087,Placer Hotel - Basement T-Room,,,Helena,MT,Cruisy Area,"Hotel,Cruising Areas",1980,See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.,-112.038844,46.587345,Verified Location
-234,MT049,Placer Hotel Basement T-Room,,,Helena,MT,Cruisy Area,"Cruising Areas,Hotel",1977,See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.,-112.038844,46.587345,Verified Location
-262,MT077,Placer Hotel Basement T-Room,,,Helena,MT,Cruisy Area,Cruising Areas,1979,See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.,-112.038844,46.587345,Verified Location
-244,MT059,Placer Hotel Basement T-Room,,,Helena,MT,Cruisy Area,Cruising Areas,1978,See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.,-112.038844,46.587345,Verified Location
-187,MT002,Ranch House,,32 E. Broadway,Butte,MT,(M),Bars/Clubs,1965,NA,-112.5345917,46.0135764,Google Verified Location
-265,MT080,Red Lion Motor Inn Lodge,(Very M)(Disco),Hwy 2. W.,Kalispell,MT,"(M),(YC),(D)",Bars/Clubs,1979,,-114.317644,48.198893,Verified Location
-281,MT096,Red Lion Motor Inn Lodge,(Very M) (Disco),Hwy 2. W.,Kalispell,MT,"(M),(YC),(D)","Bars/Clubs,Hotel",1980,,-114.317644,48.198893,Verified Location
-209,MT024,Royal Room,,425 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1972,NA,-112.0369746,46.5912468,Google Verified Location
-206,MT021,Royal Room,,123 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1970,NA,-112.0390463,46.5877561,Google Verified Location
-215,MT030,Royal Room,,425 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1973,NA,-112.0369746,46.5912468,Google Verified Location
-297,MT112,Royal Room,,425 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1971,NA,-112.0369746,46.5912468,Google Verified Location
-222,MT037,Royal Room ,,425 N. Last Chance Gulch,Helena,MT,(M),Bars/Clubs,1974,NA,-112.0369746,46.5912468,Google Verified Location
-232,MT047,Sambo's,,3rd & Central,Great Falls,MT,"(M),(R),(C),(AH)",Restaurant,1977,,-111.316696,47.507802,Verified Location
-271,MT086,Sambo's,,3rd & Central,Great Falls,MT,"(M),(R),(C),(AH)","Bars/Clubs,Restaurant",1980,,-111.316696,47.507802,Verified Location
-258,MT073,Sambo's,,3rd & Central,Great Falls,MT,"(M),(R),(C),(AH)",Restaurant,1979,,-111.316696,47.507802,Verified Location
-250,MT065,Sambo's ,,3rd & Central,Great Falls,MT,"(M),(R),(C),(AH)",Restaurant,1978,NA,-111.316696,47.507802,Verified Location
-210,MT025,Scotch 'n' Soda  ,,319 1st Ave. N.,Great Falls,MT,"(*),(M)",Bars/Clubs,1980,NA,-111.3012566,47.5065592,Google Verified Location
-218,MT033,Silk 'n' Saddle,,20 N. 3rd,Great Falls,MT,"(M),(R)",Restaurant,1974,NA,-111.2729171,47.5084639,Google Verified Location
-213,MT028,Silk 'n' Saddle ,,20 N. 3rd,Great Falls,MT,"(M),(R)",Restaurant,1973,NA,-111.2729171,47.5084639,Google Verified Location
-207,MT022,Silk n' Saddle,,20 N. 3rd,Great Falls,MT,"(R),(M)",Restaurant,1972,NA,-111.2729171,47.5084639,Google Verified Location
-275,MT090,Sportsman's Club,"(Some W, YC, G)",2014 1st Ave So. ,Great Falls,MT,"(P),(*),(D),(S),(W),(YC),(G)",Bars/Clubs,1978,NA,-111.272087,47.503731,Google Verified Location
-186,MT001,Stockman's,,2811 Montana ,Billings,MT,(M),Bars/Clubs,1965,NA,-108.5055588,45.7811546,Google Verified Location
-235,MT050,Top Hat,,100 block of Front street near Higgins,Missoula,MT,(M),Bars/Clubs,1977,,-113.995489,46.870365,Verified Location
-212,MT027,Top Hat,(Best bet),134 Front St.,Missoula,MT,(M),Bars/Clubs,1980,NA,-113.9960609,46.8706744,Google Verified Location
-292,MT107,Top Hat,(Best bet),134 Front St.,Missoula,MT,(M),Bars/Clubs,1979,NA,-113.9960609,46.8706744,Google Verified Location
-283,MT098,Top Hat,,134 Front St. ,Missoula,MT,"(M),(*)",Bars/Clubs,1978,NA,-113.9960609,46.8706744,Google Verified Location
-208,MT023,Town Baths,(best weekends),203 Central Ave,Great Falls,MT,,Baths,1972,NA,-111.3040749,47.5055328,Google Verified Location
-277,MT092,Town Baths,(WE*),203 Central ,Great Falls,MT,"(WE),(*)",Baths,1978,NA,-111.3040749,47.5055328,Google Verified Location
-229,MT044,Town Baths,(best weekends),203 Central,Great Falls,MT,,Baths,1975,NA,-111.3040749,47.5055328,Google Verified Location
-214,MT029,Town Baths,(best weekends),203 Central Ave.,Great Falls,MT,,"Cruising Areas,Baths",1973,NA,-111.3040749,47.5055328,Google Verified Location
-289,MT104,Town Baths,(WE*),203 Central,Great Falls,MT,"(WE),(*)",Baths,1979,NA,-111.3040749,47.5055328,Google Verified Location
-259,MT074,Town Baths,(WE*),203 Central,Great Falls,MT,"(WE),(*)",Bars/Clubs,1977,NA,-111.3040749,47.5055328,Google Verified Location
-220,MT035,Town Baths,,203 Central,Great Falls,MT,,Baths,1974,NA,-111.3040749,47.5055328,Google Verified Location
-240,MT055,Town Baths,(best WE),203 Central ,Great Falls,MT,(WE),Baths,1976,NA,-111.3040749,47.5055328,Google Verified Location
-211,MT026,Town Baths,(Scruffy)(WE*),203 Central,Great Falls,MT,"(WE),(*)",Baths,1980,NA,-111.3040749,47.5055328,Google Verified Location
-290,MT105,Tracy's ,(Best bet),2nd & Central,Great Falls,MT,"(M),(R),(C),(AH)",Restaurant,1979,NA,-111.304235,47.505309,Google Verified Location
-279,MT094,Travelodge - Downstairs T-Room,,,Helena,MT,Cruisy Area,"Hotel,Cruising Areas",1980,,-112.039106,46.589145,Location could not be verified. General city or location coordinates used.
-257,MT072,Travelodge downstairs T-Room,,,Helena,MT,Cruisy Area,"Cruising Areas,Hotel",1979,,-112.039106,46.589145,Location could not be verified. General city or location coordinates used.
-248,MT063,Travelodge downstairs T-Room,,,Helena,MT,Cruisy Area,"Cruising Areas,Hotel",1978,,-112.039106,46.589145,Location could not be verified. General city or location coordinates used.
-230,MT045,Travelodge downstairs T-Room,,,Helena,MT,Cruisy Area,"Cruising Areas,Hotel",1977,,-112.039106,46.589145,Location could not be verified. General city or location coordinates used.
-280,MT095,Twin Creek Ranch,,"Rte. 1, Box 54",Ronan,MT,,Business,1980,,-114.101501,47.528823,Location could not be verified. General city or location coordinates used.
-268,MT083,Twin Creeks Ranch,,Box 54,Roman,MT,(H),Hotel,1977,NA,-114.101501,47.528823,Location could not be verified. General city or location coordinates used.
-266,MT081,Twin Creeks Ranch,Tel: (406) 676-5058,"Rte 1, Box 54",Ronan,MT,,Business,1979,,-114.101501,47.528823,Location could not be verified. General city or location coordinates used.
-286,MT101,Warbonnet Inn,,2900 Cornell,Butte,MT,(M),"Bars/Clubs,Hotel",1979,NA,-112.5020592,45.985253,Google Verified Location
-294,MT109,Ye Old Mint Bar,,2613 Montana Ave,Billings,MT,(M),Bars/Clubs,1971,NA,-108.5026212,45.7823426,Google Verified Location
-197,MT012,Ye Old Mint Bar,,2613 Montana Ave,Billings,MT,(M),Bars/Clubs,1969,NA,-108.5026212,45.7823426,Google Verified Location
-192,MT007,Ye Old Mint Bar,,1613 Montana Ave,Billings,MT,(M),Bars/Clubs,1968,NA,-108.4905963,45.7884734,Google Verified Location
-202,MT017,Ye Old Mint Bar,,2613 Montana Ave,Billings,MT,(M),Bars/Clubs,1970,NA,-108.5026212,45.7823426,Google Verified Location
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"Adult Bookstore on E. Main","","","Missoula","MT","Cruisy Area","Cruising Areas,Book Store",1980,"",-113.994031,46.872128,"Verified Location",NA,NA,NA,"1980-MT-0001"
+"Adult Shop","","3rd & Central","Great Falls","MT","Cruisy Area","Cruising Areas",1979,"",-111.316696,47.507802,"Verified Location",NA,NA,NA,"1979-MT-0002"
+"Adult Shop","","3rd & Central","Great Falls","MT","Cruisy Area","Cruising Areas,Business",1978,NA,-111.316696,47.507802,"Verified Location",NA,NA,NA,"1978-MT-0003"
+"Adult Shop","","3rd & Central","Great Falls","MT","Cruisy Area","Cruising Areas",1980,"",-111.316696,47.507802,"Verified Location",NA,NA,NA,"1980-MT-0004"
+"Bronx Lounge","(cruisy)","42 W. Broadway","Butte","MT","(M),Cruisy Area","Bars/Clubs,Cruising Areas",1979,NA,-112.5370763,46.0133806,"Google Verified Location",NA,NA,NA,"1979-MT-0005"
+"Cockpit","","131 Moore","Billings","MT","(M),(YC)","Bars/Clubs",1978,NA,-108.5415319,45.7669464,"Google Verified Location",NA,NA,NA,"1978-MT-0006"
+"Cockpit","","131 Moore","Billings","MT","(M),(YC)","Bars/Clubs",1979,NA,-108.5415319,45.7669464,"Google Verified Location",NA,NA,NA,"1979-MT-0007"
+"Cockpit","","131 Moore","Billings","MT","(M),(YC)","Bars/Clubs",1977,NA,-108.5415319,45.7669464,"Google Verified Location",NA,NA,NA,"1977-MT-0008"
+"Crown Room","","425 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1976,NA,-112.0369746,46.5912468,"Google Verified Location",NA,NA,NA,"1976-MT-0009"
+"Crown Room","","425 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1977,NA,-112.0369746,46.5912468,"Google Verified Location",NA,NA,NA,"1977-MT-0010"
+"Crown Room","","425 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1975,NA,-112.0369746,46.5912468,"Google Verified Location",NA,NA,NA,"1975-MT-0011"
+"Crystal Lounge","Northern Hotel (Downstairs Basement Bar)","Broadway & 1st Ave N.","Billings","MT","","Hotel,Bars/Clubs",1977,NA,-108.505746,45.782093,"Verified Location",NA,NA,NA,"1977-MT-0012"
+"Crystal Lounge","","Broadway & 1st Ave N.","Billings","MT","(M)","Bars/Clubs",1975,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1975-MT-0013"
+"Crystal Lounge","","Broadway and 1st Ave No.","Billings","MT","(M),(*)","Hotel,Bars/Clubs",1978,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1978-MT-0014"
+"Crystal Lounge","","Broadway & 1st Ave N.","Billings","MT","(M)","Bars/Clubs,Hotel",1979,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1979-MT-0015"
+"Crystal Lounge","","Broadway & 1st Ave. N.","Billings","MT","(M),(*)","Bars/Clubs",1976,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1976-MT-0016"
+"Crystal Lounge","","Broadway at 1st Ave. N.","Billings","MT","(M),(*)","Bars/Clubs",1974,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1974-MT-0017"
+"Dave's Health Club Baths","","(inquire locally)","Billings","MT","","Baths",1971,"",-108.50069,45.783286,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1971-MT-0018"
+"Diamond S Ranch & Hot Springs - Spteambath can be interesting","","","Boulder","MT","(M),(H)","Hotel",1980,"See https://boulderhotsprings.com/about-the-inn/history-of-boulder-hot-springs/ for a history of the location",-112.095301,46.199742,"Verified Location",NA,NA,NA,"1980-MT-0019"
+"Diamond S. Ranch & Hot Springs","Steambath can be interesting","","Boulder","MT","(M),(H)","Hotel",1979,"See https://boulderhotsprings.com/about-the-inn/history-of-boulder-hot-springs/ for a history of the location",-112.095301,46.199742,"Verified Location",NA,NA,NA,"1979-MT-0020"
+"Flamingo","","600 N. Higgins","Missoula","MT","(M)","Bars/Clubs",1975,NA,-113.9921749,46.8743158,"Google Verified Location",NA,NA,NA,"1975-MT-0021"
+"Flamingo","","600 N. Higgins","Missoula","MT","(M)","Bars/Clubs",1977,NA,-113.9921749,46.8743158,"Google Verified Location",NA,NA,NA,"1977-MT-0022"
+"Flamingo","","600 N. Higgins","Missoula","MT","(M)","Bars/Clubs",1976,NA,-113.9921749,46.8743158,"Google Verified Location",NA,NA,NA,"1976-MT-0023"
+"Flamingo","","600 N. Higgins ","Missoula","MT","(M)","Bars/Clubs",1974,NA,-113.9921749,46.8743158,"Google Verified Location",NA,NA,NA,"1974-MT-0024"
+"Flamingo","","600 N. Higgins","Missoula","MT","(M)","Bars/Clubs",1979,NA,-113.9921749,46.8743158,"Google Verified Location",NA,NA,NA,"1979-MT-0025"
+"Flamingo ","","600 N. Higgins","Missoula","MT","(M)","Bars/Clubs",1978,NA,-113.9921749,46.8743158,"Google Verified Location",NA,NA,NA,"1978-MT-0026"
+"Forum Club","","204 1st Avenue South","Great Falls","MT","(P),(D),(S),(G),(*),(PT)","Bars/Clubs",1977,NA,-111.3038742,47.5039029,"Google Verified Location",NA,NA,NA,"1977-MT-0027"
+"Gibson Park","","","Great Falls","MT","(AYOR),Cruisy Area","Cruising Areas",1979,"",-111.304544,47.51029,"Verified Location",NA,NA,NA,"1979-MT-0028"
+"Gibson Park","","","Great Falls","MT","Cruisy Area","Cruising Areas",1980,"",-111.304544,47.51029,"Verified Location",NA,NA,NA,"1980-MT-0029"
+"Gibson Park","","","Great Falls","MT","Cruisy Area,(AYOR)","Cruising Areas",1978,"",-111.304544,47.51029,"Verified Location",NA,NA,NA,"1978-MT-0030"
+"Golden Galleon Lounge","Rainbow Hotel ","20 3rd Ave No. ","Great Falls","MT","(M),(OC)","Bars/Clubs,Hotel",1978,NA,-111.305701,47.5086309,"Google Verified Location",NA,NA,NA,"1978-MT-0031"
+"Harrington's","","on Broadway nr. Bus Depot","Butte","MT","(M),(YC)","Bars/Clubs",1975,"",-112.534777,46.003823,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-MT-0032"
+"Harrington's","","On Broadway nr. Bus Depot","Butte","MT","(M),(YC)","Bars/Clubs",1976,"",-112.534777,46.003823,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-MT-0033"
+"Harrington's","","Broadway nr. Bus Depot","Butte","MT","(M)","Bars/Clubs",1978,"",-112.534777,46.003823,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MT-0034"
+"Harrington's","","On Broadway near Bus Depot","Butte","MT","(M),(YC)","Bars/Clubs",1977,NA,-112.53901,46.0135203,"Google Verified Location",NA,NA,NA,"1977-MT-0035"
+"Harvey's Steam Baths","(best weekends)","203 Central Ave.","Great Falls","MT","","Baths",1971,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1971-MT-0036"
+"Harvey's Steam Baths","","203 Central Ave","Great Falls","MT","","Baths",1968,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1968-MT-0037"
+"Harvey's Steam Baths","","203 Central Ave","Great Falls","MT","","Baths",1969,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1969-MT-0038"
+"Harvey's Steam Baths","(best weekends)","203 Central Ave","Great Falls","MT","","Baths",1970,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1970-MT-0039"
+"Import Depot","","Old Milwaukee Rd, R.R. Depot","Great Falls","MT","(R),(M),(YC),(D)","Restaurant,Bars/Clubs",1979,NA,-114.4750146,47.0028193,"Google Verified Location",NA,NA,NA,"1979-MT-0040"
+"Import Depot","","Old Milwaukee Road","Great Falls","MT","(M),(YC),(R),(D)","Restaurant,Bars/Clubs",1980,"",-111.308691,47.507084,"Verified Location",NA,NA,NA,"1980-MT-0041"
+"Import Depot","","Old Milwaukee Road R.R. Depot","Great Falls","MT","(M),(YC),(R),(D)","Restaurant",1979,"",-111.308691,47.507084,"Verified Location",NA,NA,NA,"1979-MT-0042"
+"Intermountain Bus Depot","","","Great Falls","MT","Cruisy Area","Cruising Areas",1978,"",-111.300771,47.505285,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MT-0043"
+"Jack's Sauna Baths","(WE*)","18 N. 27th","Billings","MT","(WE),(*)","Baths",1976,NA,-108.5038439,45.7819721,"Google Verified Location",NA,NA,NA,"1976-MT-0044"
+"Jack's Sauna Baths","","18 N. 27","Billings","MT","","Baths",1974,NA,-108.5038439,45.7819721,"Google Verified Location",NA,NA,NA,"1974-MT-0045"
+"Jack's Sauna Baths","(good weekends*)","18 N. 27","Billings","MT","(*)","Baths",1975,NA,-108.5038439,45.7819721,"Google Verified Location",NA,NA,NA,"1975-MT-0046"
+"Marquis Club","(Some W, YC, G) (Disco)","204 1st Ave","Great Falls","MT","(W),(YC),(G),(*),(D),(S)","Bars/Clubs",1979,NA,-111.3041458,47.5064242,"Google Verified Location",NA,NA,NA,"1979-MT-0047"
+"Midway Nite Club","","209 N. 14th","Billings","MT","(M)","Bars/Clubs",1971,NA,-108.4894808,45.7918716,"Google Verified Location",NA,NA,NA,"1971-MT-0048"
+"Midway Nite Club","","209 N. 14th","Billings","MT","(M)","Bars/Clubs",1969,NA,-108.4894808,45.7918716,"Google Verified Location",NA,NA,NA,"1969-MT-0049"
+"Midway Nite Club","","209 N. 14th","Billings","MT","(M)","Bars/Clubs",1970,NA,-108.4894808,45.7918716,"Google Verified Location",NA,NA,NA,"1970-MT-0050"
+"Midway Nite Club","","209 N. 14th","Billings","MT","(M)","Bars/Clubs",1968,NA,-108.4894808,45.7918716,"Google Verified Location",NA,NA,NA,"1968-MT-0051"
+"Northern Hotel Bar","","28th & 1st Ave","Billings","MT","(M),(PE)","Bars/Clubs,Hotel",1966,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1966-MT-0052"
+"Northern Hotel Bar","","Broadway & 1st Ave No.","Billings","MT","(M)","Hotel,Bars/Clubs",1978,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1978-MT-0053"
+"Northern Hotel Bar","","Broadway & 1st Ave N.","Billings","MT","(M)","Bars/Clubs,Hotel",1979,"",-108.505746,45.782093,"Verified Location",NA,NA,NA,"1979-MT-0054"
+"Ocean Bar","","71 E. Park Plaza","Butte","MT","","Bars/Clubs",1966,NA,-112.5340398,46.0132278,"Google Verified Location",NA,NA,NA,"1966-MT-0055"
+"Ocean Bar","","71 E. Park Plaza","Butte","MT","(M)","Bars/Clubs",1969,NA,-112.5340398,46.0132278,"Google Verified Location",NA,NA,NA,"1969-MT-0056"
+"Ocean Bar","","71 E. Park Plaza","Butte","MT","(M)","Bars/Clubs",1970,NA,-112.5340398,46.0132278,"Google Verified Location",NA,NA,NA,"1970-MT-0057"
+"Ocean Bar","","71 E. Park Plaza","Butte","MT","(M)","Bars/Clubs",1968,NA,-112.5340398,46.0132278,"Google Verified Location",NA,NA,NA,"1968-MT-0058"
+"Park Hotel Bar","","100 Central Ave","Great Falls","MT","(M)","Hotel,Bars/Clubs",1968,NA,-111.3056364,47.5049743,"Google Verified Location",NA,NA,NA,"1968-MT-0059"
+"Park Hotel Bar","","100 Central","Great Falls","MT","(M)","Bars/Clubs,Hotel",1966,NA,-111.3056364,47.5049743,"Google Verified Location",NA,NA,NA,"1966-MT-0060"
+"Park Hotel Bar","","100 Central","Great Falls","MT","(M)","Hotel,Bars/Clubs",1965,NA,-111.3056364,47.5049743,"Google Verified Location",NA,NA,NA,"1965-MT-0061"
+"Park Hotel Bar","","100 Central Ave","Great Falls","MT","(M)","Bars/Clubs,Hotel",1971,NA,-111.3056364,47.5049743,"Google Verified Location",NA,NA,NA,"1971-MT-0062"
+"Park Hotel Bar","","100 Central","Great Falls","MT","(M)","Hotel,Bars/Clubs",1969,NA,-111.3056364,47.5049743,"Google Verified Location",NA,NA,NA,"1969-MT-0063"
+"Park Hotel Bar","","100 Central Ave","Great Falls","MT","(M)","Hotel,Bars/Clubs",1970,NA,-111.3056364,47.5049743,"Google Verified Location",NA,NA,NA,"1970-MT-0064"
+"Placer Hotel - Basement T-Room","","","Helena","MT","Cruisy Area","Hotel,Cruising Areas",1980,"See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.",-112.038844,46.587345,"Verified Location",NA,NA,NA,"1980-MT-0065"
+"Placer Hotel Basement T-Room","","","Helena","MT","Cruisy Area","Cruising Areas,Hotel",1977,"See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.",-112.038844,46.587345,"Verified Location",NA,NA,NA,"1977-MT-0066"
+"Placer Hotel Basement T-Room","","","Helena","MT","Cruisy Area","Cruising Areas",1979,"See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.",-112.038844,46.587345,"Verified Location",NA,NA,NA,"1979-MT-0067"
+"Placer Hotel Basement T-Room","","","Helena","MT","Cruisy Area","Cruising Areas",1978,"See http://www.helenahistory.org/placer_hotel.htm for a history of the hotel. Was the hub for lobbyists and legislators at one time.",-112.038844,46.587345,"Verified Location",NA,NA,NA,"1978-MT-0068"
+"Ranch House","","32 E. Broadway","Butte","MT","(M)","Bars/Clubs",1965,NA,-112.5345917,46.0135764,"Google Verified Location",NA,NA,NA,"1965-MT-0069"
+"Red Lion Motor Inn Lodge","(Very M)(Disco)","Hwy 2. W.","Kalispell","MT","(M),(YC),(D)","Bars/Clubs",1979,"",-114.317644,48.198893,"Verified Location",NA,NA,NA,"1979-MT-0070"
+"Red Lion Motor Inn Lodge","(Very M) (Disco)","Hwy 2. W.","Kalispell","MT","(M),(YC),(D)","Bars/Clubs,Hotel",1980,"",-114.317644,48.198893,"Verified Location",NA,NA,NA,"1980-MT-0071"
+"Royal Room","","425 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1972,NA,-112.0369746,46.5912468,"Google Verified Location",NA,NA,NA,"1972-MT-0072"
+"Royal Room","","123 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1970,NA,-112.0390463,46.5877561,"Google Verified Location",NA,NA,NA,"1970-MT-0073"
+"Royal Room","","425 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1973,NA,-112.0369746,46.5912468,"Google Verified Location",NA,NA,NA,"1973-MT-0074"
+"Royal Room","","425 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1971,NA,-112.0369746,46.5912468,"Google Verified Location",NA,NA,NA,"1971-MT-0075"
+"Royal Room ","","425 N. Last Chance Gulch","Helena","MT","(M)","Bars/Clubs",1974,NA,-112.0369746,46.5912468,"Google Verified Location",NA,NA,NA,"1974-MT-0076"
+"Sambo's","","3rd & Central","Great Falls","MT","(M),(R),(C),(AH)","Restaurant",1977,"",-111.316696,47.507802,"Verified Location",NA,NA,NA,"1977-MT-0077"
+"Sambo's","","3rd & Central","Great Falls","MT","(M),(R),(C),(AH)","Bars/Clubs,Restaurant",1980,"",-111.316696,47.507802,"Verified Location",NA,NA,NA,"1980-MT-0078"
+"Sambo's","","3rd & Central","Great Falls","MT","(M),(R),(C),(AH)","Restaurant",1979,"",-111.316696,47.507802,"Verified Location",NA,NA,NA,"1979-MT-0079"
+"Sambo's ","","3rd & Central","Great Falls","MT","(M),(R),(C),(AH)","Restaurant",1978,NA,-111.316696,47.507802,"Verified Location",NA,NA,NA,"1978-MT-0080"
+"Scotch 'n' Soda  ","","319 1st Ave. N.","Great Falls","MT","(*),(M)","Bars/Clubs",1980,NA,-111.3012566,47.5065592,"Google Verified Location",NA,NA,NA,"1980-MT-0081"
+"Silk 'n' Saddle","","20 N. 3rd","Great Falls","MT","(M),(R)","Restaurant",1974,NA,-111.2729171,47.5084639,"Google Verified Location",NA,NA,NA,"1974-MT-0082"
+"Silk 'n' Saddle ","","20 N. 3rd","Great Falls","MT","(M),(R)","Restaurant",1973,NA,-111.2729171,47.5084639,"Google Verified Location",NA,NA,NA,"1973-MT-0083"
+"Silk n' Saddle","","20 N. 3rd","Great Falls","MT","(R),(M)","Restaurant",1972,NA,-111.2729171,47.5084639,"Google Verified Location",NA,NA,NA,"1972-MT-0084"
+"Sportsman's Club","(Some W, YC, G)","2014 1st Ave So. ","Great Falls","MT","(P),(*),(D),(S),(W),(YC),(G)","Bars/Clubs",1978,NA,-111.272087,47.503731,"Google Verified Location",NA,NA,NA,"1978-MT-0085"
+"Stockman's","","2811 Montana ","Billings","MT","(M)","Bars/Clubs",1965,NA,-108.5055588,45.7811546,"Google Verified Location",NA,NA,NA,"1965-MT-0086"
+"Top Hat","","100 block of Front street near Higgins","Missoula","MT","(M)","Bars/Clubs",1977,"",-113.995489,46.870365,"Verified Location",NA,NA,NA,"1977-MT-0087"
+"Top Hat","(Best bet)","134 Front St.","Missoula","MT","(M)","Bars/Clubs",1980,NA,-113.9960609,46.8706744,"Google Verified Location",NA,NA,NA,"1980-MT-0088"
+"Top Hat","(Best bet)","134 Front St.","Missoula","MT","(M)","Bars/Clubs",1979,NA,-113.9960609,46.8706744,"Google Verified Location",NA,NA,NA,"1979-MT-0089"
+"Top Hat","","134 Front St. ","Missoula","MT","(M),(*)","Bars/Clubs",1978,NA,-113.9960609,46.8706744,"Google Verified Location",NA,NA,NA,"1978-MT-0090"
+"Town Baths","(best weekends)","203 Central Ave","Great Falls","MT","","Baths",1972,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1972-MT-0091"
+"Town Baths","(WE*)","203 Central ","Great Falls","MT","(WE),(*)","Baths",1978,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1978-MT-0092"
+"Town Baths","(best weekends)","203 Central","Great Falls","MT","","Baths",1975,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1975-MT-0093"
+"Town Baths","(best weekends)","203 Central Ave.","Great Falls","MT","","Cruising Areas,Baths",1973,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1973-MT-0094"
+"Town Baths","(WE*)","203 Central","Great Falls","MT","(WE),(*)","Baths",1979,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1979-MT-0095"
+"Town Baths","(WE*)","203 Central","Great Falls","MT","(WE),(*)","Bars/Clubs",1977,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1977-MT-0096"
+"Town Baths","","203 Central","Great Falls","MT","","Baths",1974,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1974-MT-0097"
+"Town Baths","(best WE)","203 Central ","Great Falls","MT","(WE)","Baths",1976,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1976-MT-0098"
+"Town Baths","(Scruffy)(WE*)","203 Central","Great Falls","MT","(WE),(*)","Baths",1980,NA,-111.3040749,47.5055328,"Google Verified Location",NA,NA,NA,"1980-MT-0099"
+"Tracy's ","(Best bet)","2nd & Central","Great Falls","MT","(M),(R),(C),(AH)","Restaurant",1979,NA,-111.304235,47.505309,"Google Verified Location",NA,NA,NA,"1979-MT-0100"
+"Travelodge - Downstairs T-Room","","","Helena","MT","Cruisy Area","Hotel,Cruising Areas",1980,"",-112.039106,46.589145,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MT-0101"
+"Travelodge downstairs T-Room","","","Helena","MT","Cruisy Area","Cruising Areas,Hotel",1979,"",-112.039106,46.589145,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MT-0102"
+"Travelodge downstairs T-Room","","","Helena","MT","Cruisy Area","Cruising Areas,Hotel",1978,"",-112.039106,46.589145,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-MT-0103"
+"Travelodge downstairs T-Room","","","Helena","MT","Cruisy Area","Cruising Areas,Hotel",1977,"",-112.039106,46.589145,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-MT-0104"
+"Twin Creek Ranch","","Rte. 1, Box 54","Ronan","MT","","Business",1980,"",-114.101501,47.528823,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-MT-0105"
+"Twin Creeks Ranch","","Box 54","Roman","MT","(H)","Hotel",1977,NA,-114.101501,47.528823,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-MT-0106"
+"Twin Creeks Ranch","Tel: (406) 676-5058","Rte 1, Box 54","Ronan","MT","","Business",1979,"",-114.101501,47.528823,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-MT-0107"
+"Warbonnet Inn","","2900 Cornell","Butte","MT","(M)","Bars/Clubs,Hotel",1979,NA,-112.5020592,45.985253,"Google Verified Location",NA,NA,NA,"1979-MT-0108"
+"Ye Old Mint Bar","","2613 Montana Ave","Billings","MT","(M)","Bars/Clubs",1971,NA,-108.5026212,45.7823426,"Google Verified Location",NA,NA,NA,"1971-MT-0109"
+"Ye Old Mint Bar","","2613 Montana Ave","Billings","MT","(M)","Bars/Clubs",1969,NA,-108.5026212,45.7823426,"Google Verified Location",NA,NA,NA,"1969-MT-0110"
+"Ye Old Mint Bar","","1613 Montana Ave","Billings","MT","(M)","Bars/Clubs",1968,NA,-108.4905963,45.7884734,"Google Verified Location",NA,NA,NA,"1968-MT-0111"
+"Ye Old Mint Bar","","2613 Montana Ave","Billings","MT","(M)","Bars/Clubs",1970,NA,-108.5026212,45.7823426,"Google Verified Location",NA,NA,NA,"1970-MT-0112"

@@ -1,467 +1,467 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-8744,OR426,'Rest Stop',5 mi. S. (late nights),,Medford,OR,Cruisy Area,Cruising Areas,1980,,-122.875595,42.326515,Location could not be verified. General city or location coordinates used.
-8739,OR421,'Rest Stop' on I-5,3 mi. N. (Both sides),,Grants Pass,OR,Cruisy Area,Cruising Areas,1980,,-123.328392,42.439007,Location could not be verified. General city or location coordinates used.
-8677,OR359,'Rest Stops' on I-5,3 mi. N (both sides),,Grants Pass,OR,Cruisy Area,Cruising Areas,1979,,-123.328392,42.439007,Location could not be verified. General city or location coordinates used.
-8725,OR407,'Rest Stops' on I-5,betw. Salem & Portland - also betw. Salem & Albany (both sides- discretion),,Salem,OR,Cruisy Area,Cruising Areas,1979,,-123.035096,44.942898,Location could not be verified. General city or location coordinates used.
-8782,OR464,'Rest Stops' on I-5,between Salem & Portland- also betw. Salem & Albany(both sides- discretion),,Salem,OR,Cruisy Area,Cruising Areas,1980,,-123.035096,44.942898,Location could not be verified. General city or location coordinates used.
-8541,OR223,11 Mi. S. at Valley of the Rogue,rest area & campground,,Grants Pass,OR,Cruisy Area,Cruising Areas,1976,,-123.328392,42.439007,Location could not be verified. General city or location coordinates used.
-8505,OR187,11 mi. south at Valley of the Rogue,campground & rest area,,Grants Pass,OR,Cruisy Area,Cruising Areas,1975,,-123.328392,42.439007,Location could not be verified. General city or location coordinates used.
-8543,OR225,A Woman's Place ,(Book store),706 S.E. Grand ,Portland,OR,(G),Book Store,1976,NA,-122.6605585,45.5177852,Google Verified Location
-8681,OR363,Adult Bookstore & Arcade ,,628 E. Burnside ,Portland,OR,,Book Store,1979,NA,-122.658999,45.5228357,Google Verified Location
-8332,OR014,Aero Steam Baths ,,1237 SW 3rd. ,Portland,OR,,Baths,1966,NA,-122.6774713,45.5146785,Google Verified Location
-8422,OR104,Aero Vapor Steam Baths,,1239 S.W. 3rd Ave. ,Portland,OR,,Baths,1972,NA,-122.6774785,45.5146654,Google Verified Location
-8401,OR083,Aero Vapor Steam Baths,,1239 S.W. 3rd ,Portland,OR,,Baths,1971,NA,-122.6774785,45.5146654,Google Verified Location
-8319,OR001,Aero Vapor Steam Baths,,1237 SW 3rd. ,Portland,OR,,Baths,1965,NA,-122.6774713,45.5146785,Google Verified Location
-8361,OR043,Aero Vapor Steam Baths ,,1237 SW 3rd ,Portland,OR,,Baths,1969,NA,-122.6774713,45.5146785,Google Verified Location
-8381,OR063,Aero Vapor Steam Baths ,,1237 S.W. 3rd ,Portland,OR,,Baths,1970,NA,-122.6774713,45.5146785,Google Verified Location
-8345,OR027,Aero Vapor Steam Baths ,,1237 SW 3rd ,Portland,OR,,Baths,1968,NA,-122.6774713,45.5146785,Google Verified Location
-8423,OR105,Annex (Derek's),,820 S.W. Oak ,Portland,OR,(*),Bars/Clubs,1972,NA,-122.6797505,45.5224094,Google Verified Location
-8320,OR002,Annex Stereo Room ,,820 SW Oak St. ,Portland,OR,(*),Bars/Clubs,1965,NA,-122.6797505,45.5224094,Google Verified Location
-8357,OR039,Balboa Club ,,112 S Empire ,Coos Bay,OR,(M),Bars/Clubs,1969,NA,-124.2776025,43.3929679,Google Verified Location
-8396,OR078,Balboa Club ,,112 S. Empire ,Coos Bay,OR,(M),Bars/Clubs,1971,NA,-124.2776025,43.3929679,Google Verified Location
-8329,OR011,Balboa Club ,,112 S. Empire ,Coos Bay,OR,(M),Bars/Clubs,1966,NA,-124.2776025,43.3929679,Google Verified Location
-8375,OR057,Balboa Club ,,112 S. Empire ,Coos Bay,OR,(M),Bars/Clubs,1970,NA,-124.2776025,43.3929679,Google Verified Location
-8341,OR023,Balboa Club ,,112 S. Empire ,Coos Bay,OR,(M),Bars/Clubs,1968,NA,-124.2776025,43.3929679,Google Verified Location
-8417,OR099,Balboa Club ,,112 S. Empire ,Coos Bay,OR,(M),Bars/Clubs,1972,NA,-124.2776025,43.3929679,Google Verified Location
-8446,OR128,Barbary Coast Nite Club ,Hoyt Hotel,614 N.W. Hoyt,Portland,OR,(M),"Bars/Clubs,Hotel",1973,NA,-122.6767475,45.5273195,Google Verified Location
-8346,OR028,Beefeater,,1002 SW Broadway ,Portland,OR,"(M),(PE)",Bars/Clubs,1968,NA,-122.6807186,45.5173258,Google Verified Location
-8362,OR044,Beefeater ,,1002 SW Broadway ,Portland,OR,"(M),(PE)",Bars/Clubs,1969,NA,-122.6807186,45.5173258,Google Verified Location
-8579,OR261,Benson Hotel Bar,(Cocktail hour only),,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1977,,-122.678811,45.521694,Verified Location
-8544,OR226,Benson Hotel Bar ,(Cocktail hour only) ,309 S.W. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1976,NA,-122.6788083,45.5217905,Google Verified Location
-8321,OR003,Benson Hotel Bar ,,309 S. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1965,NA,-122.6788083,45.5217905,Google Verified Location
-8507,OR189,Benson Hotel Bar ,(Cocktail hr. only),309 S.W. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1975,NA,-122.6788083,45.5217905,Google Verified Location
-8447,OR129,Benson Hotel Bar ,(cocktail hour only),309 S.W. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1973,NA,-122.6788083,45.5217905,Google Verified Location
-8382,OR064,Benson Hotel Bar ,(cocktail hour),309 S. Broadway,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1970,NA,-122.6788083,45.5217905,Google Verified Location
-8402,OR084,Benson Hotel Bar ,(cocktail hr.),309 S. Broadway,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1971,NA,-122.6788083,45.5217905,Google Verified Location
-8333,OR015,Benson Hotel Bar ,,309 S. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1966,NA,-122.6788083,45.5217905,Google Verified Location
-8363,OR045,Benson Hotel Bar ,,309 S. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1969,NA,-122.6788083,45.5217905,Google Verified Location
-8470,OR152,Benson Hotel Bar ,(cocktail hour only),309 S.W. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1974,NA,-122.6788083,45.5217905,Google Verified Location
-8424,OR106,Benson's Hotel Bar ,(cocktail hour),309 S.W. Broadway ,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1972,NA,-122.6788083,45.5217905,Google Verified Location
-8347,OR029,Benson's Hotel Bar ,,309 S. Broadway,Portland,OR,"(M),(PE)","Bars/Clubs,Hotel",1968,NA,-122.6788083,45.5217905,Google Verified Location
-8532,OR214,Blue Mouse Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1975,,-122.681854,45.52109,Verified Location
-8656,OR338,Blue Mouse Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1978,,-122.681854,45.52109,Verified Location
-8568,OR250,Blue Mouse Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1976,,-122.681854,45.52109,Verified Location
-8499,OR181,Blue Mouse Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1974,,-122.681854,45.52109,Verified Location
-8609,OR291,Blue Mouse Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1977,,-122.681854,45.52109,Verified Location
-8464,OR146,Blue Mouse Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1973,,-122.681854,45.52109,Verified Location
-8662,OR344,Bob's Adult Book Store ,,1391 Broadway N.E.,Salem,OR,,Book Store,1978,NA,-123.0309526,44.9527335,Google Verified Location
-8721,OR403,Bob's Adult Book Store ,,1389 Broadway N.E. ,Salem,OR,,Book Store,1979,NA,-123.0309783,44.9526441,Google Verified Location
-8779,OR461,Bob's Adult Book Store ,,1389 Broadway N.E.,Salem,OR,,Book Store,1980,NA,-123.0309783,44.9526441,Google Verified Location
-8403,OR085,Bohemian ,,910 S.W. Washington,Portland,OR,"(R),(D),(*)",Restaurant,1971,NA,-122.6805505,45.5210868,Google Verified Location
-8471,OR153,Book Bin ,,213 S.W. Taylor ,Portland,OR,,Book Store,1974,NA,-122.6754214,45.5168655,Google Verified Location
-8508,OR190,Book Bin ,,213 S.W. Taylor ,Portland,OR,,Book Store,1975,NA,-122.6754214,45.5168655,Google Verified Location
-8334,OR016,Buddy's Post ,,926 SE 4th St. ,Portland,OR,"(M),(RT)",Bars/Clubs,1966,NA,-122.4211122,45.4946536,Google Verified Location
-8322,OR004,Buddy's Post ,,926 SW 4th St. ,Portland,OR,"(M),(RT)",Bars/Clubs,1965,NA,-122.6773168,45.5166908,Google Verified Location
-8364,OR046,Buddy's Post ,,926 SW 4th St. ,Portland,OR,"(M),(RT)",Bars/Clubs,1969,NA,-122.6773168,45.5166908,Google Verified Location
-8348,OR030,Buddy's Post ,,926 SW 4th St. ,Portland,OR,"(M),(RT)",Bars/Clubs,1968,NA,-122.6773168,45.5166908,Google Verified Location
-8781,OR463,Bus Depot,,,Salem,OR,Cruisy Area,Cruising Areas,1980,,-123.028211,44.932419,Verified Location
-8536,OR218,Bus Depot,,,Salem,OR,Cruisy Area,Cruising Areas,1975,,-123.028211,44.932419,Verified Location
-8614,OR296,Bus Depot,,,Salem,OR,Cruisy Area,Cruising Areas,1977,,-123.028211,44.932419,Verified Location
-8724,OR406,Bus Depot,,,Salem,OR,Cruisy Area,Cruising Areas,1979,,-123.028211,44.932419,Verified Location
-8664,OR346,Bus Depot,,,Salem,OR,Cruisy Area,Cruising Areas,1978,,-123.028211,44.932419,Verified Location
-8572,OR254,Bus Depot,,,Salem,OR,Cruisy Area,Cruising Areas,1976,,-123.028211,44.932419,Verified Location
-8716,OR398,Cannon Beach,(summers),,Portland,OR,Cruisy Area,Cruising Areas,1979,,-123.961527,45.891774,Verified Location
-8657,OR339,Cannon Beach,(summers),,Portland,OR,Cruisy Area,Cruising Areas,1978,,-123.961527,45.891774,Verified Location
-8783,OR465,Cannon Beach,10 mi. S. (Summers only),,Seaside,OR,Cruisy Area,Cruising Areas,1980,,-123.961527,45.891774,Verified Location
-8729,OR411,Captain's Cabin ,(T-Room & Lobby) Tioga Hotel ,257 N. Broadway ,Coos Bay,OR,"(M),(OC)","Hotel,Bars/Clubs",1980,NA,-124.2133102,43.3690057,Google Verified Location
-8615,OR297,Captain's Cabin ,(Cruisy T-Room downstairs) Tioga Hotel (Coos Bay),275 No. Broadway,Coos Bay,OR,"(M),(OC),Cruisy Area","Bars/Clubs,Hotel,Cruising Areas",1978,NA,-124.2134266,43.3690376,Google Verified Location
-8666,OR348,Captain's Cabin ,(Cruisy T-Room downstairs) Tioga Hotel ,257 N. Broadway ,Coos Bay,OR,"(M),(OC),Cruisy Area","Hotel,Cruising Areas",1979,NA,-124.2133102,43.3690057,Google Verified Location
-8733,OR415,Cassady's ,(Disco) Eugene Hotel (upstairs),222 E. Broadway ,Eugene,OR,"(*),(YC),(D)","Bars/Clubs,Hotel",1980,NA,-123.0893147,44.0496351,Google Verified Location
-8509,OR191,Castaways ,(Liquor)(Disco),901 S.W. Salmon,Portland,OR,"(D),(*)",Bars/Clubs,1975,NA,-122.6823801,45.518036,Google Verified Location
-8441,OR123,Cellar ,(below Andy's),2210 High St. ,Salem,OR,(M),Bars/Clubs,1972,NA,-123.0415286,44.9197719,Google Verified Location
-8394,OR076,Cellar ,(below Andy's) ,2210 High St. ,Salem,OR,(M),Bars/Clubs,1970,NA,-123.0415286,44.9197719,Google Verified Location
-8415,OR097,Cellar ,(below Andy's),2210 High St. ,Portland,OR,(M),Bars/Clubs,1971,NA,-122.6971413,45.5204306,Google Verified Location
-8468,OR150,Cellar ,(Below Andy's) ,2210 High St. ,Salem,OR,,Bars/Clubs,1973,NA,-123.0415286,44.9197719,Google Verified Location
-8373,OR055,Cellar ,(Below Andy's),220 High NE,Salem,OR,(M),Bars/Clubs,1969,NA,-123.0365537,44.9409199,Google Verified Location
-8356,OR038,Cellar Bar ,Marion Hotel ,200 Commerical St. SE,Salem,OR,(M),"Bars/Clubs,Hotel",1968,NA,-123.0403491,44.938842,Google Verified Location
-8545,OR227,Chocolate Moose,,2nd & Ankeny,Portland,OR,"(M),(PE),(R)",Restaurant,1976,,-122.672248,45.522536,Verified Location
-8510,OR192,Chocolate Moose,,2nd & Ankeny,Portland,OR,"(PE),(R)",Restaurant,1975,,-122.672248,45.522536,Verified Location
-8472,OR154,Chocolate Moose,,2nd & Ankeny,Portland,OR,"(PE),(R)",Restaurant,1974,,-122.672248,45.522536,Verified Location
-8580,OR262,Chocolate Moose ,,211 S.W. Ankeny ,Portland,OR,"(M),(R)",Restaurant,1977,NA,-122.6725658,45.5226276,Google Verified Location
-8323,OR005,Chocolate Moose ,,1716 SW 11th St. ,Portland,OR,(C),Bars/Clubs,1965,NA,-122.686517,45.5133346,Google Verified Location
-8537,OR219,Climax Book Store ,,60 W. 13th St. ,Eugene,OR,,Book Store,1976,NA,-123.0936841,44.0452829,Google Verified Location
-8573,OR255,Climax Book Store ,,60 W. 13th Street ,Eugene,OR,,Book Store,1977,NA,-123.0936841,44.0452829,Google Verified Location
-8671,OR353,Climax Book Store ,,60 W. 13th St. ,Eugene,OR,,Book Store,1979,NA,-123.0936841,44.0452829,Google Verified Location
-8734,OR416,Climax Book Store ,,60 W. 13th St. ,Eugene,OR,,Book Store,1980,NA,-123.0936841,44.0452829,Google Verified Location
-8620,OR302,Climax Book Store ,,60 W. 13th St. ,Eugene,OR,,Book Store,1978,NA,-123.0936841,44.0452829,Google Verified Location
-8627,OR309,Club Continental ,(Baths for men- opening April '77- replacing Workout Baths),531 S.W. Park Ave. ,Portland,OR,"(*),(YC)",Baths,1978,NA,-122.680208,45.5206783,Google Verified Location
-8682,OR364,Club Continental ,(Baths for men- 'tops' in Oregon),531 S.W. Park Ave. ,Portland,OR,"(*),(P),(YC)",Baths,1979,NA,-122.680208,45.5206783,Google Verified Location
-8747,OR429,Club Continental ,(Baths for men- 'tops' in Oregon'),531 S.W. Park Ave. ,Portland,OR,"(*),(P),(YC)",Baths,1980,NA,-122.680208,45.5206783,Google Verified Location
-8383,OR065,Club Northwest,,Everett at N.W. 4th,Portland,OR,"(D),(G),(*)",Bars/Clubs,1970,,-122.674474,45.525239,Verified Location
-8404,OR086,Club Northwest,,Everette at N.W. 4th,Portland,OR,,Bars/Clubs,1971,,-122.674474,45.525239,Verified Location
-8365,OR047,Club Northwest,(best after 1am),NW 4th at Everett,Portland,OR,(*),Bars/Clubs,1969,,-122.674474,45.525239,Verified Location
-8425,OR107,Club Northwest ,,217 N.W. 4th Ave. ,Portland,OR,"(G),(D)",Bars/Clubs,1972,NA,-122.6746889,45.5248301,Google Verified Location
-8448,OR130,Club Northwest ,(liquor),217 N.W. 4th Ave. ,Portland,OR,"(G),(D),(*)",Bars/Clubs,1973,NA,-122.6746889,45.5248301,Google Verified Location
-8511,OR193,Dahl & Penn,(Liquor),Alder & 2nd Ave. S.W.,Portland,OR,"(M),(RT),(W)",Bars/Clubs,1975,,-122.674179,45.518676,Verified Location
-8405,OR087,Dahl & Penne,(best time is after 1 a.m.),Alder at 2nd,Portland,OR,(M),Bars/Clubs,1971,,-122.674179,45.518676,Verified Location
-8473,OR155,Dahl & Penne,(liquor),Alder & 2nd Ave. S.W.,Portland,OR,"(M),(W),(RT)",Bars/Clubs,1974,,-122.674179,45.518676,Verified Location
-8546,OR228,Dahl & Penne,"(Some G)( you name it, they have it)",Alder & 2nd Ave. S.W.,Portland,OR,"(D),(S),(*),(G),(OC),(RT),(W)",Bars/Clubs,1976,,-122.674179,45.518676,Verified Location
-8384,OR066,Dahl & Penne,(best after 1am),Alder at 2nd,Portland,OR,(M),Bars/Clubs,1970,,-122.674179,45.518676,Verified Location
-8426,OR108,Dahl & Penne,(best after 1 am),Alder at 2nd Ave.,Portland,OR,"(W),(RT),(M)",Bars/Clubs,1972,,-122.674179,45.518676,Verified Location
-8449,OR131,Dahl & Penne,(liquor- best after 1am),Alder & 2nd Ave. S.W.,Portland,OR,"(M),(W),(RT)",Bars/Clubs,1973,,-122.674179,45.518676,Verified Location
-8628,OR310,Dahl & Penne ,"(Liquor)(Some W, SM, G, OC, you name it, they have it)",604 S.W. 2nd at Alder ,Portland,OR,"(*),(W),(SM),(G),(OC),(D)",Bars/Clubs,1978,NA,-122.674179,45.518676,Verified Location
-8581,OR263,Dahl & Penne ,"(Liquor)(Some W, SM, G, OC- you name it, they have it)",604 S.W. 2nd at Alder ,Portland,OR,"(D),(*),(S),(WE),(W),(SM),(G),(OC)",Bars/Clubs,1977,NA,-122.674179,45.518676,Verified Location
-8748,OR430,Dahl & Penne ,"(Liquor)(Some W, SM, OC, you name it, they have it)(Cruisy)(Snacks)",604 S.W. 2nd at Alder,Portland,OR,"(*),(W),(SM),(OC),Cruisy Area,(PT),(D)","Cruising Areas,Bars/Clubs",1980,NA,-122.674179,45.518676,Verified Location
-8683,OR365,Dahl & Penne ,(Liquor)(Snacks),604 S.W.  2nd at Alder ,Portland,OR,"(*),(W),(SM),(OC),(G),(PT),(D)",Bars/Clubs,1979,NA,-122.674179,45.518676,Verified Location
-8366,OR048,Dahl & Penne ,(Best after 1am),2nd & Adler ,Portland,OR,(M),Bars/Clubs,1969,NA,-122.674179,45.518676,Verified Location
-8349,OR031,Dahl & Penne ,(best after 1am),2nd and Alder ,Portland,OR,"(M),(*)",Bars/Clubs,1968,NA,-122.674179,45.518676,Verified Location
-8749,OR431,Darcelle XV Tavern ,"(Some L, 'Drags')(Touristy)",208 N.W. 3rd St. ,Portland,OR,"(S),(WE),(L),(M)",Bars/Clubs,1980,NA,-122.6729315,45.5247845,Google Verified Location
-8547,OR229,Darcelle XV Tavern ,(Some G),208 N.W. 3rd ,Portland,OR,"(S),(G),(*)",Bars/Clubs,1976,NA,-122.6729315,45.5247845,Google Verified Location
-8629,OR311,Darcelle XV Tavern ,(Some G),208 N.W. 3rd St. ,Portland,OR,"(G),(S),(WE),(*)",Bars/Clubs,1978,NA,-122.6729315,45.5247845,Google Verified Location
-8582,OR264,Darcelle XV Tavern ,(Some G) ,208 N.W. 3rd ,Portland,OR,"(G),(S),(WE),(*)",Bars/Clubs,1977,NA,-122.6729315,45.5247845,Google Verified Location
-8684,OR366,Darcelle XV Tavern ,"(Some G, 'Drags')",208 N.W. 3rd St. ,Portland,OR,"(S),(WE),(G)",Bars/Clubs,1979,NA,-122.6729315,45.5247845,Google Verified Location
-8685,OR367,Dave's Bookstore ,,826 S.W. 3rd St. ,Portland,OR,,Book Store,1979,NA,-122.6757061,45.5173255,Google Verified Location
-8630,OR312,Dave's Bookstore ,,826 S.W. 3rd ,Portland,OR,,Book Store,1978,NA,-122.6757061,45.5173255,Google Verified Location
-8616,OR298,Deb's Club ,(North Bend),665 Virginia ,Coos Bay,OR,"(M),(D)",Bars/Clubs,1978,NA,-124.2236372,43.4064908,Google Verified Location
-8667,OR349,Deb's Club ,(North Bend),655 Virginia ,Coos Bay,OR,"(M),(D)",Bars/Clubs,1979,NA,-124.2235634,43.4065872,Google Verified Location
-8474,OR156,Dema's Tavern ,,208 N.W. 3rd Ave. ,Portland,OR,"(M),(G)",Bars/Clubs,1974,NA,-122.6729315,45.5247845,Google Verified Location
-8512,OR194,Dema's Tavern ,,208 N.W. 3rd Ave. ,Portland,OR,"(M),(G)",Bars/Clubs,1975,NA,-122.6729315,45.5247845,Google Verified Location
-8450,OR132,Demas Tavern,,208 N.W. 3rd Ave. ,Portland,OR,"(M),(G)",Bars/Clubs,1973,NA,-122.6729315,45.5247845,Google Verified Location
-8427,OR109,Demas Tavern ,,208 N.W. 3rd Ave. ,Portland,OR,(G),Bars/Clubs,1972,NA,-122.6729315,45.5247845,Google Verified Location
-8686,OR368,Denny's,,4th & Lincoln,Portland,OR,"(M),(R),(C),(AH)",Restaurant,1979,,-122.681948,45.508118,Verified Location
-8750,OR432,Denny's,,4th & Lincoln,Portland,OR,"(M),(R),(C),(AH)",Restaurant,1980,,-122.681948,45.508118,Verified Location
-8583,OR265,Denny's ,,4th & Lincoln ,Portland,OR,"(M),(R),(C),(AH)",Restaurant,1977,NA,-122.681948,45.508118,Verified Location
-8631,OR313,Denny's ,,4th & Lincoln,Portland,OR,"(M),(R),(C),(AH)",Restaurant,1978,NA,-122.681948,45.508118,Verified Location
-8406,OR088,Derek's ,,820 S.W. Oak ,Portland,OR,"(YC),(HIP),(*)",Bars/Clubs,1971,NA,-122.6797505,45.5224094,Google Verified Location
-8350,OR032,Derek's ,,820 SW Oak ,Portland,OR,(*),Bars/Clubs,1968,NA,-122.6797505,45.5224094,Google Verified Location
-8367,OR049,Derek's ,,820 SW Oak ,Portland,OR,"(*),(YC)",Bars/Clubs,1969,NA,-122.6797505,45.5224094,Google Verified Location
-8385,OR067,Derek's ,,820 S.W. Oak ,Portland,OR,"(YC),(*)",Bars/Clubs,1970,NA,-122.6797505,45.5224094,Google Verified Location
-8335,OR017,Derek's ,,820 SW Oak St. ,Portland,OR,(*),Bars/Clubs,1966,NA,-122.6797505,45.5224094,Google Verified Location
-8428,OR110,Dinty Moore ,,924 S.W. 3rd Ave. ,Portland,OR,"(M),(RT)",Bars/Clubs,1972,NA,-122.6760635,45.5163658,Google Verified Location
-8386,OR068,Dinty Moore's ,,924 S.W. 3rd ,Portland,OR,"(M),(RT)",Bars/Clubs,1970,NA,-122.6760635,45.5163658,Google Verified Location
-8407,OR089,Dinty Moore's ,,924 S.W. 3rd ,Portland,OR,"(M),(RT)",Bars/Clubs,1971,NA,-122.6760635,45.5163658,Google Verified Location
-8687,OR369,Dinty Moore's ,,924 S.W. 3rd St. ,Portland,OR,"(RT),(PT)",Bars/Clubs,1979,NA,-122.6760635,45.5163658,Google Verified Location
-8475,OR157,Dinty Moore's ,,924 S.W. 3rd Ave. ,Portland,OR,"(M),(RT)",Bars/Clubs,1974,NA,-122.6760635,45.5163658,Google Verified Location
-8513,OR195,Dinty Moore's ,,924 S.W. Park ,Portland,OR,"(M),(RT)",Bars/Clubs,1975,NA,-122.6812339,45.5179203,Google Verified Location
-8451,OR133,Dinty Moore's ,,924 S.W. 3rd Ave. ,Portland,OR,"(M),(RT)",Bars/Clubs,1973,NA,-122.6760635,45.5163658,Google Verified Location
-8548,OR230,Dinty Moores,,924 S.W. 3rd Ave. ,Portland,OR,"(M),(RT)",Bars/Clubs,1976,NA,-122.6760635,45.5163658,Google Verified Location
-8688,OR370,Eastwood Community Church,,3950 S.E. Lincoln St. ,Portland,OR,,Church,1979,NA,-122.6215991,45.5079056,Google Verified Location
-8584,OR266,Eastwood Community Church ,,1950 S.E. Lincoln Street,Portland,OR,,Church,1977,NA,-122.4975157,45.5084735,Google Verified Location
-8632,OR314,Eastwood Community Church ,,3950 S.E. Lincoln St. ,Portland,OR,,Church,1978,NA,-122.6215991,45.5079056,Google Verified Location
-8514,OR196,Embers Lounge,(Liquor- formerly the Side Door),739 S.W. Park,Portland,OR,"(D),(*)",Bars/Clubs,1975,,-122.680991,45.519469,Verified Location
-8549,OR231,Embers Lounge ,(Liquor)(Some S),739 S.W. Park ,Portland,OR,"(*),(D),(R),(S),(YC)",Restaurant,1976,NA,-122.680991,45.5194686,Google Verified Location
-8689,OR371,Embers Lounge ,"(Liquor)(also C-AH, and Sun. brunch)",739 S.W. Park ,Portland,OR,"(R),(E),(*),(C),(AH)",Restaurant,1979,NA,-122.680991,45.5194686,Google Verified Location
-8751,OR433,Embers Lounge ,(Liquor)(Sun. Brunch),739 S.W. Park ,Portland,OR,"(R),(E),(*),(C),(AH)",Restaurant,1980,NA,-122.680991,45.5194686,Google Verified Location
-8585,OR267,Embers Lounge ,(Liquor),739 S.W. Park ,Portland,OR,"(E),(R),(C),(AH),(*)",Restaurant,1977,NA,-122.680991,45.5194686,Google Verified Location
-8633,OR315,Embers Lounge ,(Liquor),739 S.W. Park ,Portland,OR,"(E),(R),(*),(C),(AH)",Restaurant,1978,NA,-122.680991,45.5194686,Google Verified Location
-8717,OR399,Eros Theatre,,,Portland,OR,Cruisy Area,Cruising Areas,1979,,-122.6767274,45.5168905,Google Verified Location
-8658,OR340,Eros Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1978,,-122.6767274,45.5168905,Google Verified Location
-8610,OR292,Eros Theatre,,,Portland,OR,Cruisy Area,"Cruising Areas,Theatre",1977,,-122.6767274,45.5168905,Google Verified Location
-8515,OR197,Eros Theatre ,,314 S.W. Taylor ,Portland,OR,,Theatre,1975,NA,-122.6767274,45.5168905,Google Verified Location
-8550,OR232,Eros Theatre ,,314 S.W. Taylor ,Portland,OR,,Theatre,1976,NA,-122.6767274,45.5168905,Google Verified Location
-8476,OR158,Eros Theatre ,,314 S.W. Taylor ,Portland,OR,,Theatre,1974,NA,-122.6767274,45.5168905,Google Verified Location
-8452,OR134,Family Zoo ,,820 S.W. Oak ,Portland,OR,"(HIP),(YC),(*)",Bars/Clubs,1973,NA,-122.6797505,45.5224094,Google Verified Location
-8690,OR372,Family Zoo ,(Recently expanded),820 S.W. Oak ,Portland,OR,"(HIP),(W),(YC),(*)",Bars/Clubs,1979,NA,-122.6797505,45.5224094,Google Verified Location
-8551,OR233,Family Zoo ,,820 S.W. Oak ,Portland,OR,"(HIP),(YC),(*)",Bars/Clubs,1976,NA,-122.6797505,45.5224094,Google Verified Location
-8586,OR268,Family Zoo ,,820 S.W. Oak ,Portland,OR,"(HIP),(W),(YC),(*)",Bars/Clubs,1977,NA,-122.6797505,45.5224094,Google Verified Location
-8752,OR434,Family Zoo ,,820 S.W. Oak,Portland,OR,"(HIP),(W),(YC),(*)",Bars/Clubs,1980,NA,-122.6797505,45.5224094,Google Verified Location
-8516,OR198,Family Zoo ,,820 S.W. Oak ,Portland,OR,"(YC),(HIP),(*)",Bars/Clubs,1975,NA,-122.6797505,45.5224094,Google Verified Location
-8477,OR159,Family Zoo ,,820 S.W. Oak ,Portland,OR,"(HIP),(YC),(*)",Bars/Clubs,1974,NA,-122.6797505,45.5224094,Google Verified Location
-8634,OR316,Family Zoo ,,820 S.W. Oak ,Portland,OR,"(HIP),(W),(YC),(*)",Bars/Clubs,1978,NA,-122.6797505,45.5224094,Google Verified Location
-8368,OR050,Fiddler's Three,,728 SW 9th ,Portland,OR,(*),Bars/Clubs,1969,NA,-122.6810407,45.5193448,Google Verified Location
-8387,OR069,Fiddler's Three,,728 S.W. 9th ,Portland,OR,(*),Bars/Clubs,1970,NA,-122.6810407,45.5193448,Google Verified Location
-8635,OR317,Flight 181 ,('New Ritz Disco' in rear) ,1116 S.W. Washington ,Portland,OR,,Bars/Clubs,1978,NA,-122.682841,45.521504,Google Verified Location
-8478,OR160,Focal Point ,,728 S.W. 9th Ave. ,Portland,OR,"(YC),(*)",Bars/Clubs,1974,NA,-122.6810407,45.5193448,Google Verified Location
-8517,OR199,Focal Point ,,728 S.W. 9th Ave. ,Portland,OR,"(YC),(*)",Bars/Clubs,1975,NA,-122.6810407,45.5193448,Google Verified Location
-8753,OR435,Focal Point Tavern ,,729 S.W. 9th Ave. ,Portland,OR,"(*),(YC),(PT),(C),(AH),(WE)",Bars/Clubs,1980,NA,-122.681678,45.5196915,Google Verified Location
-8691,OR373,Focal Point Tavern ,,729 S.W. 9th Ave. ,Portland,OR,"(*),(YC),(PT),(C),(AH),(WE)",Bars/Clubs,1979,NA,-122.681678,45.5196915,Google Verified Location
-8587,OR269,Focal Point Tavern ,,728 S.W. 9th Avenue ,Portland,OR,"(YC),(PT),(C),(AH),(WE),(*)",Bars/Clubs,1977,NA,-122.6810407,45.5193448,Google Verified Location
-8636,OR318,Focal Point Tavern ,,729 S.W. 9th Ave. ,Portland,OR,"(*),(YC),(PT),(C),(AH),(WE)",Bars/Clubs,1978,NA,-122.681678,45.5196915,Google Verified Location
-8552,OR234,Focal Point Tavern ,,728 S.W. 9th Ave. ,Portland,OR,"(YC),(*)",Bars/Clubs,1976,NA,-122.6810407,45.5193448,Google Verified Location
-8479,OR161,Half Moon Tavern ,,122 S.W. Yamhill ,Portland,OR,,Bars/Clubs,1974,NA,-122.6742903,45.5171234,Google Verified Location
-8692,OR374,Hamburger Mary's ,,840 S.W. Park St. ,Portland,OR,"(M),(HIP),(R),(C)",Restaurant,1979,NA,-122.6807316,45.5187649,Google Verified Location
-8588,OR270,Hamburger Mary's ,,840 S.W. Park Street ,Portland,OR,"(M),(R),(C),(YC)",Restaurant,1977,NA,-122.6807316,45.5187649,Google Verified Location
-8637,OR319,Hamburger Mary's ,,840 S.W. Park St. ,Portland,OR,"(M),(HIP),(R),(C)",Restaurant,1978,NA,-122.6807316,45.5187649,Google Verified Location
-8754,OR436,Hamburger Mary's ,,840 S.W. Park ,Portland,OR,"(M),(HIP),(R),(C)",Restaurant,1980,NA,-122.6807316,45.5187649,Google Verified Location
-8336,OR018,Happy Hare ,,1730 SW Taylor ,Portland,OR,(*),Bars/Clubs,1966,NA,-122.6905513,45.5205619,Google Verified Location
-8324,OR006,Happy Hare ,,1730 SW Taylor ,Portland,OR,,Bars/Clubs,1965,NA,-122.6905513,45.5205619,Google Verified Location
-8518,OR200,Hardtime Adult Book Store,,926 S.W. 3rd Ave. ,Portland,OR,,Book Store,1975,NA,-122.6760788,45.5163379,Google Verified Location
-8480,OR162,Hardtime Adult Book Store ,,926 S.W. 3rd Ave. ,Portland,OR,,Book Store,1974,NA,-122.6760788,45.5163379,Google Verified Location
-8553,OR235,Hardtime Adult Book Store ,,926 S.W. 3rd Ave. ,Portland,OR,,Book Store,1976,NA,-122.6760788,45.5163379,Google Verified Location
-8693,OR375,Hardtime Adult Books ,,926 S.W. 3rd Ave. ,Portland,OR,(*),Book Store,1979,NA,-122.6760788,45.5163379,Google Verified Location
-8757,OR439,Hardtimes Adult Books,,926 S.W. 3rd Ave. ,Portland,OR,(*),Book Store,1980,NA,-122.6760788,45.5163379,Google Verified Location
-8589,OR271,Hardtimes Adult Books,,926 S.W. 3rd Avenue ,Portland,OR,,Book Store,1977,NA,-122.6760788,45.5163379,Google Verified Location
-8638,OR320,Hardtimes Adult Books ,,926 S.W. 3rd Ave. ,Portland,OR,,Book Store,1978,NA,-122.6760788,45.5163379,Google Verified Location
-8351,OR033,Hare ,,1730 SW Taylor ,Portland,OR,,Bars/Clubs,1968,NA,-122.6905513,45.5205619,Google Verified Location
-8672,OR354,He & She Adult Books ,,288 River Rd. ,Eugene,OR,(M),Book Store,1979,NA,-123.1179424,44.0647758,Google Verified Location
-8735,OR417,He & She Bookstore ,,288 River Rd. ,Eugene,OR,(M),Book Store,1980,NA,-123.1179424,44.0647758,Google Verified Location
-8376,OR058,Holiday House,Charleston Small Boat Harbor,,Coos Bay,OR,(M),Bars/Clubs,1970,,-124.21789,43.366501,Location could not be verified. General city or location coordinates used.
-8358,OR040,Holiday House,Charleston Small Boat Harbor,,Coos Bay,OR,(M),Bars/Clubs,1969,,-124.21789,43.366501,Location could not be verified. General city or location coordinates used.
-8330,OR012,Holiday House,Charleston Small Boat Harbor,,Coos Bay,OR,(M),Bars/Clubs,1966,,-124.21789,43.366501,Location could not be verified. General city or location coordinates used.
-8342,OR024,Holiday House ,Charleston Small Boat Harbor ,,Coos Bay,OR,(M),Bars/Clubs,1968,NA,-124.2178903,43.3665007,Google Verified Location
-8755,OR437,Hot Patata,,5842 S.E. Foster Rd. ,Portland,OR,"(M),(R)",Restaurant,1980,NA,-122.602979,45.4925408,Google Verified Location
-8756,OR438,Hot Patata,,13th & Morrison ,Portland,OR,"(M),(R)",Restaurant,1980,NA,-122.652608,45.5172,Google Verified Location
-8453,OR135,Hoyt Hotel ,(also coffee shop),614 N.W. Hoyt ,Portland,OR,"(M),(H)",Hotel,1973,NA,-122.6767475,45.5273195,Google Verified Location
-8429,OR111,Hoyt Hotel Coffee Shop ,(after hours),614 N.W. Hoyt ,Portland,OR,"(M),(C)",Hotel,1972,NA,-122.6767475,45.5273195,Google Verified Location
-8398,OR080,Hunter Room ,Trailways Bus Depot ,959 Pearl ,Eugene,OR,(*),Bars/Clubs,1971,NA,-123.0895316,44.0492797,Google Verified Location
-8378,OR060,Hunter Room ,(best late) Trailways Bus Depot ,959 Pearl ,Eugene,OR,,Bars/Clubs,1970,NA,-123.0895316,44.0492797,Google Verified Location
-8443,OR125,Hunter Room ,Trailways Bus Depot ,959 Pearl ,Eugene,OR,(*),Bars/Clubs,1973,NA,-123.0895316,44.0492797,Google Verified Location
-8360,OR042,Hunter Room ,(best late) Trailways Bus Depot ,959 Pearl ,Eugene,OR,,Bars/Clubs,1969,NA,-123.0895316,44.0492797,Google Verified Location
-8419,OR101,Hunter Room ,Trailways Bus Depot ,959 Pearl ,Eugene,OR,(*),Bars/Clubs,1972,NA,-123.0895316,44.0492797,Google Verified Location
-8344,OR026,Hunter Room in Trailways Bus Depot,,959 Pearl St. ,Eugene,OR,,Bars/Clubs,1968,NA,-123.0895316,44.0492797,Google Verified Location
-8758,OR440,J & J Tavern ,(Some W),1719 W. Burnside ,Portland,OR,(W),Bars/Clubs,1980,NA,-122.6886867,45.5231052,Google Verified Location
-8759,OR441,Kachina Lounge ,(Disco)(Liquor) ,1217 S.W. Stark St. ,Portland,OR,"(R),(PT),(D)",Restaurant,1980,NA,-122.6744733,45.5205399,Google Verified Location
-8694,OR376,Kachina Lounge ,(Should be a winner) ,1217 S.W. Stark St. ,Portland,OR,"(R),(D),(PT)",Restaurant,1979,NA,-122.6744733,45.5205399,Google Verified Location
-8740,OR422,Klamath Falls Gay Union ,,428 S. 9th St. ,Klamath Falls,OR,,Business,1980,NA,-121.7773211,42.2247574,Google Verified Location
-8695,OR377,Konnie's Korner ,(Looks promising)(Liquor),1650 W. Burnside ,Portland,OR,(D),Bars/Clubs,1979,NA,-122.6884236,45.5227861,Google Verified Location
-8741,OR423,Lighthouse Bar,(inquire locally),,Klamath Falls,OR,(M),Bars/Clubs,1980,,-121.78167,42.224867,Location could not be verified. General city or location coordinates used.
-8728,OR410,Lithia Park T-Room & Lobby,(late nights),,Ashland,OR,Cruisy Area,Cruising Areas,1980,,-122.718201,42.192284,Verified Location
-8760,OR442,M.C.C.,,N.E. 24th & Broadway,Portland,OR,,Church,1980,,-122.641181,45.535104,Verified Location
-8481,OR163,Magic Garden ,(Liquor),217 N.W. 4th Ave. ,Portland,OR,"(G),(R),(D),(*)",Restaurant,1974,NA,-122.6746889,45.5248301,Google Verified Location
-8590,OR272,Magic Garden ,(Liquor),217 N.W. 4th Avenue ,Portland,OR,"(G),(R),(D)",Restaurant,1977,NA,-122.6746889,45.5248301,Google Verified Location
-8639,OR321,Magic Garden ,(Liquor),217 N.W. 4th Ave. ,Portland,OR,"(G),(R),(D)",Restaurant,1978,NA,-122.6746889,45.5248301,Google Verified Location
-8554,OR236,Magic Garden ,(liquor),217 N.W. 4th Ave. ,Portland,OR,"(*),(G),(R),(D)","Bars/Clubs,Restaurant",1976,NA,-122.6746889,45.5248301,Google Verified Location
-8519,OR201,Magic Garden ,(Liquor),217 N.W. 4th Ave. ,Portland,OR,"(G),(R),(D),(*)",Restaurant,1975,NA,-122.6746889,45.5248301,Google Verified Location
-8454,OR136,Majestic Hotel & Baths,,303 S.W. 12th Ave. ,Portland,OR,,"Hotel,Baths",1973,NA,-122.6834058,45.5228026,Google Verified Location
-8482,OR164,Majestic Hotel & Baths ,,303 S.W. 12th Ave. ,Portland,OR,(*),"Baths,Hotel",1974,NA,-122.6834058,45.5228026,Google Verified Location
-8555,OR237,Majestic Hotel & Baths ,,303 S.W. 12th St. ,Portland,OR,(*),"Baths,Hotel",1976,NA,-122.6834058,45.5228026,Google Verified Location
-8520,OR202,Majestic Hotel & baths ,,303 S.W. 12th Ave. ,Portland,OR,(*),"Baths,Hotel",1975,NA,-122.6834058,45.5228026,Google Verified Location
-8640,OR322,Majestic Hotel & Club Baths,,303 S.W. 12th Ave. ,Portland,OR,(*),"Baths,Hotel",1978,NA,-122.6834058,45.5228026,Google Verified Location
-8696,OR378,Majestic Hotel & Club Baths,(Needs a good scrub job),303 S.W. 12th Ave. ,Portland,OR,,"Baths,Hotel",1979,NA,-122.6834058,45.5228026,Google Verified Location
-8591,OR273,Majestic Hotel & Club Baths ,,303 S.W. 12th Avenue ,Portland,OR,(*),"Baths,Hotel",1977,NA,-122.6834058,45.5228026,Google Verified Location
-8761,OR443,Majestic Hotel Club Baths ,,303 S.W. 12th Ave. ,Portland,OR,,"Baths,Hotel",1980,NA,-122.6834058,45.5228026,Google Verified Location
-8337,OR019,Mama Bernice's ,,1228 SW 3rd. ,Portland,OR,,Bars/Clubs,1966,NA,-122.6770036,45.5144693,Google Verified Location
-8325,OR007,Mama Bernice's ,,1228 SW 3rd. ,Portland,OR,,Bars/Clubs,1965,NA,-122.6770036,45.5144693,Google Verified Location
-8697,OR379,Mamie's Coffee Shop ,(6 a.m. to 12 midnight),302 S.W. 9th St. ,Portland,OR,"(R),(AH),(WE)",Restaurant,1979,NA,-122.6800602,45.5224868,Google Verified Location
-8469,OR151,Marion Hotel Bar ,,200 Commercial S.E. ,Salem,OR,(M),"Bars/Clubs,Hotel",1973,NA,-123.0403491,44.938842,Google Verified Location
-8442,OR124,Marion Hotel Bar ,,200 Commerical S.E.,Salem,OR,(M),"Bars/Clubs,Hotel",1972,NA,-123.0403491,44.938842,Google Verified Location
-8374,OR056,Marion Hotel Bar ,,200 Commerical SE,Salem,OR,(M),"Bars/Clubs,Hotel",1969,NA,-123.0403491,44.938842,Google Verified Location
-8395,OR077,Marion Hotel Bar ,,200 Commerical S.E.,Salem,OR,(M),Bars/Clubs,1970,NA,-123.0403491,44.938842,Google Verified Location
-8416,OR098,Marion Hotel Bar ,,200 Commerical S.E.,Portland,OR,(M),"Bars/Clubs,Hotel",1971,NA,-122.7755802,45.4329977,Google Verified Location
-8743,OR425,Medford Hotel & Barbary Coast Bar,(looks promising) ,406 W. Main ,Medford,OR,"(M),(H),(W)","Hotel,Bars/Clubs",1980,NA,-122.8772086,42.324265,Google Verified Location
-8625,OR307,Medford Hotel Bar,,406 W. Main ,Medford,OR,(M),"Bars/Clubs,Hotel",1978,NA,-122.8772086,42.324265,Google Verified Location
-8421,OR103,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),"Bars/Clubs,Hotel",1972,NA,-122.8772086,42.324265,Google Verified Location
-8542,OR224,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),"Bars/Clubs,Hotel",1976,NA,-122.8772086,42.324265,Google Verified Location
-8400,OR082,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),Bars/Clubs,1971,NA,-122.8772086,42.324265,Google Verified Location
-8380,OR062,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),"Bars/Clubs,Hotel",1970,NA,-122.8772086,42.324265,Google Verified Location
-8679,OR361,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),"Bars/Clubs,Hotel",1979,NA,-122.8772086,42.324265,Google Verified Location
-8577,OR259,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),"Bars/Clubs,Hotel",1977,NA,-122.8772086,42.324265,Google Verified Location
-8506,OR188,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),"Hotel,Bars/Clubs",1975,NA,-122.8772086,42.324265,Google Verified Location
-8445,OR127,Medford Hotel Bar ,,406 W. Main ,Medford,OR,(M),"Bars/Clubs,Hotel",1973,NA,-122.8772086,42.324265,Google Verified Location
-8762,OR444,Mildred's Palace ,(No booze)(Disco),918 S.W. Yamhill,Portland,OR,"(YC),(D),(AH),(WE),(*)",Bars/Clubs,1980,NA,-122.6818575,45.5189426,Google Verified Location
-8698,OR380,Milord's ,(No booze)(Disco),918 S.W. Yamhill ,Portland,OR,"(YC),(D),(AH),(WE),(*)",Bars/Clubs,1979,NA,-122.6818575,45.5189426,Google Verified Location
-8369,OR051,Model Inn,,1536 SW 1st St. ,Portland,OR,(G),Bars/Clubs,1969,NA,-122.6768579,45.5117705,Google Verified Location
-8338,OR020,Model Inn ,,1536 SW 1st St. ,Portland,OR,"(M),(RT)",Bars/Clubs,1966,NA,-122.6768579,45.5117705,Google Verified Location
-8352,OR034,Model Inn ,,1536 SW 1st St. ,Portland,OR,(G),Bars/Clubs,1968,NA,-122.6768579,45.5117705,Google Verified Location
-8326,OR008,Model Inn ,,1536 SW 1st. ,Portland,OR,(RT),Bars/Clubs,1965,NA,-122.6768579,45.5117705,Google Verified Location
-8699,OR381,New Ritz Disco,('Teenie-Boppers')(Unisex)(Enter thur rear alley),605 S.E. 15th ,Portland,OR,"(HIP),(D)",Bars/Clubs,1979,NA,-122.6508267,45.5184857,Google Verified Location
-8641,OR323,New Ritz Disco,(Disco)(enter thru rear alley),1116 S.W. Washington ,Portland,OR,"(YC),(D),(*)",Bars/Clubs,1978,NA,-122.682841,45.521504,Google Verified Location
-8327,OR009,Nineteenth Hole ,,1002 SW Broadway ,Portland,OR,,Bars/Clubs,1965,NA,-122.6807186,45.5173258,Google Verified Location
-8670,OR352,O.S.U,Home Economics Bldg. (3rd floor T-Room) & Student Union (basement T-Room),,Corvallis,OR,Cruisy Area,Cruising Areas,1979,,-123.279444,44.563781,Verified Location
-8619,OR301,O.S.U.,Home Economics Bldg. 3rd floor T-Room,,Corvallis,OR,Cruisy Area,Cruising Areas,1978,,-123.279444,44.563781,Verified Location
-8732,OR414,O.S.U.,Home Economics Bldg. (3rd floor T-Room) & Student Union (basement T-Room),,Corvallis,OR,Cruisy Area,Cruising Areas,1980,,-123.279444,44.563781,Verified Location
-8700,OR382,Old St. George Hotel ,,118 S.W. Burnside ,Portland,OR,(H),Hotel,1979,NA,-122.665598,45.5229637,Google Verified Location
-8642,OR324,Old St. George Hotel ,,118 S.W. Burnside ,Portland,OR,(H),Hotel,1978,NA,-122.665598,45.5229637,Google Verified Location
-8592,OR274,Old St. George Hotel ,,118 W. Burnside St. ,Portland,OR,(H),Hotel,1977,NA,-122.6719468,45.5229238,Google Verified Location
-8701,OR383,Olympic Baths ,"(11 a.m. to 11 p.m., 24 hrs WE)",531 S.W. 12th Ave. ,Portland,OR,(WE),Baths,1979,NA,-122.6839493,45.5214476,Google Verified Location
-8593,OR275,Olympic Sauna Baths ,(Looks more promising) ,359 S.W. Morrison ,Portland,OR,,Baths,1977,NA,-122.6761677,45.5186254,Google Verified Location
-8521,OR203,Olympic Sauna Baths ,,359 S.W. Morrison ,Portland,OR,,Baths,1975,NA,-122.6761677,45.5186254,Google Verified Location
-8556,OR238,Olympic Sauna Baths ,,359 S.W. Morrison ,Portland,OR,,Baths,1976,NA,-122.6761677,45.5186254,Google Verified Location
-8455,OR137,Olympic Sauna Baths ,,359 S.W. Morrison ,Portland,OR,,Baths,1973,NA,-122.6761677,45.5186254,Google Verified Location
-8483,OR165,Olympic Sauna Baths ,,359 S.W. Morrison ,Portland,OR,,Baths,1974,NA,-122.6761677,45.5186254,Google Verified Location
-8763,OR445,Olympic Steam Baths,Uptown (Open 24 hrs.)(Massages),531 S.W. 12th Ave. ,Portland,OR,,Baths,1980,NA,-122.6839493,45.5214476,Google Verified Location
-8668,OR350,Oregan C.C.,Lake on campus,,Coos Bay,OR,Cruisy Area,Cruising Areas,1979,,-124.254266,43.395175,Verified Location
-8730,OR412,Oregon C.C.,Empire Lake,,Coos Bay,OR,Cruisy Area,Cruising Areas,1980,,-124.254266,43.395175,Verified Location
-8617,OR299,Oregon C.C.,Lake on Campus,,Coos Bay,OR,Cruisy Area,Cruising Areas,1978,,-124.254266,43.395175,Verified Location
-8522,OR204,Other Inn,,242 S.W. Alder ,Portland,OR,"(W),(RT),(*)",Bars/Clubs,1975,NA,-122.6747764,45.5184386,Google Verified Location
-8370,OR052,Other Inn,,242 SW Alder ,Portland,OR,(M),Bars/Clubs,1969,NA,-122.6747764,45.5184386,Google Verified Location
-8353,OR035,Other Inn,,242 SW Adler ,Portland,OR,"(M),(*)",Bars/Clubs,1968,NA,-122.6747764,45.5184386,Google Verified Location
-8557,OR239,Other Inn,,242 S.W. Alder ,Portland,OR,"(*),(OC),(W),(RT)",Bars/Clubs,1976,NA,-122.6747764,45.5184386,Google Verified Location
-8484,OR166,Other Inn,,242 S.W. Adler ,Portland,OR,"(W),(RT),(*)",Bars/Clubs,1974,NA,-122.6747764,45.5184386,Google Verified Location
-8764,OR446,Other Inn ,,242 S.W. Alder ,Portland,OR,"(OC),(W),(SM),(PT)",Bars/Clubs,1980,NA,-122.6747764,45.5184386,Google Verified Location
-8430,OR112,Other Inn ,,242 S.W. Alder ,Portland,OR,(W),Bars/Clubs,1972,NA,-122.6747764,45.5184386,Google Verified Location
-8643,OR325,Other Inn ,,242 S.W. Alder ,Portland,OR,"(W),(SM),(OC),(PT)",Bars/Clubs,1978,NA,-122.6747764,45.5184386,Google Verified Location
-8702,OR384,Other Inn ,"(Some OC, W, SM)",242 S.W. Alder ,Portland,OR,"(OC),(W),(SM),(PT)",Bars/Clubs,1979,NA,-122.6747764,45.5184386,Google Verified Location
-8408,OR090,Other Inn ,,242 S.W. Alder ,Portland,OR,,Bars/Clubs,1971,NA,-122.6747764,45.5184386,Google Verified Location
-8456,OR138,Other Inn ,,242 S.W. Alder ,Portland,OR,(W),Bars/Clubs,1973,NA,-122.6747764,45.5184386,Google Verified Location
-8594,OR276,Other Inn ,,242 S.W. Alder ,Portland,OR,"(OC),(W),(SM),(PT)",Bars/Clubs,1977,NA,-122.6747764,45.5184386,Google Verified Location
-8388,OR070,Other Inn ,,242 S.W. Alder,Portland,OR,,Bars/Clubs,1970,NA,-122.6747764,45.5184386,Google Verified Location
-8678,OR360,Over-The-Waves,(Late nights- summers only),2945 N.W. Jetty ,Lincoln City,OR,"(M),(R)",Restaurant,1979,NA,-124.0135461,44.9868222,Google Verified Location
-8624,OR306,Over-The-Waves ,(late nights- summers only),2945 N.W. Jetty ,Lincoln City,OR,"(M),(R)",Restaurant,1978,NA,-124.0135461,44.9868222,Google Verified Location
-8742,OR424,Over-the-Waves ,(Late nights- summers only) ,2945 N.W. Jetty,Lincoln City,OR,"(M),(R)",Restaurant,1980,NA,-124.0135461,44.9868222,Google Verified Location
-8673,OR355,Pearl Street Station ,(best thing to happen in Eugene ever)(M-days)(Disco)(D)- at night,412 Pearl St. ,Eugene,OR,"(*),(M),(R),(YC),(D)",Restaurant,1979,NA,-123.0898635,44.0552018,Google Verified Location
-8703,OR385,Peek-A-Rama,,834 S.W. 3rd ,Portland,OR,(M),Book Store,1979,NA,-122.6756614,45.5172974,Google Verified Location
-8558,OR240,Peek-A-Rama Book Store,,834 S.W. 3rd Ave. ,Portland,OR,,Book Store,1976,NA,-122.6756614,45.5172974,Google Verified Location
-8595,OR277,Peek-A-Rama Book Store ,,834 S.W. 3rd ,Portland,OR,(M),Book Store,1977,NA,-122.6756614,45.5172974,Google Verified Location
-8644,OR326,Peek-A-Rama Books,,834 S.W. 3rd,Portland,OR,(M),Book Store,1978,NA,-122.6756614,45.5172974,Google Verified Location
-8409,OR091,Pied Piper ,,1217 Stark ,Portland,OR,"(D),(RT),(*)",Bars/Clubs,1971,NA,-122.6532693,45.519498,Google Verified Location
-8523,OR205,Pink Cat Adult Books,,523 S.W. 3rd Ave.,Portland,OR,,Book Store,1975,NA,-122.6752926,45.5191711,Google Verified Location
-8559,OR241,Pink Cat Adult Books ,,523 S.W. 3rd Ave. ,Portland,OR,,Book Store,1976,NA,-122.6752926,45.5191711,Google Verified Location
-8485,OR167,Pink Cat Adult Books ,,523 S.W. 3rd Ave. ,Portland,OR,,Book Store,1974,NA,-122.6752926,45.5191711,Google Verified Location
-8596,OR278,Pink Cat Adult Books ,,523 S.W. 3rd ,Portland,OR,(M),Book Store,1977,NA,-122.6752926,45.5191711,Google Verified Location
-8731,OR413,Pony Village Shopping Center,upstairs T-Room,,Coos Bay,OR,Cruisy Area,Cruising Areas,1980,,-124.23426,43.404395,Verified Location
-8669,OR351,Pony Village Shopping Center,upstairs T-Room,,Coos Bay,OR,Cruisy Area,Cruising Areas,1979,,-124.23426,43.404395,Verified Location
-8618,OR300,Pony Village Shopping Ctr.,Upstairs T-Room,,Coos Bay,OR,Cruisy Area,Cruising Areas,1978,,-124.23426,43.404395,Verified Location
-8486,OR168,Portland Rose Motel ,(Salem Frwy.- Barbur Exit),8920 S.W. Barbur Blvd. ,Portland,OR,(H),Hotel,1974,NA,-122.7065137,45.4600022,Google Verified Location
-8524,OR206,Portland Rose Motel ,(Salem Fwy. - Barbur Exit),8920 S.W. Barbur ,Portland,OR,(H),Hotel,1975,NA,-122.7065137,45.4600022,Google Verified Location
-8560,OR242,Portland Youth Alliance ,,615 S.E. Alder ,Portland,OR,"(YC),(D),(C)",Bars/Clubs,1976,NA,-122.6593335,45.518191,Google Verified Location
-8431,OR113,Purple Cat ,,624 S.W. Burnside,Portland,OR,(M),Bars/Clubs,1972,NA,-122.6590699,45.5227451,Google Verified Location
-8389,OR071,Purple Cat ,,624 S.W. Burnside ,Portland,OR,,Bars/Clubs,1970,NA,-122.6590699,45.5227451,Google Verified Location
-8410,OR092,Purple Cat ,,624 S.W. Burnside ,Portland,OR,,Bars/Clubs,1971,NA,-122.6590699,45.5227451,Google Verified Location
-8765,OR447,Rafter's,"(Disco)(Liquor)('Super bar' & light show- enter thru 'The Embers', then upstairs)",Park & Yamhill,Portland,OR,"(*),(YC),(D)",Bars/Clubs,1980,,-122.680947,45.518922,Verified Location
-8704,OR386,Rafter's,"(Disco)(Liquor)('Super bar' & light show- enter thru 'The Embers', then upstairs)",Park & Yamhill,Portland,OR,"(*),(YC),(D)",Bars/Clubs,1979,,-122.680947,45.518922,Verified Location
-8645,OR327,Rafters,(Disco)(Liquor)(Super bar and light show- enter thru 'The Embers' then upstairs),Park & Yamhill,Portland,OR,"(YC),(D),(*)",Bars/Clubs,1978,,-122.680947,45.518922,Verified Location
-8597,OR279,Rafters ,(Portland's new 'super bar' & light show- enter thru 'The Embers' then upstairs)(Disco),Park & Yamhill,Portland,OR,"(YC),(D),(*)",Bars/Clubs,1977,NA,-122.680947,45.518922,Verified Location
-8457,OR139,Random Strands,(book store & theatre) Next door to Rip Tide,,Portland,OR,,"Book Store,Theatre",1973,,-122.6807918,45.5220975,Verified Location
-8411,OR093,Red Carpet,Greyhound Bus Depot,Taylor at S.W. 6th,Portland,OR,(M),Bars/Clubs,1971,,-122.679372,45.517759,Verified Location
-8390,OR072,Red Carpet,Greyhound Bus Depot,Taylor at S.W. 6th,Portland,OR,(M),Bars/Clubs,1970,,-122.679372,45.517759,Verified Location
-8432,OR114,Red Carpet,Greyhound Bus Depot,Taylor at S.W. 6th,Portland,OR,,Bars/Clubs,1972,,-122.679372,45.517759,Verified Location
-8339,OR021,Red Carpet ,(after taverns close) Greyhound Bus Depot ,,Portland,OR,(*),Bars/Clubs,1966,NA,-122.6750261,45.5051064,Google Verified Location
-8705,OR387,Rhondee ,(Liquor),1014 S.W. Stark St. ,Portland,OR,"(*),(R)",Restaurant,1979,NA,-122.6816169,45.522011,Google Verified Location
-8766,OR448,Rhondee ,(Liquor),1014 S.W. Stark St. ,Portland,OR,"(R),(D),(PT)",Restaurant,1980,NA,-122.6816169,45.522011,Google Verified Location
-8646,OR328,Rhondee ,(Looks promising),1014 S.W. Stark ,Portland,OR,"(R),(OC)",Restaurant,1978,NA,-122.6816169,45.522011,Google Verified Location
-8458,OR140,Rip Tide ,,933 S.W. Stark ,Portland,OR,"(YC),(D),(*)",Bars/Clubs,1973,NA,-122.6807918,45.5220975,Google Verified Location
-8433,OR115,Rip Tide ,,933 S.W. Stark ,Portland,OR,"(YC),(D),(*)",Bars/Clubs,1972,NA,-122.6807918,45.5220975,Google Verified Location
-8707,OR389,Rising Moon,(G only),413 W. Burnside ,Portland,OR,"(G),(PT),(D)",Bars/Clubs,1979,NA,-122.6747541,45.5233576,Google Verified Location
-8768,OR450,Rising Moon,(L only),413 W. Burnside ,Portland,OR,"(L),(*),(PT),(D)",Bars/Clubs,1980,NA,-122.6747541,45.5233576,Google Verified Location
-8647,OR329,Rising Moon ,(G-only),413 W. Burnside ,Portland,OR,"(G),(PT),(D),(*)",Bars/Clubs,1978,NA,-122.6747541,45.5233576,Google Verified Location
-8503,OR185,Riviera Room ,,39 W. 10th ,Eugene,OR,(*),Bars/Clubs,1975,NA,-123.0933462,44.0488139,Google Verified Location
-8379,OR061,Riviera Room ,,39 W. 10th ,Eugene,OR,(M),Bars/Clubs,1970,NA,-123.0933462,44.0488139,Google Verified Location
-8574,OR256,Riviera Room ,(Many G),39 W. Street,Eugene,OR,"(*),(G)",Bars/Clubs,1977,NA,-123.092949,44.0500992,Google Verified Location
-8420,OR102,Riviera Room ,,39 W. 10th ,Eugene,OR,(M),Bars/Clubs,1972,NA,-123.0933462,44.0488139,Google Verified Location
-8399,OR081,Riviera Room ,,39 W 10th ,Eugene,OR,(M),Bars/Clubs,1971,NA,-123.0933462,44.0488139,Google Verified Location
-8674,OR356,Riviera Room ,,39 W. 10th St. ,Eugene,OR,"(G),(D)",Bars/Clubs,1979,NA,-123.0933462,44.0488139,Google Verified Location
-8736,OR418,Riviera Room ,(many L),39 W. 10th St. ,Eugene,OR,"(*),(D),(L)",Bars/Clubs,1980,NA,-123.0933462,44.0488139,Google Verified Location
-8538,OR220,Riviera Room ,(Many G),39 W. 10th St. ,Eugene,OR,"(*),(G)",Bars/Clubs,1976,NA,-123.0933462,44.0488139,Google Verified Location
-8621,OR303,Riviera Room ,(many G),39 W. 10th St. ,Eugene,OR,"(*),(G)",Bars/Clubs,1978,NA,-123.0933462,44.0488139,Google Verified Location
-8444,OR126,Riviera Room ,,39 W. 10th ,Eugene,OR,(M),Bars/Clubs,1973,NA,-123.0933462,44.0488139,Google Verified Location
-8434,OR116,Roman Tavern ,,728 S.W. 9th Ave.,Portland,OR,"(YC),(*)",Bars/Clubs,1972,NA,-122.6810407,45.5193448,Google Verified Location
-8487,OR169,Roman's Lounge ,(liquor),949 S.W. Stark,Portland,OR,"(YC),(D),(R),(*)",Restaurant,1974,NA,-122.6808422,45.5221109,Google Verified Location
-8459,OR141,Roman's Tavern ,,728 S.W. 9th Ave. ,Portland,OR,"(YC),(*)",Bars/Clubs,1973,NA,-122.6810407,45.5193448,Google Verified Location
-8412,OR094,Roman's Tavern ,,728 S.W. 9th ,Portland,OR,"(YC),(*)",Bars/Clubs,1971,NA,-122.6810407,45.5193448,Google Verified Location
-8659,OR341,Rooseter Rock St. Park,'B.A.' Beach- east end- 30 mi. E. of Portland,,Portland,OR,Cruisy Area,Cruising Areas,1978,,-122.236468,45.546833,Verified Location
-8500,OR182,Rooster Rock of St. Paul,(East end) about 30 mi. E. of Portland,,Portland,OR,Cruisy Area,Cruising Areas,1974,,-122.236468,45.546833,Verified Location
-8465,OR147,Rooster Rock St. Park,(east end) about 30 mi. E of Portland on the Columbia River,,Portland,OR,Cruisy Area,Cruising Areas,1973,,-122.236468,45.546833,Verified Location
-8718,OR400,Rooster Rock St. Park,"'B.A.' Beach - E. end, 30 mi. E of Portland",,Portland,OR,Cruisy Area,Cruising Areas,1979,,-122.236468,45.546833,Verified Location
-8533,OR215,Rooster Rock St. Park,(East end) about 30 miles east of Portland,,Portland,OR,Cruisy Area,Cruising Areas,1975,,-122.236468,45.546833,Verified Location
-8776,OR458,Rooster Rock St. Park,"'B.A.' Beach- E. end, 30 mi. E of Portland",,Portland,OR,Cruisy Area,Cruising Areas,1980,,-122.236468,45.546833,Verified Location
-8569,OR251,Rooster Rock St. Pk.,(East end) 30 mi. east of Portland,,Portland,OR,Cruisy Area,Cruising Areas,1976,,-122.236468,45.546833,Verified Location
-8438,OR120,Rooster Rock State Park,(east end) about 30 mi. E. of Portland along Columbia River,,Portland,OR,Cruisy Area,Cruising Areas,1972,,-122.236468,45.546833,Verified Location
-8611,OR293,Rooster Rock State Park,'B.A.' Beach- east end- 30 mi. E. of Portland,,Portland,OR,Cruisy Area,Cruising Areas,1977,,-122.236468,45.546833,Verified Location
-8706,OR388,Roxy Hearts ,(Lunches)(New booze),1121 S.W. Stark ,Portland,OR,(R),Restaurant,1979,NA,-122.6824975,45.5225977,Google Verified Location
-8767,OR449,Roxy Hearts ,(Lunches)(No booze) ,1211 S.W. Stark ,Portland,OR,(R),Restaurant,1980,NA,-122.6832923,45.5228477,Google Verified Location
-8598,OR280,San Fransisco Book Store ,,725 S.W. 3rd Ave. ,Portland,OR,,Book Store,1977,NA,-122.6756749,45.5179858,Google Verified Location
-8708,OR390,Scorpio Adult Books,,209 S.W. Taylor ,Portland,OR,,Book Store,1979,NA,-122.6754214,45.5168655,Google Verified Location
-8769,OR451,Scorpio Adult Books,,209 S.W. Taylor ,Portland,OR,,Book Store,1980,NA,-122.6754214,45.5168655,Google Verified Location
-8648,OR330,Scorpio Adult Books ,,209 S.W. Taylor ,Portland,OR,,Book Store,1978,NA,-122.6754214,45.5168655,Google Verified Location
-8599,OR281,Scorpio Adult Books ,,209 S.W. Taylor ,Portland,OR,,Book Store,1977,NA,-122.6754214,45.5168655,Google Verified Location
-8561,OR243,Scorpio's Adult Books,,209 S.W. Taylor,Portland,OR,,Book Store,1976,NA,-122.6754214,45.5168655,Google Verified Location
-8488,OR170,Scorpio's Adult Bookstore,,209 S.W. Taylor ,Portland,OR,,Book Store,1974,NA,-122.6754214,45.5168655,Google Verified Location
-8525,OR207,Scorpio's Adult Bookstore ,,209 S.W. Taylor ,Portland,OR,,Book Store,1975,NA,-122.6754214,45.5168655,Google Verified Location
-8489,OR171,Second Foundation Social Club ,,258 S.W. Adler ,Portland,OR,"(D),(R)",Restaurant,1974,NA,-122.6749347,45.5184776,Google Verified Location
-8460,OR142,Side Door ,(liquor) ,Park & Yamhill ,Portland,OR,"(YC),(R),(D),(*)",Restaurant,1973,NA,-122.6808992,45.5191719,Google Verified Location
-8490,OR172,Side Door ,(liquor),811 S.W. Yamhill,Portland,OR,"(R),(D),(*)",Restaurant,1974,NA,-122.6808992,45.5191719,Google Verified Location
-8770,OR452,Sin City Adult Books,,838 S.W. 3rd Ave. ,Portland,OR,,Book Store,1980,NA,-122.6758199,45.517044,Google Verified Location
-8709,OR391,Sin City Adult Books,,838 S.W. 3rd Ave. ,Portland,OR,,Book Store,1979,NA,-122.6758199,45.517044,Google Verified Location
-8600,OR282,Sin City Adult Books ,,838 S.W. 3rd Ave ,Portland,OR,,Book Store,1977,NA,-122.6758199,45.517044,Google Verified Location
-8649,OR331,Sin City Adult Books ,,838 S.W. 3rd Ave. ,Portland,OR,,Book Store,1978,NA,-122.6758199,45.517044,Google Verified Location
-8737,OR419,Skinner Butte Park,,,Eugene,OR,"(AYOR),Cruisy Area",Cruising Areas,1980,,-123.096405,44.06094,Verified Location
-8539,OR221,Skinner Butte Park,,,Eugene,OR,Cruisy Area,Cruising Areas,1976,,-123.096405,44.06094,Verified Location
-8622,OR304,Skinner Butte Park,,,Eugene,OR,Cruisy Area,Cruising Areas,1978,,-123.096405,44.06094,Verified Location
-8504,OR186,Skinner Butte Park,,,Eugene,OR,Cruisy Area,Cruising Areas,1975,,-123.096405,44.06094,Verified Location
-8575,OR257,Skinner Butte Park,,,Eugene,OR,Cruisy Area,Cruising Areas,1977,,-123.096405,44.06094,Verified Location
-8675,OR357,Skinner Butte Park,(HOT),,Eugene,OR,"(HOT),Cruisy Area",Cruising Areas,1979,,-123.096405,44.06094,Verified Location
-8578,OR260,Small Park adj. to Fairgrounds,,,Medford,OR,Cruisy Area,Cruising Areas,1977,approximate location,-122.913639,42.387315,Location could not be verified. General city or location coordinates used.
-8626,OR308,Small Park adj. to Fairgrounds,,,Medford,OR,Cruisy Area,Cruising Areas,1978,approximate location,-122.913639,42.387315,Location could not be verified. General city or location coordinates used.
-8745,OR427,Small park adj. to Fairgrounds,,,Medford,OR,Cruisy Area,Cruising Areas,1980,approximate location,-122.913639,42.387315,Location could not be verified. General city or location coordinates used.
-8680,OR362,Small park adj. to Fairgrounds,,,Medford,OR,Cruisy Area,Cruising Areas,1979,approximate location,-122.913639,42.387315,Location could not be verified. General city or location coordinates used.
-8359,OR041,Snappy's ,,240 S. Broadway ,Coos Bay,OR,(M),Bars/Clubs,1969,NA,-124.2129196,43.3666833,Google Verified Location
-8331,OR013,Snappy's ,,240 S. Broadway ,Coos Bay,OR,(M),Bars/Clubs,1966,NA,-124.2129196,43.3666833,Google Verified Location
-8397,OR079,Snappy's ,,240 S. Broadway ,Coos Bay,OR,(M),Bars/Clubs,1971,NA,-124.2129196,43.3666833,Google Verified Location
-8418,OR100,Snappy's ,,240 S. Broadway ,Coos Bay,OR,(M),Bars/Clubs,1972,NA,-124.2129196,43.3666833,Google Verified Location
-8343,OR025,Snappy's ,,240 S. Broadway ,Coos Bay,OR,(M),Bars/Clubs,1968,NA,-124.2129196,43.3666833,Google Verified Location
-8377,OR059,Snappy's ,,240 S. Broadway ,Coos Bay,OR,(M),Bars/Clubs,1970,NA,-124.2129196,43.3666833,Google Verified Location
-8491,OR173,Sportsman's Inn,,15 S.W. 6th Ave. ,Portland,OR,,Bars/Clubs,1974,NA,-122.6765067,45.5229748,Google Verified Location
-8492,OR174,Sultan Theatre ,,1313 S.W. 1st Ave. ,Portland,OR,,Theatre,1974,NA,-122.6760074,45.5136105,Google Verified Location
-8726,OR408,T-Room beneath turn-around on Seaside Beach,(Summers),,Seaside,OR,Cruisy Area,Cruising Areas,1979,,-123.930221,45.991871,Verified Location
-8784,OR466,T-Room beneth turn-around on Seaside Beach,(Summers),,Seaside,OR,Cruisy Area,Cruising Areas,1980,,-123.930221,45.991871,Verified Location
-8665,OR347,T-Room beneth turn-arounf on Seaside Beach,(summers),,Seaside,OR,Cruisy Area,Cruising Areas,1978,,-123.930221,45.991871,Verified Location
-8722,OR404,Tara's Pub ,(Some G) ,2290 Front N.E.,Salem,OR,"(D),(G),(PT)",Bars/Clubs,1979,NA,-123.033601,44.962111,Google Verified Location
-8663,OR345,Tara's Pub ,(some G),2290 Front N.E. ,Salem,OR,"(D),(G),(PT),(*)",Bars/Clubs,1978,NA,-123.033601,44.962111,Google Verified Location
-8526,OR208,Tash's ,,316 W. Burnside ,Portland,OR,(G),Bars/Clubs,1975,NA,-122.6737131,45.5228731,Google Verified Location
-8493,OR175,Tash's ,,316 W. Burnside,Portland,OR,,Bars/Clubs,1974,NA,-122.6737131,45.5228731,Google Verified Location
-8371,OR053,Tavern ,,122 SW Yamhill,Portland,OR,(*),Bars/Clubs,1969,NA,-122.6742903,45.5171234,Google Verified Location
-8710,OR392,Tavern ,('Half Moon')(Some W),122 S.W. Yamhill,Portland,OR,"(*),(W),(PT)",Bars/Clubs,1979,NA,-122.6742903,45.5171234,Google Verified Location
-8354,OR036,Tavern ,,122 SW Yamhill,Portland,OR,(*),Bars/Clubs,1968,NA,-122.6742903,45.5171234,Google Verified Location
-8650,OR332,Tavern ,"(Half Moon)(Some W, OC)",122 S.W. Yamhill,Portland,OR,"(*),(W),(OC)",Bars/Clubs,1978,NA,-122.6742903,45.5171234,Google Verified Location
-8601,OR283,Tavern ,(Half moon),122 S.W. Yamhill ,Portland,OR,"(*),(W)",Bars/Clubs,1977,NA,-122.6742903,45.5171234,Google Verified Location
-8771,OR453,Tavern ,('Half Moon')(Good days)(Some W),122 S.W. Yamhill,Portland,OR,"(*),(W),(PT)",Bars/Clubs,1980,NA,-122.6742903,45.5171234,Google Verified Location
-8391,OR073,Tavern ,,122 S.W. Yamhill,Portland,OR,(*),Bars/Clubs,1970,NA,-122.6742903,45.5171234,Google Verified Location
-8340,OR022,Tavern ,,1002 SW Broadway ,Portland,OR,(*),Bars/Clubs,1966,NA,-122.6807186,45.5173258,Google Verified Location
-8328,OR010,Tavern ,,122 SW Yamhill St. ,Portland,OR,(*),Bars/Clubs,1965,NA,-122.6742903,45.5171234,Google Verified Location
-8413,OR095,The Tavern ,,122 S.W. Yamhill,Portland,OR,(*),Bars/Clubs,1971,NA,-122.6742903,45.5171234,Google Verified Location
-8461,OR143,The Tavern ,,122 S.W. Yamhill ,Portland,OR,(*),Bars/Clubs,1973,NA,-122.6742903,45.5171234,Google Verified Location
-8527,OR209,The Tavern ,(Half Moon),122 S.W. Yamhill,Portland,OR,(*),Bars/Clubs,1975,NA,-122.6742903,45.5171234,Google Verified Location
-8494,OR176,The Tavern ,,122 S.W. Yamhill ,Portland,OR,(*),Bars/Clubs,1974,NA,-122.6742903,45.5171234,Google Verified Location
-8435,OR117,The Tavern ,,122 S.W. Yamhill,Portland,OR,(*),Bars/Clubs,1972,NA,-122.6742903,45.5171234,Google Verified Location
-8562,OR244,The Tavern ,(Half Moon),122 S.W. Yamhill,Portland,OR,(*),Bars/Clubs,1976,NA,-122.6742903,45.5171234,Google Verified Location
-8495,OR177,Tiki Tavern ,,1728 S.E. 7th Ave. ,Portland,OR,,Bars/Clubs,1974,NA,-122.6584666,45.5103541,Google Verified Location
-8528,OR210,Tiki Tavern ,,1728 S.E. 7th Ave. ,Portland,OR,,Bars/Clubs,1975,NA,-122.6584666,45.5103541,Google Verified Location
-8563,OR245,Tiki Tavern ,,1728 S.E. 7th Ave. ,Portland,OR,(OC),Bars/Clubs,1976,NA,-122.6584666,45.5103541,Google Verified Location
-8392,OR074,Timber Topper Lounge,(best after 1am) Washington Hotel,Washington at S.W. 12th,Portland,OR,(*),"Bars/Clubs,Hotel",1970,,-122.683228,45.521914,Verified Location
-8772,OR454,Tom Kat Theatre,,425 S.W. Glisson ,Portland,OR,,Theatre,1980,NA,-122.6750261,45.5051064,Google Verified Location
-8711,OR393,Tom Kat Theatre,,425 S.W. Glisson,Portland,OR,,Theatre,1979,NA,-122.6750261,45.5051064,Google Verified Location
-8651,OR333,Tom Kat Theatre,,425 N.W. Glissan ,Portland,OR,,Theatre,1978,NA,-122.6751099,45.5266524,Google Verified Location
-8564,OR246,Tom Kat Theatre ,,425 N.W. Glisan ,Portland,OR,,Theatre,1976,NA,-122.6751099,45.5266524,Google Verified Location
-8496,OR178,Tom Kat Theatre ,,425 N.W. Gilsan ,Portland,OR,,Theatre,1974,NA,-122.6751099,45.5266524,Google Verified Location
-8529,OR211,Tom Kat Theatre ,,425 N.W. Glisan ,Portland,OR,,Theatre,1975,NA,-122.6751099,45.5266524,Google Verified Location
-8602,OR284,Tom Kat Theatre ,,425 N.W. Glissan ,Portland,OR,,Theatre,1977,NA,-122.6751099,45.5266524,Google Verified Location
-8623,OR305,U of Oregon- Library,1st floor,,Eugene,OR,Cruisy Area,Cruising Areas,1978,,-123.077729,44.04319,Verified Location
-8676,OR358,U. of Oregon,,,Eugene,OR,Cruisy Area,Cruising Areas,1979,,-123.077729,44.04319,Verified Location
-8540,OR222,U. of Oregon,Library (1st Floor),,Eugene,OR,Cruisy Area,Cruising Areas,1976,,-123.077729,44.04319,Verified Location
-8738,OR420,U. of Oregon - Library,1st floor T-Room,,Eugene,OR,Cruisy Area,Cruising Areas,1980,,-123.077729,44.04319,Verified Location
-8773,OR455,U.S. Adult Book Store ,,628 E. Burnside ,Portland,OR,,Book Store,1980,NA,-122.658999,45.5228357,Google Verified Location
-8576,OR258,Univ. of Oregon- Library,1st floor,,Eugene,OR,Cruisy Area,Cruising Areas,1977,,-123.077729,44.04319,Verified Location
-8603,OR285,Valentino's ,,555 S.W. Oak ,Portland,OR,"(M),(R),(C),(AH)",Restaurant,1977,NA,-122.6760872,45.5221915,Google Verified Location
-8712,OR394,Vapors ,(Baths),509 S.W. 4th ,Portland,OR,,Baths,1979,NA,-122.6761602,45.5197247,Google Verified Location
-8774,OR456,Varsity Tavern,,S.E. 35th Pl. & Division,Portland,OR,"(R),(PT)",Restaurant,1980,NA,-122.6272623,45.5019444,Google Verified Location
-8604,OR286,Victoria's Nephew,(Open days only- 11 a.m. to 4 p.m.),212 S.W. Stark Street ,Portland,OR,"(M),(R)",Restaurant,1977,NA,-122.6738639,45.5199641,Google Verified Location
-8652,OR334,Victoria's Nephew ,(days only- 11 a.m. to 4 p.m.),212 S.W. Stark ,Portland,OR,"(M),(R)",Restaurant,1978,NA,-122.6738639,45.5199641,Google Verified Location
-8713,OR395,Victoria's Nephew ,(11 a.m. to 4 p.m.),212 S.W. Stark St. ,Portland,OR,"(M),(R)",Restaurant,1979,NA,-122.6738639,45.5199641,Google Verified Location
-8727,OR409,VIllage Commons Tavern ,(Disco),66 E. Main ,Ashland,OR,"(M),(D),(WE),(*)",Bars/Clubs,1980,NA,-122.7143454,42.1966472,Google Verified Location
-8605,OR287,W.C.'s Water Closet Lounge,(Unisex)(Liquor)(upstairs),426 S.W. 4th Avenue ,Portland,OR,"(*),(YC),(D)",Bars/Clubs,1977,NA,-122.6754152,45.520073,Google Verified Location
-8660,OR342,Washington Park,nr. Lewis & Clark Mon.,,Portland,OR,Cruisy Area,Cruising Areas,1978,,-122.701431,45.521311,Verified Location
-8534,OR216,Washington Park,near Lewis & Clark Monument,,Portland,OR,Cruisy Area,Cruising Areas,1975,,-122.701431,45.521311,Verified Location
-8612,OR294,Washington Park,nr. Lewis & Clark Mon.,,Portland,OR,Cruisy Area,Cruising Areas,1977,,-122.701431,45.521311,Verified Location
-8501,OR183,Washington Park,nr. Lewis & Clark monument,,Portland,OR,Cruisy Area,Cruising Areas,1974,,-122.701431,45.521311,Verified Location
-8466,OR148,Washington Park,,,Portland,OR,Cruisy Area,Cruising Areas,1973,,-122.701431,45.521311,Verified Location
-8719,OR401,Washington Park,by Lewis & Clark monument,,Portland,OR,Cruisy Area,Cruising Areas,1979,,-122.701431,45.521311,Verified Location
-8777,OR459,Washington Park,by Lewis & Clark Monument,,Portland,OR,Cruisy Area,Cruising Areas,1980,,-122.701431,45.521311,Verified Location
-8570,OR252,Washington Park,nr. Lewis & Clark Mon.,,Portland,OR,Cruisy Area,Cruising Areas,1976,,-122.701431,45.521311,Verified Location
-8439,OR121,Washington Park,,,Portland,OR,Cruisy Area,Cruising Areas,1972,,-122.701431,45.521311,Verified Location
-8565,OR247,Water Closet Lounge ,(Liquor)(some G),426 S.W. 4th Ave. ,Portland,OR,"(YC),(G),(D),(*)",Bars/Clubs,1976,NA,-122.6754152,45.520073,Google Verified Location
-8653,OR335,Wilde Oscar ,(Patio),318 S.W. 3rd Ave. ,Portland,OR,(PT),Bars/Clubs,1978,NA,-122.6741189,45.5205558,Google Verified Location
-8714,OR396,Wilde Oscar ,(patio),318 S.W. 3rd Ave. ,Portland,OR,(PT),Bars/Clubs,1979,NA,-122.6741189,45.5205558,Google Verified Location
-8775,OR457,Wilde Oscar's ,(Patio),318 S.W. 3rd Ave. ,Portland,OR,"(PT),(R)",Restaurant,1980,NA,-122.6741189,45.5205558,Google Verified Location
-8606,OR288,Woman's Place ,(Book Store) ,1533 E. Burnside Street,Portland,OR,(G),Book Store,1977,NA,-122.6497654,45.5230748,Google Verified Location
-8654,OR336,Woman's Place ,(book store),1533 E. Burnside St. ,Portland,OR,(G),Book Store,1978,NA,-122.6497654,45.5230748,Google Verified Location
-8780,OR462,Wooden Shoe ,,1391 Broadway,Salem,OR,(D),Bars/Clubs,1980,NA,-123.0309526,44.9527335,Google Verified Location
-8723,OR405,Wooden Shoe ,,1391 Broadway ,Salem,OR,(D),Bars/Clubs,1979,NA,-123.0309526,44.9527335,Google Verified Location
-8462,OR144,Workout Baths ,,531 S.W. 12th Ave. ,Portland,OR,(*),Baths,1973,NA,-122.6839493,45.5214476,Google Verified Location
-8414,OR096,Workout Baths ,,531 S.W. 12th ,Portland,OR,(*),Bars/Clubs,1971,NA,-122.6839493,45.5214476,Google Verified Location
-8607,OR289,Workout Baths ,,531 S.W. 12th Avenue ,Portland,OR,"(YC),(*)",Baths,1977,NA,-122.6839493,45.5214476,Google Verified Location
-8355,OR037,Workout Baths ,,531 SW 12th St. ,Portland,OR,,Baths,1968,NA,-122.6839493,45.5214476,Google Verified Location
-8393,OR075,Workout Baths ,,531 S.W. 12th ,Portland,OR,(*),Baths,1970,NA,-122.6839493,45.5214476,Google Verified Location
-8530,OR212,Workout Baths ,,531 S.W. 12th Ave. ,Portland,OR,"(YC),(*)",Baths,1975,NA,-122.6839493,45.5214476,Google Verified Location
-8566,OR248,Workout Baths ,,531 S.W. 12th Ave. ,Portland,OR,"(*),(YC)",Baths,1976,NA,-122.6839493,45.5214476,Google Verified Location
-8372,OR054,Workout Baths ,,531 SW 12th St. ,Portland,OR,(*),Baths,1969,NA,-122.6839493,45.5214476,Google Verified Location
-8497,OR179,Workout Baths ,,531 S.W. 12th Ave. ,Portland,OR,"(*),(YC)",Baths,1974,NA,-122.6839493,45.5214476,Google Verified Location
-8436,OR118,Workout Baths ,,531 S.W. 12th Ave. ,Portland,OR,(*),Baths,1972,NA,-122.6839493,45.5214476,Google Verified Location
-8720,OR402,Yamhill ('Camp St.'),,betw. 3rd & 4th,Portland,OR,Cruisy Area,Cruising Areas,1979,,-122.676306,45.517558,Verified Location
-8778,OR460,Yamhill ('Camp St.'),,betw. 3rd & 4th,Portland,OR,Cruisy Area,Cruising Areas,1980,,-122.676306,45.517558,Verified Location
-8571,OR253,Yamhill ('Camp Street'),,betw. 4th & 6th,Portland,OR,Cruisy Area,Cruising Areas,1976,,-122.676306,45.517558,Verified Location
-8502,OR184,Yamhill ('Camp Street'),,Betw. 4th & 6th,Portland,OR,Cruisy Area,Cruising Areas,1974,,-122.676306,45.517558,Verified Location
-8535,OR217,Yamhill ('Camp Street'),,betw. 4th & 6th,Portland,OR,Cruisy Area,Cruising Areas,1975,,-122.676306,45.517558,Verified Location
-8613,OR295,Yamhill ('Camp Street'),,betw. 3rd & 4th,Portland,OR,Cruisy Area,Cruising Areas,1977,,-122.676306,45.517558,Verified Location
-8661,OR343,Yamhill ('Camp Street'),,betw. 3rd & 4th,Portland,OR,Cruisy Area,Cruising Areas,1978,,-122.676306,45.517558,Verified Location
-8467,OR149,Yamhill ('Camp Street'),,bet. 4th & 6th,Portland,OR,Cruisy Area,Cruising Areas,1973,,-122.676306,45.517558,Verified Location
-8440,OR122,Yamhill St. bet. 4th & 6th,,,Portland,OR,Cruisy Area,Cruising Areas,1972,,-122.676306,45.517558,Verified Location
-8746,OR428,Yaquina Bay St. Park,,,Newport,OR,Cruisy Area,Cruising Areas,1980,,-124.064766,44.62423,Verified Location
-8655,OR337,Zorba The Greek ,(Some G),1533 E. Burnside ,Portland,OR,"(R),(D),(G)",Restaurant,1978,NA,-122.6497654,45.5230748,Google Verified Location
-8715,OR397,Zorba the Greek ,,626 S.W. Park ,Portland,OR,"(G),(R),(D)",Restaurant,1979,NA,-122.6801655,45.5197524,Google Verified Location
-8463,OR145,Zorba the Greek ,,626 S.W. Park ,Portland,OR,(D),Bars/Clubs,1973,NA,-122.6801655,45.5197524,Google Verified Location
-8498,OR180,Zorba the Greek ,(liquor),626 S.W. Park ,Portland,OR,(D),Bars/Clubs,1974,NA,-122.6801655,45.5197524,Google Verified Location
-8531,OR213,Zorba the Greek ,(Some G),626 S.W. Park ,Portland,OR,"(D),(G)",Bars/Clubs,1975,NA,-122.6801655,45.5197524,Google Verified Location
-8437,OR119,Zorba the Greek ,,626 S.W. Park ,Portland,OR,,Bars/Clubs,1972,NA,-122.6801655,45.5197524,Google Verified Location
-8567,OR249,Zorba the Greek ,(Some G),626 S.W. Park ,Portland,OR,"(D),(G)",Bars/Clubs,1976,NA,-122.6801655,45.5197524,Google Verified Location
-8608,OR290,Zorba the Greek ,(Some G),626 S.W. Park ,Portland,OR,"(R),(D),(G)",Restaurant,1977,NA,-122.6801655,45.5197524,Google Verified Location
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"'Rest Stop'","5 mi. S. (late nights)","","Medford","OR","Cruisy Area","Cruising Areas",1980,"",-122.875595,42.326515,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-OR-0001"
+"'Rest Stop' on I-5","3 mi. N. (Both sides)","","Grants Pass","OR","Cruisy Area","Cruising Areas",1980,"",-123.328392,42.439007,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-OR-0002"
+"'Rest Stops' on I-5","3 mi. N (both sides)","","Grants Pass","OR","Cruisy Area","Cruising Areas",1979,"",-123.328392,42.439007,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-OR-0003"
+"'Rest Stops' on I-5","betw. Salem & Portland - also betw. Salem & Albany (both sides- discretion)","","Salem","OR","Cruisy Area","Cruising Areas",1979,"",-123.035096,44.942898,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-OR-0004"
+"'Rest Stops' on I-5","between Salem & Portland- also betw. Salem & Albany(both sides- discretion)","","Salem","OR","Cruisy Area","Cruising Areas",1980,"",-123.035096,44.942898,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-OR-0005"
+"11 Mi. S. at Valley of the Rogue","rest area & campground","","Grants Pass","OR","Cruisy Area","Cruising Areas",1976,"",-123.328392,42.439007,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-OR-0006"
+"11 mi. south at Valley of the Rogue","campground & rest area","","Grants Pass","OR","Cruisy Area","Cruising Areas",1975,"",-123.328392,42.439007,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1975-OR-0007"
+"A Woman's Place ","(Book store)","706 S.E. Grand ","Portland","OR","(G)","Book Store",1976,NA,-122.6605585,45.5177852,"Google Verified Location",NA,NA,NA,"1976-OR-0008"
+"Adult Bookstore & Arcade ","","628 E. Burnside ","Portland","OR","","Book Store",1979,NA,-122.658999,45.5228357,"Google Verified Location",NA,NA,NA,"1979-OR-0009"
+"Aero Steam Baths ","","1237 SW 3rd. ","Portland","OR","","Baths",1966,NA,-122.6774713,45.5146785,"Google Verified Location",NA,NA,NA,"1966-OR-0010"
+"Aero Vapor Steam Baths","","1239 S.W. 3rd Ave. ","Portland","OR","","Baths",1972,NA,-122.6774785,45.5146654,"Google Verified Location",NA,NA,NA,"1972-OR-0011"
+"Aero Vapor Steam Baths","","1239 S.W. 3rd ","Portland","OR","","Baths",1971,NA,-122.6774785,45.5146654,"Google Verified Location",NA,NA,NA,"1971-OR-0012"
+"Aero Vapor Steam Baths","","1237 SW 3rd. ","Portland","OR","","Baths",1965,NA,-122.6774713,45.5146785,"Google Verified Location",NA,NA,NA,"1965-OR-0013"
+"Aero Vapor Steam Baths ","","1237 SW 3rd ","Portland","OR","","Baths",1969,NA,-122.6774713,45.5146785,"Google Verified Location",NA,NA,NA,"1969-OR-0014"
+"Aero Vapor Steam Baths ","","1237 S.W. 3rd ","Portland","OR","","Baths",1970,NA,-122.6774713,45.5146785,"Google Verified Location",NA,NA,NA,"1970-OR-0015"
+"Aero Vapor Steam Baths ","","1237 SW 3rd ","Portland","OR","","Baths",1968,NA,-122.6774713,45.5146785,"Google Verified Location",NA,NA,NA,"1968-OR-0016"
+"Annex (Derek's)","","820 S.W. Oak ","Portland","OR","(*)","Bars/Clubs",1972,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1972-OR-0017"
+"Annex Stereo Room ","","820 SW Oak St. ","Portland","OR","(*)","Bars/Clubs",1965,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1965-OR-0018"
+"Balboa Club ","","112 S Empire ","Coos Bay","OR","(M)","Bars/Clubs",1969,NA,-124.2776025,43.3929679,"Google Verified Location",NA,NA,NA,"1969-OR-0019"
+"Balboa Club ","","112 S. Empire ","Coos Bay","OR","(M)","Bars/Clubs",1971,NA,-124.2776025,43.3929679,"Google Verified Location",NA,NA,NA,"1971-OR-0020"
+"Balboa Club ","","112 S. Empire ","Coos Bay","OR","(M)","Bars/Clubs",1966,NA,-124.2776025,43.3929679,"Google Verified Location",NA,NA,NA,"1966-OR-0021"
+"Balboa Club ","","112 S. Empire ","Coos Bay","OR","(M)","Bars/Clubs",1970,NA,-124.2776025,43.3929679,"Google Verified Location",NA,NA,NA,"1970-OR-0022"
+"Balboa Club ","","112 S. Empire ","Coos Bay","OR","(M)","Bars/Clubs",1968,NA,-124.2776025,43.3929679,"Google Verified Location",NA,NA,NA,"1968-OR-0023"
+"Balboa Club ","","112 S. Empire ","Coos Bay","OR","(M)","Bars/Clubs",1972,NA,-124.2776025,43.3929679,"Google Verified Location",NA,NA,NA,"1972-OR-0024"
+"Barbary Coast Nite Club ","Hoyt Hotel","614 N.W. Hoyt","Portland","OR","(M)","Bars/Clubs,Hotel",1973,NA,-122.6767475,45.5273195,"Google Verified Location",NA,NA,NA,"1973-OR-0025"
+"Beefeater","","1002 SW Broadway ","Portland","OR","(M),(PE)","Bars/Clubs",1968,NA,-122.6807186,45.5173258,"Google Verified Location",NA,NA,NA,"1968-OR-0026"
+"Beefeater ","","1002 SW Broadway ","Portland","OR","(M),(PE)","Bars/Clubs",1969,NA,-122.6807186,45.5173258,"Google Verified Location",NA,NA,NA,"1969-OR-0027"
+"Benson Hotel Bar","(Cocktail hour only)","","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1977,"",-122.678811,45.521694,"Verified Location",NA,NA,NA,"1977-OR-0028"
+"Benson Hotel Bar ","(Cocktail hour only) ","309 S.W. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1976,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1976-OR-0029"
+"Benson Hotel Bar ","","309 S. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1965,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1965-OR-0030"
+"Benson Hotel Bar ","(Cocktail hr. only)","309 S.W. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1975,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1975-OR-0031"
+"Benson Hotel Bar ","(cocktail hour only)","309 S.W. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1973,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1973-OR-0032"
+"Benson Hotel Bar ","(cocktail hour)","309 S. Broadway","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1970,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1970-OR-0033"
+"Benson Hotel Bar ","(cocktail hr.)","309 S. Broadway","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1971,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1971-OR-0034"
+"Benson Hotel Bar ","","309 S. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1966,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1966-OR-0035"
+"Benson Hotel Bar ","","309 S. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1969,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1969-OR-0036"
+"Benson Hotel Bar ","(cocktail hour only)","309 S.W. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1974,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1974-OR-0037"
+"Benson's Hotel Bar ","(cocktail hour)","309 S.W. Broadway ","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1972,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1972-OR-0038"
+"Benson's Hotel Bar ","","309 S. Broadway","Portland","OR","(M),(PE)","Bars/Clubs,Hotel",1968,NA,-122.6788083,45.5217905,"Google Verified Location",NA,NA,NA,"1968-OR-0039"
+"Blue Mouse Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1975,"",-122.681854,45.52109,"Verified Location",NA,NA,NA,"1975-OR-0040"
+"Blue Mouse Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1978,"",-122.681854,45.52109,"Verified Location",NA,NA,NA,"1978-OR-0041"
+"Blue Mouse Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1976,"",-122.681854,45.52109,"Verified Location",NA,NA,NA,"1976-OR-0042"
+"Blue Mouse Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1974,"",-122.681854,45.52109,"Verified Location",NA,NA,NA,"1974-OR-0043"
+"Blue Mouse Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1977,"",-122.681854,45.52109,"Verified Location",NA,NA,NA,"1977-OR-0044"
+"Blue Mouse Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1973,"",-122.681854,45.52109,"Verified Location",NA,NA,NA,"1973-OR-0045"
+"Bob's Adult Book Store ","","1391 Broadway N.E.","Salem","OR","","Book Store",1978,NA,-123.0309526,44.9527335,"Google Verified Location",NA,NA,NA,"1978-OR-0046"
+"Bob's Adult Book Store ","","1389 Broadway N.E. ","Salem","OR","","Book Store",1979,NA,-123.0309783,44.9526441,"Google Verified Location",NA,NA,NA,"1979-OR-0047"
+"Bob's Adult Book Store ","","1389 Broadway N.E.","Salem","OR","","Book Store",1980,NA,-123.0309783,44.9526441,"Google Verified Location",NA,NA,NA,"1980-OR-0048"
+"Bohemian ","","910 S.W. Washington","Portland","OR","(R),(D),(*)","Restaurant",1971,NA,-122.6805505,45.5210868,"Google Verified Location",NA,NA,NA,"1971-OR-0049"
+"Book Bin ","","213 S.W. Taylor ","Portland","OR","","Book Store",1974,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1974-OR-0050"
+"Book Bin ","","213 S.W. Taylor ","Portland","OR","","Book Store",1975,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1975-OR-0051"
+"Buddy's Post ","","926 SE 4th St. ","Portland","OR","(M),(RT)","Bars/Clubs",1966,NA,-122.4211122,45.4946536,"Google Verified Location",NA,NA,NA,"1966-OR-0052"
+"Buddy's Post ","","926 SW 4th St. ","Portland","OR","(M),(RT)","Bars/Clubs",1965,NA,-122.6773168,45.5166908,"Google Verified Location",NA,NA,NA,"1965-OR-0053"
+"Buddy's Post ","","926 SW 4th St. ","Portland","OR","(M),(RT)","Bars/Clubs",1969,NA,-122.6773168,45.5166908,"Google Verified Location",NA,NA,NA,"1969-OR-0054"
+"Buddy's Post ","","926 SW 4th St. ","Portland","OR","(M),(RT)","Bars/Clubs",1968,NA,-122.6773168,45.5166908,"Google Verified Location",NA,NA,NA,"1968-OR-0055"
+"Bus Depot","","","Salem","OR","Cruisy Area","Cruising Areas",1980,"",-123.028211,44.932419,"Verified Location",NA,NA,NA,"1980-OR-0056"
+"Bus Depot","","","Salem","OR","Cruisy Area","Cruising Areas",1975,"",-123.028211,44.932419,"Verified Location",NA,NA,NA,"1975-OR-0057"
+"Bus Depot","","","Salem","OR","Cruisy Area","Cruising Areas",1977,"",-123.028211,44.932419,"Verified Location",NA,NA,NA,"1977-OR-0058"
+"Bus Depot","","","Salem","OR","Cruisy Area","Cruising Areas",1979,"",-123.028211,44.932419,"Verified Location",NA,NA,NA,"1979-OR-0059"
+"Bus Depot","","","Salem","OR","Cruisy Area","Cruising Areas",1978,"",-123.028211,44.932419,"Verified Location",NA,NA,NA,"1978-OR-0060"
+"Bus Depot","","","Salem","OR","Cruisy Area","Cruising Areas",1976,"",-123.028211,44.932419,"Verified Location",NA,NA,NA,"1976-OR-0061"
+"Cannon Beach","(summers)","","Portland","OR","Cruisy Area","Cruising Areas",1979,"",-123.961527,45.891774,"Verified Location",NA,NA,NA,"1979-OR-0062"
+"Cannon Beach","(summers)","","Portland","OR","Cruisy Area","Cruising Areas",1978,"",-123.961527,45.891774,"Verified Location",NA,NA,NA,"1978-OR-0063"
+"Cannon Beach","10 mi. S. (Summers only)","","Seaside","OR","Cruisy Area","Cruising Areas",1980,"",-123.961527,45.891774,"Verified Location",NA,NA,NA,"1980-OR-0064"
+"Captain's Cabin ","(T-Room & Lobby) Tioga Hotel ","257 N. Broadway ","Coos Bay","OR","(M),(OC)","Hotel,Bars/Clubs",1980,NA,-124.2133102,43.3690057,"Google Verified Location",NA,NA,NA,"1980-OR-0065"
+"Captain's Cabin ","(Cruisy T-Room downstairs) Tioga Hotel (Coos Bay)","275 No. Broadway","Coos Bay","OR","(M),(OC),Cruisy Area","Bars/Clubs,Hotel,Cruising Areas",1978,NA,-124.2134266,43.3690376,"Google Verified Location",NA,NA,NA,"1978-OR-0066"
+"Captain's Cabin ","(Cruisy T-Room downstairs) Tioga Hotel ","257 N. Broadway ","Coos Bay","OR","(M),(OC),Cruisy Area","Hotel,Cruising Areas",1979,NA,-124.2133102,43.3690057,"Google Verified Location",NA,NA,NA,"1979-OR-0067"
+"Cassady's ","(Disco) Eugene Hotel (upstairs)","222 E. Broadway ","Eugene","OR","(*),(YC),(D)","Bars/Clubs,Hotel",1980,NA,-123.0893147,44.0496351,"Google Verified Location",NA,NA,NA,"1980-OR-0068"
+"Castaways ","(Liquor)(Disco)","901 S.W. Salmon","Portland","OR","(D),(*)","Bars/Clubs",1975,NA,-122.6823801,45.518036,"Google Verified Location",NA,NA,NA,"1975-OR-0069"
+"Cellar ","(below Andy's)","2210 High St. ","Salem","OR","(M)","Bars/Clubs",1972,NA,-123.0415286,44.9197719,"Google Verified Location",NA,NA,NA,"1972-OR-0070"
+"Cellar ","(below Andy's) ","2210 High St. ","Salem","OR","(M)","Bars/Clubs",1970,NA,-123.0415286,44.9197719,"Google Verified Location",NA,NA,NA,"1970-OR-0071"
+"Cellar ","(below Andy's)","2210 High St. ","Portland","OR","(M)","Bars/Clubs",1971,NA,-122.6971413,45.5204306,"Google Verified Location",NA,NA,NA,"1971-OR-0072"
+"Cellar ","(Below Andy's) ","2210 High St. ","Salem","OR","","Bars/Clubs",1973,NA,-123.0415286,44.9197719,"Google Verified Location",NA,NA,NA,"1973-OR-0073"
+"Cellar ","(Below Andy's)","220 High NE","Salem","OR","(M)","Bars/Clubs",1969,NA,-123.0365537,44.9409199,"Google Verified Location",NA,NA,NA,"1969-OR-0074"
+"Cellar Bar ","Marion Hotel ","200 Commerical St. SE","Salem","OR","(M)","Bars/Clubs,Hotel",1968,NA,-123.0403491,44.938842,"Google Verified Location",NA,NA,NA,"1968-OR-0075"
+"Chocolate Moose","","2nd & Ankeny","Portland","OR","(M),(PE),(R)","Restaurant",1976,"",-122.672248,45.522536,"Verified Location",NA,NA,NA,"1976-OR-0076"
+"Chocolate Moose","","2nd & Ankeny","Portland","OR","(PE),(R)","Restaurant",1975,"",-122.672248,45.522536,"Verified Location",NA,NA,NA,"1975-OR-0077"
+"Chocolate Moose","","2nd & Ankeny","Portland","OR","(PE),(R)","Restaurant",1974,"",-122.672248,45.522536,"Verified Location",NA,NA,NA,"1974-OR-0078"
+"Chocolate Moose ","","211 S.W. Ankeny ","Portland","OR","(M),(R)","Restaurant",1977,NA,-122.6725658,45.5226276,"Google Verified Location",NA,NA,NA,"1977-OR-0079"
+"Chocolate Moose ","","1716 SW 11th St. ","Portland","OR","(C)","Bars/Clubs",1965,NA,-122.686517,45.5133346,"Google Verified Location",NA,NA,NA,"1965-OR-0080"
+"Climax Book Store ","","60 W. 13th St. ","Eugene","OR","","Book Store",1976,NA,-123.0936841,44.0452829,"Google Verified Location",NA,NA,NA,"1976-OR-0081"
+"Climax Book Store ","","60 W. 13th Street ","Eugene","OR","","Book Store",1977,NA,-123.0936841,44.0452829,"Google Verified Location",NA,NA,NA,"1977-OR-0082"
+"Climax Book Store ","","60 W. 13th St. ","Eugene","OR","","Book Store",1979,NA,-123.0936841,44.0452829,"Google Verified Location",NA,NA,NA,"1979-OR-0083"
+"Climax Book Store ","","60 W. 13th St. ","Eugene","OR","","Book Store",1980,NA,-123.0936841,44.0452829,"Google Verified Location",NA,NA,NA,"1980-OR-0084"
+"Climax Book Store ","","60 W. 13th St. ","Eugene","OR","","Book Store",1978,NA,-123.0936841,44.0452829,"Google Verified Location",NA,NA,NA,"1978-OR-0085"
+"Club Continental ","(Baths for men- opening April '77- replacing Workout Baths)","531 S.W. Park Ave. ","Portland","OR","(*),(YC)","Baths",1978,NA,-122.680208,45.5206783,"Google Verified Location",NA,NA,NA,"1978-OR-0086"
+"Club Continental ","(Baths for men- 'tops' in Oregon)","531 S.W. Park Ave. ","Portland","OR","(*),(P),(YC)","Baths",1979,NA,-122.680208,45.5206783,"Google Verified Location",NA,NA,NA,"1979-OR-0087"
+"Club Continental ","(Baths for men- 'tops' in Oregon')","531 S.W. Park Ave. ","Portland","OR","(*),(P),(YC)","Baths",1980,NA,-122.680208,45.5206783,"Google Verified Location",NA,NA,NA,"1980-OR-0088"
+"Club Northwest","","Everett at N.W. 4th","Portland","OR","(D),(G),(*)","Bars/Clubs",1970,"",-122.674474,45.525239,"Verified Location",NA,NA,NA,"1970-OR-0089"
+"Club Northwest","","Everette at N.W. 4th","Portland","OR","","Bars/Clubs",1971,"",-122.674474,45.525239,"Verified Location",NA,NA,NA,"1971-OR-0090"
+"Club Northwest","(best after 1am)","NW 4th at Everett","Portland","OR","(*)","Bars/Clubs",1969,"",-122.674474,45.525239,"Verified Location",NA,NA,NA,"1969-OR-0091"
+"Club Northwest ","","217 N.W. 4th Ave. ","Portland","OR","(G),(D)","Bars/Clubs",1972,NA,-122.6746889,45.5248301,"Google Verified Location",NA,NA,NA,"1972-OR-0092"
+"Club Northwest ","(liquor)","217 N.W. 4th Ave. ","Portland","OR","(G),(D),(*)","Bars/Clubs",1973,NA,-122.6746889,45.5248301,"Google Verified Location",NA,NA,NA,"1973-OR-0093"
+"Dahl & Penn","(Liquor)","Alder & 2nd Ave. S.W.","Portland","OR","(M),(RT),(W)","Bars/Clubs",1975,"",-122.674179,45.518676,"Verified Location",NA,NA,NA,"1975-OR-0094"
+"Dahl & Penne","(best time is after 1 a.m.)","Alder at 2nd","Portland","OR","(M)","Bars/Clubs",1971,"",-122.674179,45.518676,"Verified Location",NA,NA,NA,"1971-OR-0095"
+"Dahl & Penne","(liquor)","Alder & 2nd Ave. S.W.","Portland","OR","(M),(W),(RT)","Bars/Clubs",1974,"",-122.674179,45.518676,"Verified Location",NA,NA,NA,"1974-OR-0096"
+"Dahl & Penne","(Some G)( you name it, they have it)","Alder & 2nd Ave. S.W.","Portland","OR","(D),(S),(*),(G),(OC),(RT),(W)","Bars/Clubs",1976,"",-122.674179,45.518676,"Verified Location",NA,NA,NA,"1976-OR-0097"
+"Dahl & Penne","(best after 1am)","Alder at 2nd","Portland","OR","(M)","Bars/Clubs",1970,"",-122.674179,45.518676,"Verified Location",NA,NA,NA,"1970-OR-0098"
+"Dahl & Penne","(best after 1 am)","Alder at 2nd Ave.","Portland","OR","(W),(RT),(M)","Bars/Clubs",1972,"",-122.674179,45.518676,"Verified Location",NA,NA,NA,"1972-OR-0099"
+"Dahl & Penne","(liquor- best after 1am)","Alder & 2nd Ave. S.W.","Portland","OR","(M),(W),(RT)","Bars/Clubs",1973,"",-122.674179,45.518676,"Verified Location",NA,NA,NA,"1973-OR-0100"
+"Dahl & Penne ","(Liquor)(Some W, SM, G, OC, you name it, they have it)","604 S.W. 2nd at Alder ","Portland","OR","(*),(W),(SM),(G),(OC),(D)","Bars/Clubs",1978,NA,-122.674179,45.518676,"Verified Location",NA,NA,NA,"1978-OR-0101"
+"Dahl & Penne ","(Liquor)(Some W, SM, G, OC- you name it, they have it)","604 S.W. 2nd at Alder ","Portland","OR","(D),(*),(S),(WE),(W),(SM),(G),(OC)","Bars/Clubs",1977,NA,-122.674179,45.518676,"Verified Location",NA,NA,NA,"1977-OR-0102"
+"Dahl & Penne ","(Liquor)(Some W, SM, OC, you name it, they have it)(Cruisy)(Snacks)","604 S.W. 2nd at Alder","Portland","OR","(*),(W),(SM),(OC),Cruisy Area,(PT),(D)","Cruising Areas,Bars/Clubs",1980,NA,-122.674179,45.518676,"Verified Location",NA,NA,NA,"1980-OR-0103"
+"Dahl & Penne ","(Liquor)(Snacks)","604 S.W.  2nd at Alder ","Portland","OR","(*),(W),(SM),(OC),(G),(PT),(D)","Bars/Clubs",1979,NA,-122.674179,45.518676,"Verified Location",NA,NA,NA,"1979-OR-0104"
+"Dahl & Penne ","(Best after 1am)","2nd & Adler ","Portland","OR","(M)","Bars/Clubs",1969,NA,-122.674179,45.518676,"Verified Location",NA,NA,NA,"1969-OR-0105"
+"Dahl & Penne ","(best after 1am)","2nd and Alder ","Portland","OR","(M),(*)","Bars/Clubs",1968,NA,-122.674179,45.518676,"Verified Location",NA,NA,NA,"1968-OR-0106"
+"Darcelle XV Tavern ","(Some L, 'Drags')(Touristy)","208 N.W. 3rd St. ","Portland","OR","(S),(WE),(L),(M)","Bars/Clubs",1980,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1980-OR-0107"
+"Darcelle XV Tavern ","(Some G)","208 N.W. 3rd ","Portland","OR","(S),(G),(*)","Bars/Clubs",1976,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1976-OR-0108"
+"Darcelle XV Tavern ","(Some G)","208 N.W. 3rd St. ","Portland","OR","(G),(S),(WE),(*)","Bars/Clubs",1978,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1978-OR-0109"
+"Darcelle XV Tavern ","(Some G) ","208 N.W. 3rd ","Portland","OR","(G),(S),(WE),(*)","Bars/Clubs",1977,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1977-OR-0110"
+"Darcelle XV Tavern ","(Some G, 'Drags')","208 N.W. 3rd St. ","Portland","OR","(S),(WE),(G)","Bars/Clubs",1979,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1979-OR-0111"
+"Dave's Bookstore ","","826 S.W. 3rd St. ","Portland","OR","","Book Store",1979,NA,-122.6757061,45.5173255,"Google Verified Location",NA,NA,NA,"1979-OR-0112"
+"Dave's Bookstore ","","826 S.W. 3rd ","Portland","OR","","Book Store",1978,NA,-122.6757061,45.5173255,"Google Verified Location",NA,NA,NA,"1978-OR-0113"
+"Deb's Club ","(North Bend)","665 Virginia ","Coos Bay","OR","(M),(D)","Bars/Clubs",1978,NA,-124.2236372,43.4064908,"Google Verified Location",NA,NA,NA,"1978-OR-0114"
+"Deb's Club ","(North Bend)","655 Virginia ","Coos Bay","OR","(M),(D)","Bars/Clubs",1979,NA,-124.2235634,43.4065872,"Google Verified Location",NA,NA,NA,"1979-OR-0115"
+"Dema's Tavern ","","208 N.W. 3rd Ave. ","Portland","OR","(M),(G)","Bars/Clubs",1974,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1974-OR-0116"
+"Dema's Tavern ","","208 N.W. 3rd Ave. ","Portland","OR","(M),(G)","Bars/Clubs",1975,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1975-OR-0117"
+"Demas Tavern","","208 N.W. 3rd Ave. ","Portland","OR","(M),(G)","Bars/Clubs",1973,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1973-OR-0118"
+"Demas Tavern ","","208 N.W. 3rd Ave. ","Portland","OR","(G)","Bars/Clubs",1972,NA,-122.6729315,45.5247845,"Google Verified Location",NA,NA,NA,"1972-OR-0119"
+"Denny's","","4th & Lincoln","Portland","OR","(M),(R),(C),(AH)","Restaurant",1979,"",-122.681948,45.508118,"Verified Location",NA,NA,NA,"1979-OR-0120"
+"Denny's","","4th & Lincoln","Portland","OR","(M),(R),(C),(AH)","Restaurant",1980,"",-122.681948,45.508118,"Verified Location",NA,NA,NA,"1980-OR-0121"
+"Denny's ","","4th & Lincoln ","Portland","OR","(M),(R),(C),(AH)","Restaurant",1977,NA,-122.681948,45.508118,"Verified Location",NA,NA,NA,"1977-OR-0122"
+"Denny's ","","4th & Lincoln","Portland","OR","(M),(R),(C),(AH)","Restaurant",1978,NA,-122.681948,45.508118,"Verified Location",NA,NA,NA,"1978-OR-0123"
+"Derek's ","","820 S.W. Oak ","Portland","OR","(YC),(HIP),(*)","Bars/Clubs",1971,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1971-OR-0124"
+"Derek's ","","820 SW Oak ","Portland","OR","(*)","Bars/Clubs",1968,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1968-OR-0125"
+"Derek's ","","820 SW Oak ","Portland","OR","(*),(YC)","Bars/Clubs",1969,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1969-OR-0126"
+"Derek's ","","820 S.W. Oak ","Portland","OR","(YC),(*)","Bars/Clubs",1970,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1970-OR-0127"
+"Derek's ","","820 SW Oak St. ","Portland","OR","(*)","Bars/Clubs",1966,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1966-OR-0128"
+"Dinty Moore ","","924 S.W. 3rd Ave. ","Portland","OR","(M),(RT)","Bars/Clubs",1972,NA,-122.6760635,45.5163658,"Google Verified Location",NA,NA,NA,"1972-OR-0129"
+"Dinty Moore's ","","924 S.W. 3rd ","Portland","OR","(M),(RT)","Bars/Clubs",1970,NA,-122.6760635,45.5163658,"Google Verified Location",NA,NA,NA,"1970-OR-0130"
+"Dinty Moore's ","","924 S.W. 3rd ","Portland","OR","(M),(RT)","Bars/Clubs",1971,NA,-122.6760635,45.5163658,"Google Verified Location",NA,NA,NA,"1971-OR-0131"
+"Dinty Moore's ","","924 S.W. 3rd St. ","Portland","OR","(RT),(PT)","Bars/Clubs",1979,NA,-122.6760635,45.5163658,"Google Verified Location",NA,NA,NA,"1979-OR-0132"
+"Dinty Moore's ","","924 S.W. 3rd Ave. ","Portland","OR","(M),(RT)","Bars/Clubs",1974,NA,-122.6760635,45.5163658,"Google Verified Location",NA,NA,NA,"1974-OR-0133"
+"Dinty Moore's ","","924 S.W. Park ","Portland","OR","(M),(RT)","Bars/Clubs",1975,NA,-122.6812339,45.5179203,"Google Verified Location",NA,NA,NA,"1975-OR-0134"
+"Dinty Moore's ","","924 S.W. 3rd Ave. ","Portland","OR","(M),(RT)","Bars/Clubs",1973,NA,-122.6760635,45.5163658,"Google Verified Location",NA,NA,NA,"1973-OR-0135"
+"Dinty Moores","","924 S.W. 3rd Ave. ","Portland","OR","(M),(RT)","Bars/Clubs",1976,NA,-122.6760635,45.5163658,"Google Verified Location",NA,NA,NA,"1976-OR-0136"
+"Eastwood Community Church","","3950 S.E. Lincoln St. ","Portland","OR","","Church",1979,NA,-122.6215991,45.5079056,"Google Verified Location",NA,NA,NA,"1979-OR-0137"
+"Eastwood Community Church ","","1950 S.E. Lincoln Street","Portland","OR","","Church",1977,NA,-122.4975157,45.5084735,"Google Verified Location",NA,NA,NA,"1977-OR-0138"
+"Eastwood Community Church ","","3950 S.E. Lincoln St. ","Portland","OR","","Church",1978,NA,-122.6215991,45.5079056,"Google Verified Location",NA,NA,NA,"1978-OR-0139"
+"Embers Lounge","(Liquor- formerly the Side Door)","739 S.W. Park","Portland","OR","(D),(*)","Bars/Clubs",1975,"",-122.680991,45.519469,"Verified Location",NA,NA,NA,"1975-OR-0140"
+"Embers Lounge ","(Liquor)(Some S)","739 S.W. Park ","Portland","OR","(*),(D),(R),(S),(YC)","Restaurant",1976,NA,-122.680991,45.5194686,"Google Verified Location",NA,NA,NA,"1976-OR-0141"
+"Embers Lounge ","(Liquor)(also C-AH, and Sun. brunch)","739 S.W. Park ","Portland","OR","(R),(E),(*),(C),(AH)","Restaurant",1979,NA,-122.680991,45.5194686,"Google Verified Location",NA,NA,NA,"1979-OR-0142"
+"Embers Lounge ","(Liquor)(Sun. Brunch)","739 S.W. Park ","Portland","OR","(R),(E),(*),(C),(AH)","Restaurant",1980,NA,-122.680991,45.5194686,"Google Verified Location",NA,NA,NA,"1980-OR-0143"
+"Embers Lounge ","(Liquor)","739 S.W. Park ","Portland","OR","(E),(R),(C),(AH),(*)","Restaurant",1977,NA,-122.680991,45.5194686,"Google Verified Location",NA,NA,NA,"1977-OR-0144"
+"Embers Lounge ","(Liquor)","739 S.W. Park ","Portland","OR","(E),(R),(*),(C),(AH)","Restaurant",1978,NA,-122.680991,45.5194686,"Google Verified Location",NA,NA,NA,"1978-OR-0145"
+"Eros Theatre","","","Portland","OR","Cruisy Area","Cruising Areas",1979,"",-122.6767274,45.5168905,"Google Verified Location",NA,NA,NA,"1979-OR-0146"
+"Eros Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1978,"",-122.6767274,45.5168905,"Google Verified Location",NA,NA,NA,"1978-OR-0147"
+"Eros Theatre","","","Portland","OR","Cruisy Area","Cruising Areas,Theatre",1977,"",-122.6767274,45.5168905,"Google Verified Location",NA,NA,NA,"1977-OR-0148"
+"Eros Theatre ","","314 S.W. Taylor ","Portland","OR","","Theatre",1975,NA,-122.6767274,45.5168905,"Google Verified Location",NA,NA,NA,"1975-OR-0149"
+"Eros Theatre ","","314 S.W. Taylor ","Portland","OR","","Theatre",1976,NA,-122.6767274,45.5168905,"Google Verified Location",NA,NA,NA,"1976-OR-0150"
+"Eros Theatre ","","314 S.W. Taylor ","Portland","OR","","Theatre",1974,NA,-122.6767274,45.5168905,"Google Verified Location",NA,NA,NA,"1974-OR-0151"
+"Family Zoo ","","820 S.W. Oak ","Portland","OR","(HIP),(YC),(*)","Bars/Clubs",1973,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1973-OR-0152"
+"Family Zoo ","(Recently expanded)","820 S.W. Oak ","Portland","OR","(HIP),(W),(YC),(*)","Bars/Clubs",1979,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1979-OR-0153"
+"Family Zoo ","","820 S.W. Oak ","Portland","OR","(HIP),(YC),(*)","Bars/Clubs",1976,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1976-OR-0154"
+"Family Zoo ","","820 S.W. Oak ","Portland","OR","(HIP),(W),(YC),(*)","Bars/Clubs",1977,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1977-OR-0155"
+"Family Zoo ","","820 S.W. Oak","Portland","OR","(HIP),(W),(YC),(*)","Bars/Clubs",1980,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1980-OR-0156"
+"Family Zoo ","","820 S.W. Oak ","Portland","OR","(YC),(HIP),(*)","Bars/Clubs",1975,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1975-OR-0157"
+"Family Zoo ","","820 S.W. Oak ","Portland","OR","(HIP),(YC),(*)","Bars/Clubs",1974,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1974-OR-0158"
+"Family Zoo ","","820 S.W. Oak ","Portland","OR","(HIP),(W),(YC),(*)","Bars/Clubs",1978,NA,-122.6797505,45.5224094,"Google Verified Location",NA,NA,NA,"1978-OR-0159"
+"Fiddler's Three","","728 SW 9th ","Portland","OR","(*)","Bars/Clubs",1969,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1969-OR-0160"
+"Fiddler's Three","","728 S.W. 9th ","Portland","OR","(*)","Bars/Clubs",1970,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1970-OR-0161"
+"Flight 181 ","('New Ritz Disco' in rear) ","1116 S.W. Washington ","Portland","OR","","Bars/Clubs",1978,NA,-122.682841,45.521504,"Google Verified Location",NA,NA,NA,"1978-OR-0162"
+"Focal Point ","","728 S.W. 9th Ave. ","Portland","OR","(YC),(*)","Bars/Clubs",1974,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1974-OR-0163"
+"Focal Point ","","728 S.W. 9th Ave. ","Portland","OR","(YC),(*)","Bars/Clubs",1975,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1975-OR-0164"
+"Focal Point Tavern ","","729 S.W. 9th Ave. ","Portland","OR","(*),(YC),(PT),(C),(AH),(WE)","Bars/Clubs",1980,NA,-122.681678,45.5196915,"Google Verified Location",NA,NA,NA,"1980-OR-0165"
+"Focal Point Tavern ","","729 S.W. 9th Ave. ","Portland","OR","(*),(YC),(PT),(C),(AH),(WE)","Bars/Clubs",1979,NA,-122.681678,45.5196915,"Google Verified Location",NA,NA,NA,"1979-OR-0166"
+"Focal Point Tavern ","","728 S.W. 9th Avenue ","Portland","OR","(YC),(PT),(C),(AH),(WE),(*)","Bars/Clubs",1977,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1977-OR-0167"
+"Focal Point Tavern ","","729 S.W. 9th Ave. ","Portland","OR","(*),(YC),(PT),(C),(AH),(WE)","Bars/Clubs",1978,NA,-122.681678,45.5196915,"Google Verified Location",NA,NA,NA,"1978-OR-0168"
+"Focal Point Tavern ","","728 S.W. 9th Ave. ","Portland","OR","(YC),(*)","Bars/Clubs",1976,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1976-OR-0169"
+"Half Moon Tavern ","","122 S.W. Yamhill ","Portland","OR","","Bars/Clubs",1974,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1974-OR-0170"
+"Hamburger Mary's ","","840 S.W. Park St. ","Portland","OR","(M),(HIP),(R),(C)","Restaurant",1979,NA,-122.6807316,45.5187649,"Google Verified Location",NA,NA,NA,"1979-OR-0171"
+"Hamburger Mary's ","","840 S.W. Park Street ","Portland","OR","(M),(R),(C),(YC)","Restaurant",1977,NA,-122.6807316,45.5187649,"Google Verified Location",NA,NA,NA,"1977-OR-0172"
+"Hamburger Mary's ","","840 S.W. Park St. ","Portland","OR","(M),(HIP),(R),(C)","Restaurant",1978,NA,-122.6807316,45.5187649,"Google Verified Location",NA,NA,NA,"1978-OR-0173"
+"Hamburger Mary's ","","840 S.W. Park ","Portland","OR","(M),(HIP),(R),(C)","Restaurant",1980,NA,-122.6807316,45.5187649,"Google Verified Location",NA,NA,NA,"1980-OR-0174"
+"Happy Hare ","","1730 SW Taylor ","Portland","OR","(*)","Bars/Clubs",1966,NA,-122.6905513,45.5205619,"Google Verified Location",NA,NA,NA,"1966-OR-0175"
+"Happy Hare ","","1730 SW Taylor ","Portland","OR","","Bars/Clubs",1965,NA,-122.6905513,45.5205619,"Google Verified Location",NA,NA,NA,"1965-OR-0176"
+"Hardtime Adult Book Store","","926 S.W. 3rd Ave. ","Portland","OR","","Book Store",1975,NA,-122.6760788,45.5163379,"Google Verified Location",NA,NA,NA,"1975-OR-0177"
+"Hardtime Adult Book Store ","","926 S.W. 3rd Ave. ","Portland","OR","","Book Store",1974,NA,-122.6760788,45.5163379,"Google Verified Location",NA,NA,NA,"1974-OR-0178"
+"Hardtime Adult Book Store ","","926 S.W. 3rd Ave. ","Portland","OR","","Book Store",1976,NA,-122.6760788,45.5163379,"Google Verified Location",NA,NA,NA,"1976-OR-0179"
+"Hardtime Adult Books ","","926 S.W. 3rd Ave. ","Portland","OR","(*)","Book Store",1979,NA,-122.6760788,45.5163379,"Google Verified Location",NA,NA,NA,"1979-OR-0180"
+"Hardtimes Adult Books","","926 S.W. 3rd Ave. ","Portland","OR","(*)","Book Store",1980,NA,-122.6760788,45.5163379,"Google Verified Location",NA,NA,NA,"1980-OR-0181"
+"Hardtimes Adult Books","","926 S.W. 3rd Avenue ","Portland","OR","","Book Store",1977,NA,-122.6760788,45.5163379,"Google Verified Location",NA,NA,NA,"1977-OR-0182"
+"Hardtimes Adult Books ","","926 S.W. 3rd Ave. ","Portland","OR","","Book Store",1978,NA,-122.6760788,45.5163379,"Google Verified Location",NA,NA,NA,"1978-OR-0183"
+"Hare ","","1730 SW Taylor ","Portland","OR","","Bars/Clubs",1968,NA,-122.6905513,45.5205619,"Google Verified Location",NA,NA,NA,"1968-OR-0184"
+"He & She Adult Books ","","288 River Rd. ","Eugene","OR","(M)","Book Store",1979,NA,-123.1179424,44.0647758,"Google Verified Location",NA,NA,NA,"1979-OR-0185"
+"He & She Bookstore ","","288 River Rd. ","Eugene","OR","(M)","Book Store",1980,NA,-123.1179424,44.0647758,"Google Verified Location",NA,NA,NA,"1980-OR-0186"
+"Holiday House","Charleston Small Boat Harbor","","Coos Bay","OR","(M)","Bars/Clubs",1970,"",-124.21789,43.366501,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1970-OR-0187"
+"Holiday House","Charleston Small Boat Harbor","","Coos Bay","OR","(M)","Bars/Clubs",1969,"",-124.21789,43.366501,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1969-OR-0188"
+"Holiday House","Charleston Small Boat Harbor","","Coos Bay","OR","(M)","Bars/Clubs",1966,"",-124.21789,43.366501,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1966-OR-0189"
+"Holiday House ","Charleston Small Boat Harbor ","","Coos Bay","OR","(M)","Bars/Clubs",1968,NA,-124.2178903,43.3665007,"Google Verified Location",NA,NA,NA,"1968-OR-0190"
+"Hot Patata","","5842 S.E. Foster Rd. ","Portland","OR","(M),(R)","Restaurant",1980,NA,-122.602979,45.4925408,"Google Verified Location",NA,NA,NA,"1980-OR-0191"
+"Hot Patata","","13th & Morrison ","Portland","OR","(M),(R)","Restaurant",1980,NA,-122.652608,45.5172,"Google Verified Location",NA,NA,NA,"1980-OR-0192"
+"Hoyt Hotel ","(also coffee shop)","614 N.W. Hoyt ","Portland","OR","(M),(H)","Hotel",1973,NA,-122.6767475,45.5273195,"Google Verified Location",NA,NA,NA,"1973-OR-0193"
+"Hoyt Hotel Coffee Shop ","(after hours)","614 N.W. Hoyt ","Portland","OR","(M),(C)","Hotel",1972,NA,-122.6767475,45.5273195,"Google Verified Location",NA,NA,NA,"1972-OR-0194"
+"Hunter Room ","Trailways Bus Depot ","959 Pearl ","Eugene","OR","(*)","Bars/Clubs",1971,NA,-123.0895316,44.0492797,"Google Verified Location",NA,NA,NA,"1971-OR-0195"
+"Hunter Room ","(best late) Trailways Bus Depot ","959 Pearl ","Eugene","OR","","Bars/Clubs",1970,NA,-123.0895316,44.0492797,"Google Verified Location",NA,NA,NA,"1970-OR-0196"
+"Hunter Room ","Trailways Bus Depot ","959 Pearl ","Eugene","OR","(*)","Bars/Clubs",1973,NA,-123.0895316,44.0492797,"Google Verified Location",NA,NA,NA,"1973-OR-0197"
+"Hunter Room ","(best late) Trailways Bus Depot ","959 Pearl ","Eugene","OR","","Bars/Clubs",1969,NA,-123.0895316,44.0492797,"Google Verified Location",NA,NA,NA,"1969-OR-0198"
+"Hunter Room ","Trailways Bus Depot ","959 Pearl ","Eugene","OR","(*)","Bars/Clubs",1972,NA,-123.0895316,44.0492797,"Google Verified Location",NA,NA,NA,"1972-OR-0199"
+"Hunter Room in Trailways Bus Depot","","959 Pearl St. ","Eugene","OR","","Bars/Clubs",1968,NA,-123.0895316,44.0492797,"Google Verified Location",NA,NA,NA,"1968-OR-0200"
+"J & J Tavern ","(Some W)","1719 W. Burnside ","Portland","OR","(W)","Bars/Clubs",1980,NA,-122.6886867,45.5231052,"Google Verified Location",NA,NA,NA,"1980-OR-0201"
+"Kachina Lounge ","(Disco)(Liquor) ","1217 S.W. Stark St. ","Portland","OR","(R),(PT),(D)","Restaurant",1980,NA,-122.6744733,45.5205399,"Google Verified Location",NA,NA,NA,"1980-OR-0202"
+"Kachina Lounge ","(Should be a winner) ","1217 S.W. Stark St. ","Portland","OR","(R),(D),(PT)","Restaurant",1979,NA,-122.6744733,45.5205399,"Google Verified Location",NA,NA,NA,"1979-OR-0203"
+"Klamath Falls Gay Union ","","428 S. 9th St. ","Klamath Falls","OR","","Business",1980,NA,-121.7773211,42.2247574,"Google Verified Location",NA,NA,NA,"1980-OR-0204"
+"Konnie's Korner ","(Looks promising)(Liquor)","1650 W. Burnside ","Portland","OR","(D)","Bars/Clubs",1979,NA,-122.6884236,45.5227861,"Google Verified Location",NA,NA,NA,"1979-OR-0205"
+"Lighthouse Bar","(inquire locally)","","Klamath Falls","OR","(M)","Bars/Clubs",1980,"",-121.78167,42.224867,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-OR-0206"
+"Lithia Park T-Room & Lobby","(late nights)","","Ashland","OR","Cruisy Area","Cruising Areas",1980,"",-122.718201,42.192284,"Verified Location",NA,NA,NA,"1980-OR-0207"
+"M.C.C.","","N.E. 24th & Broadway","Portland","OR","","Church",1980,"",-122.641181,45.535104,"Verified Location",NA,NA,NA,"1980-OR-0208"
+"Magic Garden ","(Liquor)","217 N.W. 4th Ave. ","Portland","OR","(G),(R),(D),(*)","Restaurant",1974,NA,-122.6746889,45.5248301,"Google Verified Location",NA,NA,NA,"1974-OR-0209"
+"Magic Garden ","(Liquor)","217 N.W. 4th Avenue ","Portland","OR","(G),(R),(D)","Restaurant",1977,NA,-122.6746889,45.5248301,"Google Verified Location",NA,NA,NA,"1977-OR-0210"
+"Magic Garden ","(Liquor)","217 N.W. 4th Ave. ","Portland","OR","(G),(R),(D)","Restaurant",1978,NA,-122.6746889,45.5248301,"Google Verified Location",NA,NA,NA,"1978-OR-0211"
+"Magic Garden ","(liquor)","217 N.W. 4th Ave. ","Portland","OR","(*),(G),(R),(D)","Bars/Clubs,Restaurant",1976,NA,-122.6746889,45.5248301,"Google Verified Location",NA,NA,NA,"1976-OR-0212"
+"Magic Garden ","(Liquor)","217 N.W. 4th Ave. ","Portland","OR","(G),(R),(D),(*)","Restaurant",1975,NA,-122.6746889,45.5248301,"Google Verified Location",NA,NA,NA,"1975-OR-0213"
+"Majestic Hotel & Baths","","303 S.W. 12th Ave. ","Portland","OR","","Hotel,Baths",1973,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1973-OR-0214"
+"Majestic Hotel & Baths ","","303 S.W. 12th Ave. ","Portland","OR","(*)","Baths,Hotel",1974,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1974-OR-0215"
+"Majestic Hotel & Baths ","","303 S.W. 12th St. ","Portland","OR","(*)","Baths,Hotel",1976,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1976-OR-0216"
+"Majestic Hotel & baths ","","303 S.W. 12th Ave. ","Portland","OR","(*)","Baths,Hotel",1975,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1975-OR-0217"
+"Majestic Hotel & Club Baths","","303 S.W. 12th Ave. ","Portland","OR","(*)","Baths,Hotel",1978,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1978-OR-0218"
+"Majestic Hotel & Club Baths","(Needs a good scrub job)","303 S.W. 12th Ave. ","Portland","OR","","Baths,Hotel",1979,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1979-OR-0219"
+"Majestic Hotel & Club Baths ","","303 S.W. 12th Avenue ","Portland","OR","(*)","Baths,Hotel",1977,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1977-OR-0220"
+"Majestic Hotel Club Baths ","","303 S.W. 12th Ave. ","Portland","OR","","Baths,Hotel",1980,NA,-122.6834058,45.5228026,"Google Verified Location",NA,NA,NA,"1980-OR-0221"
+"Mama Bernice's ","","1228 SW 3rd. ","Portland","OR","","Bars/Clubs",1966,NA,-122.6770036,45.5144693,"Google Verified Location",NA,NA,NA,"1966-OR-0222"
+"Mama Bernice's ","","1228 SW 3rd. ","Portland","OR","","Bars/Clubs",1965,NA,-122.6770036,45.5144693,"Google Verified Location",NA,NA,NA,"1965-OR-0223"
+"Mamie's Coffee Shop ","(6 a.m. to 12 midnight)","302 S.W. 9th St. ","Portland","OR","(R),(AH),(WE)","Restaurant",1979,NA,-122.6800602,45.5224868,"Google Verified Location",NA,NA,NA,"1979-OR-0224"
+"Marion Hotel Bar ","","200 Commercial S.E. ","Salem","OR","(M)","Bars/Clubs,Hotel",1973,NA,-123.0403491,44.938842,"Google Verified Location",NA,NA,NA,"1973-OR-0225"
+"Marion Hotel Bar ","","200 Commerical S.E.","Salem","OR","(M)","Bars/Clubs,Hotel",1972,NA,-123.0403491,44.938842,"Google Verified Location",NA,NA,NA,"1972-OR-0226"
+"Marion Hotel Bar ","","200 Commerical SE","Salem","OR","(M)","Bars/Clubs,Hotel",1969,NA,-123.0403491,44.938842,"Google Verified Location",NA,NA,NA,"1969-OR-0227"
+"Marion Hotel Bar ","","200 Commerical S.E.","Salem","OR","(M)","Bars/Clubs",1970,NA,-123.0403491,44.938842,"Google Verified Location",NA,NA,NA,"1970-OR-0228"
+"Marion Hotel Bar ","","200 Commerical S.E.","Portland","OR","(M)","Bars/Clubs,Hotel",1971,NA,-122.7755802,45.4329977,"Google Verified Location",NA,NA,NA,"1971-OR-0229"
+"Medford Hotel & Barbary Coast Bar","(looks promising) ","406 W. Main ","Medford","OR","(M),(H),(W)","Hotel,Bars/Clubs",1980,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1980-OR-0230"
+"Medford Hotel Bar","","406 W. Main ","Medford","OR","(M)","Bars/Clubs,Hotel",1978,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1978-OR-0231"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Bars/Clubs,Hotel",1972,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1972-OR-0232"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Bars/Clubs,Hotel",1976,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1976-OR-0233"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Bars/Clubs",1971,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1971-OR-0234"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Bars/Clubs,Hotel",1970,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1970-OR-0235"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Bars/Clubs,Hotel",1979,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1979-OR-0236"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Bars/Clubs,Hotel",1977,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1977-OR-0237"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Hotel,Bars/Clubs",1975,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1975-OR-0238"
+"Medford Hotel Bar ","","406 W. Main ","Medford","OR","(M)","Bars/Clubs,Hotel",1973,NA,-122.8772086,42.324265,"Google Verified Location",NA,NA,NA,"1973-OR-0239"
+"Mildred's Palace ","(No booze)(Disco)","918 S.W. Yamhill","Portland","OR","(YC),(D),(AH),(WE),(*)","Bars/Clubs",1980,NA,-122.6818575,45.5189426,"Google Verified Location",NA,NA,NA,"1980-OR-0240"
+"Milord's ","(No booze)(Disco)","918 S.W. Yamhill ","Portland","OR","(YC),(D),(AH),(WE),(*)","Bars/Clubs",1979,NA,-122.6818575,45.5189426,"Google Verified Location",NA,NA,NA,"1979-OR-0241"
+"Model Inn","","1536 SW 1st St. ","Portland","OR","(G)","Bars/Clubs",1969,NA,-122.6768579,45.5117705,"Google Verified Location",NA,NA,NA,"1969-OR-0242"
+"Model Inn ","","1536 SW 1st St. ","Portland","OR","(M),(RT)","Bars/Clubs",1966,NA,-122.6768579,45.5117705,"Google Verified Location",NA,NA,NA,"1966-OR-0243"
+"Model Inn ","","1536 SW 1st St. ","Portland","OR","(G)","Bars/Clubs",1968,NA,-122.6768579,45.5117705,"Google Verified Location",NA,NA,NA,"1968-OR-0244"
+"Model Inn ","","1536 SW 1st. ","Portland","OR","(RT)","Bars/Clubs",1965,NA,-122.6768579,45.5117705,"Google Verified Location",NA,NA,NA,"1965-OR-0245"
+"New Ritz Disco","('Teenie-Boppers')(Unisex)(Enter thur rear alley)","605 S.E. 15th ","Portland","OR","(HIP),(D)","Bars/Clubs",1979,NA,-122.6508267,45.5184857,"Google Verified Location",NA,NA,NA,"1979-OR-0246"
+"New Ritz Disco","(Disco)(enter thru rear alley)","1116 S.W. Washington ","Portland","OR","(YC),(D),(*)","Bars/Clubs",1978,NA,-122.682841,45.521504,"Google Verified Location",NA,NA,NA,"1978-OR-0247"
+"Nineteenth Hole ","","1002 SW Broadway ","Portland","OR","","Bars/Clubs",1965,NA,-122.6807186,45.5173258,"Google Verified Location",NA,NA,NA,"1965-OR-0248"
+"O.S.U","Home Economics Bldg. (3rd floor T-Room) & Student Union (basement T-Room)","","Corvallis","OR","Cruisy Area","Cruising Areas",1979,"",-123.279444,44.563781,"Verified Location",NA,NA,NA,"1979-OR-0249"
+"O.S.U.","Home Economics Bldg. 3rd floor T-Room","","Corvallis","OR","Cruisy Area","Cruising Areas",1978,"",-123.279444,44.563781,"Verified Location",NA,NA,NA,"1978-OR-0250"
+"O.S.U.","Home Economics Bldg. (3rd floor T-Room) & Student Union (basement T-Room)","","Corvallis","OR","Cruisy Area","Cruising Areas",1980,"",-123.279444,44.563781,"Verified Location",NA,NA,NA,"1980-OR-0251"
+"Old St. George Hotel ","","118 S.W. Burnside ","Portland","OR","(H)","Hotel",1979,NA,-122.665598,45.5229637,"Google Verified Location",NA,NA,NA,"1979-OR-0252"
+"Old St. George Hotel ","","118 S.W. Burnside ","Portland","OR","(H)","Hotel",1978,NA,-122.665598,45.5229637,"Google Verified Location",NA,NA,NA,"1978-OR-0253"
+"Old St. George Hotel ","","118 W. Burnside St. ","Portland","OR","(H)","Hotel",1977,NA,-122.6719468,45.5229238,"Google Verified Location",NA,NA,NA,"1977-OR-0254"
+"Olympic Baths ","(11 a.m. to 11 p.m., 24 hrs WE)","531 S.W. 12th Ave. ","Portland","OR","(WE)","Baths",1979,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1979-OR-0255"
+"Olympic Sauna Baths ","(Looks more promising) ","359 S.W. Morrison ","Portland","OR","","Baths",1977,NA,-122.6761677,45.5186254,"Google Verified Location",NA,NA,NA,"1977-OR-0256"
+"Olympic Sauna Baths ","","359 S.W. Morrison ","Portland","OR","","Baths",1975,NA,-122.6761677,45.5186254,"Google Verified Location",NA,NA,NA,"1975-OR-0257"
+"Olympic Sauna Baths ","","359 S.W. Morrison ","Portland","OR","","Baths",1976,NA,-122.6761677,45.5186254,"Google Verified Location",NA,NA,NA,"1976-OR-0258"
+"Olympic Sauna Baths ","","359 S.W. Morrison ","Portland","OR","","Baths",1973,NA,-122.6761677,45.5186254,"Google Verified Location",NA,NA,NA,"1973-OR-0259"
+"Olympic Sauna Baths ","","359 S.W. Morrison ","Portland","OR","","Baths",1974,NA,-122.6761677,45.5186254,"Google Verified Location",NA,NA,NA,"1974-OR-0260"
+"Olympic Steam Baths","Uptown (Open 24 hrs.)(Massages)","531 S.W. 12th Ave. ","Portland","OR","","Baths",1980,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1980-OR-0261"
+"Oregan C.C.","Lake on campus","","Coos Bay","OR","Cruisy Area","Cruising Areas",1979,"",-124.254266,43.395175,"Verified Location",NA,NA,NA,"1979-OR-0262"
+"Oregon C.C.","Empire Lake","","Coos Bay","OR","Cruisy Area","Cruising Areas",1980,"",-124.254266,43.395175,"Verified Location",NA,NA,NA,"1980-OR-0263"
+"Oregon C.C.","Lake on Campus","","Coos Bay","OR","Cruisy Area","Cruising Areas",1978,"",-124.254266,43.395175,"Verified Location",NA,NA,NA,"1978-OR-0264"
+"Other Inn","","242 S.W. Alder ","Portland","OR","(W),(RT),(*)","Bars/Clubs",1975,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1975-OR-0265"
+"Other Inn","","242 SW Alder ","Portland","OR","(M)","Bars/Clubs",1969,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1969-OR-0266"
+"Other Inn","","242 SW Adler ","Portland","OR","(M),(*)","Bars/Clubs",1968,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1968-OR-0267"
+"Other Inn","","242 S.W. Alder ","Portland","OR","(*),(OC),(W),(RT)","Bars/Clubs",1976,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1976-OR-0268"
+"Other Inn","","242 S.W. Adler ","Portland","OR","(W),(RT),(*)","Bars/Clubs",1974,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1974-OR-0269"
+"Other Inn ","","242 S.W. Alder ","Portland","OR","(OC),(W),(SM),(PT)","Bars/Clubs",1980,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1980-OR-0270"
+"Other Inn ","","242 S.W. Alder ","Portland","OR","(W)","Bars/Clubs",1972,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1972-OR-0271"
+"Other Inn ","","242 S.W. Alder ","Portland","OR","(W),(SM),(OC),(PT)","Bars/Clubs",1978,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1978-OR-0272"
+"Other Inn ","(Some OC, W, SM)","242 S.W. Alder ","Portland","OR","(OC),(W),(SM),(PT)","Bars/Clubs",1979,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1979-OR-0273"
+"Other Inn ","","242 S.W. Alder ","Portland","OR","","Bars/Clubs",1971,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1971-OR-0274"
+"Other Inn ","","242 S.W. Alder ","Portland","OR","(W)","Bars/Clubs",1973,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1973-OR-0275"
+"Other Inn ","","242 S.W. Alder ","Portland","OR","(OC),(W),(SM),(PT)","Bars/Clubs",1977,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1977-OR-0276"
+"Other Inn ","","242 S.W. Alder","Portland","OR","","Bars/Clubs",1970,NA,-122.6747764,45.5184386,"Google Verified Location",NA,NA,NA,"1970-OR-0277"
+"Over-The-Waves","(Late nights- summers only)","2945 N.W. Jetty ","Lincoln City","OR","(M),(R)","Restaurant",1979,NA,-124.0135461,44.9868222,"Google Verified Location",NA,NA,NA,"1979-OR-0278"
+"Over-The-Waves ","(late nights- summers only)","2945 N.W. Jetty ","Lincoln City","OR","(M),(R)","Restaurant",1978,NA,-124.0135461,44.9868222,"Google Verified Location",NA,NA,NA,"1978-OR-0279"
+"Over-the-Waves ","(Late nights- summers only) ","2945 N.W. Jetty","Lincoln City","OR","(M),(R)","Restaurant",1980,NA,-124.0135461,44.9868222,"Google Verified Location",NA,NA,NA,"1980-OR-0280"
+"Pearl Street Station ","(best thing to happen in Eugene ever)(M-days)(Disco)(D)- at night","412 Pearl St. ","Eugene","OR","(*),(M),(R),(YC),(D)","Restaurant",1979,NA,-123.0898635,44.0552018,"Google Verified Location",NA,NA,NA,"1979-OR-0281"
+"Peek-A-Rama","","834 S.W. 3rd ","Portland","OR","(M)","Book Store",1979,NA,-122.6756614,45.5172974,"Google Verified Location",NA,NA,NA,"1979-OR-0282"
+"Peek-A-Rama Book Store","","834 S.W. 3rd Ave. ","Portland","OR","","Book Store",1976,NA,-122.6756614,45.5172974,"Google Verified Location",NA,NA,NA,"1976-OR-0283"
+"Peek-A-Rama Book Store ","","834 S.W. 3rd ","Portland","OR","(M)","Book Store",1977,NA,-122.6756614,45.5172974,"Google Verified Location",NA,NA,NA,"1977-OR-0284"
+"Peek-A-Rama Books","","834 S.W. 3rd","Portland","OR","(M)","Book Store",1978,NA,-122.6756614,45.5172974,"Google Verified Location",NA,NA,NA,"1978-OR-0285"
+"Pied Piper ","","1217 Stark ","Portland","OR","(D),(RT),(*)","Bars/Clubs",1971,NA,-122.6532693,45.519498,"Google Verified Location",NA,NA,NA,"1971-OR-0286"
+"Pink Cat Adult Books","","523 S.W. 3rd Ave.","Portland","OR","","Book Store",1975,NA,-122.6752926,45.5191711,"Google Verified Location",NA,NA,NA,"1975-OR-0287"
+"Pink Cat Adult Books ","","523 S.W. 3rd Ave. ","Portland","OR","","Book Store",1976,NA,-122.6752926,45.5191711,"Google Verified Location",NA,NA,NA,"1976-OR-0288"
+"Pink Cat Adult Books ","","523 S.W. 3rd Ave. ","Portland","OR","","Book Store",1974,NA,-122.6752926,45.5191711,"Google Verified Location",NA,NA,NA,"1974-OR-0289"
+"Pink Cat Adult Books ","","523 S.W. 3rd ","Portland","OR","(M)","Book Store",1977,NA,-122.6752926,45.5191711,"Google Verified Location",NA,NA,NA,"1977-OR-0290"
+"Pony Village Shopping Center","upstairs T-Room","","Coos Bay","OR","Cruisy Area","Cruising Areas",1980,"",-124.23426,43.404395,"Verified Location",NA,NA,NA,"1980-OR-0291"
+"Pony Village Shopping Center","upstairs T-Room","","Coos Bay","OR","Cruisy Area","Cruising Areas",1979,"",-124.23426,43.404395,"Verified Location",NA,NA,NA,"1979-OR-0292"
+"Pony Village Shopping Ctr.","Upstairs T-Room","","Coos Bay","OR","Cruisy Area","Cruising Areas",1978,"",-124.23426,43.404395,"Verified Location",NA,NA,NA,"1978-OR-0293"
+"Portland Rose Motel ","(Salem Frwy.- Barbur Exit)","8920 S.W. Barbur Blvd. ","Portland","OR","(H)","Hotel",1974,NA,-122.7065137,45.4600022,"Google Verified Location",NA,NA,NA,"1974-OR-0294"
+"Portland Rose Motel ","(Salem Fwy. - Barbur Exit)","8920 S.W. Barbur ","Portland","OR","(H)","Hotel",1975,NA,-122.7065137,45.4600022,"Google Verified Location",NA,NA,NA,"1975-OR-0295"
+"Portland Youth Alliance ","","615 S.E. Alder ","Portland","OR","(YC),(D),(C)","Bars/Clubs",1976,NA,-122.6593335,45.518191,"Google Verified Location",NA,NA,NA,"1976-OR-0296"
+"Purple Cat ","","624 S.W. Burnside","Portland","OR","(M)","Bars/Clubs",1972,NA,-122.6590699,45.5227451,"Google Verified Location",NA,NA,NA,"1972-OR-0297"
+"Purple Cat ","","624 S.W. Burnside ","Portland","OR","","Bars/Clubs",1970,NA,-122.6590699,45.5227451,"Google Verified Location",NA,NA,NA,"1970-OR-0298"
+"Purple Cat ","","624 S.W. Burnside ","Portland","OR","","Bars/Clubs",1971,NA,-122.6590699,45.5227451,"Google Verified Location",NA,NA,NA,"1971-OR-0299"
+"Rafter's","(Disco)(Liquor)('Super bar' & light show- enter thru 'The Embers', then upstairs)","Park & Yamhill","Portland","OR","(*),(YC),(D)","Bars/Clubs",1980,"",-122.680947,45.518922,"Verified Location",NA,NA,NA,"1980-OR-0300"
+"Rafter's","(Disco)(Liquor)('Super bar' & light show- enter thru 'The Embers', then upstairs)","Park & Yamhill","Portland","OR","(*),(YC),(D)","Bars/Clubs",1979,"",-122.680947,45.518922,"Verified Location",NA,NA,NA,"1979-OR-0301"
+"Rafters","(Disco)(Liquor)(Super bar and light show- enter thru 'The Embers' then upstairs)","Park & Yamhill","Portland","OR","(YC),(D),(*)","Bars/Clubs",1978,"",-122.680947,45.518922,"Verified Location",NA,NA,NA,"1978-OR-0302"
+"Rafters ","(Portland's new 'super bar' & light show- enter thru 'The Embers' then upstairs)(Disco)","Park & Yamhill","Portland","OR","(YC),(D),(*)","Bars/Clubs",1977,NA,-122.680947,45.518922,"Verified Location",NA,NA,NA,"1977-OR-0303"
+"Random Strands","(book store & theatre) Next door to Rip Tide","","Portland","OR","","Book Store,Theatre",1973,"",-122.6807918,45.5220975,"Verified Location",NA,NA,NA,"1973-OR-0304"
+"Red Carpet","Greyhound Bus Depot","Taylor at S.W. 6th","Portland","OR","(M)","Bars/Clubs",1971,"",-122.679372,45.517759,"Verified Location",NA,NA,NA,"1971-OR-0305"
+"Red Carpet","Greyhound Bus Depot","Taylor at S.W. 6th","Portland","OR","(M)","Bars/Clubs",1970,"",-122.679372,45.517759,"Verified Location",NA,NA,NA,"1970-OR-0306"
+"Red Carpet","Greyhound Bus Depot","Taylor at S.W. 6th","Portland","OR","","Bars/Clubs",1972,"",-122.679372,45.517759,"Verified Location",NA,NA,NA,"1972-OR-0307"
+"Red Carpet ","(after taverns close) Greyhound Bus Depot ","","Portland","OR","(*)","Bars/Clubs",1966,NA,-122.6750261,45.5051064,"Google Verified Location",NA,NA,NA,"1966-OR-0308"
+"Rhondee ","(Liquor)","1014 S.W. Stark St. ","Portland","OR","(*),(R)","Restaurant",1979,NA,-122.6816169,45.522011,"Google Verified Location",NA,NA,NA,"1979-OR-0309"
+"Rhondee ","(Liquor)","1014 S.W. Stark St. ","Portland","OR","(R),(D),(PT)","Restaurant",1980,NA,-122.6816169,45.522011,"Google Verified Location",NA,NA,NA,"1980-OR-0310"
+"Rhondee ","(Looks promising)","1014 S.W. Stark ","Portland","OR","(R),(OC)","Restaurant",1978,NA,-122.6816169,45.522011,"Google Verified Location",NA,NA,NA,"1978-OR-0311"
+"Rip Tide ","","933 S.W. Stark ","Portland","OR","(YC),(D),(*)","Bars/Clubs",1973,NA,-122.6807918,45.5220975,"Google Verified Location",NA,NA,NA,"1973-OR-0312"
+"Rip Tide ","","933 S.W. Stark ","Portland","OR","(YC),(D),(*)","Bars/Clubs",1972,NA,-122.6807918,45.5220975,"Google Verified Location",NA,NA,NA,"1972-OR-0313"
+"Rising Moon","(G only)","413 W. Burnside ","Portland","OR","(G),(PT),(D)","Bars/Clubs",1979,NA,-122.6747541,45.5233576,"Google Verified Location",NA,NA,NA,"1979-OR-0314"
+"Rising Moon","(L only)","413 W. Burnside ","Portland","OR","(L),(*),(PT),(D)","Bars/Clubs",1980,NA,-122.6747541,45.5233576,"Google Verified Location",NA,NA,NA,"1980-OR-0315"
+"Rising Moon ","(G-only)","413 W. Burnside ","Portland","OR","(G),(PT),(D),(*)","Bars/Clubs",1978,NA,-122.6747541,45.5233576,"Google Verified Location",NA,NA,NA,"1978-OR-0316"
+"Riviera Room ","","39 W. 10th ","Eugene","OR","(*)","Bars/Clubs",1975,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1975-OR-0317"
+"Riviera Room ","","39 W. 10th ","Eugene","OR","(M)","Bars/Clubs",1970,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1970-OR-0318"
+"Riviera Room ","(Many G)","39 W. Street","Eugene","OR","(*),(G)","Bars/Clubs",1977,NA,-123.092949,44.0500992,"Google Verified Location",NA,NA,NA,"1977-OR-0319"
+"Riviera Room ","","39 W. 10th ","Eugene","OR","(M)","Bars/Clubs",1972,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1972-OR-0320"
+"Riviera Room ","","39 W 10th ","Eugene","OR","(M)","Bars/Clubs",1971,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1971-OR-0321"
+"Riviera Room ","","39 W. 10th St. ","Eugene","OR","(G),(D)","Bars/Clubs",1979,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1979-OR-0322"
+"Riviera Room ","(many L)","39 W. 10th St. ","Eugene","OR","(*),(D),(L)","Bars/Clubs",1980,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1980-OR-0323"
+"Riviera Room ","(Many G)","39 W. 10th St. ","Eugene","OR","(*),(G)","Bars/Clubs",1976,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1976-OR-0324"
+"Riviera Room ","(many G)","39 W. 10th St. ","Eugene","OR","(*),(G)","Bars/Clubs",1978,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1978-OR-0325"
+"Riviera Room ","","39 W. 10th ","Eugene","OR","(M)","Bars/Clubs",1973,NA,-123.0933462,44.0488139,"Google Verified Location",NA,NA,NA,"1973-OR-0326"
+"Roman Tavern ","","728 S.W. 9th Ave.","Portland","OR","(YC),(*)","Bars/Clubs",1972,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1972-OR-0327"
+"Roman's Lounge ","(liquor)","949 S.W. Stark","Portland","OR","(YC),(D),(R),(*)","Restaurant",1974,NA,-122.6808422,45.5221109,"Google Verified Location",NA,NA,NA,"1974-OR-0328"
+"Roman's Tavern ","","728 S.W. 9th Ave. ","Portland","OR","(YC),(*)","Bars/Clubs",1973,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1973-OR-0329"
+"Roman's Tavern ","","728 S.W. 9th ","Portland","OR","(YC),(*)","Bars/Clubs",1971,NA,-122.6810407,45.5193448,"Google Verified Location",NA,NA,NA,"1971-OR-0330"
+"Rooseter Rock St. Park","'B.A.' Beach- east end- 30 mi. E. of Portland","","Portland","OR","Cruisy Area","Cruising Areas",1978,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1978-OR-0331"
+"Rooster Rock of St. Paul","(East end) about 30 mi. E. of Portland","","Portland","OR","Cruisy Area","Cruising Areas",1974,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1974-OR-0332"
+"Rooster Rock St. Park","(east end) about 30 mi. E of Portland on the Columbia River","","Portland","OR","Cruisy Area","Cruising Areas",1973,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1973-OR-0333"
+"Rooster Rock St. Park","'B.A.' Beach - E. end, 30 mi. E of Portland","","Portland","OR","Cruisy Area","Cruising Areas",1979,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1979-OR-0334"
+"Rooster Rock St. Park","(East end) about 30 miles east of Portland","","Portland","OR","Cruisy Area","Cruising Areas",1975,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1975-OR-0335"
+"Rooster Rock St. Park","'B.A.' Beach- E. end, 30 mi. E of Portland","","Portland","OR","Cruisy Area","Cruising Areas",1980,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1980-OR-0336"
+"Rooster Rock St. Pk.","(East end) 30 mi. east of Portland","","Portland","OR","Cruisy Area","Cruising Areas",1976,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1976-OR-0337"
+"Rooster Rock State Park","(east end) about 30 mi. E. of Portland along Columbia River","","Portland","OR","Cruisy Area","Cruising Areas",1972,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1972-OR-0338"
+"Rooster Rock State Park","'B.A.' Beach- east end- 30 mi. E. of Portland","","Portland","OR","Cruisy Area","Cruising Areas",1977,"",-122.236468,45.546833,"Verified Location",NA,NA,NA,"1977-OR-0339"
+"Roxy Hearts ","(Lunches)(New booze)","1121 S.W. Stark ","Portland","OR","(R)","Restaurant",1979,NA,-122.6824975,45.5225977,"Google Verified Location",NA,NA,NA,"1979-OR-0340"
+"Roxy Hearts ","(Lunches)(No booze) ","1211 S.W. Stark ","Portland","OR","(R)","Restaurant",1980,NA,-122.6832923,45.5228477,"Google Verified Location",NA,NA,NA,"1980-OR-0341"
+"San Fransisco Book Store ","","725 S.W. 3rd Ave. ","Portland","OR","","Book Store",1977,NA,-122.6756749,45.5179858,"Google Verified Location",NA,NA,NA,"1977-OR-0342"
+"Scorpio Adult Books","","209 S.W. Taylor ","Portland","OR","","Book Store",1979,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1979-OR-0343"
+"Scorpio Adult Books","","209 S.W. Taylor ","Portland","OR","","Book Store",1980,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1980-OR-0344"
+"Scorpio Adult Books ","","209 S.W. Taylor ","Portland","OR","","Book Store",1978,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1978-OR-0345"
+"Scorpio Adult Books ","","209 S.W. Taylor ","Portland","OR","","Book Store",1977,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1977-OR-0346"
+"Scorpio's Adult Books","","209 S.W. Taylor","Portland","OR","","Book Store",1976,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1976-OR-0347"
+"Scorpio's Adult Bookstore","","209 S.W. Taylor ","Portland","OR","","Book Store",1974,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1974-OR-0348"
+"Scorpio's Adult Bookstore ","","209 S.W. Taylor ","Portland","OR","","Book Store",1975,NA,-122.6754214,45.5168655,"Google Verified Location",NA,NA,NA,"1975-OR-0349"
+"Second Foundation Social Club ","","258 S.W. Adler ","Portland","OR","(D),(R)","Restaurant",1974,NA,-122.6749347,45.5184776,"Google Verified Location",NA,NA,NA,"1974-OR-0350"
+"Side Door ","(liquor) ","Park & Yamhill ","Portland","OR","(YC),(R),(D),(*)","Restaurant",1973,NA,-122.6808992,45.5191719,"Google Verified Location",NA,NA,NA,"1973-OR-0351"
+"Side Door ","(liquor)","811 S.W. Yamhill","Portland","OR","(R),(D),(*)","Restaurant",1974,NA,-122.6808992,45.5191719,"Google Verified Location",NA,NA,NA,"1974-OR-0352"
+"Sin City Adult Books","","838 S.W. 3rd Ave. ","Portland","OR","","Book Store",1980,NA,-122.6758199,45.517044,"Google Verified Location",NA,NA,NA,"1980-OR-0353"
+"Sin City Adult Books","","838 S.W. 3rd Ave. ","Portland","OR","","Book Store",1979,NA,-122.6758199,45.517044,"Google Verified Location",NA,NA,NA,"1979-OR-0354"
+"Sin City Adult Books ","","838 S.W. 3rd Ave ","Portland","OR","","Book Store",1977,NA,-122.6758199,45.517044,"Google Verified Location",NA,NA,NA,"1977-OR-0355"
+"Sin City Adult Books ","","838 S.W. 3rd Ave. ","Portland","OR","","Book Store",1978,NA,-122.6758199,45.517044,"Google Verified Location",NA,NA,NA,"1978-OR-0356"
+"Skinner Butte Park","","","Eugene","OR","(AYOR),Cruisy Area","Cruising Areas",1980,"",-123.096405,44.06094,"Verified Location",NA,NA,NA,"1980-OR-0357"
+"Skinner Butte Park","","","Eugene","OR","Cruisy Area","Cruising Areas",1976,"",-123.096405,44.06094,"Verified Location",NA,NA,NA,"1976-OR-0358"
+"Skinner Butte Park","","","Eugene","OR","Cruisy Area","Cruising Areas",1978,"",-123.096405,44.06094,"Verified Location",NA,NA,NA,"1978-OR-0359"
+"Skinner Butte Park","","","Eugene","OR","Cruisy Area","Cruising Areas",1975,"",-123.096405,44.06094,"Verified Location",NA,NA,NA,"1975-OR-0360"
+"Skinner Butte Park","","","Eugene","OR","Cruisy Area","Cruising Areas",1977,"",-123.096405,44.06094,"Verified Location",NA,NA,NA,"1977-OR-0361"
+"Skinner Butte Park","(HOT)","","Eugene","OR","(HOT),Cruisy Area","Cruising Areas",1979,"",-123.096405,44.06094,"Verified Location",NA,NA,NA,"1979-OR-0362"
+"Small Park adj. to Fairgrounds","","","Medford","OR","Cruisy Area","Cruising Areas",1977,"approximate location",-122.913639,42.387315,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-OR-0363"
+"Small Park adj. to Fairgrounds","","","Medford","OR","Cruisy Area","Cruising Areas",1978,"approximate location",-122.913639,42.387315,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-OR-0364"
+"Small park adj. to Fairgrounds","","","Medford","OR","Cruisy Area","Cruising Areas",1980,"approximate location",-122.913639,42.387315,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-OR-0365"
+"Small park adj. to Fairgrounds","","","Medford","OR","Cruisy Area","Cruising Areas",1979,"approximate location",-122.913639,42.387315,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-OR-0366"
+"Snappy's ","","240 S. Broadway ","Coos Bay","OR","(M)","Bars/Clubs",1969,NA,-124.2129196,43.3666833,"Google Verified Location",NA,NA,NA,"1969-OR-0367"
+"Snappy's ","","240 S. Broadway ","Coos Bay","OR","(M)","Bars/Clubs",1966,NA,-124.2129196,43.3666833,"Google Verified Location",NA,NA,NA,"1966-OR-0368"
+"Snappy's ","","240 S. Broadway ","Coos Bay","OR","(M)","Bars/Clubs",1971,NA,-124.2129196,43.3666833,"Google Verified Location",NA,NA,NA,"1971-OR-0369"
+"Snappy's ","","240 S. Broadway ","Coos Bay","OR","(M)","Bars/Clubs",1972,NA,-124.2129196,43.3666833,"Google Verified Location",NA,NA,NA,"1972-OR-0370"
+"Snappy's ","","240 S. Broadway ","Coos Bay","OR","(M)","Bars/Clubs",1968,NA,-124.2129196,43.3666833,"Google Verified Location",NA,NA,NA,"1968-OR-0371"
+"Snappy's ","","240 S. Broadway ","Coos Bay","OR","(M)","Bars/Clubs",1970,NA,-124.2129196,43.3666833,"Google Verified Location",NA,NA,NA,"1970-OR-0372"
+"Sportsman's Inn","","15 S.W. 6th Ave. ","Portland","OR","","Bars/Clubs",1974,NA,-122.6765067,45.5229748,"Google Verified Location",NA,NA,NA,"1974-OR-0373"
+"Sultan Theatre ","","1313 S.W. 1st Ave. ","Portland","OR","","Theatre",1974,NA,-122.6760074,45.5136105,"Google Verified Location",NA,NA,NA,"1974-OR-0374"
+"T-Room beneath turn-around on Seaside Beach","(Summers)","","Seaside","OR","Cruisy Area","Cruising Areas",1979,"",-123.930221,45.991871,"Verified Location",NA,NA,NA,"1979-OR-0375"
+"T-Room beneth turn-around on Seaside Beach","(Summers)","","Seaside","OR","Cruisy Area","Cruising Areas",1980,"",-123.930221,45.991871,"Verified Location",NA,NA,NA,"1980-OR-0376"
+"T-Room beneth turn-arounf on Seaside Beach","(summers)","","Seaside","OR","Cruisy Area","Cruising Areas",1978,"",-123.930221,45.991871,"Verified Location",NA,NA,NA,"1978-OR-0377"
+"Tara's Pub ","(Some G) ","2290 Front N.E.","Salem","OR","(D),(G),(PT)","Bars/Clubs",1979,NA,-123.033601,44.962111,"Google Verified Location",NA,NA,NA,"1979-OR-0378"
+"Tara's Pub ","(some G)","2290 Front N.E. ","Salem","OR","(D),(G),(PT),(*)","Bars/Clubs",1978,NA,-123.033601,44.962111,"Google Verified Location",NA,NA,NA,"1978-OR-0379"
+"Tash's ","","316 W. Burnside ","Portland","OR","(G)","Bars/Clubs",1975,NA,-122.6737131,45.5228731,"Google Verified Location",NA,NA,NA,"1975-OR-0380"
+"Tash's ","","316 W. Burnside","Portland","OR","","Bars/Clubs",1974,NA,-122.6737131,45.5228731,"Google Verified Location",NA,NA,NA,"1974-OR-0381"
+"Tavern ","","122 SW Yamhill","Portland","OR","(*)","Bars/Clubs",1969,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1969-OR-0382"
+"Tavern ","('Half Moon')(Some W)","122 S.W. Yamhill","Portland","OR","(*),(W),(PT)","Bars/Clubs",1979,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1979-OR-0383"
+"Tavern ","","122 SW Yamhill","Portland","OR","(*)","Bars/Clubs",1968,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1968-OR-0384"
+"Tavern ","(Half Moon)(Some W, OC)","122 S.W. Yamhill","Portland","OR","(*),(W),(OC)","Bars/Clubs",1978,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1978-OR-0385"
+"Tavern ","(Half moon)","122 S.W. Yamhill ","Portland","OR","(*),(W)","Bars/Clubs",1977,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1977-OR-0386"
+"Tavern ","('Half Moon')(Good days)(Some W)","122 S.W. Yamhill","Portland","OR","(*),(W),(PT)","Bars/Clubs",1980,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1980-OR-0387"
+"Tavern ","","122 S.W. Yamhill","Portland","OR","(*)","Bars/Clubs",1970,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1970-OR-0388"
+"Tavern ","","1002 SW Broadway ","Portland","OR","(*)","Bars/Clubs",1966,NA,-122.6807186,45.5173258,"Google Verified Location",NA,NA,NA,"1966-OR-0389"
+"Tavern ","","122 SW Yamhill St. ","Portland","OR","(*)","Bars/Clubs",1965,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1965-OR-0390"
+"The Tavern ","","122 S.W. Yamhill","Portland","OR","(*)","Bars/Clubs",1971,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1971-OR-0391"
+"The Tavern ","","122 S.W. Yamhill ","Portland","OR","(*)","Bars/Clubs",1973,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1973-OR-0392"
+"The Tavern ","(Half Moon)","122 S.W. Yamhill","Portland","OR","(*)","Bars/Clubs",1975,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1975-OR-0393"
+"The Tavern ","","122 S.W. Yamhill ","Portland","OR","(*)","Bars/Clubs",1974,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1974-OR-0394"
+"The Tavern ","","122 S.W. Yamhill","Portland","OR","(*)","Bars/Clubs",1972,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1972-OR-0395"
+"The Tavern ","(Half Moon)","122 S.W. Yamhill","Portland","OR","(*)","Bars/Clubs",1976,NA,-122.6742903,45.5171234,"Google Verified Location",NA,NA,NA,"1976-OR-0396"
+"Tiki Tavern ","","1728 S.E. 7th Ave. ","Portland","OR","","Bars/Clubs",1974,NA,-122.6584666,45.5103541,"Google Verified Location",NA,NA,NA,"1974-OR-0397"
+"Tiki Tavern ","","1728 S.E. 7th Ave. ","Portland","OR","","Bars/Clubs",1975,NA,-122.6584666,45.5103541,"Google Verified Location",NA,NA,NA,"1975-OR-0398"
+"Tiki Tavern ","","1728 S.E. 7th Ave. ","Portland","OR","(OC)","Bars/Clubs",1976,NA,-122.6584666,45.5103541,"Google Verified Location",NA,NA,NA,"1976-OR-0399"
+"Timber Topper Lounge","(best after 1am) Washington Hotel","Washington at S.W. 12th","Portland","OR","(*)","Bars/Clubs,Hotel",1970,"",-122.683228,45.521914,"Verified Location",NA,NA,NA,"1970-OR-0400"
+"Tom Kat Theatre","","425 S.W. Glisson ","Portland","OR","","Theatre",1980,NA,-122.6750261,45.5051064,"Google Verified Location",NA,NA,NA,"1980-OR-0401"
+"Tom Kat Theatre","","425 S.W. Glisson","Portland","OR","","Theatre",1979,NA,-122.6750261,45.5051064,"Google Verified Location",NA,NA,NA,"1979-OR-0402"
+"Tom Kat Theatre","","425 N.W. Glissan ","Portland","OR","","Theatre",1978,NA,-122.6751099,45.5266524,"Google Verified Location",NA,NA,NA,"1978-OR-0403"
+"Tom Kat Theatre ","","425 N.W. Glisan ","Portland","OR","","Theatre",1976,NA,-122.6751099,45.5266524,"Google Verified Location",NA,NA,NA,"1976-OR-0404"
+"Tom Kat Theatre ","","425 N.W. Gilsan ","Portland","OR","","Theatre",1974,NA,-122.6751099,45.5266524,"Google Verified Location",NA,NA,NA,"1974-OR-0405"
+"Tom Kat Theatre ","","425 N.W. Glisan ","Portland","OR","","Theatre",1975,NA,-122.6751099,45.5266524,"Google Verified Location",NA,NA,NA,"1975-OR-0406"
+"Tom Kat Theatre ","","425 N.W. Glissan ","Portland","OR","","Theatre",1977,NA,-122.6751099,45.5266524,"Google Verified Location",NA,NA,NA,"1977-OR-0407"
+"U of Oregon- Library","1st floor","","Eugene","OR","Cruisy Area","Cruising Areas",1978,"",-123.077729,44.04319,"Verified Location",NA,NA,NA,"1978-OR-0408"
+"U. of Oregon","","","Eugene","OR","Cruisy Area","Cruising Areas",1979,"",-123.077729,44.04319,"Verified Location",NA,NA,NA,"1979-OR-0409"
+"U. of Oregon","Library (1st Floor)","","Eugene","OR","Cruisy Area","Cruising Areas",1976,"",-123.077729,44.04319,"Verified Location",NA,NA,NA,"1976-OR-0410"
+"U. of Oregon - Library","1st floor T-Room","","Eugene","OR","Cruisy Area","Cruising Areas",1980,"",-123.077729,44.04319,"Verified Location",NA,NA,NA,"1980-OR-0411"
+"U.S. Adult Book Store ","","628 E. Burnside ","Portland","OR","","Book Store",1980,NA,-122.658999,45.5228357,"Google Verified Location",NA,NA,NA,"1980-OR-0412"
+"Univ. of Oregon- Library","1st floor","","Eugene","OR","Cruisy Area","Cruising Areas",1977,"",-123.077729,44.04319,"Verified Location",NA,NA,NA,"1977-OR-0413"
+"Valentino's ","","555 S.W. Oak ","Portland","OR","(M),(R),(C),(AH)","Restaurant",1977,NA,-122.6760872,45.5221915,"Google Verified Location",NA,NA,NA,"1977-OR-0414"
+"Vapors ","(Baths)","509 S.W. 4th ","Portland","OR","","Baths",1979,NA,-122.6761602,45.5197247,"Google Verified Location",NA,NA,NA,"1979-OR-0415"
+"Varsity Tavern","","S.E. 35th Pl. & Division","Portland","OR","(R),(PT)","Restaurant",1980,NA,-122.6272623,45.5019444,"Google Verified Location",NA,NA,NA,"1980-OR-0416"
+"Victoria's Nephew","(Open days only- 11 a.m. to 4 p.m.)","212 S.W. Stark Street ","Portland","OR","(M),(R)","Restaurant",1977,NA,-122.6738639,45.5199641,"Google Verified Location",NA,NA,NA,"1977-OR-0417"
+"Victoria's Nephew ","(days only- 11 a.m. to 4 p.m.)","212 S.W. Stark ","Portland","OR","(M),(R)","Restaurant",1978,NA,-122.6738639,45.5199641,"Google Verified Location",NA,NA,NA,"1978-OR-0418"
+"Victoria's Nephew ","(11 a.m. to 4 p.m.)","212 S.W. Stark St. ","Portland","OR","(M),(R)","Restaurant",1979,NA,-122.6738639,45.5199641,"Google Verified Location",NA,NA,NA,"1979-OR-0419"
+"VIllage Commons Tavern ","(Disco)","66 E. Main ","Ashland","OR","(M),(D),(WE),(*)","Bars/Clubs",1980,NA,-122.7143454,42.1966472,"Google Verified Location",NA,NA,NA,"1980-OR-0420"
+"W.C.'s Water Closet Lounge","(Unisex)(Liquor)(upstairs)","426 S.W. 4th Avenue ","Portland","OR","(*),(YC),(D)","Bars/Clubs",1977,NA,-122.6754152,45.520073,"Google Verified Location",NA,NA,NA,"1977-OR-0421"
+"Washington Park","nr. Lewis & Clark Mon.","","Portland","OR","Cruisy Area","Cruising Areas",1978,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1978-OR-0422"
+"Washington Park","near Lewis & Clark Monument","","Portland","OR","Cruisy Area","Cruising Areas",1975,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1975-OR-0423"
+"Washington Park","nr. Lewis & Clark Mon.","","Portland","OR","Cruisy Area","Cruising Areas",1977,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1977-OR-0424"
+"Washington Park","nr. Lewis & Clark monument","","Portland","OR","Cruisy Area","Cruising Areas",1974,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1974-OR-0425"
+"Washington Park","","","Portland","OR","Cruisy Area","Cruising Areas",1973,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1973-OR-0426"
+"Washington Park","by Lewis & Clark monument","","Portland","OR","Cruisy Area","Cruising Areas",1979,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1979-OR-0427"
+"Washington Park","by Lewis & Clark Monument","","Portland","OR","Cruisy Area","Cruising Areas",1980,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1980-OR-0428"
+"Washington Park","nr. Lewis & Clark Mon.","","Portland","OR","Cruisy Area","Cruising Areas",1976,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1976-OR-0429"
+"Washington Park","","","Portland","OR","Cruisy Area","Cruising Areas",1972,"",-122.701431,45.521311,"Verified Location",NA,NA,NA,"1972-OR-0430"
+"Water Closet Lounge ","(Liquor)(some G)","426 S.W. 4th Ave. ","Portland","OR","(YC),(G),(D),(*)","Bars/Clubs",1976,NA,-122.6754152,45.520073,"Google Verified Location",NA,NA,NA,"1976-OR-0431"
+"Wilde Oscar ","(Patio)","318 S.W. 3rd Ave. ","Portland","OR","(PT)","Bars/Clubs",1978,NA,-122.6741189,45.5205558,"Google Verified Location",NA,NA,NA,"1978-OR-0432"
+"Wilde Oscar ","(patio)","318 S.W. 3rd Ave. ","Portland","OR","(PT)","Bars/Clubs",1979,NA,-122.6741189,45.5205558,"Google Verified Location",NA,NA,NA,"1979-OR-0433"
+"Wilde Oscar's ","(Patio)","318 S.W. 3rd Ave. ","Portland","OR","(PT),(R)","Restaurant",1980,NA,-122.6741189,45.5205558,"Google Verified Location",NA,NA,NA,"1980-OR-0434"
+"Woman's Place ","(Book Store) ","1533 E. Burnside Street","Portland","OR","(G)","Book Store",1977,NA,-122.6497654,45.5230748,"Google Verified Location",NA,NA,NA,"1977-OR-0435"
+"Woman's Place ","(book store)","1533 E. Burnside St. ","Portland","OR","(G)","Book Store",1978,NA,-122.6497654,45.5230748,"Google Verified Location",NA,NA,NA,"1978-OR-0436"
+"Wooden Shoe ","","1391 Broadway","Salem","OR","(D)","Bars/Clubs",1980,NA,-123.0309526,44.9527335,"Google Verified Location",NA,NA,NA,"1980-OR-0437"
+"Wooden Shoe ","","1391 Broadway ","Salem","OR","(D)","Bars/Clubs",1979,NA,-123.0309526,44.9527335,"Google Verified Location",NA,NA,NA,"1979-OR-0438"
+"Workout Baths ","","531 S.W. 12th Ave. ","Portland","OR","(*)","Baths",1973,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1973-OR-0439"
+"Workout Baths ","","531 S.W. 12th ","Portland","OR","(*)","Bars/Clubs",1971,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1971-OR-0440"
+"Workout Baths ","","531 S.W. 12th Avenue ","Portland","OR","(YC),(*)","Baths",1977,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1977-OR-0441"
+"Workout Baths ","","531 SW 12th St. ","Portland","OR","","Baths",1968,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1968-OR-0442"
+"Workout Baths ","","531 S.W. 12th ","Portland","OR","(*)","Baths",1970,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1970-OR-0443"
+"Workout Baths ","","531 S.W. 12th Ave. ","Portland","OR","(YC),(*)","Baths",1975,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1975-OR-0444"
+"Workout Baths ","","531 S.W. 12th Ave. ","Portland","OR","(*),(YC)","Baths",1976,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1976-OR-0445"
+"Workout Baths ","","531 SW 12th St. ","Portland","OR","(*)","Baths",1969,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1969-OR-0446"
+"Workout Baths ","","531 S.W. 12th Ave. ","Portland","OR","(*),(YC)","Baths",1974,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1974-OR-0447"
+"Workout Baths ","","531 S.W. 12th Ave. ","Portland","OR","(*)","Baths",1972,NA,-122.6839493,45.5214476,"Google Verified Location",NA,NA,NA,"1972-OR-0448"
+"Yamhill ('Camp St.')","","betw. 3rd & 4th","Portland","OR","Cruisy Area","Cruising Areas",1979,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1979-OR-0449"
+"Yamhill ('Camp St.')","","betw. 3rd & 4th","Portland","OR","Cruisy Area","Cruising Areas",1980,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1980-OR-0450"
+"Yamhill ('Camp Street')","","betw. 4th & 6th","Portland","OR","Cruisy Area","Cruising Areas",1976,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1976-OR-0451"
+"Yamhill ('Camp Street')","","Betw. 4th & 6th","Portland","OR","Cruisy Area","Cruising Areas",1974,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1974-OR-0452"
+"Yamhill ('Camp Street')","","betw. 4th & 6th","Portland","OR","Cruisy Area","Cruising Areas",1975,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1975-OR-0453"
+"Yamhill ('Camp Street')","","betw. 3rd & 4th","Portland","OR","Cruisy Area","Cruising Areas",1977,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1977-OR-0454"
+"Yamhill ('Camp Street')","","betw. 3rd & 4th","Portland","OR","Cruisy Area","Cruising Areas",1978,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1978-OR-0455"
+"Yamhill ('Camp Street')","","bet. 4th & 6th","Portland","OR","Cruisy Area","Cruising Areas",1973,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1973-OR-0456"
+"Yamhill St. bet. 4th & 6th","","","Portland","OR","Cruisy Area","Cruising Areas",1972,"",-122.676306,45.517558,"Verified Location",NA,NA,NA,"1972-OR-0457"
+"Yaquina Bay St. Park","","","Newport","OR","Cruisy Area","Cruising Areas",1980,"",-124.064766,44.62423,"Verified Location",NA,NA,NA,"1980-OR-0458"
+"Zorba The Greek ","(Some G)","1533 E. Burnside ","Portland","OR","(R),(D),(G)","Restaurant",1978,NA,-122.6497654,45.5230748,"Google Verified Location",NA,NA,NA,"1978-OR-0459"
+"Zorba the Greek ","","626 S.W. Park ","Portland","OR","(G),(R),(D)","Restaurant",1979,NA,-122.6801655,45.5197524,"Google Verified Location",NA,NA,NA,"1979-OR-0460"
+"Zorba the Greek ","","626 S.W. Park ","Portland","OR","(D)","Bars/Clubs",1973,NA,-122.6801655,45.5197524,"Google Verified Location",NA,NA,NA,"1973-OR-0461"
+"Zorba the Greek ","(liquor)","626 S.W. Park ","Portland","OR","(D)","Bars/Clubs",1974,NA,-122.6801655,45.5197524,"Google Verified Location",NA,NA,NA,"1974-OR-0462"
+"Zorba the Greek ","(Some G)","626 S.W. Park ","Portland","OR","(D),(G)","Bars/Clubs",1975,NA,-122.6801655,45.5197524,"Google Verified Location",NA,NA,NA,"1975-OR-0463"
+"Zorba the Greek ","","626 S.W. Park ","Portland","OR","","Bars/Clubs",1972,NA,-122.6801655,45.5197524,"Google Verified Location",NA,NA,NA,"1972-OR-0464"
+"Zorba the Greek ","(Some G)","626 S.W. Park ","Portland","OR","(D),(G)","Bars/Clubs",1976,NA,-122.6801655,45.5197524,"Google Verified Location",NA,NA,NA,"1976-OR-0465"
+"Zorba the Greek ","(Some G)","626 S.W. Park ","Portland","OR","(R),(D),(G)","Restaurant",1977,NA,-122.6801655,45.5197524,"Google Verified Location",NA,NA,NA,"1977-OR-0466"

@@ -1,97 +1,97 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-1611,WY054,Airport,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1977,,-104.81098,41.153163,Verified Location
-1566,WY009,Airport,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1980,,-104.81098,41.153163,Verified Location
-1593,WY036,Airport,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1978,,-104.81098,41.153163,Verified Location
-1580,WY023,Airport,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1979,,-104.81098,41.153163,Verified Location
-1638,WY081,Al's,,E. 16th,Cheyenne,WY,(M),Bars/Clubs,1972,,-104.800342,41.137341,Location could not be verified. General city or location coordinates used.
-1641,WY084,Al's,,E. 16th,Cheyenne,WY,(M),Bars/Clubs,1971,,-104.800342,41.137341,Location could not be verified. General city or location coordinates used.
-1640,WY083,Albany Hotel Bar,,15th & Capital,Cheyenne,WY,"(M),(RT)","Bars/Clubs,Hotel",1971,,-104.814734,41.131862,Verified Location
-1637,WY080,Albany Hotel Bar,,15th & Capital,Cheyenne,WY,"(M),(RT)","Bars/Clubs,Hotel",1972,,-104.814734,41.131862,Verified Location
-1643,WY086,Albany Hotel Bar,,15th & Capital,Cheyenne,WY,"(M),(RT)","Bars/Clubs,Hotel",1970,,-104.814734,41.131862,Verified Location
-1606,WY049,Area Around Holiday Inn,,300 W. F Street,Casper,WY,Cruisy Area,"Hotel,Cruising Areas",1977,,-106.328904,42.858143,Verified Location
-1584,WY027,Buckhorn,('Best bet'),114 Ivinson,Laramie,WY,"(M),(W),(YC)",Bars/Clubs,1979,NA,-105.5953206,41.3119437,Google Verified Location
-1570,WY013,Buckhorn,('Best bet'),114 Ivinson,Laramie,WY,"(M),(W)",Bars/Clubs,1980,NA,-105.5953206,41.3119437,Google Verified Location
-1599,WY042,Buckhorn,('Best bet'),114 Ivinson,Laramie,WY,"(M),(W),(YC)",Bars/Clubs,1978,NA,-105.5953206,41.3119437,Google Verified Location
-1574,WY017,Conwell Park,(Summers),,Casper,WY,Cruisy Area,Cruising Areas,1979,,-106.308105,42.849432,Verified Location
-1560,WY003,Conwell Park,(Summers),,Casper,WY,Cruisy Area,Cruising Areas,1980,,-106.308105,42.849432,Verified Location
-1589,WY032,Conwell Park,(Summers),,Casper,WY,Cruisy Area,Cruising Areas,1978,,-106.308105,42.849432,Verified Location
-1596,WY039,Cowboy Bar,On the square. Best at bar near front door,,Jackson,WY,"(M),(W),(YC),(R),(PT),(*)","Bars/Clubs,Restaurant",1978,coordinates for Jackson Sq,-110.761779,43.479956,Location could not be verified. General city or location coordinates used.
-1583,WY026,Cowboy Bar,(Very M) (Try front bar area) On the Square,,Jackson,WY,"(M),(W),(YC),(PT)",Bars/Clubs,1979,coordinates for Jackson Sq,-110.761779,43.479956,Location could not be verified. General city or location coordinates used.
-1569,WY012,Cowboy Bar,(Very M) (Try front bar area) On the Square,,Jackson,WY,"(M),(W),(YC),(PT)",Bars/Clubs,1980,coordinates for Jackson Sq,-110.761779,43.479956,Location could not be verified. General city or location coordinates used.
-1602,WY045,Dotsie's,Inquire locally,,Rock Springs,WY,"(M),(C),(AH)",Bars/Clubs,1978,,-109.202904,41.587464,Location could not be verified. General city or location coordinates used.
-1615,WY058,Dotsie's,Inquire locally,,Rock Springs,WY,"(M),(C),(AH)",Bars/Clubs,1977,NA,-109.2029043,41.5874644,Google Verified Location
-1600,WY043,Dr. Finfrock's Table,,209 S. 3rd.,Laramie,WY,"(M),(R),(OC)",Restaurant,1978,NA,-105.5932623,41.3114849,Google Verified Location
-1585,WY028,Dr. Finfrock's Table,,209 S. 3rd.,Laramie,WY,"(M),(R),(OC)",Restaurant,1979,NA,-105.5932623,41.3114849,Google Verified Location
-1601,WY044,Everybody's,Inquire locally,,Laramie,WY,"(P),(M),(AH)",Bars/Clubs,1978,,-105.591101,41.311367,Location could not be verified. General city or location coordinates used.
-1633,WY076,Green Door,(entrance behind Al's Liquors),301 E. 16th,Cheyenne,WY,(M),Bars/Clubs,1973,NA,-104.8115169,41.1339185,Google Verified Location
-1629,WY072,Green Door,(entrance behind Al's Liquors),301 E. 16th,Cheyenne,WY,(M),Bars/Clubs,1974,NA,-104.8115169,41.1339185,Google Verified Location
-1625,WY068,Green Door,(entrance behind Al's Liquors),301 E. 16th,Cheyenne,WY,(M),Bars/Clubs,1975,NA,-104.8115169,41.1339185,Google Verified Location
-1562,WY005,Hitching Post Inn,(Bar only) (Best bet*) ,1600 W. Lincoln Way,Cheyenne,WY,"(M),(*),(E)",Bars/Clubs,1980,NA,-104.8327957,41.1266238,Google Verified Location
-1576,WY019,Hitching Post Inn,(Bar only) (Best bet*) ,1600 W. Lincoln Way,Cheyenne,WY,"(M),(*),(E)",Bars/Clubs,1979,NA,-104.8327957,41.1266238,Google Verified Location
-1607,WY050,Hitching Post Motel Lounge,(Bar only),1800 W. Lincoln Way,Cheyenne,WY,(M),Bars/Clubs,1977,NA,-104.8342849,41.1259067,Google Verified Location
-1617,WY060,Hitching Post Motel Lounge,(Bar only),1800 W. Lincoln Way,Cheyenne,WY,(M),Bars/Clubs,1976,NA,-104.8342849,41.1259067,Google Verified Location
-1577,WY020,Holding's Little America Lodge,(Jct. of I-25 & I-80),2200 W. Lincoln Way,Cheyenne,WY,(M),Bars/Clubs,1979,NA,-104.7909753,41.1387768,Google Verified Location
-1563,WY006,Holdings' Little America Lodge,(Jct. of I-25 & I-80),2200 W. Lincoln Way,Cheyenne,WY,(M),Bars/Clubs,1980,NA,-104.7909753,41.1387768,Google Verified Location
-1604,WY047,Holiday Inn Bar,,300 W. F Street,Casper,WY,(M),"Bars/Clubs,Hotel",1977,NA,-106.3289038,42.8581433,Google Verified Location
-1587,WY030,Holiday Inn Bar,,300 W. F St.,Casper,WY,(M),"Hotel,Bars/Clubs",1978,NA,-106.3289038,42.8581433,Google Verified Location
-1558,WY001,Holiday Inn Bar,,300 W. F St.,Casper,WY,(M),"Hotel,Bars/Clubs",1980,NA,-106.3289038,42.8581433,Google Verified Location
-1572,WY015,Holiday Inn Bar,,300 W. F St.,Casper,WY,(M),"Hotel,Bars/Clubs",1979,NA,-106.3289038,42.8581433,Google Verified Location
-1612,WY055,Holiday Park,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1977,,-104.799258,41.138812,Verified Location
-1622,WY065,Holiday Park,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1976,,-104.799258,41.138812,Verified Location
-1594,WY037,Holiday Park,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1978,,-104.799258,41.138812,Verified Location
-1581,WY024,Holiday Park,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1979,,-104.799258,41.138812,Verified Location
-1567,WY010,Holiday Park,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1980,,-104.799258,41.138812,Verified Location
-1634,WY077,Mayflower,(Back bar only),112 W. 17th,Cheyenne,WY,"(M),(W)",Bars/Clubs,1973,NA,-104.8154317,41.1341035,Google Verified Location
-1630,WY073,Mayflower,(Back bar only),112 W. 17th,Cheyenne,WY,"(M),(W)",Bars/Clubs,1974,NA,-104.8154317,41.1341035,Google Verified Location
-1626,WY069,Mayflower,(Back bar only),112 W. 17th,Cheyenne,WY,"(M),(W)",Bars/Clubs,1975,NA,-104.8154317,41.1341035,Google Verified Location
-1618,WY061,Mayflower,(Back bar),112 W. 17th,Cheyenne,WY,"(M),(W)",Bars/Clubs,1976,NA,-104.8154317,41.1341035,Google Verified Location
-1608,WY051,Mayflower,(Back bar),112 West 17th,Cheyenne,WY,"(M),(W)",Bars/Clubs,1977,NA,-104.8154317,41.1341035,Google Verified Location
-1564,WY007,O.P. Taylor's Liquor Locker,(Some L) (E- WE),2018 Carey Ave.,Cheyenne,WY,"(M),(L),(PT),(E),(WE)",Bars/Clubs,1980,NA,-104.8198273,41.1360512,Google Verified Location
-1578,WY021,O.P. Taylor's Liquor Locker,(Some G) (E- WE),2018 Carey Ave.,Cheyenne,WY,"(M),(PT),(E),(WE),(G)",Bars/Clubs,1979,NA,-104.8198273,41.1360512,Google Verified Location
-1616,WY059,Outlaw Bar,,1630 Elk St.,Rock Springs,WY,(M),Bars/Clubs,1977,NA,-109.2295368,41.6125654,Google Verified Location
-1586,WY029,Outlaw Bar,,1630 Elk St.,Rock Springs,WY,"(M),(W)",Bars/Clubs,1979,NA,-109.2295368,41.6125654,Google Verified Location
-1603,WY046,Outlaw Bar,,1630 Elk St.,Rock Springs,WY,"(M),(W)",Bars/Clubs,1978,NA,-109.2295368,41.6125654,Google Verified Location
-1571,WY014,Outlaw Bar,,1630 Elk St.,Rock Springs,WY,"(M),(W)",Bars/Clubs,1980,NA,-109.2295368,41.6125654,Google Verified Location
-1649,WY092,Plains Hotel Bar,,1600 Central Ave,Cheyenne,WY,(M),"Bars/Clubs,Hotel",1966,NA,-104.8145914,41.1333759,Google Verified Location
-1647,WY090,Plains Hotel Bar,,1600 Central Ave,Cheyenne,WY,(M),"Bars/Clubs,Hotel",1968,NA,-104.8145914,41.1333759,Google Verified Location
-1645,WY088,Plains Hotel Bar,,1600 Central Ave,Cheyenne,WY,(M),"Bars/Clubs,Hotel",1969,NA,-104.8145914,41.1333759,Google Verified Location
-1651,WY094,Plains Hotel Bar,,1600 Central Ave,Cheyenne,WY,(M),Bars/Clubs,1965,NA,-104.8145914,41.1333759,Google Verified Location
-1579,WY022,Poor Richard's,E. Lincoln Way at Converse,,Cheyenne,WY,(M),Bars/Clubs,1979,,-104.79007,41.138426,Verified Location
-1565,WY008,Poor Richard's,E. Lincoln Way at Converse,,Cheyenne,WY,(M),Bars/Clubs,1980,,-104.79007,41.138426,Verified Location
-1597,WY040,Rancher Bar,on the square,,Jackson,WY,"(M),(W),(OC)",Bars/Clubs,1978,coordinates for Jackson Sq,-110.761779,43.479956,Location could not be verified. General city or location coordinates used.
-1619,WY062,Sam's Place, Plains Hotel,1600 Central Avenue,Cheyenne,WY,"(M),(W),(RT),(*)","Bars/Clubs,Hotel",1976,NA,-104.8145914,41.1333759,Google Verified Location
-1609,WY052,Sam's Place,(Some RT. SM)* Plains Hotel,1600 Central Avenue,Cheyenne,WY,"(M),(W),(RT),(SM),(*)","Bars/Clubs,Hotel",1977,NA,-104.8145914,41.1333759,Google Verified Location
-1591,WY034,Sam's Place,"(Some RT, SM)* Plains Hotel",1600 Central Ave.,Cheyenne,WY,"(M),(W),(RT),(SM),(*)","Bars/Clubs,Hotel",1978,NA,-104.8145914,41.1333759,Google Verified Location
-1650,WY093,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1966,NA,-110.7609973,43.4793793,Google Verified Location
-1598,WY041,Silver Dollar,,86 W. Broadway,Jackson,WY,"(M),(W)",Bars/Clubs,1978,NA,-110.7609973,43.4793793,Google Verified Location
-1624,WY067,Silver Dollar,,86 W. Broadway,Jackson,WY,"(M),(W)",Bars/Clubs,1976,NA,-110.7609973,43.4793793,Google Verified Location
-1628,WY071,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1975,NA,-110.7609973,43.4793793,Google Verified Location
-1642,WY085,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1971,NA,-110.7609973,43.4793793,Google Verified Location
-1652,WY095,Silver Dollar,,86 W. Broadway,Jackson,WY,(SM),Bars/Clubs,1965,NA,-110.7609973,43.4793793,Google Verified Location
-1614,WY057,Silver Dollar,,86 W. Broadway,Jackson,WY,"(M),(W)",Bars/Clubs,1977,NA,-110.7609973,43.4793793,Google Verified Location
-1644,WY087,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1970,NA,-110.7609973,43.4793793,Google Verified Location
-1632,WY075,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1974,NA,-110.7609973,43.4793793,Google Verified Location
-1648,WY091,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1968,NA,-110.7609973,43.4793793,Google Verified Location
-1646,WY089,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1969,NA,-110.7609973,43.4793793,Google Verified Location
-1639,WY082,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1972,NA,-110.7609973,43.4793793,Google Verified Location
-1636,WY079,Silver Dollar,,86 W. Broadway,Jackson,WY,(M),Bars/Clubs,1973,NA,-110.7609973,43.4793793,Google Verified Location
-1631,WY074,Stockman's Bar,(next to Albany Hotel),1504 Capitol,Cheyenne,WY,"(M),(RT)",Bars/Clubs,1974,NA,-104.8151343,41.1318963,Google Verified Location
-1620,WY063,Stockman's Bar,(next to Albany Hotel),1504 Capitol,Cheyenne,WY,"(M),(RT)",Bars/Clubs,1976,NA,-104.8151343,41.1318963,Google Verified Location
-1635,WY078,Stockman's Bar,(next to Albany Hotel),1504 Capitol,Cheyenne,WY,"(M),(RT)",Bars/Clubs,1973,NA,-104.8151343,41.1318963,Google Verified Location
-1627,WY070,Stockman's Bar,(next to Albany Hotel),1504 Capitol,Cheyenne,WY,"(M),(RT)",Bars/Clubs,1975,NA,-104.8151343,41.1318963,Google Verified Location
-1621,WY064,Tippin,1/2 block W. of O'Neill,642 W. 20th ,Cheyenne,WY,"(P),(M),(RT),(AH)",Bars/Clubs,1976,NA,-104.8231249,41.1345651,Google Verified Location
-1592,WY035,Tippin,1/2 block W. of O'Neill,642 W. 20th,Cheyenne,WY,"(P),(M),(RT),(AH)",Bars/Clubs,1978,NA,-104.8231249,41.1345651,Google Verified Location
-1610,WY053,Tippin,1/2 block West of O'Neill,642 West 20th,Cheyenne,WY,"(P),(M),(RT),(AH)",Bars/Clubs,1977,NA,-104.8231249,41.1345651,Google Verified Location
-1582,WY025,Trailways Bus Depot,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1979,,-104.837364,41.130652,Location could not be verified. General city or location coordinates used.
-1568,WY011,Trailways Bus Depot,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1980,,-104.837364,41.130652,Location could not be verified. General city or location coordinates used.
-1595,WY038,Trailways Bus Depot,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1978,,-104.837364,41.130652,Location could not be verified. General city or location coordinates used.
-1575,WY018,Vicinity of Holiday Inn,,300 W. F Street,Casper,WY,Cruisy Area,"Cruising Areas,Hotel",1979,,-106.328904,42.858143,Verified Location
-1561,WY004,Vicinity of Holiday Inn,,300 W. F Street,Casper,WY,Cruisy Area,"Cruising Areas,Hotel",1980,,-106.328904,42.858143,Verified Location
-1590,WY033,Vicinity of Holiday Inn,,300 W. F Street,Casper,WY,Cruisy Area,Cruising Areas,1978,,-106.328904,42.858143,Verified Location
-1613,WY056,Vicinity of Trailways Bus Depot,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1977,,-104.837364,41.130652,Location could not be verified. General city or location coordinates used.
-1623,WY066,Vicinity of Trailways Bus Depot,,,Cheyenne,WY,Cruisy Area,Cruising Areas,1976,,-104.837364,41.130652,Location could not be verified. General city or location coordinates used.
-1573,WY016,Wonderbar,(Summers),254 S. Center St.,Casper,WY,(M),Bars/Clubs,1979,NA,-106.3255135,42.8477613,Google Verified Location
-1559,WY002,Wonderbar,(Summers),254 S. Center St.,Casper,WY,(M),Bars/Clubs,1980,NA,-106.3255135,42.8477613,Google Verified Location
-1605,WY048,Wonderbar,"(Summers only)
-",254 S. Center Street,Casper,WY,(M),Bars/Clubs,1977,NA,-106.3255135,42.8477613,Google Verified Location
-1588,WY031,Wonderbar,(Summers),254 S. Center St.,Casper,WY,(M),Bars/Clubs,1978,NA,-106.3255135,42.8477613,Google Verified Location
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"Airport","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1977,"",-104.81098,41.153163,"Verified Location",NA,NA,NA,"1977-WY-0001"
+"Airport","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1980,"",-104.81098,41.153163,"Verified Location",NA,NA,NA,"1980-WY-0002"
+"Airport","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1978,"",-104.81098,41.153163,"Verified Location",NA,NA,NA,"1978-WY-0003"
+"Airport","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1979,"",-104.81098,41.153163,"Verified Location",NA,NA,NA,"1979-WY-0004"
+"Al's","","E. 16th","Cheyenne","WY","(M)","Bars/Clubs",1972,"",-104.800342,41.137341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1972-WY-0005"
+"Al's","","E. 16th","Cheyenne","WY","(M)","Bars/Clubs",1971,"",-104.800342,41.137341,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1971-WY-0006"
+"Albany Hotel Bar","","15th & Capital","Cheyenne","WY","(M),(RT)","Bars/Clubs,Hotel",1971,"",-104.814734,41.131862,"Verified Location",NA,NA,NA,"1971-WY-0007"
+"Albany Hotel Bar","","15th & Capital","Cheyenne","WY","(M),(RT)","Bars/Clubs,Hotel",1972,"",-104.814734,41.131862,"Verified Location",NA,NA,NA,"1972-WY-0008"
+"Albany Hotel Bar","","15th & Capital","Cheyenne","WY","(M),(RT)","Bars/Clubs,Hotel",1970,"",-104.814734,41.131862,"Verified Location",NA,NA,NA,"1970-WY-0009"
+"Area Around Holiday Inn","","300 W. F Street","Casper","WY","Cruisy Area","Hotel,Cruising Areas",1977,"",-106.328904,42.858143,"Verified Location",NA,NA,NA,"1977-WY-0010"
+"Buckhorn","('Best bet')","114 Ivinson","Laramie","WY","(M),(W),(YC)","Bars/Clubs",1979,NA,-105.5953206,41.3119437,"Google Verified Location",NA,NA,NA,"1979-WY-0011"
+"Buckhorn","('Best bet')","114 Ivinson","Laramie","WY","(M),(W)","Bars/Clubs",1980,NA,-105.5953206,41.3119437,"Google Verified Location",NA,NA,NA,"1980-WY-0012"
+"Buckhorn","('Best bet')","114 Ivinson","Laramie","WY","(M),(W),(YC)","Bars/Clubs",1978,NA,-105.5953206,41.3119437,"Google Verified Location",NA,NA,NA,"1978-WY-0013"
+"Conwell Park","(Summers)","","Casper","WY","Cruisy Area","Cruising Areas",1979,"",-106.308105,42.849432,"Verified Location",NA,NA,NA,"1979-WY-0014"
+"Conwell Park","(Summers)","","Casper","WY","Cruisy Area","Cruising Areas",1980,"",-106.308105,42.849432,"Verified Location",NA,NA,NA,"1980-WY-0015"
+"Conwell Park","(Summers)","","Casper","WY","Cruisy Area","Cruising Areas",1978,"",-106.308105,42.849432,"Verified Location",NA,NA,NA,"1978-WY-0016"
+"Cowboy Bar","On the square. Best at bar near front door","","Jackson","WY","(M),(W),(YC),(R),(PT),(*)","Bars/Clubs,Restaurant",1978,"coordinates for Jackson Sq",-110.761779,43.479956,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-WY-0017"
+"Cowboy Bar","(Very M) (Try front bar area) On the Square","","Jackson","WY","(M),(W),(YC),(PT)","Bars/Clubs",1979,"coordinates for Jackson Sq",-110.761779,43.479956,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-WY-0018"
+"Cowboy Bar","(Very M) (Try front bar area) On the Square","","Jackson","WY","(M),(W),(YC),(PT)","Bars/Clubs",1980,"coordinates for Jackson Sq",-110.761779,43.479956,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-WY-0019"
+"Dotsie's","Inquire locally","","Rock Springs","WY","(M),(C),(AH)","Bars/Clubs",1978,"",-109.202904,41.587464,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-WY-0020"
+"Dotsie's","Inquire locally","","Rock Springs","WY","(M),(C),(AH)","Bars/Clubs",1977,NA,-109.2029043,41.5874644,"Google Verified Location",NA,NA,NA,"1977-WY-0021"
+"Dr. Finfrock's Table","","209 S. 3rd.","Laramie","WY","(M),(R),(OC)","Restaurant",1978,NA,-105.5932623,41.3114849,"Google Verified Location",NA,NA,NA,"1978-WY-0022"
+"Dr. Finfrock's Table","","209 S. 3rd.","Laramie","WY","(M),(R),(OC)","Restaurant",1979,NA,-105.5932623,41.3114849,"Google Verified Location",NA,NA,NA,"1979-WY-0023"
+"Everybody's","Inquire locally","","Laramie","WY","(P),(M),(AH)","Bars/Clubs",1978,"",-105.591101,41.311367,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-WY-0024"
+"Green Door","(entrance behind Al's Liquors)","301 E. 16th","Cheyenne","WY","(M)","Bars/Clubs",1973,NA,-104.8115169,41.1339185,"Google Verified Location",NA,NA,NA,"1973-WY-0025"
+"Green Door","(entrance behind Al's Liquors)","301 E. 16th","Cheyenne","WY","(M)","Bars/Clubs",1974,NA,-104.8115169,41.1339185,"Google Verified Location",NA,NA,NA,"1974-WY-0026"
+"Green Door","(entrance behind Al's Liquors)","301 E. 16th","Cheyenne","WY","(M)","Bars/Clubs",1975,NA,-104.8115169,41.1339185,"Google Verified Location",NA,NA,NA,"1975-WY-0027"
+"Hitching Post Inn","(Bar only) (Best bet*) ","1600 W. Lincoln Way","Cheyenne","WY","(M),(*),(E)","Bars/Clubs",1980,NA,-104.8327957,41.1266238,"Google Verified Location",NA,NA,NA,"1980-WY-0028"
+"Hitching Post Inn","(Bar only) (Best bet*) ","1600 W. Lincoln Way","Cheyenne","WY","(M),(*),(E)","Bars/Clubs",1979,NA,-104.8327957,41.1266238,"Google Verified Location",NA,NA,NA,"1979-WY-0029"
+"Hitching Post Motel Lounge","(Bar only)","1800 W. Lincoln Way","Cheyenne","WY","(M)","Bars/Clubs",1977,NA,-104.8342849,41.1259067,"Google Verified Location",NA,NA,NA,"1977-WY-0030"
+"Hitching Post Motel Lounge","(Bar only)","1800 W. Lincoln Way","Cheyenne","WY","(M)","Bars/Clubs",1976,NA,-104.8342849,41.1259067,"Google Verified Location",NA,NA,NA,"1976-WY-0031"
+"Holding's Little America Lodge","(Jct. of I-25 & I-80)","2200 W. Lincoln Way","Cheyenne","WY","(M)","Bars/Clubs",1979,NA,-104.7909753,41.1387768,"Google Verified Location",NA,NA,NA,"1979-WY-0032"
+"Holdings' Little America Lodge","(Jct. of I-25 & I-80)","2200 W. Lincoln Way","Cheyenne","WY","(M)","Bars/Clubs",1980,NA,-104.7909753,41.1387768,"Google Verified Location",NA,NA,NA,"1980-WY-0033"
+"Holiday Inn Bar","","300 W. F Street","Casper","WY","(M)","Bars/Clubs,Hotel",1977,NA,-106.3289038,42.8581433,"Google Verified Location",NA,NA,NA,"1977-WY-0034"
+"Holiday Inn Bar","","300 W. F St.","Casper","WY","(M)","Hotel,Bars/Clubs",1978,NA,-106.3289038,42.8581433,"Google Verified Location",NA,NA,NA,"1978-WY-0035"
+"Holiday Inn Bar","","300 W. F St.","Casper","WY","(M)","Hotel,Bars/Clubs",1980,NA,-106.3289038,42.8581433,"Google Verified Location",NA,NA,NA,"1980-WY-0036"
+"Holiday Inn Bar","","300 W. F St.","Casper","WY","(M)","Hotel,Bars/Clubs",1979,NA,-106.3289038,42.8581433,"Google Verified Location",NA,NA,NA,"1979-WY-0037"
+"Holiday Park","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1977,"",-104.799258,41.138812,"Verified Location",NA,NA,NA,"1977-WY-0038"
+"Holiday Park","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1976,"",-104.799258,41.138812,"Verified Location",NA,NA,NA,"1976-WY-0039"
+"Holiday Park","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1978,"",-104.799258,41.138812,"Verified Location",NA,NA,NA,"1978-WY-0040"
+"Holiday Park","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1979,"",-104.799258,41.138812,"Verified Location",NA,NA,NA,"1979-WY-0041"
+"Holiday Park","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1980,"",-104.799258,41.138812,"Verified Location",NA,NA,NA,"1980-WY-0042"
+"Mayflower","(Back bar only)","112 W. 17th","Cheyenne","WY","(M),(W)","Bars/Clubs",1973,NA,-104.8154317,41.1341035,"Google Verified Location",NA,NA,NA,"1973-WY-0043"
+"Mayflower","(Back bar only)","112 W. 17th","Cheyenne","WY","(M),(W)","Bars/Clubs",1974,NA,-104.8154317,41.1341035,"Google Verified Location",NA,NA,NA,"1974-WY-0044"
+"Mayflower","(Back bar only)","112 W. 17th","Cheyenne","WY","(M),(W)","Bars/Clubs",1975,NA,-104.8154317,41.1341035,"Google Verified Location",NA,NA,NA,"1975-WY-0045"
+"Mayflower","(Back bar)","112 W. 17th","Cheyenne","WY","(M),(W)","Bars/Clubs",1976,NA,-104.8154317,41.1341035,"Google Verified Location",NA,NA,NA,"1976-WY-0046"
+"Mayflower","(Back bar)","112 West 17th","Cheyenne","WY","(M),(W)","Bars/Clubs",1977,NA,-104.8154317,41.1341035,"Google Verified Location",NA,NA,NA,"1977-WY-0047"
+"O.P. Taylor's Liquor Locker","(Some L) (E- WE)","2018 Carey Ave.","Cheyenne","WY","(M),(L),(PT),(E),(WE)","Bars/Clubs",1980,NA,-104.8198273,41.1360512,"Google Verified Location",NA,NA,NA,"1980-WY-0048"
+"O.P. Taylor's Liquor Locker","(Some G) (E- WE)","2018 Carey Ave.","Cheyenne","WY","(M),(PT),(E),(WE),(G)","Bars/Clubs",1979,NA,-104.8198273,41.1360512,"Google Verified Location",NA,NA,NA,"1979-WY-0049"
+"Outlaw Bar","","1630 Elk St.","Rock Springs","WY","(M)","Bars/Clubs",1977,NA,-109.2295368,41.6125654,"Google Verified Location",NA,NA,NA,"1977-WY-0050"
+"Outlaw Bar","","1630 Elk St.","Rock Springs","WY","(M),(W)","Bars/Clubs",1979,NA,-109.2295368,41.6125654,"Google Verified Location",NA,NA,NA,"1979-WY-0051"
+"Outlaw Bar","","1630 Elk St.","Rock Springs","WY","(M),(W)","Bars/Clubs",1978,NA,-109.2295368,41.6125654,"Google Verified Location",NA,NA,NA,"1978-WY-0052"
+"Outlaw Bar","","1630 Elk St.","Rock Springs","WY","(M),(W)","Bars/Clubs",1980,NA,-109.2295368,41.6125654,"Google Verified Location",NA,NA,NA,"1980-WY-0053"
+"Plains Hotel Bar","","1600 Central Ave","Cheyenne","WY","(M)","Bars/Clubs,Hotel",1966,NA,-104.8145914,41.1333759,"Google Verified Location",NA,NA,NA,"1966-WY-0054"
+"Plains Hotel Bar","","1600 Central Ave","Cheyenne","WY","(M)","Bars/Clubs,Hotel",1968,NA,-104.8145914,41.1333759,"Google Verified Location",NA,NA,NA,"1968-WY-0055"
+"Plains Hotel Bar","","1600 Central Ave","Cheyenne","WY","(M)","Bars/Clubs,Hotel",1969,NA,-104.8145914,41.1333759,"Google Verified Location",NA,NA,NA,"1969-WY-0056"
+"Plains Hotel Bar","","1600 Central Ave","Cheyenne","WY","(M)","Bars/Clubs",1965,NA,-104.8145914,41.1333759,"Google Verified Location",NA,NA,NA,"1965-WY-0057"
+"Poor Richard's","E. Lincoln Way at Converse","","Cheyenne","WY","(M)","Bars/Clubs",1979,"",-104.79007,41.138426,"Verified Location",NA,NA,NA,"1979-WY-0058"
+"Poor Richard's","E. Lincoln Way at Converse","","Cheyenne","WY","(M)","Bars/Clubs",1980,"",-104.79007,41.138426,"Verified Location",NA,NA,NA,"1980-WY-0059"
+"Rancher Bar","on the square","","Jackson","WY","(M),(W),(OC)","Bars/Clubs",1978,"coordinates for Jackson Sq",-110.761779,43.479956,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-WY-0060"
+"Sam's Place"," Plains Hotel","1600 Central Avenue","Cheyenne","WY","(M),(W),(RT),(*)","Bars/Clubs,Hotel",1976,NA,-104.8145914,41.1333759,"Google Verified Location",NA,NA,NA,"1976-WY-0061"
+"Sam's Place","(Some RT. SM)* Plains Hotel","1600 Central Avenue","Cheyenne","WY","(M),(W),(RT),(SM),(*)","Bars/Clubs,Hotel",1977,NA,-104.8145914,41.1333759,"Google Verified Location",NA,NA,NA,"1977-WY-0062"
+"Sam's Place","(Some RT, SM)* Plains Hotel","1600 Central Ave.","Cheyenne","WY","(M),(W),(RT),(SM),(*)","Bars/Clubs,Hotel",1978,NA,-104.8145914,41.1333759,"Google Verified Location",NA,NA,NA,"1978-WY-0063"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1966,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1966-WY-0064"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M),(W)","Bars/Clubs",1978,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1978-WY-0065"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M),(W)","Bars/Clubs",1976,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1976-WY-0066"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1975,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1975-WY-0067"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1971,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1971-WY-0068"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(SM)","Bars/Clubs",1965,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1965-WY-0069"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M),(W)","Bars/Clubs",1977,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1977-WY-0070"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1970,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1970-WY-0071"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1974,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1974-WY-0072"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1968,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1968-WY-0073"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1969,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1969-WY-0074"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1972,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1972-WY-0075"
+"Silver Dollar","","86 W. Broadway","Jackson","WY","(M)","Bars/Clubs",1973,NA,-110.7609973,43.4793793,"Google Verified Location",NA,NA,NA,"1973-WY-0076"
+"Stockman's Bar","(next to Albany Hotel)","1504 Capitol","Cheyenne","WY","(M),(RT)","Bars/Clubs",1974,NA,-104.8151343,41.1318963,"Google Verified Location",NA,NA,NA,"1974-WY-0077"
+"Stockman's Bar","(next to Albany Hotel)","1504 Capitol","Cheyenne","WY","(M),(RT)","Bars/Clubs",1976,NA,-104.8151343,41.1318963,"Google Verified Location",NA,NA,NA,"1976-WY-0078"
+"Stockman's Bar","(next to Albany Hotel)","1504 Capitol","Cheyenne","WY","(M),(RT)","Bars/Clubs",1973,NA,-104.8151343,41.1318963,"Google Verified Location",NA,NA,NA,"1973-WY-0079"
+"Stockman's Bar","(next to Albany Hotel)","1504 Capitol","Cheyenne","WY","(M),(RT)","Bars/Clubs",1975,NA,-104.8151343,41.1318963,"Google Verified Location",NA,NA,NA,"1975-WY-0080"
+"Tippin","1/2 block W. of O'Neill","642 W. 20th ","Cheyenne","WY","(P),(M),(RT),(AH)","Bars/Clubs",1976,NA,-104.8231249,41.1345651,"Google Verified Location",NA,NA,NA,"1976-WY-0081"
+"Tippin","1/2 block W. of O'Neill","642 W. 20th","Cheyenne","WY","(P),(M),(RT),(AH)","Bars/Clubs",1978,NA,-104.8231249,41.1345651,"Google Verified Location",NA,NA,NA,"1978-WY-0082"
+"Tippin","1/2 block West of O'Neill","642 West 20th","Cheyenne","WY","(P),(M),(RT),(AH)","Bars/Clubs",1977,NA,-104.8231249,41.1345651,"Google Verified Location",NA,NA,NA,"1977-WY-0083"
+"Trailways Bus Depot","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1979,"",-104.837364,41.130652,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-WY-0084"
+"Trailways Bus Depot","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1980,"",-104.837364,41.130652,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-WY-0085"
+"Trailways Bus Depot","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1978,"",-104.837364,41.130652,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-WY-0086"
+"Vicinity of Holiday Inn","","300 W. F Street","Casper","WY","Cruisy Area","Cruising Areas,Hotel",1979,"",-106.328904,42.858143,"Verified Location",NA,NA,NA,"1979-WY-0087"
+"Vicinity of Holiday Inn","","300 W. F Street","Casper","WY","Cruisy Area","Cruising Areas,Hotel",1980,"",-106.328904,42.858143,"Verified Location",NA,NA,NA,"1980-WY-0088"
+"Vicinity of Holiday Inn","","300 W. F Street","Casper","WY","Cruisy Area","Cruising Areas",1978,"",-106.328904,42.858143,"Verified Location",NA,NA,NA,"1978-WY-0089"
+"Vicinity of Trailways Bus Depot","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1977,"",-104.837364,41.130652,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-WY-0090"
+"Vicinity of Trailways Bus Depot","","","Cheyenne","WY","Cruisy Area","Cruising Areas",1976,"",-104.837364,41.130652,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1976-WY-0091"
+"Wonderbar","(Summers)","254 S. Center St.","Casper","WY","(M)","Bars/Clubs",1979,NA,-106.3255135,42.8477613,"Google Verified Location",NA,NA,NA,"1979-WY-0092"
+"Wonderbar","(Summers)","254 S. Center St.","Casper","WY","(M)","Bars/Clubs",1980,NA,-106.3255135,42.8477613,"Google Verified Location",NA,NA,NA,"1980-WY-0093"
+"Wonderbar","(Summers only)
+","254 S. Center Street","Casper","WY","(M)","Bars/Clubs",1977,NA,-106.3255135,42.8477613,"Google Verified Location",NA,NA,NA,"1977-WY-0094"
+"Wonderbar","(Summers)","254 S. Center St.","Casper","WY","(M)","Bars/Clubs",1978,NA,-106.3255135,42.8477613,"Google Verified Location",NA,NA,NA,"1978-WY-0095"

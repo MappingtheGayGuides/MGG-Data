@@ -1,71 +1,71 @@
-﻿Field 1,ID,title,description,streetaddress,city,state,amenityfeatures,type,Year,notes,lon,lat,status
-987,ND011,Adult Book Store & Cinema X ,(Cruisy),417 N.P. Ave.,Fargo,ND,,"Book Store,Theatre,Cruising Areas",1979,NA,-96.7856448,46.876164,Google Verified Location
-994,ND018,Adult Book Store & Cinema X ,,417 N.P. Ave.,Fargo,ND,,"Book Store,Theatre",1978,NA,-96.7856448,46.876164,Google Verified Location
-989,ND013,Broadway,(nights),,Fargo,ND,Cruisy Area,Cruising Areas,1979,General coordinates used for Broadway N,-96.787519,46.901696,Location could not be verified. General city or location coordinates used.
-998,ND022,Broadway,(nights),,Fargo,ND,Cruisy Area,Cruising Areas,1978,General coordinates used for Broadway N,-96.787519,46.901696,Location could not be verified. General city or location coordinates used.
-982,ND006,Broadway,(nights),,Fargo,ND,Cruisy Area,Cruising Areas,1980,General coordinates used for Broadway N,-96.787519,46.901696,Location could not be verified. General city or location coordinates used.
-1000,ND024,Chateau Guest Ranch,"(May to Sept. only) Box 177-A, Leonard, N.D. 58052",,Leonard,ND,(H),Hotel,1978,,-97.245647,46.651915,Location could not be verified. General city or location coordinates used.
-1007,ND031,Chateau Guest Ranch,"(Looks promising - open May - Spet. only) Write: Box 177-A Leonard, N.D. 58052",,Leonard,ND,(H),Hotel,1977,,-97.245647,46.651915,Location could not be verified. General city or location coordinates used.
-995,ND019,Chatterbox,,501 N.P. Ave.,Fargo,ND,(M),Bars/Clubs,1978,NA,-96.7861605,46.8759279,Google Verified Location
-984,ND008,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1980,NA,-101.291994,48.2218862,Google Verified Location
-1008,ND032,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1977,NA,-101.291994,48.2218862,Google Verified Location
-1001,ND025,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1978,NA,-101.291994,48.2218862,Google Verified Location
-991,ND015,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Bars/Clubs,Hotel",1979,NA,-101.291994,48.2218862,Google Verified Location
-1014,ND038,Clance Parker Hotel Bar,,14 S.E. 1st ,Minot,ND,(M),"Hotel,Bars/Clubs",1976,NA,-101.291994,48.2218862,Google Verified Location
-1040,ND064,Clarence Parker Hotel Bar,,14 S.E. 1st,Minot,ND,(M),"Bars/Clubs,Hotel",1970,NA,-101.291994,48.2218862,Google Verified Location
-1036,ND060,Clarence Parker Hotel Bar,,14 S. E. 1st,Minot,ND,(M),"Bars/Clubs,Hotel",1971,NA,-101.291994,48.2218862,Google Verified Location
-992,ND016,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),"Bars/Clubs,Hotel",1978,,-100.774521,46.824754,Verified Location
-1002,ND026,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),Bars/Clubs,1977,,-100.774521,46.824754,Verified Location
-985,ND009,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),"Bars/Clubs,Hotel",1979,,-100.774521,46.824754,Verified Location
-977,ND001,Embers Lounge,Town House Motor Inn,,Bismarck,ND,(M),"Bars/Clubs,Hotel",1980,,-100.774521,46.824754,Verified Location
-1022,ND046,Five Spot,(bar only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1974,NA,-96.7873669,46.878083,Google Verified Location
-1046,ND070,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1968,NA,-96.7873669,46.878083,Google Verified Location
-1043,ND067,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1969,NA,-96.7873669,46.878083,Google Verified Location
-1027,ND051,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1973,NA,-96.7873669,46.878083,Google Verified Location
-1017,ND041,Five Spot,(bar only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1975,NA,-96.7873669,46.878083,Google Verified Location
-1035,ND059,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1971,NA,-96.7873669,46.878083,Google Verified Location
-1039,ND063,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1970,NA,-96.7873669,46.878083,Google Verified Location
-1032,ND056,Five Spot,(bar area only),205 Broadway,Fargo,ND,(M),Bars/Clubs,1972,NA,-96.7873669,46.878083,Google Verified Location
-996,ND020,Flame,,408 Robert St.,Fargo,ND,(M),Bars/Clubs,1978,NA,-96.7891617,46.8805779,Google Verified Location
-988,ND012,Flame,,403 Roberts St.,Fargo,ND,"(M),(W)",Bars/Clubs,1979,NA,-96.7888939,46.8800967,Google Verified Location
-978,ND002,Flame,,403 Roberts St.,Fargo,ND,"(M),(WE)",Bars/Clubs,1980,NA,-96.7888939,46.8800967,Google Verified Location
-1028,ND052,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,(M),"Hotel,Bars/Clubs",1973,NA,-96.7893648,46.8777375,Google Verified Location
-1018,ND042,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,(M),"Bars/Clubs,Hotel",1975,NA,-96.7893648,46.8777375,Google Verified Location
-1023,ND047,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,(M),"Bars/Clubs,Hotel",1974,NA,-96.7893648,46.8777375,Google Verified Location
-1004,ND028,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,"(M),(W)","Bars/Clubs,Hotel",1977,NA,-96.7893648,46.8777375,Google Verified Location
-1011,ND035,Gaslight Lounge,Graver Hotel,123 Roberts St.,Fargo,ND,"(M),(W)","Bars/Clubs,Hotel",1976,NA,-96.7893648,46.8777375,Google Verified Location
-979,ND003,Pink Pussycat,,401 N. P Ave.,Fargo,ND,(M),Bars/Clubs,1980,NA,-96.785004,46.876224,Google Verified Location
-1013,ND037,Rayan Hotel,,23 N. 3rd.,Grand Forks,ND,,"Hotel,Bars/Clubs",1976,NA,-97.031908,47.9254943,Google Verified Location
-999,ND023,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Bars/Clubs,Hotel",1978,NA,-97.031908,47.9254943,Google Verified Location
-1006,ND030,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Hotel,Bars/Clubs",1977,NA,-97.031908,47.9254943,Google Verified Location
-990,ND014,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Bars/Clubs,Hotel",1979,NA,-97.031908,47.9254943,Google Verified Location
-983,ND007,Rayan Hotel Bar,,23 N. 3rd. ,Grand Forks,ND,(M),"Bars/Clubs,Hotel",1980,NA,-97.031908,47.9254943,Google Verified Location
-997,ND021,Red Ram,,Broadway & 2nd Ave,Fargo,ND,(M),Bars/Clubs,1978,,-96.787487,46.878049,Verified Location
-1019,ND043,River Queen,,113 N. 3rd,Grand Forks,ND,(M),Bars/Clubs,1975,NA,-97.0319312,47.9259496,Google Verified Location
-1024,ND048,River Queen,,113 N. 3rd,Grand Forks,ND,(M),Bars/Clubs,1974,NA,-97.0319312,47.9259496,Google Verified Location
-1029,ND053,River Queen,,113 N. 3rd,Grand Forks,ND,(M),Bars/Clubs,1973,NA,-97.0319312,47.9259496,Google Verified Location
-980,ND004,Roundup Bar,,409 N. P Ave.,Fargo,ND,(M),Bars/Clubs,1980,NA,-96.785254,46.876223,Google Verified Location
-1044,ND068,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1968,,-102.805167,46.879138,Verified Location
-1010,ND034,Spur,,13th & Villard,Dickenson,ND,,Bars/Clubs,1976,,-102.805167,46.879138,Verified Location
-1030,ND054,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1972,,-102.805167,46.879138,Verified Location
-1037,ND061,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1970,,-102.805167,46.879138,Verified Location
-1020,ND044,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1974,,-102.805167,46.879138,Verified Location
-1015,ND039,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1975,,-102.805167,46.879138,Verified Location
-1025,ND049,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1973,,-102.805167,46.879138,Verified Location
-1033,ND057,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1971,,-102.805167,46.879138,Verified Location
-1041,ND065,Spur,,13th & Villard,Dickenson,ND,(M),Bars/Clubs,1969,,-102.805167,46.879138,Verified Location
-986,ND010,Stockman's,,1st & Villard,Dickenson,ND,"(M),(W)",Bars/Clubs,1979,,-102.787036,46.878827,Verified Location
-1038,ND062,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1970,,-102.787036,46.878827,Verified Location
-1016,ND040,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1975,,-102.787036,46.878827,Verified Location
-1031,ND055,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1972,,-102.787036,46.878827,Verified Location
-1003,ND027,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1977,,-102.787036,46.878827,Verified Location
-1026,ND050,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1973,,-102.787036,46.878827,Verified Location
-993,ND017,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1978,,-102.787036,46.878827,Verified Location
-1021,ND045,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1974,,-102.787036,46.878827,Verified Location
-1034,ND058,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1971,,-102.787036,46.878827,Verified Location
-1009,ND033,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1976,,-102.787036,46.878827,Verified Location
-1042,ND066,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1969,,-102.787036,46.878827,Verified Location
-1045,ND069,Stockman's,,1st & Villard,Dickenson,ND,(M),Bars/Clubs,1968,,-102.787036,46.878827,Verified Location
-1012,ND036,Take Five,,205 Broadway,Fargo,ND,,Bars/Clubs,1976,NA,-96.7873669,46.878083,Google Verified Location
-1005,ND029,Take Five,(Some G) (Best bet in the Dakotas!),520 2nd Ave. N.,Fargo,ND,"(D),(G),(*)",Bars/Clubs,1977,NA,-96.7867504,46.8778064,Google Verified Location
-981,ND005,Torchlight,"(Some W, YC) (Inquire locally)",,Fargo,ND,"(M),(YC),(W),(E),(AYOR)",Bars/Clubs,1980,,-96.789803,46.877186,Location could not be verified. General city or location coordinates used.
+"title","description","streetaddress","city","state","amenityfeatures","type","Year","notes","lon","lat","status","unclear_address","full.address","geoAddress","ID"
+"Adult Book Store & Cinema X ","(Cruisy)","417 N.P. Ave.","Fargo","ND","","Book Store,Theatre,Cruising Areas",1979,NA,-96.7856448,46.876164,"Google Verified Location",NA,NA,NA,"1979-ND-0001"
+"Adult Book Store & Cinema X ","","417 N.P. Ave.","Fargo","ND","","Book Store,Theatre",1978,NA,-96.7856448,46.876164,"Google Verified Location",NA,NA,NA,"1978-ND-0002"
+"Broadway","(nights)","","Fargo","ND","Cruisy Area","Cruising Areas",1979,"General coordinates used for Broadway N",-96.787519,46.901696,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1979-ND-0003"
+"Broadway","(nights)","","Fargo","ND","Cruisy Area","Cruising Areas",1978,"General coordinates used for Broadway N",-96.787519,46.901696,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-ND-0004"
+"Broadway","(nights)","","Fargo","ND","Cruisy Area","Cruising Areas",1980,"General coordinates used for Broadway N",-96.787519,46.901696,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-ND-0005"
+"Chateau Guest Ranch","(May to Sept. only) Box 177-A, Leonard, N.D. 58052","","Leonard","ND","(H)","Hotel",1978,"",-97.245647,46.651915,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1978-ND-0006"
+"Chateau Guest Ranch","(Looks promising - open May - Spet. only) Write: Box 177-A Leonard, N.D. 58052","","Leonard","ND","(H)","Hotel",1977,"",-97.245647,46.651915,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1977-ND-0007"
+"Chatterbox","","501 N.P. Ave.","Fargo","ND","(M)","Bars/Clubs",1978,NA,-96.7861605,46.8759279,"Google Verified Location",NA,NA,NA,"1978-ND-0008"
+"Clance Parker Hotel Bar","","14 S.E. 1st ","Minot","ND","(M)","Bars/Clubs,Hotel",1980,NA,-101.291994,48.2218862,"Google Verified Location",NA,NA,NA,"1980-ND-0009"
+"Clance Parker Hotel Bar","","14 S.E. 1st ","Minot","ND","(M)","Bars/Clubs,Hotel",1977,NA,-101.291994,48.2218862,"Google Verified Location",NA,NA,NA,"1977-ND-0010"
+"Clance Parker Hotel Bar","","14 S.E. 1st ","Minot","ND","(M)","Bars/Clubs,Hotel",1978,NA,-101.291994,48.2218862,"Google Verified Location",NA,NA,NA,"1978-ND-0011"
+"Clance Parker Hotel Bar","","14 S.E. 1st ","Minot","ND","(M)","Bars/Clubs,Hotel",1979,NA,-101.291994,48.2218862,"Google Verified Location",NA,NA,NA,"1979-ND-0012"
+"Clance Parker Hotel Bar","","14 S.E. 1st ","Minot","ND","(M)","Hotel,Bars/Clubs",1976,NA,-101.291994,48.2218862,"Google Verified Location",NA,NA,NA,"1976-ND-0013"
+"Clarence Parker Hotel Bar","","14 S.E. 1st","Minot","ND","(M)","Bars/Clubs,Hotel",1970,NA,-101.291994,48.2218862,"Google Verified Location",NA,NA,NA,"1970-ND-0014"
+"Clarence Parker Hotel Bar","","14 S. E. 1st","Minot","ND","(M)","Bars/Clubs,Hotel",1971,NA,-101.291994,48.2218862,"Google Verified Location",NA,NA,NA,"1971-ND-0015"
+"Embers Lounge","Town House Motor Inn","","Bismarck","ND","(M)","Bars/Clubs,Hotel",1978,"",-100.774521,46.824754,"Verified Location",NA,NA,NA,"1978-ND-0016"
+"Embers Lounge","Town House Motor Inn","","Bismarck","ND","(M)","Bars/Clubs",1977,"",-100.774521,46.824754,"Verified Location",NA,NA,NA,"1977-ND-0017"
+"Embers Lounge","Town House Motor Inn","","Bismarck","ND","(M)","Bars/Clubs,Hotel",1979,"",-100.774521,46.824754,"Verified Location",NA,NA,NA,"1979-ND-0018"
+"Embers Lounge","Town House Motor Inn","","Bismarck","ND","(M)","Bars/Clubs,Hotel",1980,"",-100.774521,46.824754,"Verified Location",NA,NA,NA,"1980-ND-0019"
+"Five Spot","(bar only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1974,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1974-ND-0020"
+"Five Spot","(bar area only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1968,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1968-ND-0021"
+"Five Spot","(bar area only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1969,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1969-ND-0022"
+"Five Spot","(bar area only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1973,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1973-ND-0023"
+"Five Spot","(bar only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1975,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1975-ND-0024"
+"Five Spot","(bar area only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1971,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1971-ND-0025"
+"Five Spot","(bar area only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1970,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1970-ND-0026"
+"Five Spot","(bar area only)","205 Broadway","Fargo","ND","(M)","Bars/Clubs",1972,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1972-ND-0027"
+"Flame","","408 Robert St.","Fargo","ND","(M)","Bars/Clubs",1978,NA,-96.7891617,46.8805779,"Google Verified Location",NA,NA,NA,"1978-ND-0028"
+"Flame","","403 Roberts St.","Fargo","ND","(M),(W)","Bars/Clubs",1979,NA,-96.7888939,46.8800967,"Google Verified Location",NA,NA,NA,"1979-ND-0029"
+"Flame","","403 Roberts St.","Fargo","ND","(M),(WE)","Bars/Clubs",1980,NA,-96.7888939,46.8800967,"Google Verified Location",NA,NA,NA,"1980-ND-0030"
+"Gaslight Lounge","Graver Hotel","123 Roberts St.","Fargo","ND","(M)","Hotel,Bars/Clubs",1973,NA,-96.7893648,46.8777375,"Google Verified Location",NA,NA,NA,"1973-ND-0031"
+"Gaslight Lounge","Graver Hotel","123 Roberts St.","Fargo","ND","(M)","Bars/Clubs,Hotel",1975,NA,-96.7893648,46.8777375,"Google Verified Location",NA,NA,NA,"1975-ND-0032"
+"Gaslight Lounge","Graver Hotel","123 Roberts St.","Fargo","ND","(M)","Bars/Clubs,Hotel",1974,NA,-96.7893648,46.8777375,"Google Verified Location",NA,NA,NA,"1974-ND-0033"
+"Gaslight Lounge","Graver Hotel","123 Roberts St.","Fargo","ND","(M),(W)","Bars/Clubs,Hotel",1977,NA,-96.7893648,46.8777375,"Google Verified Location",NA,NA,NA,"1977-ND-0034"
+"Gaslight Lounge","Graver Hotel","123 Roberts St.","Fargo","ND","(M),(W)","Bars/Clubs,Hotel",1976,NA,-96.7893648,46.8777375,"Google Verified Location",NA,NA,NA,"1976-ND-0035"
+"Pink Pussycat","","401 N. P Ave.","Fargo","ND","(M)","Bars/Clubs",1980,NA,-96.785004,46.876224,"Google Verified Location",NA,NA,NA,"1980-ND-0036"
+"Rayan Hotel","","23 N. 3rd.","Grand Forks","ND","","Hotel,Bars/Clubs",1976,NA,-97.031908,47.9254943,"Google Verified Location",NA,NA,NA,"1976-ND-0037"
+"Rayan Hotel Bar","","23 N. 3rd. ","Grand Forks","ND","(M)","Bars/Clubs,Hotel",1978,NA,-97.031908,47.9254943,"Google Verified Location",NA,NA,NA,"1978-ND-0038"
+"Rayan Hotel Bar","","23 N. 3rd. ","Grand Forks","ND","(M)","Hotel,Bars/Clubs",1977,NA,-97.031908,47.9254943,"Google Verified Location",NA,NA,NA,"1977-ND-0039"
+"Rayan Hotel Bar","","23 N. 3rd. ","Grand Forks","ND","(M)","Bars/Clubs,Hotel",1979,NA,-97.031908,47.9254943,"Google Verified Location",NA,NA,NA,"1979-ND-0040"
+"Rayan Hotel Bar","","23 N. 3rd. ","Grand Forks","ND","(M)","Bars/Clubs,Hotel",1980,NA,-97.031908,47.9254943,"Google Verified Location",NA,NA,NA,"1980-ND-0041"
+"Red Ram","","Broadway & 2nd Ave","Fargo","ND","(M)","Bars/Clubs",1978,"",-96.787487,46.878049,"Verified Location",NA,NA,NA,"1978-ND-0042"
+"River Queen","","113 N. 3rd","Grand Forks","ND","(M)","Bars/Clubs",1975,NA,-97.0319312,47.9259496,"Google Verified Location",NA,NA,NA,"1975-ND-0043"
+"River Queen","","113 N. 3rd","Grand Forks","ND","(M)","Bars/Clubs",1974,NA,-97.0319312,47.9259496,"Google Verified Location",NA,NA,NA,"1974-ND-0044"
+"River Queen","","113 N. 3rd","Grand Forks","ND","(M)","Bars/Clubs",1973,NA,-97.0319312,47.9259496,"Google Verified Location",NA,NA,NA,"1973-ND-0045"
+"Roundup Bar","","409 N. P Ave.","Fargo","ND","(M)","Bars/Clubs",1980,NA,-96.785254,46.876223,"Google Verified Location",NA,NA,NA,"1980-ND-0046"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1968,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1968-ND-0047"
+"Spur","","13th & Villard","Dickenson","ND","","Bars/Clubs",1976,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1976-ND-0048"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1972,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1972-ND-0049"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1970,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1970-ND-0050"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1974,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1974-ND-0051"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1975,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1975-ND-0052"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1973,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1973-ND-0053"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1971,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1971-ND-0054"
+"Spur","","13th & Villard","Dickenson","ND","(M)","Bars/Clubs",1969,"",-102.805167,46.879138,"Verified Location",NA,NA,NA,"1969-ND-0055"
+"Stockman's","","1st & Villard","Dickenson","ND","(M),(W)","Bars/Clubs",1979,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1979-ND-0056"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1970,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1970-ND-0057"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1975,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1975-ND-0058"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1972,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1972-ND-0059"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1977,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1977-ND-0060"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1973,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1973-ND-0061"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1978,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1978-ND-0062"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1974,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1974-ND-0063"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1971,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1971-ND-0064"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1976,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1976-ND-0065"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1969,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1969-ND-0066"
+"Stockman's","","1st & Villard","Dickenson","ND","(M)","Bars/Clubs",1968,"",-102.787036,46.878827,"Verified Location",NA,NA,NA,"1968-ND-0067"
+"Take Five","","205 Broadway","Fargo","ND","","Bars/Clubs",1976,NA,-96.7873669,46.878083,"Google Verified Location",NA,NA,NA,"1976-ND-0068"
+"Take Five","(Some G) (Best bet in the Dakotas!)","520 2nd Ave. N.","Fargo","ND","(D),(G),(*)","Bars/Clubs",1977,NA,-96.7867504,46.8778064,"Google Verified Location",NA,NA,NA,"1977-ND-0069"
+"Torchlight","(Some W, YC) (Inquire locally)","","Fargo","ND","(M),(YC),(W),(E),(AYOR)","Bars/Clubs",1980,"",-96.789803,46.877186,"Location could not be verified. General city or location coordinates used.",NA,NA,NA,"1980-ND-0070"
