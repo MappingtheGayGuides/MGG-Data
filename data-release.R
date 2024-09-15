@@ -111,29 +111,3 @@ amend.status.col <- function(df) {
 
 merged_df <- amend.status.col(merged_df)
 unique(merged_df$status)
-
-
-
-count_and_plot_entries_in_AK <- function(df) {
-  # Filter the dataframe for entries where the state is "AK"
-  ak_entries <- df %>% filter(state == "AK")
-
-  # Count the number of entries per year
-  ak_yearly_count <- ak_entries %>%
-    group_by(Year) %>%
-    summarise(count = n())
-
-  # Generate the bar plot
-  ggplot(ak_yearly_count, aes(x = Year, y = count)) +
-    geom_bar(stat = "identity") +
-    labs(
-      title = "Number of Locations in AK by Year",
-      x = "Year",
-      y = "Number of Locations"
-    ) +
-    theme_minimal() +
-    scale_x_continuous(breaks = seq(min(ak_yearly_count$Year), max(ak_yearly_count$Year), by = 2))
-}
-
-# Example usage
-count_and_plot_entries_in_AK(merged_df)
