@@ -29,10 +29,19 @@ remove_extra_columns_and_save <- function(folder_path, desired_columns) {
 }
 
 # Example usage
-folder_path <- "4-FullVerifiedDatasets"
+folder_path <- "3-GeocodedDatasets"
 desired_columns <- c("title", "amenityfeatures", "description", "streetaddress", "type", "city", "state", "Year", "unclear_address", "notes", "full.address", "lon", "lat", "geoAddress", "status")
 remove_extra_columns_and_save(folder_path, desired_columns)
 
+create_full_verified_datasets <- function(year) {
+  # Read in relevant year's csv file from 1-UnclearData
+  # Read in relevant year's csv from 3-GoeocodedDatasets
+  unclear_data <- read.csv(paste0("1-UnclearData/uncleardata-", year, ".csv"))
+  geocoded_data <- read.csv(paste0("3-GeocodedDatasets/data-", year, ".csv"))
+  data <- rbind(unclear_data, geocoded_data)
+  write.csv(data, paste0("4-FullVerifiedDatasets/data-", year, ".csv"), row.names = FALSE)
+}
+create_full_verified_datasets(2003)
 
 add_unique_id_to_csv_files <- function(folder_path = "4-FullVerifiedDatasets") {
   # List all CSV files in the folder
@@ -59,10 +68,6 @@ add_unique_id_to_csv_files <- function(folder_path = "4-FullVerifiedDatasets") {
 
 # Example usage
 add_unique_id_to_csv_files()
-
-
-
-
 
 merge_csv_files_into_dataframe <- function(folder_path = "4-FullVerifiedDatasets") {
   # List all CSV files in the folder
@@ -111,3 +116,14 @@ amend.status.col <- function(df) {
 
 merged_df <- amend.status.col(merged_df)
 unique(merged_df$status)
+
+save_merged_df <- function(df, csv_path = "data.csv", rds_path = "data.rds") {
+  # Write the dataframe to a CSV file
+  write.csv(df, csv_path, row.names = FALSE)
+
+  # Write the dataframe to an RDS file
+  saveRDS(df, rds_path)
+}
+
+# Example usage
+save_merged_df(merged_df)
